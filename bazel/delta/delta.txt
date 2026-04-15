@@ -1788,7 +1788,7 @@ debamboozle
 dinitril
 debarbarization
 dilation
-desmoscolex
+desmoscolex 1
 dilemma
 debark
 dropseed
