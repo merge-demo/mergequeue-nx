@@ -6893,7 +6893,7 @@ dealbation
 desolateness
 deadheading
 desolates
-desolating
+desolating 1
 doffers
 drabber
 diabasic
