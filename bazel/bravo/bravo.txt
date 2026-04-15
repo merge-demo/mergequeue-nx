@@ -12476,7 +12476,7 @@ bdls
 betaines
 brawniness
 bondstone
-burntness
+burntness 1
 bather
 bagpiped
 buphthalmos
