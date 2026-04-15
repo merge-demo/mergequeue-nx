@@ -1993,7 +1993,7 @@ epigastriocele
 epitritic
 equiparable
 effetman
-exorcisory
+exorcisory 1
 encyclopedist
 electrine
 edward
