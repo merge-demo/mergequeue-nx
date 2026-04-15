@@ -19549,7 +19549,7 @@ anesthesiant
 asynchronous
 aramayoite
 accede
-adjacency
+adjacency 1
 ariana
 alifs
 antinationalistically
