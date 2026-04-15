@@ -12369,7 +12369,7 @@ deflexion
 demasculinized
 dwarfishly
 decolorised
-depone
+depone 1
 deepening
 decempartite
 didymiums 1
