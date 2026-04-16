@@ -8277,7 +8277,7 @@ gladii
 graphophone
 grossulariaceae
 graphophonic
-gasteria
+gasteria 1
 graphoscope
 glycoprotein
 grinderies 1
