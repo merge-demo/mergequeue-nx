@@ -1823,7 +1823,7 @@ epithalamy
 ergatogyny
 ectepicondylar
 elbow
-exopodite
+exopodite 1
 eigenvalues
 eudemony
 evaginated
