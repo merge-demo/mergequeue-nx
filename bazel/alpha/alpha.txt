@@ -1827,7 +1827,7 @@ aceraceous
 acerae
 arcual
 angling
-acerate
+acerate 1
 acerated
 acceptancies
 antistater
