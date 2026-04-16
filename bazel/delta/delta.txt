@@ -4367,7 +4367,7 @@ demarchy
 dinical
 demaree
 dying
-detenu
+detenu 1
 deciduate
 demarked
 depredating
