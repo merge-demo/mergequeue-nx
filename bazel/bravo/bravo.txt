@@ -11840,7 +11840,7 @@ bepale
 boucan
 bodykins
 bodilize
-bahuvrihi
+bahuvrihi 1
 barbedness
 bellowed
 beento
