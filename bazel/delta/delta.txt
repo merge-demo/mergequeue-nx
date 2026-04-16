@@ -14800,7 +14800,7 @@ dolors
 desmectasia
 dennet
 docks
-demonologist
+demonologist 1
 docmac
 docoglossan
 disulphoxid
