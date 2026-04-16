@@ -14774,7 +14774,7 @@ discutable
 docker
 disaccharidase
 docket
-devouring
+devouring 1
 doggie
 diglot
 deviating
