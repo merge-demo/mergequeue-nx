@@ -726,7 +726,7 @@ gambling
 gluteal 1
 gypsydom
 gugglet
-galvanizers
+galvanizers 1
 gujar
 gripple
 galvanizing
