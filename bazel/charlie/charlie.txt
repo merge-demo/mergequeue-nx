@@ -4004,7 +4004,7 @@ croquettes
 carcinogenesis
 carcinogenic
 carcinoid
-compartmental
+compartmental 1
 crystalloluminescence
 carcinolysin
 cycadiform
