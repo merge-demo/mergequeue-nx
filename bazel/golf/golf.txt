@@ -1051,7 +1051,7 @@ gerardias
 gorgonin
 gompholobium
 ganglioid
-ganglioma
+ganglioma 1
 gangliomas
 ganglionate
 ganglionated
