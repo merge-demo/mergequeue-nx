@@ -10580,7 +10580,7 @@ concremation
 celebrator
 chillroom
 chills
-chillsome
+chillsome 1
 countermove
 chouka
 chemolytic
