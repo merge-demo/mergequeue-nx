@@ -24571,7 +24571,7 @@ auxotroph
 auxotrophy
 avadana
 absinthiate
-armorist
+armorist 1
 anchietine
 agedly
 aimable
