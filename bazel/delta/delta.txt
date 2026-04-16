@@ -10336,7 +10336,7 @@ dioptometer
 deoxidized
 disnature
 denudation
-deducement
+deducement 1
 desilverizer
 downtrends
 delightsomeness
