@@ -2322,7 +2322,7 @@ busyish
 blatancies
 bromite
 briber
-barbita
+barbita 1
 barbital
 brighteners
 barbiton
