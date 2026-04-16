@@ -1244,7 +1244,7 @@ calefactories
 calefy
 caprice
 cumulostratus
-camporees
+camporees 1
 celibatist
 contender
 cauliferous
