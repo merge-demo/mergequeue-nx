@@ -131,7 +131,7 @@ assertive
 antiphrasis
 archaeographic
 awesomeness
-aspidoganoidei
+aspidoganoidei 1
 aulostoma
 abasic
 anachueta
