@@ -10110,7 +10110,7 @@ cyrtosis
 coauthorship
 chevachee
 chevage
-careened
+careened 1
 columnwise
 cheval
 chevalet
