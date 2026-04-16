@@ -8854,7 +8854,7 @@ disproportionates
 digressing
 dixit
 debilissima
-dibhole
+dibhole 1
 dioptry
 dualized
 diborate
