@@ -9101,7 +9101,7 @@ charro
 concional
 cicatrize
 chylocaulous
-coagulin
+coagulin 1
 controversional
 charruas
 cloamer
