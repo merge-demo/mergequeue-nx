@@ -156,7 +156,7 @@ emargination
 envoys
 exorcise
 expired
-effervescent
+effervescent 1
 erotopath
 enunciations
 earthly
