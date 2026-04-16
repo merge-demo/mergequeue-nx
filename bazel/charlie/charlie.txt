@@ -27443,7 +27443,7 @@ chlorosulphonic
 curupira
 cousinry
 cousinries
-cousinship
+cousinship 1
 centricalness
 coustumier
 combativity
