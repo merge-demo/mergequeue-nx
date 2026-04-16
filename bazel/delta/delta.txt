@@ -9298,7 +9298,7 @@ defilading
 dog
 diethylstilboestrol
 dekaliters
-disploded
+disploded 1
 deobstruent
 dietic
 decolorant
