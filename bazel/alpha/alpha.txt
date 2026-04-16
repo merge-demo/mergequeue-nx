@@ -21885,7 +21885,7 @@ agleam
 antithesize
 averring
 admonitive
-assister
+assister 1
 assistful
 acalycine
 argillite
