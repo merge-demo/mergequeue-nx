@@ -17851,7 +17851,7 @@ blockheadedly
 burundians
 burushaski
 ballistocardiogram
-bus
+bus 1
 busaos
 bloodleaf
 bine
