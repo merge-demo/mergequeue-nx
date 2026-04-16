@@ -14605,7 +14605,7 @@ devs
 divort
 deconsecration
 dietarily
-desulfovibrio
+desulfovibrio 1
 disillusionary
 diarrheas
 duodenectomy
