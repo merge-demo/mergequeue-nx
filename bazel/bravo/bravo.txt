@@ -6235,7 +6235,7 @@ biuret
 bosporus
 blastogenesis
 bubas
-blatantly
+blatantly 1
 brush
 braceleted
 bimodulus
