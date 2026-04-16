@@ -6293,7 +6293,7 @@ ginzoes
 grege
 gerahs
 genistein
-gullable
+gullable 1
 gobies
 guiser
 gallify
