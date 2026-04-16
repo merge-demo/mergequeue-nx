@@ -9751,7 +9751,7 @@ ferijee
 frequentest
 foraminifer
 feldspar
-functionalities
+functionalities 1
 frapp
 fallacies
 falchion
