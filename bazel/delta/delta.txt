@@ -12558,7 +12558,7 @@ defies
 divertible
 disingenuousness
 dicaryophase
-detonator
+detonator 1
 disinheritable
 diuturnity
 disinheritance
