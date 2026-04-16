@@ -784,7 +784,7 @@ antiscia
 abitibi
 abridgement
 abridger
-anapeiratic
+anapeiratic 1
 acurative
 afternote
 argles
