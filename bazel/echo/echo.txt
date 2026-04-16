@@ -4323,7 +4323,7 @@ enacture
 exfodiation
 egranulose
 empowering
-extraterritoriality
+extraterritoriality 1
 enterable
 endothelioid
 entrenches
