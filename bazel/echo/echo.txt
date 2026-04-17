@@ -4262,7 +4262,7 @@ escambio
 emulousness
 eaux
 eumeristic
-expolish
+expolish 1
 expendible
 expressways
 equidiagonal
