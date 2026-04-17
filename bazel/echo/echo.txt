@@ -8565,7 +8565,7 @@ etheriform
 equatorwards
 excessmen
 ectomeric
-ecalcarate
+ecalcarate 1
 equestrian
 epigeous
 exceptant
