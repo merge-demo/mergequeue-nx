@@ -6700,7 +6700,7 @@ ceylonite
 ceils
 compound
 counterquestion
-coathangers
+coathangers 1
 colligation
 ceinture
 ceyx
