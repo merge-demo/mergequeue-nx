@@ -9107,7 +9107,7 @@ charruas
 cloamer
 charshaf
 charsingha
-curvacious
+curvacious 1
 container
 charta
 curialities
