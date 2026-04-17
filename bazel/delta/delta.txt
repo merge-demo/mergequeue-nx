@@ -317,7 +317,7 @@ daybill
 downcomer
 disinteress
 dourine
-dalasi
+dalasi 1
 daybooks
 deckman
 desand
