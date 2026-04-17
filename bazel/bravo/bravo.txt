@@ -9971,7 +9971,7 @@ bivariant
 baddock
 bivascular 1
 bismuthyl
-binodous
+binodous 1
 brahmic
 berbery
 barrenness
