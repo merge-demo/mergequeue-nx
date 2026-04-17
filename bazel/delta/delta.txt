@@ -6730,7 +6730,7 @@ designable
 doughfoot
 dhutis
 dissolutions
-designates
+designates 1
 dacron
 dimedone
 dispeopled
