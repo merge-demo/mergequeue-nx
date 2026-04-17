@@ -2062,7 +2062,7 @@ echoencephalography
 encouragingly
 elaic
 enteroplegia
-elaioplast
+elaioplast 1
 elamite
 elamitish
 episcope
