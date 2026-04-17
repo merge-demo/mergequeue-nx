@@ -5102,7 +5102,7 @@ dissimulates
 disterr
 destitute
 deperition
-ductings
+ductings 1
 dravya
 dipsomania
 dafla
