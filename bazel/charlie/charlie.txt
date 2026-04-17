@@ -20593,7 +20593,7 @@ competitive
 competitiveness
 competitor
 competitory
-conjugal
+conjugal 1
 cascol
 competitors
 challengee
