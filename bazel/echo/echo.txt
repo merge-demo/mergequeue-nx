@@ -11023,7 +11023,7 @@ eurypterus
 emption
 eclectism
 eurite
-ethered
+ethered 1
 echinostomatidae
 elemol
 elapoid
