@@ -15336,7 +15336,7 @@ dissimilatory
 diploglossata
 decarboxylate
 dromic
-devoutlessly
+devoutlessly 1
 dedignation
 displeasureable
 descendability
