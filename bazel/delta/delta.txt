@@ -6721,7 +6721,7 @@ desiderative
 drunkard
 disorderliness
 darnex
-diatribes
+diatribes 1
 desiderta
 diptycas
 desidiose
