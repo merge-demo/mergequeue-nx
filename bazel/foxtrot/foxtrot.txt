@@ -5553,7 +5553,7 @@ ferdiad 1
 fleecer
 fatal
 foraminiferous
-flirtish
+flirtish 1
 flexuously
 fram
 fluffiest
