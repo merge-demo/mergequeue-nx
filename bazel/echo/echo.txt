@@ -1393,7 +1393,7 @@ enneastylos
 epeidia
 epilaryngeal
 effigurate
-eubranchipus
+eubranchipus 1
 efflagitate
 epitympanic
 eugubium
