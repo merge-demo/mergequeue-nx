@@ -9190,7 +9190,7 @@ goniometrically
 grippiest
 grill
 granulating
-grippiness
+grippiness 1
 gratulatory
 glycolytically
 guanajuatite
