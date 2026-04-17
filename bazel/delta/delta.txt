@@ -8250,7 +8250,7 @@ ductus 1
 distrito
 diagnosed
 diagnostical
-diagnostically
+diagnostically 1
 disenthroned
 diagnosticate
 denitrating
