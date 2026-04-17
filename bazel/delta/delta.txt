@@ -17102,7 +17102,7 @@ dehydrated
 duller
 disgown
 debouching
-divestiture
+divestiture 1
 drawknot
 defectiveness
 deceleron
