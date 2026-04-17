@@ -3234,7 +3234,7 @@ esotery
 extraschool
 eluctate
 elude
-equant
+equant 1
 eludes
 educive
 extroversively
