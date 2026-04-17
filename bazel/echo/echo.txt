@@ -1866,7 +1866,7 @@ epexegesis
 epicentra
 expletives
 executrix
-eimak
+eimak 1
 exulted
 eulima
 euphonious
