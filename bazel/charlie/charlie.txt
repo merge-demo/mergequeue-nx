@@ -1216,7 +1216,7 @@ commoditable
 clobbering
 chiding
 causativeness
-cestuses
+cestuses 1
 cecily
 caledonite
 clape
