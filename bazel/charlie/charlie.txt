@@ -27368,7 +27368,7 @@ colonise
 cetacean
 cloacal
 congee
-chartographer
+chartographer 1
 courteousness
 courtepy
 courter
