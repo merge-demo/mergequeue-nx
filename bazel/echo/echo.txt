@@ -1272,7 +1272,7 @@ eeliest
 epiky
 estotiland
 embowl
-exploringly
+exploringly 1
 escaloping
 eneugh 1
 evangelistically
