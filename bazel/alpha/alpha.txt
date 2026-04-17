@@ -22926,7 +22926,7 @@ avowedness
 atremata
 applaudable
 atrematous
-apprentices
+apprentices 1
 arachnids
 anatoxins
 ahriman
