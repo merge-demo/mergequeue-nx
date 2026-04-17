@@ -1767,7 +1767,7 @@ anemia
 apochromatic
 acedy
 acedias
-abbreviature
+abbreviature 1
 agalloch
 astigmia
 ammonitiferous
