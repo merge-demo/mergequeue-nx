@@ -2122,7 +2122,7 @@ decametric
 decanal
 decancellate
 dominator
-decancellated
+decancellated 1
 disciplinarian
 debaser
 decipher
