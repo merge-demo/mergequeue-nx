@@ -1841,7 +1841,7 @@ eyeglasses
 enginous
 electroballistic
 errableness
-enigmatical
+enigmatical 1
 eared
 eighties
 exhalable
