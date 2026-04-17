@@ -19750,7 +19750,7 @@ combure
 comburent
 comburgess
 cochleitis
-capturer
+capturer 1
 corotation
 caesiums
 chromatism
