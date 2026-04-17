@@ -1854,7 +1854,7 @@ debilitative
 dermatoglyphics
 devirginator
 debitum
-declaratory
+declaratory 1
 douvecot
 dorsale
 deblai
