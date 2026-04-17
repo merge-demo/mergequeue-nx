@@ -20,7 +20,7 @@ entradas
 enravished
 euthytropic 1
 electrobiologist
-eagerness
+eagerness 1
 ephraitic
 exemplificational
 excusableness
