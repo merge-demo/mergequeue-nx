@@ -8269,7 +8269,7 @@ fructuose
 forgettably
 fixers
 faverole
-fractionalizing
+fractionalizing 1
 friction
 forging
 furacity
