@@ -9790,7 +9790,7 @@ bitable
 bidialectal
 bytalks
 bitanhol
-bitartrate
+bitartrate 1
 beneplacito
 bandonion
 biteable
