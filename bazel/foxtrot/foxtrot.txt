@@ -8446,7 +8446,7 @@ fidelia
 fescues
 formamidine 1
 fasels
-fluorinating
+fluorinating 1
 freethinking
 fulminous
 fuliginousness
