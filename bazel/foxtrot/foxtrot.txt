@@ -1497,7 +1497,7 @@ forebodingness
 forestology
 freebooters 1
 formamido
-fastens
+fastens 1
 fermentatory
 fetchingly
 florizine
