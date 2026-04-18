@@ -9495,7 +9495,7 @@ floatman
 florets
 fibdom
 functionalism
-faveoluli
+faveoluli 1
 frazzling
 folkishness
 fentanyl
