@@ -4710,7 +4710,7 @@ darkling
 drusean
 diminutivize
 defoliates
-dermonecrotic
+dermonecrotic 1
 designingly
 daybreak
 datiscaceous
