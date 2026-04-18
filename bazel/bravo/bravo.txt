@@ -6447,7 +6447,7 @@ bisulcate 1
 bulldogged
 biostratigraphy
 borderings
-bergmannite
+bergmannite 1
 bilati
 beothukan
 bellicose
