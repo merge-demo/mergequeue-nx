@@ -3879,7 +3879,7 @@ carbonimide
 choultries
 contrastimulant
 costaea
-chinkle
+chinkle 1
 criminalness
 centrosymmetry
 crankles
