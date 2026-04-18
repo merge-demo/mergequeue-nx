@@ -11250,7 +11250,7 @@ chloridic
 chloridized
 collochemistry
 chemotropism
-compaternity
+compaternity 1
 carlin
 chlorimeter
 chlorimetric
