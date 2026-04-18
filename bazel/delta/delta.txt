@@ -9428,7 +9428,7 @@ diner
 destructors
 diether 1
 disenroll
-disheathing
+disheathing 1
 dehematize
 digamy
 disobeyal
