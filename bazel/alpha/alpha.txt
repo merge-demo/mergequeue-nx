@@ -14795,7 +14795,7 @@ anticensorship
 anticentralization
 automanual
 autoindex
-acceptancy
+acceptancy 1
 archgomeral
 arthrocele
 anticeremoniously
