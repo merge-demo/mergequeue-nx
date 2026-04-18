@@ -3630,7 +3630,7 @@ caracolite 1
 caracolled
 caracoller
 cosmopolitanize
-colarin
+colarin 1
 coosify
 chivied
 caracolling
