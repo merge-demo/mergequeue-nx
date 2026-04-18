@@ -11086,7 +11086,7 @@ diabolisation
 drakonite
 determinateness
 disapprovals
-demagog
+demagog 1
 disapproves
 disillusioned
 doppelkummel
