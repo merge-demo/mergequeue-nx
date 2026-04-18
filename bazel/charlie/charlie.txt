@@ -4296,7 +4296,7 @@ capiteaux
 camauros
 centroidal
 carfuffling
-carful
+carful 1
 congregationalize
 carga
 cargadores
