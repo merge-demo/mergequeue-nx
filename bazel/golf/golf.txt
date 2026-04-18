@@ -10061,7 +10061,7 @@ guerites 1
 gage
 graveolency
 gravedigger
-gelofer
+gelofer 1
 gimmal
 gyneconitis
 grabens
