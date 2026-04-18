@@ -9545,7 +9545,7 @@ compathy
 checkrope
 cumulant
 conoy
-checkrowed
+checkrowed 1
 checkrower
 checkrowing
 consummatively
