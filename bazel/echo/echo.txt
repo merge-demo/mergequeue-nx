@@ -8690,7 +8690,7 @@ externalize
 exconjugant
 endostyle
 epicoeliac
-epulotic
+epulotic 1
 equiprobably
 equiproportional
 equiproportionality
