@@ -6058,7 +6058,7 @@ bunton
 boyishly
 bumfeg
 bituminization
-bequeathable
+bequeathable 1
 becowarded
 berat
 basketful
