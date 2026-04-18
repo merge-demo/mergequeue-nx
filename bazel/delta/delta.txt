@@ -3768,7 +3768,7 @@ decaudate
 dioptometry
 doughlike
 dehorted
-defatigate
+defatigate 1
 dehorting
 digitoxin
 decompensation
