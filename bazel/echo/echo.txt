@@ -13275,7 +13275,7 @@ electrohomeopathy
 earner
 eolation
 eyeshield
-exploded
+exploded 1
 englifier
 empierce
 endophragm 1
