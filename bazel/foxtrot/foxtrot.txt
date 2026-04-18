@@ -6771,7 +6771,7 @@ folacin
 falsidical
 foibles
 finder
-farls
+farls 1
 flukiest
 falciform
 fass
