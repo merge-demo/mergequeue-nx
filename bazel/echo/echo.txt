@@ -11251,7 +11251,7 @@ earflower
 endostraca
 enamor
 emigre
-enthronized
+enthronized 1
 evangelistic
 epidictical
 exserts
