@@ -13042,7 +13042,7 @@ cyanotic
 chatting
 cyanotype
 cyanuramide
-coefficiently
+coefficiently 1
 cyanuric
 cyanurin
 chowsing
