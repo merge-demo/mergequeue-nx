@@ -13540,7 +13540,7 @@ arrendator
 assonant
 anacardiaceae
 atwain
-allo
+allo 1
 announce
 anthropophagical
 announced
