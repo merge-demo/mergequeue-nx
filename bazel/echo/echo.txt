@@ -7138,7 +7138,7 @@ electrophysiologically
 epithesis
 energic
 envious
-expelling
+expelling 1
 embryomata
 ensophic
 epicyesis
