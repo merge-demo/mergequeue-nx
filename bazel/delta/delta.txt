@@ -8839,7 +8839,7 @@ donzella
 dybbuks
 diabolo
 disjuncture
-dibenzoyl
+dibenzoyl 1
 depilator
 detriments
 dialyzable
