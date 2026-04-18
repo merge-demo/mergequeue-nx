@@ -5308,7 +5308,7 @@ amortization
 affixed
 apophantic
 andantinos
-androsin
+androsin 1
 affixers
 affixes
 afterpiece
