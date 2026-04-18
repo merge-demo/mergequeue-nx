@@ -5221,7 +5221,7 @@ cellulosed
 cliftonite
 casketed
 caskets
-credens
+credens 1
 casky
 clearer
 casking
