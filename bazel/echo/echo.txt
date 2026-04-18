@@ -2866,7 +2866,7 @@ emasculator
 eventognath
 exsuscitate 1
 eleutherian
-epidemicalness
+epidemicalness 1
 eleutherios
 estuarian
 elytriferous
