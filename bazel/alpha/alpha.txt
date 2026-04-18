@@ -22252,7 +22252,7 @@ ariette
 astonishment
 altrices
 astoop
-abjoint
+abjoint 1
 amorphy
 aerated
 anticlassicist
