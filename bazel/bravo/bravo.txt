@@ -12393,7 +12393,7 @@ bonaire
 bonang
 brontothere
 bonapartism
-bigotries
+bigotries 1
 brothy
 betterly
 brum
