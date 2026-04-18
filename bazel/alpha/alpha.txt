@@ -9056,7 +9056,7 @@ allowable
 antemarital
 animant
 ancylostome
-allowableness
+allowableness 1
 alkalises
 ammonoid
 allowed
