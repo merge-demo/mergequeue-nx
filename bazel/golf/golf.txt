@@ -4202,7 +4202,7 @@ gene
 graphomania
 grandfather
 gnathopod
-gosmore
+gosmore 1
 glotum
 gatchwork
 greying
