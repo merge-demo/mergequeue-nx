@@ -19302,7 +19302,7 @@ colonised
 colonising
 colonist
 colonizable
-colonize
+colonize 1
 comminating
 courted
 colonnade
