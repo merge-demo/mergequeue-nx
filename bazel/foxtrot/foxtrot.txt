@@ -8626,7 +8626,7 @@ flukeless
 functionate
 fingerfishes
 faddishly
-feelers
+feelers 1
 felt
 fearfully
 fibromucous
