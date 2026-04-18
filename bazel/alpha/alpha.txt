@@ -17488,7 +17488,7 @@ appareling
 apparency
 apparentements
 airify
-anoxyscope
+anoxyscope 1
 apparently
 apparitional
 aira
