@@ -12674,7 +12674,7 @@ benthamite
 boogies
 biotechnology
 bordures
-bubbles
+bubbles 1
 bulbine
 burlecue
 bieennia
