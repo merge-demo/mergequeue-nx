@@ -8904,7 +8904,7 @@ gressorial
 grieving 1
 glauconitic
 ghostified 1
-griquaite
+griquaite 1
 glomerella
 goniopholidae
 gentman
