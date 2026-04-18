@@ -7034,7 +7034,7 @@ donkeys
 despose
 deformed
 despotat
-demographer
+demographer 1
 decede
 dissentiate
 destress
