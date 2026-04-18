@@ -10553,7 +10553,7 @@ chiller
 confessionary
 comino
 corporational
-cotwist
+cotwist 1
 chillest
 cystocarpic
 chilli
