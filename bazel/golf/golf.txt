@@ -10583,7 +10583,7 @@ garnisher
 grilly
 gymnogene
 geologic
-gelds
+gelds 1
 gens
 greaser
 grandisonian
