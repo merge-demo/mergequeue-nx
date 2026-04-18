@@ -365,7 +365,7 @@ galactosis
 grimsire
 gastrodynia
 gauric
-glovelike
+glovelike 1
 galactotrophy
 goodhumoredness
 grandeeism
