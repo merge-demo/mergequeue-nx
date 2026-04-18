@@ -196,7 +196,7 @@ gastronomic
 gaggery
 greenage
 gambone
-gloxinias
+gloxinias 1
 goaler
 genuinely
 grummer
