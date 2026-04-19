@@ -12941,7 +12941,7 @@ cyanamid
 conspires
 coextension
 chipling
-coaxially
+coaxially 1
 cyanate
 cyanates
 cyaneous
