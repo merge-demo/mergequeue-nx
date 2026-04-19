@@ -9834,7 +9834,7 @@ chemigraphy
 chemigraphic
 caudotibialis
 chemiloon
-chemiluminescence
+chemiluminescence 1
 chemiotactic
 chemiotaxic
 carvone
