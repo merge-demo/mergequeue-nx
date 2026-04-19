@@ -15527,7 +15527,7 @@ almshouse
 appendicularian
 aramidae
 antimonarchally
-auxochromic
+auxochromic 1
 armchaired
 anthracnose
 abstracted
