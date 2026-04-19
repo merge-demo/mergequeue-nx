@@ -9545,7 +9545,7 @@ alchemistry 1
 ammocetes
 anoegenetic
 altimetrically
-abadite
+abadite 1
 arrives
 aortotomy
 acousmas
