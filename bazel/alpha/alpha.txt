@@ -18292,7 +18292,7 @@ austenitize
 aracana
 anarthria
 aracanga
-antefebrile
+antefebrile 1
 arach
 arachidic
 autotomised
