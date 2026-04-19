@@ -15448,7 +15448,7 @@ antimechanism 1
 antimechanistic
 apocopic
 aureolae
-antimechanistically
+antimechanistically 1
 aircrew
 antimechanization
 antimediaevalist
