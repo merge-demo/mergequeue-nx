@@ -12780,7 +12780,7 @@ disloyalties
 dislove
 dandlingly
 delimiters
-desirously
+desirously 1
 decompressive
 deblocking
 dunk
