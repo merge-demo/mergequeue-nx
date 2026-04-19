@@ -19841,7 +19841,7 @@ chamaedaphne
 cohibitive
 comfily
 cuspidation
-comfiness
+comfiness 1
 coulometrically
 comfit
 comfiture
