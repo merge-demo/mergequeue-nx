@@ -18244,7 +18244,7 @@ chemicovital
 coffeehouse
 coffeehouses
 coffeeman
-classico
+classico 1
 coffeepots
 colloidize
 coffeeroom
