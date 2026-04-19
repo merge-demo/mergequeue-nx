@@ -5622,7 +5622,7 @@ catalonian
 crispened
 cataloon
 catalos
-catalufa
+catalufa 1
 catalufas
 catamarcan
 cd
