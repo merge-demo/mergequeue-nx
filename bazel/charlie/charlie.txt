@@ -11854,7 +11854,7 @@ coxalgia
 choragion
 choristers
 calashes
-chorai
+chorai 1
 choral
 choralcelo
 causeway
