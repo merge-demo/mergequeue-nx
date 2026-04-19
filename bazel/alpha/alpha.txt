@@ -4917,7 +4917,7 @@ antinaturalistic
 accessit
 abductors
 airplaning
-alomancy
+alomancy 1
 amoretti
 anticommercialness
 aerograph
