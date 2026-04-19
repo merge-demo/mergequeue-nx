@@ -4855,7 +4855,7 @@ geoffroyin
 generalidad
 gritter
 gunnel
-gnomonics
+gnomonics 1
 gleg
 gigantize
 greenings
