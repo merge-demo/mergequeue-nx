@@ -14276,7 +14276,7 @@ demarcature
 dithyrambs
 dithyrambus
 dominicker
-denotationally
+denotationally 1
 dytiscid
 daubier
 dytiscus
