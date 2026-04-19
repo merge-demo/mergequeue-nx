@@ -5023,7 +5023,7 @@ fiddlewood
 filet
 fluctuable
 faceable
-frowsier
+frowsier 1
 feathers
 faineantise
 falsificate
