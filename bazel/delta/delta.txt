@@ -2460,7 +2460,7 @@ decipherability
 dooryards
 dand
 doctrinarily
-deucing
+deucing 1
 disintegrative
 decipherably
 damgalnunna
