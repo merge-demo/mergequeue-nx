@@ -4696,7 +4696,7 @@ aegicrania
 aegilops
 abolishing
 aegina
-aeginetan
+aeginetan 1
 aegipan 1
 agonisingly
 aegisthus

@@ -905,7 +905,7 @@ gez
 gelatinizability
 genome
 guahivo
-genteeler
+genteeler 1
 gaverick
 geld
 guna
