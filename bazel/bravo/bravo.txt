@@ -11650,7 +11650,7 @@ boatmen
 boats
 boatsetter
 bisymmetric
-badju
+badju 1
 boatsteerer
 biracialism
 buddies
