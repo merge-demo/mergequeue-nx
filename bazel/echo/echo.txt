@@ -10698,7 +10698,7 @@ erebus
 euglenoid
 electrotypic
 evenworthy
-ecossaise
+ecossaise 1
 egosyntonic
 etiquet
 endfile
