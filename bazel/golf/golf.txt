@@ -8640,7 +8640,7 @@ guttered
 grip
 gladdy
 grantee
-greaseproofness
+greaseproofness 1
 gastronomical
 gests
 grizzliness
