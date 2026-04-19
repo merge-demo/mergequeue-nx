@@ -25919,7 +25919,7 @@ cordula
 corticifugally
 catchier
 corticine
-corticipetal
+corticipetal 1
 collegiate
 corticium
 corticoafferent

@@ -7313,7 +7313,7 @@ flushermen
 fumitory
 favelloid
 fleeched
-foaminess
+foaminess 1
 ferromolybdenum
 fixation
 foraying
