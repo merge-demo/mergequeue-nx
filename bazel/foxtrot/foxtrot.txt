@@ -10010,7 +10010,7 @@ flatwork
 fantod
 flavoury
 flor
-fryer
+fryer 1
 foollike
 flans
 fringehead
