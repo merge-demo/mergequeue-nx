@@ -11925,7 +11925,7 @@ ephidrosis
 excerebration
 extraphysical
 endemiology
-eudaemonistically
+eudaemonistically 1
 excursory
 equiradical
 excess
