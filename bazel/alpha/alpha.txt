@@ -20712,7 +20712,7 @@ articulates
 ashlering
 affrap
 anamnesis
-articulations
+articulations 1
 articulative
 anteroventrally
 alody 1
