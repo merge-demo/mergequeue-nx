@@ -16816,7 +16816,7 @@ clownship
 crinkle
 cymtia
 cataclysms
-clubable
+clubable 1
 charleston
 citrul
 caprifoliaceous
