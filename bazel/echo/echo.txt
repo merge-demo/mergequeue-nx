@@ -5259,7 +5259,7 @@ epoptes
 endophagous
 ephebeion
 episiocele
-expungers
+expungers 1
 endophyllum
 exospherical
 embarcadero
