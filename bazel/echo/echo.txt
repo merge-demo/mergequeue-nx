@@ -5619,7 +5619,7 @@ engendrure
 edenization
 ethiopia
 euthanatize
-evibrate
+evibrate 1
 enhedge
 enfolders
 epimacus
