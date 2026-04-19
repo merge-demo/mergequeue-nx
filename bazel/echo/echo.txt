@@ -3385,7 +3385,7 @@ encyclopaedial
 embannered
 emetine 1
 equivokes
-eremopteris
+eremopteris 1
 ethanethiol
 electrotechnics
 embarge
