@@ -1471,7 +1471,7 @@ envelop
 enfarce
 euxanthate
 euhemerism
-efforts
+efforts 1
 effraction
 eighths
 etymologised
