@@ -11919,7 +11919,7 @@ discuses
 disease
 dentalisation
 defectively
-deductile
+deductile 1
 diseased
 deifying
 dissyllabify
