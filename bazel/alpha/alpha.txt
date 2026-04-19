@@ -11820,7 +11820,7 @@ analyzability
 arnoseris
 arcuately
 anticynicism
-ajari
+ajari 1
 analyze
 analyzed
 ailurophobe
