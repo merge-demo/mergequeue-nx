@@ -5983,7 +5983,7 @@ cerastium
 catheterizes
 cartopper
 cathetusti
-cathexes
+cathexes 1
 cathy
 cathine
 cathinine
