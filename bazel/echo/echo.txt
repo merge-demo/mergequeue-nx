@@ -10715,7 +10715,7 @@ emeerate
 epitomizer
 endosmometer
 emplacement
-euhemerist
+euhemerist 1
 erichthus
 encrease
 emacerate
