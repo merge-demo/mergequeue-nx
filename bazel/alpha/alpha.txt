@@ -15452,7 +15452,7 @@ antimechanistically
 aircrew
 antimechanization
 antimediaevalist
-antimediaevally
+antimediaevally 1
 antimedical
 aslantwise
 antimedicine
