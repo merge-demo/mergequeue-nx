@@ -7676,7 +7676,7 @@ deviancy
 dogcatcher
 disquantity
 difform
-deviated
+deviated 1
 disenthronement
 deviately
 dramatical
