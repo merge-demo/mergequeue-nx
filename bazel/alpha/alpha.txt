@@ -10533,7 +10533,7 @@ annelides
 agua
 assimilator
 apollonia
-auguration
+auguration 1
 aniellidae
 aristides
 antihypnotic
