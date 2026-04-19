@@ -8320,7 +8320,7 @@ dapper
 duskly
 diapausing
 dyakish
-dg
+dg 1
 dialcohol
 dialect
 doomsman
