@@ -28933,7 +28933,7 @@ cribbing
 compensating
 cribbings
 cribbiting
-cholericly
+cholericly 1
 criticist
 cribellum
 cribose
