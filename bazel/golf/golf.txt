@@ -4151,7 +4151,7 @@ gymnasts
 gibbi
 grahamism
 gigback
-glottal
+glottal 1
 ginkgoaceous
 gasan
 goetic
