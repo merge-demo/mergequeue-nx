@@ -11625,7 +11625,7 @@ diapnoe
 defectionist
 discontinuities
 dicatalexis
-discontinuously
+discontinuously 1
 drop
 discontinuousness
 disconula
