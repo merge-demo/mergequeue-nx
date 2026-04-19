@@ -10193,7 +10193,7 @@ executives
 ethernet
 extrahazardous
 emancipation
-escrowed
+escrowed 1
 emmarbled
 electrotelegraphic
 escargotieres
