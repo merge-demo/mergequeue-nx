@@ -6979,7 +6979,7 @@ echinodermata
 eugenesic
 electrophototherapy
 epipodiale
-excipular
+excipular 1
 eying
 epistolar
 endostylic
