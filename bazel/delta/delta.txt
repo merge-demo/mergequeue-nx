@@ -254,7 +254,7 @@ daggles
 dassie
 dochmiasis
 duckweeds
-daggling
+daggling 1
 daghesh
 deoxyribonuclease
 dappling
