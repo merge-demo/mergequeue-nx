@@ -1030,7 +1030,7 @@ etatisme
 earhole
 elaterist
 edentalous
-edentata
+edentata 1
 egesting
 epinicion
 ethyls
