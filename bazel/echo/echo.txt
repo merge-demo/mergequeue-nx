@@ -3437,7 +3437,7 @@ ennuyant
 ecalcavate
 errand
 exolete
-exemplar
+exemplar 1
 ecliptic
 embatholithic
 enfiladed
