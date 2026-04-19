@@ -13491,7 +13491,7 @@ eucalypti
 equianharmonic
 egocentricities
 edge
-erk
+erk 1
 epifolliculitis
 ectocondyloid
 editing
