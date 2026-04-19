@@ -16848,7 +16848,7 @@ acromonogrammatic
 aphthong
 arkite
 admittedly
-apyrene
+apyrene 1
 anaerobe
 apiaca
 ambushlike
