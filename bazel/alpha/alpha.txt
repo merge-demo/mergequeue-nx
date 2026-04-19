@@ -624,7 +624,7 @@ abolished
 aves
 acacetin
 amatols
-atelomitic
+atelomitic 1
 abolishers
 astigmatism
 alastrim
