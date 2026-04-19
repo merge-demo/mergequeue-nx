@@ -2904,7 +2904,7 @@ aubrietas
 anguilliform
 alvus
 allege
-ameristic
+ameristic 1
 alice
 assaultive
 autotuberculin
