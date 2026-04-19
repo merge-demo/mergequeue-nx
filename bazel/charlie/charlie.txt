@@ -8209,7 +8209,7 @@ chakdar
 cymbling
 callower
 chakobu
-chakram
+chakram 1
 carpentry
 chaksi
 chal
