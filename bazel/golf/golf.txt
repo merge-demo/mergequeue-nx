@@ -2084,7 +2084,7 @@ gyrocompasses
 gringos
 guilefully
 gawgaw
-goldenseal
+goldenseal 1
 gillian
 governments
 gubbertush
