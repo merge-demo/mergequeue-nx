@@ -20137,7 +20137,7 @@ anodon
 arraigned
 aerosats
 allenarly
-allocutive
+allocutive 1
 alpines
 allolalic
 acanthodini
