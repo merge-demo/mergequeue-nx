@@ -22969,7 +22969,7 @@ argyraspides 1
 asquat
 archaical
 atriplex
-atrypoid
+atrypoid 1
 assimilation
 antigovernment
 atriums
