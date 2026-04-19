@@ -18376,7 +18376,7 @@ digmeat
 duodenostomy
 deceptiously
 deuteroconid 1
-dihalo
+dihalo 1
 dabbles
 disintrench
 decontrols
