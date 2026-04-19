@@ -1481,7 +1481,7 @@ euphonia
 equisetums
 enplaning
 encompasses
-eurythermous
+eurythermous 1
 electivism
 electroshocks
 exposal
