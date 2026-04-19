@@ -3709,7 +3709,7 @@ glumelike
 ghostish
 gelatigenous
 gracilescent
-gussying
+gussying 1
 guppy
 glossiphonia
 gadgeteer
