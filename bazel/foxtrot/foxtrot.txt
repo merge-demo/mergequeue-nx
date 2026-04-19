@@ -11134,7 +11134,7 @@ formylated
 forumize
 foreallot
 fanega
-freeings
+freeings 1
 faiences
 fiats
 frumperies
