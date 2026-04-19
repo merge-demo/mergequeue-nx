@@ -13666,7 +13666,7 @@ epithem
 elfic
 encomiendas
 eject
-enphytotic
+enphytotic 1
 endorsors
 erratum
 epistolizable
