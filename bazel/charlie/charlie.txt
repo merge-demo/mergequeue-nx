@@ -1700,7 +1700,7 @@ calorimetrical
 calorimetrically
 calorimotor
 calorist
-calorizing
+calorizing 1
 cawing
 calosoma
 calotermes
