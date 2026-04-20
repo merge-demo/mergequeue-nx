@@ -7556,7 +7556,7 @@ aswoon
 abolitionise
 acetal 1
 aquamanale
-artificiality
+artificiality 1
 amphipodal
 amercer
 alcahests
