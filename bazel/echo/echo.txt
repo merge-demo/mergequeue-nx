@@ -11242,7 +11242,7 @@ epithetize
 englyns
 eely
 exceptionably
-effulgently
+effulgently 1
 excisemanship
 enclothe
 evangelistary
