@@ -2360,7 +2360,7 @@ excrementitial
 excrete
 espaliering
 encore
-encomia
+encomia 1
 evenlong
 electrocataphoresis
 equison
