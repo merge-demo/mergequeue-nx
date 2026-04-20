@@ -22988,7 +22988,7 @@ admirative
 awls
 affectless
 aphonics
-atrociously
+atrociously 1
 abysmally
 atrocities
 atrolactic
