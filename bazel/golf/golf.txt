@@ -4609,7 +4609,7 @@ giornata
 guarantees
 glycerizin 1
 griotte
-gufought
+gufought 1
 gloggs
 galbulae
 galipoipin
