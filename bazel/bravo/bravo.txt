@@ -5574,7 +5574,7 @@ bouleuterion
 borons
 beknighted
 ballistite
-beknotted
+beknotted 1
 burrio
 brassicaceous
 beknottedly
