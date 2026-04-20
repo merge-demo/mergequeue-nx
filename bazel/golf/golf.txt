@@ -10574,7 +10574,7 @@ grecoue
 giftedly
 gurmukhi
 goffering
-gneissitic
+gneissitic 1
 gatewoman
 grenadiership 1
 grommets 1
