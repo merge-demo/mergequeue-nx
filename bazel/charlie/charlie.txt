@@ -16622,7 +16622,7 @@ cimaroon
 clewed
 clos
 clodknocker
-curiologic
+curiologic 1
 closable
 closeable
 closecross
