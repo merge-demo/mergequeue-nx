@@ -14776,7 +14776,7 @@ disaccharidase
 docket
 devouring
 doggie
-diglot
+diglot 1
 deviating
 dodd
 docketing
