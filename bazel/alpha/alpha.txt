@@ -15479,7 +15479,7 @@ apselaphesia
 antimetrical
 autoeciousness
 antimetropia
-antimetropic
+antimetropic 1
 antimycotic
 argyric
 achage
