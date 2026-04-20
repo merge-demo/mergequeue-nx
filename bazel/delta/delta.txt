@@ -13184,7 +13184,7 @@ dhava
 dongolas
 diazole
 dovetailed
-demoralize
+demoralize 1
 dysplasia
 demonish
 determination
