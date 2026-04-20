@@ -3277,7 +3277,7 @@ clingier
 crayfishing
 corregimiento
 capitoline
-capitolium
+capitolium 1
 crabbit
 capitula
 crumbiest
