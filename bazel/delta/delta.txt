@@ -8464,7 +8464,7 @@ dibutyl
 didymis
 diamat
 dermochrome
-diambic
+diambic 1
 diamegnetism
 diazepam
 diamesogamous
