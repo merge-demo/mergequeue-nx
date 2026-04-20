@@ -5361,7 +5361,7 @@ casteisms
 concessive
 casteless
 chifforobes
-chimerical
+chimerical 1
 citator
 chuckie
 castellany
