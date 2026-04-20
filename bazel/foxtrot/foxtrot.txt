@@ -1450,7 +1450,7 @@ fetched
 fatuoid
 fatuus
 frankly
-fairtime
+fairtime 1
 fantasie
 filago
 fireside
