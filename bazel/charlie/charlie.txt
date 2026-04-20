@@ -8916,7 +8916,7 @@ coyotero
 chrysophanus
 crenelet
 concisest
-cystose
+cystose 1
 concyclic
 charco
 charcoal
