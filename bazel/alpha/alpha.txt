@@ -8663,7 +8663,7 @@ alleys
 alephzero
 afrasian 1
 automatonlike
-alleyway
+alleyway 1
 alchitran
 abled
 attractancy
