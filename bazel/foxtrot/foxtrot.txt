@@ -8742,7 +8742,7 @@ forehands
 flavonols
 fortuitous
 furrieries
-flote
+flote 1
 faussebraie
 fala
 frizzled
