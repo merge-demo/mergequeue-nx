@@ -7432,7 +7432,7 @@ eternalizing
 eperua
 embitters
 enworthed
-epistrophe
+epistrophe 1
 elevate
 ensilability
 ecphorize
