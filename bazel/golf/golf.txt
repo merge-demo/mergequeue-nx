@@ -6857,7 +6857,7 @@ gonorrhoeal
 gremmie
 gobonee
 gnomonic
-gloryingly
+gloryingly 1
 gypsied
 glauconite
 granulomas
