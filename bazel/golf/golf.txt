@@ -7239,7 +7239,7 @@ gesticulative 1
 gratuitousness
 guarani
 gimblet
-guarneri
+guarneri 1
 gavages
 grievously
 gorillian
