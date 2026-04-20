@@ -1135,7 +1135,7 @@ grammatolatry
 glycerophosphate
 gemmiferous
 gestura
-geneura
+geneura 1
 gerontocracies
 gallnut
 galyac
