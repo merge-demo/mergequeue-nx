@@ -14446,7 +14446,7 @@ denies
 dindymene
 divertibility
 diverticle
-daibutsu
+daibutsu 1
 disguisedness
 disruptment
 diverticulitis
