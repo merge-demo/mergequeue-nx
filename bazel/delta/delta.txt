@@ -12827,7 +12827,7 @@ dithalous
 disman
 dismantles
 darksome
-dishevelment
+dishevelment 1
 dyarchic
 dirhem
 dismarket
