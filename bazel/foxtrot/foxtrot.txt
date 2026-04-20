@@ -3015,7 +3015,7 @@ foreordained
 flirts
 flaggelation
 forbs
-furiousness 1
+furiousness 2
 fossiform
 faintheartedness
 filmiform
