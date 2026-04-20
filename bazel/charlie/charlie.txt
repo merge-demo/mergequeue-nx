@@ -31553,7 +31553,7 @@ cycliae
 curt
 curtailed
 curtailedly
-curtailing
+curtailing 1
 cursores
 curtails
 cubistic
