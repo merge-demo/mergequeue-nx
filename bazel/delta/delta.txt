@@ -3164,7 +3164,7 @@ dissimulated
 drouths
 dryness
 defeats
-deathroot
+deathroot 1
 defeature
 debted
 daribah
