@@ -17527,7 +17527,7 @@ burdenless
 bakuninism
 blasty
 bookrest
-burdenous
+burdenous 1
 bleep
 bulbocapnine
 bides
