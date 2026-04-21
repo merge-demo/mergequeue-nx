@@ -10333,7 +10333,7 @@ decumary
 delf
 discounter
 dioptometer
-deoxidized
+deoxidized 1
 disnature
 denudation
 deducement
