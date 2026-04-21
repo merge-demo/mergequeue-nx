@@ -6446,7 +6446,7 @@ egestion
 exsanguinate
 egbert
 eucryphiaceous
-eastern
+eastern 1
 epithetician
 equatorial
 epeirogenetic
