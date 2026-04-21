@@ -17719,7 +17719,7 @@ dicarbonate
 dubiety
 demutization
 dubio
-devot
+devot 1
 diene
 discoloredness
 discriminateness
