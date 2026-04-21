@@ -5384,7 +5384,7 @@ crinicultural
 cinemograph
 corncob
 conchfishes
-crummies
+crummies 1
 cibolan
 corv
 casters
