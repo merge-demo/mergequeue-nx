@@ -22920,7 +22920,7 @@ consignataries
 counterretreat
 comforting
 chromosomic
-consigned
+consigned 1
 consignee
 consignify
 cantorous
