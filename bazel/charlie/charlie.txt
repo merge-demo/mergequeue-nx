@@ -29917,7 +29917,7 @@ chipper
 crossings
 crossite
 contriteness
-cinnamenyl
+cinnamenyl 1
 crosslegs
 complainer
 captived
