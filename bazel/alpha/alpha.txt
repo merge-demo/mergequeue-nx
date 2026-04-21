@@ -2857,7 +2857,7 @@ aceratherium
 acronymic
 antiliturgic
 akvavits
-autostylic
+autostylic 1
 autarchical
 agonium
 apium
