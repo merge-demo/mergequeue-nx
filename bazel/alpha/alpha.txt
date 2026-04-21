@@ -1263,7 +1263,7 @@ acarophobia
 acarotoxic
 arcturus
 aerognosy
-australopithecine
+australopithecine 1
 ails
 antifoggant
 acarpelous
