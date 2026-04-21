@@ -9011,7 +9011,7 @@ erythremia
 entertainer
 erythric
 eteocretes
-edriophthalma
+edriophthalma 1
 erythrite
 emaciating
 enfeeblement
