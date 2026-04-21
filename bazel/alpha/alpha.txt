@@ -9022,7 +9022,7 @@ algebraized
 aminobenzine
 allotments
 allotransplantation
-anapsidan
+anapsidan 1
 aden
 autarkically
 actinoids
