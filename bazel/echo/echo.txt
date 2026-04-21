@@ -11917,7 +11917,7 @@ eightfoil
 engore
 euploeinae
 ectoderms
-emotionalist
+emotionalist 1
 enragement
 earthenware
 expurgation
