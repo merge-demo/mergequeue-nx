@@ -8110,7 +8110,7 @@ dichogamic
 dinosaurs
 diabetometer
 dandyprat
-demetallize
+demetallize 1
 demineralize
 denominative
 dwarfling
