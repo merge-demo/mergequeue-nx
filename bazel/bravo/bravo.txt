@@ -9024,7 +9024,7 @@ bize
 bitentaculate
 busheler
 barbershop
-burnouts
+burnouts 1
 boldface
 brev
 biophagism
