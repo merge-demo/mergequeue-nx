@@ -5034,7 +5034,7 @@ enders
 expelled
 evangelistics
 endgate
-enneads
+enneads 1
 extorsively
 emplane
 executant
