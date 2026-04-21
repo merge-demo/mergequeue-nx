@@ -3287,7 +3287,7 @@ acutilingual
 axal
 acutilobate
 arterioarctia
-acutiplantar
+acutiplantar 1
 autoluminescence
 acrylate
 assassin
