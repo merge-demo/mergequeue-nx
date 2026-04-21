@@ -3275,7 +3275,7 @@ daughterliness
 dockhead
 disburdening
 domesticate
-defiber
+defiber 1
 deionized
 duodecillionth
 doublethought
