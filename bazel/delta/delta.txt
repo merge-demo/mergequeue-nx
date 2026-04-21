@@ -10304,7 +10304,7 @@ darks
 draftmanship
 dighting
 deans
-draughting
+draughting 1
 dames
 dionysia
 dionysiac
