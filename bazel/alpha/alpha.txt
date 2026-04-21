@@ -14706,7 +14706,7 @@ ageism
 antibacchii
 antibacchius
 amphitricha
-antibacterial
+antibacterial 1
 anaglyptograph
 antiballooner
 artisanry
