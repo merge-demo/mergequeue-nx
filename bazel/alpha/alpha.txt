@@ -15587,7 +15587,7 @@ altrose
 approves
 assumpt
 antimoralistic
-accrescence
+accrescence 1
 antimorality
 amalgamations
 armory
