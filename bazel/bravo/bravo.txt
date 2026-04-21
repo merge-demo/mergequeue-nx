@@ -8408,7 +8408,7 @@ bilalo
 bacony 1
 beaverette
 bocage
-balolo
+balolo 1
 bleareye
 bittium
 bilaminar
