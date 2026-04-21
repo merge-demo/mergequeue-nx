@@ -21023,7 +21023,7 @@ curvedness
 catenaries
 consolidate
 compunctionless
-cyanean
+cyanean 1
 crofterize
 considerer
 carouser
