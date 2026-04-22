@@ -6084,7 +6084,7 @@ exposer
 evenhandedly
 eluant
 enfever 1
-edinburgh
+edinburgh 1
 escheated
 enlaurel
 emancipatist
