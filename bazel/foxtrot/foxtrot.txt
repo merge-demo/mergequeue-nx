@@ -6433,7 +6433,7 @@ foreship
 frivoled
 frogeye
 fluoaluminate
-fainted
+fainted 1
 frictionable
 flatcap
 fairs
