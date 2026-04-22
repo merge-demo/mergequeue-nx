@@ -2228,7 +2228,7 @@ equiprobable
 encrisp
 eldest
 effigiated
-eventuate
+eventuate 1
 engulfment
 eldrich
 eldritch
