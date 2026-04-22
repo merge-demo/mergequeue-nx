@@ -2660,7 +2660,7 @@ flashy
 frump
 feckulence
 ferter
-felliducous
+felliducous 1
 fittyways
 flamb
 fertile
