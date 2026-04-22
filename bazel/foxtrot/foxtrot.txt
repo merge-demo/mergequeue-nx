@@ -1232,7 +1232,7 @@ formene
 fiends
 furbishment
 flagellosis
-fortuning
+fortuning 1
 foredeem
 frizzily
 filipendula
