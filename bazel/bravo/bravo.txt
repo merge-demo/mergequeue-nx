@@ -14621,7 +14621,7 @@ bitterns
 brantails
 barricado
 bedcord
-brantle
+brantle 1
 bacteriologic
 bibliomanism
 brantness
