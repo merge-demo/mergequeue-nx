@@ -1149,7 +1149,7 @@ fatally
 fearbabe
 feebleminded
 feller
-figeaters
+figeaters 1
 flyblows
 footy
 fets
