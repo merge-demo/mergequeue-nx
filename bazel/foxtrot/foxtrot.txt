@@ -10493,7 +10493,7 @@ frillery
 favouringly
 frot
 froth 1
-formulatory
+formulatory 1
 fanman
 fittingly
 forays
