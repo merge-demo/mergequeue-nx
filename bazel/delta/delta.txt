@@ -1816,7 +1816,7 @@ duyker 1
 doggoned
 daggerlike
 debate
-disemboguing
+disemboguing 1
 delusterant
 distortionist
 demology
