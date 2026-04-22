@@ -15028,7 +15028,7 @@ anametadromous
 achondroplasia
 antigyrous
 anticryptic
-aglossate
+aglossate 1
 airbus
 anlage
 anosphresia
