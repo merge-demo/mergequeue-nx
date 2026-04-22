@@ -14206,7 +14206,7 @@ antennal
 achech
 argalas
 autolavage
-appliableness
+appliableness 1
 admissible
 avion
 asylums
