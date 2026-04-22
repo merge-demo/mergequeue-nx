@@ -7955,7 +7955,7 @@ complaintful
 conventionalisation
 catheter
 cetraric
-celeriacs
+celeriacs 1
 cetrarin
 coenoecial
 cacotrichia
