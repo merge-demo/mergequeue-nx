@@ -1601,7 +1601,7 @@ floppies
 faffle
 funambulo
 functionating
-fallalery
+fallalery 1
 faniente
 favouring
 footroom
