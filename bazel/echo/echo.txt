@@ -6960,7 +6960,7 @@ empt
 enounces
 entozoologically
 entrain
-enantiomorphy
+enantiomorphy 1
 elicitate
 embrocado
 entraining
