@@ -7113,7 +7113,7 @@ centiloquy
 casziel
 canton
 caliculus
-centimetre
+centimetre 1
 cashmerette
 centimetres
 cullion
