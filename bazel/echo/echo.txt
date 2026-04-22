@@ -2585,7 +2585,7 @@ enhaloed
 eliasite
 embryonate
 epitomising
-electronically
+electronically 1
 exclaimed
 ecad
 encyclopaedian
