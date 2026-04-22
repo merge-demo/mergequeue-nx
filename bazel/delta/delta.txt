@@ -12980,7 +12980,7 @@ deuteranopia
 designers
 despisal
 dimout
-dauntless
+dauntless 1
 depredicate
 darya
 dinoceratidae
