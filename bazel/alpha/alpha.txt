@@ -3376,7 +3376,7 @@ adamsia
 adiathermanous
 adamsites
 appeasableness
-adapt
+adapt 1
 apeman
 airmarker
 adjustability
