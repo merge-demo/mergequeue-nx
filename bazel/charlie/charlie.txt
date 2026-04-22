@@ -25487,7 +25487,7 @@ centrosymmetric
 chastens
 cervicohumeral
 contradictions
-corollarial
+corollarial 1
 corollarially
 callionymus
 corollaries
