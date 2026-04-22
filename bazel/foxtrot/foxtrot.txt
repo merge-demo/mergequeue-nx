@@ -416,7 +416,7 @@ forthon
 flouting
 frows
 foredesk
-fusetron
+fusetron 1
 festive
 familiariser
 flints
