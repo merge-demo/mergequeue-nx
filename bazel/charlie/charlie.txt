@@ -28251,7 +28251,7 @@ crashes
 conventically
 crashing
 crashingly
-crashproof
+crashproof 1
 crashworthiness
 changable
 craspedal
