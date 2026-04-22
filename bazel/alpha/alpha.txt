@@ -3925,7 +3925,7 @@ adjudicative
 aerostats
 antistrophically
 adjudicators
-aversely
+aversely 1
 agonied
 aphidian
 alarmed
