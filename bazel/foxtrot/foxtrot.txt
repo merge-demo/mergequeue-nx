@@ -7198,7 +7198,7 @@ ficoides
 forearming
 farer
 frockless
-frisesomorum
+frisesomorum 1
 filthless
 frecked
 fortnight
