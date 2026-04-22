@@ -6240,7 +6240,7 @@ dermatagra
 dermatophagus
 dermatotropic
 desiccator
-dizaine
+dizaine 1
 dermatatrophia
 dammer 1
 discretely
