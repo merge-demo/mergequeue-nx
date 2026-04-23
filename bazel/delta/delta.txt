@@ -4290,7 +4290,7 @@ digallate
 designatory
 delustering
 deceleration
-delved
+delved 1
 dermatopathology
 demimillionaire
 dysarthria
