@@ -2400,7 +2400,7 @@ aedes
 academicianship
 acipenserine
 antihemisphere
-acipenseroid
+acipenseroid 1
 artistdom 1
 acipenseroidei
 archpapist
