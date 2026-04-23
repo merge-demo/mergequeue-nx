@@ -5427,7 +5427,7 @@ disordained 1
 deltidial
 dissolves
 diplomatics
-disc
+disc 1
 denuder
 dermolysis
 douched
