@@ -6567,7 +6567,7 @@ descrive
 descure
 dabchick
 desecrater
-duckfooted
+duckfooted 1
 duet
 dermol
 danburite
