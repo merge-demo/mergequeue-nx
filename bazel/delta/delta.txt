@@ -6765,7 +6765,7 @@ doubly
 disuniters
 decollating
 delate
-deceased
+deceased 1
 desilt
 disregular
 deerweeds

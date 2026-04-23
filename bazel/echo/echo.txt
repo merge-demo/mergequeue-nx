@@ -1320,7 +1320,7 @@ effectors
 effectress
 encapsulate
 elengeness
-ennuied
+ennuied 1
 effects
 enlarge
 edified
