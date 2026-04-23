@@ -16755,7 +16755,7 @@ distal
 draughtboard
 daub
 draughtier 1
-divulsive
+divulsive 1
 decastylos
 darg
 disseminule
