@@ -2448,7 +2448,7 @@ diparentum
 danization
 dendritiform
 denizenize
-disimprisonment
+disimprisonment 1
 dissipable
 dietetist
 dolently
