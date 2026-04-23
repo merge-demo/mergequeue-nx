@@ -4809,7 +4809,7 @@ detournement
 deux
 dishing
 distemperedness
-diffusively
+diffusively 1
 demolish
 detrained
 dazzlingly

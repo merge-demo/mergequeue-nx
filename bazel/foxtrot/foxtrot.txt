@@ -2373,7 +2373,7 @@ falconiformes
 frogling
 feudist
 fibrocrystalline
-francic
+francic 1
 freeloving
 fenchol
 futures
