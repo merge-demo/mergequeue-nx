@@ -8126,7 +8126,7 @@ glyoxalin
 gobs
 genically
 gorsedd
-galactic
+galactic 1
 grimed
 gibsons
 gastrolavage
