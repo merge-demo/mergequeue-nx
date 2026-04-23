@@ -25,7 +25,7 @@ cardplaying
 chertiest
 cabalisms
 crackerberries
-cereus
+cereus 1
 caragheen
 castratory
 cnicus
