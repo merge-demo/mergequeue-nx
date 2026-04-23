@@ -4912,7 +4912,7 @@ carsickness
 caviteno
 carrottop
 carstone
-cart
+cart 1
 counterpoising
 cartable
 cartaceous
