@@ -130,7 +130,7 @@ debilitations
 dyspathetic
 demiurgus
 descendental
-dingier
+dingier 1
 deadcenter
 drumsticks
 drawbench
