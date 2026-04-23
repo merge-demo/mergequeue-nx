@@ -948,7 +948,7 @@ calorically
 canterburies
 calaboose
 cycloidei
-canelle
+canelle 1
 calabrian
 calabrians
 calabur
