@@ -330,7 +330,7 @@ elfship
 euboic
 eastling
 escapee
-eruditionist
+eruditionist 1
 escots
 engaze
 eastman
