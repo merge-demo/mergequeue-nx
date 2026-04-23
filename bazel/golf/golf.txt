@@ -8927,7 +8927,7 @@ galesaur
 gaffe
 gigi
 gladelike
-grandiloquous
+grandiloquous 1
 gwag
 globy
 galvanising
