@@ -5839,7 +5839,7 @@ emulatory
 efficace
 electrovalency
 exfoliation
-erlkings
+erlkings 1
 epicele
 expiations
 extrinsic
