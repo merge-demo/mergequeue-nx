@@ -4283,7 +4283,7 @@ earjewel
 eremital
 encephaloscopy
 emulsions
-equidistantial
+equidistantial 1
 emacerated
 effluxes 1
 emphasise
