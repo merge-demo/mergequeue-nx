@@ -18552,7 +18552,7 @@ aedoeology
 amaga
 achaemenid
 aelodicon
-anthrone
+anthrone 1
 arales
 arbuscular
 ademonist
