@@ -20307,7 +20307,7 @@ chanst
 citrullin
 communiques
 coupling
-communis
+communis 1
 carpeted
 communise
 crofting
