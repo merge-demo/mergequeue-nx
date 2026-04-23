@@ -2989,7 +2989,7 @@ geographies
 grievers
 galliardness
 geoids
-gloriole
+gloriole 1
 gendered
 galatine
 ghetti
