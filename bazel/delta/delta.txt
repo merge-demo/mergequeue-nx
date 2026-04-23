@@ -6206,7 +6206,7 @@ describably
 demising
 daredevil
 ditted
-decemvir
+decemvir 1
 derivativeness
 dacoit
 derivedness
