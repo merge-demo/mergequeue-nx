@@ -3103,7 +3103,7 @@ defalcated
 diethyltryptamine
 digraphs
 depleting
-describable
+describable 1
 dialecticize
 dinornithic
 defalcating
