@@ -1371,7 +1371,7 @@ flaxdrop
 filecard
 flenser
 fatiscent 1
-fullword
+fullword 1
 filicology
 fishboat
 fatly
