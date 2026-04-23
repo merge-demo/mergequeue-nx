@@ -26996,7 +26996,7 @@ cartilaginean
 compartmentize
 counterpaned
 counterparry 1
-counterpart
+counterpart 1
 counterpassant
 counterpendent
 culpa
