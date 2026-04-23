@@ -10471,7 +10471,7 @@ forcite
 frostbitten
 frosty
 feuillet
-fantasticality
+fantasticality 1
 frostily
 fluorate
 forwearying
