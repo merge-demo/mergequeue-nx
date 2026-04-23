@@ -9770,7 +9770,7 @@ avocatory
 abandonedly
 amalekite
 albertina
-appanages
+appanages 1
 amalfitan
 amalgam
 ammochaetae
