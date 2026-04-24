@@ -2972,7 +2972,7 @@ gasaliers
 goluptious
 graben
 glutinousness
-geyseric
+geyseric 1
 gastrotheca
 glitterance
 geogeny
