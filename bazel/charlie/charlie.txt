@@ -29749,7 +29749,7 @@ croodle
 challenged
 cheder
 colpheg
-confessory
+confessory 1
 crookbacked
 crookbill 1
 castral
