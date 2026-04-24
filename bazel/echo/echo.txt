@@ -8312,7 +8312,7 @@ eluxate 1
 ependytes
 embrown
 epigyny
-epistemic
+epistemic 1
 epitheliolytic
 egyptians
 estragole
