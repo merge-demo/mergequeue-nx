@@ -5068,7 +5068,7 @@ fowler
 fitches
 fluorescence
 faky
-flapping
+flapping 1
 folders
 fessely
 flumps
