@@ -507,7 +507,7 @@ dalle
 diamylene
 desmotropic
 dividing
-dalliances
+dalliances 1
 dallied
 discomforter
 disenthralling
