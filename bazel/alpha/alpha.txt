@@ -14082,7 +14082,7 @@ astur
 amphisbaenic
 ablegation
 anapests
-academize
+academize 1
 antedorsal
 anaesthyl
 archaeolatry
