@@ -2226,7 +2226,7 @@ feudee
 freshmanhood
 fikie
 fiscus
-firebombs
+firebombs 1
 fuliguline
 flatcars
 fructosan
