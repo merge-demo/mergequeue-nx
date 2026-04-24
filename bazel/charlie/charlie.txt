@@ -15528,7 +15528,7 @@ clasmatosis
 cuitle
 clasped
 cinevariety
-clasper
+clasper 1
 claspers
 claspt
 classable
