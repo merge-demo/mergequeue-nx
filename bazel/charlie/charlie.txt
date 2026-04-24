@@ -23266,7 +23266,7 @@ consul
 consulage
 coloclysis
 chirurgical
-concertizes
+concertizes 1
 cynaraceous
 consulate
 charley
