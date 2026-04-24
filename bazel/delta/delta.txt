@@ -15828,7 +15828,7 @@ deluge
 dissertations
 demidome
 dumbstruck
-dorsimeson
+dorsimeson 1
 devolatilization
 disyllabize
 deducibly
