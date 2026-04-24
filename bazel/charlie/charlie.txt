@@ -26207,7 +26207,7 @@ coryphodont
 cosphered
 cosplendor
 caeciliae
-cantharidean
+cantharidean 1
 confectioners
 chapatis
 cosplendour
