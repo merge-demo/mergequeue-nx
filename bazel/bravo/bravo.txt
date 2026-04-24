@@ -9025,7 +9025,7 @@ bitentaculate
 busheler
 barbershop
 burnouts
-boldface
+boldface 1
 brev
 biophagism
 biophilous 1
