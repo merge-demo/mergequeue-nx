@@ -19512,7 +19512,7 @@ acanthuses
 antimediaeval
 argots
 allianced
-arguable
+arguable 1
 arguably
 avoiders
 aecidiaceae
