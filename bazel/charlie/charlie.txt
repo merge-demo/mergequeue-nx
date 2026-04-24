@@ -14529,7 +14529,7 @@ cystectasia
 contestate
 campout
 chaptalizing
-cnidophore
+cnidophore 1
 cysted
 cysteinic
 cysteins
