@@ -6131,7 +6131,7 @@ alois
 aglypha
 analogal
 articular
-asymtotically
+asymtotically 1
 aglyphodont
 algodonite
 awaken
