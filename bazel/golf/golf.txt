@@ -5348,7 +5348,7 @@ guanidine
 glegly
 galactosemia
 gulfier
-galvanoplastical
+galvanoplastical 1
 glyconic
 grandiloquently
 glycopeptide
