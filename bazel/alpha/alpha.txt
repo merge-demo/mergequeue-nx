@@ -19161,7 +19161,7 @@ antipolo
 aggravated
 antispastic
 adjiger
-allentiac
+allentiac 1
 arthropoda
 accessorized
 arctan
