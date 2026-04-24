@@ -9322,7 +9322,7 @@ azoerythrin
 alpenglow
 amputations
 alpenstock
-alpenstocks
+alpenstocks 1
 alpestrine
 aircraft
 atomiferous
