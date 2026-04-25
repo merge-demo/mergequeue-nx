@@ -6025,7 +6025,7 @@ electricalness
 embolomerism
 electrodynamism
 exhortative
-estampedero
+estampedero 1
 erosion
 ejects
 earns
