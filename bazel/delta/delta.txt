@@ -18287,7 +18287,7 @@ dialyzability
 demijohn
 demiourgoi 1
 dingledangle
-disintegration
+disintegration 1
 dunner
 delicts
 davenports
