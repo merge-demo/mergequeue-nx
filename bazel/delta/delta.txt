@@ -2161,7 +2161,7 @@ decalcomanias
 decapodal
 dawn
 draggletailedly
-del
+del 1
 ditheistic
 dehydration
 drowsing
