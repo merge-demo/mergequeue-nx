@@ -3893,7 +3893,7 @@ enfeebled
 eclipsis
 eyeletting
 executers
-endodontic
+endodontic 1
 emigration
 egressive
 equivote
