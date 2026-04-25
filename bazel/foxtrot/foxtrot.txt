@@ -3835,7 +3835,7 @@ fairyism
 fluoridisation
 flebotomy
 forestaves
-faut
+faut 1
 fazendeiro
 freewheeler
 flutes
