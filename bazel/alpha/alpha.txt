@@ -8634,7 +8634,7 @@ adjudicatory
 avizandum
 asterias
 accentuates
-antiexpressiveness
+antiexpressiveness 1
 antibishop
 agametes
 autistic
