@@ -1846,7 +1846,7 @@ flaccid
 feloid
 febrile
 forrue
-fcs
+fcs 1
 fibrinogenically
 fluidizer
 farthermore
