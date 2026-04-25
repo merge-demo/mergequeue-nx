@@ -4848,7 +4848,7 @@ absterse
 aleut
 antipopery
 affirmativeness
-anatolic
+anatolic 1
 aspidobranchia
 asideness
 archisupreme
