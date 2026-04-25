@@ -14683,7 +14683,7 @@ dieselize
 disagrees
 debauchee
 dolent
-djuka
+djuka 1
 diaskeuast
 dk
 dkg
