@@ -195,7 +195,7 @@ deforesting
 debitumenize
 dealfish
 daemons
-daemonurgist
+daemonurgist 1
 defecant
 dak
 deemstership
