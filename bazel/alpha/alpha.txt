@@ -23483,7 +23483,7 @@ augmentable
 acopic
 archdruid
 argol
-atumble
+atumble 1
 annotine
 augmentedly
 architraves
