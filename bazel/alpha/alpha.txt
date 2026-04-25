@@ -5038,7 +5038,7 @@ archboutefeu 1
 aeroscepsy
 achromatizing
 archaeology
-anciennete
+anciennete 1
 aurum
 altumal
 athletically
