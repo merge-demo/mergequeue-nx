@@ -21752,7 +21752,7 @@ condoner
 condoners
 cypriotes
 condones
-clematis
+clematis 1
 conspiringly
 chemospheric
 circumscriptly
