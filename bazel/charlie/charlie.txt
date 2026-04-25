@@ -1905,7 +1905,7 @@ cambresine
 cuir
 calumnia
 cambric
-cartonnage
+cartonnage 1
 cambricleaf
 colobus
 curs
