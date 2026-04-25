@@ -22029,7 +22029,7 @@ caesalpiniaceous
 confiteor
 comparts
 confix
-confixing
+confixing 1
 carf
 conflagration
 conflagrations
