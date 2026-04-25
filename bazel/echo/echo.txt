@@ -2293,7 +2293,7 @@ endolymph
 excretal
 eger
 encased
-egest
+egest 1
 ester
 equality
 enleagued
