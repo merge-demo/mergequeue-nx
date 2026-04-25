@@ -30074,7 +30074,7 @@ cellule
 conversational
 chattanoogan
 crowbait
-centuriate
+centuriate 1
 crowbar
 curlings
 cliffy
