@@ -13088,7 +13088,7 @@ cyberneticist
 cybernetics
 cybernion
 cibol
-conjugacy
+conjugacy 1
 cibola
 cibolero
 cibols
