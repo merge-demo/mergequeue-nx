@@ -20592,7 +20592,7 @@ arthrodirous
 aery
 atlantes
 architricline
-anurous
+anurous 1
 arthrodonteae
 avicularium
 alteza
