@@ -23702,7 +23702,7 @@ contrafissura
 contrafissure
 cruciform
 contragredience
-contragredient
+contragredient 1
 contrayerva
 certes
 contraindicant
