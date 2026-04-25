@@ -11531,7 +11531,7 @@ defter
 dunciad
 dovewood
 discommendation 1
-dheneb
+dheneb 1
 dedanim
 deaner
 dallyingly
