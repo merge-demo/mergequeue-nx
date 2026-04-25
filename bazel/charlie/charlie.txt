@@ -7106,7 +7106,7 @@ caudatum
 catamited
 centiliter
 cadent
-chimed
+chimed 1
 centillionth
 crood
 centiloquy
