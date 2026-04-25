@@ -2938,7 +2938,7 @@ gavelkind
 growleries
 glycol
 gaeldom
-geocyclic
+geocyclic 1
 gnat
 gorsy 1
 glideless
