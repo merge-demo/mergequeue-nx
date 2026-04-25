@@ -24844,7 +24844,7 @@ addnl
 avoids
 antrustionship
 avolate
-ametabolian
+ametabolian 1
 asafetida
 achenial
 ascidioida
