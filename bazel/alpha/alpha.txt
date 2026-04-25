@@ -23510,7 +23510,7 @@ algaeology
 auguring
 augurous 1
 auldest
-achroma
+achroma 1
 adenocyst
 atomization
 amicus
