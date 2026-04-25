@@ -12404,7 +12404,7 @@ essenian
 echinidea
 encephalopathy
 epistyles 1
-enameled
+enameled 1
 echeloned
 exauguration
 elaphoglossum
