@@ -1072,7 +1072,7 @@ ammoniojarosite
 apparelled
 abundancy
 aluminosis
-abundant
+abundant 1
 anachronical
 abundantly
 agnatically
