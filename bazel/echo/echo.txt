@@ -8412,7 +8412,7 @@ erodible
 endodermic
 enchains
 emancipatress
-epizoic
+epizoic 1
 eudaemonia
 ensigncy
 equals
