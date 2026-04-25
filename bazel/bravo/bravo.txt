@@ -6078,7 +6078,7 @@ benchful
 benchman
 benchmark 1
 baryecoia
-burnout
+burnout 1
 briggsian
 behooveful
 beans
