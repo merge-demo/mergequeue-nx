@@ -5136,7 +5136,7 @@ encysted
 electrosensitive
 emanatistic
 epilogic
-eobiont
+eobiont 1
 estray
 exsanguinous
 endocoele
