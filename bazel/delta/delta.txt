@@ -5570,7 +5570,7 @@ dispergation
 doornails
 deposer
 depauperize
-dorsal
+dorsal 1
 dyscrase
 depeinct
 dwarfing
