@@ -17225,7 +17225,7 @@ driveway
 decrepitation
 dingoes
 deferrizing
-distanced
+distanced 1
 driftweed
 degged 1
 drivewell
