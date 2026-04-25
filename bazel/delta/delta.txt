@@ -14740,7 +14740,7 @@ divorcements
 dochmiacal
 dispossessor
 desirefulness
-direx
+direx 1
 demiwivern
 dinheiro
 denticular
