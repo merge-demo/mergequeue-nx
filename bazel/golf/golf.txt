@@ -944,7 +944,7 @@ gillnetted
 galactically
 gainsaid
 garrottes
-gnathonically
+gnathonically 1
 goldenlocks
 gopher
 gumwood
