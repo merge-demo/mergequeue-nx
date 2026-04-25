@@ -7172,7 +7172,7 @@ aphizog
 alabastrian
 alabastrine
 aortographic
-ascenders
+ascenders 1
 awane
 apogees
 acidness
