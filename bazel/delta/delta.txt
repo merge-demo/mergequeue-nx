@@ -16514,7 +16514,7 @@ diomedes
 disjuncts
 dictated
 dehydrofreezing
-dethroning
+dethroning 1
 dibblers
 draftiest
 disobeyer
