@@ -1644,7 +1644,7 @@ daydrudge
 dealkylate
 daundered
 disassembler
-deallocate
+deallocate 1
 deobstruct
 devotional
 daunter
