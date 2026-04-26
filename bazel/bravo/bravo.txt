@@ -1900,7 +1900,7 @@ bandoleers
 bivalent
 birny
 bandolerismo
-buckayros
+buckayros 1
 bandoleros
 barouche
 bandor
