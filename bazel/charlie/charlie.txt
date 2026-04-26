@@ -14197,7 +14197,7 @@ circumcises
 circumcission
 circumcolumnar
 circumcone
-coenduring
+coenduring 1
 coreplasty
 cotheorist
 circumdenudation
