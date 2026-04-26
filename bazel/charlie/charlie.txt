@@ -27289,7 +27289,7 @@ countrywoman
 clap
 countrywomen
 chymification
-countship
+countship 1
 coupage
 coupe
 couped
