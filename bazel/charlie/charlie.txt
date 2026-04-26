@@ -28941,7 +28941,7 @@ cribrate
 cribriform
 cribriformity
 convertaplane
-cribs
+cribs 1
 conelike
 cribworks
 cardinalate
