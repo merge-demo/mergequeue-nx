@@ -3345,7 +3345,7 @@ epicnemial
 elaeodendron
 erythrin
 euphroe 1
-equiangular
+equiangular 1
 emphemeralness
 expensefully
 endodermis
