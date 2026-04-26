@@ -11791,7 +11791,7 @@ ekphore
 epimerise
 extrospective
 exorcises
-epirot
+epirot 1
 elusion
 ensignship
 eurymus
