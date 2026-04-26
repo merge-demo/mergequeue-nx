@@ -9379,7 +9379,7 @@ glaymore
 gelatinized
 geneserin
 graciosity
-galtonia
+galtonia 1
 geordie
 gadrooned
 grosgrains
