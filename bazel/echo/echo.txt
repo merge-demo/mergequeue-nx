@@ -105,7 +105,7 @@ earreach 1
 engineership
 extraught
 enamoured
-eusteles
+eusteles 1
 earrings
 eaves
 excrementally
