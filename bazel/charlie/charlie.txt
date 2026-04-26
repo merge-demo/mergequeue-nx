@@ -16712,7 +16712,7 @@ clotted
 cyanus
 carts
 consonantalized
-clotty
+clotty 1
 clotting
 characterful
 cloture
