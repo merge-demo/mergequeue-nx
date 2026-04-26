@@ -14883,7 +14883,7 @@ anticipates 1
 azoxy
 arpens
 anticipatingly
-andvari
+andvari 1
 abe
 attendancy
 austrian
