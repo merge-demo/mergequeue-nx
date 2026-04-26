@@ -1850,7 +1850,7 @@ decriminalize
 degeneratively
 defeudalize
 debilitates
-debilitative
+debilitative 1
 dermatoglyphics
 devirginator
 debitum
