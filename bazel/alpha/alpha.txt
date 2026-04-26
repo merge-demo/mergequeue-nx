@@ -5261,7 +5261,7 @@ anapterygotous
 alingual
 anticlinal
 anapophysial
-ammonifier
+ammonifier 1
 affine
 anteporch
 amidist
