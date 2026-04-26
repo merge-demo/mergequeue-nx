@@ -11995,7 +11995,7 @@ anarchy
 aerocolpos
 auberges
 antique
-almose
+almose 1
 anarchical
 anenergia
 anthology
