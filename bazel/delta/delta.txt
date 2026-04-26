@@ -23,7 +23,7 @@ desmine
 dzeren
 deltiology
 dodkin
-dependance
+dependance 1
 dabs
 dabsters
 desalinates
