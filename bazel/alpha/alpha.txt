@@ -20046,7 +20046,7 @@ aitkenite
 acoluthic
 autocratoric
 adjourns
-auriscopically
+auriscopically 1
 aromatics
 autochthonal
 adscripted
