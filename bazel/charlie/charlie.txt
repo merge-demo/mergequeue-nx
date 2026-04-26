@@ -19663,7 +19663,7 @@ consolidant
 comanic
 comarum
 comate
-cowerer
+cowerer 1
 coquilla
 camarilla
 copintank
