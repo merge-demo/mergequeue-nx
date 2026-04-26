@@ -12098,7 +12098,7 @@ disentrainment
 disentrance
 devilism
 defuzed
-disrank
+disrank 1
 diamondback
 dojiggy
 disentrancing
