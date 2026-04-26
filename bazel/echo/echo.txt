@@ -4840,7 +4840,7 @@ excusation
 episiotomy
 echard
 embosks
-encores
+encores 1
 enemas
 excitive
 engrail
