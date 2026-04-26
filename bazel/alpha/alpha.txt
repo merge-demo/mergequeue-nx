@@ -11548,7 +11548,7 @@ androdioecism
 acheweed
 abscessed
 apathus
-assewer
+assewer 1
 auxiliarly
 aper
 appositions 1
