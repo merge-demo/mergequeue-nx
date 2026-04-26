@@ -5636,7 +5636,7 @@ apsychia
 adjustable
 amidstream
 aga
-auspiciously
+auspiciously 1
 antilopinae
 acrocoracoid
 agacante
