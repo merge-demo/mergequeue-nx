@@ -3762,7 +3762,7 @@ familiarising
 fibers
 flambeing
 folliculina
-fertilizability
+fertilizability 1
 funnily
 flippantness
 faultlessly
