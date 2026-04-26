@@ -7891,7 +7891,7 @@ grammatite
 gumbo
 glossotherium
 gelatification
-gramme
+gramme 1
 ginned 1
 groggiest
 gilbertage
