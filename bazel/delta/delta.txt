@@ -2141,7 +2141,7 @@ decently
 decanonize
 dynamitish
 decanting
-digitized
+digitized 1
 demonianism
 detectors
 diabolology
