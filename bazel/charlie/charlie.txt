@@ -11335,7 +11335,7 @@ copelidine
 chaneled
 chloromata
 chloromelanite
-chlorometer
+chlorometer 1
 chloromethane
 chlorometry
 categorem
