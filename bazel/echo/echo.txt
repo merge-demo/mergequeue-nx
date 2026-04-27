@@ -7220,7 +7220,7 @@ electrotropic
 ephemeromorphic
 eupnoeas
 exudate
-enthronize
+enthronize 1
 eyalet
 enzootics
 escheve
