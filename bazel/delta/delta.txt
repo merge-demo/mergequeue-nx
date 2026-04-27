@@ -15275,7 +15275,7 @@ dissectible
 durante
 dendroclastic
 disconcerted
-decelerate
+decelerate 1
 droopt
 decalcomania
 didelphyidae
