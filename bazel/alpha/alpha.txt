@@ -11655,7 +11655,7 @@ autointellectual
 anadenia
 anadesm
 archegonia
-anadidymus
+anadidymus 1
 antimasonic
 anadiplosis
 actinometry
