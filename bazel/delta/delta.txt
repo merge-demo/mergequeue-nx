@@ -120,7 +120,7 @@ dipterocecidium
 dadaistic
 desmarestiaceous
 denticule
-determinableness
+determinableness 1
 diddered
 detonated 1
 dialectologically
