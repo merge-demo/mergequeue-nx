@@ -17835,7 +17835,7 @@ aheap
 albizzia
 afteroar
 appaloosas
-amelioratively
+amelioratively 1
 appraises
 adoptable
 appraising
