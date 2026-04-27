@@ -1466,7 +1466,7 @@ alpinery
 acclimatizer
 adrenalectomy
 amphipneustic
-acquaintancy
+acquaintancy 1
 agreeableness
 anticness
 acclinal
