@@ -14357,7 +14357,7 @@ apiaceous
 antireaction
 aniseikonia
 antholite
-anthological
+anthological 1
 anthologically
 anthologies
 autobiographies
