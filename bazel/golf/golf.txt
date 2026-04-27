@@ -1563,7 +1563,7 @@ gibe
 gaspers
 galliardise
 grassless
-geothermally
+geothermally 1
 gassed
 gypsumed 1
 grana
