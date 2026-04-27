@@ -9830,7 +9830,7 @@ guayabi
 guaiac
 goitcho
 gymnotid
-guaiaconic
+guaiaconic 1
 glebous
 guesstimated
 guayaqui
