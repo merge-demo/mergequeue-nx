@@ -11319,7 +11319,7 @@ devaraja
 dost
 dalan
 dinichthys
-dinner
+dinner 1
 discepts
 diffidentness
 dystocias 1
