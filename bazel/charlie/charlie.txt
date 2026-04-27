@@ -9409,7 +9409,7 @@ capette
 chazans
 chazanut
 chazy
-circularwise
+circularwise 1
 curtly
 chazzans
 causativity
