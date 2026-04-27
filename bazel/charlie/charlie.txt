@@ -28554,7 +28554,7 @@ creditless
 creditor
 curial
 creditress
-creditrix
+creditrix 1
 crednerite
 cubebs
 cellipetal
