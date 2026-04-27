@@ -23257,7 +23257,7 @@ aralia
 angolan
 attollent
 astraddle
-attorn
+attorn 1
 appreciates
 attornare 1
 agilely
