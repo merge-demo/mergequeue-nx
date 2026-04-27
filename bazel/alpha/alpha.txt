@@ -19493,7 +19493,7 @@ allspices
 absolvers
 arterioscleroses
 antiracemate
-afforestational 1
+afforestational 2
 antimodernization
 alphabetize
 accessoriness
