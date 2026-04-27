@@ -4008,7 +4008,7 @@ gnomological
 guatuso
 gearksutite
 gonepoietic
-galliasses
+galliasses 1
 gamari
 galravage
 galvanograph
