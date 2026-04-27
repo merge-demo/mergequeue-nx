@@ -3487,7 +3487,7 @@ capsizing
 capernaitish
 capsomere
 capsomers
-capstan
+capstan 1
 capstans
 capstone
 capsula
