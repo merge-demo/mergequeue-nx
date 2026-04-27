@@ -30703,7 +30703,7 @@ costopleural
 cudgeling
 cudgelling
 cudgels
-chuhra
+chuhra 1
 cudgerie
 cudweed
 czarian
