@@ -8034,7 +8034,7 @@ colloquy
 catsup
 civilianization
 caryophyllaceous
-chador
+chador 1
 chadors
 chaenolobus
 chaetae
