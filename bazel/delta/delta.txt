@@ -2946,7 +2946,7 @@ divagation
 dechlorination
 dansk
 diacope
-dedifferentiating
+dedifferentiating 1
 developist
 dimanganion
 dipterans
