@@ -5529,7 +5529,7 @@ drama
 dematiaceous
 denotement
 directionality
-drought
+drought 1
 dyvour
 disilicate
 disattire
