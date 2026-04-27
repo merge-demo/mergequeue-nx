@@ -2532,7 +2532,7 @@ feeler
 frugivorous
 fibromembranous
 filamentule
-frangibility
+frangibility 1
 freebee
 fados
 freeboot
