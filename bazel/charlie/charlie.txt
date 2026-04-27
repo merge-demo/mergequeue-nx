@@ -6564,7 +6564,7 @@ commissaries
 caxon
 cretaceous
 caxton
-confluence
+confluence 1
 caxtonian
 caza
 cazimi
