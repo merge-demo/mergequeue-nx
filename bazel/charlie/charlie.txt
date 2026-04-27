@@ -6025,7 +6025,7 @@ ctenodontidae
 catholicize
 corotating
 catholicly
-catholicness
+catholicness 1
 centricipital
 cylindroogival
 catholicoi
