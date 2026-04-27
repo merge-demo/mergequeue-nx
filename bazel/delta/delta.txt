@@ -13010,7 +13010,7 @@ diabolised
 disparagement
 disparagements
 documenting
-daleth
+daleth 1
 disparate
 disestablish
 decuple
