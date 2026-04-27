@@ -11832,7 +11832,7 @@ discruciate 1
 dived
 dislimning
 damascenine
-devonport
+devonport 1
 detoxicate
 doylies
 discerningly
