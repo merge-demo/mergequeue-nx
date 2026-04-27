@@ -6427,7 +6427,7 @@ exceptions
 ensilver
 ensisternum
 equilibrating
-esquiring
+esquiring 1
 eye
 earthling
 enterprisingness
