@@ -4748,7 +4748,7 @@ exalbuminose
 encist
 electralize
 exponentially
-encysting
+encysting 1
 eugenol
 emptiest
 encysts
