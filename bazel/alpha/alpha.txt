@@ -18915,7 +18915,7 @@ abrogation
 almacigo
 angiocardiographic
 archimime
-allopathetically
+allopathetically 1
 alarmism
 actinomycetales
 archimperialist
