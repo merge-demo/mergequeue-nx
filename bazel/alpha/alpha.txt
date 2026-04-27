@@ -12344,7 +12344,7 @@ alkenna
 apolytikion
 assiduous
 andesites
-archipresbyter
+archipresbyter 1
 andevo
 asphyxiant
 assisi
