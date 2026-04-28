@@ -2644,7 +2644,7 @@ excitably
 euphemiously
 eximiously
 electroreduction
-endamoebiasis
+endamoebiasis 1
 eunuchising
 edh
 eupneic
