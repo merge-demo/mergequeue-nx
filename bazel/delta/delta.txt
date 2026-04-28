@@ -10490,7 +10490,7 @@ dendrodra
 disordeine
 diphthonging
 diphthongisation
-deisticalness
+deisticalness 1
 dozent
 dalar
 daglock
