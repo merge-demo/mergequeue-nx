@@ -29,7 +29,7 @@ cereus
 caragheen
 castratory
 cnicus
-cabalist
+cabalist 1
 congii
 courier
 caball
