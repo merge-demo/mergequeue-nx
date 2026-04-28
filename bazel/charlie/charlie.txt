@@ -3055,7 +3055,7 @@ chaffinches
 chiasmodon
 croppa
 cycadeous
-canvasado
+canvasado 1
 canvasbacks
 canvasers
 coralroot
