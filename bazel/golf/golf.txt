@@ -2547,7 +2547,7 @@ gallfly
 gael
 geothermal
 gilliver
-glusid
+glusid 1
 gapeseeds
 gweduc
 generalistic
