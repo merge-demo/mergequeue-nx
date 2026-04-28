@@ -19290,7 +19290,7 @@ absentmindedly
 arenoid
 alation
 australis
-arenosity
+arenosity 1
 areographical
 areolae
 anteriors
