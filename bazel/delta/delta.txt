@@ -16815,7 +16815,7 @@ demurely
 decurtate
 daniglacial
 disallowances
-decapitable
+decapitable 1
 dissuited
 drawgate
 dividers
