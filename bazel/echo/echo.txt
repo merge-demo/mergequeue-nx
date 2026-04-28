@@ -8405,7 +8405,7 @@ exindusiate
 epitrope
 exclusionism
 epivalve
-elatcha
+elatcha 1
 equerries
 eardrum
 erodible
