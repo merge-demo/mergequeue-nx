@@ -12082,7 +12082,7 @@ anastate
 anastatus
 anastigmat
 anastigmatic
-alvah
+alvah 1
 alichel
 amazeful
 afterbreast
