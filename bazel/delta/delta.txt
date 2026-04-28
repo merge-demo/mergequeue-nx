@@ -8022,7 +8022,7 @@ dioeciously
 drouthiest
 dezincs
 damageable
-dft
+dft 1
 dysthymic
 dialects
 defences
