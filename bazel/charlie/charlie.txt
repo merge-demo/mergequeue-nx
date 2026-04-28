@@ -24041,7 +24041,7 @@ convergence
 coiling 1
 convergences
 comps
-convergency
+convergency 1
 columbary
 convergent
 cytogeny
