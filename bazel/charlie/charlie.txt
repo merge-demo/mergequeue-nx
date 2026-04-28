@@ -14458,7 +14458,7 @@ cappagh
 conscription
 cassatas
 counterpuncher
-cirsectomies
+cirsectomies 1
 cirsoid 1
 cirsomphalos
 cirsophthalmia
