@@ -398,7 +398,7 @@ gorgon
 geostrategy
 germinogony
 gradeless
-genuflexuous
+genuflexuous 1
 galatea
 galateas
 glucogenesis
