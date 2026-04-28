@@ -6729,7 +6729,7 @@ graphitic
 gigs
 gastronephritis
 gonidic
-genes
+genes 1
 gauges
 gyrostats
 glomerate
