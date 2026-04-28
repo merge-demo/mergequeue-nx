@@ -11644,7 +11644,7 @@ dostoevsky
 damsite
 denser
 discursative
-discommune
+discommune 1
 denominates
 disburgeon
 dragooner
