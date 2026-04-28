@@ -6691,7 +6691,7 @@ defoliation
 desesperance 1
 desexualized
 desexualizing
-deshabille
+deshabille 1
 dinitrophenol
 diplohedron
 downcurved
