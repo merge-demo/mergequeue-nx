@@ -1716,7 +1716,7 @@ deformedness
 deluged
 dornecks
 devastate
-dumetose
+dumetose 1
 deasil
 dearness
 deaspirate
