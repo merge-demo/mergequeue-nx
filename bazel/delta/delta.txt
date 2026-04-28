@@ -6487,7 +6487,7 @@ diastatic
 denunciatory
 dime
 daubingly
-dorsifixed
+dorsifixed 1
 disencumberment
 diag
 dispossesses
