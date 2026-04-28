@@ -4515,7 +4515,7 @@ enamelling
 euchysiderite 1
 esthesiophysiology
 elsewhat
-enforcing
+enforcing 1
 exterminator 1
 encephalomas
 escudo
