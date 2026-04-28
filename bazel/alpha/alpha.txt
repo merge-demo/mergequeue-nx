@@ -5912,7 +5912,7 @@ agglutinative
 adamantine
 agglutinatively
 aarrghh
-agamobium
+agamobium 1
 agglutinize
 anathematization
 agglutinogen
