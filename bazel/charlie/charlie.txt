@@ -702,7 +702,7 @@ caffeone
 caffetannic
 caballed
 caffetannin
-cloyingness
+cloyingness 1
 caffiaceous
 camerlengo
 caffled
