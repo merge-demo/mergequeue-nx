@@ -15541,7 +15541,7 @@ babirusa
 badinaging
 broomstick
 boxes
-bdelloida
+bdelloida 1
 barraclade
 braggadocio 1
 bryozoon
