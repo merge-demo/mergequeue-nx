@@ -3897,7 +3897,7 @@ endodontic
 emigration
 egressive
 equivote
-echeneis
+echeneis 1
 eternal
 entomotomy
 electrotonus
