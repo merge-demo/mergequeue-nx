@@ -10683,7 +10683,7 @@ digoxin
 derationalize
 dreadlessness
 denunciating
-demorage
+demorage 1
 disendower
 disapprover
 drownproofing

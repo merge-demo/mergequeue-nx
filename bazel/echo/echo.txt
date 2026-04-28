@@ -5284,7 +5284,7 @@ errorist
 exudatory
 endoradiosonde
 extract
-exfiguration
+exfiguration 1
 embryotrophy
 espinillo
 etaerio
