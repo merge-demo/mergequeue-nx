@@ -10322,7 +10322,7 @@ gigantostraca
 geographized
 gastroenterology 1
 gridder
-gloomed
+gloomed 1
 gul
 gaming
 gladiest

@@ -15287,7 +15287,7 @@ clamour
 concuss
 contune
 cordant
-copalchi
+copalchi 1
 clamouring
 collembolan
 clamourist
