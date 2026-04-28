@@ -8835,7 +8835,7 @@ asthmatics
 accentors
 allocations
 amyosthenia
-amender
+amender 1
 adeptly
 adamastor
 anaphora
