@@ -4475,7 +4475,7 @@ dinornithes
 dislink
 deists
 dyspareunia
-deradelphus
+deradelphus 1
 deerstalker
 demibob
 dendrological
