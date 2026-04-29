@@ -13231,7 +13231,7 @@ exoarteritis
 exanthalose
 enlightenedness
 explanted
-explanting
+explanting 1
 explat
 empurples
 exertive
