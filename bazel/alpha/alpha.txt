@@ -3614,7 +3614,7 @@ adenitis
 anticeremonious
 asthenies
 alces
-anomaloscope
+anomaloscope 1
 adenoacanthoma
 adenocarcinomas
 adenochondroma
