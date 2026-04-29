@@ -27169,7 +27169,7 @@ countertack
 countertally
 countertaste
 camarine
-countertechnicality
+countertechnicality 1
 countertendency
 cavalry
 carcasses
