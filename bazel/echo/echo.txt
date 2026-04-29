@@ -6824,7 +6824,7 @@ entoil
 eggler
 entoils
 entom
-extender
+extender 1
 episternalia
 evocativeness
 eumenes
