@@ -4035,7 +4035,7 @@ darwinians
 describer
 delsartean
 dogwinkle
-dysarthric
+dysarthric 1
 domineeringness
 directitude
 desuetudes
