@@ -132,7 +132,7 @@ erosionist
 elocutioner
 embrew
 europocentric
-enderonic
+enderonic 1
 excellency
 epoxidize
 evaporativity
