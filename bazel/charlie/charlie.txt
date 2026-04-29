@@ -29152,7 +29152,7 @@ credit 1
 coelacanthini
 cacodorous
 crioceras
-crioceratite
+crioceratite 1
 cinefaction
 crioceratitic
 companionably
