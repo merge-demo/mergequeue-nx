@@ -9346,7 +9346,7 @@ gruf
 geophila
 graduate
 galleasses
-goliad 1
+goliad 2
 gunnysacks
 ghaznevid
 ghaist 1
