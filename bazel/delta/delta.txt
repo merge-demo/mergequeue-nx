@@ -5082,7 +5082,7 @@ dendritical
 deal
 derbyshire
 dendrium
-diminishes
+diminishes 1
 decuria
 derailed
 dietetic
