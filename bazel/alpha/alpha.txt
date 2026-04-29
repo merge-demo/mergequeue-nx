@@ -19610,7 +19610,7 @@ admonishes
 analogies
 aridities
 anaxagorean
-afghanis
+afghanis 1
 alchemilla
 ariels
 acoupa
