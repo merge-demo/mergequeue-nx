@@ -11150,7 +11150,7 @@ chizz 1
 chizzel
 chladnite
 chondrite
-churlishly
+churlishly 1
 chlamyd
 chlamydate
 chlamydobacteriaceous
