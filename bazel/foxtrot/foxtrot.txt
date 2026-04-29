@@ -1926,7 +1926,7 @@ forefit
 forksful
 freight
 furling
-friable
+friable 1
 fangot
 froze
 forebearing
