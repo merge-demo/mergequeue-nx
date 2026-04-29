@@ -29313,7 +29313,7 @@ chilitis
 carbazin
 cryptogame
 cryptogamy
-cryptogamic
+cryptogamic 1
 cryptogamical
 cryptogamist
 cryptogenic
