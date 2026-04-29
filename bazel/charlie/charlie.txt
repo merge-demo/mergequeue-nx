@@ -13,7 +13,7 @@ complanate 1
 cabaho
 cabal
 condylarthrous
-cryptostoma
+cryptostoma 1
 chevance
 chaenomeles
 cows
