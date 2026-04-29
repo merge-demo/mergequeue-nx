@@ -17702,7 +17702,7 @@ banbury
 behove
 bismosol
 butteriness
-biont 1
+biont 2
 beanos
 braconid
 bankeress
