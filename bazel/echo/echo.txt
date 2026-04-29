@@ -9457,7 +9457,7 @@ eses
 epicism
 erythron
 egests
-exegetes
+exegetes 1
 eschrufe
 escopeta
 euphemistical
