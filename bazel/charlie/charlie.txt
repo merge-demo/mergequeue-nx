@@ -31712,7 +31712,7 @@ counterapse
 cusping
 cur
 cuspis
-cusps
+cusps 1
 cuspule
 crests
 coopery
