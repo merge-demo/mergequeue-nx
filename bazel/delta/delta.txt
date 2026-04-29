@@ -1672,7 +1672,7 @@ deammonation
 deashing
 dichastic
 dandle
-deanships
+deanships 1
 dothiorella
 deanthropomorphism
 diasynthesis
