@@ -1257,7 +1257,7 @@ calendarial
 chusite
 cicadid
 counterpoise
-calendaring
+calendaring 1
 cyprine
 coilability
 calendarist
