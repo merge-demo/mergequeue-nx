@@ -12612,7 +12612,7 @@ anesthetized
 achromotrichia
 anesthetizes
 anestrous
-anterograde
+anterograde 1
 anethene
 albites
 anethols
