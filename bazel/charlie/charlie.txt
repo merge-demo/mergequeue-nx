@@ -12740,7 +12740,7 @@ complices
 chukchi
 chukka
 centerboards
-chukkar
+chukkar 1
 chukker
 chulha
 concionary 1

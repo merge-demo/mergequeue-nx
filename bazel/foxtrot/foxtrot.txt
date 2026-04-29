@@ -6078,7 +6078,7 @@ feringhee
 ferrivorous
 funker
 fizzling
-frecken
+frecken 1
 faculty
 fingerhook
 forgeman
