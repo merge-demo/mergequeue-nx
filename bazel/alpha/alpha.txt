@@ -15355,7 +15355,7 @@ angioparalysis
 adulterate
 antikenotoxin
 abwatt
-antiking
+antiking 1
 aposematic
 araneology
 alcaic
