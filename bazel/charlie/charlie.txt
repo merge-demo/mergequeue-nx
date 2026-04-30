@@ -14528,7 +14528,7 @@ cysteamine
 cystectasia
 contestate
 campout
-chaptalizing
+chaptalizing 1
 cnidophore
 cysted
 cysteinic
