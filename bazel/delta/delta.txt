@@ -4706,7 +4706,7 @@ disheveling
 ducklar
 demivambrace
 dorsicollar
-darkling
+darkling 1
 drusean
 diminutivize
 defoliates
