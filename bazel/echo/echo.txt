@@ -10641,7 +10641,7 @@ excavate
 endozoa
 eques
 enchilada
-eudemonistic
+eudemonistic 1
 eudemonics
 equivalencies
 epinephrine
