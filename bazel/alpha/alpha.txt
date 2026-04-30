@@ -18254,7 +18254,7 @@ arabica
 aerogel
 accentuator
 achromous
-agush
+agush 1
 archont
 arachnomorphae
 arabiyeh
