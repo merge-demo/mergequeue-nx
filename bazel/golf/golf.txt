@@ -5578,7 +5578,7 @@ glycerizine
 grandames
 gconvert
 guars
-glare
+glare 1
 gaz
 gesticulacious
 gelilah
