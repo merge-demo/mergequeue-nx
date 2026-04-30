@@ -10993,7 +10993,7 @@ casern
 corrals
 comessation
 crocodilia
-counterinsurgencies
+counterinsurgencies 1
 crutcher
 catananche
 clavises
