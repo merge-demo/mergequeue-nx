@@ -23934,7 +23934,7 @@ cacological
 conv
 convalesced
 convalescence
-convalescently
+convalescently 1
 convalescents
 convalesces
 convalescing
