@@ -9528,7 +9528,7 @@ ellops
 enantiotropy
 esemplasy
 extremities
-educationese
+educationese 1
 earthworm
 enteradenology
 emboldened
