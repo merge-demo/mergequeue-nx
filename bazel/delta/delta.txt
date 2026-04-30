@@ -14857,7 +14857,7 @@ documentable
 documental
 delimer
 dactylose
-disgregating
+disgregating 1
 disnatural
 dimmers
 demarks
