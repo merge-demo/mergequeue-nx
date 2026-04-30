@@ -11255,7 +11255,7 @@ carlin
 chlorimeter
 chlorimetric
 chlorinated
-chlorinating
+chlorinating 1
 curly
 chlorination
 chlorinator
