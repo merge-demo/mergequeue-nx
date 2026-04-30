@@ -26885,7 +26885,7 @@ cuitled
 counterimpulse
 counterindented
 counterindication 1
-countermining
+countermining 1
 counterinfluence
 crochets
 counterinterest
