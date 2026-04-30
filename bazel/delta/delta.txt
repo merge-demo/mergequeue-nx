@@ -16677,7 +16677,7 @@ deserves
 debouchure
 draisine
 duodiode
-detach
+detach 1
 darnel
 drinking
 despondent
