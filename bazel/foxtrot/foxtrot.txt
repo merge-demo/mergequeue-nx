@@ -6626,7 +6626,7 @@ flowerpot 1
 fishybacking
 fatalistically
 fizzers
-friggle
+friggle 1
 fractocumulus
 fireweeds
 fairgrass
