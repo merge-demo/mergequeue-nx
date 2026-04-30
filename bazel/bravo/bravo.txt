@@ -2115,7 +2115,7 @@ bidstand
 bantam
 bantamize
 bismar
-burette
+burette 1
 banteng
 beglerbegship
 barriers
