@@ -18265,7 +18265,7 @@ awshar
 arability
 arabinic
 arabinosic
-arabinoside
+arabinoside 1
 alibility
 adultlike 1
 arabism
