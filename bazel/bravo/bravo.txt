@@ -15,7 +15,7 @@ bryozoans
 buddhi
 bowstringing
 bistratose
-babaylanes
+babaylanes 1
 branch
 beringite
 babasu
