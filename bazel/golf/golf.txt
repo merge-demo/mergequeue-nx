@@ -10039,7 +10039,7 @@ gammation
 gargoyles
 greasing 1
 granitoidal
-gisler
+gisler 1
 guerdoner
 gasterozooid
 greatheart
