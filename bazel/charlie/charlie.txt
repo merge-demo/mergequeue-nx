@@ -3494,7 +3494,7 @@ capsula
 cons
 capsular
 conceitedness
-capsulation
+capsulation 1
 collegatary
 chainomatic
 chawbone
