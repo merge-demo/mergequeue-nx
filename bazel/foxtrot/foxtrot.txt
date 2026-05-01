@@ -5419,7 +5419,7 @@ frisado
 factorial
 fledgiest
 floatless
-foisonless
+foisonless 1
 fabian
 feasten
 forefigure
