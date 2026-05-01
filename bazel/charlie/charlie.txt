@@ -19851,7 +19851,7 @@ comfortableness
 comfortation
 churchly
 comfortative 1
-comforters
+comforters 1
 comfortingly
 comfortlessly
 comfortlessness
