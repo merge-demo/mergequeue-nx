@@ -20690,7 +20690,7 @@ asterion
 archenia
 anthesteriac
 articulare
-allelomorph
+allelomorph 1
 associate
 alder
 anglophobe
