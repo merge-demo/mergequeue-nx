@@ -10057,7 +10057,7 @@ gongman
 galette
 gossypols
 guerison
-guerites 1
+guerites 2
 gage
 graveolency
 gravedigger
