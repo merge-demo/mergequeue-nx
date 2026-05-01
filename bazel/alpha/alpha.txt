@@ -25096,7 +25096,7 @@ almahs
 aeolopantalon
 axiality
 anthropos
-armorplated
+armorplated 1
 axiate
 atmos
 archeress
