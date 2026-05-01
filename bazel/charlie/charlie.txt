@@ -18647,7 +18647,7 @@ coinstantaneously
 centrolinead
 causeful
 coinstantaneousness
-coinsurance
+coinsurance 1
 coinsurer
 chichituna
 coinsuring
