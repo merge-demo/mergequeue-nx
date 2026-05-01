@@ -19918,7 +19918,7 @@ commandable
 commandatory
 commanded
 confervaceae
-commandedness
+commandedness 1
 coelacanthine
 classicised
 commandeer
