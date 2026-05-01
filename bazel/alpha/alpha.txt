@@ -3508,7 +3508,7 @@ addlehead
 arisaema
 addleheadedness
 addleness
-activists
+activists 1
 addlepate
 angiotome
 antimeristem
