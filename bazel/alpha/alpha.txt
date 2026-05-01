@@ -25101,7 +25101,7 @@ axiate
 atmos
 archeress
 amphicondyla
-axiferous
+axiferous 1
 antimonarchists
 argumentation
 apothegms
