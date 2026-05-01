@@ -26077,7 +26077,7 @@ cosily
 coupled
 chasuble
 cosymmedian
-compurgator
+compurgator 1
 cosinage
 cosine
 culverineer
