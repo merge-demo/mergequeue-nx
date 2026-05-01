@@ -19568,7 +19568,7 @@ chamfrons
 cusp
 crocky
 copesetic
-columbotantalate
+columbotantalate 1
 crepiness
 confession
 childhoods
