@@ -7915,7 +7915,7 @@ glogg
 geotic
 germanically
 geophagia
-generalist
+generalist 1
 gouged
 geochemistry
 graphitoidal
