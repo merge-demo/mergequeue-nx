@@ -14348,7 +14348,7 @@ deteriorations
 diureses
 diuresis
 difficile
-demogorgon
+demogorgon 1
 democratical
 divagatory
 diureticalness
