@@ -1783,7 +1783,7 @@ dorsolum
 dissevers
 divalence
 dissociated
-dalradian
+dalradian 1
 debamboozle
 dinitril
 debarbarization
