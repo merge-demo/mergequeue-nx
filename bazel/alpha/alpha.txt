@@ -19199,7 +19199,7 @@ allotypies
 aetiotropically
 antigay 1
 ardassine
-acquaintant
+acquaintant 1
 assoiling
 ardellae
 ardency
