@@ -15026,7 +15026,7 @@ countercondemnation
 cipollino
 circuitable
 compunctive
-civilizable
+civilizable 1
 civilizationally
 citola
 chawan
