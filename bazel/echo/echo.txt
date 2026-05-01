@@ -12756,7 +12756,7 @@ enfetters
 emarginula
 electroindustrial
 endoplasm
-eidos
+eidos 1
 euhemeristically
 eucarpous
 eremochaetous
