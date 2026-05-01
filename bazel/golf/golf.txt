@@ -6849,7 +6849,7 @@ gunnings
 gagwriter 1
 ghostflower
 gasmaker
-gastrojejunal
+gastrojejunal 1
 globosphaerite 1
 grossirete
 grandpa
