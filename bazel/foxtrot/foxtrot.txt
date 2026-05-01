@@ -989,7 +989,7 @@ foldable
 fervid
 fishing
 flustering
-frivoller
+frivoller 1
 flyaway
 formyl
 fondlings
