@@ -6140,7 +6140,7 @@ draperies
 dissector
 derbend
 debauch
-deploringly
+deploringly 1
 deft
 discostomatous
 derecho
