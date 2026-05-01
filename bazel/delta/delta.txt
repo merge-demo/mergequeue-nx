@@ -4485,7 +4485,7 @@ decadentism
 demicanon
 dishling
 dauntlessly 1
-disjointedly
+disjointedly 1
 duomachy
 devalorize
 developmentist
