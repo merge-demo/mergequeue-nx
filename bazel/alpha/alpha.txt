@@ -21409,7 +21409,7 @@ acrogenously
 agueproof
 alamoth
 ambulantes
-apartheid
+apartheid 1
 asoka
 anthracitism
 asomatous
