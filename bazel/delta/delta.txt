@@ -2330,7 +2330,7 @@ didna
 disseizin
 dilapidate
 determinists
-decke
+decke 1
 diethylstilbestrol
 demidolmen
 downwash
