@@ -9925,7 +9925,7 @@ acerata
 alveolodental
 airers
 ascolichenes
-adminiculate
+adminiculate 1
 abducens
 anticlastic
 auricled
