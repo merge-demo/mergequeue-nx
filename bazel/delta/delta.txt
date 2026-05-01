@@ -1092,7 +1092,7 @@ defluxion
 datiscaceae
 dhyal
 decayless
-declivitous
+declivitous 1
 divisibleness
 dads
 denudations
