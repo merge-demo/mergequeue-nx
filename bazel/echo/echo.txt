@@ -9541,7 +9541,7 @@ embracing
 electroviscous
 evacuees
 eyesalve
-exannulate
+exannulate 1
 endosmotic
 ergastoplasmic
 enchytraeidae
