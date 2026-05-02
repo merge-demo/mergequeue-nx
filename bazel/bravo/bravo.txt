@@ -7485,7 +7485,7 @@ bullragged
 bleariest
 birefraction
 befoolment
-betwine
+betwine 1
 betwixt
 biserrate
 beneaped
