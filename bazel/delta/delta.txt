@@ -11955,7 +11955,7 @@ denominationally
 disbloom
 disembarks
 dentifrices
-degum
+degum 1
 decrease
 deutovum
 disembitter
