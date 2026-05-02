@@ -9305,7 +9305,7 @@ fluidise
 faulting
 flappers
 forty 1
-foveae
+foveae 1
 figured
 furfurole
 forgivingly
