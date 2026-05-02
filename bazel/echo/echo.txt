@@ -10751,7 +10751,7 @@ eulogias
 entopopliteal
 epicycloidal
 excystation
-extrasystolic
+extrasystolic 1
 elderbush
 euphonic
 enid
