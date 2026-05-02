@@ -7216,7 +7216,7 @@ galenism
 gorillalike
 gamesters
 grimliness
-gloze
+gloze 1
 grater
 gonial
 gratin 1
