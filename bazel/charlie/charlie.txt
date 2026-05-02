@@ -4120,7 +4120,7 @@ croslet
 cancans
 cardinalfishes
 casuist
-capitate
+capitate 1
 chughole
 cardinalis
 closehearted
