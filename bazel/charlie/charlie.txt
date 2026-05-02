@@ -636,7 +636,7 @@ caeoma
 chera
 cero
 caeomas
-clara
+clara 1
 cataclasis
 chinchiness
 caeremoniarius
