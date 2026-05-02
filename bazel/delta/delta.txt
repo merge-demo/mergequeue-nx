@@ -12579,7 +12579,7 @@ diamonding
 daffed
 disintegrated
 dipterological
-denotation
+denotation 1
 dispersoid
 dromedaries
 diamantoid
