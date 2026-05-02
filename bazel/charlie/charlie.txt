@@ -24508,7 +24508,7 @@ commandrie
 copartnership
 chronodeik
 counterquarterly
-copassionate
+copassionate 1
 countermotion
 clampdown
 cerographist
