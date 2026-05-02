@@ -1776,7 +1776,7 @@ gynopara
 geminately
 glycolipin
 gomerils
-germinance
+germinance 1
 goodless
 golliwogs
 gallic
