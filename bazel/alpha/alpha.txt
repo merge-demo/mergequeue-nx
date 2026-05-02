@@ -4498,7 +4498,7 @@ aprocta
 adventuresomes
 adventuress
 adventuresses
-avidiously
+avidiously 1
 acidimetrically
 alternation
 angiostegnosis
