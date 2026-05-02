@@ -15818,7 +15818,7 @@ coprostasia
 chien
 caranga 1
 catnapper
-clearsightedness
+clearsightedness 1
 clearstarcher
 clearstory
 chocker
