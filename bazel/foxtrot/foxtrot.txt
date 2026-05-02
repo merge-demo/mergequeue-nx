@@ -5173,7 +5173,7 @@ flatteringness
 flustered
 fetalization
 federarie
-favour
+favour 1
 farsakh
 flatulency
 flatfeet
