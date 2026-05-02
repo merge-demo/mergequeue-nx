@@ -8592,7 +8592,7 @@ flexor
 firedragon
 fornix
 fanegada
-forspent
+forspent 1
 flocculus
 feower
 freehold
