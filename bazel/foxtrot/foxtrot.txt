@@ -4864,7 +4864,7 @@ falsism
 falsifiers
 foothook
 flues
-fasting
+fasting 1
 frabbit
 forearm
 froglet
