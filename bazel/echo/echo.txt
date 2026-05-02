@@ -10408,7 +10408,7 @@ ethoxyethane
 enchiriridia
 earthshaking
 eiresione
-eleolite
+eleolite 1
 exorbitance
 entresalle
 excreted

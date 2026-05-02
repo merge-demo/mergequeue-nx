@@ -11792,7 +11792,7 @@ aslake
 anticephalalgic
 analgias
 akeki
-analgic
+analgic 1
 antimalarial
 anticeremonialism
 altocumulus
