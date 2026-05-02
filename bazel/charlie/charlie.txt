@@ -30696,7 +30696,7 @@ comparability
 cudgeled
 cudgeler
 calymene
-cudgelers
+cudgelers 1
 counterwind
 complexometric
 costopleural
