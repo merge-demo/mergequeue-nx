@@ -18005,7 +18005,7 @@ aiguelle
 arnatta
 anglimaniac
 abraum
-appurtenant
+appurtenant 1
 annalistically
 aphrodisiacal
 apreynte
