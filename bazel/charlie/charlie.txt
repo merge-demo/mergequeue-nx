@@ -12596,7 +12596,7 @@ cafetiere
 chronologizing
 chronomantic
 chronomastix
-chronometer
+chronometer 1
 crom
 citolers
 chronometers
