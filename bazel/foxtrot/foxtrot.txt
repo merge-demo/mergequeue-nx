@@ -5277,7 +5277,7 @@ flavours
 fimbriate
 feelinglessly
 fibrilation
-flawedness
+flawedness 1
 flats
 frontingly
 fishlike
