@@ -14967,7 +14967,7 @@ antilogy
 avyayibhava
 avicular
 anticonservatism
-anticonservativeness
+anticonservativeness 1
 auricularis
 anadrom
 apagoges
