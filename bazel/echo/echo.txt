@@ -13422,7 +13422,7 @@ erupted
 eikones
 ebionitic
 ectogenic
-excitingly
+excitingly 1
 expressionists
 eventuality
 expressionlessness
