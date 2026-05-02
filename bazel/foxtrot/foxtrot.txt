@@ -9958,7 +9958,7 @@ favor
 frigidly
 foundation
 forthfigured
-facias
+facias 1
 fragment
 formularizer
 forcers
