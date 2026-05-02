@@ -22627,7 +22627,7 @@ agreers
 arseniuret
 athar
 apatite
-augur
+augur 1
 athecae
 alarge
 appender
