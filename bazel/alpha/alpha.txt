@@ -22266,7 +22266,7 @@ axially
 ayous
 arthrobranch
 ateuchus
-astragali
+astragali 1
 aridge
 anathem
 astragalocalcaneal
