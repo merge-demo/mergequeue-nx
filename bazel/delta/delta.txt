@@ -1674,7 +1674,7 @@ dichastic
 dandle
 deanships
 dothiorella
-deanthropomorphism
+deanthropomorphism 1
 diasynthesis
 deanthropomorphization
 deappetizing
