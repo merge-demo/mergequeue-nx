@@ -17939,7 +17939,7 @@ approbating
 approbations
 arghel
 approbative
-approbativeness
+approbativeness 1
 absorbents
 apprompt 1
 aloud
