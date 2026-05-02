@@ -7633,7 +7633,7 @@ effectless
 entocnemial
 eventfully
 engines
-elne
+elne 1
 exactest
 extrafascicular
 extratelluric 1
