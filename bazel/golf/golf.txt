@@ -10475,7 +10475,7 @@ gagor
 gonium
 glutei 1
 graylings
-gastrin
+gastrin 1
 goli
 gusher
 glumaceous
