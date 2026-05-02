@@ -8205,7 +8205,7 @@ dicyema
 diacromyodi
 defrosted
 diactinic 1
-dacryocystotomy
+dacryocystotomy 1
 deemphasizing
 darghin
 diadelphian
