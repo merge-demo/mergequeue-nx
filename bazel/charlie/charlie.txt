@@ -25050,7 +25050,7 @@ cuprotungstite
 cordwainer
 choleraic
 cloves
-core
+core 1
 corecipient
 corectome
 cracovienne
