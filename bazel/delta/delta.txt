@@ -6501,7 +6501,7 @@ disqualification
 delignated 1
 disomatous
 descendent
-dolichosoma
+dolichosoma 1
 dunged
 diadromous
 dispositionally
