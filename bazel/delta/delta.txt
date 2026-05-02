@@ -5198,7 +5198,7 @@ doctrinalist
 dartoic
 debone
 dyings
-daemon
+daemon 1
 doghole
 decephalization
 deathly

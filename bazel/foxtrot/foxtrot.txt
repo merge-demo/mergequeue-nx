@@ -451,7 +451,7 @@ friskiest
 forewaters
 ferrophosphorus
 formulise
-frouze
+frouze 1
 formulistic
 fulminating
 fluctisonous
