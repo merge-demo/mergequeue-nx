@@ -2147,7 +2147,7 @@ campestral
 campground
 consarcinate
 camphane
-camphanone
+camphanone 1
 camphene
 camphenes
 camphine
