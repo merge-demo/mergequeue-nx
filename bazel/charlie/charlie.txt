@@ -8080,7 +8080,7 @@ capitulum
 chaferies
 chafers
 caranx
-chafes
+chafes 1
 chafewax
 calycanth
 campaspe
