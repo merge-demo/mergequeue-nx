@@ -5731,7 +5731,7 @@ frontis
 farced
 ferule
 fleuronnee 1
-fungous
+fungous 1
 fuzzball
 frontlessly
 favorers
