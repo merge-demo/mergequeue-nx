@@ -2750,7 +2750,7 @@ coeno
 cannellate
 congruences
 counterembowed
-cannelle
+cannelle 1
 candyfloss
 chintzes
 castrametation
