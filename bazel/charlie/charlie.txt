@@ -13874,7 +13874,7 @@ cinnamene
 corser
 cinnamyl
 chilean
-clavatin
+clavatin 1
 cyclodiolefin
 cautionings
 cautivo
