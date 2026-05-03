@@ -8567,7 +8567,7 @@ awns
 advisatory
 alkahestic
 admonishment
-acidifies
+acidifies 1
 allantoidean
 allantoides
 allantoin
