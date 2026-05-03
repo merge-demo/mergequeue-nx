@@ -2251,7 +2251,7 @@ elaphurine
 elections
 elevatory 1
 exocolitis
-effluve
+effluve 1
 endoplasma
 elector
 exhume 1
