@@ -2550,7 +2550,7 @@ diplococcus
 declaring
 dwined
 declasses 1
-dorn
+dorn 1
 disjudication
 declass
 dimorphs
