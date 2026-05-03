@@ -2990,7 +2990,7 @@ campesino
 canticles
 conquerableness
 conceptualistically
-cantilating
+cantilating 1
 cantilene
 cantilever
 cantilevered
