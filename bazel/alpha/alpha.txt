@@ -4253,7 +4253,7 @@ armorer
 alchornea
 aesculapius
 annoyful
-akhlame
+akhlame 1
 alumen
 abime
 abaka
