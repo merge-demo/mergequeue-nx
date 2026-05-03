@@ -211,7 +211,7 @@ ferrihemoglobin
 frasier
 factrix
 footmanship
-factorials
+factorials 1
 fanons
 fatiscence
 forborne
