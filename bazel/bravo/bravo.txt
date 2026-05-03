@@ -13912,7 +13912,7 @@ burial
 bacteriotropic
 binoculate
 birdlike
-bowstrung
+bowstrung 1
 behavior
 bowtell
 barographic
