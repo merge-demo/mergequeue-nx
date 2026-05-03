@@ -6696,7 +6696,7 @@ genuflected
 goniatites
 garterless
 gainsayer
-guttler
+guttler 1
 grint
 gibbet
 gulae
