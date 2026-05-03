@@ -29221,7 +29221,7 @@ crippleness
 crippler
 cripples
 creaser 1
-capillarity
+capillarity 1
 cystomatous
 crippling
 cripplingly
