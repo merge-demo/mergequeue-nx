@@ -6116,7 +6116,7 @@ divvied
 defalcate
 duplexs 1
 december
-derays
+derays 1
 deranges
 dualin
 detrimental
