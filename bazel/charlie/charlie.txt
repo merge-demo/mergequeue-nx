@@ -20549,7 +20549,7 @@ correlativity
 celtophobe
 compendious
 compendium
-compendiums 1
+compendiums 2
 contenders
 counterterror
 coremia
