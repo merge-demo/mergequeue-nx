@@ -1254,7 +1254,7 @@ fatuate
 fearful
 flatten
 filmdom
-frostier
+frostier 1
 fasti
 filariform
 foreordinated
