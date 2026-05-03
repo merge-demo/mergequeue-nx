@@ -6993,7 +6993,7 @@ fondles
 fainter
 formalazine
 fumant
-flannels
+flannels 1
 fineries
 freemason 1
 fondly
