@@ -16726,7 +16726,7 @@ bucks
 blinders
 bucksaw
 bids
-bistorta
+bistorta 1
 bedfoot
 bariatrics
 bucktooth
