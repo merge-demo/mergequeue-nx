@@ -31555,7 +31555,7 @@ curtailed
 curtailedly
 curtailing
 cursores
-curtails
+curtails 1
 cubistic
 curtain
 cheesemongery
