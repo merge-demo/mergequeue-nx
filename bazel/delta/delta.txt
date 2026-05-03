@@ -18671,7 +18671,7 @@ duckboat
 dwarfishness
 documentarily
 dwarfisms
-dermopteran
+dermopteran 1
 darwinically 1
 detersively
 dwarfs
