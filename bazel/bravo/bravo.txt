@@ -5268,7 +5268,7 @@ bundlings
 byssin
 bigot
 burrier
-beggary 1
+beggary 2
 beeriest
 beggaring
 bicrescentic
