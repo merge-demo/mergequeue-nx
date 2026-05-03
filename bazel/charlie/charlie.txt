@@ -22768,7 +22768,7 @@ characterological
 cismarine
 consecrate
 consecrater
-chieftess
+chieftess 1
 contramarque
 consecrates 1
 clearage
