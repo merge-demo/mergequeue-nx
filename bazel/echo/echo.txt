@@ -1022,7 +1022,7 @@ edemata
 equable
 energised
 electrohorticulture
-expansionists
+expansionists 1
 epigonation
 egilops
 eudyptes
