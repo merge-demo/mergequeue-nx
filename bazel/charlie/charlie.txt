@@ -21563,7 +21563,7 @@ cofinal
 concurring
 concurs
 christologist
-concursion
+concursion 1
 copesmate
 compulsorily
 computable
