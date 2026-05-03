@@ -13180,7 +13180,7 @@ borzoi
 bastardised
 boschneger
 boneen
-brigue
+brigue 1
 bisext
 brachystomata
 bender
