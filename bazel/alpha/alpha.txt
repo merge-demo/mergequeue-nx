@@ -21609,7 +21609,7 @@ applicability
 aspredo
 antirickets
 akasha
-asprout
+asprout 1
 antihierarchist
 antu
 anamniote
