@@ -19363,7 +19363,7 @@ acontius
 aho
 assure
 arithmetics
-argals
+argals 1
 arrayer 1
 acolytus
 ambrosian
