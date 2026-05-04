@@ -3499,7 +3499,7 @@ euchologies
 epirotic
 evergreenery
 edwardian
-erose
+erose 1
 extraterrene
 escamotage
 effulges
