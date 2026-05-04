@@ -21832,7 +21832,7 @@ assiette
 assify
 alpen
 assign
-absorbedness
+absorbedness 1
 assignability
 astrodynamics
 atoningly
