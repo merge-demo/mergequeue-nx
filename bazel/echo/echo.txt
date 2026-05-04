@@ -11427,7 +11427,7 @@ explorers
 eluctation
 enhaloing
 expenditor
-encephalosis
+encephalosis 1
 edgebone
 ependymary
 everted
