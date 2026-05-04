@@ -3793,7 +3793,7 @@ cenacle
 clouters
 carbineer
 carbines
-carbinols
+carbinols 1
 commensality
 carboazotine
 conrail
