@@ -5872,7 +5872,7 @@ agential
 allopatrically
 adolph
 agenting
-agentives
+agentives 1
 adducing
 archprototype
 agrionid
