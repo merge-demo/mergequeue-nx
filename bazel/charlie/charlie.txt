@@ -16942,7 +16942,7 @@ chartism
 clupeid
 cosignitary
 clupeids
-creatureliness
+creatureliness 1
 classis
 cachalot
 caviar
