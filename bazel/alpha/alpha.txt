@@ -576,7 +576,7 @@ apioidal
 advowry
 ashantee
 ashlers
-adpromissor
+adpromissor 1
 aerobioscope
 antiquarian
 abn
