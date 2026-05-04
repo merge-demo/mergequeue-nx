@@ -8215,7 +8215,7 @@ depart
 diaderm
 diadic
 disabusing
-demurrer
+demurrer 1
 decouples
 dyadics
 diadkokinesia
