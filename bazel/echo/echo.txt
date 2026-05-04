@@ -1412,7 +1412,7 @@ epidote
 exterous
 endowing
 erasions
-ericoid
+ericoid 1
 entosterna
 excoct
 encashable
