@@ -7186,7 +7186,7 @@ chatterbox
 centrev
 chivalrous
 containedly
-centric
+centric 1
 centricae
 cytotoxin
 cremant
