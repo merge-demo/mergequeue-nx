@@ -9728,7 +9728,7 @@ cheirology
 ciconiidae
 colloidal
 cheiropatagium
-cleanness
+cleanness 1
 cheiropod
 congressed
 cheiropody
