@@ -16511,7 +16511,7 @@ carboxyl
 cowsharn
 cosmos
 calendar
-coinheritance
+coinheritance 1
 correlative
 clogmaking
 clogwheel
