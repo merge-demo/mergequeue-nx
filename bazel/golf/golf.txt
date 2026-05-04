@@ -4808,7 +4808,7 @@ gweducks
 gargoylishly
 gobiiform
 glucogenic
-glassware
+glassware 1
 gravidly
 gainfulness
 glaciered
