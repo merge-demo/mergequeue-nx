@@ -28,7 +28,7 @@ febricula
 freeman
 fasciculately
 floodlet 1
-fourchee
+fourchee 1
 fieldmen
 fibrolitic
 fibrocyst
