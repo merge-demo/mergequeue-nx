@@ -10705,7 +10705,7 @@ fil
 fellmongering 1
 flavedo
 frutescence
-fetter
+fetter 1
 forbare
 forecount
 forbore
