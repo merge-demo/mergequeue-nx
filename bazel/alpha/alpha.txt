@@ -17147,7 +17147,7 @@ androecia
 apolar
 amphidiploid
 averin 1
-apolysis
+apolysis 1
 apolista
 alaunt
 aproctia
