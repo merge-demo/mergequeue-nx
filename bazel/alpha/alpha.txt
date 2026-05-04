@@ -19745,7 +19745,7 @@ arithmograph
 arithmography
 azulejos
 aggressiveness
-arithmomancy
+arithmomancy 1
 arivaipa
 amphoral 1
 anhistous
