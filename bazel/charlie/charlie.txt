@@ -2948,7 +2948,7 @@ coation
 clip
 cantharidian
 cycloacetylene
-cantharidize
+cantharidize 1
 cantharidized
 cantharus
 clotter
