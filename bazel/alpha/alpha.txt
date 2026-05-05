@@ -13608,7 +13608,7 @@ atiptoe
 amebic
 annunciations
 asininity
-ansated
+ansated 1
 airliner
 appendixes
 aglet
