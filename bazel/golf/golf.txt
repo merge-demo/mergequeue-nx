@@ -1295,7 +1295,7 @@ gyrene
 garetta
 gnawingly
 gargalize
-guttles
+guttles 1
 grump
 gerendum
 government
