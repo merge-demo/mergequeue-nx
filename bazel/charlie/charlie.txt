@@ -5608,7 +5608,7 @@ contractible
 catalogical
 carking
 choiceless
-carnality
+carnality 1
 catalogist
 catalogistic
 conquinamine
