@@ -869,7 +869,7 @@ disorchard
 dankishness
 discardable
 disprovement
-delesseria
+delesseria 1
 developability
 dannebrog
 diactinism
