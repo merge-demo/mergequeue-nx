@@ -17315,7 +17315,7 @@ bumpkin
 bumpology
 borschts
 bumptious
-boltstrake
+boltstrake 1
 blanketweed
 bolstering
 bumptiousness
