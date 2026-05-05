@@ -8826,7 +8826,7 @@ dib
 dyspraxia
 dibbing
 deliberates
-deterring
+deterring 1
 drachmas
 dibbled
 degame
