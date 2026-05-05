@@ -8865,7 +8865,7 @@ cowards
 characterism
 cueing
 characteristically
-characteristicalness
+characteristicalness 1
 cucaracha
 characteristicness
 cognizableness
