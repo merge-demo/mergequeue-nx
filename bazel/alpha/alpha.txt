@@ -9750,7 +9750,7 @@ ahluwalia
 alethiological
 antipyresis
 amoving
-amah
+amah 1
 amahuaca
 assoil
 antigen
