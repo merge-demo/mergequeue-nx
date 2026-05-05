@@ -10579,7 +10579,7 @@ crucifixes
 concremation
 celebrator
 chillroom
-chills
+chills 1
 chillsome
 countermove
 chouka
