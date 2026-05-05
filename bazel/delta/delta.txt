@@ -9390,7 +9390,7 @@ deruralize
 doubleted
 diffractiveness
 dist
-diffranchise
+diffranchise 1
 dely
 diadumenus
 decrete
