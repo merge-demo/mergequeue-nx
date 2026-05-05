@@ -9898,7 +9898,7 @@ ferreters
 friendlessness
 fancier
 fornices
-fritts
+fritts 1
 frogskins
 forepeaks
 fines
