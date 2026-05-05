@@ -6703,7 +6703,7 @@ desman
 desiderable
 diascopy
 deadhead
-desiderata
+desiderata 1
 debagged
 digamists
 declivitously
