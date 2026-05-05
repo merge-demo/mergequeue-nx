@@ -9530,7 +9530,7 @@ doneness
 digitigradism
 determa
 dictatorships
-digitinerved
+digitinerved 1
 dilutes
 depravement
 digitisation
