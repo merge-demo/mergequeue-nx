@@ -9338,7 +9338,7 @@ gangtide
 gradines
 geronomite
 glossas
-goldurn
+goldurn 1
 glycuronid
 governability
 griffs
