@@ -461,7 +461,7 @@ daytimes
 disburthen
 disaccharide
 daywrit
-dakerhen
+dakerhen 1
 designing
 disappointing
 dakhini
