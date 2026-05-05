@@ -15227,7 +15227,7 @@ antiflattering
 accordantly
 antiflatulent
 antiflux
-anticlergy
+anticlergy 1
 antiforeignism
 atole
 afrown
