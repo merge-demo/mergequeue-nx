@@ -11985,7 +11985,7 @@ droving
 depucel
 deputizes
 descry
-decalvation
+decalvation 1
 dewater
 dilacerate
 deducing
