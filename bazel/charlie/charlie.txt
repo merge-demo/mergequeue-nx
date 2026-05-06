@@ -15570,7 +15570,7 @@ cotwinned
 censive
 counterfeitment
 curriers
-chaldaei
+chaldaei 1
 creat
 churners
 classifying
