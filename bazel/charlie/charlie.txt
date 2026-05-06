@@ -4431,7 +4431,7 @@ caripuna
 cariri
 caririan
 commoner
-choke
+choke 1
 carisa
 cabilliau
 concertina
