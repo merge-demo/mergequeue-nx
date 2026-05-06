@@ -12812,7 +12812,7 @@ elementalistically
 excitomotor
 embryology
 epicystotomy
-equine
+equine 1
 emajagua
 exoterical
 espials
