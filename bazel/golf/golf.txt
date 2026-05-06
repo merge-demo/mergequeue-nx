@@ -4318,7 +4318,7 @@ gippy
 grads
 gluttonous
 garganeys
-gentisein
+gentisein 1
 gustativeness
 gnocchetti
 gyrostabilizer
