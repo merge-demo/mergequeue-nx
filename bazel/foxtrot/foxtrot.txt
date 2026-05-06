@@ -10125,7 +10125,7 @@ frittering
 fuchi
 frivolity
 freakier
-frivolities
+frivolities 1
 froughy
 fumarium
 frivolling
