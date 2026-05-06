@@ -13268,7 +13268,7 @@ assailant
 autocoid
 anisocercal
 acetifying
-anisocytosis
+anisocytosis 1
 aval
 apograph
 allwhere
