@@ -4312,7 +4312,7 @@ exaltedness
 electrochemical
 entangle
 exosmoses
-enflowered
+enflowered 1
 echiniform
 exospores 1
 enacting
