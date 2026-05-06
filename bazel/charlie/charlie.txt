@@ -20282,7 +20282,7 @@ cashiers
 catamnesis
 cytostroma
 communicability
-communicable
+communicable 1
 chansons
 communicant
 communicate
