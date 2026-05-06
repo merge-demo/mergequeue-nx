@@ -17622,7 +17622,7 @@ appert
 athematic
 accosts
 airwise
-appertained
+appertained 1
 acrose
 appertainment
 auditory
