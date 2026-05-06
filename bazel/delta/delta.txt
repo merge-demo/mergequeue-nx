@@ -1592,7 +1592,7 @@ deadpans
 depayse
 daikering
 disinfector
-deadwork
+deadwork 1
 deaerated
 dorsum
 deaf
