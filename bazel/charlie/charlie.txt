@@ -2682,7 +2682,7 @@ caninities
 conflagrated
 coleorhizae
 canion
-churchmanship
+churchmanship 1
 chromophile
 canions
 canistel
