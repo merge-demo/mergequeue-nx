@@ -2883,7 +2883,7 @@ dugdug
 danais
 doloroso
 daedalist
-devotions
+devotions 1
 drepanis 1
 deuteroscopic
 discernment
