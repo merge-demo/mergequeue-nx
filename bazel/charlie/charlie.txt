@@ -7812,7 +7812,7 @@ centaurid
 cervantic
 chaffiest
 choosing
-cervantite
+cervantite 1
 consternating
 coruscation
 choledochitis
