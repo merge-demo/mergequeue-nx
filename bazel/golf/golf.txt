@@ -5537,7 +5537,7 @@ gently
 gump
 grassfinch
 griefs
-gauffers
+gauffers 1
 guttiferous
 germinally
 gangplanks
