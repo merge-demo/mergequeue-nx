@@ -14471,7 +14471,7 @@ disproof
 divertisement
 dextrogyrous
 divertissements
-decurrency
+decurrency 1
 deferment
 divested
 doradidae
