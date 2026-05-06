@@ -11984,7 +11984,7 @@ disembowels
 droving
 depucel
 deputizes
-descry
+descry 1
 decalvation
 dewater
 dilacerate
