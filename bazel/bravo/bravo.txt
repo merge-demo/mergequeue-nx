@@ -11288,7 +11288,7 @@ byelorussian
 bachelor
 blowlamp
 blown
-bananas 1
+bananas 2
 blowoff
 blowouts
 bedels
