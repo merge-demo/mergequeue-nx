@@ -347,7 +347,7 @@ eagerer
 expatiater
 exoduses
 electrolyzability
-exigible
+exigible 1
 eaten
 eighty
 electrodynamic
