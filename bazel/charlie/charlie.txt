@@ -3454,7 +3454,7 @@ cobhouse
 chiastolite
 capris
 convoking
-caprizant
+caprizant 1
 caldron
 caproin
 camptodrome
