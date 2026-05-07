@@ -260,7 +260,7 @@ glamorous
 guao
 gemless
 glaires
-gizmo
+gizmo 1
 glyph
 gumminess
 grapta
