@@ -1357,7 +1357,7 @@ dart
 dauntingness
 discerners
 duelli
-definer
+definer 1
 dauphine
 dauphines
 drooping
