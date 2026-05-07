@@ -9117,7 +9117,7 @@ divinely
 doublehung
 disciflorous
 decagons
-didelphid
+didelphid 1
 dhoty
 dispunct
 dichoptic
