@@ -13274,7 +13274,7 @@ cesura
 cadee
 cheatee
 cycloids
-comprehending
+comprehending 1
 curates
 cyclolysis
 cycloloma
