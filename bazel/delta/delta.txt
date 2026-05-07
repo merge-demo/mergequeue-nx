@@ -13733,7 +13733,7 @@ dissogony
 downrushing
 devolvements
 disacryl
-devastatingly
+devastatingly 1
 disproval
 diatoms
 doll
