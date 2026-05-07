@@ -16196,7 +16196,7 @@ clinches
 charmingly
 clinchingly
 capkin
-chargeability
+chargeability 1
 cathedratical
 counterreligion
 cline
