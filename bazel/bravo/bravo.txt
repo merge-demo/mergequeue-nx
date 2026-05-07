@@ -17040,7 +17040,7 @@ binoxide
 bishoping
 bulkage
 boldfaces 1
-burt
+burt 1
 bulkhead
 bulkheading
 bulky
