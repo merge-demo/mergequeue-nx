@@ -250,7 +250,7 @@ electroluminescence
 easy
 epionychium
 extratubal
-eidetically
+eidetically 1
 eyeshots
 embrighten
 easiest
