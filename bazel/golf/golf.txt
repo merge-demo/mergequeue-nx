@@ -1334,7 +1334,7 @@ gristbite
 gignate
 gra
 ganoine
-goanese
+goanese 1
 guslee
 greenhouse
 goldsmiths
