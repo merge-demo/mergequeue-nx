@@ -21603,7 +21603,7 @@ antiphonaries
 angary
 allegorist
 asporogenic
-aphronia
+aphronia 1
 annexes
 applicability
 aspredo
