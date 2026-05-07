@@ -12976,7 +12976,7 @@ epicentrums
 equanimously
 expecter
 expecting
-expectingly
+expectingly 1
 enzym
 encephalopyosis
 erminette
