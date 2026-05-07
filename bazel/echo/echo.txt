@@ -6203,7 +6203,7 @@ elytrum
 engraft
 eccrinology
 episememe
-entrappingly
+entrappingly 1
 entocondyloid
 elision
 ennoblement
