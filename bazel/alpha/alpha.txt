@@ -24101,7 +24101,7 @@ autoette
 antigenicity
 autofrettage
 autogamic
-armament
+armament 1
 afreets
 autolaryngoscopic
 approvedness
