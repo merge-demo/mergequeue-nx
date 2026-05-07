@@ -9218,7 +9218,7 @@ dieyerie
 disguiser
 dentinoma
 dieing
-deprovincialize
+deprovincialize 1
 dagged
 dramshops
 derat
