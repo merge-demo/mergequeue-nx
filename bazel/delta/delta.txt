@@ -10310,7 +10310,7 @@ dionysia
 dionysiac
 dionysiacally
 dionysus
-dirigibles
+dirigibles 1
 diastrophy
 dionize
 dioon
