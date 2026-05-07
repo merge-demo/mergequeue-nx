@@ -3247,7 +3247,7 @@ catecheses
 creophagism
 crackbrain
 curtana
-casques
+casques 1
 capitalizing
 capitalness
 capitan
