@@ -5419,7 +5419,7 @@ endothermy
 ectopatagia
 erthling
 echinocactus
-euryalean
+euryalean 1
 electively
 evangelium
 endotys
