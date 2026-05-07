@@ -4093,7 +4093,7 @@ choyaroot
 counterrevolution
 cyanometric
 chattertonian
-cardias
+cardias 1
 colubrids
 coolerman
 cardiasthenia
