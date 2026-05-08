@@ -3051,7 +3051,7 @@ deerfood
 deservings
 dragonfish
 disestablishment
-deerhound
+deerhound 1
 diphthongs
 deucedly
 dowress
