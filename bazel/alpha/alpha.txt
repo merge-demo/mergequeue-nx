@@ -21997,7 +21997,7 @@ apothesis
 antiperiodic
 act
 assuming
-assumingly
+assumingly 1
 assummon
 assumptious
 assumptiousness
