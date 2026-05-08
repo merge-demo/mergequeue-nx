@@ -1569,7 +1569,7 @@ dim
 denominant
 deadheartedly
 deadheartedness
-deady
+deady 1
 dominancy
 defilades
 deadish
