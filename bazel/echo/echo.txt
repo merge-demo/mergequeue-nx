@@ -12082,7 +12082,7 @@ eccentric
 eris
 enfoldment
 excuseless 1
-endemisms
+endemisms 1
 excresence
 excreta
 escheator
