@@ -8384,7 +8384,7 @@ enhaloes
 euphuist
 everylike
 epitomized
-epitomizes
+epitomizes 1
 electrohydraulically
 echiurus
 exterminates
