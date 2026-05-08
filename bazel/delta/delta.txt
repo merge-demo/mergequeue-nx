@@ -1267,7 +1267,7 @@ delacerate
 drosograph
 datisi
 dative
-dorking
+dorking 1
 datively
 dreamlore
 dimouts
