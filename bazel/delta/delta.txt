@@ -9484,7 +9484,7 @@ delesseriaceae
 disconfirmation
 decline
 dinornithidae
-digesting
+digesting 1
 dodecadrachm
 digestively 1
 dural

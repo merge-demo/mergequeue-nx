@@ -6559,7 +6559,7 @@ commissionated
 caws
 cholecystorrhaphy
 caxiri
-clannish
+clannish 1
 commissaries
 caxon
 cretaceous
