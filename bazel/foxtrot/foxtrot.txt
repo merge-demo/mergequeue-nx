@@ -7845,7 +7845,7 @@ fungify
 favorite 1
 fligged
 focusing
-fatiguable
+fatiguable 1
 fellen
 findings
 foreplay 1
