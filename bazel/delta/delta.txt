@@ -6492,7 +6492,7 @@ disencumberment
 diag
 dispossesses
 desmarestiaceae
-descendable
+descendable 1
 descendants
 dimensioned
 dipeptid
