@@ -617,7 +617,7 @@ gloryless
 galliots
 goulashes
 gurnets
-gramaries
+gramaries 1
 gazophylacium
 gemmiparously
 glassed
