@@ -9470,7 +9470,7 @@ digerent
 dereistically
 doedicurus
 dustiest
-detester
+detester 1
 disparateness
 dopy
 digestibility

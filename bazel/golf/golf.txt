@@ -9163,7 +9163,7 @@ gouldian
 glauconitization
 gripgrass
 grouchily
-gora
+gora 1
 gridding 1
 geographically
 granulates
