@@ -388,7 +388,7 @@ drinkers
 daimiote
 defension
 deployable
-disembargoing
+disembargoing 1
 dimmet
 daimons
 ditches
