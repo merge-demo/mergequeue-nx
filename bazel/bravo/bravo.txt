@@ -983,7 +983,7 @@ burnous
 boat
 bayamos
 brownier
-brigand
+brigand 1
 bayano
 birlie
 bewitch 1
