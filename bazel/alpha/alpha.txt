@@ -21049,7 +21049,7 @@ ashluslay
 aceconitic
 ascititious
 agaz
-allegorism
+allegorism 1
 asclepiad
 asporous
 asclepiadaceae
