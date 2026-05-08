@@ -1595,7 +1595,7 @@ eucaines
 eff
 estopped
 erogenetic
-embay
+embay 1
 euphonetics
 enablers
 eyewitnesses
