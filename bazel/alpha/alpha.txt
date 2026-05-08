@@ -6458,7 +6458,7 @@ aguise
 antimeter
 axanthopsia 1
 antignostical
-ameliorant
+ameliorant 1
 auxanology
 aphroditic
 adams
