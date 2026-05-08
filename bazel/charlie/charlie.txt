@@ -15544,7 +15544,7 @@ crossbolted
 classicalist
 classicality
 chaya
-classicise
+classicise 1
 chromophoric
 classicism
 classicist
