@@ -18026,7 +18026,7 @@ busload
 busman
 bondmanship
 busmen
-benda
+benda 1
 busses
 bussing 1
 bussock
