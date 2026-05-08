@@ -3348,7 +3348,7 @@ dormant
 dilatant
 deliriate
 diastem
-demitting
+demitting 1
 desisted
 duddery
 destiny
