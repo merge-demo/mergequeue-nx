@@ -5437,7 +5437,7 @@ denumerantive
 disestablished
 drumbledore
 disinure
-denunciator
+denunciator 1
 discrownment
 disciplinableness
 detd
