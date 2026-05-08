@@ -21533,7 +21533,7 @@ amarantite
 asphyxiating
 athapaskan
 asphyxiation
-avenging
+avenging 1
 asphyxiator
 asphyxied
 achlorhydric
