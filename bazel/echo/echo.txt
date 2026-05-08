@@ -12345,7 +12345,7 @@ exertionless
 eschscholtzia
 estuate
 elric
-exertions
+exertions 1
 ergate
 enurny
 eseptate
