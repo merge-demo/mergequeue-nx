@@ -26285,7 +26285,7 @@ charivari
 csk
 ceston
 cervicicardiac
-coloradans
+coloradans 1
 cursoriidae
 causational
 crowfoots
