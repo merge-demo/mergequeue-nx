@@ -10319,7 +10319,7 @@ girondin 1
 gamodesmic
 gymnostomous
 gigantostraca
-geographized
+geographized 1
 gastroenterology 1
 gridder
 gloomed
