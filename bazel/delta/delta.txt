@@ -5875,7 +5875,7 @@ deota
 degradingness
 dregless
 dirk
-depreciable
+depreciable 1
 dysspermatism
 depreciate
 deponents
