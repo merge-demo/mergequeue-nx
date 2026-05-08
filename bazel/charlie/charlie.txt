@@ -5397,7 +5397,7 @@ castice
 castigable
 confederates
 constatation
-coxiest
+coxiest 1
 cyclopism
 castigate
 contemplativeness
