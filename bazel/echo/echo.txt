@@ -713,7 +713,7 @@ enode
 eyefuls
 enterozoa
 equalable
-expressionable
+expressionable 1
 epiglottic
 embraciveg
 eosinate
