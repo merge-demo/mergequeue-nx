@@ -9777,7 +9777,7 @@ cyclonical
 crepance
 chelydroid
 condignness
-chrematistics
+chrematistics 1
 ceylon
 caudate
 cheliform
