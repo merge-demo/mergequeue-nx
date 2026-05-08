@@ -6472,7 +6472,7 @@ foulness
 fictor
 fruitages
 fissilingual
-farriery
+farriery 1
 flatboat
 fording
 fetishists
