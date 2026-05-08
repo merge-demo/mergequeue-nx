@@ -6695,7 +6695,7 @@ artocarpad
 armisonous
 autogiros
 aimee
-artize
+artize 1
 atacameno
 anseres
 anc
