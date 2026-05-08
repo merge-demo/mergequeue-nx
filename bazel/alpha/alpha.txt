@@ -9751,7 +9751,7 @@ alethiological
 antipyresis
 amoving
 amah
-amahuaca
+amahuaca 1
 assoil
 antigen
 amanori
