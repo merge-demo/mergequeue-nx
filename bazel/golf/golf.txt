@@ -10081,7 +10081,7 @@ gudgeon
 grobianism
 gauntest
 graecize
-gainings
+gainings 1
 gramophonically
 gymnoglossate
 guavina
