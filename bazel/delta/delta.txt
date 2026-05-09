@@ -6421,7 +6421,7 @@ derriere
 dactyli
 duster
 discriminatory
-decree
+decree 1
 drung
 decenter
 disencumbered
