@@ -7185,7 +7185,7 @@ airworthiness
 anadromous
 alacran
 advertized
-automatic
+automatic 1
 ameloblast
 adnouns
 abettals
