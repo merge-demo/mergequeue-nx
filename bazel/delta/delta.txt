@@ -1834,7 +1834,7 @@ debby
 dislocatedness
 disengages
 disharmonious
-debarbarize
+debarbarize 1
 daylilies
 debeige
 douzepers
