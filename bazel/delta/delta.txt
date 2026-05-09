@@ -14008,7 +14008,7 @@ defending
 dumpling
 disproportion
 disorb
-deterge
+deterge 1
 database
 distractively
 dibromide
