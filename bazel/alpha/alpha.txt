@@ -9240,7 +9240,7 @@ alodialist
 archdeaconry
 alodialty
 adenogenous
-atomics
+atomics 1
 antiparliamentarian
 argentamin
 autometric
