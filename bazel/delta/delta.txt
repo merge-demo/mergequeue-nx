@@ -12838,7 +12838,7 @@ devotionally
 dominial
 destructor
 dam
-dribblets
+dribblets 1
 democratization
 dismasted 1
 denned
