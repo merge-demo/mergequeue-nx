@@ -13004,7 +13004,7 @@ descaling
 diphthongized
 deallocated
 doweries
-dispar
+dispar 1
 disparageable
 diabolised
 disparagement
