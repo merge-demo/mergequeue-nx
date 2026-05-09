@@ -3724,7 +3724,7 @@ chevaline
 carates
 candor
 changuina
-campanological
+campanological 1
 carauna
 coventrize
 caravaneer
