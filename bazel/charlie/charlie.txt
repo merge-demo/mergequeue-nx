@@ -21048,7 +21048,7 @@ computer
 computerese
 computerise
 computerization
-computerizes
+computerizes 1
 computerizing
 crones
 computernik
