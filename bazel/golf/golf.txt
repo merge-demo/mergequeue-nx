@@ -1403,7 +1403,7 @@ gallotannin
 gasified
 gausterer
 gearshift
-gcd
+gcd 1
 gangplow
 grundyite
 galvanopsychic
