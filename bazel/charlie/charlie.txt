@@ -12099,7 +12099,7 @@ clockwork
 chowhound
 coapprehend
 consume
-cered
+cered 1
 cledonism
 circler
 catallactically
