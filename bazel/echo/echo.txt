@@ -3679,7 +3679,7 @@ extravert
 encolpion
 exomion
 excogitates
-engarment
+engarment 1
 emaciated
 erythrons
 enwheel
