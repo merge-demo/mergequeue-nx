@@ -6663,7 +6663,7 @@ bunsenite
 berigora
 beryl
 beryllonate
-berimed
+berimed 1
 beseemly
 berimes
 bradypnoea
