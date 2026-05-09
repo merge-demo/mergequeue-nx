@@ -4514,7 +4514,7 @@ bae
 bandolero
 blankest
 brigadiership
-barricaded
+barricaded 1
 burnsides
 batata
 balushai
