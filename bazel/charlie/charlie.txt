@@ -2163,7 +2163,7 @@ camphocarboxylic
 camphoid
 choryos
 camphol
-campholic
+campholic 1
 compilatory
 coleorhiza
 camphols
