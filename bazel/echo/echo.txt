@@ -4500,7 +4500,7 @@ ensilage 1
 endolithic
 encephalartos
 encephalasthenia
-effloresced
+effloresced 1
 escocheon
 erythrophagous
 encephalitic 1
