@@ -12631,7 +12631,7 @@ exoculation
 exoderm
 elohistic
 electrophore
-eranthemum
+eranthemum 1
 extramurally
 emeus
 elephantidae
