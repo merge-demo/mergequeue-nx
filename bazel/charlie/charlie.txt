@@ -3189,7 +3189,7 @@ craked
 citruses
 capewise
 capework
-capful
+capful 1
 caphar
 clistogastra
 cotillon
