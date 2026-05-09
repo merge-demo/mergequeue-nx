@@ -9558,7 +9558,7 @@ groveled 1
 gridiron
 giustina
 goster
-geophagies
+geophagies 1
 graphical
 glamorized
 geodynamical

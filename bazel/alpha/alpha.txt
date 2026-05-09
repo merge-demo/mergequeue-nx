@@ -683,7 +683,7 @@ aphroditidae
 abortin
 antihydropin
 autonephrotoxin
-allayment
+allayment 1
 autotoxaemia
 abortional
 antiglobulin
