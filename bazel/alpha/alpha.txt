@@ -23490,7 +23490,7 @@ architraves
 augmenters
 augmentive
 augrim
-aggravator
+aggravator 1
 aphorizer
 ambidexterous
 ansel
