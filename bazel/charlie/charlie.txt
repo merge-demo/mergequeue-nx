@@ -1689,7 +1689,7 @@ counterdiscipline 1
 calorifical
 chairs
 calorification
-cardiograph
+cardiograph 1
 calappa
 curelessly
 calorifics
