@@ -3188,7 +3188,7 @@ fibrovascular
 frigostable
 federalese
 frithwork
-feazings
+feazings 1
 friezes
 fibulae
 floodcock
