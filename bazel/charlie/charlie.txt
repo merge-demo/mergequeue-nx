@@ -17693,7 +17693,7 @@ colliding
 comoid
 charmeuse
 cockaigne
-cunjer
+cunjer 1
 cockal
 carboloy
 counternoise
