@@ -8643,7 +8643,7 @@ erythrogonium
 erineum
 enzymotic
 ethanols 1
-erelong
+erelong 1
 extractor
 enervous
 exceptionable
