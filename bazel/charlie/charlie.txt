@@ -8874,7 +8874,7 @@ characterizing
 characterless
 characterlessness
 characterology
-coffle
+coffle 1
 crosshead
 confirming
 cassinette
