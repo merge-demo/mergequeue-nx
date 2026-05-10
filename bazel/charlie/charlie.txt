@@ -11691,7 +11691,7 @@ cholos
 choloscopy
 cholterheaded
 choltry
-chirrups
+chirrups 1
 creekstuff
 cholum
 clavicor
