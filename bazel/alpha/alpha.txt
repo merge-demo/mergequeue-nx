@@ -20395,7 +20395,7 @@ arses
 arsheen
 affirmance
 absinthian
-afterimage
+afterimage 1
 antioxygenic
 arshine
 abigails
