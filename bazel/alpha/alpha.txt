@@ -18118,7 +18118,7 @@ aqualunger
 apogee
 absurdities
 augmentationer
-apneustic
+apneustic 1
 aquamanilia
 allyls
 aquamarines
