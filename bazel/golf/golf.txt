@@ -6960,7 +6960,7 @@ guiana
 gnostically
 glaziness
 gruppetto
-gamut
+gamut 1
 goodwillie
 gilgie
 gelatinize
