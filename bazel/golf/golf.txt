@@ -4527,7 +4527,7 @@ gardevisure
 glyptology
 grame
 gyrose
-grindingly
+grindingly 1
 grandmothers
 guastalline
 grumous
