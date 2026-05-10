@@ -3909,7 +3909,7 @@ dejects
 drake
 dejeration
 dejeuner
-dekadrachm
+dekadrachm 1
 dekagramme
 doggerelize
 discommunity
