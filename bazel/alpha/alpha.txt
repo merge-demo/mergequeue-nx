@@ -18662,7 +18662,7 @@ archaising
 archaism
 algebraically 1
 ati
-asporulate
+asporulate 1
 alodium
 archaist
 albuminometry
