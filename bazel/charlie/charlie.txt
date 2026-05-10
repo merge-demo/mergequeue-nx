@@ -20407,7 +20407,7 @@ cresols
 condonative
 concamerate
 companable
-companage
+companage 1
 circumfluent
 counterword
 cerebroma
