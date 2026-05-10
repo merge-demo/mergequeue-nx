@@ -124,7 +124,7 @@ determinableness
 diddered
 detonated 1
 dialectologically
-diazeuctic
+diazeuctic 1
 dioecism
 debilitations
 dyspathetic
