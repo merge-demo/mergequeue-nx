@@ -11225,7 +11225,7 @@ antisyphilitic
 aerophilia
 amphigam
 archpractice
-appellable
+appellable 1
 amphigastrium
 aspersed
 amphigene
