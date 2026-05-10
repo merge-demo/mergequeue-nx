@@ -7252,7 +7252,7 @@ concurrent
 countians
 centrosymmetrical
 centrosoyus
-centrosphere
+centrosphere 1
 crevassed
 cylinderer
 cancrizans
