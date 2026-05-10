@@ -14606,7 +14606,7 @@ anticline
 aliency
 aviational
 antidepressants
-anthropurgic
+anthropurgic 1
 anthroxanic
 arrogative
 antipolemist
