@@ -1725,7 +1725,7 @@ anglicanum
 archtraitor
 antediluvian
 aporia
-abases
+abases 1
 antrotympanic
 arneb
 accoy
