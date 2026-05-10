@@ -12443,7 +12443,7 @@ andronicus
 adjective
 aromal
 androphorous
-antipyryl
+antipyryl 1
 amenty
 actinides
 argante
