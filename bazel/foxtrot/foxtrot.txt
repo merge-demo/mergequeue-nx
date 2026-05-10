@@ -4007,7 +4007,7 @@ furcula
 forestalled
 friese
 flattish
-forfeited
+forfeited 1
 flunk
 fingerprint
 ferric
