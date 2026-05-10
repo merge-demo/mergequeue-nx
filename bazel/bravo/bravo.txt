@@ -11922,7 +11922,7 @@ bisaxillary
 bogatyr 1
 boosies
 bogbeans
-bordels
+bordels 1
 bogberry
 baluchi
 bogeyman
