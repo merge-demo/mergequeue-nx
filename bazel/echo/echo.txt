@@ -13969,7 +13969,7 @@ extraperineal
 emceed
 embosked
 enwreathed
-endears
+endears 1
 exundance
 exsuperance
 extraperiosteal
