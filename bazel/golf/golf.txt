@@ -7521,7 +7521,7 @@ glossopharyngeal
 glitch
 guessable
 glottalized
-gat
+gat 1
 governed
 gotten
 graecizing
