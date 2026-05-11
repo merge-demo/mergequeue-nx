@@ -245,7 +245,7 @@ adenomyxoma
 actable 1
 aselline
 apostate
-abraded
+abraded 1
 acantholysis
 adenomata
 abbreviates
