@@ -3706,7 +3706,7 @@ adephagous 1
 argoan
 amies
 archidiaceae
-antilogarithmic
+antilogarithmic 1
 alloted
 abrenounce
 alliteration
