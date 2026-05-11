@@ -4805,7 +4805,7 @@ gibbosity
 governorship
 galgal
 gweducks
-gargoylishly
+gargoylishly 1
 gobiiform
 glucogenic
 glassware
