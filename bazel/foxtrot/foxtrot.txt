@@ -5424,7 +5424,7 @@ fabian
 feasten
 forefigure
 furor
-flurt
+flurt 1
 fault
 firstfruits
 finnip
