@@ -4171,7 +4171,7 @@ adoperate
 ammonals
 anticrotalic
 aphrasia
-adjag
+adjag 1
 apoapsis
 armorers
 acetoxyls
