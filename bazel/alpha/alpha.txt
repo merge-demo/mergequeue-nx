@@ -21587,7 +21587,7 @@ anthoclinium
 archprotopope
 aprilesque
 anice
-antecedes
+antecedes 1
 aspiringly
 anabata
 anakoluthia
