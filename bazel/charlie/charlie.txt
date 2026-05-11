@@ -28066,7 +28066,7 @@ crampette
 constituter
 cramping
 crampingly
-crampish
+crampish 1
 carpentership
 chondroblast
 crampits
