@@ -181,7 +181,7 @@ ergogram 1
 exploration
 elaps
 electromotion
-electrolier
+electrolier 1
 equipoising
 extraformal
 examiner
