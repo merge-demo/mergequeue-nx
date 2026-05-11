@@ -14845,7 +14845,7 @@ antipoverty
 aswough
 antineutron 1
 antichthon
-abkhas
+abkhas 1
 antichthones
 acuan
 acronymized
