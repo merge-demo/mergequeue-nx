@@ -23226,7 +23226,7 @@ auriphrygiate
 anapaganize
 atticisms
 atticist
-apollonicon
+apollonicon 1
 atticomastoid
 amandin
 apiculture
