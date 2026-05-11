@@ -6490,7 +6490,7 @@ chromoscope
 cavekeeper
 cavelet
 confiner
-cambodia
+cambodia 1
 cavelike
 cavemen
 cavernal
