@@ -7985,7 +7985,7 @@ cholecalciferol
 chab
 celibate
 chabasite
-counterclockwise
+counterclockwise 1
 chabazite
 celiosalpingectomy
 chaber
