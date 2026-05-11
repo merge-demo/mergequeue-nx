@@ -19849,7 +19849,7 @@ acquereur
 armida
 armies
 abthainry
-affenspalte
+affenspalte 1
 armiferous
 agnoetism
 agnoetae
