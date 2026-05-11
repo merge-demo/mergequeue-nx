@@ -28959,7 +28959,7 @@ crickey
 cricket
 converso
 cricketers
-chuckler
+chuckler 1
 cicindelid
 countervengeance
 cigaret
