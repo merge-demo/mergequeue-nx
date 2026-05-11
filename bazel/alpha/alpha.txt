@@ -14022,7 +14022,7 @@ aloha
 anomalurus
 ariser
 aldamin
-abstemious
+abstemious 1
 antebellum
 allutterly
 aht
