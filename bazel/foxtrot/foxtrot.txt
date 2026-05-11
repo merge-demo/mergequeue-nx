@@ -2261,7 +2261,7 @@ fsiest
 fustee
 footfalls
 forgetters 1
-fenchene
+fenchene 1
 favn
 feluccas
 ficoid
