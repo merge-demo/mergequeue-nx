@@ -12913,7 +12913,7 @@ clavus
 colorblindness
 carroming
 cucullus
-clodpolls
+clodpolls 1
 critism
 coronoid 1
 cleidocranial
