@@ -1908,7 +1908,7 @@ cambric
 cartonnage
 cambricleaf
 colobus
-curs
+curs 1
 cambridge
 catostomidae
 chaumer
