@@ -1551,7 +1551,7 @@ calliphorid
 celosia
 calliphoridae
 calliphorine 1
-callipygous
+callipygous 1
 callippic
 callirrhoe
 callisaurus
