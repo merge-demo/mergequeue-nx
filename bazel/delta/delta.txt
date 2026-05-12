@@ -518,7 +518,7 @@ descended
 demicadence
 dallier
 dup
-denuclearizes
+denuclearizes 1
 dextromanual
 diminishingturns
 discustom 1
