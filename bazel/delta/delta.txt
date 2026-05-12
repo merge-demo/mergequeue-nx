@@ -9923,7 +9923,7 @@ diplodocuses
 ductilely
 dermatoptic
 drear
-direly
+direly 1
 dimetry
 disorganizes
 densimetry

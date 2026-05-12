@@ -1601,7 +1601,7 @@ cyanidine
 castor
 callousness
 callowest
-cretinization
+cretinization 1
 clothmaker 1
 callowman
 cleistogamic
