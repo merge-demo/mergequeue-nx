@@ -3174,7 +3174,7 @@ capernutie
 cenesthesia
 carapace
 clusters
-capersome
+capersome 1
 capersomeness
 cranches
 calista
