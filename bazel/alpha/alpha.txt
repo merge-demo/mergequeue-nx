@@ -1261,7 +1261,7 @@ androlepsia
 amay
 acarophobia
 acarotoxic
-arcturus
+arcturus 1
 aerognosy
 australopithecine
 ails
