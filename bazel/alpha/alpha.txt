@@ -12021,7 +12021,7 @@ apostrophize
 anaretical
 arc
 arboret
-asymtotes
+asymtotes 1
 anarthric
 aerogenically
 antisepticizing
