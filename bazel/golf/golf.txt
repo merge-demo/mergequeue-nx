@@ -1711,7 +1711,7 @@ gastrograph
 gamebag
 gazetteerish
 gordioidea
-glories
+glories 1
 gane
 grassquit
 gastrojejunostomy 1
