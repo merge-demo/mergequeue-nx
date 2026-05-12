@@ -6122,7 +6122,7 @@ barograph
 bulimoid
 betide
 barquette
-badaxe
+badaxe 1
 bolshevizing
 bitolyl
 backhaul
