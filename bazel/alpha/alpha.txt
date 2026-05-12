@@ -5474,7 +5474,7 @@ afteract
 appetitive
 afterlife
 alepine
-absorbs
+absorbs 1
 actinophone 1
 afterbirth
 antiutilitarian
