@@ -11931,7 +11931,7 @@ diseasedness
 diseases
 diseconomy
 diastemata
-dolerites
+dolerites 1
 diselenid
 dicetyl
 diplostemonous
