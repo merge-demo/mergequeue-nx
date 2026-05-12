@@ -7075,7 +7075,7 @@ entry
 epris 1
 expansionary
 exemptile
-earthfast
+earthfast 1
 experiencer
 enumeration
 elsholtzia
