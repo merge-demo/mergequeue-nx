@@ -15595,7 +15595,7 @@ antimusically
 animalculous
 afront
 antimusicalness
-affrightedly
+affrightedly 1
 areoles
 antispasmodics
 antinaturalism
