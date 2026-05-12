@@ -133,7 +133,7 @@ archaeographic
 awesomeness
 aspidoganoidei 1
 aulostoma
-abasic
+abasic 1
 anachueta
 alcarraza
 amused
