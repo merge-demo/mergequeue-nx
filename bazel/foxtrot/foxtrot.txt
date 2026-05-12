@@ -10279,7 +10279,7 @@ folkmot
 faultless
 fromenty
 fromenties
-fogyishness
+fogyishness 1
 fluorated
 floscularian
 faquirs
