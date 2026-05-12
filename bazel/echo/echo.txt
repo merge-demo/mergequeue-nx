@@ -6898,7 +6898,7 @@ epaulets
 evitable
 entomosporium
 ethically
-ellipsoidal
+ellipsoidal 1
 endangered
 electrum
 etiquettes
