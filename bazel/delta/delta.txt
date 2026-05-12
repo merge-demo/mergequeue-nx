@@ -3491,7 +3491,7 @@ descending
 disjunct
 debilitant 1
 dichroscope
-decelerating
+decelerating 1
 dehydrochlorination
 dorosacral
 decompressed
