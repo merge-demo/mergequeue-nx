@@ -8787,7 +8787,7 @@ bounden
 besets
 bini
 beraking
-bettering
+bettering 1
 berakoth
 biniou
 binitarianism
