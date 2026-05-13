@@ -3032,7 +3032,7 @@ dealings
 dies
 dismantling
 deepfreeze
-dilettantish
+dilettantish 1
 deepgoing
 dawsoniaceous 1
 debaucheries
