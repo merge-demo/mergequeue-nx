@@ -9241,7 +9241,7 @@ element
 embryoid
 eyestrain
 erotogenesis
-effranchise
+effranchise 1
 errable
 existences
 ejido
