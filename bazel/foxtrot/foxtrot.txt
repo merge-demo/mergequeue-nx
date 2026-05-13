@@ -2385,7 +2385,7 @@ feriation
 falsedad
 flinting
 flexors
-fricandeau
+fricandeau 1
 folksiness
 foredating
 fromfile
