@@ -2286,7 +2286,7 @@ derby
 decemviral
 deepish
 decemvirship
-decayer
+decayer 1
 decene
 depurator
 decennial
