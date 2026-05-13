@@ -9299,7 +9299,7 @@ dog
 diethylstilboestrol
 dekaliters
 disploded 1
-deobstruent
+deobstruent 1
 dietic
 decolorant
 dietitians
