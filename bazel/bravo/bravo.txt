@@ -8438,7 +8438,7 @@ blighted
 bilection
 bileve
 bilewhit
-bavardage
+bavardage 1
 bootjack
 bouteloua
 belinurus
