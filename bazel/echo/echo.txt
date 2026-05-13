@@ -13066,7 +13066,7 @@ eucaine
 embankment
 ergates
 enslave
-embassador
+embassador 1
 eutaxite
 explications
 ergotisms
