@@ -30916,7 +30916,7 @@ cultivates 1
 cultivating
 cooeed
 cultivations
-cultivative
+cultivative 1
 cultivator
 cultive
 cultrate
