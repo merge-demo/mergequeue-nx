@@ -5666,7 +5666,7 @@ belecture
 burbush
 belemnitic
 bairnlier
-belemnoid
+belemnoid 1
 belayed
 bambinos
 bowssen
