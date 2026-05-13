@@ -9667,7 +9667,7 @@ accusatorially
 accustomize
 abeyance
 alumohydrocalcite
-aruspice
+aruspice 1
 alundum
 artiphyllous
 appendices
