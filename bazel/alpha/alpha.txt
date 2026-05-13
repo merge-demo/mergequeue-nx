@@ -21522,7 +21522,7 @@ asphyxia 1
 abreid
 antagonized
 arretine
-apotypic
+apotypic 1
 admonishingly
 anthroxan
 asphyxias
