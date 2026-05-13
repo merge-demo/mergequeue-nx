@@ -18899,7 +18899,7 @@ astalk
 autotomising
 addoom
 aphelian
-aldohexose
+aldohexose 1
 ausu
 aposafranine
 archilute
