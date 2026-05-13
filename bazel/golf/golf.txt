@@ -2016,7 +2016,7 @@ galatian
 gars
 generalness
 gambogic
-gums
+gums 1
 gauzewing
 gomorrah
 gnaeus
