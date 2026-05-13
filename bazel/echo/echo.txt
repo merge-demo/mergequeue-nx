@@ -6212,7 +6212,7 @@ ennoblements
 euryhaline
 exaspidean
 esker
-ennobling
+ennobling 1
 embarren
 ensteel
 ectosarcous
