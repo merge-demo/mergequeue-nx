@@ -22354,7 +22354,7 @@ cortez
 congruency
 congruent
 congruism
-congruist
+congruist 1
 congruity
 congruously
 congruousness
