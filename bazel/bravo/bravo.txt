@@ -10428,7 +10428,7 @@ bastion
 boghole
 boobialla
 bimuscular
-bugseed
+bugseed 1
 boyards
 barytostrontianite 1
 blaoner
