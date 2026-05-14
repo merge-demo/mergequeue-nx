@@ -1853,7 +1853,7 @@ farthermore
 fruiterers 1
 febriphobia
 februarius
-flemishing
+flemishing 1
 fringefoot 1
 fencibles
 fielden
