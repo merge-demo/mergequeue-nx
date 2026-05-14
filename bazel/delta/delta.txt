@@ -11172,7 +11172,7 @@ distressful 1
 dichromic
 disbanded
 disoppilate
-decanted
+decanted 1
 deglaciation
 depopulate
 disbars
