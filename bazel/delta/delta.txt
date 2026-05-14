@@ -5494,7 +5494,7 @@ dissolubility
 deadest
 devoiced
 dorsiventrality
-deoxidize
+deoxidize 1
 doryphoros
 deoxygenated
 depaints
