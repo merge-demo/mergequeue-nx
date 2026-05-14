@@ -11969,7 +11969,7 @@ disembogued
 diarian
 deceases
 disembowel
-deliciate
+deliciate 1
 dictionaries
 diducing
 disemboweling
