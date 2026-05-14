@@ -15401,7 +15401,7 @@ antilitter
 antiliturgy
 aspiculous 1
 amla
-affixt
+affixt 1
 adjutancy
 affirmed
 arbitrator
