@@ -6551,7 +6551,7 @@ achomawi
 aldebaranium
 ayatollah
 aiblins
-antileptic
+antileptic 1
 aidance
 apostasy
 aidant
