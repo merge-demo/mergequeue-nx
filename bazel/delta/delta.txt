@@ -1588,7 +1588,7 @@ disenthralled
 deadness
 dairyman
 deadpanned
-deadpans
+deadpans 1
 depayse
 daikering
 disinfector
