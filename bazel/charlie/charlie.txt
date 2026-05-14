@@ -13479,7 +13479,7 @@ canoness
 contemptful
 catalogued
 comedia
-caseating
+caseating 1
 cilicism
 ciliella
 cistern
