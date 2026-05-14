@@ -9064,7 +9064,7 @@ falcular
 fribbleism
 fractionation
 forenent
-folding
+folding 1
 fiant
 friesish
 funnellike
