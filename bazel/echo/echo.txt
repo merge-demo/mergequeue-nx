@@ -12718,7 +12718,7 @@ exophasic
 exalted
 exophthalmia
 embloom
-exenterating
+exenterating 1
 exophthalmus
 euonymus
 emboweling
