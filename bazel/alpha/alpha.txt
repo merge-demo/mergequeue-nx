@@ -11555,7 +11555,7 @@ appositions 1
 adenophyllous
 aulas
 anabolism
-ammophilous
+ammophilous 1
 accinging
 amethysts
 anabolize
