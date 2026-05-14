@@ -12076,7 +12076,7 @@ anhalamine
 airspeed
 anastasimon
 anastasius
-anemosis
+anemosis 1
 architeuthis
 anastate
 anastatus
