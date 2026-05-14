@@ -5201,7 +5201,7 @@ dyings
 daemon
 doghole
 decephalization
-deathly
+deathly 1
 diaheliotropic
 detruncating
 devoid
