@@ -1826,7 +1826,7 @@ aethered
 aceraceous
 acerae
 arcual
-angling
+angling 1
 acerate
 acerated
 acceptancies
