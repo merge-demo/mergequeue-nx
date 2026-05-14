@@ -6651,7 +6651,7 @@ driers
 deletes
 doubleganger
 dianisidine
-deplump
+deplump 1
 draughtswoman
 desertification
 dodecahedric
