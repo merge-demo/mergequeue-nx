@@ -5782,7 +5782,7 @@ flurriedly
 faailk
 fluorocarbon
 faunated
-foreheads
+foreheads 1
 fulgurant
 fribble
 family
