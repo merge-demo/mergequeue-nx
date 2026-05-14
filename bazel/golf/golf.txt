@@ -2307,7 +2307,7 @@ gelant
 glyceric
 ganta
 granulation
-gelatinating
+gelatinating 1
 greyfish
 geognosis 1
 guaranis
