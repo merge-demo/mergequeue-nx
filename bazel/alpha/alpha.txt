@@ -11503,7 +11503,7 @@ astrologous
 amusette
 aurichlorohydric
 aptate
-amusia
+amusia 1
 accidies
 antinatural
 amusingness
