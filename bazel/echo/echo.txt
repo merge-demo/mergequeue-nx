@@ -2079,7 +2079,7 @@ embalm
 enterocinesia
 elaphurus
 enology
-expedites
+expedites 1
 enjoyers
 encumberer
 euthyneural
