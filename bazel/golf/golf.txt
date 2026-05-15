@@ -8217,7 +8217,7 @@ gooseneck
 graphemically
 gris
 gasconading
-genevois
+genevois 1
 graphemics
 graphically
 glutamates
