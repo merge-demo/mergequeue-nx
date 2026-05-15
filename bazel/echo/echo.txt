@@ -5294,7 +5294,7 @@ evened
 editors
 ecumenicity 1
 endopodite
-exagitation
+exagitation 1
 eskimoid
 elapsoidea
 earthshakingly
