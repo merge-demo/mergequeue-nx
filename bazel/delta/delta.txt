@@ -13991,7 +13991,7 @@ decasualising
 distinctions
 disruptionist 1
 distortions
-delocalise
+delocalise 1
 differentiable
 distorts
 dolomitising
