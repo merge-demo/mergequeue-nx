@@ -2065,7 +2065,7 @@ baulky
 bannerline
 bannerole 1
 blossomry
-bronchus
+bronchus 1
 bcf
 baldest
 blesses
