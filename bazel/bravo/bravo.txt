@@ -6778,7 +6778,7 @@ buhls
 barytosulphate
 badian
 bookery
-bersagliere
+bersagliere 1
 brittles
 bin
 berserks
