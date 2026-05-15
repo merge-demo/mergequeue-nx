@@ -7986,7 +7986,7 @@ estab
 eliminand
 enomaniac
 epidermous
-expenselessness
+expenselessness 1
 epineuneuria
 enterocholecystostomy
 evolutionary
