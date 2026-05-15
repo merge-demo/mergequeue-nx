@@ -10352,7 +10352,7 @@ daroo
 diophantine
 driftpiece
 dowsing
-dentata
+dentata 1
 derelictly
 degeneracy
 dioramic
