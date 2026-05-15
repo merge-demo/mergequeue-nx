@@ -9753,7 +9753,7 @@ enrobing
 eucharist
 exfoliatory
 epyllion 1
-estivating
+estivating 1
 erythronium
 elamp
 eurhythmy
