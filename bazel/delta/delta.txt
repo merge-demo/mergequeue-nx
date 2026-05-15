@@ -12814,7 +12814,7 @@ democratising
 dismal
 dialogs
 dorsomedian
-decreptitude
+decreptitude 1
 dehydrogenized
 downhaul
 dyemaking
