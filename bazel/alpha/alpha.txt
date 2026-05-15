@@ -7869,7 +7869,7 @@ appointable
 amicron
 anociassociation
 arrentable
-alectryomancy
+alectryomancy 1
 anaptotic
 alectrion
 aerotow
