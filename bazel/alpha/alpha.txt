@@ -6691,7 +6691,7 @@ abolitionize
 allotypic
 azotin
 autocamp
-artocarpad
+artocarpad 1
 armisonous
 autogiros
 aimee
