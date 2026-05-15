@@ -139,7 +139,7 @@ girth
 gigantology
 gaelic
 gynostegia
-gs
+gs 1
 gallicole
 guy
 gratelike
