@@ -13906,7 +13906,7 @@ assyriologue
 anticorn
 askaris
 amninions
-anstosse
+anstosse 1
 adolphus
 aesthete
 ansu
