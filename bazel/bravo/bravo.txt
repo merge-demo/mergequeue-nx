@@ -17119,7 +17119,7 @@ britchka
 bifold
 beseeming
 bullfighters
-beglare
+beglare 1
 burliness
 brimfully
 bullfinches
