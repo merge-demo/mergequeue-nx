@@ -25038,7 +25038,7 @@ ablepsia
 allodium
 allocheiria
 anklung
-astringents
+astringents 1
 antihydrophobic
 algologies
 awoke
