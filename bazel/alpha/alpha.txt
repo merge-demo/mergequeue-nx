@@ -16012,7 +16012,7 @@ adjurer
 atheous
 antirape
 attackingly
-ambaree
+ambaree 1
 actinomorphous
 antirealist
 askoye
