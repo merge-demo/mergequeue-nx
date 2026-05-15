@@ -4488,7 +4488,7 @@ dauntlessly 1
 disjointedly
 duomachy
 devalorize
-developmentist
+developmentist 1
 dysphoric
 deemphasizes
 dulnesses
