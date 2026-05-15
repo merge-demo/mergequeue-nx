@@ -9863,7 +9863,7 @@ denty
 diluvium
 digests
 draconically
-dextrality
+dextrality 1
 dimastigate
 deli
 divergences
