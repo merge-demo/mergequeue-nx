@@ -8543,7 +8543,7 @@ essentializing
 echinated 1
 embezzling
 eastlin
-etherify
+etherify 1
 existing
 enviable
 entoglossal
