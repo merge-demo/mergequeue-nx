@@ -12997,7 +12997,7 @@ dollarfishes
 disoxygenation
 dioscuri
 debacchate
-dight
+dight 1
 distater
 dispand
 descaling
