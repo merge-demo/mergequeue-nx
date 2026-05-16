@@ -22519,7 +22519,7 @@ chersonese
 chimbleys
 cheekful
 conjuncts
-conjunctur
+conjunctur 1
 conjunctures
 conjuration
 conjurations
