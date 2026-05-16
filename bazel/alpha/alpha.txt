@@ -865,7 +865,7 @@ arithmic
 amianthoid
 absentees
 absenters
-antisensuousness
+antisensuousness 1
 aflatus
 amurcosity
 absentminded
