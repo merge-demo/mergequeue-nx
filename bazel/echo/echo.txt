@@ -189,7 +189,7 @@ estrogenic
 emeras
 exarticulation
 exclamatively
-earthquaken
+earthquaken 1
 excurvature
 ethylthioether
 evicting
