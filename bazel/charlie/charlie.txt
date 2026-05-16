@@ -11280,7 +11280,7 @@ chloroacetone
 childe
 conservation
 chloroamide
-chloroamine
+chloroamine 1
 chloroaurate
 chloroaurite
 chlorobenzene
