@@ -4003,7 +4003,7 @@ acronymize
 advect
 aphaeresis
 admerveylle
-admi
+admi 1
 anhydrously
 apopemptic
 anticontagious
