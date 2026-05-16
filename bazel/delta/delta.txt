@@ -5924,7 +5924,7 @@ dotard
 dissipations 1
 dolerin
 demonstration
-dispossessing
+dispossessing 1
 deep
 dowy
 draggily
