@@ -5247,7 +5247,7 @@ fratcher
 flavoriness
 falangist
 faveoli
-fitful
+fitful 1
 fierceness
 fishmen
 filippi
