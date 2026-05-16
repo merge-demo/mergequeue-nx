@@ -3527,7 +3527,7 @@ deformedly
 dandily
 downfold
 deuterostomata
-deforse
+deforse 1
 diplomatic
 dinitrotoluene
 disapproving
