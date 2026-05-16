@@ -9265,7 +9265,7 @@ dyes
 damfoolish
 deanathematize
 dedd
-dieses
+dieses 1
 deforester
 diesters
 deflectable
