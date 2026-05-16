@@ -8480,7 +8480,7 @@ diamide
 diamides
 descanter
 deesis
-dapperest
+dapperest 1
 diaminogen
 downset
 directionize
