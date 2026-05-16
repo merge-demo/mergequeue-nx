@@ -6858,7 +6858,7 @@ curares
 cytologist
 cellulofibrous
 celluloid
-confabbing
+confabbing 1
 chartaceous
 cellulosic
 contented
