@@ -27722,7 +27722,7 @@ chivage
 couhage
 cowpats
 compliable
-cowpen
+cowpen 1
 cowper
 complexively
 cosmotheism
