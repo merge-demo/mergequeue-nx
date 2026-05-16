@@ -30500,7 +30500,7 @@ cuartilla
 circumbuccal
 cub
 chilblains
-cuba
+cuba 1
 cubages
 cubicovariant 1
 corozos
