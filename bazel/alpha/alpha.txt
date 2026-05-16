@@ -1763,7 +1763,7 @@ anticosine
 asphyxies
 aglipayano
 arabis
-anemia
+anemia 1
 apochromatic
 acedy
 acedias
