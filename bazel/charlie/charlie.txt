@@ -25224,7 +25224,7 @@ corinthes
 corinthiac
 corinthianize
 cumidine
-coriolanus
+coriolanus 1
 cailleach
 cladode
 covenant
