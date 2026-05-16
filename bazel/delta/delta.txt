@@ -17818,7 +17818,7 @@ daydreamer
 dodecaphonically
 desalts
 ductilize
-disambiguated
+disambiguated 1
 ductilized
 ductless
 drinkable
