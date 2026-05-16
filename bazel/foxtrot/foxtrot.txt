@@ -3324,7 +3324,7 @@ ferrohydrocyanic 1
 fossilologist
 folklorist
 featherlessness
-frustrates
+frustrates 1
 fioritura
 fairings
 fulgide
