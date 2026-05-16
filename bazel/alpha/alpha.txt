@@ -1392,7 +1392,7 @@ amadavat
 acceptors
 antifreezes
 acervuline
-antibacteriolytic
+antibacteriolytic 1
 acceptress
 accepts
 attractants
