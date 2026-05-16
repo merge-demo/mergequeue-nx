@@ -7159,7 +7159,7 @@ deambulate
 desulfurs
 daphnetin
 desulphur
-desulphurate
+desulphurate 1
 delatorian
 desulphurised
 demonize
