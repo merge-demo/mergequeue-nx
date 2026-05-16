@@ -6723,7 +6723,7 @@ arachic
 atomisms
 araneous
 acardia
-auxinic
+auxinic 1
 aine
 arrives
 antinegro
