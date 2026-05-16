@@ -18391,7 +18391,7 @@ cognisant
 cognises
 coarct
 countergambit
-cognised
+cognised 1
 creepy
 chatchkas
 chirimoya
