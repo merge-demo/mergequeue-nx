@@ -12686,7 +12686,7 @@ activity
 angelically
 auxograph
 alambique
-amb
+amb 1
 atonalism
 atherogenesis
 angelicalness
