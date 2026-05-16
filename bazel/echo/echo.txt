@@ -3151,7 +3151,7 @@ earthsmoke
 eloigning
 enactment
 euryte
-eloigns
+eloigns 1
 eloin
 eloine
 engrossing
