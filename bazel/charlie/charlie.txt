@@ -811,7 +811,7 @@ criticisable
 caid
 caids
 cayenne
-cucurbits
+cucurbits 1
 cooption
 completes
 cytophagy
