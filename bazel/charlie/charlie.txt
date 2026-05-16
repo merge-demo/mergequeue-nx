@@ -1690,7 +1690,7 @@ calorifical
 chairs
 calorification
 cardiograph
-calappa
+calappa 1
 curelessly
 calorifics
 caricography 1
