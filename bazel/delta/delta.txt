@@ -9027,7 +9027,7 @@ distortive
 debel
 dicots
 dicoumarin
-disembed
+disembed 1
 dissemilative
 depravate
 deaconhood
