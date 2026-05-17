@@ -25820,7 +25820,7 @@ cataphoric
 corrugator
 cadelle
 coir
-corrugent
+corrugent 1
 cryptonym
 corrup
 carolinian
