@@ -18122,7 +18122,7 @@ apneustic
 aquamanilia
 allyls
 aquamarines
-angdistis
+angdistis 1
 anteversion
 aquanauts
 auklet
