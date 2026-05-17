@@ -16600,7 +16600,7 @@ bullshitting
 brawny
 bubbletop
 banderoled
-brisky
+brisky 1
 banaba
 bedmakers
 bubinga
