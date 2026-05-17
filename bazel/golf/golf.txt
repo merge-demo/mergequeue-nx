@@ -7379,7 +7379,7 @@ glochidial 1
 gossips
 gestor
 glomerule
-gilthead
+gilthead 1
 glyptograph
 gallach
 gynostemia
