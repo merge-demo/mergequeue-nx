@@ -2348,7 +2348,7 @@ gymnocerata
 gadinic
 glassy
 greengrocer
-gutturalisation
+gutturalisation 1
 grubbiness
 gainturn
 guavaberry
