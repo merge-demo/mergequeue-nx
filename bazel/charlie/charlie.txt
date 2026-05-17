@@ -26013,7 +26013,7 @@ cosecs
 chancelleries
 cosectarian
 cardcase
-cosectional
+cosectional 1
 cosed
 clipei
 citadels
