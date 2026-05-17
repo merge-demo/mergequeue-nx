@@ -1898,7 +1898,7 @@ eptatretidae
 entrepeneur
 eyrant
 erasability
-equiseta
+equiseta 1
 extrovert
 errata
 eximiousness
