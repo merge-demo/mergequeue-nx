@@ -725,7 +725,7 @@ ensnare 1
 extremital
 eidolism
 eben
-elegiambus
+elegiambus 1
 economism
 engrossingness
 enormity
