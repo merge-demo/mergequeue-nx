@@ -28192,7 +28192,7 @@ cranks
 corpulent
 crannage
 caesar 1
-crannel
+crannel 1
 crannequin
 crannia
 colliquefaction
