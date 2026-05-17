@@ -9340,7 +9340,7 @@ cyclamin
 constatory
 carpenterworm
 conserves
-chaussees
+chaussees 1
 chaussure
 catlap
 coscinodiscaceae
