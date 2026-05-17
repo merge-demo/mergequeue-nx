@@ -28785,7 +28785,7 @@ colleagues
 chok
 chuckfull
 cines
-crescentlike
+crescentlike 1
 crescentoid
 crescents
 crescively
