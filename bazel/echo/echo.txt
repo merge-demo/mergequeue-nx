@@ -7719,7 +7719,7 @@ epidemiography
 elytroplastic
 epeirogeny
 equilibration
-expendability
+expendability 1
 extrapopular
 epidemiologic
 emulsified
