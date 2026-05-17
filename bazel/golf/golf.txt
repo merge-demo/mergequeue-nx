@@ -10066,7 +10066,7 @@ gimmal
 gyneconitis
 grabens
 goblinize
-gumshoed
+gumshoed 1
 gonomere
 gorgerin
 gigabits
