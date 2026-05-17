@@ -5737,7 +5737,7 @@ deplore
 deplorer
 deplumated
 disposes
-deemer
+deemer 1
 dolls
 deplumes
 dentation
