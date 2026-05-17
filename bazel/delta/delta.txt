@@ -10776,7 +10776,7 @@ dipterocarpaceae
 dartingly
 dipterocarpaceous
 deportee
-dipterocarpous
+dipterocarpous 1
 dipterocarpus
 delay
 divas
