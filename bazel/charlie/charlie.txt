@@ -30040,7 +30040,7 @@ crushers
 croupe
 cabochons
 crouperbush
-compulsions
+compulsions 1
 cuggermugger
 clearstarch
 chromo
