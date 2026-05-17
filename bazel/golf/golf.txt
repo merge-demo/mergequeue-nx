@@ -6853,7 +6853,7 @@ gastrojejunal
 globosphaerite 1
 grossirete
 grandpa
-gonorrhoeal
+gonorrhoeal 1
 gremmie
 gobonee
 gnomonic
