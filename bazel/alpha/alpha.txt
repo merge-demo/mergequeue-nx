@@ -12220,7 +12220,7 @@ affectuous
 allbone
 afacing
 autositic
-andrewsite
+andrewsite 1
 anchimonomineral
 aetiogenic
 anchisaurus
