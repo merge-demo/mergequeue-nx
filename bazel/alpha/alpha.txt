@@ -2436,7 +2436,7 @@ adoxography
 aconic
 acknowledgers
 aistopodes
-anteambulate
+anteambulate 1
 adespota
 acknowledgments 1
 anatexes
