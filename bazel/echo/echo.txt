@@ -245,7 +245,7 @@ exhumer
 elate
 enjoyments
 elaborative
-easer
+easer 1
 electroluminescence
 easy
 epionychium
