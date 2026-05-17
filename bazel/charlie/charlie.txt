@@ -10970,7 +10970,7 @@ commenceable
 chiropody
 cheekish
 comitatus 1
-chiropodial
+chiropodial 1
 chiropodic
 chiropodical
 caphite
