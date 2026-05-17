@@ -2425,7 +2425,7 @@ entrail
 ecraseur
 emplection
 electrodialyze
-essayical
+essayical 1
 excoriates
 epistle
 eumenidean
