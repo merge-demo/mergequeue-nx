@@ -8838,7 +8838,7 @@ amyosthenia
 amender
 adeptly
 adamastor
-anaphora
+anaphora 1
 aditus
 administered
 allocator
