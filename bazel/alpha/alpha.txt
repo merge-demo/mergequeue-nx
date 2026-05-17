@@ -25152,7 +25152,7 @@ axites
 assault
 anacanthini
 accommodatingly
-antimonious
+antimonious 1
 axled
 apophylactic
 appendice
