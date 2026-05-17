@@ -921,7 +921,7 @@ extropical
 encapsulating
 escalation
 electrotonic
-emplaces
+emplaces 1
 exculpatory
 extravagated
 exarillate
