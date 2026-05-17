@@ -3526,7 +3526,7 @@ cosmotheistic
 captacula
 captain
 captaincy
-captaincies
+captaincies 1
 caprioled
 captainry
 captainship
