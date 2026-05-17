@@ -1444,7 +1444,7 @@ futhork
 fatuitous
 foothil 1
 familiarise
-floorwalkers
+floorwalkers 1
 fringing
 fetched
 fatuoid
