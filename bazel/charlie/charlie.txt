@@ -10942,7 +10942,7 @@ curators
 chirological
 chirologically
 classicalness
-cartelism
+cartelism 1
 cokers
 crost
 ceramic
