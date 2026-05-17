@@ -15954,7 +15954,7 @@ anticonscience
 articulationist
 ascensor
 andantes
-antiquarianize
+antiquarianize 1
 anachronism
 antiquaries
 antiquartan
