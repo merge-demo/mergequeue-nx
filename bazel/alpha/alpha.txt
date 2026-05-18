@@ -13592,7 +13592,7 @@ autoaddress
 abura
 akaakai
 apostasis
-annulosa
+annulosa 1
 annuls
 adorableness
 aboundingly
