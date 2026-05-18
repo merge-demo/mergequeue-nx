@@ -9160,7 +9160,7 @@ glaceed
 garapata
 geogonic
 gouldian
-glauconitization
+glauconitization 1
 gripgrass
 grouchily
 gora
