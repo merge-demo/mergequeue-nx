@@ -6826,7 +6826,7 @@ gonococcocci
 gonopore
 gonocoele
 gerontologist
-gt
+gt 1
 gonof
 gudesire
 gonophs
