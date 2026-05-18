@@ -3488,7 +3488,7 @@ erke
 emblazes
 envies
 evelight
-emblazoned
+emblazoned 1
 emblazoner
 emblazonments
 elastic 1
