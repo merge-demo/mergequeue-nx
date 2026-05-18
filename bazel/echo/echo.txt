@@ -10986,7 +10986,7 @@ electrizing
 eurhythmic
 epichirema
 echeloot
-eoside
+eoside 1
 eigenfrequency
 escobita
 ecologically
