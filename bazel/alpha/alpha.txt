@@ -6087,7 +6087,7 @@ askile
 aminopeptidase
 aminocaproic
 airproofed
-apothegmatic 1
+apothegmatic 2
 anostosis
 axumite
 availment
