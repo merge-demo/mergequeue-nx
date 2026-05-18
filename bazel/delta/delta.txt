@@ -18649,7 +18649,7 @@ disforest
 drowsily
 disinflationary
 disubstitution
-discountenanced
+discountenanced 1
 disseisor
 devitrification
 decolorize
