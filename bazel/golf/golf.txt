@@ -2337,7 +2337,7 @@ geldings
 gol
 garlandage
 gelated
-gorgets
+gorgets 1
 gustfulness
 gymnics
 geographism
