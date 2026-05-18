@@ -5396,7 +5396,7 @@ furole
 forecounsel
 flyswat 1
 feridji
-figuration
+figuration 1
 fruittime
 forthbringer
 formable
