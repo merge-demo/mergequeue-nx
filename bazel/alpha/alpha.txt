@@ -13153,7 +13153,7 @@ admissions
 animalist
 animalistic
 attemperator
-androgynous
+androgynous 1
 animalivora
 amnioclepsis
 agenesias
