@@ -2077,7 +2077,7 @@ disproportionally
 decal
 dodecylic
 dilatory
-decalage
+decalage 1
 dinghy
 decalcifies
 dartle
