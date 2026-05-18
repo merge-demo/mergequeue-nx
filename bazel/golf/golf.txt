@@ -4872,7 +4872,7 @@ gummiferous
 gladiatorial
 gagelike
 gatherer
-goldfinnies
+goldfinnies 1
 growlingly
 gablatores
 gunnen
