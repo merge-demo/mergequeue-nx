@@ -31249,7 +31249,7 @@ curacoa
 curacoas
 curage
 chisellers
-curaghs
+curaghs 1
 curaras
 casaba
 coenospecific
