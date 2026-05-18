@@ -4455,7 +4455,7 @@ dysmenorrhoeal
 disillusioning
 dendrons
 dibbling 1
-divelling
+divelling 1
 directoral
 dampcourse
 demethylate
