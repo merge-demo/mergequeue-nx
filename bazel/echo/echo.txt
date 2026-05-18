@@ -2031,7 +2031,7 @@ epitrophy
 encurl
 exophasia
 elytrigerous
-emersion
+emersion 1
 etherish
 ethiopic
 examinational
