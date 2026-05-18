@@ -12015,7 +12015,7 @@ disenclose 1
 daint
 diammine
 decimus
-domicella
+domicella 1
 distichous
 disendow
 dagoes
