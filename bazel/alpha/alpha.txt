@@ -10304,7 +10304,7 @@ autumns
 amoebian
 amendment
 amene
-antierosive
+antierosive 1
 ampicillin 1
 amenorrheic
 amenorrho
