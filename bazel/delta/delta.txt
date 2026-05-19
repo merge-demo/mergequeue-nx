@@ -13510,7 +13510,7 @@ demiglobe
 dermatopathophobia
 downtrodden
 dysgraphia
-deticks
+deticks 1
 demonomy
 dissavs
 drumbeater
