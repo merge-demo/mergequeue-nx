@@ -5009,7 +5009,7 @@ aerophane
 appease 1
 assumptions
 abnormalist
-awaft 1
+awaft 2
 accentuable
 avigate
 abv
