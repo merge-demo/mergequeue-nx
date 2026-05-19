@@ -6905,7 +6905,7 @@ ceratomandibular
 clocklike
 celtuce
 calor
-closefisted
+closefisted 1
 cembalo
 cembalon
 curiousnesses
