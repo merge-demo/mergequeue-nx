@@ -13205,7 +13205,7 @@ drawsheet
 desaurine
 dendrobe
 displosion
-dronte
+dronte 1
 deportable
 deuterofibrinose
 dinnerless
