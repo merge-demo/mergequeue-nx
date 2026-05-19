@@ -31210,7 +31210,7 @@ cytoplastic
 chromaticity
 cuprose
 cuprums
-czechoslovaks
+czechoslovaks 1
 cupsful
 cupstone
 cupula
