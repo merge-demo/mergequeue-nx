@@ -2087,7 +2087,7 @@ beseem
 buddhistic
 besteer
 bladeless
-boguing
+boguing 1
 bulker
 billbeetle
 botoyan
