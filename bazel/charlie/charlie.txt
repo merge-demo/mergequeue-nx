@@ -25298,7 +25298,7 @@ cornada
 cornage
 cornballs
 cornberry
-counterscale
+counterscale 1
 cornbind
 checkerboards
 cricking
