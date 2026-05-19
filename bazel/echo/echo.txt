@@ -6265,7 +6265,7 @@ enplaned
 embryonary
 enamine
 ethnogeographical
-entered
+entered 1
 erecter
 endplate
 excipule
