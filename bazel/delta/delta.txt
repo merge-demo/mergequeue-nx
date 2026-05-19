@@ -5940,7 +5940,7 @@ disentraced
 dere
 defeatee
 depreter
-depriment
+depriment 1
 deprint
 depriorize
 disorderedness
