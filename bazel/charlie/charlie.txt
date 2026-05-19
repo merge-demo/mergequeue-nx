@@ -26360,7 +26360,7 @@ cot
 cotabulate
 carya
 cotarius
-catwise
+catwise 1
 calander
 centipedal
 commutative
