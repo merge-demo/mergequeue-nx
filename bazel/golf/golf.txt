@@ -1203,7 +1203,7 @@ griot
 gradations
 globular
 guestive 1
-guttate
+guttate 1
 garfishes
 grappler
 glaux
