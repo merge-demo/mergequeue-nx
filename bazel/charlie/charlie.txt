@@ -18186,7 +18186,7 @@ coetaneous
 coeternal
 coeternity 1
 caninity
-coeval
+coeval 1
 camorrist
 coevalness
 carboline
