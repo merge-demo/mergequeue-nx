@@ -11870,7 +11870,7 @@ denying
 diadems
 diffusionist
 discussionist
-donatress
+donatress 1
 decurrence
 discussions
 dioptomiter

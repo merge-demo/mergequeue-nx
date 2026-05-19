@@ -7920,7 +7920,7 @@ foreseer
 foresees
 fonder
 foreseize
-flatteries
+flatteries 1
 fike
 firy
 fantasticness
