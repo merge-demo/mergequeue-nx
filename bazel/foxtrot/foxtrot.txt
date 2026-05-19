@@ -4892,7 +4892,7 @@ foldedly
 foretasted
 frumpy
 fives
-fibrinate
+fibrinate 1
 fellage
 forbears
 freedmen
