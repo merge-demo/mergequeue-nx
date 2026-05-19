@@ -19756,7 +19756,7 @@ anglophil
 awkwardness
 asarum
 acidite
-arkansite
+arkansite 1
 anthraxolite
 arbory
 adrenally
