@@ -6073,7 +6073,7 @@ eddaic
 enlargeable
 eigenvectors
 echinorhinus
-eoanthropus
+eoanthropus 1
 enlargeableness
 enlarged
 eupepsias
