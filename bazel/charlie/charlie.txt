@@ -10020,7 +10020,7 @@ capharnaism
 cherrying
 cherrylike
 cherrystone
-canephors
+canephors 1
 cephalotripsy
 chersydridae
 chert
