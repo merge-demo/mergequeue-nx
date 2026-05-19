@@ -11879,7 +11879,7 @@ arracacha
 anserinae 1
 anamniata
 antimonarchy
-apishly
+apishly 1
 amuguis
 archai
 aissaoua
