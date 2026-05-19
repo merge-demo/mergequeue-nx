@@ -1728,7 +1728,7 @@ cremule
 caltha
 chronographic
 caltrap
-caltraps
+caltraps 1
 cervicolingual
 contrafocal 1
 caltrop
