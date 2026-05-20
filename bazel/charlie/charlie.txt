@@ -11462,7 +11462,7 @@ chocolate
 chocolatey
 chine
 chocolates
-chocolatiere
+chocolatiere 1
 cobras
 concentred
 choctaw
