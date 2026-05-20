@@ -9879,7 +9879,7 @@ dace
 dimensionally
 dimensioning
 dimensum
-disangularize 1
+disangularize 2
 diphenyl
 dimer
 decadency
