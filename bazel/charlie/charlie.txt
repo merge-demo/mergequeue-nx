@@ -27598,7 +27598,7 @@ covine
 clinquant
 censes
 cymatium
-coving
+coving 1
 carapus
 covinous
 charioteership
