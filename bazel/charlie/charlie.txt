@@ -6563,7 +6563,7 @@ clannish 1
 commissaries
 caxon
 cretaceous
-caxton
+caxton 1
 confluence
 caxtonian
 caza
