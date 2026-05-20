@@ -7146,7 +7146,7 @@ fatherlandish
 femicide
 forbathe
 forebroads
-forgottenness
+forgottenness 1
 fredaine
 foosterer
 footfarer
