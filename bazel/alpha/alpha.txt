@@ -16265,7 +16265,7 @@ aluta
 alertedly
 arthromere
 antitheologizing
-anacusis
+anacusis 1
 aggravative
 advocatrix
 argali
