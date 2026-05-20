@@ -8485,7 +8485,7 @@ diaminogen
 downset
 directionize
 dodecyl
-draconitic 1
+draconitic 2
 downgrades
 diamondbacked
 debaucher
