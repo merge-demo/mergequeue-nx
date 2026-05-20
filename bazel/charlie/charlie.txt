@@ -2171,7 +2171,7 @@ contemnor
 camphorated
 camphorates
 camphory
-camphoryl
+camphoryl 1
 corgi
 camphoroyl
 clerkliest
