@@ -2677,7 +2677,7 @@ fallowed
 fantoccini
 foremelt
 feasing
-ferulaceous
+ferulaceous 1
 ferular
 foreimpression
 fireshaft
