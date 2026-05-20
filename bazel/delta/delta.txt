@@ -9203,7 +9203,7 @@ discase
 dermomuscular
 doeling
 diminutively
-diedric
+diedric 1
 deuteromorphic
 diego
 dodonian
