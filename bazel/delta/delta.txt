@@ -10157,7 +10157,7 @@ duckbills
 deadly
 dingdonged
 deltidia
-dues
+dues 1
 diverticulate
 diploblastic 1
 defogging
