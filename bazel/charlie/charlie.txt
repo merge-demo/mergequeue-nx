@@ -10264,7 +10264,7 @@ chicaric
 cathexis
 casefying
 carnalities
-chicer
+chicer 1
 casabe
 concordable
 committer
