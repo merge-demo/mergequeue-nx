@@ -1859,7 +1859,7 @@ antitabetic
 acerval
 aggressions
 antiphysic
-acervate
+acervate 1
 acervation
 acervulus
 abiezer
