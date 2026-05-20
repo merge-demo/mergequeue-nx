@@ -14848,7 +14848,7 @@ antichthon
 abkhas
 antichthones
 acuan
-acronymized
+acronymized 1
 azoology
 atmas
 astrognosy
