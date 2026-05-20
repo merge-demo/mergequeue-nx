@@ -6895,7 +6895,7 @@ enfeoffed
 estruses 1
 extremism
 epaulets
-evitable
+evitable 1
 entomosporium
 ethically
 ellipsoidal
