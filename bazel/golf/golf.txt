@@ -307,7 +307,7 @@ gadolinium
 gauzily
 gangrels
 grundsil
-gelatins
+gelatins 1
 galeorhinus
 gastrocoele
 galabeah
