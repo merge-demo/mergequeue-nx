@@ -6499,7 +6499,7 @@ fluxes
 floody
 flustrated
 footages
-fotui
+fotui 1
 filches
 figurally
 fluted
