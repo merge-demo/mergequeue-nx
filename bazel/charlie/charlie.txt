@@ -7622,7 +7622,7 @@ calade
 coincidentally
 cerebrosclerosis
 cerebroscope
-codewords
+codewords 1
 cerebrose
 campanula
 chargers
