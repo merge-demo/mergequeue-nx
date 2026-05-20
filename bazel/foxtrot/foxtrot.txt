@@ -9099,7 +9099,7 @@ frankist
 forespeaker
 featy
 falsification
-fossilise
+fossilise 1
 flourisher
 firmance
 furbishable
