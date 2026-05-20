@@ -5499,7 +5499,7 @@ goods
 gentlemen
 goodyera
 goldilocks
-glisten
+glisten 1
 guttering
 glimmery
 gigeria
