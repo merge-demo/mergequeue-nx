@@ -6011,7 +6011,7 @@ bellow
 bemoan
 bookie
 bemoaned
-bauxitic
+bauxitic 1
 baccarats
 bowenite
 boiling
