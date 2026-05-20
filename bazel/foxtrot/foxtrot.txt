@@ -623,7 +623,7 @@ facesaving
 falconelle
 falsifier
 foveolet
-floaty
+floaty 1
 falsifying
 falunian
 fertilisation
