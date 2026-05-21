@@ -5202,7 +5202,7 @@ daemon
 doghole
 decephalization
 deathly
-diaheliotropic
+diaheliotropic 1
 detruncating
 devoid
 diazoamino
