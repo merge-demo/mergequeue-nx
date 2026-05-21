@@ -18286,7 +18286,7 @@ dioptrics
 dialyzability
 demijohn
 demiourgoi 1
-dingledangle
+dingledangle 1
 disintegration
 dunner
 delicts
