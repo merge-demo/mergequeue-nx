@@ -12358,7 +12358,7 @@ exhibitors
 endorsers
 excrescencies
 exflect
-endower
+endower 1
 enteromyiasis
 epicleidium
 emerod
