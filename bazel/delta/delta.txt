@@ -7864,7 +7864,7 @@ diffluent
 dogbodies
 dew
 degentilize
-diatoric
+diatoric 1
 dewani
 depress
 defrayals
