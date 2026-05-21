@@ -2405,7 +2405,7 @@ exponentials
 ectogenetic
 energist
 electrodeposition
-ebriosity
+ebriosity 1
 epitrochlea
 electrodes
 etherization
