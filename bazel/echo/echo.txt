@@ -5603,7 +5603,7 @@ ethologist
 enflaming
 epiklesis
 equuleus
-embryulcus
+embryulcus 1
 enflower
 essexite
 evaporate
