@@ -10494,7 +10494,7 @@ favouringly
 frot
 froth 1
 formulatory
-fanman
+fanman 1
 fittingly
 forays
 fids
