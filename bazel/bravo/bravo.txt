@@ -13201,7 +13201,7 @@ boshbok
 breadthless
 boshes
 brevirostrines
-bosjesman
+bosjesman 1
 blazonry
 blushless
 bizen 1
