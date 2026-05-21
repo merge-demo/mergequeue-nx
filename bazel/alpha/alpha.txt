@@ -19361,7 +19361,7 @@ assurd
 apiin
 acontius
 aho
-assure
+assure 1
 arithmetics
 argals
 arrayer 1
