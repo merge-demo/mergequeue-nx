@@ -2477,7 +2477,7 @@ candelilla
 conductible
 choraguses
 certitude
-clang
+clang 1
 cacodemonic
 cassidony
 colloidally
