@@ -6207,7 +6207,7 @@ avengers
 antecedency
 agon
 agonal
-athetize
+athetize 1
 aurorae
 azygoses
 ascendency
