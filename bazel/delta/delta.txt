@@ -4324,7 +4324,7 @@ dronel
 diversicolored
 daubster
 diamondiferous 1
-diacritical
+diacritical 1
 dods
 demagogical
 dura
