@@ -10833,7 +10833,7 @@ enoptromancy
 explodes
 engine
 electrocuting
-execrates
+execrates 1
 etherealising
 eupepticity
 eelfish
