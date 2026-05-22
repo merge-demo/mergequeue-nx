@@ -4659,7 +4659,7 @@ carotenes
 chaser
 carneol
 cursoria
-chinas
+chinas 1
 cholangitis
 companero
 chwana
