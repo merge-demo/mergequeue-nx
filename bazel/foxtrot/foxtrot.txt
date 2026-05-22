@@ -3871,7 +3871,7 @@ flavanthrene 1
 favous
 fimbriating
 farcer
-frizette
+frizette 1
 focalising
 fulgurous
 feces
