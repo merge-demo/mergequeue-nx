@@ -2251,7 +2251,7 @@ cholecystolithotripsy
 camus
 camused
 camuses
-cornemuse
+cornemuse 1
 curricled
 coodle
 culturization
