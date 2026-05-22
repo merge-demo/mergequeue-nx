@@ -7919,7 +7919,7 @@ automatontons 1
 abolishes
 arylamino
 alnus
-apogamy
+apogamy 1
 alembicated
 antetype
 alemmal
