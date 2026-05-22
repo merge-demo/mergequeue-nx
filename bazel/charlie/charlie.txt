@@ -28350,7 +28350,7 @@ comportment
 cymbalers
 califate
 counteragent
-colaphize
+colaphize 1
 clanned
 crawberry
 crawdad
