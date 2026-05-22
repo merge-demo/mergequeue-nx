@@ -19152,7 +19152,7 @@ arcograph
 apneic
 azurmalachite
 angiomatous 1
-anticommunists
+anticommunists 1
 allotropize
 arcose
 angiospermal
