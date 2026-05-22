@@ -25905,7 +25905,7 @@ chyak
 chokered
 circumscribes
 corsite
-corsos
+corsos 1
 cancrivorous
 corteges
 capitalization
