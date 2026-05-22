@@ -9664,7 +9664,7 @@ espingole
 execrative
 equaling
 editchar
-espino
+espino 1
 erythroplastid 1
 esplanade
 enhancements
