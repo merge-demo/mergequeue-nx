@@ -15394,7 +15394,7 @@ detectivism
 domification
 distoma
 dissemblance
-decempedate
+decempedate 1
 dendrochronological
 dynamize
 dedications
