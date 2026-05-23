@@ -3119,7 +3119,7 @@ apiculation
 anatoly 1
 angiokinesis
 actinotherapeutics
-averted
+averted 1
 actinotrichium
 actinozoa
 actinozoan
