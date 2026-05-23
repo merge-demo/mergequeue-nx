@@ -9149,7 +9149,7 @@ chartulae
 chartulary
 cartoned
 coalface
-chartularies
+chartularies 1
 citrene
 chartulas
 charwoman
