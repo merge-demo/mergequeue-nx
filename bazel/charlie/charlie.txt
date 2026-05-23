@@ -10189,7 +10189,7 @@ chiao
 capsicum
 chiapanec
 chiapanecan
-chlorochrous
+chlorochrous 1
 compurgatory
 carps
 chamomilla
