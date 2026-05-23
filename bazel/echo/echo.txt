@@ -1144,7 +1144,7 @@ equivalved
 eupatrid
 easefulness
 editorship
-editorships
+editorships 1
 elasticness
 encrown
 enthrill
