@@ -3382,7 +3382,7 @@ deflagrator
 deflating
 discommend
 drumslade
-disobey
+disobey 1
 diversifolious
 dissatisfiedness
 deuteronomical
