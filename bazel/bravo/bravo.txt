@@ -7893,7 +7893,7 @@ boscages
 befuddlement
 beetleheadedness
 bongoists
-bluntishness
+bluntishness 1
 blockhouse
 byron
 bibliophil
