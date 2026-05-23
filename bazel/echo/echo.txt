@@ -2209,7 +2209,7 @@ emphasising
 elderman
 ensorcels
 eggwhisk 1
-electrics
+electrics 1
 electrographic
 exedrae
 esthesia
