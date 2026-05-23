@@ -8075,7 +8075,7 @@ alrune
 airworthy
 acidotic
 antihistamines
-arithmetically
+arithmetically 1
 amphide
 alforja
 alfreda
