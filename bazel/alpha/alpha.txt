@@ -20958,7 +20958,7 @@ adjectivism 1
 alpinist
 agog
 ascelli
-ascellus
+ascellus 1
 ascend
 ascendable
 ayenbite
