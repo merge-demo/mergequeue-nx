@@ -8927,7 +8927,7 @@ archaically 1
 agallochum
 apospory
 anematizing
-aerobiologic
+aerobiologic 1
 allomorphism
 allomorphite
 allonym
