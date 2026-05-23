@@ -5154,7 +5154,7 @@ arrivisme
 anglemeter
 antihierarchal
 airbag
-antisemite
+antisemite 1
 appreciation
 aetiologue
 agrammatica
