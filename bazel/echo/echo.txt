@@ -12307,7 +12307,7 @@ eerock
 equilucent
 exerce
 equimultiple
-exceptious
+exceptious 1
 extramarginal
 epanisognathous
 endotracheitis
