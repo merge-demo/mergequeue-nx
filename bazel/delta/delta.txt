@@ -10646,7 +10646,7 @@ demurrals
 diploplacular
 decarbonize
 dotingly
-dustcoat
+dustcoat 1
 degeneration
 diploplaculate
 degarnish
