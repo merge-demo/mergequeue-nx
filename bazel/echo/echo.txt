@@ -2833,7 +2833,7 @@ epiclesis 1
 eleoptene
 embden
 endomastoiditis
-erratuta
+erratuta 1
 exostracize
 eucharistized
 essayistical
