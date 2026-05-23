@@ -9131,7 +9131,7 @@ frizzers
 forepoint
 foldboating
 frusta
-fooner
+fooner 1
 fracid 1
 frizzier
 foreshadows
