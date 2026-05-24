@@ -12890,7 +12890,7 @@ disquisiting
 dhikrs
 det 1
 deceptible
-discepting
+discepting 1
 dissatisfies
 dismortgaging
 divisionism
