@@ -5269,7 +5269,7 @@ byssin
 bigot
 burrier
 beggary 1
-beeriest
+beeriest 1
 beggaring
 bicrescentic
 bringsel
