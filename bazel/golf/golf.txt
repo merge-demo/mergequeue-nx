@@ -7140,7 +7140,7 @@ gagtooth
 gorble
 gorblin 1
 gorcocks
-gypsylike
+gypsylike 1
 grasscut
 guayaba
 greenfly
