@@ -54,7 +54,7 @@ allusively
 arcella
 arcaded
 arguitively
-acanthotic
+acanthotic 1
 alkylene
 aridly
 acineta
