@@ -3515,7 +3515,7 @@ bogglish
 broadax
 batete
 brabbling
-balotade
+balotade 1
 blue
 batfishes
 biri
