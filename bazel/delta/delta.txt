@@ -4486,7 +4486,7 @@ demicanon
 dishling
 dauntlessly 1
 disjointedly
-duomachy
+duomachy 1
 devalorize
 developmentist
 dysphoric
