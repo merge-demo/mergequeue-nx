@@ -6230,7 +6230,7 @@ fascinative
 formwork
 fermentitious
 foundationary
-ferrimagnetic
+ferrimagnetic 1
 fractionating
 fluffiness
 flexography
