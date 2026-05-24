@@ -342,7 +342,7 @@ backen
 backer
 backet
 bangala
-bigha
+bigha 1
 billiardly
 bloman
 brushes
