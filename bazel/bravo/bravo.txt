@@ -2612,7 +2612,7 @@ briers
 barkery
 behn
 barkhan
-batman
+batman 1
 blastoderm
 balistarii
 belostoma
