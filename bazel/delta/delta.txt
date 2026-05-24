@@ -10501,7 +10501,7 @@ diphthongizing
 daubentoniidae
 didos
 decares
-deess
+deess 1
 disputative
 diversifoliate
 discoplacentalian
