@@ -12987,7 +12987,7 @@ emotion
 ensnarls
 entice
 expectorant
-espiglerie
+espiglerie 1
 expectorated
 echinococcus
 enneahedria
