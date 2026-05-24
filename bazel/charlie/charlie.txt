@@ -10239,7 +10239,7 @@ cellulicidal
 canniest
 cyanauric
 conusee
-chibinite
+chibinite 1
 chibouks
 chibouque
 chica
