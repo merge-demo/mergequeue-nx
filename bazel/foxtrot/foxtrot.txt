@@ -1721,7 +1721,7 @@ fibrocyte
 flashflood
 feastfully
 forayers
-foist
+foist 1
 felonies
 feastraw
 fledgling
