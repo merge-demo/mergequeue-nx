@@ -1590,7 +1590,7 @@ eaglets
 eglomise
 errite
 entires
-enumerator
+enumerator 1
 eucaines
 eff
 estopped
