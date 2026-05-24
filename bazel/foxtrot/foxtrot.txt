@@ -904,7 +904,7 @@ fennelflower
 fanums
 ferine
 fenberry
-fanwise
+fanwise 1
 falangism
 faddier
 fadaise
