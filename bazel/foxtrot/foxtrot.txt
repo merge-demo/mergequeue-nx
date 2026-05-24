@@ -6741,7 +6741,7 @@ forspeaking
 flamming
 fittest
 foiningly
-feasant
+feasant 1
 forjudged
 fluorescin
 fibrocellular
