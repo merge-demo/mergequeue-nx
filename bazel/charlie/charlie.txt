@@ -12944,7 +12944,7 @@ chipling
 coaxially
 cyanate
 cyanates
-cyaneous
+cyaneous 1
 cyanephidrosis
 contrail
 cubs
