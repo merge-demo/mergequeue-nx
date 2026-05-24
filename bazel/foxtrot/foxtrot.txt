@@ -5009,7 +5009,7 @@ fribourg
 freelage 1
 flankers
 foists
-folksier
+folksier 1
 fathered
 flashtester
 faith
