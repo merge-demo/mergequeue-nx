@@ -18271,7 +18271,7 @@ copper
 coffing
 colpoplastic
 coffinless
-consoled
+consoled 1
 chalcographer
 coffinmaking
 coffins
