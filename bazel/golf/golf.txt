@@ -6130,7 +6130,7 @@ gyroma
 greit
 greatly
 gnathostomous
-gustoes
+gustoes 1
 gnathostome
 gjetosts
 gallivants
