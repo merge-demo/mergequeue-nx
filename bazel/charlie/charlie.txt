@@ -2687,7 +2687,7 @@ chromophile
 canions
 canistel
 canjac
-cank
+cank 1
 circumnavigations
 chokestrap
 clingfish
