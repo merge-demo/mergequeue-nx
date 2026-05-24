@@ -16592,7 +16592,7 @@ absolutive
 abiogenesis
 acolytes
 avifaunally
-apatetic
+apatetic 1
 agrimonies
 apathaton
 allelvia
