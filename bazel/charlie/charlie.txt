@@ -15325,7 +15325,7 @@ cookish
 clangors
 cappella
 clangour
-clangoured
+clangoured 1
 clangouring
 cakewalks
 campings
