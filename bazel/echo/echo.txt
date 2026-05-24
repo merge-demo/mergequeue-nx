@@ -9799,7 +9799,7 @@ ervils
 establishable
 eddyroot
 establishes
-elegiacal
+elegiacal 1
 exponentiate
 eustace
 ebracteolate
