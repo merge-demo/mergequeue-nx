@@ -5525,7 +5525,7 @@ graduand 1
 glucinum
 grumblers
 grummest
-gastrorrhaphy
+gastrorrhaphy 1
 gastropoda
 gustier
 genear
