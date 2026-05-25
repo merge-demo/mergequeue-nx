@@ -2826,7 +2826,7 @@ eleomargaric
 encephalon
 eleoplast
 epipolic
-equivalencing
+equivalencing 1
 externalness
 eater
 epiclesis 1
