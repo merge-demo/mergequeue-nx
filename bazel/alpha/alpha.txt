@@ -18264,7 +18264,7 @@ adjunct
 awshar
 arability
 arabinic
-arabinosic
+arabinosic 1
 arabinoside
 alibility
 adultlike 1
