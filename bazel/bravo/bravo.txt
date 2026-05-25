@@ -1849,7 +1849,7 @@ bonzes
 befoam
 bloodier
 bella
-bandidos
+bandidos 1
 baronetizing
 bushie
 bandie
