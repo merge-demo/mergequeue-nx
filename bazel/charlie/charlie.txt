@@ -26725,7 +26725,7 @@ checkmark
 cardiotomy
 carromatas
 cars
-cartelization
+cartelization 1
 counterbattery
 counterbend
 calamitously
