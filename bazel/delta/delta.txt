@@ -2129,7 +2129,7 @@ decipher
 decandria
 didst
 decandrous
-discrepate
+discrepate 1
 decane
 debauchment
 decanery
