@@ -10838,7 +10838,7 @@ etherealising
 eupepticity
 eelfish
 eloigners
-entosternum
+entosternum 1
 earache
 educes
 echini
