@@ -476,7 +476,7 @@ cadaver
 capronic
 cadaverin
 cormus
-cadaverous
+cadaverous 1
 cadaverously
 cadavers
 centonical
