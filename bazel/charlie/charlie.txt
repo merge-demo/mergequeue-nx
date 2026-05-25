@@ -25008,7 +25008,7 @@ cordiality
 cordialities
 crimini
 coction
-cnibophore
+cnibophore 1
 cheskeys
 cordycepin
 cleptomania
