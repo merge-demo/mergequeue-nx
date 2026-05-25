@@ -8695,7 +8695,7 @@ chaotic
 coccoid
 chaoua
 catastaltic
-callans
+callans 1
 citronelle
 choli
 chaouia
