@@ -10089,7 +10089,7 @@ curing
 chesterfield
 chesterfieldian
 copulatively
-chestfuls
+chestfuls 1
 chesty
 chestier
 collaudation
