@@ -9930,7 +9930,7 @@ densimetry
 dimyaria
 downwardness
 dimidiate
-dispart
+dispart 1
 deodorizers
 dissonancy
 dimidiation
