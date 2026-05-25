@@ -10424,7 +10424,7 @@ foraminifera
 flodge
 fumous
 fetterer
-forfex
+forfex 1
 feetage
 finnesko
 fillagree
