@@ -4943,7 +4943,7 @@ forsooth
 foppishly 1
 fourteens
 flamen
-flamandization
+flamandization 1
 firefanged
 funneling
 firepan
