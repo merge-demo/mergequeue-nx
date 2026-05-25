@@ -10037,7 +10037,7 @@ acinacity
 ambilateralaterally
 annonce
 antipatharia
-ambiopia
+ambiopia 1
 ambisexuality
 afrasia
 acquaints
