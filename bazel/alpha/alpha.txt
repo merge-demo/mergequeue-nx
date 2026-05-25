@@ -12494,7 +12494,7 @@ autolithographer
 anhydrite
 antehistoric
 arsenicated
-anthracitous
+anthracitous 1
 anemias
 academian
 adelarthrosomata
