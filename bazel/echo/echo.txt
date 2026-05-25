@@ -12080,7 +12080,7 @@ excrescency
 eriophyid
 eccentric
 eris
-enfoldment
+enfoldment 1
 excuseless 1
 endemisms
 excresence
