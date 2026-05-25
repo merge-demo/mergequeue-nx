@@ -2622,7 +2622,7 @@ appraiser
 alferes
 amidase
 acquisitive
-acquisitively
+acquisitively 1
 advocatess
 acquisitor
 antibrachial
