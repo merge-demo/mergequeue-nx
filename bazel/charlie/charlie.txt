@@ -31521,7 +31521,7 @@ conoclinium
 curser
 cursers
 curship
-coadjuvant
+coadjuvant 1
 cornutin
 cursing
 coelenteron
