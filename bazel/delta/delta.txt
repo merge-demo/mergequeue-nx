@@ -3067,7 +3067,7 @@ deescalate
 deeses
 deepfrozen
 deemphasize
-dorsoapical
+dorsoapical 1
 diester
 downward
 diuretic
