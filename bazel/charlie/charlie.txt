@@ -4103,7 +4103,7 @@ collops
 cardiectasis
 compileable
 chamoisette
-cardiectomize
+cardiectomize 1
 cardielcosis
 cushiest
 camelishness
