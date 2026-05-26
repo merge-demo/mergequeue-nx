@@ -7078,7 +7078,7 @@ gunnage
 guelphic
 giottesque
 glaces
-gestalter
+gestalter 1
 gourounut
 gaus
 gunwales
