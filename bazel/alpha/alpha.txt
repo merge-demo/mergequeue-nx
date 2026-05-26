@@ -6817,7 +6817,7 @@ asseverations
 avowant
 augment
 airfare
-amyctic
+amyctic 1
 airflow
 antimoralist
 aglipayan
