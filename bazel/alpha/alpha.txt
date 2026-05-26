@@ -13933,7 +13933,7 @@ antae
 antaean
 antaeus
 agriotypidae
-alvelos
+alvelos 1
 advantaging
 antagony
 auscultator
