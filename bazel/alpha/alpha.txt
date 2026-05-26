@@ -2576,7 +2576,7 @@ acoup
 acousticolateral
 acousticon
 allotriognathi
-assist
+assist 1
 acoustoelectric
 acpt
 acridinic
