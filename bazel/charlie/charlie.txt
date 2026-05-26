@@ -8988,7 +8988,7 @@ compartment
 charism
 charismata
 chokecherry
-consuete
+consuete 1
 charismatic
 collationer
 cunabular
