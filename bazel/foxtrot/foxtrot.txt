@@ -2309,7 +2309,7 @@ febrility
 fast
 fixities
 fixatifs
-flagitious
+flagitious 1
 felis
 franchises
 feminizes
