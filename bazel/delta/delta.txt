@@ -1956,7 +1956,7 @@ dungy
 dicrotism
 debunkers
 dispergated
-debunks
+debunks 1
 disedify 1
 divinatory
 dermohumeral
