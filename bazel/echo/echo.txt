@@ -23,7 +23,7 @@ electrobiologist 1
 eagerness
 ephraitic
 exemplificational
-excusableness
+excusableness 1
 escapement
 elderling
 endurably
