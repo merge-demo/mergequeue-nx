@@ -5120,7 +5120,7 @@ factitive
 fict
 furnishment
 furculae
-flashiest
+flashiest 1
 flashiness
 fermerer
 famulli 1
