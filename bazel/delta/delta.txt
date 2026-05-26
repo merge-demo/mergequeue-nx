@@ -16352,7 +16352,7 @@ decibel
 downslope
 disappendancy
 desmognathism
-devout
+devout 1
 douras
 dispersal
 derelictions
