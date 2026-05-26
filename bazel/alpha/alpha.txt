@@ -25028,7 +25028,7 @@ angelhood
 awner
 acquires
 antiphonically
-androgynary
+androgynary 1
 achilary
 akala
 awnless
