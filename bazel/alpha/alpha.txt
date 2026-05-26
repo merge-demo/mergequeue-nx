@@ -3553,7 +3553,7 @@ adducted
 adducting
 aides 1
 ataxiagram
-abdicates
+abdicates 1
 agcy
 aerothermodynamic
 asperses
