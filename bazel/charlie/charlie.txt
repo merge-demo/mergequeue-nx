@@ -9175,7 +9175,7 @@ clypeolate
 chasmogamous
 chasmophyte
 commandeering
-chirruped
+chirruped 1
 constipating
 chass
 chasse
