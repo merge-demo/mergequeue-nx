@@ -1708,7 +1708,7 @@ accursed
 amerikani
 accursedness 1
 aborter
-accurst
+accurst 1
 authorisable
 actinotherapy
 aeroelastics
