@@ -4947,7 +4947,7 @@ flamandization 1
 firefanged
 funneling
 firepan
-firmware
+firmware 1
 fulcraceous 1
 flagarie
 flamencos
