@@ -19975,7 +19975,7 @@ commaterial
 cofeoffee
 commatic
 cubbish
-conductive
+conductive 1
 cheerily
 commeasurable
 commeasure
