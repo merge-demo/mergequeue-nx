@@ -16430,7 +16430,7 @@ corsned
 conjecturer
 cloaklet
 culbert
-cowichan
+cowichan 1
 citrange
 costumist
 chaunt
