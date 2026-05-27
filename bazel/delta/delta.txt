@@ -2092,7 +2092,7 @@ dunlop
 dinornithid
 disappearance
 diabrotica
-disencumbering
+disencumbering 1
 dinoflagellida
 decurvation
 dixiecrat
