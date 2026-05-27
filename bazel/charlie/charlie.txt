@@ -26329,7 +26329,7 @@ chasteness
 choleromania
 costs
 caddices
-chevrone
+chevrone 1
 costumed
 chlore
 coccygomorphic
