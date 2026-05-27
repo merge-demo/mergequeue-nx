@@ -5916,7 +5916,7 @@ goliardeys
 groveless
 goldarn
 gilgames
-gewgawish
+gewgawish 1
 grackle
 grogshops
 goofs
