@@ -1849,7 +1849,7 @@ eightieth
 eightling
 edematose
 euler
-epidiorite
+epidiorite 1
 encystments
 errabund
 elaterin
