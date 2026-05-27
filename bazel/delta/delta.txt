@@ -2745,7 +2745,7 @@ decorator
 deliberated
 disaffiliate
 devonshire
-dictates
+dictates 1
 dissembling
 decore
 dewcup
