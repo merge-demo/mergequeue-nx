@@ -310,7 +310,7 @@ enterolobium
 enantiosis
 ealderman
 endark
-espousage
+espousage 1
 exserting
 extortionate
 expedient
