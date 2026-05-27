@@ -6503,7 +6503,7 @@ ensurance
 ensuring 1
 equators
 enswathement
-elementariness
+elementariness 1
 embowered
 evidently
 ephelis
