@@ -19387,7 +19387,7 @@ argentines
 atheistical
 anchoretical
 administratrix
-amuser
+amuser 1
 argentan
 axisymmetry
 aerobacter
