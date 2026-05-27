@@ -5771,7 +5771,7 @@ atoning
 autocoder
 adawn 1
 awl 1
-agaricaceous
+agaricaceous 1
 agaricoid
 agarics
 apluda
