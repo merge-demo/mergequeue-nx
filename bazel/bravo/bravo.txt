@@ -17005,7 +17005,7 @@ brownistic
 barkan
 bulbule 1
 bespoken
-bure
+bure 1
 blazoner
 baaing
 bulgari
