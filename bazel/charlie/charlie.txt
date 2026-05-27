@@ -22,7 +22,7 @@ caught
 cabaletta
 cestas
 cardplaying
-chertiest
+chertiest 1
 cabalisms
 crackerberries
 cereus
