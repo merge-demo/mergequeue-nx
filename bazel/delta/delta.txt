@@ -15247,7 +15247,7 @@ dolled
 departmentalizing
 dehull
 dollia
-deuteranopic 1
+deuteranopic 2
 dissociate
 dingmaul
 disbursal
