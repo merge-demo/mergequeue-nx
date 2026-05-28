@@ -11614,7 +11614,7 @@ fustics
 fussbudget 1
 fixable
 forint
-facsimile
+facsimile 1
 frolicsomely
 fortissimi
 farci
