@@ -8398,7 +8398,7 @@ blams
 blackcoat
 bikkurim
 biosynthetically
-balkier
+balkier 1
 biogenous
 blackwood
 bilayer
