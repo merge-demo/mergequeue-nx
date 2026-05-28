@@ -5007,7 +5007,7 @@ exul
 effuses 1
 enschedule
 exomphalous
-endemicity 1
+endemicity 2
 electrofused
 endemism
 eco
