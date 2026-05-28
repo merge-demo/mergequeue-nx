@@ -3649,7 +3649,7 @@ dermatoxerasia
 deglut
 dec
 disarrangement
-decubation
+decubation 1
 denounced
 despisement
 delinquencies
