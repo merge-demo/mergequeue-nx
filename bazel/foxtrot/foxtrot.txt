@@ -2067,7 +2067,7 @@ frory
 forensically
 feldspathoid
 foys
-forehook
+forehook 1
 fwelling
 flocky
 foggara
