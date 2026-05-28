@@ -12489,7 +12489,7 @@ disillusionising
 disdeceive
 decimalize
 disillusionments
-diaphanousness
+diaphanousness 1
 disgorge
 decinormal
 discomycetes
