@@ -6803,7 +6803,7 @@ fervescent
 flyers 1
 forseeable
 fluidics
-foreshadowing
+foreshadowing 1
 ferme
 fiendliness
 frontal
