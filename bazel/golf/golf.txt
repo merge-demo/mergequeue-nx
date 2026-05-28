@@ -223,7 +223,7 @@ guarder 1
 greatens
 gradefinder
 gratiano
-gaiassa
+gaiassa 1
 gifts
 gelasimus
 guidman
