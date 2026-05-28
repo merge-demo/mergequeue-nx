@@ -14095,7 +14095,7 @@ circocele
 colloquialisms
 codecree
 circue
-circuit
+circuit 1
 circuital
 chimonanthus
 circuiteer
