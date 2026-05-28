@@ -22255,7 +22255,7 @@ congestive
 conceitedly
 conglaciate
 cornered
-circumlocutional
+circumlocutional 1
 cameleers
 congenerousness
 conglobe
