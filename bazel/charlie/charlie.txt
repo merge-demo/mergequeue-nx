@@ -8261,7 +8261,7 @@ chalcography
 caucho
 chalcographic
 chalcographical
-chalcographist
+chalcographist 1
 chalcolithic
 cappae
 coadunation
