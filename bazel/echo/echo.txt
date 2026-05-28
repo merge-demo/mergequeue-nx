@@ -1354,7 +1354,7 @@ earthiest
 effendis
 empty
 efferently
-efferents
+efferents 1
 effervescency
 eights
 epode
