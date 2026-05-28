@@ -2161,7 +2161,7 @@ eyestring
 ensorceling
 explicandum
 electropult
-elation
+elation 1
 euphonise
 enrib
 effloresces
