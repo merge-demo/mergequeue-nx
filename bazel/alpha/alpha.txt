@@ -24852,7 +24852,7 @@ avolitional
 avouch
 avouchable
 atmosphere
-anaptyxis
+anaptyxis 1
 alands
 animates
 artisanal
