@@ -31396,7 +31396,7 @@ colubaria
 curios
 cheminee
 cartridges
-curiosa
+curiosa 1
 curiosi
 curiosities
 cremona
