@@ -11374,7 +11374,7 @@ fluorindin
 fibropolypus
 fruitade
 faute
-furnacelike
+furnacelike 1
 firetraps
 fosters
 furnaces
