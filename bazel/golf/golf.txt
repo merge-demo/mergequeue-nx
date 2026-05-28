@@ -2464,7 +2464,7 @@ gabrielrache
 garbo
 gromwells
 garbure
-gemote
+gemote 1
 genouillere 1
 glassing
 gourinae
