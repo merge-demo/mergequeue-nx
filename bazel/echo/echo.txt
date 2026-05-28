@@ -8408,7 +8408,7 @@ epivalve
 elatcha
 equerries
 eardrum
-erodible
+erodible 1
 endodermic
 enchains
 emancipatress
