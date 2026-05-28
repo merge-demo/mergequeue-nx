@@ -6516,7 +6516,7 @@ forgie
 farweltered
 fip
 failsoft
-frotted
+frotted 1
 forspread
 furcular
 fluther 1
