@@ -1194,7 +1194,7 @@ estipulate
 estimation
 eroded
 elenge
-entirities
+entirities 1
 espathate
 enlute
 educationist
