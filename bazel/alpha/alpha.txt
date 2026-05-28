@@ -12778,7 +12778,7 @@ angiohemophilia
 anhelous
 anachronously
 anglophilia
-antiricin
+antiricin 1
 angioid
 amentum
 antimilitarist
