@@ -2610,7 +2610,7 @@ electropathology 1
 electrophysiological
 eunectes
 electrocutioner
-ebulus
+ebulus 1
 exportability
 etherical
 ecphova
