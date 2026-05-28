@@ -2601,7 +2601,7 @@ acquiesce
 addiction
 acanthopterous 1
 alginates
-acquiescement
+acquiescement 1
 aureation
 acquiescence
 acquiescency 1
