@@ -1666,7 +1666,7 @@ circularities
 calool
 calophyllum
 comminutor
-chettik
+chettik 1
 colport
 consuetitude 1
 conferees
