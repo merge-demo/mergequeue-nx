@@ -17802,7 +17802,7 @@ deputator
 duckmeat
 duckpin
 desalinate
-diabolarch
+diabolarch 1
 dower
 dermatological
 demographies
