@@ -1643,7 +1643,7 @@ fipenny
 four 1
 fdnames
 forthcut
-fluible
+fluible 1
 flamboyantly
 furbelowed 1
 focally
