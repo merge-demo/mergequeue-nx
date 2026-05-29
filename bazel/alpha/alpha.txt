@@ -22792,7 +22792,7 @@ atlantid
 asaphid
 atlantides
 audibility
-atlantite
+atlantite 1
 arthrodic
 arrowheaded
 antigenically
