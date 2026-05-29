@@ -5107,7 +5107,7 @@ grittier
 gunman
 garboards
 guilelessly 1
-guernseyed
+guernseyed 1
 glareproof
 griskin
 grainsmen 1
