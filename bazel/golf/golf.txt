@@ -7301,7 +7301,7 @@ graphiologist
 glutaric
 glitches 1
 goldsinny
-gynics
+gynics 1
 grahams
 gnocchi
 grossness

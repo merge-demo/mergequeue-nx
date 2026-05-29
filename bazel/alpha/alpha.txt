@@ -5590,7 +5590,7 @@ anterevolutional
 afterspring
 anatron
 anhele
-afterstretch
+afterstretch 1
 amphitriaene
 autosuggestive
 archdogmatist
