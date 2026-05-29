@@ -31804,7 +31804,7 @@ chanabal
 cuteness
 cutenesses
 collying
-cutesy
+cutesy 1
 coroa
 curvity
 chocalho
