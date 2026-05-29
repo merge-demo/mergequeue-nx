@@ -7336,7 +7336,7 @@ gossamered
 galega
 gossamers
 galloglass
-geochronometric
+geochronometric 1
 gibby
 glareole
 ghee
