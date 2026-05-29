@@ -2190,7 +2190,7 @@ disinvestment
 doiled
 diphyozooid
 decoloration
-decarburise
+decarburise 1
 decarburising
 diakonika
 despiritualize

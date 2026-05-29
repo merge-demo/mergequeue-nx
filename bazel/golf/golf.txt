@@ -128,7 +128,7 @@ gangrening
 gadroonage 1
 gadrooning
 gersum
-glacises
+glacises 1
 granulize
 gageable
 guerdonable
