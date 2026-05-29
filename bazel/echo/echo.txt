@@ -1983,7 +1983,7 @@ elachistaceous
 euthamia
 earthen
 etherialize
-exteriorate
+exteriorate 1
 elastics
 exothermal
 eagle
