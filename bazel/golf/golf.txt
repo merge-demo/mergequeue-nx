@@ -9196,7 +9196,7 @@ glycolytically
 guanajuatite
 galvanometer
 greenwich
-gynarchies
+gynarchies 1
 galvanization
 generalizes 1
 groves
