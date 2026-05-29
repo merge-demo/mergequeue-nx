@@ -10455,7 +10455,7 @@ gallotannic
 gentleheartedly
 gundalow
 gyrosyn
-greetings
+greetings 1
 grakle
 gummatous
 gneissy
