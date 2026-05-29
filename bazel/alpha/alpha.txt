@@ -14059,7 +14059,7 @@ anchorate
 autocatalytic
 antechoirs
 axostyle
-antecolic
+antecolic 1
 antecornu
 antecourt
 antecubital
