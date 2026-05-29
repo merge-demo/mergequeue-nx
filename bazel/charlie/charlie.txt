@@ -5479,7 +5479,7 @@ cyclopedia
 casuistry
 catpipe
 colic
-conductances
+conductances 1
 cellar
 casuistries
 casus
