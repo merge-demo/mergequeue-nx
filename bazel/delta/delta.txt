@@ -18669,7 +18669,7 @@ dwalm
 dwarfer
 duckboat
 dwarfishness
-documentarily
+documentarily 1
 dwarfisms
 dermopteran
 darwinically 1
