@@ -3870,7 +3870,7 @@ fungistat
 flavanthrene 1
 favous
 fimbriating
-farcer
+farcer 1
 frizette
 focalising
 fulgurous
