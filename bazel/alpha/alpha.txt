@@ -15337,7 +15337,7 @@ agomphosis
 antihypophora 1
 acetopiperone
 autodecrements
-antispermotoxin
+antispermotoxin 1
 amphicyon
 antihistaminic
 angiospermatous
