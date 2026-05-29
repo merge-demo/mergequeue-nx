@@ -2897,7 +2897,7 @@ fackins
 firefighters
 footstall
 fettucini
-fungiferous
+fungiferous 1
 fistulate
 fruitlet
 froglike
