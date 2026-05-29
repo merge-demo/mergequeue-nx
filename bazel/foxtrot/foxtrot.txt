@@ -3449,7 +3449,7 @@ frontals
 feminising
 fulmines
 forewarmer
-forepointer
+forepointer 1
 furfurans
 forthward
 frontoethmoid
