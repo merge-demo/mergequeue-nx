@@ -15842,7 +15842,7 @@ cleaver
 cleavers
 crusilee
 coremaker
-clamb
+clamb 1
 cleche
 capacitance
 clechee
