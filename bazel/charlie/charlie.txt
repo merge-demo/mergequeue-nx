@@ -3066,7 +3066,7 @@ cyclopterous
 canvasing
 causata
 canvasser
-canzona
+canzona 1
 crickety
 canzones
 canzonet
