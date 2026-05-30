@@ -8716,7 +8716,7 @@ dichrooscopic
 dodecylene
 disenfranchisements
 dorsonuchal
-diathermy
+diathermy 1
 decastere
 demonstrate
 decorousness
