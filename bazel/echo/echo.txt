@@ -6089,7 +6089,7 @@ escheated
 enlaurel
 emancipatist
 exorableness
-enliveningly
+enliveningly 1
 enlief
 evertebrate
 excruciate
