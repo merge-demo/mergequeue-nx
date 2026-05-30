@@ -16424,7 +16424,7 @@ appointed
 aurei
 anaplastic
 antonomastic
-antonomastical
+antonomastical 1
 aminopurine
 aerodontia 1
 appendixing
