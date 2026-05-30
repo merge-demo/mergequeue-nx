@@ -16476,7 +16476,7 @@ abietinic
 almacantar
 anusvara
 apulmonic
-almightily
+almightily 1
 autolysin
 armoire
 aeron
