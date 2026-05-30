@@ -8351,7 +8351,7 @@ genitalia
 greeniest
 grins
 glittery
-genioglossi
+genioglossi 1
 gulled
 gopherroot
 gripy
