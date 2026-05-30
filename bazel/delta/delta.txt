@@ -5715,7 +5715,7 @@ dishearteningly
 delthyrium
 deploy
 desipramine
-despotic
+despotic 1
 deltoids
 disusance
 dispansive
