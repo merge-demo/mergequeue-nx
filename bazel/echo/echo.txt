@@ -6294,7 +6294,7 @@ enrich
 enrichener
 ectopias
 edaphic
-enows
+enows 1
 electrotechnology
 euryscope
 ecclesiastry
