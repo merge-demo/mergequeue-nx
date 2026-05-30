@@ -7816,7 +7816,7 @@ cervantite
 consternating
 coruscation
 choledochitis
-coronatorial
+coronatorial 1
 cervicapra
 cervicectomy
 cyanided
