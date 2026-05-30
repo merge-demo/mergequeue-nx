@@ -4269,7 +4269,7 @@ equidiagonal 1
 epityphlon
 escutcheons
 experiment
-endometrium
+endometrium 1
 electrodispersive
 evertile
 exclusivism
