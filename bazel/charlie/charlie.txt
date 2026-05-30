@@ -19956,7 +19956,7 @@ canfieldite
 canoodled
 commandos
 colove
-cheery
+cheery 1
 cofferlike
 commandry
 cachinnated
