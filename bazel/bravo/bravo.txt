@@ -1010,7 +1010,7 @@ baigneuses
 beshrewed
 boraces
 barmecidal
-balcony
+balcony 1
 burnweed
 bail
 buxeous
