@@ -1459,7 +1459,7 @@ beryllonite
 balker
 bastardise
 balkiest
-byronize
+byronize 1
 balkiness
 balking
 budgy
