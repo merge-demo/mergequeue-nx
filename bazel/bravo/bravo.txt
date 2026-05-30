@@ -5159,7 +5159,7 @@ biacuminate
 befraught
 befreight
 befountained
-borosilicic
+borosilicic 1
 baddish
 baguette
 burbank
