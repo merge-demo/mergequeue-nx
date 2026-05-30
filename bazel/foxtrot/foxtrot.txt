@@ -2835,7 +2835,7 @@ forebush
 foreadmonish
 fieldsmen
 farmhand
-fetichlike
+fetichlike 1
 flowerets
 feticide
 feting
