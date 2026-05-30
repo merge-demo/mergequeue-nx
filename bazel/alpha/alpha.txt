@@ -2810,7 +2810,7 @@ anywhy
 aerie
 acquirer
 acromegaly
-analogs
+analogs 1
 antiscience
 acromelalgia
 airworthier
