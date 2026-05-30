@@ -8679,7 +8679,7 @@ epiglottides
 evangelists
 equiperiodic
 emendations
-equipoise
+equipoise 1
 endophyllous
 erotical
 euphemizing
