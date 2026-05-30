@@ -22422,7 +22422,7 @@ astrologize
 advancers
 astromancer
 astromantic 1
-astromeda
+astromeda 1
 axion
 apophyges
 anthropomorphize
