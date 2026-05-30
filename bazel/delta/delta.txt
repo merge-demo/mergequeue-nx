@@ -12774,7 +12774,7 @@ donative
 disloyalist
 disloyally
 disloyalty
-decrepity
+decrepity 1
 doored
 disloyalties
 dislove
