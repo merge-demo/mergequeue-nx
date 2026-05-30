@@ -8853,7 +8853,7 @@ featureless
 fostered
 fator
 figeter
-fluidities
+fluidities 1
 flickers
 fatty
 ferrotypes
