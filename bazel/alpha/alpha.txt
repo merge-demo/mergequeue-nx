@@ -3635,7 +3635,7 @@ amerindian
 adenographical
 adenohypersthenia
 atry
-archecentric
+archecentric 1
 applyingly
 adenoidectomy
 atactiform
