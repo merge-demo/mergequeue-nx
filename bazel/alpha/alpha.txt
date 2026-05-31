@@ -11840,7 +11840,7 @@ appulsion
 analoga
 analogy
 analogic
-anteposition
+anteposition 1
 ascertained
 anaximandrian
 amphicome
