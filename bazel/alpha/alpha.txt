@@ -3944,7 +3944,7 @@ autotyphization
 acanthine
 absinthes
 adjust
-animalculum
+animalculum 1
 abdal
 astre
 armozeen
