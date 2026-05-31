@@ -19017,7 +19017,7 @@ clingiest
 collegiateness
 czarinas
 concorporating
-clan
+clan 1
 cotylosauria
 craniometric
 combattant
