@@ -3610,7 +3610,7 @@ dinosauric 1
 dinornithiformes
 degenerate 1
 desulphurizer
-diagrammatize
+diagrammatize 1
 diodont
 docosane
 deprecatorily
