@@ -8637,7 +8637,7 @@ decarchy
 diarrhoeal
 dephysicalize
 diarrhoetic
-diarthric
+diarthric 1
 dorsocervical
 disfavored 1
 diarticular
