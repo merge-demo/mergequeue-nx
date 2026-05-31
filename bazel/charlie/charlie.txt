@@ -674,7 +674,7 @@ caesurae
 caesuric
 caf
 cinefilm
-cafardise
+cafardise 1
 charka
 casuarinaceous
 cryptanalytic
