@@ -9427,7 +9427,7 @@ flouriness
 frolicly
 forlore
 frescoer
-fulsomeness
+fulsomeness 1
 fenman
 fausant
 filmslide
