@@ -18177,7 +18177,7 @@ aquatone
 acidemias
 aquavits
 amantillo
-asseverating
+asseverating 1
 aberuncator
 aporphin
 allocatable
