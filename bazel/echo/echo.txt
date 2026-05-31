@@ -2659,7 +2659,7 @@ entad
 exemplarity
 ethnocentrism
 electrosmosis
-excelling
+excelling 1
 exegetist
 enquiries
 electrosteel
