@@ -8132,7 +8132,7 @@ chagrinning
 cambion
 chaguar
 chahar
-chahars
+chahars 1
 chai
 chay
 coordain
