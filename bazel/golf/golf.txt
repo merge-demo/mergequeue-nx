@@ -5689,7 +5689,7 @@ glycerize
 gumboil
 gilbertianism
 glossalgy
-glossarize
+glossarize 1
 grieffully
 gnathonize
 gahrwali
