@@ -15238,7 +15238,7 @@ antifouling
 autobasidiomycetes 1
 austere
 arborolatry
-asparagine
+asparagine 1
 apicilar
 adarticulation
 antifowl
