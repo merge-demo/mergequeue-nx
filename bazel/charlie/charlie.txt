@@ -29316,7 +29316,7 @@ cryptogamy
 cryptogamic
 cryptogamical
 cryptogamist
-cryptogenic
+cryptogenic 1
 cryptoglioma
 caried
 custody
