@@ -1807,7 +1807,7 @@ debarring
 drummock
 delectible
 dispiteous 1
-detubation
+detubation 1
 duped
 diffusely
 desmothoraca 1
