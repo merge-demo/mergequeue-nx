@@ -12137,7 +12137,7 @@ eavesdrops
 excrementitiously
 elonite
 enregister
-excellencies
+excellencies 1
 ejam
 eloper
 ebonite
