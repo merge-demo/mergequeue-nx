@@ -15087,7 +15087,7 @@ coexertion
 clacking
 clacks
 clad
-confated
+confated 1
 characterizations
 cladanthous
 cladding
