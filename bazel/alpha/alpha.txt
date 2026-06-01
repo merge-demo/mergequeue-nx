@@ -1160,7 +1160,7 @@ acalyptratae
 anonymities
 acamar
 allocrotonic
-allethrin
+allethrin 1
 ammoniacal
 azimuths
 advancing
