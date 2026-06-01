@@ -23033,7 +23033,7 @@ accultural
 axiologically
 att
 attacca
-adjuring
+adjuring 1
 absences
 amphibolite
 antiperistaltic
