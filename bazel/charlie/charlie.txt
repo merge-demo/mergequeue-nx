@@ -22531,7 +22531,7 @@ championlike
 conjures
 conjuring
 cricetine
-conk
+conk 1
 canonises
 cryptopine
 conkanee
