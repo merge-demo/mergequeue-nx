@@ -17198,7 +17198,7 @@ drive
 diastrophism
 dehair
 deermeat
-disgustingness
+disgustingness 1
 decumbence
 disorganic
 demitasse
