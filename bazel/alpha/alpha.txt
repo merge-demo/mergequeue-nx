@@ -12355,7 +12355,7 @@ angakut
 anding
 angiosarcoma
 alternateness
-apophysial
+apophysial 1
 abruptly
 apologise
 andirin
