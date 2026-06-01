@@ -12277,7 +12277,7 @@ boltrope
 begrave
 bonellia
 barbarea
-bindis
+bindis 1
 budgeteer
 brunetness
 blanquillo
