@@ -10584,7 +10584,7 @@ dependable
 debouched
 decorticate
 despotist
-diplogenesis
+diplogenesis 1
 diagonalize
 deseam
 dirges
