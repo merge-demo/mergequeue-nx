@@ -13334,7 +13334,7 @@ emilia
 encincture
 exponention
 elephantopus
-exponible
+exponible 1
 existible
 evolvable
 extrametaphysical
