@@ -2239,7 +2239,7 @@ elecives
 electant
 elect
 epitheliulia
-electary
+electary 1
 engrailing
 enthraldom
 emotionist
