@@ -4077,7 +4077,7 @@ admittance
 admitted
 agitpunkt
 ardoise
-ampliation
+ampliation 1
 aedoeagi
 allocates
 admitters
