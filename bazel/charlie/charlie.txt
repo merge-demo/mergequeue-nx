@@ -14550,7 +14550,7 @@ conchoidal
 cysticercerci
 cysticerci
 chondrule
-chackling
+chackling 1
 cylindrite
 cysticercoidal
 cysticercosis
