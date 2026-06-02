@@ -1443,7 +1443,7 @@ anagignoskomena
 acclaimer
 afterwrist
 acclamator
-acclimatable
+acclimatable 1
 autecologically
 acclimatement
 attires
