@@ -9273,7 +9273,7 @@ fungate
 folious
 frangipani 1
 framea
-framer
+framer 1
 frames
 frapler
 forename
