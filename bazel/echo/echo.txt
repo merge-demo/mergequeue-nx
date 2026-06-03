@@ -422,7 +422,7 @@ essera
 exomphalus
 entocondyle
 ebulliently 1
-elfish
+elfish 1
 exposits
 ebulliometer
 exacerbation
