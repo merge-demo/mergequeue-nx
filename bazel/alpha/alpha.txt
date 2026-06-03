@@ -8792,7 +8792,7 @@ alliterate
 announceable
 acescence
 atwind
-alcidae
+alcidae 1
 alliterates
 await
 actious
