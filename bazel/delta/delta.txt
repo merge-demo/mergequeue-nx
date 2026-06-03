@@ -8092,7 +8092,7 @@ dhourras
 dispersedye
 dhritarashtra
 disables
-disembowelled
+disembowelled 1
 drawable
 dhurra
 detrimentalness
