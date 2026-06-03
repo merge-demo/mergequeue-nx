@@ -2672,7 +2672,7 @@ electrostriction
 epizootiologic
 ejurate
 epitomizing
-emong
+emong 1
 electrosurgery
 enventual
 epididymovasostomy
