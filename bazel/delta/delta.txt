@@ -12963,7 +12963,7 @@ decomplex
 distannic
 disorderer
 dormantly
-daughterkin
+daughterkin 1
 dactylitis
 disordering
 downwith
