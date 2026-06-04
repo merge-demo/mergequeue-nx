@@ -6025,7 +6025,7 @@ gnarls
 gaidropsaridae
 gnetaceae
 gravelweed
-geminative
+geminative 1
 gutturonasal
 gingerly
 goodwilly
