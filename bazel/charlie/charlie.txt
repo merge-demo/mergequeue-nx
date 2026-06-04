@@ -1710,7 +1710,7 @@ calotypic
 calotypist
 crossbolt
 congratulated
-cryptovalency
+cryptovalency 1
 cuddlier
 cladine
 calottes
