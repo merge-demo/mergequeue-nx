@@ -9192,7 +9192,7 @@ fulfulde
 forward
 filices
 filenames
-fifteenths
+fifteenths 1
 frija
 fixive
 fanaloka
