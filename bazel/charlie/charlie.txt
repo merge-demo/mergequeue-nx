@@ -13043,7 +13043,7 @@ chatting
 cyanotype
 cyanuramide
 coefficiently 1
-cyanuric
+cyanuric 1
 cyanurin
 chowsing
 cyanurine
