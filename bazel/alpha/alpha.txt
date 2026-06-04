@@ -2059,7 +2059,7 @@ anammonid
 altitudinal
 acheiria
 aboveboard
-antidromic
+antidromic 1
 achenes
 amorua
 alphabets
