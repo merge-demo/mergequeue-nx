@@ -16365,7 +16365,7 @@ clit
 clitch
 clite
 counterplea
-clites
+clites 1
 cleridae
 clithe
 clithral
