@@ -7635,7 +7635,7 @@ alchemizing
 alchimy
 amphicarpic
 antisepticist
-alcidine
+alcidine 1
 abstracter
 alcine
 alphabetically
