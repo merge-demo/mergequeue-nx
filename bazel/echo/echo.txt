@@ -2973,7 +2973,7 @@ elides
 electrotropism
 europiums
 epistoler
-ekronite
+ekronite 1
 entomology
 elidible
 etagere
