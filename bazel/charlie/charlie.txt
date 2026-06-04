@@ -10974,7 +10974,7 @@ chiropodial
 chiropodic
 chiropodical
 caphite
-cavascope
+cavascope 1
 canvaslike
 chiropodistry
 callan
