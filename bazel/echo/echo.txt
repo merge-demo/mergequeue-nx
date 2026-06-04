@@ -916,7 +916,7 @@ exampled
 exegesist
 epilogistic
 enteritidis
-echinoids
+echinoids 1
 extropical
 encapsulating
 escalation
