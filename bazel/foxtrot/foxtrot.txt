@@ -9135,7 +9135,7 @@ fooner
 fracid 1
 frizzier
 foreshadows
-foraminulous
+foraminulous 1
 footropes
 frothi
 flopover
