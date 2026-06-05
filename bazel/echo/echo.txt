@@ -8748,7 +8748,7 @@ equivelocity
 encrotchet 1
 exuberated
 exteriorized
-expatiator
+expatiator 1
 equivocal
 exuperable
 extermination
