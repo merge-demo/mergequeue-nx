@@ -2401,7 +2401,7 @@ dayakker
 deciduity
 daver
 deciduoma 1
-discommendable
+discommendable 1
 deciduously
 dessertspoonful
 dimercuric
