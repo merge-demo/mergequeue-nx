@@ -4461,7 +4461,7 @@ dampcourse
 demethylate
 definitize
 demetricize
-deceits
+deceits 1
 diceplay
 duress
 demy
