@@ -359,7 +359,7 @@ iagqsckw
 iagrir
 iagrsw
 iagsmh
-iagspm
+iagspm 1
 iagswkrtfpl
 iagthcnpn
 iagucgl
