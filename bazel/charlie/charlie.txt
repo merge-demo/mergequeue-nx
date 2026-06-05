@@ -19023,7 +19023,7 @@ craniometric
 combattant
 collembola
 collembole
-cokernut
+cokernut 1
 collembolous
 checkweighman
 collencyte
