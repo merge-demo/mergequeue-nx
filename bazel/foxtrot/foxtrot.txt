@@ -7422,7 +7422,7 @@ figgum
 fille
 falconers
 fawnlike 1
-fans
+fans 1
 firefang
 footmen
 ferrocerium
