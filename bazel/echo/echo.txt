@@ -7416,7 +7416,7 @@ ensculpture
 entasia
 exsanguineous
 exacted
-epenla
+epenla 1
 edgings
 epentheses
 errant
