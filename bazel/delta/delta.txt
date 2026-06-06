@@ -7004,7 +7004,7 @@ despoiled
 destroyers
 despoiler
 disabilities
-despoilers
+despoilers 1
 decongest
 decamps 1
 discreditably
