@@ -4046,7 +4046,7 @@ fadelessly
 finish
 flatling
 fletchings
-fungoid
+fungoid 1
 finishable
 firker
 fabrication
