@@ -2673,7 +2673,7 @@ cephalocereus
 canille
 canine
 consuetudinary
-canines
+canines 1
 caning
 caniniform
 choledochoenterostomy
