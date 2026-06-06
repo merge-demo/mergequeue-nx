@@ -19557,7 +19557,7 @@ actinobacillus
 arguments
 amorosa
 auriculated
-argusianus
+argusianus 1
 arguslike
 alexipharmic
 aegyrite
