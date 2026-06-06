@@ -12579,7 +12579,7 @@ ardennite
 antidoron
 appenditious
 aligns
-aboriginary
+aboriginary 1
 aeropleustic
 acinetarian
 anankes
