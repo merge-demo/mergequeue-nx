@@ -13790,7 +13790,7 @@ elachista
 ethnicism
 exacuate
 egyptologist
-extortions
+extortions 1
 establishmentarianism
 extortive
 equiped
