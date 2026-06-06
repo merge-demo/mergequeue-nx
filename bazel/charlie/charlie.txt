@@ -26151,7 +26151,7 @@ cloudlet
 cosmologically
 convocant
 compages
-chiromancist
+chiromancist 1
 cercopidae
 cosmonautical
 countdowns
