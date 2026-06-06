@@ -9847,7 +9847,7 @@ chemism
 choosy
 chemisorb
 coprophilic
-copperytailed
+copperytailed 1
 chemistry
 chemists
 coenactor
