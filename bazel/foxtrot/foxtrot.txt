@@ -8132,7 +8132,7 @@ forethrift
 fusel
 fondon
 farmland
-foison
+foison 1
 fire
 flexo
 flatcaps
