@@ -8638,7 +8638,7 @@ diarrhoeal
 dephysicalize
 diarrhoetic
 diarthric
-dorsocervical
+dorsocervical 1
 disfavored 1
 diarticular
 dias
