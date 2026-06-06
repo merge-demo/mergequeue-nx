@@ -130,7 +130,7 @@ antiheroes
 assertive
 antiphrasis
 archaeographic
-awesomeness
+awesomeness 1
 aspidoganoidei 1
 aulostoma
 abasic
