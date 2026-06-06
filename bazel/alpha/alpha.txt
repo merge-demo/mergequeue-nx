@@ -195,7 +195,7 @@ abbasside
 advertizable
 altostratus
 ashtray
-arctogaea
+arctogaea 1
 aerologist
 anilins
 ajimez
