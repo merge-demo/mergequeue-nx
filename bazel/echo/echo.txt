@@ -7090,7 +7090,7 @@ etymologer
 euphemous
 ebonising
 eleemosynar
-enunciated
+enunciated 1
 embowelled
 escalloniaceous 1
 electroanalytical
