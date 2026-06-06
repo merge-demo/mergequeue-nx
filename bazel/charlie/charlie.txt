@@ -11777,7 +11777,7 @@ consonantally
 chondroprotein
 cult
 chondropterygian
-caravansary
+caravansary 1
 chondropterygious
 chondrosarcomatous
 construed
