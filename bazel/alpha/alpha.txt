@@ -5573,7 +5573,7 @@ afterreckoning
 audiotypist
 auxofluor
 andiroba
-absolute
+absolute 1
 afters
 amphibrach
 allomerism 1
