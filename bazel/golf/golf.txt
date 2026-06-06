@@ -10221,7 +10221,7 @@ guile
 gyrectomies
 galluses
 groundsel
-gonk
+gonk 1
 geotonus
 glamourously
 galusha

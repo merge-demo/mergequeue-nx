@@ -5194,7 +5194,7 @@ erava
 essonite
 exceedingness
 endothermically
-epimeride
+epimeride 1
 enounced
 elephants
 electrology
