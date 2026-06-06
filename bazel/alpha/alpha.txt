@@ -1670,7 +1670,7 @@ accueil
 acculturate
 acculturated
 acculturates
-astr
+astr 1
 anorganic 1
 alkalimeter
 arank
