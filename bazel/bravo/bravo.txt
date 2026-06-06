@@ -2158,7 +2158,7 @@ behaviourist
 balliage
 baptistry
 brazils
-bitingly
+bitingly 1
 broncos
 bemingled
 baptizement
