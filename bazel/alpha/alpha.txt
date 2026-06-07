@@ -2252,7 +2252,7 @@ armigeri
 antiager
 avatara
 axel
-ampherotoky
+ampherotoky 1
 achuete
 astrography
 antinoise
