@@ -14501,7 +14501,7 @@ anoplotheroid
 anthropography
 antalkalies
 animatism
-acritochromacy
+acritochromacy 1
 algologically 1
 adnoun
 anobing
