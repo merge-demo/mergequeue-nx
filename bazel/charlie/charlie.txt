@@ -5328,7 +5328,7 @@ cassons 1
 cochleated
 chariotway
 cynodont
-cassowary
+cassowary 1
 cassowaries
 carotidean
 commonty
