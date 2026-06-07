@@ -13785,7 +13785,7 @@ euchite
 emirship
 embargoing 1
 extortioners
-entomogenous
+entomogenous 1
 elachista
 ethnicism
 exacuate
