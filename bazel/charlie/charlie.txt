@@ -49,7 +49,7 @@ centillions
 chondroadenoma
 cabanas
 cabane
-coreign
+coreign 1
 cabaret
 cabasa
 corder
