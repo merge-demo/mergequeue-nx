@@ -663,7 +663,7 @@ damoiseau
 deciduas
 ditroite
 damon
-damosel
+damosel 1
 drachms
 divorcement
 decapitalize
