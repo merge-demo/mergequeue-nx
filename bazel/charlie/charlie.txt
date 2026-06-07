@@ -5376,7 +5376,7 @@ castellation
 castellatus
 creolization
 circumposition
-copulates
+copulates 1
 chamberfellow
 castellum
 caster
