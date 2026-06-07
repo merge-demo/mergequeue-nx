@@ -21,7 +21,7 @@ beringite
 babasu
 bureaucratist
 bangy
-brachial
+brachial 1
 bionergy 1
 babbitted
 beshell
