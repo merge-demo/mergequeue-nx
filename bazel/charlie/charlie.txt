@@ -5551,7 +5551,7 @@ catadupe
 catafalco
 civilisation
 catagenetic
-catakinetic
+catakinetic 1
 catakinomeric
 corkscrewy
 catalanganes
