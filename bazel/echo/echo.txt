@@ -10255,7 +10255,7 @@ epicurish
 estafet
 evectic
 economical
-ethyne
+ethyne 1
 elucidatory
 endoscopist
 endosarcous
