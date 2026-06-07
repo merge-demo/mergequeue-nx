@@ -5811,7 +5811,7 @@ aguey
 agathis
 agathist
 agathodaemonic
-aeropause
+aeropause 1
 ambulative
 atterminal
 agatiferous
