@@ -10527,7 +10527,7 @@ freq
 forstand
 frowsily 1
 footslogging
-famishment
+famishment 1
 frictionless
 francisca
 faiths
