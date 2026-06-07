@@ -295,7 +295,7 @@ essoin
 ecotopic
 easters
 eponymy
-exorcizes
+exorcizes 1
 exteriority
 elderly
 eightsome
