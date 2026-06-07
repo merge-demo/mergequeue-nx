@@ -4153,7 +4153,7 @@ felonry
 flexed
 fatling
 fenchyl
-feezed
+feezed 1
 fireboy
 flying 1
 fiendishly
