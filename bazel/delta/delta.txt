@@ -5988,7 +5988,7 @@ dragons
 diopside
 delictus
 deed
-durezza
+durezza 1
 depsides
 disciplinability
 dilettantist
