@@ -3022,7 +3022,7 @@ cantonize
 colectomy
 countergager
 cantoral
-cantoria
+cantoria 1
 cardsharps
 calabooses
 crystallographic
