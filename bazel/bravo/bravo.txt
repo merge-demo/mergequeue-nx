@@ -9681,7 +9681,7 @@ belfried
 busking
 balanoglossus
 barway
-beringed
+beringed 1
 bismutosphaerite
 bisnaga
 bispinose
