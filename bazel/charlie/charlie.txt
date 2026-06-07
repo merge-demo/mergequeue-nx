@@ -27685,7 +27685,7 @@ cowhouse
 ciconiae
 chamaesyce
 clockers
-chincloth
+chincloth 1
 cowier
 copalms
 cowiest 1
