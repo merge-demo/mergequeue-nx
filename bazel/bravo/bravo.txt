@@ -4595,7 +4595,7 @@ bilker
 baloskionaceae
 ballbuster
 bedazzles 1
-bedazzlingly
+bedazzlingly 1
 bibliopolery
 beckon
 baptise
