@@ -5035,7 +5035,7 @@ aeroplaner
 anecdotically
 aeroplanes
 archboutefeu 1
-aeroscepsy
+aeroscepsy 1
 achromatizing
 archaeology
 anciennete
