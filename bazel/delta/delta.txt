@@ -2814,7 +2814,7 @@ deknight
 decretalist
 despumating
 debility
-desalinization
+desalinization 1
 deedbote
 donatory 1
 decretively
