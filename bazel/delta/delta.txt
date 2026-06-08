@@ -9003,7 +9003,7 @@ dhow
 dicynodontia
 diclinous
 distortionless
-deify
+deify 1
 disputers
 dasyproctine
 dunned
