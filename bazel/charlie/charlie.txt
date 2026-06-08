@@ -25863,7 +25863,7 @@ corsacs
 connarus
 corsages
 corsairs
-chalcid
+chalcid 1
 corsak
 crippled
 corse
