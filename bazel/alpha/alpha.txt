@@ -6619,7 +6619,7 @@ aquaculture
 alveolite
 archsteward
 afterbeat
-aymaran
+aymaran 1
 astatizer
 assembles
 anodynous
