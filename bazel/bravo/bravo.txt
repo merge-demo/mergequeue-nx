@@ -10459,7 +10459,7 @@ blason
 blasphemed
 blasphemes
 blasphemies
-blasphemous
+blasphemous 1
 blasphemousness
 bismarckian
 buttonhole
