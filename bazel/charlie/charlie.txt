@@ -2867,7 +2867,7 @@ counsinhood
 canopy
 canopid
 canalised
-canopies
+canopies 1
 clarigate
 corticated
 canopying
