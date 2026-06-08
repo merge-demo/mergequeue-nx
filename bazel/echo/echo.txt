@@ -5998,7 +5998,7 @@ expeditated
 ejectors 1
 epheboi
 englute
-enjail
+enjail 1
 escaped
 emetomorphine
 ectomere
