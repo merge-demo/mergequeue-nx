@@ -25010,7 +25010,7 @@ apama
 awing
 antiprohibitionist
 arusha
-awiwi
+awiwi 1
 alimentative
 astrological
 attach
