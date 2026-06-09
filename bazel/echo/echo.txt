@@ -8288,7 +8288,7 @@ exemplification
 epitaxies
 epitaxis
 ebonizes
-epidemicity
+epidemicity 1
 epigrammatized
 enlife
 ecophobia
