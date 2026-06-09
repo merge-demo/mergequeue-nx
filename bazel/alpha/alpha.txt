@@ -7536,7 +7536,7 @@ alodiaries
 anoopsias
 albuminorrhea
 albuminoscope
-acari
+acari 1
 anonyms
 anisodont
 albumins
