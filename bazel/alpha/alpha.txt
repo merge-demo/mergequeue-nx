@@ -2017,7 +2017,7 @@ acetoxyl
 approbatory
 allegoristic
 aeneas
-achaean
+achaean 1
 antiexpressionistic
 aperistalsis
 aequoreal
