@@ -29652,7 +29652,7 @@ cotingid
 crocodylus
 chronol
 counteraffirm
-croconic
+croconic 1
 convincedness
 conoidal
 castellet
