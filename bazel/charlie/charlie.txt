@@ -12974,7 +12974,7 @@ contingent
 cyanitic
 columnating
 cretonnes
-cyanize
+cyanize 1
 conchoidally
 cleeky
 cotty
