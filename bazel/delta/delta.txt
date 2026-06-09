@@ -14676,7 +14676,7 @@ dignified
 darioles
 djin 1
 disrespondency
-describe
+describe 1
 dowers
 doxies
 dieselize
