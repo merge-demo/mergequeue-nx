@@ -5123,7 +5123,7 @@ experted
 extraditions
 eclogites
 eardrums
-exited
+exited 1
 endoclinal
 eternals
 endocoelar
