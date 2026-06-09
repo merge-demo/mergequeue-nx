@@ -21017,7 +21017,7 @@ caramelan
 cypsela
 compunct
 crassilingual
-compunction
+compunction 1
 cystaster
 curvedness
 catenaries
