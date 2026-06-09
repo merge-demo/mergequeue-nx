@@ -4242,7 +4242,7 @@ carefreeness
 careful
 ceilidh
 carefull
-carefuller
+carefuller 1
 carefullest
 chemosensitivities
 characteristic
