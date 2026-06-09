@@ -996,7 +996,7 @@ cableway
 cheesed
 cordyl
 celiomyodynia
-calamity
+calamity 1
 candy
 cash
 calamostachys
