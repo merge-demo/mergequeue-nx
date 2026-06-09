@@ -13715,7 +13715,7 @@ despoiling
 diphosgene
 disturbation
 discoids
-defends
+defends 1
 doorplate
 divalent 1
 dejecta
