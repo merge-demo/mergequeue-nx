@@ -20435,7 +20435,7 @@ callousing
 corycavine
 chirpiness
 comparableness
-comparably
+comparably 1
 cionotome
 comparascope
 comminuting
