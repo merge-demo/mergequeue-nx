@@ -2718,7 +2718,7 @@ evovae
 electiveness
 enchodontid
 exogastritis
-electrotype 1
+electrotype 2
 entosphenoid
 electrotypy
 enolase
