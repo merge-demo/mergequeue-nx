@@ -27738,7 +27738,7 @@ cytidines
 coleus
 cowpoxes
 consortium
-chuprassi
+chuprassi 1
 champagnizing
 cowry
 cowrie
