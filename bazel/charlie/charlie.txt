@@ -20594,7 +20594,7 @@ competitiveness
 competitor
 competitory
 conjugal 1
-cascol
+cascol 1
 competitors
 challengee
 competitrix
