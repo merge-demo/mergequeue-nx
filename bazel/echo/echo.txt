@@ -8390,7 +8390,7 @@ echiurus
 exterminates
 errands
 epistolography
-emissile
+emissile 1
 epitrachelia
 estrum
 exceedable
