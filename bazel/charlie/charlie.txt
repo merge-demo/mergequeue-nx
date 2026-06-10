@@ -30534,7 +30534,7 @@ cubes
 cognatical
 chattering
 carotidal
-chitterlings
+chitterlings 1
 corrumpable
 chayotes
 cubical
