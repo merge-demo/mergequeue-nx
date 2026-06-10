@@ -13100,7 +13100,7 @@ dabbed
 disglory
 diactine
 dispensingly
-dispensive
+dispensive 1
 daggered
 dispeople
 daresay
