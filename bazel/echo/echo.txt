@@ -2976,7 +2976,7 @@ epistoler
 ekronite
 entomology
 elidible
-etagere
+etagere 1
 epistasy
 eligibles
 entrecotes
