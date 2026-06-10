@@ -3997,7 +3997,7 @@ apostolize
 amimide
 anthus
 acerola
-arrows
+arrows 1
 ankuses
 acronymize
 advect
