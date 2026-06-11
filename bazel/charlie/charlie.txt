@@ -6880,7 +6880,7 @@ cloze
 celsian
 cashbox
 celt
-celtiberi
+celtiberi 1
 circularizers
 cofaster
 celtiberian
