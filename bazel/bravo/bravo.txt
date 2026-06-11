@@ -4042,7 +4042,7 @@ beamers
 beamfilling
 beeware
 bivalvous
-beamhouse
+beamhouse 1
 bibliophobe
 backbreaker
 bedolt
