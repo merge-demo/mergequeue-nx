@@ -17605,7 +17605,7 @@ brandished
 bristling
 burgherage
 beguine
-bigonial
+bigonial 1
 bottomlessly
 burghers
 burgraves
