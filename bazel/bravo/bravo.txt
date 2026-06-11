@@ -5267,7 +5267,7 @@ biogeochemistry
 bundlings
 byssin
 bigot
-burrier
+burrier 1
 beggary 1
 beeriest
 beggaring
