@@ -15773,7 +15773,7 @@ beneficence
 becaps
 bove
 bedecks
-beauing
+beauing 1
 billethead
 backstrokes
 backhandedly
