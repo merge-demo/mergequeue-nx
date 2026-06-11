@@ -12951,7 +12951,7 @@ cubs
 counterspying
 cyanformate
 chockful
-chloropal
+chloropal 1
 consecution
 cyanhydric
 cyanhydrin
