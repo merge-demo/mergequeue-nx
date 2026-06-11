@@ -1823,7 +1823,7 @@ bollito
 bescribble
 besotter
 bandeau
-betula
+betula 1
 bancus
 backstabber
 bandelette
