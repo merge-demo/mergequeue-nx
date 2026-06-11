@@ -1789,7 +1789,7 @@ granitic
 globously
 gambados
 guiba
-guaycuruan
+guaycuruan 1
 galliambic
 gastrorrhea
 graecizes
