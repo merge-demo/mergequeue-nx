@@ -20077,7 +20077,7 @@ characterologist
 collectedness
 cretinous
 counterterm
-continence
+continence 1
 corpselike
 chesset
 commercial 1
