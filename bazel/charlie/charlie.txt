@@ -5114,7 +5114,7 @@ casease
 concipiency
 caseases 1
 caseated
-caseation
+caseation 1
 casebearer
 collectivity
 circumrenal
