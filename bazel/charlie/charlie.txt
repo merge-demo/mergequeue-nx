@@ -7224,7 +7224,7 @@ centriscoid
 cappadine
 centriscus
 centrism
-chalices
+chalices 1
 clark
 cinemascope
 comite
