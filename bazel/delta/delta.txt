@@ -435,7 +435,7 @@ discoursers
 dairous
 dairt
 dais
-disinthrall
+disinthrall 1
 donjons
 dibs
 drenchers
