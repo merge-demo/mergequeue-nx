@@ -11688,7 +11688,7 @@ electrocautery
 epididymectomy
 emundation
 exaggeratingly
-exoascus
+exoascus 1
 extralinguistically
 expends
 erythrogenic
