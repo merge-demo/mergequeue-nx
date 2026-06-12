@@ -5612,7 +5612,7 @@ flight 1
 frusla
 fortitude
 flighter
-fraik
+fraik 1
 fleysome
 forehock
 funicular
