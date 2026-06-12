@@ -1857,7 +1857,7 @@ debitum
 declaratory 1
 douvecot
 dorsale
-deblai
+deblai 1
 deblaterate
 daubries
 deblateration
