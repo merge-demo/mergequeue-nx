@@ -8653,7 +8653,7 @@ dilative
 dactylus
 dato
 doomlike
-delfs
+delfs 1
 diascope
 domed
 distracted
