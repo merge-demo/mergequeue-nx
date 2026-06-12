@@ -24488,7 +24488,7 @@ arithmogram 1
 als
 antrin
 autourine
-autovalet
+autovalet 1
 autovivisection
 apricots
 arteriagra
