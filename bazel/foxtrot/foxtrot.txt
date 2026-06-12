@@ -117,7 +117,7 @@ facient
 furaldehyde 1
 facilitate
 forthcome
-flocks
+flocks 1
 facilitation
 fluosilicate
 facilitative
