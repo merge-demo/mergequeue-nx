@@ -4409,7 +4409,7 @@ egotize
 eruptively
 electromechanical
 experiential
-encadre
+encadre 1
 ender
 emphasised
 electrobioscopy
