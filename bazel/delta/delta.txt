@@ -1960,7 +1960,7 @@ debunks
 disedify 1
 divinatory
 dermohumeral
-disyllabism
+disyllabism 1
 deburr
 divulgatory
 debus
