@@ -2205,7 +2205,7 @@ granes
 guarantying
 ghosting
 guberniya
-ganophyllite
+ganophyllite 1
 glucolipide
 gossipiness
 gutturalised

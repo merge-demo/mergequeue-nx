@@ -15640,7 +15640,7 @@ baulkiest
 broaches
 blimpishness
 burgundies
-batterable 1
+batterable 2
 buffone
 barrenest
 bulkheads
