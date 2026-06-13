@@ -5488,7 +5488,7 @@ catabaptist
 contos
 catabases
 capoc
-catabasion
+catabasion 1
 catabasis
 calico
 cameralistic
