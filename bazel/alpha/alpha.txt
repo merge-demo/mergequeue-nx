@@ -607,7 +607,7 @@ algonquians
 antarctic
 aphasic
 alexic
-antelopine
+antelopine 1
 autoeducative
 arboriform
 abodes
