@@ -5366,7 +5366,7 @@ aptotic
 agnosticism
 agglutinable
 affriended
-applying
+applying 1
 aggrandizable
 affrightful
 affydavy
