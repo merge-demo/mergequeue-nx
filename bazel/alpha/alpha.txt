@@ -8076,7 +8076,7 @@ airworthy
 acidotic
 antihistamines
 arithmetically
-amphide
+amphide 1
 alforja
 alfreda
 alfenide
