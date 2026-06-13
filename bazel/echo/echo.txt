@@ -12762,7 +12762,7 @@ eucarpous
 eremochaetous
 emperess
 entertissue
-exorcism
+exorcism 1
 elacolite
 exorcistic
 erythroxylum
