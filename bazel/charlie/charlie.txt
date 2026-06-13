@@ -775,7 +775,7 @@ cagily
 clock
 cuish
 cartouches
-centenionales
+centenionales 1
 caginess
 chalazas
 caginesses
