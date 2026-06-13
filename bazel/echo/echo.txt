@@ -423,7 +423,7 @@ exomphalus
 entocondyle
 ebulliently 1
 elfish
-exposits
+exposits 1
 ebulliometer
 exacerbation
 ebullioscopic
