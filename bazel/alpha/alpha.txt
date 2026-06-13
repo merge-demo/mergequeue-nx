@@ -4184,7 +4184,7 @@ adoptee
 alkaphrah
 autozooid
 attributiveness
-autocarpous
+autocarpous 1
 apophthegmatic
 ablare
 adoptian
