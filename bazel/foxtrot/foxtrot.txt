@@ -10231,7 +10231,7 @@ frabous 1
 frankeniaceae
 focimetry
 fruticant
-fleshly
+fleshly 1
 fadedness
 fibrillations
 flakers
