@@ -523,7 +523,7 @@ dextromanual
 diminishingturns
 discustom 1
 dromotropic
-douse
+douse 1
 dalmania
 disobliged
 dalmanites
