@@ -4232,7 +4232,7 @@ cared
 careens
 career
 careered
-condensery
+condensery 1
 cmdr
 cenoby
 croceous
