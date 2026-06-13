@@ -705,7 +705,7 @@ aboulic
 amyloplastic
 apiales
 abounding
-acrolithic
+acrolithic 1
 abounds
 about
 anticytotoxin

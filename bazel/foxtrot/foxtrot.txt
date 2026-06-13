@@ -7563,7 +7563,7 @@ floggers
 foggier
 fractionise
 forecourts 1
-freeholding
+freeholding 1
 fulmen
 frau
 furuncles
