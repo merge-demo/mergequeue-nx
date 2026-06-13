@@ -8354,7 +8354,7 @@ betask
 bygo
 bimetallist
 bygone
-bist
+bist 1
 blousiest
 bribed
 biddableness
