@@ -11988,7 +11988,7 @@ anemone
 anapterygotism
 awe
 anarcestes
-alteregoistic
+alteregoistic 1
 abators
 archibuteo
 anarchy
