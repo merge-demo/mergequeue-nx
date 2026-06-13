@@ -14081,7 +14081,7 @@ blusterously 1
 brachygnathia
 brachygnathism
 blackberries
-barytine
+barytine 1
 boarders
 brachygraphical
 brachyhieric
