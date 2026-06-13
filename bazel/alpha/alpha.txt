@@ -1178,7 +1178,7 @@ anthropogenetic
 apocryphally
 acanthion
 atrosanguineous
-acanthocephalous
+acanthocephalous 1
 acanthocladous
 acanthodean
 abbots
