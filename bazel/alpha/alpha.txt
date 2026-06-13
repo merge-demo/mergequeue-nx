@@ -19820,7 +19820,7 @@ axinomancy
 armenoid
 assaulted
 apodemata
-aspires
+aspires 1
 anmia
 autumnal
 acanthite
