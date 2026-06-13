@@ -11964,7 +11964,7 @@ choriocele
 corked
 cichoriaceous
 covens
-communicatively
+communicatively 1
 camois
 colophonite
 chiefdom
