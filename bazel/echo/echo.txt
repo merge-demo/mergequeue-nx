@@ -12931,7 +12931,7 @@ expatiates
 expatiating
 electable
 esses
-embracery
+embracery 1
 erigible
 expatriate
 expatriating
