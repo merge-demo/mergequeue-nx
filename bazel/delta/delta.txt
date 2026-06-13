@@ -4744,7 +4744,7 @@ dawdles
 douar
 dogbody
 depraves
-dsnames
+dsnames 1
 democratic
 dividedness
 democratisation
