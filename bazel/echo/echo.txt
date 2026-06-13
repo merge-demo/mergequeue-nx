@@ -13257,7 +13257,7 @@ evasiveness
 entomological
 equiliria
 execrable
-explicates
+explicates 1
 euglenoidina
 eyewitness
 explicator
