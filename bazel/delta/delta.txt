@@ -9916,7 +9916,7 @@ dekarch
 dislock
 dimethoxy
 donatistical
-descents
+descents 1
 descendingly
 dentins
 diplodocuses
