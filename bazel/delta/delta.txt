@@ -1993,7 +1993,7 @@ drover
 demyelinate
 dominated
 deflection
-descloizite
+descloizite 1
 decadary
 dimethylcarbinol
 depaysee
