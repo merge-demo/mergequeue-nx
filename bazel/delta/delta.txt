@@ -28,7 +28,7 @@ dabs
 dabsters
 desalinates
 deediest
-disgeneric
+disgeneric 1
 dachas
 dachshund
 dachshunds
