@@ -12371,7 +12371,7 @@ chromatolysis
 contrastably
 conquerable
 chromatolytic
-chromatologies
+chromatologies 1
 chromatopathy
 celebe
 chromatophil
