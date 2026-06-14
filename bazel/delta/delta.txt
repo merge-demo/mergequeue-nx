@@ -8591,7 +8591,7 @@ demihake
 digressionary
 devourer
 daphnioid
-diapirs
+diapirs 1
 diaplases
 disk
 deprived
