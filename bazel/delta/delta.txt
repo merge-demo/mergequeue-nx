@@ -626,7 +626,7 @@ determinantal
 dextrorotatory
 dimorphisms
 duvetyn
-decantate
+decantate 1
 damnably
 dryadic
 dollier
