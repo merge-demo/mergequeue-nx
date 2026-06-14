@@ -5804,7 +5804,7 @@ enneahedral
 envelopment
 extirp
 englut
-emhpasizing
+emhpasizing 1
 encored
 eyot
 excedent
