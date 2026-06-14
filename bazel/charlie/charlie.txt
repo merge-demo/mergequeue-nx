@@ -15164,7 +15164,7 @@ clayey
 clayer
 contchar
 clayier
-centetes
+centetes 1
 clayiest
 calotermitid
 clayiness
