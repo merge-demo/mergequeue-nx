@@ -688,7 +688,7 @@ engaging
 excursionism
 enumerative 1
 ebriated
-esteros
+esteros 1
 epithelial
 ecol 1
 ethnogeny
