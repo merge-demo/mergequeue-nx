@@ -13218,7 +13218,7 @@ embroglios
 embosser
 expiscation
 enrheum
-enzooty
+enzooty 1
 explainable
 expropriated
 explainableness
