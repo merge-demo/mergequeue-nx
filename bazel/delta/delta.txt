@@ -18101,7 +18101,7 @@ deictically
 dumbstricken
 demisemiquaver
 demagnetize
-dumbwaiter
+dumbwaiter 1
 dumdum
 dumdums
 dadu
