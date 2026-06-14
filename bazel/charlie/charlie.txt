@@ -1108,7 +1108,7 @@ crossbarred
 calcinate
 calcinator
 calcine
-coherently
+coherently 1
 candareen
 cytherea
 cheeser
