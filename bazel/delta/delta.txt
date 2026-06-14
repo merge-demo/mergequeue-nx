@@ -15934,7 +15934,7 @@ dotarie
 drybeard
 dotation
 dictate
-digammic
+digammic 1
 discoid
 dotchin
 dote
