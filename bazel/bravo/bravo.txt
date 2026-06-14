@@ -3222,7 +3222,7 @@ blatters
 barkpeel
 biltong
 basigynium
-basilarchia
+basilarchia 1
 beware
 blotchily
 basilary
