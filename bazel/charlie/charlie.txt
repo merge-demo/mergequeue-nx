@@ -4723,7 +4723,7 @@ chigetais
 champerty
 coumarou
 carnie
-chlamydospore
+chlamydospore 1
 creditorship
 contested
 collages
