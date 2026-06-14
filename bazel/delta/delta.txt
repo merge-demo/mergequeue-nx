@@ -14932,7 +14932,7 @@ defendants
 deridingly
 dispensible
 dodgily
-defraud
+defraud 1
 destroyingly 1
 desulfured
 daubentonia
