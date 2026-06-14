@@ -19685,7 +19685,7 @@ combatable
 chroma
 chrismale
 combatant
-cimbalom
+cimbalom 1
 combater
 combaters
 combating
