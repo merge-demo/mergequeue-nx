@@ -13555,7 +13555,7 @@ exsibilation
 evadable
 exsiccant
 exsiccatae
-elucidate
+elucidate 1
 exsiccating
 embowment
 ergusia
