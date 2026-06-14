@@ -10615,7 +10615,7 @@ franc
 forswearing
 flumped
 forwaste
-fleeting
+fleeting 1
 flatnesses
 frugalities
 farrandly
