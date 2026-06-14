@@ -16337,7 +16337,7 @@ autonomist
 archheretic
 admittable
 aperitive
-antiuratic
+antiuratic 1
 antiurease
 acetazolamide
 autotrepanation
