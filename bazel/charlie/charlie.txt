@@ -11345,7 +11345,7 @@ chloromycetin
 curbed
 chiasmatype
 chloronitrate
-cruche
+cruche 1
 colonizer
 chloropalladates
 chloropalladic
