@@ -24517,7 +24517,7 @@ copastor
 copastors
 candlebox
 copatentee
-copatriot
+copatriot 1
 copatroness
 cathectic
 crankum
