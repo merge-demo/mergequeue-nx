@@ -1483,7 +1483,7 @@ enplaning
 encompasses
 eurythermous
 electivism
-electroshocks
+electroshocks 1
 exposal
 embolium
 embarrased
