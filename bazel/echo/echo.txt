@@ -1663,7 +1663,7 @@ eligent
 elboic
 evectional
 extinguishes
-enlivening
+enlivening 1
 euphuized
 ethylenes
 epiphloedal
