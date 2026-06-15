@@ -2025,7 +2025,7 @@ dogleg
 dogwoods
 decagynous
 dinornis
-dearling
+dearling 1
 denationalized
 diplococcal
 daucus
