@@ -25359,7 +25359,7 @@ cornetcies
 cornetfishes
 chunkier
 cornetist
-cornetists
+cornetists 1
 cornets
 centums
 cornetter
