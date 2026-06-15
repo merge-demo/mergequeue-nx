@@ -8194,7 +8194,7 @@ diaconal
 disenorm
 dauby
 diaconica 1
-depotentiation
+depotentiation 1
 dragooning
 deputable
 dactylic
