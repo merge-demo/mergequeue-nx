@@ -6562,7 +6562,7 @@ caxiri
 clannish 1
 commissaries
 caxon
-cretaceous
+cretaceous 1
 caxton
 confluence
 caxtonian
