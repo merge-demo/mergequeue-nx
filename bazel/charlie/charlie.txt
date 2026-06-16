@@ -4056,7 +4056,7 @@ cardanol
 chymist
 cardboard
 crissum
-cardel
+cardel 1
 crucianella
 ceroid
 chromocentral
