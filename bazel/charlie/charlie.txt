@@ -27040,7 +27040,7 @@ coarctate
 caribi
 cartoning
 counterpreach
-counterprick
+counterprick 1
 cark
 combinatoric
 counterprinciple
