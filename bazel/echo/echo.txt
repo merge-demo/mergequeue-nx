@@ -10441,7 +10441,7 @@ eviscerated
 eloinment
 embryoniferous
 etymon
-ectocondyle
+ectocondyle 1
 equalities
 etiolated
 etiology 1
