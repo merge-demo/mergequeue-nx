@@ -8681,7 +8681,7 @@ flatfooted
 flaunters
 fryers
 funiculate
-furicane
+furicane 1
 flapless
 fathomable
 forthgaze
