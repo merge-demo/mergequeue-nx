@@ -5604,7 +5604,7 @@ archtempter
 accusatrixes
 aftertask
 achromatium
-afterthought
+afterthought 1
 afterthoughts 1
 afterthrift
 apastron
