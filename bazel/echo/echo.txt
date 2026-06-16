@@ -2737,7 +2737,7 @@ estadal
 enceint
 eleemosinar
 ebons
-equipotent
+equipotent 1
 electees
 edentate
 envoi
