@@ -2339,7 +2339,7 @@ conflagrant
 canalise
 crossley
 chorioepitheliomata
-canalises
+canalises 1
 canalising
 canalization
 concelebrations
