@@ -3244,7 +3244,7 @@ danae
 dayside
 derricking
 defenseless
-defenselessness
+defenselessness 1
 devitalising
 dolichostylous
 dogrib
