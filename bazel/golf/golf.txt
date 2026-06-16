@@ -9617,7 +9617,7 @@ glaucodote
 geests
 goiter
 grizzlier
-geochemical
+geochemical 1
 guarish
 gummite
 grandma
