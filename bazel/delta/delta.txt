@@ -15315,7 +15315,7 @@ dolphinfish
 dolphinlike
 decadescent 1
 dolphins
-discountenance
+discountenance 1
 diagnostics
 design
 distilleries
