@@ -2531,7 +2531,7 @@ electrolytically
 exuviates
 ephemeromorph
 ensete
-entozoic
+entozoic 1
 euphausiidae
 extraconstellated
 ethnobotanic
