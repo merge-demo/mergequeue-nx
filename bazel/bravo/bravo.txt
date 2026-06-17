@@ -17576,7 +17576,7 @@ burgamot
 bootjacks
 balante
 blayne
-blore
+blore 1
 belong
 bugle
 burgau
