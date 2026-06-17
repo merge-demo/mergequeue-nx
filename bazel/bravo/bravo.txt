@@ -13216,7 +13216,7 @@ bosniak
 battlewise
 bifer
 benzoyl
-barundi
+barundi 1
 bosom
 blemmyes
 botryoidal
