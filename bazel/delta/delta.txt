@@ -415,7 +415,7 @@ diathermia
 dominos
 dwelt
 destructing
-desulfurise
+desulfurise 1
 darwan 1
 disobedient
 dairymaids 1
