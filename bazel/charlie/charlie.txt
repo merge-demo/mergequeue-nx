@@ -8802,7 +8802,7 @@ competes
 cosmopolitic
 catchplate
 chaprasi
-chapstick
+chapstick 1
 concurbit
 camelot
 cloudless
