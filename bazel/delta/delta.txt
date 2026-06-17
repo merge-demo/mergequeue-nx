@@ -9465,7 +9465,7 @@ deducibleness
 denoted
 demiplate
 despondently
-digenite
+digenite 1
 digerent
 dereistically
 doedicurus
