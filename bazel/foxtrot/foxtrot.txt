@@ -1835,7 +1835,7 @@ frostnipped
 farcicality
 funambulate
 foreign
-febricant
+febricant 1
 frilly
 febricitant
 frictions
