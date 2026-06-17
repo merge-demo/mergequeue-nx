@@ -12299,7 +12299,7 @@ eviternal
 excerp
 exemptive
 exendospermous
-environal
+environal 1
 exenterate
 etheostomidae
 electronegative
