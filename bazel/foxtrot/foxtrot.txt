@@ -4975,7 +4975,7 @@ foremarch
 flaminical
 fomenters
 flowcharting
-fintadores
+fintadores 1
 frenulum
 flyway
 feebleheartedly
