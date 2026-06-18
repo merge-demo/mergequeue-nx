@@ -2811,7 +2811,7 @@ delphinus
 duodecahedron
 decrescent
 deknight
-decretalist
+decretalist 1
 despumating
 debility
 desalinization
