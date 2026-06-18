@@ -29789,7 +29789,7 @@ cullible
 citable
 countermeet
 caliperer
-compoing
+compoing 1
 cradlelike
 carbanil
 crooners
