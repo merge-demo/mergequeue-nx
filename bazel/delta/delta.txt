@@ -13444,7 +13444,7 @@ dihexagonal
 dardanium
 disreputableness
 dittologies
-dispersiveness
+dispersiveness 1
 dading
 defamous 1
 diphyesis
