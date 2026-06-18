@@ -8435,7 +8435,7 @@ epizootology
 enwrought
 epocha
 embaying
-epollicate
+epollicate 1
 ethoses
 eponge
 exhibitioner
