@@ -6039,7 +6039,7 @@ deliberatively
 diverticula
 dealkalize
 dyophysitic
-deceitfully
+deceitfully 1
 denunciative
 disillusion
 dammit
