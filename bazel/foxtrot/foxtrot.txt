@@ -10504,7 +10504,7 @@ federalizations
 fortuities
 feodality
 featherback
-frotton
+frotton 1
 fum
 fascicularly
 fumelike
