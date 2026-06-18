@@ -2505,7 +2505,7 @@ absciss
 amidate
 arthropleura
 archdissembler
-autosymbiontic
+autosymbiontic 1
 antluetic
 alpiste
 agria
