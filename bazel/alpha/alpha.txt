@@ -10417,7 +10417,7 @@ anteed
 acroama
 anezeh
 asterisms
-amess
+amess 1
 akmudar
 assailants 1
 ametabolia
