@@ -8670,7 +8670,7 @@ diaspidine
 diaspirin
 dots
 dwt
-droumy
+droumy 1
 downweigh
 discomposingly
 defeminised
