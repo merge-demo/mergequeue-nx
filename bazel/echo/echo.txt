@@ -4647,7 +4647,7 @@ eradicative
 endoabdominal
 eulogical
 empyreumatical
-ectostosis
+ectostosis 1
 epithalamiums
 enajim
 ermelin
