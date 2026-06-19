@@ -18090,7 +18090,7 @@ conjugable
 cardinalism 1
 compactile
 coenobitical
-carbinol
+carbinol 1
 coannexing
 coenocentrum
 celioscopy
