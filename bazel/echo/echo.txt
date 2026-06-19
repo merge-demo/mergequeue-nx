@@ -13779,7 +13779,7 @@ eskimos
 extorters
 extortion
 embroiling
-endopterygotism
+endopterygotism 1
 earthliness
 euchite
 emirship
