@@ -8860,7 +8860,7 @@ ferrotypes
 forebye
 facioscapulohumeral
 foreigners
-frenzily
+frenzily 1
 fot
 florideous
 foreshorten
