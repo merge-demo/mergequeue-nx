@@ -5443,7 +5443,7 @@ blubbery 1
 boardmanship
 boatable
 becudgelling
-beetling
+beetling 1
 behemoths
 behenate
 behenic
