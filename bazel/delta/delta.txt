@@ -1923,7 +1923,7 @@ disapprobations
 dacryd
 dinophilus
 deferments
-desire
+desire 1
 decennal
 durocs
 dawsonite
