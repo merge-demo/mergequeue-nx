@@ -2086,7 +2086,7 @@ euthyneural
 elapine
 endysis
 eutectics
-edictal 1
+edictal 2
 entraps
 enchainements
 ecphractic
