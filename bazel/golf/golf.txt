@@ -4086,7 +4086,7 @@ gerundively
 groining
 gletscher
 grifted
-gastrectomies
+gastrectomies 1
 germanical
 gimcrack
 gleaned
