@@ -4657,7 +4657,7 @@ etherealised
 enhydrite
 extratensive
 erythroxyline
-endarchies
+endarchies 1
 exuberantness
 elasticizes
 epimerase
