@@ -3571,7 +3571,7 @@ defunctionalize
 defusion
 deformalize
 dingles
-dermatotome
+dermatotome 1
 drawbeam
 dissheathe
 dehwar
