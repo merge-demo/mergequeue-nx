@@ -10786,7 +10786,7 @@ apodemal
 apothecary
 ammer
 adductor
-ammeter
+ammeter 1
 ammeters
 amplexuses
 alboin
