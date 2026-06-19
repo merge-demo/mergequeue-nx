@@ -8637,7 +8637,7 @@ accentuates
 antiexpressiveness
 antibishop
 agametes
-autistic
+autistic 1
 anotropia
 anastomosis
 autotheater 1
