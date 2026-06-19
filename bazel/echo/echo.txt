@@ -13122,7 +13122,7 @@ eulogize
 enslaver
 etymologists
 exhalation
-encroaches
+encroaches 1
 empaestic
 esocidae
 ejuration
