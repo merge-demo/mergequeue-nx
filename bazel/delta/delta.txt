@@ -17623,7 +17623,7 @@ desmodium
 disillusionize
 disannulled
 dinners
-dsname
+dsname 1
 dsri
 defeminization
 dispossessory
