@@ -7306,7 +7306,7 @@ cepes
 civ
 conchitis
 clincher
-commercer
+commercer 1
 constitution
 conicity
 carnelians
