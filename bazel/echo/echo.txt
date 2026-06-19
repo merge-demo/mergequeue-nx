@@ -7694,7 +7694,7 @@ effumability 1
 ellipsometry
 epideictic
 endomesoderm
-eightieths
+eightieths 1
 endotheliomata
 eboulement
 endlichite
