@@ -10926,7 +10926,7 @@ chirognomic
 chirognomically
 chuppahs
 chirognomist
-cerebrates
+cerebrates 1
 contd
 cimmaron
 chirograph
