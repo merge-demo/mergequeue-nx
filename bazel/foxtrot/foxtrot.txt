@@ -7209,7 +7209,7 @@ footlockers
 frolicks
 flathe
 fiscalized
-forfeits
+forfeits 1
 frizzlers
 formulate
 faenas
