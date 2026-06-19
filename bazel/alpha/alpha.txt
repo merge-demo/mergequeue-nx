@@ -15830,7 +15830,7 @@ antiphrases
 antiphthisic
 amberiferous
 antiepileptic
-amphisbaenian
+amphisbaenian 1
 afloat
 authorization
 antipyics
