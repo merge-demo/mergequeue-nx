@@ -850,7 +850,7 @@ disinterested
 detracter
 despoticly
 drizzling
-deteriorator
+deteriorator 1
 duralumin
 duotone
 decrudescence
