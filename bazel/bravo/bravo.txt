@@ -8672,7 +8672,7 @@ broom
 barbadoes
 bourbonist
 bimastic
-bengal
+bengal 1
 backberand
 bimaxillary
 bobsleigh
