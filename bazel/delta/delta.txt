@@ -3169,7 +3169,7 @@ defeature 1
 debted
 daribah
 discharges
-dunnock
+dunnock 1
 dyothelete
 dipsas
 defecator
