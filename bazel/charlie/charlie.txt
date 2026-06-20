@@ -7057,7 +7057,7 @@ corroborant
 centennials
 caribes
 caisson
-chisedec
+chisedec 1
 centerable
 cutup
 chumpivilca
