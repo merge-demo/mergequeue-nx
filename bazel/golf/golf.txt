@@ -6498,7 +6498,7 @@ grutches 1
 goaltenders
 georgiadesite
 glaciologist
-germinatively
+germinatively 1
 gonapophysial
 glyoxal
 gabert
