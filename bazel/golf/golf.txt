@@ -511,7 +511,7 @@ gruffing
 geologers 1
 graff 1
 galivants
-geneticism
+geneticism 1
 gleamiest
 glissandos
 gustily
