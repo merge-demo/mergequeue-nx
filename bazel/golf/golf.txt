@@ -4926,7 +4926,7 @@ glossotomy
 geodal
 glycerinize
 gliomata
-gorier
+gorier 1
 gavotted
 glaiks
 gorse
