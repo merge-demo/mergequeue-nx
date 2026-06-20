@@ -12615,7 +12615,7 @@ catechisation
 columnize
 cyperaceous
 chronothermal
-chronotropic
+chronotropic 1
 countable
 collocution
 cheney
