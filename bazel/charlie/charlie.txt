@@ -3270,7 +3270,7 @@ capitle
 cerebrum
 compenetrate
 corns
-capito
+capito 1
 canulated
 capitol
 clingier
