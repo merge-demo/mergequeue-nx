@@ -10598,7 +10598,7 @@ eucosmidae
 ecstasis
 expensing
 englobing
-evernioid
+evernioid 1
 elvanite
 eparchate
 eledone
