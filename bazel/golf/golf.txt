@@ -10145,7 +10145,7 @@ grudges 1
 granophyric
 gideonite
 gymslip
-glazement
+glazement 1
 gasohol
 grazers
 giddyish
