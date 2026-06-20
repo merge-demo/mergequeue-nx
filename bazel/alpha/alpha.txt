@@ -3923,7 +3923,7 @@ adjudication
 agglutinin
 adjudicative
 aerostats
-antistrophically
+antistrophically 1
 adjudicators
 aversely
 agonied
