@@ -20886,7 +20886,7 @@ asarite
 anatomizable
 ablastemic
 allergist
-amoebean
+amoebean 1
 ascare
 almadia
 abuts
