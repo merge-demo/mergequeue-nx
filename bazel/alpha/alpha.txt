@@ -6015,7 +6015,7 @@ aggroupment
 aghan
 aghas
 aghori
-affecters
+affecters 1
 allottee
 autoantibody
 apardon
