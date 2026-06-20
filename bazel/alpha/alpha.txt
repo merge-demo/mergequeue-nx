@@ -24772,7 +24772,7 @@ abacot
 angioasthenia
 aymara
 alexines
-adamine
+adamine 1
 avidity
 arithmetized
 autologous
