@@ -17931,7 +17931,7 @@ aliesterase
 alcoholist
 accubitus
 approaching
-anemometer
+anemometer 1
 approbated
 anachronist
 adorner
