@@ -708,7 +708,7 @@ flapperhood
 flair
 foziness
 frettier
-favourably
+favourably 1
 fetichmonger
 foraminulose
 frapping
