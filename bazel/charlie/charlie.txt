@@ -3833,7 +3833,7 @@ carbolizing
 carmelite
 caladium
 carboluria
-chrisma
+chrisma 1
 carbomethene
 carbomethoxy
 carbomethoxyl
