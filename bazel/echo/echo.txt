@@ -4289,7 +4289,7 @@ effluxes 1
 emphasise
 extoller
 emulsoids
-enteropathogenic
+enteropathogenic 1
 elohim
 enlay
 enamellers
