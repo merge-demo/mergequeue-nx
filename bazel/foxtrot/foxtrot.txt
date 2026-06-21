@@ -5369,7 +5369,7 @@ fascia
 fruiteries 1
 ferulaic
 foldboater
-foreclosed
+foreclosed 1
 faconde
 floccillation
 ferrocyanide
