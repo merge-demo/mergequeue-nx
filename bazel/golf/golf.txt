@@ -9823,7 +9823,7 @@ gastrohysterotomy
 gnotobiotics
 garpikes
 greasewood
-generous
+generous 1
 gesticulatively
 gibbets
 guayabi
