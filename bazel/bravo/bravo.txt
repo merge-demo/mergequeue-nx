@@ -4772,7 +4772,7 @@ bedraping
 bedread
 bedrench
 baldling
-blast 1
+blast 2
 bed
 bedribble
 bhalu
