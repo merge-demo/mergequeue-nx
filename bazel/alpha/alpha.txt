@@ -7788,7 +7788,7 @@ acetaminol
 affenpinscher 1
 absinthine
 academias
-aphidicide
+aphidicide 1
 albolith
 aldazine
 antithrombic
