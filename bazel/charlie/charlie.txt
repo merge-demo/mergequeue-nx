@@ -1464,7 +1464,7 @@ carnosin
 calisayas
 clave 1
 chicks
-calistheneum
+calistheneum 1
 commercializes
 calisthenics
 calite
