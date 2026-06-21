@@ -20595,7 +20595,7 @@ competitor
 competitory
 conjugal 1
 cascol
-competitors
+competitors 1
 challengee
 competitrix
 compilable
