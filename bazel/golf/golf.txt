@@ -6989,7 +6989,7 @@ guirlande
 gauntries
 gushiest
 genevoise
-gynosporangium
+gynosporangium 1
 greenuk
 goofiness
 grafter
