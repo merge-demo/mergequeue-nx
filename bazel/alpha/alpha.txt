@@ -4029,7 +4029,7 @@ administrates
 antihemolytic
 administrational
 administrative
-affixion
+affixion 1
 administratively
 administratrices
 antiarin
