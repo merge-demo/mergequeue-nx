@@ -18055,7 +18055,7 @@ disgaveling
 droned
 deluster
 damnifying
-digitaria
+digitaria 1
 dullnesses
 disgavelled
 deglaze
