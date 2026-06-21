@@ -9753,7 +9753,7 @@ foraminifer
 feldspar 1
 functionalities
 frapp
-fallacies
+fallacies 1
 falchion
 fessways
 foolhardiest
