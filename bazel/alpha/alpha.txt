@@ -11218,7 +11218,7 @@ aryans
 amphidisc
 acridan
 auroral
-acanthoid 1
+acanthoid 2
 aircoaches
 amphidiscophoran
 antisyphilitic
