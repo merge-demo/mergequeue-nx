@@ -20960,7 +20960,7 @@ agog
 ascelli
 ascellus
 ascend
-ascendable
+ascendable 1
 ayenbite
 amortisseur
 ahtena
