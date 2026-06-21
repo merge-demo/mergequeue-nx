@@ -10265,7 +10265,7 @@ flutier
 fasher
 frolicker
 frolicking
-frillies
+frillies 1
 flagitiousness
 ferricyanhydric
 frolicsome
