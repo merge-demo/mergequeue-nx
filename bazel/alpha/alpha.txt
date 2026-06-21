@@ -11782,7 +11782,7 @@ armpad
 agrege
 acacine
 analeptic
-anabasis
+anabasis 1
 adenoidectomies
 analgesics
 anthropophagous
