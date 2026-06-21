@@ -11538,7 +11538,7 @@ brachymetropia
 bestows 1
 bocedization
 blup
-barbs
+barbs 1
 blurbist
 bananist 1
 balladries
