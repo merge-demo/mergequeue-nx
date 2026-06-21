@@ -3631,7 +3631,7 @@ grewhound
 ghees
 garaged 1
 gladen
-guanylic
+guanylic 1
 granilla 1
 glottalize
 gigantal
