@@ -24350,7 +24350,7 @@ arg
 archducal 1
 autorhythmus
 autophagi
-accurately
+accurately 1
 aneurysmatic
 authorly
 amaroidal
