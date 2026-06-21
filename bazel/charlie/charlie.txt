@@ -1775,7 +1775,7 @@ calvadoses
 chloridella
 componental
 calvaire
-cordage
+cordage 1
 calvary
 caffeate
 countergarrison
