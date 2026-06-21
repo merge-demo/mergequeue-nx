@@ -17621,7 +17621,7 @@ ducktails
 dsects
 desmodium
 disillusionize
-disannulled
+disannulled 1
 dinners
 dsname
 dsri
