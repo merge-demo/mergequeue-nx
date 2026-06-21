@@ -10816,7 +10816,7 @@ directorate
 deviscerate
 dispartment
 dixies
-dissave
+dissave 1
 discolorate
 deviates
 departing
