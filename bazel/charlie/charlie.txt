@@ -12459,7 +12459,7 @@ cranemanship
 chromoisomer
 chromoisomeric
 chamaenerion
-candelabra
+candelabra 1
 cerebralize
 chromoleucite
 chromolipoid
