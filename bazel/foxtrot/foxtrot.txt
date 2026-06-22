@@ -6157,7 +6157,7 @@ furiosity
 ferrums
 fuses
 fewness
-fcp
+fcp 1
 fewneses
 farrieries
 fabella
