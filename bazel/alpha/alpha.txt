@@ -8983,7 +8983,7 @@ allophonically
 alloplast
 appetisse
 allopsychic
-appleroot
+appleroot 1
 autobolide
 ailments
 ataghan
