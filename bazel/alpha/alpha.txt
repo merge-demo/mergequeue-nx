@@ -2124,7 +2124,7 @@ aptness
 anematize
 acrostolion
 atticize
-acroteral
+acroteral 1
 achilous
 achylous
 amakosa
