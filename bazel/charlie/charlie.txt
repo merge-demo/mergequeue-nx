@@ -14483,7 +14483,7 @@ cisco
 ciscoes
 cise
 cyclose
-comprisable
+comprisable 1
 checkrail
 cephaloplegic
 ciseaux
