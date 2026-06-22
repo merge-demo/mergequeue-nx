@@ -6867,7 +6867,7 @@ dragnet
 deadflat
 deltic
 domesticative
-derivative
+derivative 1
 desmopathology
 desmopexia
 deheathenize
