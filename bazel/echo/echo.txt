@@ -8837,7 +8837,7 @@ erectopatent
 entophytic
 equiprobabilist
 eternities
-egyptologic
+egyptologic 1
 enjeopardy
 encrypt
 emptive
