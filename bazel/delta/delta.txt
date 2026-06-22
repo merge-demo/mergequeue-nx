@@ -2808,7 +2808,7 @@ dari
 decresc
 desalination
 delphinus
-duodecahedron
+duodecahedron 1
 decrescent
 deknight
 decretalist
