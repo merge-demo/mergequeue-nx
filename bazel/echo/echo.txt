@@ -3158,7 +3158,7 @@ engrossing
 eloiner
 eloiners
 essentiate
-eburated
+eburated 1
 ethnarchs
 eskimoes
 euryphage
