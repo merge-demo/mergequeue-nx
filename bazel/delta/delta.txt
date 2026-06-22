@@ -3362,7 +3362,7 @@ dayment
 distressfulness
 denims
 dullery
-definitor
+definitor 1
 desulphurized
 dogmouth
 dentils
