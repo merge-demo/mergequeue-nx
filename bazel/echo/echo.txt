@@ -1439,7 +1439,7 @@ ebbing
 euskaldun
 electromassage
 effluviviums
-efflux
+efflux 1
 expressionlessly
 endoenteritis
 erythroclastic
