@@ -17474,7 +17474,7 @@ decuplet
 dimwitted
 drowsihead
 drowte
-dreads
+dreads 1
 discrete
 daffle
 doubleheaders
