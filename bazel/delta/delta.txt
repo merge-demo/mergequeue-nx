@@ -349,7 +349,7 @@ dilligrout
 disinsection
 dropling
 daybreaks
-diplostichous
+diplostichous 1
 dreamt
 daygoing
 desiccation
