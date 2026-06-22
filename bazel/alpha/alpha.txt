@@ -17545,7 +17545,7 @@ apheta
 appellation
 appellations
 alabastrites
-apesthetize
+apesthetize 1
 appellatived
 appellativeness
 arriccioci
