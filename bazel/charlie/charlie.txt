@@ -2998,7 +2998,7 @@ cantilevers
 cantily
 codenization
 cantina
-canting
+canting 1
 cantingly
 cousins
 cantingness
