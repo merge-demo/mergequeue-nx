@@ -2530,7 +2530,7 @@ eternity
 electrolytically
 exuviates
 ephemeromorph
-ensete
+ensete 1
 entozoic
 euphausiidae
 extraconstellated
