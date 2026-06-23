@@ -6693,7 +6693,7 @@ flexura
 flouts
 fogfruits
 frizel
-fluerics
+fluerics 1
 formicariae
 foofaraws 1
 furrier
