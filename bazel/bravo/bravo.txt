@@ -9574,7 +9574,7 @@ bronchomycosis 1
 bahut
 blastomata
 biscutate
-bisdiapason
+bisdiapason 1
 binary
 bicapsular
 bandlimits
