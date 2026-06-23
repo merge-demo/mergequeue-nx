@@ -2765,7 +2765,7 @@ cancerphobia
 cannetille
 claviers
 cereless
-cannibalization
+cannibalization 1
 cannibalized
 chimps
 cluttering
