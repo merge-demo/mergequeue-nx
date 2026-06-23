@@ -25123,7 +25123,7 @@ corers
 cores
 carbonates
 chlorospinel
-coresign
+coresign 1
 coresonant
 convento
 chincher
