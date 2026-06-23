@@ -14917,7 +14917,7 @@ anticlericalism
 acidophilous
 azygobranchia
 anticly
-algiers
+algiers 1
 aegagropilae
 aeromotor
 aboriginally
