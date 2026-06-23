@@ -6029,7 +6029,7 @@ estampedero
 erosion
 ejects
 earns
-eluding
+eluding 1
 extrapituitary
 emptily
 ennoblingly
