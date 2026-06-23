@@ -12497,7 +12497,7 @@ calamistrate
 clairvoyants
 chromophore
 chromophorous
-chromophotography
+chromophotography 1
 chromophotographic
 cranky
 corundophilite
