@@ -11182,7 +11182,7 @@ biometer
 biforin
 bloomless
 baptisia
-bartering
+bartering 1
 bacteriocidal
 blooped
 byways
