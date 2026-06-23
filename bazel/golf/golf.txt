@@ -8174,7 +8174,7 @@ gemmiparous
 grapeless
 gumlah
 guillem
-geloscopy
+geloscopy 1
 geotaxy
 groomsmen
 grapeflower
