@@ -8161,7 +8161,7 @@ gloomless
 gooey
 granuloblastic
 granulocyte 1
-gerontal
+gerontal 1
 galbanum
 generalissimo
 grager
