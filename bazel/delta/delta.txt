@@ -18602,7 +18602,7 @@ dedo
 daincha
 dustless
 droguet
-diakonikon
+diakonikon 1
 dustour
 dorsalmost
 dustsheet
