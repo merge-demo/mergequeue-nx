@@ -10539,7 +10539,7 @@ frowze
 franking
 fluky 1
 flatus
-festivous
+festivous 1
 fossilised
 fauchard
 featherier
