@@ -10205,7 +10205,7 @@ dining
 discoplacental
 dulcely
 dinitrate
-dopplerite
+dopplerite 1
 duskishly
 dinitrocellulose
 dink
