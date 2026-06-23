@@ -7279,7 +7279,7 @@ dear
 dicyan
 diamondlike
 dreamily
-deteriorative
+deteriorative 1
 dravida
 dasya
 dimmy
