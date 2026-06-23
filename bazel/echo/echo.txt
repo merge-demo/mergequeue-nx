@@ -5320,7 +5320,7 @@ enchantress
 emendating 1
 effector
 endorsees
-emeriti
+emeriti 1
 epicoracoidal
 eustachium
 enravishes
