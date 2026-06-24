@@ -13154,7 +13154,7 @@ animalist
 animalistic
 attemperator
 androgynous
-animalivora
+animalivora 1
 amnioclepsis
 agenesias
 archplagiary
