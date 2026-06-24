@@ -1464,7 +1464,7 @@ emeline
 ergonomic
 ethiopian
 epanorthotic
-emunct
+emunct 1
 exenteritis
 epipleural
 envelop
