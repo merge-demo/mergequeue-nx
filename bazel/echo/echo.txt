@@ -8758,7 +8758,7 @@ endangering
 equivocates
 encyrtid
 emphractic
-enstrengthen
+enstrengthen 1
 equivoluminal
 explainers
 enfume
