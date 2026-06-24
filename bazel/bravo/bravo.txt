@@ -17797,7 +17797,7 @@ breakback
 burroweed
 burrows
 benevolent
-burrstone
+burrstone 1
 bambini
 bundobust
 bursae
