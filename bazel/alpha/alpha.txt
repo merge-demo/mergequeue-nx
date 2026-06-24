@@ -21713,7 +21713,7 @@ assentors
 acarocecidia
 asself
 ayyubid
-amphoric
+amphoric 1
 assembl
 assemblable
 assemblance
