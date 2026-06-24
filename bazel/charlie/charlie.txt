@@ -9333,7 +9333,7 @@ chaunter
 capillaritis
 chaunts
 catamarans
-chaus
+chaus 1
 cabbalistical
 cataian
 cyclamin
