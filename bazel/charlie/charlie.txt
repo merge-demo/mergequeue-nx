@@ -4479,7 +4479,7 @@ clairaudient
 carlo
 courages
 carloading
-chinner
+chinner 1
 combatants
 carlock
 cogways
