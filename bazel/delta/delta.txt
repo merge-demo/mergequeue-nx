@@ -7096,7 +7096,7 @@ domajig
 demesmerize
 descriptiveness
 disorient
-desto
+desto 1
 disvalues
 darted
 damselfish
