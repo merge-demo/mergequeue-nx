@@ -6773,7 +6773,7 @@ bosquet
 berrier
 berries
 bitterbur
-beaut
+beaut 1
 buhls
 barytosulphate
 badian
