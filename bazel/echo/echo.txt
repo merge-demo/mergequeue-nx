@@ -12643,7 +12643,7 @@ encincturing
 emeralds
 essancia
 ergotize
-elateroid
+elateroid 1
 egurgitating
 excussio
 exoenzyme
