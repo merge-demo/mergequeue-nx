@@ -3900,7 +3900,7 @@ concn
 chylificatory
 carbonizing
 carbonometer
-chondrin
+chondrin 1
 carbonous
 carbons
 carbonuria
