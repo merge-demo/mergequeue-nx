@@ -3173,7 +3173,7 @@ farreate
 ferrugo
 fingerpost
 ferment
-frighty
+frighty 1
 frisii
 fenceplay
 fisheries
