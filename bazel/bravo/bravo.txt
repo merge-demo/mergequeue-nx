@@ -13255,7 +13255,7 @@ bokard
 brune
 bossily
 bowler
-boarish
+boarish 1
 bosniac
 bostanji
 bosthoon
