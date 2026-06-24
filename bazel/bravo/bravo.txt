@@ -4161,7 +4161,7 @@ beastlike
 bodywise
 bengalic
 bumpkinish
-buoyantness
+buoyantness 1
 brinsell
 bracteal
 beastlily
