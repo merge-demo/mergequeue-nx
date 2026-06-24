@@ -11324,7 +11324,7 @@ fps
 furfurine
 funebrious
 faujasite
-formals
+formals 1
 fuseplug
 frailejon
 foalhood
