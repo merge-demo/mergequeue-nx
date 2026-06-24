@@ -30411,7 +30411,7 @@ centaurial
 cosignificative
 crustific
 crustily
-crustose
+crustose 1
 choloid
 coroutine
 crusts
