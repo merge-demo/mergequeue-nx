@@ -3502,7 +3502,7 @@ batched
 batcher
 bargemen
 bogging
-bitterhearted
+bitterhearted 1
 bateau
 bateleur
 barbered
