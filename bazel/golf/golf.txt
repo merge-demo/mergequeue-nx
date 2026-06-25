@@ -8818,7 +8818,7 @@ glaiket
 gasterophilus
 glycins
 gonogenesis
-gregariously
+gregariously 1
 glaciologic
 grazed 1
 geranomorphae
