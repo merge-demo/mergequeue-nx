@@ -13696,7 +13696,7 @@ anomalistical
 anomalocephalus
 apollinarianism 1
 anomaloflorous
-archaistic
+archaistic 1
 amentaceous
 anomalogonatous
 anomalon
