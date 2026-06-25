@@ -4933,7 +4933,7 @@ cartelistic
 cupeling
 cassava
 carter
-clown
+clown 1
 carters
 cartesian
 cartful
