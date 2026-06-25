@@ -6183,7 +6183,7 @@ evagation
 entertainers
 entrancing
 eyepoints
-eustatic
+eustatic 1
 enneandrian
 etherealizing
 edacious
