@@ -1971,7 +1971,7 @@ doohickey
 debusing
 danger
 dedans
-disenact
+disenact 1
 disavouch
 decumbency
 dacryadenitis
