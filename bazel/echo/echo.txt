@@ -9493,7 +9493,7 @@ entach
 enarch
 escout
 enstore
-equipondious
+equipondious 1
 escry
 escribientes
 escrime
