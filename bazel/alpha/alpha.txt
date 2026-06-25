@@ -2546,7 +2546,7 @@ assumingness
 acopyrine
 acopon
 atrabiliar
-acor
+acor 1
 acorea
 atomistic
 aecidia
