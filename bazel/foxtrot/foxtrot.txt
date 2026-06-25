@@ -5596,7 +5596,7 @@ furbearer
 froebelist
 fanaticized
 forefeel 1
-fossilation
+fossilation 1
 formulary
 fmt
 flyer
