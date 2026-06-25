@@ -4953,7 +4953,7 @@ chirotes
 cleeked
 conduct
 cartilagines
-chancroids
+chancroids 1
 cartilaginoid
 cartels
 cartilaginous
