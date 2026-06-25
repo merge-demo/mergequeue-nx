@@ -903,7 +903,7 @@ absis
 absit
 absoil
 acorn
-absterging
+absterging 1
 antient
 absolent
 aliases
