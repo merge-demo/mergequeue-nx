@@ -29501,7 +29501,7 @@ cunye
 crystallomancy
 crystallometry
 continuist
-conjunctional
+conjunctional 1
 continental
 culpatory
 crystallometric
