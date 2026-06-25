@@ -6347,7 +6347,7 @@ expiatory
 ensphered
 eyespot
 enseal
-estancias
+estancias 1
 esophoric
 extrovertish
 epuloid
