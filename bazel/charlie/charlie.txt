@@ -25067,7 +25067,7 @@ coregent
 courtlet
 coregnancy
 cubicity
-cleptobiosis
+cleptobiosis 1
 counterbalancing
 coregnant
 coregonid
