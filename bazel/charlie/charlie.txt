@@ -10033,7 +10033,7 @@ cyanites
 chanoyu
 cherubfish
 cherubfishes
-chauffeuring
+chauffeuring 1
 cherubic
 chowder
 cabernet
