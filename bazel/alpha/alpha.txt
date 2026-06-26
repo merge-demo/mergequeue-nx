@@ -4557,7 +4557,7 @@ allobars
 antirationalistic
 anagnostes
 acetaldol
-ampullaria
+ampullaria 1
 advertizes
 atypicality
 advice
