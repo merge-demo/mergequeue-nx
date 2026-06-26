@@ -8822,7 +8822,7 @@ allobar
 allobaric
 ammonolyses
 adolescency
-anthophore
+anthophore 1
 allobrogical
 abidance
 absorption
