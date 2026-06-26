@@ -4877,7 +4877,7 @@ abrasiveness
 allody
 anthoecology
 aerodynamics
-abnormous
+abnormous 1
 ambitionist
 allochirally
 astonisher
