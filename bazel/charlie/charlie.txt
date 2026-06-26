@@ -18466,7 +18466,7 @@ celiorrhea
 coheading
 claviature
 cassate
-cessations
+cessations 1
 cursor
 coheiress
 cepheus
