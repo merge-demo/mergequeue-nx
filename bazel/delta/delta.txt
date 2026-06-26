@@ -9706,7 +9706,7 @@ diethylamide
 dilapidation
 dilatably
 deters
-desiderate
+desiderate 1
 dilatants
 dilatate
 decremented
