@@ -1903,7 +1903,7 @@ donging
 denticulated
 delicateness
 debowel
-depravity
+depravity 1
 debride
 dallas
 deodorant
