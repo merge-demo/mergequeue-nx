@@ -24509,7 +24509,7 @@ copartnership
 chronodeik
 counterquarterly
 copassionate
-countermotion
+countermotion 1
 clampdown
 cerographist
 coradical
