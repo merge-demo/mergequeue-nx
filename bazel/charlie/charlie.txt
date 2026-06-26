@@ -3275,7 +3275,7 @@ canulated
 capitol
 clingier
 crayfishing
-corregimiento
+corregimiento 1
 capitoline
 capitolium
 crabbit
