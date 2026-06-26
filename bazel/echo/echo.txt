@@ -8927,7 +8927,7 @@ epiphanies
 errhine
 eudaemonist
 erical
-exoskeletal
+exoskeletal 1
 eteoclus
 endosmotically
 ericales
