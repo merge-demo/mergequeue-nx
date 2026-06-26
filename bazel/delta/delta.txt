@@ -4707,7 +4707,7 @@ ducklar
 demivambrace
 dorsicollar
 darkling
-drusean
+drusean 1
 diminutivize
 defoliates
 dermonecrotic
