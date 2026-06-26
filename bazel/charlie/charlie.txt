@@ -25441,7 +25441,7 @@ czars
 cornua
 comdt
 cornual
-compulsory
+compulsory 1
 cornuated
 coelastraceae
 cornubianite
