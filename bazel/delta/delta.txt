@@ -573,7 +573,7 @@ diethylmalonylurea
 deludes
 damasking
 damassin
-deiformity
+deiformity 1
 diiodotyrosine
 didepside
 districted
