@@ -3676,7 +3676,7 @@ entangling
 embryogenesis
 eunomy
 extravert
-encolpion
+encolpion 1
 exomion
 excogitates
 engarment
