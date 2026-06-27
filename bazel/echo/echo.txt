@@ -5264,7 +5264,7 @@ endophyllum
 exospherical
 embarcadero
 ensphere
-edginesses
+edginesses 1
 edificative
 euchroic
 exsected
