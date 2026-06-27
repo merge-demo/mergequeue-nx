@@ -17125,7 +17125,7 @@ dislocated
 defiladed
 dharana
 diffusibility
-divagations
+divagations 1
 debentureholder
 dipodies 1
 dryly
