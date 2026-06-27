@@ -20564,7 +20564,7 @@ cypruses
 chivareed
 colometrically
 cacodyls
-cherishable
+cherishable 1
 compensator
 compensatory
 cotillions 1
