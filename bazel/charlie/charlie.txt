@@ -24417,7 +24417,7 @@ concertanto
 cooped
 cooperage
 cooperate
-cooperated
+cooperated 1
 cooperates
 carapaxes
 caracals
