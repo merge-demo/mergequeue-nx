@@ -5355,7 +5355,7 @@ fructuously
 familyish
 fimbrilla
 finiking
-flouncier
+flouncier 1
 fuzzines
 fleams
 fittier
