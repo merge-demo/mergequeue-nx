@@ -6670,7 +6670,7 @@ gustoish
 gopak
 genocides
 gonfalcon
-glossopyrosis
+glossopyrosis 1
 generational
 gong
 gekkota
