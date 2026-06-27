@@ -26519,7 +26519,7 @@ cerebellums
 cottonmouths
 cottonocracy
 cottonseed
-clotheshorse
+clotheshorse 1
 chalcedonies
 cottonseeds
 camomile
