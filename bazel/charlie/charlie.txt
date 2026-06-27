@@ -10512,7 +10512,7 @@ comprehend
 chakar
 chiliastic
 chiliasts
-chilidogs
+chilidogs 1
 coropo
 chylidrosis
 coevolutionary
