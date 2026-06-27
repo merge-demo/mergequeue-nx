@@ -21489,7 +21489,7 @@ astrochronological
 arianistical
 angaria
 archabomination
-aspersive
+aspersive 1
 abirritant
 adephaga
 assertorical
