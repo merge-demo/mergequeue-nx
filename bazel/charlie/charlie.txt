@@ -5970,7 +5970,7 @@ catheterisation
 cattail
 catheterise
 clienteles
-coiffes
+coiffes 1
 catheterised
 crabgrass
 catheterism
