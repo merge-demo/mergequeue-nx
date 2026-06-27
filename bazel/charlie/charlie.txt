@@ -10952,7 +10952,7 @@ crudites
 coalition
 cicatrixes
 chiromantis
-chirometer
+chirometer 1
 chiromys
 cryostase
 chalcioecus
