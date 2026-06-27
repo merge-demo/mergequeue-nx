@@ -6730,7 +6730,7 @@ gigs
 gastronephritis
 gonidic
 genes
-gauges
+gauges 1
 gyrostats
 glomerate
 globulimeter
