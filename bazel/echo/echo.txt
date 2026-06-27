@@ -12939,7 +12939,7 @@ enthusiastic
 escalado
 emboites
 expatriatism
-equispaced
+equispaced 1
 epipsychidion
 egotistical
 emblematized
