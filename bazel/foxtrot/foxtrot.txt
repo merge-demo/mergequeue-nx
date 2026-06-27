@@ -10773,7 +10773,7 @@ feretrum
 fashious
 fascisticize
 finials
-fulgentness
+fulgentness 1
 fanaticize
 flittermice
 films
