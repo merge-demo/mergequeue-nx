@@ -11125,7 +11125,7 @@ chivaree
 compear
 chivareing
 chivareeing
-chivarees
+chivarees 1
 chivari
 chivaris
 chivarra
