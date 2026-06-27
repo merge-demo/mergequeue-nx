@@ -8926,7 +8926,7 @@ axisymmetric
 archaically 1
 agallochum
 apospory
-anematizing
+anematizing 1
 aerobiologic
 allomorphism
 allomorphite
