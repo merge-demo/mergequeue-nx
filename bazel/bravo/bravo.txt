@@ -6188,7 +6188,7 @@ beetle
 baffy
 benet
 brazas
-beneventan
+beneventan 1
 bibliography
 bijugous
 benevolency
