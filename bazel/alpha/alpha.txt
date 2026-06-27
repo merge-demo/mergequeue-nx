@@ -1128,7 +1128,7 @@ adjuratory
 appere
 acalephae
 autoschediastical
-acclimatized
+acclimatized 1
 aoul
 academes
 academy
