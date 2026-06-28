@@ -932,7 +932,7 @@ dapperling
 dapperness
 dapping
 dactylographic
-divorcers
+divorcers 1
 dishouse
 decourt
 deboistly
