@@ -1578,7 +1578,7 @@ callo
 crawlway 1
 cyders
 commonwealthism
-cuddle
+cuddle 1
 circumundulate
 callop
 camphorate
