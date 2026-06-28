@@ -1467,7 +1467,7 @@ chicks
 calistheneum
 commercializes
 calisthenics
-calite
+calite 1
 calyx
 coecal
 continents
