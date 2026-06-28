@@ -11481,7 +11481,7 @@ disaccharid
 discoideae
 despatchers
 debriding
-devisings
+devisings 1
 decencies
 dionysiacal
 discoloration
