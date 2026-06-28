@@ -9972,7 +9972,7 @@ baddock
 bivascular 1
 bismuthyl
 binodous
-brahmic
+brahmic 1
 berbery
 barrenness
 bivector
