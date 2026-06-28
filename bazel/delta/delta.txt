@@ -6579,7 +6579,7 @@ dipole
 dockize
 disematism
 deavely
-dendrologic
+dendrologic 1
 danda
 dioicous
 desecrates
