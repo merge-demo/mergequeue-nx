@@ -12343,7 +12343,7 @@ americanism
 alkenna
 apolytikion
 assiduous
-andesites
+andesites 1
 archipresbyter
 andevo
 asphyxiant
