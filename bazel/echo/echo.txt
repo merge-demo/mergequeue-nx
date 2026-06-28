@@ -1326,7 +1326,7 @@ enlarge
 edified
 equilibristat
 enclog
-effectuated
+effectuated 1
 encastage
 effectuating
 effervesced
