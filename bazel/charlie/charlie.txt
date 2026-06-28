@@ -19158,7 +19158,7 @@ cordless
 cattan
 concrescences
 collophane
-collophanite
+collophanite 1
 colloquial
 calcareously
 coadapted
