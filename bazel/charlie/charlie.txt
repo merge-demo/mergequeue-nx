@@ -6972,7 +6972,7 @@ cenobites
 cenobitic
 caseworkers
 cenobitically
-cenobitism
+cenobitism 1
 cretion
 cenogamy
 cenogenesis
