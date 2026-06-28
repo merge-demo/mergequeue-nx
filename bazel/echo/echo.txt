@@ -3916,7 +3916,7 @@ edentulous
 eels
 effodient
 enalid
-exede
+exede 1
 examinability
 epiglottis
 endexine
