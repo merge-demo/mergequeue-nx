@@ -1613,7 +1613,7 @@ fawkener
 fraischeur
 funfair
 favoredly
-fawned
+fawned 1
 fretize
 fleaseed
 fellmongery
