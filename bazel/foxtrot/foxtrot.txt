@@ -10678,7 +10678,7 @@ foreset
 foresheets
 fleuretty
 fortuneless
-fringilla
+fringilla 1
 fecks
 formularising
 fibriform 1
