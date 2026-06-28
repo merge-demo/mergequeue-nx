@@ -9225,7 +9225,7 @@ errantly
 emeritus
 etymol
 erotomaniac
-erotomaniacal
+erotomaniacal 1
 excression
 eaters
 erythrozyme
