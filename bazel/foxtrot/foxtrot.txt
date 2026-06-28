@@ -7356,7 +7356,7 @@ forastero
 flimsiest
 filles
 forbad
-faeces
+faeces 1
 fat
 forbborne 1
 freshen
