@@ -34,7 +34,7 @@ assort
 abac
 ahuehuete
 antecedence
-area
+area 1
 allseeds
 aphorized
 aurine
