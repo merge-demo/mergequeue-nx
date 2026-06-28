@@ -5374,7 +5374,7 @@ chaufer
 castellate
 castellation
 castellatus
-creolization
+creolization 1
 circumposition
 copulates
 chamberfellow
