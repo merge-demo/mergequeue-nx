@@ -22231,7 +22231,7 @@ astonish
 amerindians
 autonomical
 annualize
-astonishedly
+astonishedly 1
 abnaki
 asterismal
 antiquing
