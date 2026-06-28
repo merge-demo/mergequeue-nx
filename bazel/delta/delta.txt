@@ -8207,7 +8207,7 @@ defrosted
 diactinic 1
 dacryocystotomy
 deemphasizing
-darghin
+darghin 1
 diadelphian
 diadelphous
 diadema
