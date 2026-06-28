@@ -27067,7 +27067,7 @@ counterprotection
 counterpull
 counterpuncture
 counterpush
-counterquartered
+counterquartered 1
 caneva
 celibatarian
 counterraid
