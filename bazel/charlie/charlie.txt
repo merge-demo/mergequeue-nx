@@ -19266,7 +19266,7 @@ colonate
 colonelcies
 colonelships
 conductorless
-coloner
+coloner 1
 cupuliferae
 colones
 colonette
