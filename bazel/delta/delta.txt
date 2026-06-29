@@ -610,7 +610,7 @@ dutchman
 demoses
 dramamine
 deposes
-doff
+doff 1
 damnability
 damnabilities
 disegno
