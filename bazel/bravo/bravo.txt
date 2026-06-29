@@ -9795,7 +9795,7 @@ beneplacito
 bandonion
 biteable
 begin
-bonapartean
+bonapartean 1
 bongo
 bawd
 burgherhood
