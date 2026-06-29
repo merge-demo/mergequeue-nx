@@ -28772,7 +28772,7 @@ cussing
 circulator
 crescentader
 cleaving
-crescented
+crescented 1
 clocked
 compensate
 coacervated
