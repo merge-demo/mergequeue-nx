@@ -3596,7 +3596,7 @@ disguise
 desilverize
 debunker
 degass
-degassed
+degassed 1
 disappears
 dodecant
 destituting
