@@ -10572,7 +10572,7 @@ amygdala
 antirobin
 amygdalaceous
 animated
-amygdalase
+amygdalase 1
 amygdalate
 assisted
 ambulatoriums
