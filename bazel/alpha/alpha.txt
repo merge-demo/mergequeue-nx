@@ -20619,7 +20619,7 @@ apospories
 ammodytoid
 aswithe
 aduncity
-arthroneuralgia
+arthroneuralgia 1
 articulite
 aetiology
 arthropathic
