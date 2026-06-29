@@ -18378,7 +18378,7 @@ deceptiously
 deuteroconid 1
 dihalo
 dabbles
-disintrench
+disintrench 1
 decontrols
 daviesia
 duodenums
