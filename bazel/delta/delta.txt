@@ -12184,7 +12184,7 @@ declensional
 decertifying
 depressible
 dejections
-disfigure
+disfigure 1
 draughter
 defencelessness
 disfigurer
