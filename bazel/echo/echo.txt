@@ -12554,7 +12554,7 @@ epistemological
 embezzle
 exit
 encrypted
-exsects
+exsects 1
 exite
 eranist
 extinction
