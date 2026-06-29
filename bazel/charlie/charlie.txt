@@ -1633,7 +1633,7 @@ crureus
 calmest
 calmier
 calmiest
-coeducationally
+coeducationally 1
 calming
 calmness
 calmnesses
