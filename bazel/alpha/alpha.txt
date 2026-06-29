@@ -11073,7 +11073,7 @@ anathematiser
 apogeic
 ariki
 amovable
-acronarcotic
+acronarcotic 1
 abatic
 amove
 achakzai
