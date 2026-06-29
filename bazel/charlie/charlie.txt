@@ -1937,7 +1937,7 @@ carcinus
 cinnamomum
 chiliarchy
 camelopards
-cotterite
+cotterite 1
 constant
 camelopardus
 cloghad
