@@ -15393,7 +15393,7 @@ demineralizer 1
 detectivism
 domification
 distoma
-dissemblance
+dissemblance 1
 decempedate
 dendrochronological
 dynamize
