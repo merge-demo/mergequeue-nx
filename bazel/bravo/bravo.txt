@@ -3636,7 +3636,7 @@ bipinnately 1
 batlon
 blackball
 budded
-bumbleberry
+bumbleberry 1
 betacism
 brazenfacedly
 botchery
