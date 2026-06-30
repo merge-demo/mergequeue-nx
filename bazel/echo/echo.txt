@@ -8746,7 +8746,7 @@ entombing
 embryotrophic 1
 equivelocity
 encrotchet 1
-exuberated
+exuberated 1
 exteriorized
 expatiator
 equivocal
