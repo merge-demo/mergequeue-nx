@@ -5215,7 +5215,7 @@ affectioned
 anemographic
 affections
 affectious
-affective
+affective 1
 advocacies
 affectivity
 affector
