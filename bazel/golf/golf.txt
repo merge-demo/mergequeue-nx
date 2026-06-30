@@ -911,7 +911,7 @@ geld
 guna
 gelatinate
 gambia
-garnishable
+garnishable 1
 grittiness
 gosport
 gemeinschaften
