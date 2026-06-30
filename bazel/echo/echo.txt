@@ -2350,7 +2350,7 @@ electrocardiogram
 enclear
 ever
 electrocardiographic
-euphuistic
+euphuistic 1
 explorational
 entocele
 explosive
