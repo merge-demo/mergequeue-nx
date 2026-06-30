@@ -3513,7 +3513,7 @@ diasters
 doughmaker
 deformability
 droughermen
-disknow
+disknow 1
 distomum 1
 demographical
 delvers
