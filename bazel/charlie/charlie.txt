@@ -6940,7 +6940,7 @@ cementoblast
 cementoma
 cements
 cementwork 1
-cemetaries
+cemetaries 1
 cemetery
 copesettic
 cemeterial
