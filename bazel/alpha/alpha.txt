@@ -20328,7 +20328,7 @@ azofy
 autometry
 amendments
 autolith
-apophysitis
+apophysitis 1
 arsenious
 acephaline
 amplifiers
