@@ -13623,7 +13623,7 @@ dimethylketone 1
 dissheathed
 daddums
 dosimetrist
-deliverance
+deliverance 1
 disciplinative
 disship
 disshiver
