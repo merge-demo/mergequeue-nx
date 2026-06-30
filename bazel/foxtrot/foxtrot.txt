@@ -4101,7 +4101,7 @@ fakers 1
 foreprovided
 finny 1
 fabulosity
-fylgjur
+fylgjur 1
 foolship
 finnicize
 fluctisonant
