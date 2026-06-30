@@ -8797,7 +8797,7 @@ foenngreek
 flossification
 fondlike
 forthbring
-frizzlier
+frizzlier 1
 frontosphenoidal
 fulfills
 flancard
