@@ -11640,7 +11640,7 @@ exacerbatingly
 etoiles
 expulses
 enddamaged
-exactable
+exactable 1
 extemporising
 exactas
 ergastoplasm
