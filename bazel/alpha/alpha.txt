@@ -12346,7 +12346,7 @@ assiduous
 andesites
 archipresbyter
 andevo
-asphyxiant
+asphyxiant 1
 assisi
 andian 1
 automatable
