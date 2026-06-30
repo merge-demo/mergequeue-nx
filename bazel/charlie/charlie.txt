@@ -2826,7 +2826,7 @@ canoing
 cuerpo
 canon
 churlish
-canones
+canones 1
 cardooer
 canonesses
 canonicalization
