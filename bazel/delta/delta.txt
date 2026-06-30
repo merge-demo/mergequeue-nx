@@ -169,7 +169,7 @@ dadoxylon
 desireful
 diestocks
 dressage
-delicates
+delicates 1
 doweral
 dirtier
 daedalea
