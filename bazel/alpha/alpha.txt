@@ -21540,7 +21540,7 @@ achlorhydric
 anticritique
 ampulating
 auricyanic
-assuaged
+assuaged 1
 asialia
 aristarchies
 amalgamator
