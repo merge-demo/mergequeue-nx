@@ -9564,7 +9564,7 @@ glamorized
 geodynamical
 guidage
 groveller
-gauteite
+gauteite 1
 gruels
 girgasite
 gesticularious
