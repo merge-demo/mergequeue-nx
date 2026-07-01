@@ -13277,7 +13277,7 @@ eolation
 eyeshield
 exploded
 englifier
-empierce
+empierce 1
 endophragm 1
 estranger
 englishable
