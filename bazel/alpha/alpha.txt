@@ -22827,7 +22827,7 @@ atmolysis
 atmolyzation
 atmolyze
 atmologic
-anisotropous
+anisotropous 1
 alterability
 albopannin
 arya
