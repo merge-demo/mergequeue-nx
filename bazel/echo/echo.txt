@@ -2509,7 +2509,7 @@ electrokinetics
 elasticum
 electroless
 exsecants
-educables
+educables 1
 expansivity
 embryopathology
 emender
