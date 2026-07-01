@@ -934,7 +934,7 @@ fasola
 fourchite
 fortunateness
 forms
-fanfishes
+fanfishes 1
 flightless
 farandoles
 faxing
