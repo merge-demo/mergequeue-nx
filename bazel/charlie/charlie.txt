@@ -8931,7 +8931,7 @@ coralliferous
 chared
 charely
 consultation
-crinivorous
+crinivorous 1
 crowds
 catechumenical
 catholicizing 1
