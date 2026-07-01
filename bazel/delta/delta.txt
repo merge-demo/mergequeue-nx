@@ -2795,7 +2795,7 @@ decreet
 desmogen
 dugal
 dop
-dorsalward
+dorsalward 1
 disharmonize
 decremeter
 dicyemida
