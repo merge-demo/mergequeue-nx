@@ -8352,7 +8352,7 @@ greeniest
 grins
 glittery
 genioglossi 1
-gulled
+gulled 1
 gopherroot
 gripy
 guamachil
