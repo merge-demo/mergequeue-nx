@@ -10398,7 +10398,7 @@ diplosphene
 dioxy
 defecate
 discourtship
-dioxid
+dioxid 1
 disfavors
 devoured
 dioxides
