@@ -7917,7 +7917,7 @@ appropriates
 alembic
 automatontons 1
 abolishes
-arylamino
+arylamino 1
 alnus
 apogamy
 alembicated
