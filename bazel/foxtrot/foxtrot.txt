@@ -2143,7 +2143,7 @@ flaws
 finfoots
 fumette
 fameful
-famously
+famously 1
 fires
 fornical
 foliature
