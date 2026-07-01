@@ -30718,7 +30718,7 @@ chides
 cued
 carbolineum
 chiropterygium
-coeffects
+coeffects 1
 cheetie
 cunctatory
 coempts
