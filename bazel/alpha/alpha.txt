@@ -22866,7 +22866,7 @@ asrama
 alkalemia
 algefacient
 atomician
-assimilative
+assimilative 1
 asterioid
 adelphoi
 alpinely
