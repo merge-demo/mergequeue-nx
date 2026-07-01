@@ -10488,7 +10488,7 @@ event
 etrog
 equatoreal
 etruscology
-etta
+etta 1
 endosteally
 equation
 embouchure
