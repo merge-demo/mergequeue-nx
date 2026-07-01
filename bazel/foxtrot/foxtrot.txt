@@ -11086,7 +11086,7 @@ fane
 factfinder
 flagellated
 flockless 1
-functionnaire
+functionnaire 1
 functors
 formational
 foulard
