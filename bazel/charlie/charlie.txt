@@ -31134,7 +31134,7 @@ cobewail
 cunningness
 counterreplying
 cordierite
-cunnings
+cunnings 1
 cunoniaceous
 cunt
 chantor
