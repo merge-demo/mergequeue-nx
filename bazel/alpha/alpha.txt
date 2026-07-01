@@ -11517,7 +11517,7 @@ amuzzle
 amphigastria
 anabantid
 aeneus
-actory
+actory 1
 anabaptistic
 audiometers
 ajaja
