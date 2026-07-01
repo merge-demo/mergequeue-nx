@@ -13180,7 +13180,7 @@ enfeature
 episcotister
 expiable
 excubitorium
-entailment
+entailment 1
 embroil
 enties
 expiation
