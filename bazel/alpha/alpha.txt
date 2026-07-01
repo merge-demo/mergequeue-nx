@@ -10252,7 +10252,7 @@ angiolymphitis
 alloying
 analcitite
 ameiuridae
-absorbition
+absorbition 1
 astringently
 ameiva
 ascidiae
