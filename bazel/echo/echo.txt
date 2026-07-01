@@ -6907,7 +6907,7 @@ epispore
 ectocardia
 endometria
 evaporable
-equipments
+equipments 1
 embelif
 eucalyn
 epiblema
