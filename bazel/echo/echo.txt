@@ -9424,7 +9424,7 @@ elutriated
 exostosed
 epipodium
 escarps
-escharotic
+escharotic 1
 enfeoff
 eschatological
 enaliosauria
