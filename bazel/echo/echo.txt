@@ -4677,7 +4677,7 @@ evolve
 eremiteship
 enchoric
 encyclopedias
-ekoi
+ekoi 1
 entanglers
 exuberance
 entablement
