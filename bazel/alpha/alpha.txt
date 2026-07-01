@@ -10241,7 +10241,7 @@ ameboidism
 amedeo
 arytenoid
 ameed
-agamid
+agamid 1
 attire
 anemophile
 acidifying
