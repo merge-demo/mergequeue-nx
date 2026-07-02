@@ -2995,7 +2995,7 @@ decannulation
 dyadically
 democratist
 dodecamerous
-daguerreotypist
+daguerreotypist 1
 deedier
 deonerate
 decillion
