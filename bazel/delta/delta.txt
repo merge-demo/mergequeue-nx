@@ -8526,7 +8526,7 @@ disquisitively
 drighten
 dantomania
 disaccharides
-diapause
+diapause 1
 diapauses
 donaries
 decarburize
