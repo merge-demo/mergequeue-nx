@@ -5932,7 +5932,7 @@ approachability
 aggrandised
 abasias
 aggrandising
-altimettrically
+altimettrically 1
 afterglows
 aggrandize
 althaea
