@@ -26764,7 +26764,7 @@ countercriticism
 countercultural
 counterculture
 coagulums
-countercurrent
+countercurrent 1
 countercurrently
 cubitometacarpal
 capelocracy
