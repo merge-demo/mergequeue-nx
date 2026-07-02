@@ -6668,7 +6668,7 @@ beseemly
 berimes
 bradypnoea
 bering
-beneficences
+beneficences 1
 broughtas
 burghs
 busto
