@@ -383,7 +383,7 @@ faintly
 ferrymen
 fearer
 filicauline
-forbid 1
+forbid 2
 fairfieldite
 facets
 faceoff
