@@ -12309,7 +12309,7 @@ exerce
 equimultiple
 exceptious
 extramarginal
-epanisognathous
+epanisognathous 1
 endotracheitis
 equimolecular
 epimerite 1
