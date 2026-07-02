@@ -17180,7 +17180,7 @@ diathermotherapy
 drippier
 damans
 dowily
-deuteroscopy
+deuteroscopy 1
 detailedly
 diabolically
 dripstone
