@@ -8762,7 +8762,7 @@ forwardal
 fermentability
 fadable
 forethought
-frenzic
+frenzic 1
 fleshiness
 familia
 forellenstein
