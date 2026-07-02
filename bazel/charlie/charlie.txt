@@ -10884,7 +10884,7 @@ chippings
 castaneous
 clerk
 chipproof
-crucifying
+crucifying 1
 clocher
 chypre
 cariacine
