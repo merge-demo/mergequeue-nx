@@ -9302,7 +9302,7 @@ disploded 1
 deobstruent
 dietic
 decolorant
-dietitians
+dietitians 1
 dtset
 diplomat
 dietotherapy
