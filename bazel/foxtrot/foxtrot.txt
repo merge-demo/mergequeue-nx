@@ -10096,7 +10096,7 @@ frithy
 firstly
 fenetre
 fluviometer
-fiberizing
+fiberizing 1
 flyover
 flintifying
 forefatherly
