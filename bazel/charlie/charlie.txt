@@ -16919,7 +16919,7 @@ clumsy
 clumsier
 cloyer
 clumsiest
-clumsily
+clumsily 1
 coenosteal
 cochlospermum
 choule
