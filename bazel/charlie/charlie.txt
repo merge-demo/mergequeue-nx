@@ -22588,7 +22588,7 @@ clavichordists
 convallariaceous 1
 catholicate
 connector
-connectors
+connectors 1
 camellus
 connects
 catawampously
