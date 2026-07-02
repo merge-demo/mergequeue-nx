@@ -18641,7 +18641,7 @@ coinmates
 coins
 catallactics
 coinspire
-chesil
+chesil 1
 cartonnier
 coinstantaneously
 centrolinead
