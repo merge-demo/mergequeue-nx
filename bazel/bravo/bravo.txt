@@ -4962,7 +4962,7 @@ belgae
 barmier
 boulles
 bactritoid
-bonaveria
+bonaveria 1
 boltless
 bolases
 beerbachite
