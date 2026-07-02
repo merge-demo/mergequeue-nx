@@ -384,7 +384,7 @@ glumpily 1
 goatskins
 grandmamma
 guisian
-gps
+gps 1
 galant
 galanthus
 guilery
