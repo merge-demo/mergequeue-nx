@@ -2977,7 +2977,7 @@ deciduata
 delinquent
 depositional
 diaphanotype
-describers
+describers 1
 decemfid 1
 deductio
 deductions
