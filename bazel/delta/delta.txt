@@ -4591,7 +4591,7 @@ dustlike
 dolichocrany
 desperance
 depths
-disusing
+disusing 1
 detected
 digitigrade
 decretal
