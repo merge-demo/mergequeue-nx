@@ -2068,7 +2068,7 @@ blossomry
 bronchus
 bcf
 baldest
-blesses
+blesses 1
 bannerols
 bannisters
 birthmarks
