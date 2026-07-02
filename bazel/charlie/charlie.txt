@@ -10036,7 +10036,7 @@ cherubfishes
 chauffeuring 1
 cherubic
 chowder
-cabernet
+cabernet 1
 cherubical
 caribisi
 chord
