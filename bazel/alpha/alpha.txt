@@ -3973,7 +3973,7 @@ amelification
 anecdotical
 adlumidin
 apoplexious
-ardently
+ardently 1
 adlumidine
 amunam
 antepast
