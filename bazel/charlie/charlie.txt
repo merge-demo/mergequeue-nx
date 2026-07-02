@@ -15208,7 +15208,7 @@ compresses
 choosableness
 clairsentient
 confrontationism
-conceder
+conceder 1
 chondrophyte
 clairvoyances
 clairvoyancy
