@@ -11551,7 +11551,7 @@ fetting
 fusiform
 fusil
 frictionized
-fowage
+fowage 1
 figurations
 feedback
 friskful
