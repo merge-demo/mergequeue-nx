@@ -6828,7 +6828,7 @@ feuille
 florula
 fragmentizer
 foretold
-fructifier
+fructifier 1
 forger
 foliaged
 firetower
