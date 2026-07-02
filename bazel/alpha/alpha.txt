@@ -10019,7 +10019,7 @@ andrenid
 avidya
 ambidextrously
 autarkikal
-avellan
+avellan 1
 asyllabical
 ambiency
 adiposogenital
