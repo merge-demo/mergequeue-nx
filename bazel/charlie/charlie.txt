@@ -19916,7 +19916,7 @@ confessionals
 conjugating
 commandable
 commandatory
-commanded
+commanded 1
 confervaceae
 commandedness
 coelacanthine
