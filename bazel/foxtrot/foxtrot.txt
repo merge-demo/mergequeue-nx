@@ -11556,7 +11556,7 @@ figurations
 feedback
 friskful
 fusile
-flytier
+flytier 1
 fulgurator
 fulmar
 futhermore
