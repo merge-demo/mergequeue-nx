@@ -8750,7 +8750,7 @@ chapelmaster
 colonises
 chapelry
 combflower
-chapelries
+chapelries 1
 cinerins
 chapels
 chapelward
