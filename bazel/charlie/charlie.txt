@@ -16630,7 +16630,7 @@ closed
 closefistedly
 closefistedness
 concussant
-clubbiest
+clubbiest 1
 colleagueship
 cyanosis
 clem
