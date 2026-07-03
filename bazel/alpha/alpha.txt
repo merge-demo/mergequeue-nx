@@ -14590,7 +14590,7 @@ aborally
 adoretus
 anthroposophy 1
 anthropoteleoclogy
-abjudging
+abjudging 1
 anthropotheist
 androcephalum
 answering
