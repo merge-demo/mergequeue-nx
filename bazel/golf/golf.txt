@@ -10449,7 +10449,7 @@ gittite 1
 gastronomically
 grimacing
 gladsomely
-gummaking
+gummaking 1
 gjetost
 gallotannic
 gentleheartedly
