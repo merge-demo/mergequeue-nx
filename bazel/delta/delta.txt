@@ -417,7 +417,7 @@ dwelt
 destructing
 desulfurise
 darwan 1
-disobedient
+disobedient 1
 dairymaids 1
 devaluate
 dogfighting
