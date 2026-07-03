@@ -9687,7 +9687,7 @@ deliquesces
 defamatory
 doorcase
 dipneusti
-dispense
+dispense 1
 daphnias
 devilward
 ditting
