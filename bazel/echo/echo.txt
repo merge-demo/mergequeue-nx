@@ -199,7 +199,7 @@ eten
 entincture
 ectoplacenta
 earthset
-endomorphism
+endomorphism 1
 equilibratory
 elater
 ehretia
