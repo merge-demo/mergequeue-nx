@@ -23688,7 +23688,7 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
-auriferous
+auriferous 1
 appreciational
 axlike
 aurify 1
