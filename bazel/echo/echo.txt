@@ -12306,7 +12306,7 @@ electronegative
 eerock
 equilucent
 exerce
-equimultiple
+equimultiple 1
 exceptious
 extramarginal
 epanisognathous
