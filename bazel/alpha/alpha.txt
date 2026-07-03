@@ -1149,7 +1149,7 @@ academized
 acadialite
 alpenstocker
 acadie
-amorphic
+amorphic 1
 airshed
 acalephoid
 anaclastic
