@@ -1526,7 +1526,7 @@ diffracted
 defeminizing
 distracting
 diagnosable
-dowsabel
+dowsabel 1
 diglucoside
 decontaminations
 doatish
