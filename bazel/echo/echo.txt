@@ -12194,7 +12194,7 @@ epiphonemas
 eudemonist
 exacervation
 enserfs
-excogitation
+excogitation 1
 enflame
 entrechats
 emanated
