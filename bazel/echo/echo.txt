@@ -2977,7 +2977,7 @@ ekronite
 entomology
 elidible
 etagere
-epistasy 1
+epistasy 2
 eligibles
 entrecotes
 equipede
