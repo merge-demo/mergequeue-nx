@@ -30396,7 +30396,7 @@ caserio
 crustade
 charted
 cresotinic 1
-crustalogy
+crustalogy 1
 crustalogical
 crustalogist
 cyrenaic
