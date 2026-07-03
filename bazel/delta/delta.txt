@@ -3229,7 +3229,7 @@ dekle
 doftberry
 defencive
 dents
-defend
+defend 1
 dikast
 dolmenic
 demimondaine
