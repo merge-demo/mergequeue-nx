@@ -6399,7 +6399,7 @@ aleucaemic
 agrogeological
 aurung
 ancylostoma
-acoine
+acoine 1
 afro
 automatograph
 adsorbate
