@@ -18673,7 +18673,7 @@ documentarily
 dwarfisms
 dermopteran
 darwinically 1
-detersively
+detersively 1
 dwarfs
 diaulos
 dwindled
