@@ -30713,7 +30713,7 @@ counterexplanation
 cudwort
 couturire
 compassment
-comedist
+comedist 1
 chides
 cued
 carbolineum
