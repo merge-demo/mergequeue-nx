@@ -9831,7 +9831,7 @@ exact
 estrich
 etagre
 expurgator
-eikon
+eikon 1
 egocentricity 1
 enthronising
 endoceras
