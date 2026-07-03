@@ -3216,7 +3216,7 @@ acoumetry
 alstonine
 assident
 antennary
-abstersion
+abstersion 1
 aphis
 ashlar
 actuating
