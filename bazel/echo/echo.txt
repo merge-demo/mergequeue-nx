@@ -8414,7 +8414,7 @@ enchains
 emancipatress
 epizoic
 eudaemonia
-ensigncy
+ensigncy 1
 equals
 epizoon
 edemic
