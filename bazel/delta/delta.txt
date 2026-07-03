@@ -8669,7 +8669,7 @@ discoast
 diaspidine
 diaspirin
 dots
-dwt
+dwt 1
 droumy
 downweigh
 discomposingly
