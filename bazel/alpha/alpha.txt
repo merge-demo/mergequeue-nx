@@ -8511,7 +8511,7 @@ alkylarylsulfonate
 anallergic
 agnate
 alkylate
-atremate
+atremate 1
 alkylbenzenesulfonates
 alkylic
 antiphonetic

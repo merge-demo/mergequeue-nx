@@ -10028,7 +10028,7 @@ extill
 embarking
 exempting
 equalist 1
-endocrinism
+endocrinism 1
 endoperidial
 endogamous
 eterne
