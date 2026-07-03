@@ -10100,7 +10100,7 @@ ghostwrote
 galactodensimeter
 grammarian
 gekkonoid
-gonfaloniership
+gonfaloniership 1
 gasoscope 1
 glottid
 gazetteer
