@@ -8607,7 +8607,7 @@ dispunitive
 donatio
 diapophysis
 decigramme
-dibatis
+dibatis 1
 dystaxia
 diapsida
 dyskinetic
