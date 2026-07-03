@@ -2940,7 +2940,7 @@ acrux
 acta
 acediamin
 affrighted
-ankus
+ankus 1
 actaea
 aphanes
 austerer
