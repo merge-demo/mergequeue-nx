@@ -8480,7 +8480,7 @@ amebocyte
 autophyllogeny
 acanthosis
 alkapton
-alkaptone
+alkaptone 1
 ascent
 alkaptonuric
 alkarsin
