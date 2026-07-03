@@ -6541,7 +6541,7 @@ changefulness
 cavity
 cavitied
 cavorted
-cavorting
+cavorting 1
 cavu
 cannulas
 caw
