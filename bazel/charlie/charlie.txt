@@ -26972,7 +26972,7 @@ ciceronianism
 counternecromancy
 counterobjection
 counterobligation
-counteroffensive
+counteroffensive 1
 cactaceous
 chevet
 cerograph
