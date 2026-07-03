@@ -22260,7 +22260,7 @@ anecdotalism
 alfred
 atherinidae
 astoundingly
-astounds
+astounds 1
 agastroneuria
 axially
 ayous
