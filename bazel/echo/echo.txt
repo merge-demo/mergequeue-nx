@@ -7031,7 +7031,7 @@ explorable
 effigiating
 estated
 emetines
-extradialectal
+extradialectal 1
 economising
 erythrochaete
 earphone
