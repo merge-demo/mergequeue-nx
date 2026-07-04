@@ -19564,7 +19564,7 @@ colonizing
 creophagist
 columbine
 climactic
-chamfrons
+chamfrons 1
 cusp
 crocky
 copesetic
