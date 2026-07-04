@@ -6098,7 +6098,7 @@ astrosphere
 albuminoidal
 antifeudalism
 agitators
-apteral
+apteral 1
 ablock
 agamospore
 agitatrix
