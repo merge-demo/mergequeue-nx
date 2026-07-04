@@ -5970,7 +5970,7 @@ fibromembrane
 floods 1
 foisons
 fortifiable
-fantaisie
+fantaisie 1
 fisk
 filleter
 fanwright
