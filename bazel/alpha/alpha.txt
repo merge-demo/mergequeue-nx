@@ -24218,7 +24218,7 @@ automated
 argentite
 automates
 agronomist
-aphetism
+aphetism 1
 argumentative
 automaticity
 aperu
