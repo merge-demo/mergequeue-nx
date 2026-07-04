@@ -12059,7 +12059,7 @@ coll
 cymbalo
 cerfoil
 clansman
-casula
+casula 1
 carpophalangeal
 chose
 chophouses
