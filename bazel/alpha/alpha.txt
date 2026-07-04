@@ -10306,7 +10306,7 @@ amendment
 amene
 antierosive
 ampicillin 1
-amenorrheic
+amenorrheic 1
 amenorrho
 aprosexia
 arabicism
