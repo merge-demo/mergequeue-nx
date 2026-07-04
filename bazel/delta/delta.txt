@@ -18259,7 +18259,7 @@ dunitic
 demonstrationists
 disputant
 dumbfounder
-deanery
+deanery 1
 diagrammeter
 dinaric
 dogged
