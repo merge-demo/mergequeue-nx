@@ -11270,7 +11270,7 @@ abfarads
 antiballistic
 avidious
 amphiprostylar
-anaglyptographic
+anaglyptographic 1
 antiusurious
 aquocellolitis
 amdahl
