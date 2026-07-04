@@ -28972,7 +28972,7 @@ cricoarytenoid
 corroborated
 cheilotomy
 cyanic
-cricoid
+cricoid 1
 cricoids
 couper
 cricopharyngeal
