@@ -9420,7 +9420,7 @@ dowerless
 dredge
 dismountable
 dejunkerize
-diffusions
+diffusions 1
 diffusive
 diffusors
 diabolus
