@@ -6079,7 +6079,7 @@ depressiveness
 deputizing
 degraders
 debriefed
-deaconal
+deaconal 1
 dilutent
 dermorhynchi
 dysphemized
