@@ -12091,7 +12091,7 @@ adjunction
 aborning
 archaeologian
 arquerite
-aspis
+aspis 1
 angiosclerosis
 acidity
 avenalin
