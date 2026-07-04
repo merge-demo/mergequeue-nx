@@ -8647,7 +8647,7 @@ grizzliness
 groynes
 gapeseed
 gazetteership
-greatness
+greatness 1
 greave 1
 gapers
 gavelet
