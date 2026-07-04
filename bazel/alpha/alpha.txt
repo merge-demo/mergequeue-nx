@@ -17281,7 +17281,7 @@ aporrhegma
 ambiguousness
 amorini
 anights
-aport
+aport 1
 aportlast
 aposaturnium
 aposia
