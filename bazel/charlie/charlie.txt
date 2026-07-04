@@ -24776,7 +24776,7 @@ concert
 cabbing
 copula
 cheechakos
-coroscopy
+coroscopy 1
 copulae
 copular
 copularium
