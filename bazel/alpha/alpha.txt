@@ -8468,7 +8468,7 @@ adoption
 alkalosis
 alkalurops
 alkamine
-alkanet
+alkanet 1
 alkalifies
 actionist
 allicholly
