@@ -16608,7 +16608,7 @@ chymaqueous 1
 chemicoluminescence
 cloot
 clootie
-chargeling
+chargeling 1
 clop
 carburate
 conteck
