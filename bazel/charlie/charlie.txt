@@ -17090,7 +17090,7 @@ coactively
 clubwoman
 coacts
 coadamite
-companionized
+companionized 1
 cavings
 coadaptations
 californium
