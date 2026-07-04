@@ -1513,7 +1513,7 @@ filmmaking
 foulards
 foci
 filibeg
-flauntiness
+flauntiness 1
 forepiece
 faunish
 fleecing
