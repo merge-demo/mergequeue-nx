@@ -2174,7 +2174,7 @@ camphory
 camphoryl
 corgi
 camphoroyl
-clerkliest
+clerkliest 1
 camporee
 camphorone
 camphorweed

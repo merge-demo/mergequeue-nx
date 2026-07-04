@@ -7887,7 +7887,7 @@ franklinia
 foreruns
 flacket
 frightenable 1
-frottole
+frottole 1
 firmaments
 flourishingly
 fatter
