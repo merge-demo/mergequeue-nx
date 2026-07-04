@@ -5455,7 +5455,7 @@ fretsome
 fleeter
 fermentatively
 flex
-fusionless
+fusionless 1
 firefighter
 forevow
 firearmed
