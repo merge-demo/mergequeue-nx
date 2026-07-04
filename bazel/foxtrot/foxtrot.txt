@@ -10364,7 +10364,7 @@ fragrances
 foreboard
 feldspathization
 francium
-flashcube
+flashcube 1
 fletcherite
 formatting
 frontierless
