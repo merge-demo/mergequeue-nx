@@ -6246,7 +6246,7 @@ glucosidase
 gonne
 greaves
 gopura
-goatstone
+goatstone 1
 gaum
 goatweed
 guerrillaism
