@@ -3313,7 +3313,7 @@ definably
 dn
 dejecture
 demyelination
-dizz
+dizz 1
 definedly
 definers
 deflects
