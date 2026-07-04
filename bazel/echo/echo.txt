@@ -4488,7 +4488,7 @@ encastre
 encastrement
 encaustically
 emotionalizing
-efferent
+efferent 1
 erth
 enceinte
 entozoology
