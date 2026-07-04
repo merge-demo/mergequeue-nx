@@ -13044,7 +13044,7 @@ cyanotype
 cyanuramide
 coefficiently 1
 cyanuric
-cyanurin
+cyanurin 1
 chowsing
 cyanurine
 ciao
