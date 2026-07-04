@@ -11180,7 +11180,7 @@ disbase
 dani
 disbeliefs
 diarchic
-decemjugate
+decemjugate 1
 dissociating
 disbelieved
 disproportions
