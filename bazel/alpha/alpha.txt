@@ -7182,7 +7182,7 @@ aethrioscope
 alack
 amole
 airworthiness
-anadromous
+anadromous 1
 alacran
 advertized
 automatic
