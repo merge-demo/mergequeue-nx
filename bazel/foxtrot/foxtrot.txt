@@ -782,7 +782,7 @@ feil
 farmost
 forecovert
 fanfolds
-fluorines
+fluorines 1
 financing
 flunker
 fanfaronading
