@@ -21856,7 +21856,7 @@ cactaceae
 cardiometry
 confecting
 confection
-confectionary
+confectionary 1
 confectioner
 confed
 chukkers
