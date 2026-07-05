@@ -5872,7 +5872,7 @@ deprecatory
 deoxidised
 desensitization
 deota
-degradingness
+degradingness 1
 dregless
 dirk
 depreciable
