@@ -10874,7 +10874,7 @@ ammoniuret
 archcozener
 antiproteolysis
 argolian
-ammono
+ammono 1
 ammonoidea
 ammonoidean
 aerocartography
