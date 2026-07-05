@@ -8110,7 +8110,7 @@ coracosteon
 continent
 carcer
 chaffron
-clavicornia
+clavicornia 1
 chaffs
 chaffseed
 costlessly
