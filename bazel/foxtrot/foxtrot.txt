@@ -1000,7 +1000,7 @@ foreshop
 fulmina
 fucuses
 foreplan
-formate
+formate 1
 foreorder
 fenester
 flustrating
