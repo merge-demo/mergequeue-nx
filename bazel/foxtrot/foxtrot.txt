@@ -1588,7 +1588,7 @@ furstone
 fadges
 flavobacterium
 forsee
-favosely
+favosely 1
 ferroaluminum
 formidability
 favosites
