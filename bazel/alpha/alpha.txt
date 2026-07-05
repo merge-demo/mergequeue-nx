@@ -24702,7 +24702,7 @@ abevacuation
 acalephe
 averruncator
 arteriasis
-avers
+avers 1
 aversant
 averseness
 adults
