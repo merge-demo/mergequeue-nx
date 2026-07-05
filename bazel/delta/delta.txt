@@ -7734,7 +7734,7 @@ discipliners
 deviltry
 dexiocardia 1
 dissociation
-diastataxy
+diastataxy 1
 deformative
 devirginate
 diapered
