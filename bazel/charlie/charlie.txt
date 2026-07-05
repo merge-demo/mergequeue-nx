@@ -3469,7 +3469,7 @@ collectress
 ceruses
 chullpa
 capsicums
-capsid
+capsid 1
 coumarous
 chylosis
 ciceronianists
