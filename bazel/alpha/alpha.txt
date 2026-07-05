@@ -24816,7 +24816,7 @@ avital
 avitaminosis
 acariform
 anoxic
-adaption
+adaption 1
 aloof
 avocadoes
 aguilawood
