@@ -19437,7 +19437,7 @@ argh
 anlaute
 aphelilions
 allottees
-aglaspis
+aglaspis 1
 asclepiadaceous
 asymbolia
 astrophysics
