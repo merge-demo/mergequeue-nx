@@ -8747,7 +8747,7 @@ faussebraie
 fala
 frizzled
 featheriest
-fortunes
+fortunes 1
 faintise
 frankfort
 freddo
