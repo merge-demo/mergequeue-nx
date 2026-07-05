@@ -14827,7 +14827,7 @@ demidog
 doctorially
 doctoring
 doctorize
-distinctness
+distinctness 1
 distributive
 diallage
 doctorless 1
