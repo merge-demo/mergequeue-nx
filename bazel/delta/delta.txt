@@ -2035,7 +2035,7 @@ dothidella
 daimen
 duplicitas
 dichloramin
-decagram
+decagram 1
 dourness
 decagrams
 declasse

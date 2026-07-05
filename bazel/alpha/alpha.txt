@@ -21693,7 +21693,7 @@ arad
 assecuration
 anagua
 assecure
-apician
+apician 1
 assecution
 amend
 acaudal
