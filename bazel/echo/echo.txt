@@ -12317,7 +12317,7 @@ erichtoid
 eavesing
 enjambment
 eradicating
-emusive
+emusive 1
 earthlings
 ethic
 enhydrous
