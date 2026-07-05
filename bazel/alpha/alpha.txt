@@ -4180,7 +4180,7 @@ amalgamable
 actinometer
 adoptedly
 archaeornithes
-adoptee
+adoptee 1
 alkaphrah
 autozooid
 attributiveness
