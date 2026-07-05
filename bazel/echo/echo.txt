@@ -2624,7 +2624,7 @@ enjelly
 epithelize
 exothecate
 electrophoretogram
-expansure
+expansure 1
 exturb
 estimated
 eave
