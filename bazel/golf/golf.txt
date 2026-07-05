@@ -2208,7 +2208,7 @@ guberniya
 ganophyllite
 glucolipide
 gossipiness
-gutturalised
+gutturalised 1
 golach
 glucosic
 gravific
