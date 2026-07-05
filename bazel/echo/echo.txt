@@ -9674,7 +9674,7 @@ explicability
 extortionist
 encounterers
 evangelicalism
-eclipsable
+eclipsable 1
 embryotomies
 electrophysiologist
 ectocarpaceae
