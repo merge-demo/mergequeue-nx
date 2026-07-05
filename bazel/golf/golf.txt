@@ -10366,7 +10366,7 @@ gardenly
 gordiid
 gullery
 grasshook
-gingerwort
+gingerwort 1
 grike
 gapingstock
 gullets
