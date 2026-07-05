@@ -120,7 +120,7 @@ forthcome
 flocks
 facilitation
 fluosilicate
-facilitative
+facilitative 1
 fashionist
 federated
 fiat
