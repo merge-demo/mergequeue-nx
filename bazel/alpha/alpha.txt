@@ -7969,7 +7969,7 @@ amelioratory
 alethopteis
 afterword
 acritical
-amatungula
+amatungula 1
 alethopteroid
 archidium
 alethoscope
