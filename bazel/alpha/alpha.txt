@@ -10778,7 +10778,7 @@ antiagglutinating
 aged
 amiantuses
 amyxorrhea
-architis
+architis 1
 amlikar
 amlong
 ammelide
