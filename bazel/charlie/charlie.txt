@@ -15630,7 +15630,7 @@ claudicant
 comebacks
 cochineal
 claudication
-coercend
+coercend 1
 claughted
 chapitle
 cappadochio
