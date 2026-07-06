@@ -345,7 +345,7 @@ facultative
 foresound
 floss
 favourer
-frogleg
+frogleg 1
 flacian
 formulariser
 fawniest
