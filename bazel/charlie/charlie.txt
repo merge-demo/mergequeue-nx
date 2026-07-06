@@ -24950,7 +24950,7 @@ chummiest
 corbicula
 corbiculate 1
 cellulolytic
-campaniform
+campaniform 1
 corbiculum
 corbie
 clupeodei
