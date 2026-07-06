@@ -15021,7 +15021,7 @@ dendroidal
 defeatism
 disarrangements
 dolcissimo
-distrains
+distrains 1
 distinctify
 determ
 doggerel
