@@ -10631,7 +10631,7 @@ diplonema
 deuteric
 detritus
 dunnaged
-diplont
+diplont 1
 delisting
 diplonts
 diplophase
