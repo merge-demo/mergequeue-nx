@@ -1997,7 +1997,7 @@ descloizite
 decadary
 dimethylcarbinol
 depaysee
-demagnify
+demagnify 1
 dynapolis
 dolichocephal
 documentalist
