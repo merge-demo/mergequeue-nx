@@ -22984,7 +22984,7 @@ atrochous 1
 aly
 an
 apocynaceae
-admirative
+admirative 1
 awls
 affectless
 aphonics
