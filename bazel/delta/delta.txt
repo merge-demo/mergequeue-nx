@@ -483,7 +483,7 @@ danaidae
 daledh
 dandelions
 dankali
-depreciatively
+depreciatively 1
 dame
 deveining
 declivous
