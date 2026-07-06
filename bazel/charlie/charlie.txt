@@ -13212,7 +13212,7 @@ cyclically
 cyclicalness
 cyclide
 cubeb 1
-cyclindroid
+cyclindroid 1
 characterized
 cyclings
 cupelled
