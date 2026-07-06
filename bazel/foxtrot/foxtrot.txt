@@ -1733,7 +1733,7 @@ feoffors
 forfare
 foreshore
 floriferous
-freedman
+freedman 1
 foveal 1
 feeded
 forecastlemen
