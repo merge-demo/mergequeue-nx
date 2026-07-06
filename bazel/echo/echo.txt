@@ -8659,7 +8659,7 @@ equinumerally
 equinus
 ethrogs 1
 elfishness
-equipages
+equipages 1
 etherialism
 expositions
 eisenhower
