@@ -5671,7 +5671,7 @@ gies
 glorying
 gobbledegook
 gatemen
-gant
+gant 1
 gothites
 grizzler
 grenat
