@@ -395,7 +395,7 @@ fructuous
 failings
 fittingness
 factors
-flabellate
+flabellate 1
 fallaway
 floozie
 farfara
