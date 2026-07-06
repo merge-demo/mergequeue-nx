@@ -4274,7 +4274,7 @@ electrodispersive
 evertile
 exclusivism
 eptatretus
-emulsion
+emulsion 1
 exemplifiable
 etherene
 esotrope
