@@ -20931,7 +20931,7 @@ compressometer
 compressors
 comprest
 collating
-chambering
+chambering 1
 comprisal
 controllability
 conceives
