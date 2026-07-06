@@ -17986,7 +17986,7 @@ dulce
 disquietedly
 desulphurising
 dulcetly
-debtful
+debtful 1
 digladiation
 dulcets
 discordantly
