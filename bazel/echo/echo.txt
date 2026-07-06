@@ -12583,7 +12583,7 @@ echuca
 eating
 epistolet
 epitheliomas
-eatableness
+eatableness 1
 embezzlement
 exochorion
 enterocolitis
