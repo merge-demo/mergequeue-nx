@@ -23,7 +23,7 @@ gashouse
 geotropic
 gabbro
 gabelleman 1
-grouchy
+grouchy 1
 gainers
 glycic
 grossularious
