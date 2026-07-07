@@ -19294,7 +19294,7 @@ critically
 colonies
 colonisability
 colonisable
-communication
+communication 1
 clinid
 consumingness
 colonisationist
