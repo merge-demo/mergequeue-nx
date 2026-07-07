@@ -10910,7 +10910,7 @@ easternize
 enterokinase
 enfin
 encephalocoele
-epibaterium
+epibaterium 1
 euktolite
 euphory
 enchondrosis
