@@ -19938,7 +19938,7 @@ commandite
 commandless
 cruentate
 cyp
-coruler
+coruler 1
 crepidoma
 commandment
 chronophotographic
