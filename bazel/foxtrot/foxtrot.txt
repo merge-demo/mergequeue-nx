@@ -4805,7 +4805,7 @@ formicated
 foaly
 foreshowed
 facetted
-forfeiting
+forfeiting 1
 fraudful
 flubdubbery
 frontoorbital
