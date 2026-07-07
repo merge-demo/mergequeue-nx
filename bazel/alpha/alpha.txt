@@ -14952,7 +14952,7 @@ academical
 airstrip
 anachronic
 anticommunistically
-anticonductor
+anticonductor 1
 adenographic
 acale
 assassinates
