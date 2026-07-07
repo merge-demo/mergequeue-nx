@@ -2584,7 +2584,7 @@ directrices
 declivent
 derive
 dreamlike
-declivity
+declivity 1
 ducklingship
 deanthropomorphize
 dangled
