@@ -9610,7 +9610,7 @@ cheepiest
 cheepiness
 ceramidium
 cyathozooid
-cubiculary
+cubiculary 1
 contrabandism
 cheered
 cheerfulize
