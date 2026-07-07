@@ -18594,7 +18594,7 @@ coyn
 cosmometry
 coinable
 coinage
-coinages
+coinages 1
 coincide
 corpulently
 coincided
