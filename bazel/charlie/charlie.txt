@@ -30918,7 +30918,7 @@ cooeed
 cultivations
 cultivative
 cultivator
-cultive
+cultive 1
 cultrate
 cultrated
 cyclitol
