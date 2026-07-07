@@ -4262,7 +4262,7 @@ cir
 caressed
 captainries
 caresser
-clobberer
+clobberer 1
 colleens
 caressers
 costively
