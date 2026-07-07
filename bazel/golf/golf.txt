@@ -4196,7 +4196,7 @@ genealogy
 gollar
 gymnorhinal
 gaspergou
-gluttony
+gluttony 1
 gienah
 gene
 graphomania
