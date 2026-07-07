@@ -606,7 +606,7 @@ flosculet
 frazil
 fertility
 faintingly
-festschriften
+festschriften 1
 fluctiferous
 flavorless 1
 fragaria
