@@ -402,7 +402,7 @@ belook
 bacteriorhodopsin
 bwana
 backlit
-betipple
+betipple 1
 bailor
 brigadier
 backlogged
