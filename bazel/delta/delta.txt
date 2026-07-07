@@ -12059,7 +12059,7 @@ discontinuity
 doorlike
 ditheist
 delirant
-demantoid
+demantoid 1
 dijudicated
 disensure
 disentail
