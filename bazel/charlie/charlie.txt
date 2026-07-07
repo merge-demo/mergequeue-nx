@@ -888,7 +888,7 @@ cayuse
 cayuses
 cajan
 capitare
-cajaputs
+cajaputs 1
 cazibi
 cajeput
 climaxes
