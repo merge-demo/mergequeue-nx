@@ -18122,7 +18122,7 @@ blobbier
 bureaucrats
 boll
 ballyrag
-bistouries
+bistouries 1
 birchism
 butcheress
 butchery
