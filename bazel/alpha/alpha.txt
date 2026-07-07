@@ -9048,7 +9048,7 @@ anticheater
 alpid
 arrogantly
 allotter 1
-allottery
+allottery 1
 aigrette
 astrictiveness
 antimilitaristic
