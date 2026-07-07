@@ -16599,7 +16599,7 @@ bubblers
 bullshitting
 brawny
 bubbletop
-banderoled
+banderoled 1
 brisky
 banaba
 bedmakers
