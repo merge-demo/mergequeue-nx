@@ -6142,7 +6142,7 @@ aspartokinase
 actinoneuritis
 astrolabes
 agitato
-aglossia
+aglossia 1
 aglucon
 agminated
 agnails
