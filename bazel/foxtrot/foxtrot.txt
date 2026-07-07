@@ -7909,7 +7909,7 @@ featherworker
 foresee
 faitor
 feeblehearted
-frakturs
+frakturs 1
 foreseeable
 futchel
 footeite
