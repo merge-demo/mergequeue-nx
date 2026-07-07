@@ -10951,7 +10951,7 @@ digressions
 disadvance
 dreamingful
 disadvancing
-disbursals
+disbursals 1
 disadvantageousness
 deminude
 disadvising
