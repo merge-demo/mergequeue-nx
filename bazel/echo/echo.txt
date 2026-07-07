@@ -7362,7 +7362,7 @@ eleut
 eparchies
 eternization 1
 equinoctial
-eparterial
+eparterial 1
 emasculations
 experiencible
 epaulement
