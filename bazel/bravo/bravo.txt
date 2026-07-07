@@ -3949,7 +3949,7 @@ bariums
 batrachospermum
 boreens
 barbeiro
-beaminess
+beaminess 1
 brocatel
 barhal
 bastardizations
