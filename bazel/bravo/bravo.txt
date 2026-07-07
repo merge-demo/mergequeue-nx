@@ -3694,7 +3694,7 @@ bankrupted
 bucketmaker
 bedesmen
 beltis
-batterie
+batterie 1
 breck
 batterman
 bullockman
