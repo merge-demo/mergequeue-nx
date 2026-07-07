@@ -24482,7 +24482,7 @@ creammaking
 copaene
 copaiba
 copaifera
-cupfuls
+cupfuls 1
 clr
 courtliness
 circovarian
