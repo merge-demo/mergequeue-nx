@@ -10044,7 +10044,7 @@ acquaints
 antagonizes
 ambisinister
 amblypodous
-ambit 1
+ambit 2
 apriority
 ambital
 anisole
