@@ -16493,7 +16493,7 @@ borasque
 bruskly
 bimillennium
 bozal
-breathableness
+breathableness 1
 bequote
 biasness
 bursattee
