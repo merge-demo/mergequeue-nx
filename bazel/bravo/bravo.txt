@@ -9461,7 +9461,7 @@ bipunctal
 bores
 barbarian
 birn 1
-byrnie
+byrnie 1
 biotope
 battlefront
 birodo
