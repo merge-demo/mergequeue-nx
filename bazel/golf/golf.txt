@@ -4287,7 +4287,7 @@ guncotton
 gantang
 gruelled
 ghalva
-gomorrhean
+gomorrhean 1
 gesturing
 grumpiness
 graveclothes
