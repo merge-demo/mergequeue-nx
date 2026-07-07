@@ -18195,7 +18195,7 @@ coevolution
 coimplicate
 calumniousness
 cryochoric
-collectiveness
+collectiveness 1
 coexerted
 cheeked
 coexerting
