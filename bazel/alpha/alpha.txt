@@ -24568,7 +24568,7 @@ auxotonic
 annihilator
 auxotox
 auxotroph
-auxotrophy
+auxotrophy 1
 avadana
 absinthiate
 armorist
