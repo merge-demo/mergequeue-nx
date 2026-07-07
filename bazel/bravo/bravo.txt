@@ -12715,7 +12715,7 @@ bareboat
 bryon
 botryoidally
 breadthriders
-bookishness
+bookishness 1
 boxty
 breviate
 barrenwort
