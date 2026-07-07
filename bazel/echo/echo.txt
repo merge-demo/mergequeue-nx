@@ -12059,7 +12059,7 @@ epiclike
 electrostenolytic
 enforcible
 elflike
-exotoxins
+exotoxins 1
 expurgatorial
 embalmed
 excortication
