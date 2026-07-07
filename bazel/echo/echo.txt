@@ -478,7 +478,7 @@ endoconidium
 extorsion
 extrasensorial
 ecclesiastics
-encup
+encup 1
 expenditure
 expositionary
 exodontics
