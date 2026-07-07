@@ -10179,7 +10179,7 @@ ambulator
 ambulatory
 additiment
 aluminas
-affluent
+affluent 1
 apanage
 ambulatories
 ambulatorium
