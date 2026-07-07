@@ -877,7 +877,7 @@ folliculose
 footworks
 florivorous
 feverfews
-fantastication
+fantastication 1
 forold
 flyaways
 faventine
