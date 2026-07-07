@@ -21451,7 +21451,7 @@ arillary
 acaricide
 antirealistic
 anaclasis
-alantol
+alantol 1
 anthelion
 aspergilli
 anatira
