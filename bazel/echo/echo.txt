@@ -3386,7 +3386,7 @@ embannered 1
 emetine 1
 equivokes
 eremopteris
-ethanethiol
+ethanethiol 1
 electrotechnics
 embarge
 espier
