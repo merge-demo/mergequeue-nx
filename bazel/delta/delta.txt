@@ -13122,7 +13122,7 @@ defamer
 dipeptidase
 diocese
 disperple 1
-diadem
+diadem 1
 deflourish
 decurved
 didactive
