@@ -12355,7 +12355,7 @@ cholent
 crack
 chloroanaemia 1
 caudiform
-coroplasty
+coroplasty 1
 carpophyll
 coulters
 chromatium
