@@ -13384,7 +13384,7 @@ cantico
 calindas
 crossarm
 cyclotome
-cyclotomic
+cyclotomic 1
 camisias
 cyclotosaurus
 cyclotrimethylenetrinitramine
