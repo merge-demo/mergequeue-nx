@@ -4631,7 +4631,7 @@ gutium
 gourmandism 1
 gyrodactylidae
 glucagons
-gapa
+gapa 1
 girthing
 gaudeamus
 gyrodactylus
