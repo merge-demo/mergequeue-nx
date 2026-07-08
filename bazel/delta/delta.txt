@@ -18064,7 +18064,7 @@ demihearse
 devoto
 dialectologies
 dulness
-dysphemism
+dysphemism 1
 diabetics 1
 dogskin
 dongs
