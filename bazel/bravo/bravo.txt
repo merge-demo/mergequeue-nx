@@ -4944,7 +4944,7 @@ bouncing
 bitriseptate
 beehive
 boatel
-bandy
+bandy 1
 beek
 balkers
 bioclimatologies
