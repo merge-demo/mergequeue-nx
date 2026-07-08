@@ -643,7 +643,7 @@ damnify
 dearth
 damnificatus
 disoccupation
-debarration
+debarration 1
 depolarizer
 damnifies
 damningly
