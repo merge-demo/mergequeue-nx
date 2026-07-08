@@ -9126,7 +9126,7 @@ erythroxylon
 embouchment
 entotympanic
 ethnoses
-epitela
+epitela 1
 enlargements
 entwining
 endosiphuncle
