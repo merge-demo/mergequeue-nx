@@ -1120,7 +1120,7 @@ battercake
 belonesite
 bairns
 bootful
-berne
+berne 1
 banquets 1
 backwall
 borates
