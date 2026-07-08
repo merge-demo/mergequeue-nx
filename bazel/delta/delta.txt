@@ -4231,7 +4231,7 @@ delphiniums
 dossal
 delphinoidine
 distaffs
-delphocurarine
+delphocurarine 1
 dermatopsy
 decoherer
 dels
