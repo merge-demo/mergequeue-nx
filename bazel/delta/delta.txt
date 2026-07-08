@@ -12442,7 +12442,7 @@ detestability
 discontentful
 dishonors
 decerned
-desulfurate
+desulfurate 1
 dishorn
 discontinue
 douching
