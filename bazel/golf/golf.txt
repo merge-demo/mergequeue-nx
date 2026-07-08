@@ -2941,7 +2941,7 @@ gaeldom
 geocyclic
 gnat
 gorsy 1
-glideless
+glideless 1
 gynaecocracies
 gunfighters
 geocoronium
