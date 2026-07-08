@@ -9769,7 +9769,7 @@ flummoxed
 fastiia
 fascists
 fencers
-frescoed
+frescoed 1
 fraxinella
 fresheners
 freshening
