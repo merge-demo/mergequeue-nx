@@ -25526,7 +25526,7 @@ calibrators
 coronations
 chitchatty 1
 coronel
-chamaerrhine
+chamaerrhine 1
 coronership
 chasidim
 coroneted
