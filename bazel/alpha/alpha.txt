@@ -18100,7 +18100,7 @@ apulian
 artocarpus
 attesters
 apus
-akinesis
+akinesis 1
 ambulia
 antechoir
 articulationes
