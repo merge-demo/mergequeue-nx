@@ -25136,7 +25136,7 @@ apron
 axiomatical
 axiomatically
 affodill
-adept
+adept 1
 axiomatization
 angiomyoma
 antiduke
