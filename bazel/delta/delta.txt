@@ -14219,7 +14219,7 @@ diswere
 decurions
 diswit
 dacryon
-dartingness
+dartingness 1
 dinocerata
 delubrubra
 die
