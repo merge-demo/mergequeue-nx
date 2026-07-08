@@ -20143,7 +20143,7 @@ allolalic
 acanthodini
 arraignment
 aurophobia
-allolalia
+allolalia 1
 atomy
 adenodermia
 arraigns
