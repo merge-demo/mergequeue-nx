@@ -3466,7 +3466,7 @@ epistemologist
 evinces
 eductive
 ethnol
-exceptionableness
+exceptionableness 1
 ensepulchering
 enamels
 enthronement
