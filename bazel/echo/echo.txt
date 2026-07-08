@@ -6206,7 +6206,7 @@ episememe
 entrappingly 1
 entocondyloid
 elision
-ennoblement
+ennoblement 1
 estuant
 ennoblements
 euryhaline
