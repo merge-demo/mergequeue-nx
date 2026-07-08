@@ -6695,7 +6695,7 @@ deshabille
 dinitrophenol
 diplohedron
 downcurved
-desyatin
+desyatin 1
 deaconries
 desicate
 dubonnets
