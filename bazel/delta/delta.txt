@@ -4300,7 +4300,7 @@ delver
 dernful
 disannexation
 demasculinise
-divisors
+divisors 1
 deadening
 dermophytic
 dem
