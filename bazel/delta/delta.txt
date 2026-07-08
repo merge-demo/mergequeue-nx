@@ -9560,7 +9560,7 @@ desmatippus
 disenchantment
 diglottist
 duumvir
-diallists
+diallists 1
 demasculinised
 disgruntled
 dischargers
