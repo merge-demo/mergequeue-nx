@@ -10528,7 +10528,7 @@ gratiola
 gibs 1
 gulix
 grallic
-galeorchis
+galeorchis 1
 gilly
 gadsbodikins
 gonal
