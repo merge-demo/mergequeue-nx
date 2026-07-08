@@ -14485,7 +14485,7 @@ degauss
 diphyzooid
 decapitating
 devitaminize
-drouk
+drouk 1
 decemviri
 duumvirate
 diplomatique 1
