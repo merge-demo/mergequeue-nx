@@ -4880,7 +4880,7 @@ eupepticism
 englished
 eulogizes
 encranial
-encratite
+encratite 1
 expectorator
 electroed
 exportable
