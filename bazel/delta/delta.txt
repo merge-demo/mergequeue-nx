@@ -6592,7 +6592,7 @@ disfiguring
 dearie
 ditched
 desecrations
-devotary
+devotary 1
 dhooti
 dubious
 delimits
