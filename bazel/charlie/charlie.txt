@@ -13892,7 +13892,7 @@ cinnolin
 cynocephalous
 chakazi
 cheerer
-chalicotherioid
+chalicotherioid 1
 cynoclept
 cynocrambaceous
 cynodictis
