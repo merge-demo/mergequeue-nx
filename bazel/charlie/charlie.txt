@@ -11523,7 +11523,7 @@ chalones
 chokers
 chokes
 counteraccusation
-carnaubyl
+carnaubyl 1
 compels
 carbonizer
 chokier
