@@ -24275,7 +24275,7 @@ alliteral
 alters
 asphaltlike
 arylating
-airsickness
+airsickness 1
 aussies
 amphotericin
 autocar 1
