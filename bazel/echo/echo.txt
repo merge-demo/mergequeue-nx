@@ -9789,7 +9789,7 @@ echiuroidea 1
 endarterial
 engrave
 efficiencies
-encouragements
+encouragements 1
 euphrates
 expenthesis
 electroplate
