@@ -987,7 +987,7 @@ callipygian
 calamine
 cervidae
 calamines
-cypseline
+cypseline 1
 confiscating
 cuirie
 calamining
