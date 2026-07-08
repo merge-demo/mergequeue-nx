@@ -2874,7 +2874,7 @@ canopying
 cours
 cyeses
 canopus
-canos
+canos 1
 canossa
 canotier
 canreply
