@@ -10753,7 +10753,7 @@ epicycloidal
 excystation
 extrasystolic
 elderbush
-euphonic
+euphonic 1
 enid
 ephemerae
 enclaret
