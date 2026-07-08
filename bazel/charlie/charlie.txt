@@ -24739,7 +24739,7 @@ cracky
 chernozemic
 carlage
 coprolith
-coprolitic
+coprolitic 1
 coprophagy
 couril
 coprophagist
