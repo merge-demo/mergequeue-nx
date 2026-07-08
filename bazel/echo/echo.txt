@@ -12789,7 +12789,7 @@ explicative
 erotize
 edaphosaurid
 ensembles
-encounterable
+encounterable 1
 emancipative
 exospore
 endrumpf
