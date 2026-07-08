@@ -11119,7 +11119,7 @@ amperian
 amphistomum
 attenuation
 allotypically
-awakings
+awakings 1
 antiorthodoxly
 amperometer
 asswage
