@@ -6959,7 +6959,7 @@ deiphobus
 debussyanize
 dribble
 distomian
-dioptases
+dioptases 1
 dicaryon
 discouragedly
 disentrancement
