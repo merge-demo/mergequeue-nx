@@ -9276,7 +9276,7 @@ externalist 1
 exogamous
 expositional
 ebricty
-entertains
+entertains 1
 euchologia
 eugeosynclinal
 epitaphize 1
