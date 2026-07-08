@@ -7875,7 +7875,7 @@ endaortitis
 endonuclease
 epilimnia
 epigrams
-entozoan
+entozoan 1
 epiguanine
 elementate
 enablement
