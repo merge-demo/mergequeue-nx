@@ -9892,7 +9892,7 @@ argumenta
 agaricic 1
 amassing
 attractile
-abrotin
+abrotin 1
 antheridium
 alfiona
 alascan
