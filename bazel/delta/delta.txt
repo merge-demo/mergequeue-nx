@@ -9587,7 +9587,7 @@ digonal
 digoneutism
 differentness
 divisi
-digoxins
+digoxins 1
 digraphically
 digrediency
 decenaries

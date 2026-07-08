@@ -18933,7 +18933,7 @@ auricle
 archipallium
 appetizingly
 asphyxiated
-abedge
+abedge 1
 archipelagian
 antigens
 autocatheterism
