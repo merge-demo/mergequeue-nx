@@ -2707,7 +2707,7 @@ gestae
 genyophrynidae
 geodesic
 gasolenes
-granularity
+granularity 1
 gingers
 geek
 genip
