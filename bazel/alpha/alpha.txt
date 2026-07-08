@@ -8236,7 +8236,7 @@ abstainment
 aliculae
 advisably
 abrastol
-allot
+allot 1
 alidad
 agammaglobulinemic
 alidads
