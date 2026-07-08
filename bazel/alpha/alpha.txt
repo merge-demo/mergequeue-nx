@@ -608,7 +608,7 @@ antarctic
 aphasic
 alexic
 antelopine
-autoeducative
+autoeducative 1
 arboriform
 abodes
 aboideau
