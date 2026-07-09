@@ -4420,7 +4420,7 @@ expectorations
 enfacing
 ensigncies
 endosmometric 1
-eubacteria
+eubacteria 1
 ecumenist
 elaeis
 ebriously
