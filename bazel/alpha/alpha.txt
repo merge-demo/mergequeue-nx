@@ -8658,7 +8658,7 @@ africanization
 alienee
 archigenesis
 askeses
-australoid
+australoid 1
 alleys
 alephzero
 afrasian 1
