@@ -10538,7 +10538,7 @@ chyliform 1
 chilina
 cordonazo
 citizenhood
-cardon
+cardon 1
 cirsocele
 cymbocephaly
 cicadae
