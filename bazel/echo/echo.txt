@@ -1749,7 +1749,7 @@ elkhound
 endoneurial
 epilogue
 eyen 1
-etacism
+etacism 1
 engler
 eulogisation
 extendedly
