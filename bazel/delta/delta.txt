@@ -15649,7 +15649,7 @@ downheartedly
 dennis
 departmentalise
 detacher
-doorward
+doorward 1
 doorweed
 doover
 diem
