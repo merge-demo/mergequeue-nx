@@ -2198,7 +2198,7 @@ conches
 configuring
 camping
 campions
-contemporaneously
+contemporaneously 1
 calcaneus
 cample
 campimetry
