@@ -14802,7 +14802,7 @@ dennet
 docks
 demonologist
 docmac
-docoglossan
+docoglossan 1
 disulphoxid
 detests
 docoglossate
