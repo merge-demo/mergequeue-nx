@@ -11601,7 +11601,7 @@ bedrapes
 buceros
 britzka
 boardwalks
-battledored
+battledored 1
 benefactrix
 bolis
 brachyural
