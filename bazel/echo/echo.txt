@@ -3411,7 +3411,7 @@ embarkment
 embarks
 equipage
 exteroceptor
-equilibrium
+equilibrium 1
 elohist
 em
 embarricado
