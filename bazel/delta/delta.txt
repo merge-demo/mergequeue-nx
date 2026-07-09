@@ -1104,7 +1104,7 @@ douce
 diphtherial
 defaisance
 denudates
-dentalium
+dentalium 1
 darwinists
 declamations
 denazified
