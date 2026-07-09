@@ -4540,7 +4540,7 @@ arrogance
 amania
 arbutin
 accumulable
-adversities
+adversities 1
 abranchial
 aliptes
 axotomous

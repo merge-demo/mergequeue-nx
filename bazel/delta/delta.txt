@@ -6028,7 +6028,7 @@ daffadowndillies
 dermitis 1
 depe
 differentiative
-darkrooms
+darkrooms 1
 dipyramidal
 dodge
 deputational
