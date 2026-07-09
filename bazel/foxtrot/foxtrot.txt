@@ -2852,7 +2852,7 @@ firmisternal
 fetology
 fibroglia
 forespeed
-furunculosis
+furunculosis 1
 flatwares
 formol
 faddish
