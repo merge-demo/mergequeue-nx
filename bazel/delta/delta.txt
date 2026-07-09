@@ -5601,7 +5601,7 @@ dictyosiphonaceae
 dedecoration
 deprisure
 detering
-diamine
+diamine 1
 dialyzation
 diabolizing
 desmognathae
