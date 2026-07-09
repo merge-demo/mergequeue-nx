@@ -14171,7 +14171,7 @@ circumarticular
 circumaviate
 circumaviator
 cowlike
-circumaxial
+circumaxial 1
 cobles
 circumaxillary
 cymose
