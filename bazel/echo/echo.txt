@@ -10813,7 +10813,7 @@ exequatur
 eighteenth
 exoplasm
 eunuchism
-endoprocta
+endoprocta 1
 everlastingly
 euodic
 entrepots
