@@ -6835,7 +6835,7 @@ decayed
 deceptivity
 discoidal
 desmidiology
-dandyishy
+dandyishy 1
 dethroner
 diorthotic
 dvorak
