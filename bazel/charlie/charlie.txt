@@ -9221,7 +9221,7 @@ chastities
 chockstone
 chasubled
 cooper
-categorize
+categorize 1
 chataka
 chatchka
 croziers 1
