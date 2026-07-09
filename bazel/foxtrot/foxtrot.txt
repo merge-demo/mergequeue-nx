@@ -3017,7 +3017,7 @@ flaggelation
 forbs
 furiousness 1
 fossiform
-faintheartedness
+faintheartedness 1
 filmiform 1
 forma
 fiars
