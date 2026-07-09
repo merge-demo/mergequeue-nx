@@ -711,7 +711,7 @@ galvanically
 glossatorial
 grapholite
 grossify
-gooranut
+gooranut 1
 galvanised
 germanistic
 gawn
