@@ -2719,7 +2719,7 @@ brutalisation
 bogomile
 buoyantly
 branching
-barnumism
+barnumism 1
 bienne
 blitum
 betrothals
