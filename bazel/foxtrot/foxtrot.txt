@@ -11495,7 +11495,7 @@ faddisms 1
 fructuousness
 fashery
 furunculous
-furzeling
+furzeling 1
 furzy
 fastest
 flammable
