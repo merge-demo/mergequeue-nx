@@ -17052,7 +17052,7 @@ dressoir
 disagreeableness
 dryable
 dashedly
-disaggregated
+disaggregated 1
 despume
 dryades
 dryadetum
