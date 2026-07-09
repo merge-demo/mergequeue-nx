@@ -11212,7 +11212,7 @@ achaenodon
 amphictyons
 anisospore
 amphid
-amphophile
+amphophile 1
 amphidiarthrosis
 aryans
 amphidisc
