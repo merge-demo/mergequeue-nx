@@ -17304,7 +17304,7 @@ dubitation
 dronage
 discovenant
 dronepipe
-devaunt
+devaunt 1
 deduct
 devolvement
 dilatability
