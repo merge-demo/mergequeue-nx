@@ -19415,7 +19415,7 @@ astrolog
 argentine 1
 argentineans
 argentinian
-argentino
+argentino 1
 argention
 axonophorous
 antillean
