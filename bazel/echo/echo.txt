@@ -3587,7 +3587,7 @@ embossing
 emulsifications
 embossman
 esophagoplegia
-enchantery
+enchantery 1
 emanent
 edifier
 extracellularly
