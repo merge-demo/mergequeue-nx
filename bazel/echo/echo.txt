@@ -11214,7 +11214,7 @@ endover
 electrotonicity
 experimentalist
 epibolies
-evangeliaries
+evangeliaries 1
 endocycle
 exocrinology
 enkindling
