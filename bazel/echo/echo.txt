@@ -2791,7 +2791,7 @@ elementalistic
 extrathoracic
 estrangements
 elementalize
-ephori
+ephori 1
 elementaloid
 emperil
 essang
