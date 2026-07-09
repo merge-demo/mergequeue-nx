@@ -13643,7 +13643,7 @@ dissyllable
 dialecticism
 dashboard
 dignitarial
-distractedness
+distractedness 1
 dolce
 def
 dissimilars
