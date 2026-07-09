@@ -10840,7 +10840,7 @@ ammonia
 ammoniacs
 aleyard
 acrisius
-artly
+artly 1
 antitrypsin
 ankaramite
 ammoniated
