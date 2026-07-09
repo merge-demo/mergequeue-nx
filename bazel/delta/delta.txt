@@ -7840,7 +7840,7 @@ devour 1
 dorsad
 devourers
 discourseless
-dependently
+dependently 1
 doers
 daylighting
 danziger
