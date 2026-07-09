@@ -3964,7 +3964,7 @@ anesthetic
 adjutator
 adjute
 aqueity
-apologer
+apologer 1
 adjutrice
 ambassage
 ameba
