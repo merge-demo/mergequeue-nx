@@ -4795,7 +4795,7 @@ enclosures
 emprent
 emmenia
 erethic
-eguttulate
+eguttulate 1
 enterotomy
 epiopticon
 excusatory
