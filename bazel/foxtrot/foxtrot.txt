@@ -1058,7 +1058,7 @@ fastigiately
 faro
 fluoridization
 floriken
-floter
+floter 1
 foredestining
 furriery
 farolito
