@@ -9027,7 +9027,7 @@ evertor
 electromyographic 1
 eurychoric
 erythroblastic
-extrafoliaceous
+extrafoliaceous 1
 errancy
 electrocardiographs
 evaginating 1
