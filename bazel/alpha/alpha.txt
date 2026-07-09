@@ -24518,7 +24518,7 @@ ayubite
 auxeses
 altercative 1
 antispreader
-aoristic
+aoristic 1
 ascaron
 auxetic
 adoptability
