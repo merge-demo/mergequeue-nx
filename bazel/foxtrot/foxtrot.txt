@@ -5054,7 +5054,7 @@ flippantly
 flappable
 frankalmoin
 flappet
-fermions
+fermions 1
 figlike
 fishline
 fosses
