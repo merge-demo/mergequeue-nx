@@ -9907,7 +9907,7 @@ fogeater
 fevercup
 fenestrone
 formalin
-formalizes
+formalizes 1
 foretells
 fistfuls
 falconry
