@@ -13317,7 +13317,7 @@ distillate
 destuffing
 daintier
 dustpoint 1
-dispurvey
+dispurvey 1
 disputability
 dolichocephali
 dotters
