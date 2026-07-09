@@ -441,7 +441,7 @@ ecballium
 expugnable
 ecbole
 explained
-ellipsone
+ellipsone 1
 extraembryonal
 emmer
 eremitical
