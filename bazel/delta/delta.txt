@@ -9688,7 +9688,7 @@ defamatory
 doorcase
 dipneusti
 dispense 1
-daphnias
+daphnias 1
 devilward
 ditting
 dungbred
