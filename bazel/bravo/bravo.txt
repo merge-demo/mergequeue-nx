@@ -12378,7 +12378,7 @@ boonk
 backtack
 bombonne
 bombora
-bawls
+bawls 1
 beswarmed
 bombus
 bombardelle
