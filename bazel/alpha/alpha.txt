@@ -18263,7 +18263,7 @@ acquisitum
 adjunct
 awshar
 arability
-arabinic
+arabinic 1
 arabinosic
 arabinoside
 alibility
