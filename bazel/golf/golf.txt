@@ -2946,7 +2946,7 @@ gynaecocracies
 gunfighters
 geocoronium
 genecological
-gyniatry
+gyniatry 1
 goldurnedest
 grazable
 gulph
