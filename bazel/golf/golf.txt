@@ -9240,7 +9240,7 @@ gravigrade
 grahamite 1
 grist
 guanase
-growthiness
+growthiness 1
 glucagon
 gyroceran
 gemeled
