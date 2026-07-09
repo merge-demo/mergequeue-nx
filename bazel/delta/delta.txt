@@ -9668,7 +9668,7 @@ diencephalons
 defiliation
 dillies
 dicerion
-definitive
+definitive 1
 devisee
 dika
 dotage
