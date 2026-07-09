@@ -5278,7 +5278,7 @@ affinities
 affinition
 apostrophe
 affinitive
-affirmable
+affirmable 1
 asiaticism
 affirmably
 aplysia
