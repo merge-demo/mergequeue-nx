@@ -22172,7 +22172,7 @@ chickee
 confusion
 confusions
 confusticate
-clapmatch
+clapmatch 1
 confustication
 confutability
 confutator
