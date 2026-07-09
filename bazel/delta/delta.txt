@@ -6358,7 +6358,7 @@ divorcing
 duras
 dejeune 1
 dermophobe
-duodenum
+duodenum 1
 dermosclerite
 deco
 dermotropic
