@@ -5603,7 +5603,7 @@ deprisure
 detering
 diamine
 dialyzation
-diabolizing
+diabolizing 1
 desmognathae
 deperdite
 diastrophe 1
