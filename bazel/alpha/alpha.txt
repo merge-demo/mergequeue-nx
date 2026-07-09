@@ -23093,7 +23093,7 @@ amitotically
 almirah
 aumoniere
 asyzygetic
-attalea
+attalea 1
 aquafer
 algicidal
 attargul
