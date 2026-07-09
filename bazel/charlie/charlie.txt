@@ -8420,7 +8420,7 @@ cantilena
 commercialized
 cckw
 cultrirostral
-chamfer
+chamfer 1
 cabirean
 chamfers
 chamfrain
