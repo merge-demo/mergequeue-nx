@@ -6872,7 +6872,7 @@ epituberculosis
 ermine
 exults
 epidermoidal 1
-educability
+educability 1
 entomologist
 entomologize
 entrap
