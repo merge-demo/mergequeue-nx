@@ -9736,7 +9736,7 @@ apiology
 arcked
 argentina
 amabel
-atbash
+atbash 1
 amabile
 amable
 anchorer
