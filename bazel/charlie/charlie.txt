@@ -27448,7 +27448,7 @@ centricalness
 coustumier
 combativity
 couters
-coequally
+coequally 1
 coromandel
 coutet 1
 carotids
