@@ -8268,7 +8268,7 @@ elderhood
 ethylin
 escribe
 epopoeia
-epochal
+epochal 1
 enatant
 epistolised
 eure
