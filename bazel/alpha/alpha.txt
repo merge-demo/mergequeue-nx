@@ -24704,7 +24704,7 @@ averruncator
 arteriasis
 avers
 aversant
-averseness
+averseness 1
 adults
 avertable
 arabs
