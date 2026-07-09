@@ -17416,7 +17416,7 @@ apotheosised
 apotheosized
 apothesine
 anteportico
-amercers
+amercers 1
 aeromedical
 apotome
 apyretic
