@@ -5959,7 +5959,7 @@ estmark
 electrotheraputically
 endolemma
 exudence
-erethismic
+erethismic 1
 ettled
 eczema
 enhypostatize
