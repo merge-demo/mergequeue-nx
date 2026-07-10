@@ -14909,7 +14909,7 @@ asseth
 abrosias
 arnoldist
 aburagiri
-ankaratrite
+ankaratrite 1
 ambassadress
 afflictive
 anticlerical
