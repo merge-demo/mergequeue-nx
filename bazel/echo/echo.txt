@@ -10663,7 +10663,7 @@ euergetes
 epimyth
 embryotrophe
 eunuchs
-expediment
+expediment 1
 easeless
 echolocation
 enarbor
