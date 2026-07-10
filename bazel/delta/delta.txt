@@ -17689,7 +17689,7 @@ decarburizing
 discommons
 detacwable
 delsarte
-deputization
+deputization 1
 duarchy
 duarchies
 dhauri
