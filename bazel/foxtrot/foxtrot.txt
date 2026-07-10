@@ -5010,7 +5010,7 @@ freelage 1
 flankers
 foists
 folksier
-fathered
+fathered 1
 flashtester
 faith
 fissive
