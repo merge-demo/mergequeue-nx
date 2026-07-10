@@ -9113,7 +9113,7 @@ charta
 curialities
 chartable
 charter
-charterer
+charterer 1
 charterers
 charterhouse
 chartering
