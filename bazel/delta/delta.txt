@@ -901,7 +901,7 @@ dolorific
 dantology
 dashpots
 dextrin 1
-dewitt
+dewitt 1
 decolourised
 dantophilist
 dinned
