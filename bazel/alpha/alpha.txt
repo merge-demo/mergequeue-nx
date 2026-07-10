@@ -8055,7 +8055,7 @@ alfaqui
 ataraxia
 apatornis
 autonavigator
-antidotical
+antidotical 1
 archcity
 aefaldness
 authentical
