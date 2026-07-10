@@ -22915,7 +22915,7 @@ considers
 chequeen
 calyptra
 consign
-consignatary
+consignatary 1
 consignataries
 counterretreat
 comforting
