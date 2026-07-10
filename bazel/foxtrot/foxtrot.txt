@@ -3298,7 +3298,7 @@ forefeet
 fungilliform
 filopodium
 fiddlestick 1
-frambesia
+frambesia 1
 farsight
 fivescore
 flounces
