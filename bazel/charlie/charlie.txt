@@ -14531,7 +14531,7 @@ campout
 chaptalizing
 cnidophore
 cysted
-cysteinic
+cysteinic 1
 cysteins
 cyclolith
 cystelcosis
