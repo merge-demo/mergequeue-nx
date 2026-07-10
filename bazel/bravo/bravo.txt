@@ -5358,7 +5358,7 @@ bonace
 blueweed
 besoothement
 buyable
-begray
+begray 1
 bromobenzene
 barodynamic
 barbarisation
