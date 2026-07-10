@@ -9337,7 +9337,7 @@ genuflect
 gangtide
 gradines
 geronomite
-glossas
+glossas 1
 goldurn
 glycuronid
 governability

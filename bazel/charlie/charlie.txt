@@ -2244,7 +2244,7 @@ camshafts
 camstane
 coneine
 caval
-camstone
+camstone 1
 canaliculization
 camuning
 cholecystolithotripsy
