@@ -5050,7 +5050,7 @@ altisonous
 ageratums
 alexinic
 aerosolized
-aerostatic
+aerostatic 1
 aerostatical
 argas
 appertain
