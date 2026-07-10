@@ -1717,7 +1717,7 @@ grassquit
 gastrojejunostomy 1
 glaciation
 gloated
-glaucin
+glaucin 1
 gussie
 goblinish
 governmentally
