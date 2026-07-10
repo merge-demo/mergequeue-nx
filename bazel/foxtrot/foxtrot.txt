@@ -4428,7 +4428,7 @@ frenches
 folkmotes
 feulamort
 farand
-forfeit
+forfeit 1
 footpick
 fishily
 fatigues
