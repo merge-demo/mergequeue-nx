@@ -20236,7 +20236,7 @@ carpels
 commonsensically
 commonweals
 catechismal
-commorancies
+commorancies 1
 commorient
 commorse
 costeen
