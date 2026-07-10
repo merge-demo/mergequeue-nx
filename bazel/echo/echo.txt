@@ -5801,7 +5801,7 @@ epigraphy
 expressions
 englobed
 enneahedral
-envelopment
+envelopment 1
 extirp
 englut
 emhpasizing
