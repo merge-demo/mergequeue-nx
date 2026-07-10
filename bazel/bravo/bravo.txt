@@ -2410,7 +2410,7 @@ bardulph
 bruiser
 burgouts
 brachyure
-bare
+bare 1
 bareback
 butterwort
 bummalo
