@@ -7296,7 +7296,7 @@ diaxone
 disturbor
 desiccative
 doukhobor
-devisers
+devisers 1
 defecters
 defecation
 donnie
