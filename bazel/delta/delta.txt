@@ -15236,7 +15236,7 @@ defamers
 dolisie
 dolite
 dolium
-darogha
+darogha 1
 dureful
 distinguishability
 dryest
