@@ -17845,7 +17845,7 @@ abacate
 appraisive
 almique
 appreciated
-appreciatingly
+appreciatingly 1
 appreciativ
 ate
 acleistous
