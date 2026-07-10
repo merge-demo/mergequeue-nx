@@ -8219,7 +8219,7 @@ etwas
 encydlopaedic
 equidominant
 equidistantly 1
-ergophobia
+ergophobia 1
 enisling
 euthenic
 earlobe
