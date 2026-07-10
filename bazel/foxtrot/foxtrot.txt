@@ -8954,7 +8954,7 @@ fountainous
 formularism
 factorize
 foolfishes
-frenchy
+frenchy 1
 frisbee
 fusiformis
 fluminose
