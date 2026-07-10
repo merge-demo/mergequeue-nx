@@ -15827,7 +15827,7 @@ crispest
 cascara
 commis
 cleat
-cleated
+cleated 1
 cleats
 cyclonologist
 cheilitis
