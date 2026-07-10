@@ -12727,7 +12727,7 @@ exopod
 epigraphist
 embus
 exopterygotism
-eurypygae
+eurypygae 1
 epha
 extol
 espressivo
