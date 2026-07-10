@@ -12620,7 +12620,7 @@ disinvagination
 deepfroze
 directs
 dargsman
-decupled
+decupled 1
 derning
 disyoking
 degradational
