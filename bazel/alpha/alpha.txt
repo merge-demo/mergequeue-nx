@@ -23377,7 +23377,7 @@ acrostics
 aggravating
 atropins
 audad
-adoxaceous
+adoxaceous 1
 audads
 audian
 aghanee
