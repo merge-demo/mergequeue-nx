@@ -2510,7 +2510,7 @@ bottonhook
 barguest
 barguests
 buzylene
-baria
+baria 1
 bedouse
 blameful
 bandyman
