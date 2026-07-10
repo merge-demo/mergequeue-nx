@@ -15601,7 +15601,7 @@ antispasmodics
 antinaturalism
 alopeke
 actus
-antinaturally
+antinaturally 1
 avowry
 accessory
 antinegroism
