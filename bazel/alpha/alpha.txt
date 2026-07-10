@@ -17945,7 +17945,7 @@ apprompt 1
 aloud
 appropinquate
 adactyl
-appropinquation
+appropinquation 1
 amalgamation
 ahind
 appropinquity
