@@ -2776,7 +2776,7 @@ aggregata
 amyelencephalia
 acroclinium
 acrodactyla
-acrodont
+acrodont 1
 anarithmia
 argonauta
 accise
