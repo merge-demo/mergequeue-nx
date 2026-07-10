@@ -631,7 +631,7 @@ ecstatics
 eclating
 excitancy
 etymonic
-ellipses
+ellipses 1
 eozoonal
 earful
 excruciatingness
