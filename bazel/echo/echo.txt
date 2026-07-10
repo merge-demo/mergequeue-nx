@@ -8647,7 +8647,7 @@ erelong
 extractor
 enervous
 exceptionable
-expels
+expels 1
 emphyteuta
 elutriating
 emergently
