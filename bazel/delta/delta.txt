@@ -16992,7 +16992,7 @@ displenish
 dregs 1
 defrication
 dampeners
-disemplaned
+disemplaned 1
 dreidels
 dreikanter
 dreynt
