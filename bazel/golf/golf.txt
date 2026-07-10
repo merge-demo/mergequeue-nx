@@ -5769,7 +5769,7 @@ gymnoplast
 gossypose
 gonotheca
 gravemaker
-galera
+galera 1
 galactolysis
 garbel
 gade
