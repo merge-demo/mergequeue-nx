@@ -10603,7 +10603,7 @@ gadidae
 geohydrologist
 gourmetism
 gillion
-glandaceous
+glandaceous 1
 gowned
 goldenmouth
 glossologist
