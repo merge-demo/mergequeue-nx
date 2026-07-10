@@ -17490,7 +17490,7 @@ apparentements
 airify
 anoxyscope
 apparently
-apparitional
+apparitional 1
 aira
 apparitor
 as
