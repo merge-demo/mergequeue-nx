@@ -2829,7 +2829,7 @@ fishhouse
 ferrozirconium
 floodlights
 fideicommiss
-fetichism
+fetichism 1
 fraction
 forebush
 foreadmonish
