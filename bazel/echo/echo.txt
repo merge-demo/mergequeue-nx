@@ -6550,7 +6550,7 @@ entangled 1
 entangledness
 endotrachelitis
 ehlite
-exhauster
+exhauster 1
 enwrapt
 earsore
 epaenetic
