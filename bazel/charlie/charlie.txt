@@ -9774,7 +9774,7 @@ citolas 1
 chelydre
 countenancing
 cyclonical
-crepance
+crepance 1
 chelydroid
 condignness
 chrematistics
