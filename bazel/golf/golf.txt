@@ -2108,7 +2108,7 @@ gimmicky
 giggledom
 grottolike
 gardenia
-gastrostege
+gastrostege 1
 geison
 gawking
 glucinic
