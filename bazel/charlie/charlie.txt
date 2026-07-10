@@ -10827,7 +10827,7 @@ coragio
 chintses
 chintz
 chaperons
-chintze
+chintze 1
 cystal
 chintzy
 califs
