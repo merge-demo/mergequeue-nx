@@ -6960,7 +6960,7 @@ fumigants
 fungivorous
 fadeless
 fendy
-foisting 1
+foisting 2
 feloniously
 firecracker
 frizzler
