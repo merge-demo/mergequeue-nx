@@ -10019,7 +10019,7 @@ dimple
 diplomas
 dimpled
 deputised
-dessertspoonfuls
+dessertspoonfuls 1
 dimplement
 dorosoma
 derelictness
