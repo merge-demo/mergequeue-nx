@@ -9121,7 +9121,7 @@ didelphid
 dhoty
 dispunct
 dichoptic
-dyslexias
+dyslexias 1
 didelphidae
 discursive
 dingdong
