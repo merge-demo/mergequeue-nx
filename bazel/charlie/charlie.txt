@@ -30657,7 +30657,7 @@ cucurbita
 cucurbitaceous
 cucurbite
 clinicist
-compromis
+compromis 1
 champagne
 coequation
 collenchymatic
