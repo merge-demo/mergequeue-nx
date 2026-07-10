@@ -22639,7 +22639,7 @@ connote
 crymotherapy 1
 connoted
 connoting
-connubial
+connubial 1
 connubiality
 craniol
 collectedly
