@@ -25027,7 +25027,7 @@ awned
 angelhood
 awner
 acquires
-antiphonically
+antiphonically 1
 androgynary
 achilary
 akala
