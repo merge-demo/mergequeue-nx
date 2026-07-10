@@ -17867,7 +17867,7 @@ dueled
 deathday
 duelers
 duelist
-duelistic
+duelistic 1
 dolentissimo
 disinfest
 durgan
