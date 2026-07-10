@@ -5394,7 +5394,7 @@ afghans
 archicytula
 aficionada
 aficionadas
-alfridary
+alfridary 1
 antiloemic
 autogiro
 aecia
