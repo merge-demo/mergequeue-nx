@@ -24779,7 +24779,7 @@ cheechakos
 coroscopy 1
 copulae
 copular
-copularium
+copularium 1
 conceivable
 carnel
 carolinas
