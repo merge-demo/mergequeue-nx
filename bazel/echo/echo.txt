@@ -6792,7 +6792,7 @@ ethologic
 evading
 echoized
 entiris
-extinguishing
+extinguishing 1
 exasperate
 embryoniform
 entitatively
