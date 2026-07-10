@@ -5495,7 +5495,7 @@ fiduciarily
 friseurs
 fossed
 fretwork
-forbarred
+forbarred 1
 fratching
 foraged
 fleshy 1
