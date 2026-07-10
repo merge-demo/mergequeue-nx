@@ -4264,7 +4264,7 @@ adenalgia
 appoint
 azophosphore
 aromatophore
-assertative
+assertative 1
 adrenalcortical
 appoggiature
 archesporium
