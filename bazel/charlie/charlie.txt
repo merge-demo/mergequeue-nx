@@ -2327,7 +2327,7 @@ ceremoniously
 canaliculated
 capricorns
 coffining
-coendear
+coendear 1
 corector
 carbostyril
 canaliculus
