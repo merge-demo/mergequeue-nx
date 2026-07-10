@@ -7025,7 +7025,7 @@ feases
 fermentum
 forebodings
 fucation
-fons
+fons 1
 fauxbourdon
 folkloristic
 ferrum
