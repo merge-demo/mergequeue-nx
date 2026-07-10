@@ -7839,7 +7839,7 @@ graphospasm 1
 gerents
 goosander
 grumble
-gimirrai 1
+gimirrai 2
 gurlet
 gasometric
 guttide
