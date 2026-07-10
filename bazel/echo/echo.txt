@@ -11014,7 +11014,7 @@ enquire
 encyclopaedic
 eternalist
 euryprosopic
-excipuliform
+excipuliform 1
 eroses
 exornate
 extravagant
