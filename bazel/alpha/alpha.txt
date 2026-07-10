@@ -22345,7 +22345,7 @@ anhaline
 asperger
 aplanat
 autoreduction
-amplect
+amplect 1
 atmologist
 astrocompass
 astrodiagnosis

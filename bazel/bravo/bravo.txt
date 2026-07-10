@@ -12772,7 +12772,7 @@ bonanza
 bakutu
 bobotee
 brutifying
-bookstall
+bookstall 1
 baudekin
 bookstand
 blemisher
