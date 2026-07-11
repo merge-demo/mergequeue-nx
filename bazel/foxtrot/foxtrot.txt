@@ -6877,7 +6877,7 @@ fibromyxosarcoma
 fidejussory
 footings
 fretways
-finance
+finance 1
 failing
 frustratingly
 flaggings
