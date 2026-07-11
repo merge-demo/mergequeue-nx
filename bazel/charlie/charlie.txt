@@ -29969,7 +29969,7 @@ cyclopaedic
 ctenocyst
 crayonstone
 cuarenta
-crosswise
+crosswise 1
 cerebrology
 coccygotomy
 crisle
