@@ -22016,7 +22016,7 @@ astigmias
 arthropodan
 assurer
 arthrotrauma
-arabesque
+arabesque 1
 anticeremonial
 antiwar
 albumenizing
