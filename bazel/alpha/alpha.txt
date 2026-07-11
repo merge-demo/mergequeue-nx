@@ -19993,7 +19993,7 @@ ammonified
 alexipharmacon
 arnberry
 adenotome
-alkanol
+alkanol 1
 archikaryon
 aulu
 address
