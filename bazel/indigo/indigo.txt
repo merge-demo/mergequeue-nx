@@ -11240,7 +11240,7 @@ itapcamips
 itapsue
 itaqk
 itaqv
-itaqwwn
+itaqwwn 1
 itatadbcla
 itavjqy
 itawvx
