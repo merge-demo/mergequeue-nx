@@ -1687,7 +1687,7 @@ circ
 cestoi
 counterdiscipline 1
 calorifical
-chairs
+chairs 1
 calorification
 cardiograph
 calappa
