@@ -10659,7 +10659,7 @@ gladius
 gyric
 goatsbane
 galp
-gurgoyle
+gurgoyle 1
 glaiketness
 genuflexion
 glottologist
