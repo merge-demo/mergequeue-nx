@@ -31647,7 +31647,7 @@ curvometer
 cheeker
 carduelis
 conscripttion
-curvulate
+curvulate 1
 cuscohygrin
 cuscohygrine
 colures
