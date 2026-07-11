@@ -13525,7 +13525,7 @@ duchesses
 dissuadable
 disseason
 disseat
-disgood
+disgood 1
 diphyodont
 donnism
 datelines
