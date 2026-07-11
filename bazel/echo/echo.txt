@@ -1805,7 +1805,7 @@ enfranch
 eyespots
 epexegetically
 eyewaiter
-eogaea
+eogaea 1
 episepalous
 emanium
 esrogim
