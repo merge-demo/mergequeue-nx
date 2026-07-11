@@ -1484,7 +1484,7 @@ apportionate
 aiguilles
 auricularias
 afoot
-acclivous
+acclivous 1
 accolade
 accolades
 anabo
