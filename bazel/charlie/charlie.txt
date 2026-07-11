@@ -15741,7 +15741,7 @@ clunch
 clawker
 clawless
 chalahs
-claws
+claws 1
 claxon
 cleaded
 corin
