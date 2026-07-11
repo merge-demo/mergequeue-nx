@@ -8592,7 +8592,7 @@ digressionary
 devourer
 daphnioid
 diapirs
-diaplases
+diaplases 1
 disk
 deprived
 dinosaurian
