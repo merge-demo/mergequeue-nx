@@ -14071,7 +14071,7 @@ cleruchial
 circassic
 capivi
 corpuscle
-circe
+circe 1
 circean
 circensian
 circinate
