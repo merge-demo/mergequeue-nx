@@ -20832,7 +20832,7 @@ avouter
 adpao
 allurers
 arupa
-armoried
+armoried 1
 aruspicy
 axilla
 arteriography
