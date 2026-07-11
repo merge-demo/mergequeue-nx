@@ -15431,7 +15431,7 @@ bludgeoner
 bota
 bifurcations
 boxthorns
-battledoring
+battledoring 1
 brilliancies
 bagged
 brilliandeer
