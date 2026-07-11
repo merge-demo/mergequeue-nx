@@ -12889,7 +12889,7 @@ dysmorphophobia
 disquisiting
 dhikrs
 det 1
-deceptible
+deceptible 1
 discepting
 dissatisfies
 dismortgaging
