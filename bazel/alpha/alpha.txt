@@ -20889,7 +20889,7 @@ allergist
 amoebean
 ascare
 almadia
-abuts
+abuts 1
 acetylbenzoate
 aspersing
 asarums
