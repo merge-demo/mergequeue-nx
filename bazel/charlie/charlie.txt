@@ -3112,7 +3112,7 @@ can
 capacitive
 cenotaphies
 cyclophrenia
-cyclopes
+cyclopes 1
 capacitor
 chalker
 catercornerways
