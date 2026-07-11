@@ -22610,7 +22610,7 @@ connies
 conning
 carpostome
 conniptions
-connivance
+connivance 1
 connivancy
 connivantly
 concertanti
