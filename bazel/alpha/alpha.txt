@@ -23475,7 +23475,7 @@ augh
 aughts
 algebraists
 astringer
-augite
+augite 1
 augitophyre
 autotomies
 absolutistic
