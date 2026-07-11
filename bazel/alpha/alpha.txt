@@ -12476,7 +12476,7 @@ anecdotic
 anova
 aluminiform
 aegagropile
-appealed
+appealed 1
 anechoic
 amazed
 adar
