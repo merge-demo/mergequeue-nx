@@ -7647,7 +7647,7 @@ developing
 didelphis
 development
 developmental
-developmentally
+developmentally 1
 decompressions
 decolouring
 disavowment
