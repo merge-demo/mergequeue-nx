@@ -12987,7 +12987,7 @@ alkalisable
 angareeb
 apolitically
 apologist
-angulous
+angulous 1
 aporose
 antepone
 anticomplementary
