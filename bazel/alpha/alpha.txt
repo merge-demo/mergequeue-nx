@@ -18359,7 +18359,7 @@ attitudinarianism
 antiunionist
 araliaceous
 algaroba
-anisometrope
+anisometrope 1
 assembling
 androgynus
 aramaism
