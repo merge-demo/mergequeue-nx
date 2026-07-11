@@ -6298,7 +6298,7 @@ enows
 electrotechnology
 euryscope
 ecclesiastry
-enduring
+enduring 1
 exspoliation
 electroengrave
 embolectomies
