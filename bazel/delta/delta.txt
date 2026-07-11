@@ -7971,7 +7971,7 @@ daphnes
 dedicature
 disincorporation
 drowse
-diagnosticated
+diagnosticated 1
 dorsibranch
 drawpoint
 drunkometer
