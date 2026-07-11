@@ -5974,7 +5974,7 @@ erythrose
 euflavine
 epicondylitis
 expectorates
-enframing 1
+enframing 2
 enigma
 egotism
 enigmas
