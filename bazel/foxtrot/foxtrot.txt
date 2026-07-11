@@ -940,7 +940,7 @@ farandoles
 faxing
 fosterer
 fleecers
-flueric
+flueric 1
 fumidity
 findal
 forcat
