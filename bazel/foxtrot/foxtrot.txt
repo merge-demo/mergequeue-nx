@@ -9754,7 +9754,7 @@ feldspar 1
 functionalities
 frapp
 fallacies
-falchion
+falchion 1
 fessways
 foolhardiest
 fascet
