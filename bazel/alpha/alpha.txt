@@ -17836,7 +17836,7 @@ albizzia
 afteroar
 appaloosas
 amelioratively
-appraises
+appraises 1
 adoptable
 appraising
 autoalkylation
