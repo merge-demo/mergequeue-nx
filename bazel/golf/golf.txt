@@ -507,7 +507,7 @@ geomorphology
 gisement
 gratuity
 geographic
-gruffing
+gruffing 1
 geologers 1
 graff 1
 galivants
