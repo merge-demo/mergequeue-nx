@@ -8088,7 +8088,7 @@ fumer
 flusterated
 forejudged
 forenews
-faunistic
+faunistic 1
 foyboat
 fulminated
 foveolae
