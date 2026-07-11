@@ -8678,7 +8678,7 @@ geotactic
 goosing
 gree
 glean
-gynaecoid
+gynaecoid 1
 glissading
 gismondite
 gutterling
