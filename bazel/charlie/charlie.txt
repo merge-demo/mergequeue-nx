@@ -31663,7 +31663,7 @@ cusecs
 cush
 cushag 1
 collineation
-cushats
+cushats 1
 crinkliness
 cushaws
 caseins
