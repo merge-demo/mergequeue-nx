@@ -13785,7 +13785,7 @@ anoplotherioid
 amid
 arteriopalmus
 anoplura
-amnic
+amnic 1
 assbaa
 acetylenogen
 agrah
