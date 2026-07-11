@@ -5498,7 +5498,7 @@ catabibazon 1
 catabolically
 chickenheartedly
 cabler
-commorancy
+commorancy 1
 catabolin
 catabolism
 catabolite
