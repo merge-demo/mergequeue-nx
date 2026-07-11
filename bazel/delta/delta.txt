@@ -3579,7 +3579,7 @@ defuze
 dolman
 dakoities
 dissociative
-degage
+degage 1
 degames
 deganglionate
 dystome
