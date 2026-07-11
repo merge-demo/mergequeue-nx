@@ -6628,7 +6628,7 @@ gonalgia
 gallinipper
 gradatively
 galanga
-gruntingly
+gruntingly 1
 glassine
 gaed
 goncalo
