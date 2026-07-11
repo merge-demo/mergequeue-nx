@@ -5609,7 +5609,7 @@ catalogical
 carking
 choiceless
 carnality
-catalogist
+catalogist 1
 catalogistic
 conquinamine
 catalogize
