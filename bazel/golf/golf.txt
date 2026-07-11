@@ -2987,7 +2987,7 @@ guayules
 gaolering
 geographies 1
 grievers
-galliardness
+galliardness 1
 geoids
 gloriole
 gendered
