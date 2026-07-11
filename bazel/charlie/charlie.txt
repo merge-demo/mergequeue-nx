@@ -23451,7 +23451,7 @@ contempts
 cygnet
 contemptuous
 contemptuously
-cruelty
+cruelty 1
 cholecystocolotomy
 contended
 contendent
