@@ -2474,7 +2474,7 @@ diplodocus
 dipyre
 decision
 defeatists
-distinctly
+distinctly 1
 decisional
 decisions 1
 decisis
