@@ -9307,7 +9307,7 @@ flappers
 forty 1
 foveae
 figured
-furfurole
+furfurole 1
 forgivingly
 filmstrip
 furlough
