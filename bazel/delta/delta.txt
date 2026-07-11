@@ -17664,7 +17664,7 @@ decare
 desulphurating
 disapprovingly
 dystopia
-demonomancy
+demonomancy 1
 disanimal
 dimerisms
 dualizes
