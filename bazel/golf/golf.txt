@@ -10471,7 +10471,7 @@ guanophore
 gemmaceous
 glossarially
 goatbrush
-gagor
+gagor 1
 gonium
 glutei 1
 graylings
