@@ -18080,7 +18080,7 @@ dulseman 1
 dulwilly
 dirhinous
 desultorious
-devolatilise
+devolatilise 1
 duke
 dumbbell
 dimenhydrinate
