@@ -7428,7 +7428,7 @@ destructibility
 detractions
 detrainment
 detraque
-deathsmen
+deathsmen 1
 detrect
 detrench
 demigentleman
