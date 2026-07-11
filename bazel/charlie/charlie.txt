@@ -10282,7 +10282,7 @@ canthus
 chichicaste
 chontawood
 chichimec
-chichipe
+chichipe 1
 carvyl
 corometer
 charlies
