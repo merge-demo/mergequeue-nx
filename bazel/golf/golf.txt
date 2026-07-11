@@ -9470,7 +9470,7 @@ glaciate
 grumbling
 gaseously
 griffonne
-gabled
+gabled 1
 glandulosity
 genitalial
 glycose
