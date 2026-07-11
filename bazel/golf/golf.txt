@@ -6355,7 +6355,7 @@ geotropism
 goety
 gummage
 gymnolaemata
-gloriosa
+gloriosa 1
 gippo
 gollywobbler 1
 gambelli
