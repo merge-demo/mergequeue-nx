@@ -3125,7 +3125,7 @@ diseaseful
 daubing
 dentated
 dislade 1
-defamed
+defamed 1
 dilogical
 duxes
 disestablisher
