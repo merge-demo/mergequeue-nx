@@ -20151,7 +20151,7 @@ commissive
 commissively
 cinchona
 commissoria
-clypeastroidea
+clypeastroidea 1
 commissure
 confederacy
 chalcidic
