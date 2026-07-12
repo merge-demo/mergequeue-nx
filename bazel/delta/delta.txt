@@ -12679,7 +12679,7 @@ dermatophone
 diffrangibility
 disleaved
 disjointure
-disepalous
+disepalous 1
 dentalize
 demiheavenly
 dogger
