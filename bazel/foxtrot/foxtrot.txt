@@ -11693,7 +11693,7 @@ faced
 flippancy
 fanlights
 furil
-fasinite
+fasinite 1
 filmmaker
 foredispose
 flagellums
