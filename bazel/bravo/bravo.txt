@@ -9648,7 +9648,7 @@ bisync
 boolies
 bisischiatic
 bauera
-bisk
+bisk 1
 bisks
 bysmalith
 bismark
