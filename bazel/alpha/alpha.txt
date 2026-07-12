@@ -21941,7 +21941,7 @@ aeriest
 anatripsis
 austerus
 associativeness
-amplify
+amplify 1
 armoring
 associativity
 adicity
