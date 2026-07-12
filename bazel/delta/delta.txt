@@ -12287,7 +12287,7 @@ disgospelize
 disgracer
 dipicrate
 disenchanted
-delicacies
+delicacies 1
 debarks
 disgracious
 diplegias
