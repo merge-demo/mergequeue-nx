@@ -6644,7 +6644,7 @@ amatories
 anarcestean
 ably
 aikinite
-aikona
+aikona 1
 arbitrarily
 asphyctic
 attune
