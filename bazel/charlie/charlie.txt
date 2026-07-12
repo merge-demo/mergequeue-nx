@@ -9013,7 +9013,7 @@ charlady
 charladies
 criterions
 celestiality
-countergauge
+countergauge 1
 cookings
 charlatanic
 charlatanistic
