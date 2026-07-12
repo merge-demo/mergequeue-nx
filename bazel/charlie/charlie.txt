@@ -22980,7 +22980,7 @@ consocies
 caustified
 consolations
 consolato
-consolator
+consolator 1
 consolatory
 consolatorily
 chartophylax
