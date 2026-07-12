@@ -2818,7 +2818,7 @@ desalinization
 deedbote
 donatory 1
 decretively
-dictionary
+dictionary 1
 discind
 deuteroglobulose
 decretorian
