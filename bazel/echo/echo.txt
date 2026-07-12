@@ -10319,7 +10319,7 @@ energising
 expendable
 excogitating
 equipostile
-epifocal
+epifocal 1
 electuaries
 exosmic
 extemporise
