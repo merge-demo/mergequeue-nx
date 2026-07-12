@@ -9828,7 +9828,7 @@ ethnolinguistic
 enamelware
 elenchtical
 exact
-estrich
+estrich 1
 etagre
 expurgator
 eikon
