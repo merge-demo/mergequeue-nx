@@ -512,7 +512,7 @@ geologers 1
 graff 1
 galivants
 geneticism
-gleamiest
+gleamiest 1
 glissandos
 gustily
 guruship
