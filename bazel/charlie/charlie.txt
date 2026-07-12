@@ -23543,7 +23543,7 @@ californite
 contignation
 contiguity
 circumferent
-continentalize
+continentalize 1
 continentals
 cochranea
 contingence
