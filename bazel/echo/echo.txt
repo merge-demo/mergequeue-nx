@@ -13181,7 +13181,7 @@ episcotister
 expiable
 excubitorium
 entailment
-embroil
+embroil 1
 enties
 expiation
 ensilate
