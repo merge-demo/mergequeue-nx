@@ -5510,7 +5510,7 @@ gerridae
 gloomingly
 garnishment
 gadaria
-gastroparietal
+gastroparietal 1
 gazingly
 garring
 gloams
