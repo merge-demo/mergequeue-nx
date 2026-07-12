@@ -371,7 +371,7 @@ goodhumoredness
 grandeeism
 gynobasic
 gelded
-galangin
+galangin 1
 golundauze
 gavot
 gaoled
