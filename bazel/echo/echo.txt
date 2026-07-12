@@ -1529,7 +1529,7 @@ ettarre
 emmetropism
 egesta
 eggberries
-enfranchising
+enfranchising 1
 eurythermal
 eyeable
 egg
