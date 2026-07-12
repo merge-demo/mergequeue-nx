@@ -3918,7 +3918,7 @@ designating
 discomedusan
 disherits
 dekameters
-decumani
+decumani 1
 dekapode 1
 duo
 dermopathic
