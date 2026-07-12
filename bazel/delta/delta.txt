@@ -14394,7 +14394,7 @@ dolicholus
 divaricator
 divast
 doubtable
-divebomb
+divebomb 1
 dogmatists
 divellent
 downstage
