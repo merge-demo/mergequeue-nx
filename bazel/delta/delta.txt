@@ -996,7 +996,7 @@ drupes
 disavowedly
 dekadarchy
 daringness 1
-dit
+dit 1
 darings
 dithematic
 darius
