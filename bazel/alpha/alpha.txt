@@ -11798,7 +11798,7 @@ anticeremonialism
 altocumulus
 antidysuric
 africanthropus
-aglimmer
+aglimmer 1
 axfetch
 aparavidya 1
 analysers
