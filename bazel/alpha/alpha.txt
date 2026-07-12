@@ -18971,7 +18971,7 @@ architecturalist
 architecture
 anticize
 architypographer
-astringence
+astringence 1
 angiolith
 actinine
 ambagiousness
