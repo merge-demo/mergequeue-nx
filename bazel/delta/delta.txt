@@ -8432,7 +8432,7 @@ deflater
 devide
 deconcentrator
 deported
-deliver
+deliver 1
 dolia
 defiledness
 dreep
