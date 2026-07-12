@@ -11046,7 +11046,7 @@ amorphus
 amort
 amortizable
 algic
-assibilation
+assibilation 1
 abnormalcy
 amortizes
 arecaceae
