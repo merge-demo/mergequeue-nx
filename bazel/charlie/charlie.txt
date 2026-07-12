@@ -3513,7 +3513,7 @@ clamer
 capsulitis
 capsulizing
 cabman
-capsulogenous
+capsulogenous 1
 cataphyllum
 capsulolenticular
 capsulopupillary
