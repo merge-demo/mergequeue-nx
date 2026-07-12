@@ -15041,7 +15041,7 @@ decnet
 drysalteries
 doggers
 dyspnoeas
-dilogarithm
+dilogarithm 1
 dentonasal
 democratized
 doggy
