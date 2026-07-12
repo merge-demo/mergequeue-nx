@@ -5184,7 +5184,7 @@ extrapolate
 electromedical
 endoenzyme
 epitrochoid
-entresol
+entresol 1
 elytrorrhaphy
 earbob
 epicarp
