@@ -9306,7 +9306,7 @@ faulting
 flappers
 forty 1
 foveae
-figured
+figured 1
 furfurole 1
 forgivingly
 filmstrip
