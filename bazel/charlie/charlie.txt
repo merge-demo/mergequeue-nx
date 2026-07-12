@@ -5638,7 +5638,7 @@ catapasm
 caducity
 comprizable
 cataphyll
-correlativism
+correlativism 1
 chlorococcum
 cataphora
 cataphoresis
