@@ -7236,7 +7236,7 @@ alexandrines
 alamonti
 archpillar
 alamort
-alamosite
+alamosite 1
 ardent
 alange
 antigonococcic
