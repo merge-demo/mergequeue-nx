@@ -7852,7 +7852,7 @@ antimonopolist
 affecter
 archimandrite
 accorders
-alecost
+alecost 1
 alectoria
 agroof
 aprosopia
