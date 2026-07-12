@@ -15475,7 +15475,7 @@ donaciform
 donack
 dowsed
 daishiki
-defibrillate
+defibrillate 1
 deduit
 dogless
 donat
