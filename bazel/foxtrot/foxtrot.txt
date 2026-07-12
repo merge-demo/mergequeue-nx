@@ -11426,7 +11426,7 @@ furfuraceously
 fingerlike
 furred 1
 frieze
-frowstiest
+frowstiest 1
 fettering
 forebemoaned
 founte
