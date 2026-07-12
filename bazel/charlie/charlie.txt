@@ -20577,7 +20577,7 @@ cumulous
 compering 1
 compert
 competed
-competent
+competent 1
 competentness
 classmates
 competible
