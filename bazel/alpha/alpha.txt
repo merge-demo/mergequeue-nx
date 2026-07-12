@@ -5578,7 +5578,7 @@ afters
 amphibrach
 allomerism 1
 attentat
-apholate
+apholate 1
 aftershaft
 aftershafted
 acetylcholinic
