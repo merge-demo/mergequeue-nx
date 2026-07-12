@@ -5865,7 +5865,7 @@ crooisite
 catenating
 catenation
 catenative
-capomo
+capomo 1
 compositorial
 catenoid
 catenulate
