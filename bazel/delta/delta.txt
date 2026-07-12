@@ -7402,7 +7402,7 @@ deliriums
 dermacentor
 diadoche
 daric
-detoxicant
+detoxicant 1
 dehorter
 dicyclist
 diadochian
