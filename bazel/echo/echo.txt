@@ -1217,7 +1217,7 @@ educible
 emotionless
 expiates
 epimeric
-encyclopedically
+encyclopedically 1
 eductors
 enterodelous
 excursionists
