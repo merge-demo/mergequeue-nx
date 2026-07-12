@@ -215,7 +215,7 @@ factorials
 fanons
 fatiscence
 forborne
-futurist
+futurist 1
 fenestellidae
 figuline 1
 faire
