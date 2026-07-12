@@ -23913,7 +23913,7 @@ antiozonant
 authigenous
 anodine
 amphithurons
-astrict
+astrict 1
 aurite
 authored
 angas
