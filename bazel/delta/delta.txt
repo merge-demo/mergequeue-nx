@@ -5302,7 +5302,7 @@ dilettanteish
 degressively
 downhearted
 darkener
-dentalia
+dentalia 1
 dentalism
 dodoes
 decultivate
