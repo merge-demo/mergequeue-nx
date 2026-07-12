@@ -544,7 +544,7 @@ epedaphic
 epithelioceptor
 edgy
 enciphered
-exopterygotous
+exopterygotous 1
 enclitically
 echinodermatous
 exquisitely
