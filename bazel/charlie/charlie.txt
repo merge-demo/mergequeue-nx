@@ -9633,7 +9633,7 @@ cheerleader
 caesareanize
 cheerleaders
 clarifies
-cheerleading
+cheerleading 1
 cystorrhaphy
 cyathaspis
 correcting
