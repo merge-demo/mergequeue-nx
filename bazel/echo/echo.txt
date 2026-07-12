@@ -7423,7 +7423,7 @@ errant
 exotic
 eleotrid
 experiencing
-encolumn
+encolumn 1
 etruria
 etalon
 encheat
