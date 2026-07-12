@@ -6690,7 +6690,7 @@ diminutely
 defoliation
 desesperance 1
 desexualized
-desexualizing
+desexualizing 1
 deshabille
 dinitrophenol
 diplohedron
