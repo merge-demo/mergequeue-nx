@@ -5832,7 +5832,7 @@ glissades 1
 greggle
 gather
 gedrite
-golliwog
+golliwog 1
 geocarpic
 gastriloquy 1
 ginglymoarthrodia
