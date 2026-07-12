@@ -25368,7 +25368,7 @@ azothionium
 almoravides
 azotic
 azotize
-adaptative
+adaptative 1
 azotoluene
 azotorrhea
 awarded
