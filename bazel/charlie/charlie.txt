@@ -20826,7 +20826,7 @@ carded
 corbiestep
 cerealism
 concurred
-capacitors
+capacitors 1
 conspissate
 contentedness
 compos
