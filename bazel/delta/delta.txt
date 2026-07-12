@@ -9496,7 +9496,7 @@ domically
 daintrel
 digestment
 dittography
-declinature
+declinature 1
 diastataxic
 debenzolize
 desiliconize
