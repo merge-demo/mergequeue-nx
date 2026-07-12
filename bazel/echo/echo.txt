@@ -2575,7 +2575,7 @@ exploitatively
 enchanters
 etrogs
 electron
-elastins
+elastins 1
 exenteration
 escapeful
 ethchlorvynol
