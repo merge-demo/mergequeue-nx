@@ -31388,7 +31388,7 @@ curio
 curiolofic
 culinarily
 chemotropic
-curiologically
+curiologically 1
 curiologics
 chewable
 colophon
