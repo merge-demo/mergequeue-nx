@@ -14535,7 +14535,7 @@ arizonian
 aphototropic
 alroot
 asheries
-anthropomorphically
+anthropomorphically 1
 avowed
 amphrysian
 anthropomorphidae
