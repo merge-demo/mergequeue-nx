@@ -15532,7 +15532,7 @@ armchaired
 anthracnose
 abstracted
 angelot
-actualized
+actualized 1
 arrack
 antimonarchism
 arianism
