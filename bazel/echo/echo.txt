@@ -2264,7 +2264,7 @@ electress
 excessive
 epitomist
 exla
-electret
+electret 1
 electrets
 esophagogastrostomy
 exploitive
