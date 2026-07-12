@@ -27725,7 +27725,7 @@ compliable
 cowpen 1
 cowper
 complexively
-cosmotheism
+cosmotheism 1
 cowperian
 crouchmas
 cyul
