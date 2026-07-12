@@ -17641,7 +17641,7 @@ acinaces
 appetiser
 atlantad
 alerted
-aviate
+aviate 1
 appetite
 algaroth
 autographist
