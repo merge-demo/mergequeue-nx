@@ -1841,7 +1841,7 @@ douzepers
 downwarp
 declinograph
 dewberry
-doorstead
+doorstead 1
 doughnut 1
 debellator
 darapti
