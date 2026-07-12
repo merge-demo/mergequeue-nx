@@ -10767,7 +10767,7 @@ emer
 endogalvanism
 eucnemidae
 excursions
-exercitant
+exercitant 1
 extemporaneity
 elasticate
 euchloric
