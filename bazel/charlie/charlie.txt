@@ -15220,7 +15220,7 @@ cynomoriaceous
 claith
 clubmen
 clayton
-chinkers
+chinkers 1
 claiver
 crucigerous
 ceromancy
