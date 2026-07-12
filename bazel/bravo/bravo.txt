@@ -10768,7 +10768,7 @@ boatsmen
 blepharadenitis
 blepharanthracosis
 bromaurate
-barkingly
+barkingly 1
 boylike
 brutalise
 blepharism
