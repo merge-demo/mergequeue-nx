@@ -11032,7 +11032,7 @@ chirurgeon
 crimean
 chirurgeonly
 chirurgery
-chis
+chis 1
 chiseled
 curuba
 chiseler
