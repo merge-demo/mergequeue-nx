@@ -75,7 +75,7 @@ facellite
 felonious
 furthers
 flysch 1
-fordeal
+fordeal 1
 fullfaces
 facundity
 facemark
