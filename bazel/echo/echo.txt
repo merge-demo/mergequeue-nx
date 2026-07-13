@@ -3295,7 +3295,7 @@ eperlan
 embattlement
 elapidae
 eremitish
-effeminization
+effeminization 1
 emailed
 equalise
 exhibitively
