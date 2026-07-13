@@ -9148,7 +9148,7 @@ ferriprussic
 fodient
 faired 1
 florulae
-feoffees
+feoffees 1
 flamineous
 frolicked
 fabrications

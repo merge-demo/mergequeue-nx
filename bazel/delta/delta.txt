@@ -7467,7 +7467,7 @@ disulphid
 detruncation
 damneder
 dodgery
-detrusion
+detrusion 1
 detumescence
 dynasticism 1
 deposal
