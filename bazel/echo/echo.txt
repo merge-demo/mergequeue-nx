@@ -5652,7 +5652,7 @@ exiguities
 enforces
 endent
 endocentric
-encouraging
+encouraging 1
 eirene
 epilogation
 enforest
