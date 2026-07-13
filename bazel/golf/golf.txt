@@ -9072,7 +9072,7 @@ greffotome
 glassworking
 glasser
 grimalkin
-genitive
+genitive 1
 gentianwort
 ghast
 grimme
