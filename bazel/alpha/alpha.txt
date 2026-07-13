@@ -14978,7 +14978,7 @@ acidulousness
 alexas
 anathematism
 anticonstitutionally
-amorosity
+amorosity 1
 alcamine
 anticontagionist
 agrin
