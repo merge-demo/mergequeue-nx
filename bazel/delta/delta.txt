@@ -14073,7 +14073,7 @@ divariant
 deservingness
 dittoed
 distributor
-dermal
+dermal 1
 distributorship
 demythify
 distributress 1
