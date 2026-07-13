@@ -27459,7 +27459,7 @@ couthier
 couthless
 couthly
 coutil
-coupleteer
+coupleteer 1
 chemicophysics
 craters
 cidarid 1
