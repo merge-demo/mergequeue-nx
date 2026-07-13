@@ -8855,7 +8855,7 @@ fator
 figeter
 fluidities
 flickers
-fatty
+fatty 1
 ferrotypes
 forebye
 facioscapulohumeral
