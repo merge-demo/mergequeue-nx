@@ -667,7 +667,7 @@ bicorne
 bombo
 bungey
 biannual
-begall
+begall 1
 bronchiolitis
 bathyesthesia
 baculine
