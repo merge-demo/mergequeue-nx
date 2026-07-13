@@ -3218,7 +3218,7 @@ cameleon
 capillitium
 capillose
 caping
-coelelminthes
+coelelminthes 1
 cauli
 centrotus
 counterpoised

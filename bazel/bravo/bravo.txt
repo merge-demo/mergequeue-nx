@@ -6288,7 +6288,7 @@ blockhouses
 blastie
 backgrounds
 bentonite
-bents
+bents 1
 benu
 benumbed
 benumbingly

@@ -7730,7 +7730,7 @@ farcically
 florian
 freeish
 falconlike
-fretty
+fretty 1
 furs
 forsaken
 flamelike
