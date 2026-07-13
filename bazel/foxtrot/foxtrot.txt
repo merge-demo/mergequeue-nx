@@ -10050,7 +10050,7 @@ fibrosis
 fablemonger
 fait
 flabbiest
-feloniously
+feloniously 1
 familistical
 fascinated
 figure
