@@ -9498,7 +9498,7 @@ digestment
 dittography
 declinature
 diastataxic
-debenzolize
+debenzolize 1
 desiliconize
 discussable
 digestor
