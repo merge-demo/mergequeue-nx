@@ -13392,7 +13392,7 @@ ankyloses
 accoll
 antihumbuggist
 archmarshal
-assafetida
+assafetida 1
 ankylostomiasis
 ankylotic
 anklejack
