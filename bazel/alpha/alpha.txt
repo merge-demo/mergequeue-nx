@@ -8928,7 +8928,7 @@ agallochum
 apospory
 anematizing
 aerobiologic
-allomorphism
+allomorphism 1
 allomorphite
 allonym
 alongst
