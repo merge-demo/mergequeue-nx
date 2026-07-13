@@ -4095,7 +4095,7 @@ diphysitism
 delimes
 duskiness
 decreaseless
-delimitated
+delimitated 1
 disanswerable
 daalder
 disconnecter
