@@ -15270,7 +15270,7 @@ clamming
 colpotomies
 clammyweed
 clamored
-clamorer
+clamorer 1
 clamorers
 clamorist
 caccagogue

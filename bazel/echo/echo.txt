@@ -8629,7 +8629,7 @@ egol
 equilibria
 equilibriate
 ergasia
-equilibrious
+equilibrious 1
 extraliminal
 eighteens
 erectly
