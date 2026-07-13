@@ -18199,7 +18199,7 @@ aquifer
 avanturine
 amelu
 actifier
-antispiritualist
+antispiritualist 1
 alcaptonuria
 aquifoliaceous
 aspersor
