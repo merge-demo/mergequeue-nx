@@ -1375,7 +1375,7 @@ fullword
 filicology
 fishboat
 fatly
-floscularia
+floscularia 1
 februation
 formularistic
 foldy
