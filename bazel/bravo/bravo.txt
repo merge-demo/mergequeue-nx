@@ -11403,7 +11403,7 @@ blued
 basisolute
 bluefin
 blaseness
-belonosphaerite 1
+belonosphaerite 2
 barmkin
 bluegrass
 bluffy
