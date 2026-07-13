@@ -9629,7 +9629,7 @@ dupers
 dihydrochloride
 draconin
 duplicable
-devastations
+devastations 1
 decolourizer
 dishonestly
 dollardom
