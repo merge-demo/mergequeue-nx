@@ -3886,7 +3886,7 @@ glazed
 gloweringly 1
 gigahertzes
 galloperdix
-gigaherz
+gigaherz 1
 gymnarchidae
 genips
 gighe
