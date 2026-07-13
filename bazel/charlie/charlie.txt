@@ -26623,7 +26623,7 @@ cozener
 counite
 counsel
 counterpanes
-counselable
+counselable 1
 coronobasilar
 counseled
 champagned
