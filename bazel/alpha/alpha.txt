@@ -14368,7 +14368,7 @@ alleluias
 anthologising
 apothecarcaries
 appellational
-atomize
+atomize 1
 anthomaniac
 akwapim
 amianthium
