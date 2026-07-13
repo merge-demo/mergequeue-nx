@@ -16017,7 +16017,7 @@ clethrionomys
 cleuks
 cephaletron
 caleche
-comprizal
+comprizal 1
 cleve
 cleveite
 confiscatory
