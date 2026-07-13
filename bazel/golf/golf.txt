@@ -10458,7 +10458,7 @@ gyrosyn
 greetings
 grakle
 gummatous
-gneissy
+gneissy 1
 gerrymandered
 geistlich
 gastrolienal
