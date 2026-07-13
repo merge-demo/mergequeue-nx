@@ -6579,7 +6579,7 @@ adjunctive
 afterripening
 arbalestre 1
 apocarpous
-anoraks
+anoraks 1
 acknowledgment
 asperge
 asplanchnic
