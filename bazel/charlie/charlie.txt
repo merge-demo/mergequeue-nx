@@ -22658,7 +22658,7 @@ chebule
 crossgrainedness 1
 counterdecision
 ciderlike
-caseworms
+caseworms 1
 conocarpus
 conocephalum
 conocuneus
