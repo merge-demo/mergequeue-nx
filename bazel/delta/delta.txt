@@ -15681,7 +15681,7 @@ docile
 dunce
 dartrose
 didrachma
-defatted
+defatted 1
 decollator 1
 doric
 dopped
