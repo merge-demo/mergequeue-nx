@@ -18394,7 +18394,7 @@ duogravure
 decelerations
 dauncy
 dingo
-disheveled
+disheveled 1
 demagogy
 duolog
 duologues
