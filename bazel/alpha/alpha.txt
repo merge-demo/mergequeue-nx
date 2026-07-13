@@ -24354,7 +24354,7 @@ accurately
 aneurysmatic
 authorly
 amaroidal
-arises
+arises 1
 autorotation
 acceptor
 ariocarpus
