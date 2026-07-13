@@ -1193,7 +1193,7 @@ guejarite
 gunja
 gutturalize
 galipine
-gorilla
+gorilla 1
 guestless
 gaplessness
 gynandrism
