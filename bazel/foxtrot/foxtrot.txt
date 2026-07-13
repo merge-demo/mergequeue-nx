@@ -10276,7 +10276,7 @@ fibrinolysin 1
 fatheadedness
 falernian
 folkmot
-faultless
+faultless 1
 fromenty
 fromenties
 fogyishness
