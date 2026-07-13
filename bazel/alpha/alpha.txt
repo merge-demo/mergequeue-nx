@@ -19183,7 +19183,7 @@ asexualize
 arctoidean
 arctos
 arctosis
-ager
+ager 1
 acetylasalicylic
 allituric
 arctostaphylos
