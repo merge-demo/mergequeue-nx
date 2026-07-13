@@ -9576,7 +9576,7 @@ granted 1
 gazed
 gynecologist
 galactoscope
-grind
+grind 1
 gnus
 gingersnap
 grovellingly
