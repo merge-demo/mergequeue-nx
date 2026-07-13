@@ -22490,7 +22490,7 @@ asweat
 aristarchy
 asweve
 alchemistic
-aswirl
+aswirl 1
 ammoniacum
 at
 adenohypophysial
