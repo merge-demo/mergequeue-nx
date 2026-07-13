@@ -208,7 +208,7 @@ cohort
 cabresta
 cabrestas
 classicalities
-cabresto
+cabresto 1
 cabrestos
 cabrettas
 cerumniparous
