@@ -6512,7 +6512,7 @@ catalogues
 cavicornia
 cavie
 conversely
-caviya
+caviya 1
 cavyyard
 caviled
 canmaker
