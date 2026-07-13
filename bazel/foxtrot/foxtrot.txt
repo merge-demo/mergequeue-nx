@@ -4010,7 +4010,7 @@ flattish
 forfeited 1
 flunk
 fingerprint
-ferric
+ferric 1
 furazolidone
 fluorosis
 fishery
