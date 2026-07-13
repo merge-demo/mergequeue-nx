@@ -13152,7 +13152,7 @@ borrasca
 borrel
 borreria
 blephariglottis
-bandoliered
+bandoliered 1
 bonanzas
 borrowable
 barocyclonometer
