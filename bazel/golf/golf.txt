@@ -6431,7 +6431,7 @@ glossopteris
 golaseccan 1
 glassman
 gobiesocid
-geostrophic
+geostrophic 1
 gymnocladus
 grows
 gentlemanliness
