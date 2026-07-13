@@ -5695,7 +5695,7 @@ facilitator
 flyovers 1
 flype
 feodaries
-funiculi
+funiculi 1
 forkmen
 federalizing
 fleckiest

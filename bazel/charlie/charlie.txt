@@ -22974,7 +22974,7 @@ consociational
 corniculum
 chili
 cive
-cryptic
+cryptic 1
 compline
 consocies
 caustified
