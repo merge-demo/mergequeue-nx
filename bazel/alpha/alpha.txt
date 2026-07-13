@@ -16813,7 +16813,7 @@ aphanites
 aphra
 aphrodesiac
 abastral
-autotypic
+autotypic 1
 affamish
 antiunion
 aphrodisiacs
