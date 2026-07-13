@@ -6799,7 +6799,7 @@ entitatively
 entitle
 elixed
 evangelistarion
-enculturating
+enculturating 1
 eggheads
 entitling
 ecclesioclastic
