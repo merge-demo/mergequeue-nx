@@ -5731,7 +5731,7 @@ ergotaminine
 engild
 engilding
 empirism
-euphuistical
+euphuistical 1
 exceptionality
 exophthalmic
 engined
