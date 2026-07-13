@@ -11621,7 +11621,7 @@ coed
 crankbird
 configurationism
 cholepoietic
-cooks
+cooks 1
 choler
 cholera
 counterround
