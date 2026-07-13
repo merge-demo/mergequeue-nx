@@ -27607,7 +27607,7 @@ conventicler
 covite
 covolume
 catchpennies
-coarser
+coarser 1
 cognoscitively
 cypressroot
 cow
