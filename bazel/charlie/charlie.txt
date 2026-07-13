@@ -14320,7 +14320,7 @@ condescend
 circumscribed
 collapsed
 circumsession
-circumsinous
+circumsinous 1
 circumsolar
 collow
 cocciferous
