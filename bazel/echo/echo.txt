@@ -3989,7 +3989,7 @@ ecumene
 emparchment
 exaltative
 enruin
-embarrassingly
+embarrassingly 1
 edictum
 empathetic
 enfolded
