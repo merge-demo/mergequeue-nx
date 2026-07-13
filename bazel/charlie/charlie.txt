@@ -15744,7 +15744,7 @@ chalahs
 claws
 claxon
 cleaded
-corin
+corin 1
 chandelled
 cleam
 confectioneries
