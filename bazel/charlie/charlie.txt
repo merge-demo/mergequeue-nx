@@ -6628,7 +6628,7 @@ checkweigher
 cacafugo
 cecidomyiidae
 currieries
-cecilite
+cecilite 1
 cystoureteritis
 contempt
 cecitis
