@@ -13866,7 +13866,7 @@ bulnbuln
 bilious
 birches
 bedrite
-bowing
+bowing 1
 bowings
 bowkail
 barkentine
