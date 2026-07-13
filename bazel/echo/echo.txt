@@ -11314,7 +11314,7 @@ evaporators 1
 ecurie
 englander
 enrank
-entirety
+entirety 1
 eightfold
 eagles
 exalbuminous
