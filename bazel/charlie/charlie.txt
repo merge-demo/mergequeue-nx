@@ -21974,7 +21974,7 @@ confinable
 confine
 comports 1
 confined
-cadging
+cadging 1
 confinedly
 confiners
 confines
