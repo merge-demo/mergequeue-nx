@@ -14253,7 +14253,7 @@ disyokes 1
 dreadnoughts
 dooms
 dithecal
-dither
+dither 1
 deductibles
 dyspnoeic
 diffiding
