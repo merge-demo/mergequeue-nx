@@ -8931,7 +8931,7 @@ aerobiologic
 allomorphism
 allomorphite
 allonym
-alongst
+alongst 1
 allonymous
 allonyms
 allonomous
