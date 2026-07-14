@@ -5567,7 +5567,7 @@ catalexes
 catalexis
 catalin
 curule
-cauponation
+cauponation 1
 coxing
 contentful
 catalinite
