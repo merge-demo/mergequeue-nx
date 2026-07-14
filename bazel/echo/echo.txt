@@ -13799,7 +13799,7 @@ engraftment
 extorts
 ecteron
 esparto
-eukaryote
+eukaryote 1
 endebt
 expurgated
 expressionism
