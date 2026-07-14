@@ -12070,7 +12070,7 @@ epanaleptic
 expediate
 entrainer
 evzone
-esselen
+esselen 1
 enplanes
 epacridaceae
 excrementive
