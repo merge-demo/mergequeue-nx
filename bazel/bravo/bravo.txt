@@ -14083,7 +14083,7 @@ brachygnathism
 blackberries
 barytine
 boarders
-brachygraphical
+brachygraphical 1
 brachyhieric
 bikol
 berlinite
