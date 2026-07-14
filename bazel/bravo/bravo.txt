@@ -3102,7 +3102,7 @@ baculite
 bemixes 1
 blabby
 baseballer
-betraying
+betraying 1
 bucrnia
 bloodcurdler
 benben
