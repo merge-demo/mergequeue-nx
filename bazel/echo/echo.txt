@@ -2277,7 +2277,7 @@ encoach
 ethnarchies
 endothys
 electricize
-emphasizes
+emphasizes 1
 electriferous
 energumen
 epitaphist
