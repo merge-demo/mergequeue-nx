@@ -1147,7 +1147,7 @@ desertic
 dashplate
 dropflower
 depaint
-duracine
+duracine 1
 dasyatis
 daylit
 dire
