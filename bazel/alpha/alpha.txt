@@ -15093,7 +15093,7 @@ aruke
 antidote
 appraise
 agnosias
-antidoted
+antidoted 1
 acraldehyde
 amethyst
 algedonics
