@@ -12922,7 +12922,7 @@ disoccluded
 disoccluding
 deepwatermen
 dairy
-disimprovement
+disimprovement 1
 derencephalus
 deutoplasmic
 dilatableness
