@@ -8986,7 +8986,7 @@ cryptal
 countersignature
 compartment
 charism
-charismata
+charismata 1
 chokecherry
 consuete 1
 charismatic
