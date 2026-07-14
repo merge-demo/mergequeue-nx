@@ -27014,7 +27014,7 @@ counterplead
 corrido
 conformance
 counterplotter
-curatage
+curatage 1
 conjure
 contoid
 chimneypot

@@ -1387,7 +1387,7 @@ electrifier
 epiderma
 erythroxylaceae
 eurasiatic
-exhalent
+exhalent 1
 ennead
 enneastylos
 epeidia 1
