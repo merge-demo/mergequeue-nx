@@ -11254,7 +11254,7 @@ compaternity
 carlin
 chlorimeter
 chlorimetric
-chlorinated
+chlorinated 1
 chlorinating
 curly
 chlorination
