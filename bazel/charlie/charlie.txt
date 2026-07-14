@@ -13949,7 +13949,7 @@ cinquecentist
 coquetries
 crowl
 commemoratory
-cinquefoil
+cinquefoil 1
 corporature
 crackle
 cinquefoiled
