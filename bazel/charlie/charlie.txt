@@ -12857,7 +12857,7 @@ cookers
 churchscot
 churchway
 churchward
-chairmanned
+chairmanned 1
 chemotaxonomist
 cutling
 cathodic
