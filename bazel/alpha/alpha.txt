@@ -1027,7 +1027,7 @@ avulsing
 antiwit
 abstrusity
 adlai
-abstrusities
+abstrusities 1
 angiogenesis
 aphlaston
 absume
