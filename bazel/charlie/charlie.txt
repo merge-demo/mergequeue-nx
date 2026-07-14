@@ -1423,7 +1423,7 @@ caliph
 caliphal
 caliphate
 colt
-cubist
+cubist 1
 caliphship
 contradebt
 calypsist
