@@ -12960,7 +12960,7 @@ cyanid
 collects
 casel
 circumhorizontal
-catamenial
+catamenial 1
 continentality
 cyanides
 cyanidrosis
