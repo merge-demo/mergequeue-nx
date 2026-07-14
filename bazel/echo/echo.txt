@@ -5055,7 +5055,7 @@ entreasure
 encaenia 1
 evens
 endophragmal 1
-equimolal
+equimolal 1
 entomb
 enqueued
 excuses
