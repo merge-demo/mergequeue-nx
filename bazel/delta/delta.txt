@@ -17884,7 +17884,7 @@ deterministically
 durance
 dejectedly
 donate
-duenas
+duenas 1
 duenesses
 discandy
 disserted
