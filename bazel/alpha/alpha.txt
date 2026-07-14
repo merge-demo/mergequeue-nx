@@ -234,7 +234,7 @@ anhungered
 antiritual
 antisensitizer
 abbotric
-allokinesis
+allokinesis 1
 alchemistical
 adipolytic
 ajourise
