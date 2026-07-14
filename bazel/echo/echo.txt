@@ -4979,7 +4979,7 @@ entopical
 epineurial
 enthronise
 exigenter
-entoplastron
+entoplastron 1
 endeavourer
 encouragement
 enstamp
