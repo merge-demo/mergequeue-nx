@@ -5113,7 +5113,7 @@ case
 casease
 concipiency
 caseases 1
-caseated
+caseated 1
 caseation
 casebearer
 collectivity
