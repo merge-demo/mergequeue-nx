@@ -2980,7 +2980,7 @@ fissiparity
 fading 1
 fewterer
 francophil
-fewtrils
+fewtrils 1
 follower 1
 flanned
 freethinker
