@@ -8591,7 +8591,7 @@ egall
 ergatomorph
 equidimensional
 equidist
-exrx
+exrx 1
 essancias
 endophytically
 eyebolts
