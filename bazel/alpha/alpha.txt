@@ -12077,7 +12077,7 @@ airspeed
 anastasimon
 anastasius
 anemosis
-architeuthis
+architeuthis 1
 anastate
 anastatus
 anastigmat
