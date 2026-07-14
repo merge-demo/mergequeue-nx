@@ -30707,7 +30707,7 @@ chuhra
 cudgerie
 cudweed
 czarian
-conrad
+conrad 1
 cudweeds
 counterexplanation
 cudwort
