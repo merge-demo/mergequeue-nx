@@ -4420,7 +4420,7 @@ ceruloplasmin
 cytogenetics
 caryophyllus
 cares
-curite
+curite 1
 cartisane
 cheeks
 concettist
