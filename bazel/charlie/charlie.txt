@@ -19566,7 +19566,7 @@ columbine
 climactic
 chamfrons
 cusp
-crocky
+crocky 1
 copesetic
 columbotantalate
 crepiness
