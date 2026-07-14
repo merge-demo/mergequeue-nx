@@ -5161,7 +5161,7 @@ existentialistic
 enterocoel
 emergencies
 entogenous
-enteroptotic
+enteroptotic 1
 extrudability
 eisell
 exilic
