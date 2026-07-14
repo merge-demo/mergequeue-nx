@@ -15391,7 +15391,7 @@ domiciliate
 domiciliated
 demineralizer 1
 detectivism
-domification
+domification 1
 distoma
 dissemblance
 decempedate
