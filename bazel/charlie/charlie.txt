@@ -31330,7 +31330,7 @@ coadjument
 curers
 clubber
 cures
-compotation
+compotation 1
 curets
 callisthenics
 cinematographers
