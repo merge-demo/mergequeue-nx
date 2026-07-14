@@ -20477,7 +20477,7 @@ auctary
 arterying
 angelin
 autoicous
-alkalous
+alkalous 1
 adusk
 attempter
 agilmente
