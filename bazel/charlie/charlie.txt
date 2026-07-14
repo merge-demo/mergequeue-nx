@@ -5553,7 +5553,7 @@ civilisation
 catagenetic
 catakinetic
 catakinomeric
-corkscrewy
+corkscrewy 1
 catalanganes
 conceptionist
 catalatic
