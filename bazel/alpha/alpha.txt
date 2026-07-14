@@ -19062,7 +19062,7 @@ archpirate
 aviculidae
 adactylism
 alveated
-anticous
+anticous 1
 archplagiarist
 asinine
 airbrick

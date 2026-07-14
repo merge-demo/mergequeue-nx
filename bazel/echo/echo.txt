@@ -7393,7 +7393,7 @@ electrolytical
 ensue 1
 exuviate
 encloses
-exonship
+exonship 1
 epithetical
 extollment
 everywhither
