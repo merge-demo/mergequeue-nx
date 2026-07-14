@@ -11255,7 +11255,7 @@ enthronized
 evangelistic
 epidictical
 exserts
-earthquake
+earthquake 1
 exundate
 ectoloph 1
 entelluses
