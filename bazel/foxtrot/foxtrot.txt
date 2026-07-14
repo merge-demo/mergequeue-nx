@@ -2900,7 +2900,7 @@ fettucini
 fungiferous
 fistulate
 fruitlet
-froglike
+froglike 1
 farsightedly
 flows
 fouettes
