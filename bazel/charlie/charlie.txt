@@ -30198,7 +30198,7 @@ cruciformity
 cruciformly
 crucily
 crucilly
-cruck
+cruck 1
 cyclize
 crud
 canful
