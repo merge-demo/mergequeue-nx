@@ -10338,7 +10338,7 @@ canariote
 chickwit
 chicle
 chicly
-chicness
+chicness 1
 chantries
 chico
 caryocaraceous
