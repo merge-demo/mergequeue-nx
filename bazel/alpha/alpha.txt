@@ -4447,7 +4447,7 @@ australic
 antipuritan
 adust
 adustion
-apsides
+apsides 1
 amang
 aldoxime
 aftmost
