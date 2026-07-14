@@ -11089,7 +11089,7 @@ bimmeler
 blockpate
 bashawship
 balmiest
-beddings
+beddings 1
 bedawn
 bathyal
 blockship
