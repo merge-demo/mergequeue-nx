@@ -12766,7 +12766,7 @@ angiocardiographies
 anileness
 achordate
 angiocarpic
-angiocarpous
+angiocarpous 1
 anaunter
 aubergine
 angiodermatitis
