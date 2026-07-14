@@ -8259,7 +8259,7 @@ dinotherium
 dehortatory
 demegoric
 diiodid
-dubitancy
+dubitancy 1
 deathcup 1
 diploetic
 diagnostician
