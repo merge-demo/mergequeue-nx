@@ -11688,7 +11688,7 @@ forelands
 finikin
 flare
 flyleaves
-fagaceous
+fagaceous 1
 faced
 flippancy
 fanlights
