@@ -3287,7 +3287,7 @@ capitularies
 clathrus
 clankingness
 cosmetiste
-capitularly
+capitularly 1
 capitulars
 colourability
 calcino
