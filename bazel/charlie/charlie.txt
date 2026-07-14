@@ -14979,7 +14979,7 @@ carbonium
 citronalis
 comparison 1
 citronellol
-citronin
+citronin 1
 citrons
 citronwood
 citrullus
