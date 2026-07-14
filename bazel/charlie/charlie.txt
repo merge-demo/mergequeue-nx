@@ -20881,7 +20881,7 @@ clonked
 considerative 1
 compoundedness
 compounder
-comprachico
+comprachico 1
 comprachicos
 comprador
 chirologist

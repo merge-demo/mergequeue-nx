@@ -2244,7 +2244,7 @@ engrailing
 enthraldom
 emotionist
 elysee
-electic
+electic 1
 ethnal
 electioneer
 elaphurine
