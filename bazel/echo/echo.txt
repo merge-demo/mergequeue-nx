@@ -2111,7 +2111,7 @@ enterolysis
 elasmothere 1
 euphoniously
 ebullioscope
-emulge
+emulge 1
 excretory
 elastica
 extrapolator
