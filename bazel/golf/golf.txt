@@ -7980,7 +7980,7 @@ goldenmouthed 1
 gasifiable
 galline
 gainer
-guttee
+guttee 1
 glouts
 goodhap
 galleyman
