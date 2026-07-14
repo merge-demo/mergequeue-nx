@@ -8867,7 +8867,7 @@ dozinesses
 draglines
 dropperful
 dovens 1
-dibstone
+dibstone 1
 degustation
 doziness
 depthwise
