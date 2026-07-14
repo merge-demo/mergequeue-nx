@@ -11273,7 +11273,7 @@ culicid
 chlorize
 cynocephalus
 chesterbed
-ceresin
+ceresin 1
 chlormethane
 chrysidella
 chloroacetone
