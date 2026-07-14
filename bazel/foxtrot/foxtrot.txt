@@ -11462,7 +11462,7 @@ furrowlike 1
 forewish
 furcately
 fissury
-ferntickle
+ferntickle 1
 furrure
 foreglimpse
 fin
