@@ -5132,7 +5132,7 @@ batta
 bogbean
 beguile
 bankers
-batoid
+batoid 1
 bromhidrosis
 ballota
 bloodthirstiness 1
