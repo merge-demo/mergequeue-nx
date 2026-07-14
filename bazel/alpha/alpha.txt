@@ -7775,7 +7775,7 @@ arle
 arsacidan
 aldide
 assibilated
-avianize
+avianize 1
 amability
 alcatras
 aldime
