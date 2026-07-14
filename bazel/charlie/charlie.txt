@@ -22595,7 +22595,7 @@ catawampously
 camelopard
 criminogenic
 cuffed
-coaevals
+coaevals 1
 connexes
 cantabri
 cheesemonger
