@@ -20709,7 +20709,7 @@ commulative
 cyanopsia
 commutating
 chelidonate
-cheloid
+cheloid 1
 cryotron
 carvy
 complexing
