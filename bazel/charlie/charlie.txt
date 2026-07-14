@@ -3722,7 +3722,7 @@ cynoidea
 caratch
 chevaline
 carates
-candor
+candor 1
 changuina
 campanological
 carauna
