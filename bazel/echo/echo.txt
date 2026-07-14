@@ -11394,7 +11394,7 @@ eponymist
 eventime
 entosternite
 eventlessly
-empennages
+empennages 1
 ergamine
 eyebree
 epichoric
