@@ -99,7 +99,7 @@ enumerate
 earpick
 elastician
 earpiece
-enchisel
+enchisel 1
 enmarble
 earreach 1
 engineership
