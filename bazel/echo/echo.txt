@@ -4817,7 +4817,7 @@ executioners
 eventides
 encolour
 excrementitiousness
-encolpia
+encolpia 1
 equilibrator
 entypies
 enduro
