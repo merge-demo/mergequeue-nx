@@ -573,7 +573,7 @@ ciconiiform
 councilors
 convokes
 colloque
-confort
+confort 1
 caduac
 cruiseway
 commilitant
