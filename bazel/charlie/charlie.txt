@@ -29774,7 +29774,7 @@ concessionaires
 coset
 causticize
 criminatory
-crooknosed
+crooknosed 1
 crookshouldered
 crooksided
 cunjevoi
