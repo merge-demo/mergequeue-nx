@@ -12930,7 +12930,7 @@ erasmus
 expatiates
 expatiating
 electable
-esses
+esses 1
 embracery
 erigible
 expatriate
