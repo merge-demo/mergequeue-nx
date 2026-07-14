@@ -5263,7 +5263,7 @@ anticlinal
 anapophysial
 ammonifier
 affine
-anteporch
+anteporch 1
 amidist
 antiatheistically
 affined
