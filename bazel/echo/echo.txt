@@ -9373,7 +9373,7 @@ eulogistic
 esseda
 escalloped
 ethylates
-excerptible
+excerptible 1
 excresce
 escalope
 erlking
