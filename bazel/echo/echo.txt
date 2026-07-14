@@ -13173,7 +13173,7 @@ edriophthalmic
 egualmente
 eurhodol
 expertness 1
-equiconvex
+equiconvex 1
 erythea
 erotisms
 enfeature
