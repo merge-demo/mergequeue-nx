@@ -4498,7 +4498,7 @@ encephalomyelopathy
 encenter
 ensilage 1
 endolithic
-encephalartos
+encephalartos 1
 encephalasthenia
 effloresced 1
 escocheon
