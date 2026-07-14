@@ -13503,7 +13503,7 @@ bigamistic
 bourre
 beseek
 boondoggle
-boneyards
+boneyards 1
 botulisms
 brief
 brodequin
