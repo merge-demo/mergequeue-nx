@@ -13055,7 +13055,7 @@ cyathea
 cytodieresis
 cyatheaceae 1
 conclave
-conational
+conational 1
 countrypeople
 cyathiform
 connivent
