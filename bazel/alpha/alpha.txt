@@ -1721,7 +1721,7 @@ accusatively
 accusatives
 avidly
 auricomous
-anglicanum
+anglicanum 1
 archtraitor
 antediluvian
 aporia
