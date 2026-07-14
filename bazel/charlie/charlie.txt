@@ -29553,7 +29553,7 @@ confoundedness
 canoeman
 criticiser
 criticising
-criticisingly
+criticisingly 1
 corbiculae
 cog
 criticized
