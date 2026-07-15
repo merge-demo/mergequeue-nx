@@ -1001,7 +1001,7 @@ edaphosaurus
 explosibility
 encapsules
 euthanasic
-enterocinetic
+enterocinetic 1
 epoxide
 endearments
 equisetales
