@@ -18769,7 +18769,7 @@ coldong
 cloddishness
 coldproof
 ceras
-curchy
+curchy 1
 controversies
 cleistogamy
 calvinistically
