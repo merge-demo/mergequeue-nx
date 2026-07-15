@@ -6787,7 +6787,7 @@ coadministrator
 churchiness
 celiocolpotomy
 celioelytrotomy
-careeringly
+careeringly 1
 chary
 chancres 1
 chondroskeleton
