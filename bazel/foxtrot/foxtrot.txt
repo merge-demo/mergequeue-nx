@@ -1971,7 +1971,7 @@ fibratus
 functionalize
 frigiferous
 flchette
-flannelette
+flannelette 1
 fireball
 flushed
 fravashi
