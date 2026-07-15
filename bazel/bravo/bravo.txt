@@ -975,7 +975,7 @@ boragineous
 bayal
 bottomed
 bosser
-bukidnon
+bukidnon 1
 becompliment
 brogueful
 boohooed
