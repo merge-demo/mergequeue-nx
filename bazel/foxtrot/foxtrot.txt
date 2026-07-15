@@ -8714,7 +8714,7 @@ favellidium
 fortifiers
 flaxwench 1
 frumpish
-fosset
+fosset 1
 fid
 falsifies
 frisette
