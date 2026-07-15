@@ -7699,7 +7699,7 @@ abaissed
 alcoholometer
 acidic
 apterygial
-averroistic
+averroistic 1
 actualise
 arthrolith
 administrants
