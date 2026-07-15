@@ -7257,7 +7257,7 @@ besully
 borith
 beswarm
 beswelter
-bisque
+bisque 1
 bethuel
 balti
 beguard
