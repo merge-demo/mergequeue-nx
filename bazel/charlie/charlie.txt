@@ -3135,7 +3135,7 @@ capelan
 capelans
 chromid
 capelin
-cornette
+cornette 1
 capeline
 chondrocele
 crocked
