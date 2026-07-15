@@ -11854,7 +11854,7 @@ analogize
 appropriation
 analogon
 antihemorrheidal
-analogous
+analogous 1
 alcoholised
 acroteric
 ailing
