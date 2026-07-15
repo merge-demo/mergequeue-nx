@@ -20959,7 +20959,7 @@ celebes
 compromise
 crowflower 1
 clistothecia
-comminister
+comminister 1
 chessel
 cuticle
 clunisian
