@@ -2728,7 +2728,7 @@ esquamulose
 evaporated
 electrovalent
 electrowinning
-exaggerators
+exaggerators 1
 ediya
 essenianism
 employment
