@@ -13249,7 +13249,7 @@ calking
 comstock
 cyclograph
 cerises
-coadapt
+coadapt 1
 cyclohexadienyl
 cashoos
 crossrow
