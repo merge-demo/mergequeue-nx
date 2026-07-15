@@ -4473,7 +4473,7 @@ encases
 eumenidae
 euryzygous
 electrotechnologist
-exaggerator
+exaggerator 1
 extemporaneousness
 eczematous
 encash
