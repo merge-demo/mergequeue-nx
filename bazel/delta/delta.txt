@@ -13971,7 +13971,7 @@ dystopias
 dolichosaur
 dilantin
 depriving
-dinkies
+dinkies 1
 dildos
 drammach
 dolabra
