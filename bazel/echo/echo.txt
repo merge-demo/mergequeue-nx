@@ -6570,7 +6570,7 @@ entelechies
 entomologic
 engorging
 entendre
-epidermophytosis
+epidermophytosis 1
 extravagating
 exciter
 entente
