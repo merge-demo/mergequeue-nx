@@ -1395,7 +1395,7 @@ epilaryngeal
 effigurate
 eubranchipus 1
 efflagitate
-epitympanic
+epitympanic 1
 eugubium
 embellishes
 emissions
