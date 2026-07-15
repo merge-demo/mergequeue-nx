@@ -7524,7 +7524,7 @@ glottalized 1
 gat 1
 governed
 gotten
-graecizing
+graecizing 1
 governesses
 galvanotonic
 greathead 1
