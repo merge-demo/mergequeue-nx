@@ -5779,7 +5779,7 @@ depoliticizes
 dredged
 dreck
 depones
-deponing
+deponing 1
 distributee
 doodler
 depopulation
