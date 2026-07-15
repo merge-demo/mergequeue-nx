@@ -20522,7 +20522,7 @@ cambalo
 canonlike
 compearant
 crimes
-compeering
+compeering 1
 corinthianesque
 checkerspot
 chromatophorous
