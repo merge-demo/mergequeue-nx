@@ -8037,7 +8037,7 @@ emigating
 epipanies
 endovasculitis
 exsanguious
-euthenist
+euthenist 1
 encoop
 electrodentistry
 epibasal
