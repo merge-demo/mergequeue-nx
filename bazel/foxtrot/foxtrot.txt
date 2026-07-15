@@ -9460,7 +9460,7 @@ fratricelli
 furculum
 fastwalk 1
 fidele
-fraternities
+fraternities 1
 fumarates
 figboy
 fantasm
