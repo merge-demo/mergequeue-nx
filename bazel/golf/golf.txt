@@ -6900,7 +6900,7 @@ gombay
 guglio
 gangliomata
 graftonite
-groundspeed
+groundspeed 1
 greillade
 gooders
 goodheartedness
