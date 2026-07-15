@@ -10179,7 +10179,7 @@ counterstatant
 crease
 cytioderma
 chi
-codworm
+codworm 1
 croisard
 coussinet
 chia
