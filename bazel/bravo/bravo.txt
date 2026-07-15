@@ -9242,7 +9242,7 @@ biangulated
 bubale
 broadsides
 bacterioidal
-bedouinism
+bedouinism 1
 bothersomeness
 balewort
 bracteiform
