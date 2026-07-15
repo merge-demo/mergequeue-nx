@@ -18538,7 +18538,7 @@ differ
 duricrust
 duridine
 durity
-diphthonged
+diphthonged 1
 dekalitre
 durmast
 dirging
