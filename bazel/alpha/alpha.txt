@@ -10468,7 +10468,7 @@ amyatonic
 amic 1
 amicability
 antiadiaphorist
-appredicate
+appredicate 1
 amicably
 amphipodous
 amical
