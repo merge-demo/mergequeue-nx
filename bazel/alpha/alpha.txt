@@ -7061,7 +7061,7 @@ anaphalis
 akehorne
 akela
 alkahestical
-acalephes
+acalephes 1
 adhibited 1
 asporogenous
 arthropathy
