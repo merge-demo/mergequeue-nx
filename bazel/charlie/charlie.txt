@@ -31014,7 +31014,7 @@ cumhal
 countersconce
 citrocola
 coumalin
-cumic
+cumic 1
 campanian
 cumyl
 congos
