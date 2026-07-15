@@ -12412,7 +12412,7 @@ agendums
 addulce
 amberina
 anticomplex
-afflictions
+afflictions 1
 androgynal
 alterity
 arillode
