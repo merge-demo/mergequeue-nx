@@ -1715,7 +1715,7 @@ dextrinate
 deformedness
 deluged
 dornecks
-devastate
+devastate 1
 dumetose
 deasil
 dearness
