@@ -10658,7 +10658,7 @@ antichronism 1
 adenase
 anteromedian
 arborolater
-amylose
+amylose 1
 achree
 africans
 angiotribe
