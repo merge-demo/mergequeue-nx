@@ -1068,7 +1068,7 @@ abuna
 askew
 abundance
 accurtation
-ammoniojarosite
+ammoniojarosite 1
 apparelled
 abundancy
 aluminosis
