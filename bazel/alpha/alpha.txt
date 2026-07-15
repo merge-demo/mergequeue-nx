@@ -447,7 +447,7 @@ awkly
 abiogenetically
 apothems
 anonychia
-abiotic
+abiotic 1
 argentometer
 authorities
 angiotomy
