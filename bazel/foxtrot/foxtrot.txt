@@ -11617,7 +11617,7 @@ forint
 facsimile
 frolicsomely
 fortissimi
-farci
+farci 1
 fibrous
 fylgja
 fosite
