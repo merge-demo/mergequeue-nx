@@ -11413,7 +11413,7 @@ epithelioglandular
 effendi
 epileptogenous
 evergreen
-exsputory
+exsputory 1
 evergreens
 everydayness
 everyhow
