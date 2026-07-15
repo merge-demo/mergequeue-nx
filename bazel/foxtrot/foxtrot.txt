@@ -8046,7 +8046,7 @@ fredricite 1
 fourteenthly
 forestation
 faceup
-fructiculture
+fructiculture 1
 foresteep
 flockmaster
 feyest
