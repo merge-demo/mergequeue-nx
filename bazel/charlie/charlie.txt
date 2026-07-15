@@ -3049,7 +3049,7 @@ chthonophagy
 coistrel
 canulates
 comatic
-canun
+canun 1
 canvas
 chaffinches
 chiasmodon
