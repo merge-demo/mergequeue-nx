@@ -25299,7 +25299,7 @@ agrarians
 acetylrosaniline
 acholuria
 aceta
-antidiphtheric
+antidiphtheric 1
 antithermin
 azofication
 azoformamide
