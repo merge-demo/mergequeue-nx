@@ -5478,7 +5478,7 @@ glirine
 germiculture
 gandhism
 grazings
-glaciating
+glaciating 1
 galet
 gemellus
 guipure
