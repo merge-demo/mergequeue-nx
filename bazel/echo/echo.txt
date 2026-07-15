@@ -2375,7 +2375,7 @@ electroplates
 ecumenical
 emulsifying
 egba
-episteme
+episteme 1
 electrocolloidal
 edulcoration
 exhaustable
