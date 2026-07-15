@@ -2858,7 +2858,7 @@ acronymic
 antiliturgic
 akvavits
 autostylic
-autarchical
+autarchical 1
 agonium
 apium
 abidal 1
