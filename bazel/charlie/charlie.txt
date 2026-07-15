@@ -28193,7 +28193,7 @@ corpulent
 crannage
 caesar 1
 crannel
-crannequin
+crannequin 1
 crannia
 colliquefaction
 crannied
