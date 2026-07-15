@@ -4359,7 +4359,7 @@ adsorbed 1
 adsorbent
 austrogaean
 apparels
-anachronistically
+anachronistically 1
 apoxyomenos
 alcae
 antitheistically
