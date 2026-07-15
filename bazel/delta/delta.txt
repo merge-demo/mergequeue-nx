@@ -15551,7 +15551,7 @@ diascord
 demodulator
 drummers
 donnas
-defeasible
+defeasible 1
 dereligionize
 dittander
 donnerd
