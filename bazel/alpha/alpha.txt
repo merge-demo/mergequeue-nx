@@ -19340,7 +19340,7 @@ alkaliferous
 abluent
 arethusas
 alk
-aretinian
+aretinian 1
 anticoagulating
 ablastous 1
 arew
