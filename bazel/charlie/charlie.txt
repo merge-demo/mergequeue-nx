@@ -18267,7 +18267,7 @@ cadding
 cofferwork
 christology
 coffin
-copper
+copper 1
 coffing
 colpoplastic
 coffinless
