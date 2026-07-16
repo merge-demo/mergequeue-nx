@@ -23756,7 +23756,7 @@ ausform
 amyotrophy
 ausforming
 arrent
-auslaute
+auslaute 1
 auspex
 approvability
 associational
