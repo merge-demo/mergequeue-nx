@@ -20473,7 +20473,7 @@ crownmaker
 compartmentalization
 celliferous
 chappaul
-chrysenic
+chrysenic 1
 compartmented
 centenionalis
 corundum
