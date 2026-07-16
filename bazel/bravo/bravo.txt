@@ -14320,7 +14320,7 @@ blubbing
 barefit
 brahmachari
 blacklist
-brahmana
+brahmana 1
 balloonful 1
 bookboard
 bikini
