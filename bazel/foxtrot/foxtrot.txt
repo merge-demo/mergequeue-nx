@@ -2987,7 +2987,7 @@ freethinker
 ferrels
 fellies
 fezzed
-favosite
+favosite 1
 fluvanna
 fallway
 fadings
