@@ -22550,7 +22550,7 @@ counterbid
 conking
 conn
 connaraceous
-connascency
+connascency 1
 connate
 connately
 connateness
