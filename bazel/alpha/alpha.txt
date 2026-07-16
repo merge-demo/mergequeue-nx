@@ -10279,7 +10279,7 @@ ameliorates
 adenotyphoid
 algins
 allice
-adhort
+adhort 1
 amomales
 ameliorations
 animality
