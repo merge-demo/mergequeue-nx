@@ -13677,7 +13677,7 @@ ergotoxin
 eurygnathic
 exterminatrix
 extraconscious
-edaphosauria
+edaphosauria 1
 externalise
 escarp
 earthing
