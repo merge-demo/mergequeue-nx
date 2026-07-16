@@ -14099,7 +14099,7 @@ extricably
 egbo
 enjoyer
 ericad
-exorcize
+exorcize 1
 eustatically
 enzymically
 extendedness
