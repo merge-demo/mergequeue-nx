@@ -25631,7 +25631,7 @@ cleverness
 corpsman
 corpulences
 coprah
-corpulencies
+corpulencies 1
 consolamentum
 clankum
 corsair
