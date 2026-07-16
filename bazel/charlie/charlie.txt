@@ -18894,7 +18894,7 @@ countermoving
 cornulite
 collabent
 collaborates
-collaborating
+collaborating 1
 celibataire
 collaborationists
 collaborative
