@@ -8947,7 +8947,7 @@ fraternizing
 feverishly
 folktales
 fermental
-faroeish
+faroeish 1
 foldout
 flimsily
 fountainous
