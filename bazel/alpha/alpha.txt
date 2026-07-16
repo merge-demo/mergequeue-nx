@@ -9949,7 +9949,7 @@ addict
 amplitudes
 anatomicopathological
 altoun
-amazer
+amazer 1
 accented 1
 antihelixes
 amazilia
