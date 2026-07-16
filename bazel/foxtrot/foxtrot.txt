@@ -11430,7 +11430,7 @@ frowstiest
 fettering
 forebemoaned
 founte
-fortunetell
+fortunetell 1
 fallibleness
 formfeed
 frizers
