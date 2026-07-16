@@ -6923,7 +6923,7 @@ fideicommission
 formeret
 filibusterous
 freeway
-finely
+finely 1
 foll
 facia
 fedarie
