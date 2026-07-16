@@ -13368,7 +13368,7 @@ appurtenance 1
 anywhither
 anywither
 anhalonium
-areolar
+areolar 1
 androgenic
 arcosolium
 adscripts
