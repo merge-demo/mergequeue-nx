@@ -2427,7 +2427,7 @@ corroborators
 convenes
 chastize
 cancerigenic
-catechol
+catechol 1
 cancerism
 cystidiums
 conemaking
