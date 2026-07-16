@@ -1721,7 +1721,7 @@ deasil
 dearness
 deaspirate
 dispensations
-decostate
+decostate 1
 defensibility
 deaspiration
 degree
