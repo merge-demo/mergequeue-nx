@@ -11152,7 +11152,7 @@ discomforted
 dissaves
 despect
 dishabituating
-dyslectic
+dyslectic 1
 doeg
 decciare
 danite
