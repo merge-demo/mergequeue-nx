@@ -1015,7 +1015,7 @@ foglietto
 fascicles
 filmgoing
 flexuose
-flatlong
+flatlong 1
 fumosity
 feverweed
 fretful
