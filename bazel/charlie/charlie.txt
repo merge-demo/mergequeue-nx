@@ -28681,7 +28681,7 @@ constitutes
 corone
 crenelations
 coplanar
-convergently
+convergently 1
 cannophori
 crenelee
 crenellated

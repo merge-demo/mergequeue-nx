@@ -5553,7 +5553,7 @@ departmentalized
 deuteronomy
 debilitate
 dorper
-departmentally
+departmentally 1
 discomfits
 depancreatize
 drawrod
