@@ -7216,7 +7216,7 @@ confiture
 codebreak
 chymous
 centripetence
-centriscid
+centriscid 1
 clarine
 centriscidae
 cups
