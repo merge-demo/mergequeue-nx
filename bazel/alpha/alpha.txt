@@ -3754,7 +3754,7 @@ adhered
 adherency
 addiment
 aquashow
-adherent
+adherent 1
 adherents
 archetypally
 adherers
