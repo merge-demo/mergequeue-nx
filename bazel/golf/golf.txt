@@ -1875,7 +1875,7 @@ gawkihood
 grecizing
 gossip
 gyrostabilized
-gleir
+gleir 1
 graptolithina
 graveled
 gambles
