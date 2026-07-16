@@ -4426,7 +4426,7 @@ elaeis
 ebriously
 encapsulation
 emitted
-encapsuled
+encapsuled 1
 enure
 effectively
 encapsuling
