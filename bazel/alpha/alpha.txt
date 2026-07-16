@@ -5691,7 +5691,7 @@ afunction
 aquafortist
 agalma
 ardea
-apocopating
+apocopating 1
 antechurch
 ajax
 angulatosinuous
