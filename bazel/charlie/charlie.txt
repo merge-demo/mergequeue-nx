@@ -16028,7 +16028,7 @@ cleverish
 clevis
 columbous
 codicilic
-caridea
+caridea 1
 capillariness
 cyanins
 contrastimulus
