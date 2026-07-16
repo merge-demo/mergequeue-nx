@@ -19538,7 +19538,7 @@ choanocytal
 colugo
 canaliculi
 cheerfullest
-cannelated
+cannelated 1
 columbaceous
 columban
 czar
