@@ -16672,7 +16672,7 @@ buckboards
 bailpiece 1
 bloodspiller
 busker
-banalness
+banalness 1
 brassidic
 blocage
 banquetings
