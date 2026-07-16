@@ -7511,7 +7511,7 @@ drosera
 decocainize
 deutencephalon
 dumfounding
-dehgan
+dehgan 1
 deuteranomaly
 deuteranope
 deuterate
