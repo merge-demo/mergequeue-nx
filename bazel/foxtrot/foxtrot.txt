@@ -8118,7 +8118,7 @@ foretaster
 forefin
 foretasting
 fretsaw
-falisci
+falisci 1
 forewrought
 fractionate
 fanaticalness
