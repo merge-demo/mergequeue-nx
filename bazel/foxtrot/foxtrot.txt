@@ -11502,7 +11502,7 @@ flammable
 flouncy
 fluently
 fusariose
-fanfold
+fanfold 1
 forgettingly
 fusariosis
 flypasts
