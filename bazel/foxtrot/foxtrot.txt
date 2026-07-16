@@ -4733,7 +4733,7 @@ ferrugineous
 flabella
 frises
 facy 1
-factice
+factice 1
 frederic
 fricatrice
 fumers 1
