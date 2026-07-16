@@ -2884,7 +2884,7 @@ coddled
 canso
 coetaneity
 cansos
-chartophylaxes
+chartophylaxes 1
 congenialize
 cant
 connectionless
