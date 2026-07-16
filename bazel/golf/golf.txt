@@ -1276,7 +1276,7 @@ gavall
 goethites
 gratten
 gromatical
-gyrator
+gyrator 1
 galium
 glyphographer
 gumpus
