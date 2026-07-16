@@ -5031,7 +5031,7 @@ denarinarii
 deluder
 dropshots
 denaro
-dawdy
+dawdy 1
 dejectedness
 denasalize
 disconsolateness
