@@ -7092,7 +7092,7 @@ fusional
 fingerstall
 forgeability
 fungicide
-foolproof
+foolproof 1
 foolproofness
 ferret
 fibulare
