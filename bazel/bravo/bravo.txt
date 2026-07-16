@@ -4606,7 +4606,7 @@ bedchair
 butterine
 bedchairs
 buffers
-bellowing
+bellowing 1
 buntal
 brachelytrous
 blader
