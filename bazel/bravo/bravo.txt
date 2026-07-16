@@ -12070,7 +12070,7 @@ bulbilla 1
 boites
 baltetei
 balladier
-bojo
+bojo 1
 bokhara
 baronized
 boronic
