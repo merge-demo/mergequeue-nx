@@ -3609,7 +3609,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
-choosable
+choosable 1
 caraboa
 caaba
 cinques
