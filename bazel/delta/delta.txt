@@ -2660,7 +2660,7 @@ dozers
 deepens
 discernably
 decompensating
-delinquents
+delinquents 1
 decenniad
 decompensations
 dasylirion
