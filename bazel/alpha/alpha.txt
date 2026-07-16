@@ -13272,7 +13272,7 @@ anisocytosis
 aval
 apograph
 allwhere
-appetit
+appetit 1
 anisocotyledonous
 anisodactyla
 anonol
