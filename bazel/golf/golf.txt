@@ -9966,7 +9966,7 @@ glyptic
 googols
 gipsyfy 1
 galvayned
-goldi
+goldi 1
 greisen
 gozell
 gomorrean
