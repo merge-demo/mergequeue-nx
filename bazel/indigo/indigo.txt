@@ -11889,7 +11889,7 @@ iufp
 iufplq
 iufpqc
 iufq
-iufqyf
+iufqyf 1
 iufr
 iufrnjoz
 iufrqq
