@@ -9532,7 +9532,7 @@ checkpointed
 chemitypies
 checkpointing
 combmaking
-checkpoints
+checkpoints 1
 commonize
 cogitative
 checkrack
