@@ -10480,7 +10480,7 @@ erectilities
 etiquettical
 explicable
 etna
-effortful
+effortful 1
 etoile
 etrenne
 exsurgent
