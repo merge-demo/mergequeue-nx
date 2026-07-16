@@ -13906,7 +13906,7 @@ extrameridional
 extrametrical
 eccl
 extramission
-erythrism
+erythrism 1
 expiscated
 eruditeness
 eliminatory
