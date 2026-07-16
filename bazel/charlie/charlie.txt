@@ -6215,7 +6215,7 @@ calycophorae 1
 caudatory
 clergies
 corbel
-corticifugal
+corticifugal 1
 caudebeck
 caudex
 caudices
