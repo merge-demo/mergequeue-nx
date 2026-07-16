@@ -10004,7 +10004,7 @@ felid
 frilliness
 fen
 florid
-frilling
+frilling 1
 flee
 flatwork
 fantod
