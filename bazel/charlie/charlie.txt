@@ -25997,7 +25997,7 @@ creatorrhea
 cranioscopical
 contextual
 clumbers
-coseasonal
+coseasonal 1
 chelidonian
 cryptomeria
 coseat
