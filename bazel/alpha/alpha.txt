@@ -9089,7 +9089,7 @@ adolesce
 artabe
 appeasive
 allspice
-angulosity
+angulosity 1
 anticatalase
 antiblock
 anticommunistical
