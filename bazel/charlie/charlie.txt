@@ -28855,7 +28855,7 @@ cabana
 cadastre
 chickweeds
 cretinic
-cretinistic
+cretinistic 1
 chollers
 consignified
 chorti
