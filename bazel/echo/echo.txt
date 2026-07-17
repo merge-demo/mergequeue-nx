@@ -655,7 +655,7 @@ establishmentism
 ebriety 1
 ennoble
 evilness
-exprobration
+exprobration 1
 extimulate
 epigonos
 enshrouding
