@@ -15903,7 +15903,7 @@ centibar
 carpogonia
 clemencies
 confederationism
-clement
+clement 1
 clementina
 clemently
 clementness
