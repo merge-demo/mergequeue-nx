@@ -4933,7 +4933,7 @@ decrescence
 daktylon
 duskily
 demophilism
-disqualified
+disqualified 1
 demophobia
 decolonise
 damnableness
