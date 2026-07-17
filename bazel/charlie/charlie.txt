@@ -6172,7 +6172,7 @@ correlativeness
 crosstied
 circumjacencies
 ceraunoscope
-cupolas
+cupolas 1
 catwalk 1
 conqueringly
 chancier
