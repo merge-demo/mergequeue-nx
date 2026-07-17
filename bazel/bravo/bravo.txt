@@ -8028,7 +8028,7 @@ biconvexity
 brawned
 ballerine
 browband
-bicorn
+bicorn 1
 bourrelet
 blanque
 boatman
