@@ -2958,7 +2958,7 @@ artiness
 antijam
 acting
 actiniae
-amphiprotic
+amphiprotic 1
 appalment
 amplexifoliate
 automatize
