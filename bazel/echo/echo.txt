@@ -8134,7 +8134,7 @@ ell
 episcopacy
 expensilation
 ensanguined
-enaction
+enaction 1
 enkolpia
 enseel
 extratabular
