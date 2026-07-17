@@ -10092,7 +10092,7 @@ astral
 antasthmatic 1
 amblystegite
 autodialer
-amblotic
+amblotic 1
 apostrophizing
 anythings
 ambo
