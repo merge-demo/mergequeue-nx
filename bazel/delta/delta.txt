@@ -1813,7 +1813,7 @@ diffusely
 desmothoraca 1
 debases
 duyker 1
-doggoned
+doggoned 1
 daggerlike
 debate
 disemboguing
