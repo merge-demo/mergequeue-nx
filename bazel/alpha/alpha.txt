@@ -4653,7 +4653,7 @@ autem
 aedile
 adject
 aediles
-aknee
+aknee 1
 airbursts
 aedileship
 anthropomorphitism
