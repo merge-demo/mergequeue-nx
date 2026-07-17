@@ -15502,7 +15502,7 @@ clarsech
 clarseth
 chemotaxonomically
 clart
-clarty
+clarty 1
 clartier
 caries
 clartiest
