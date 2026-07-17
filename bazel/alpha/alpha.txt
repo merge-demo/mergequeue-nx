@@ -19922,7 +19922,7 @@ albescence
 adenofibrosis
 anagnorisis
 apperceived
-animalculism
+animalculism 1
 astrocytomata
 arterialized
 anemochoric
