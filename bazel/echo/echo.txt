@@ -5838,7 +5838,7 @@ evade
 emulatory
 efficace
 electrovalency
-exfoliation
+exfoliation 1
 erlkings
 epicele
 expiations
