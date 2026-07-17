@@ -4809,7 +4809,7 @@ carbodiimide
 carport
 carpos
 chibouk
-carposporangial
+carposporangial 1
 catalase
 carlist
 carposporous
