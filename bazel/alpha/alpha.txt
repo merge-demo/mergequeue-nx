@@ -24403,7 +24403,7 @@ avouches
 almistry
 azlactone
 arces
-altruistic
+altruistic 1
 autosomal
 arbalo
 autosomes
