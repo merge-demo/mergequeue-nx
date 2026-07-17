@@ -2645,7 +2645,7 @@ freshes
 fluocerite
 frumpling
 ferrumination
-fluviatic
+fluviatic 1
 fraters
 feedings
 felspathic
