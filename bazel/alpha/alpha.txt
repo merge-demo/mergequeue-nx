@@ -21600,7 +21600,7 @@ automolite
 alkyl
 allegement
 antiphonaries
-angary
+angary 1
 allegorist
 asporogenic
 aphronia
