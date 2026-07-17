@@ -3664,7 +3664,7 @@ diploic
 deprogrammer
 dioestrous
 depreciators
-dunt
+dunt 1
 deglutition
 deglutitious
 degold
