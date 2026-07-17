@@ -13291,7 +13291,7 @@ botanica
 bandoleered
 bacteriologically
 bradykinesis
-bivaulted
+bivaulted 1
 botanically
 botanics
 bridechamber
