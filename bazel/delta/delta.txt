@@ -14243,7 +14243,7 @@ diluendo 1
 ditchless
 ditchwater
 downdraft
-delightingly
+delightingly 1
 downplaying
 descamisados
 diter
