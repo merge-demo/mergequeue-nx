@@ -5402,7 +5402,7 @@ goodtemperedness
 glimmer
 graphometry
 groundswell
-generall
+generall 1
 glucosid
 gutwise
 glycaemic
