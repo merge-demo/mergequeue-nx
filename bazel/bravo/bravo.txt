@@ -13869,7 +13869,7 @@ bedrite
 bowing
 bowings
 bowkail
-barkentine
+barkentine 1
 blad
 bowlder
 bluefishes
