@@ -12629,7 +12629,7 @@ expostulates
 ecclesiasticalness 1
 exoculation
 exoderm
-elohistic
+elohistic 1
 electrophore
 eranthemum
 extramurally
