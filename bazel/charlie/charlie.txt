@@ -27320,7 +27320,7 @@ chemicking
 comodo
 circumciser
 coupstick
-coupure
+coupure 1
 courage
 courageous
 courager
