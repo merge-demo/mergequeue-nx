@@ -10566,7 +10566,7 @@ diplococcemia
 disleaf
 davach
 dermatomycosis
-digammate
+digammate 1
 dashiki
 denote
 dislikes
