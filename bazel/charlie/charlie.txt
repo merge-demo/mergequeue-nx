@@ -25771,7 +25771,7 @@ corroboratively
 corroborator
 chrism
 cathedratically
-corroboratory
+corroboratory 1
 cornulites
 corroboratorily
 collectional
