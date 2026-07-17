@@ -12334,7 +12334,7 @@ decametre
 daff
 dracontites
 disemployed
-dinos
+dinos 1
 dragonne
 disgustfulness
 disgustingly
