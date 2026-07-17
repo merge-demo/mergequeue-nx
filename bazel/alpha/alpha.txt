@@ -17414,7 +17414,7 @@ antiattrition
 autocratically
 apotheosised
 apotheosized
-apothesine
+apothesine 1
 anteportico
 amercers
 aeromedical
