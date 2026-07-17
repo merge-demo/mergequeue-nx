@@ -1820,7 +1820,7 @@ eroding
 encroached
 egotheism
 epithalamy
-ergatogyny
+ergatogyny 1
 ectepicondylar 1
 elbow
 exopodite 1
