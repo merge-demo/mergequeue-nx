@@ -7573,7 +7573,7 @@ discreetness
 depoliticize
 dilute
 djellaba
-deuton
+deuton 1
 deutonymph
 danli
 distingu
