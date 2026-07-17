@@ -13819,7 +13819,7 @@ effervescingly
 electrophilic
 earworm 1
 extracystic
-equiarticulate
+equiarticulate 1
 entomolite
 extracivic
 energeticist
