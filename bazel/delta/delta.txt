@@ -5896,7 +5896,7 @@ depredatory
 deontic
 disembargoed
 deodars
-diablene
+diablene 1
 duffy
 duplicity 1
 deprehend
