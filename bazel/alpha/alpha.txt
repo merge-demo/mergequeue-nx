@@ -9146,7 +9146,7 @@ andesytes
 agrising
 alman
 adenovirus
-almander
+almander 1
 aeginetic
 almandines
 agalactous
