@@ -14033,7 +14033,7 @@ arouses
 aggrandized
 amouret
 antecavern
-antecedaneously
+antecedaneously 1
 antecede
 anapes
 alexiteric
