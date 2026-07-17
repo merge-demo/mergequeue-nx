@@ -9603,7 +9603,7 @@ disencumbers
 dartsman
 deerwood
 drazel
-dogmeat
+dogmeat 1
 diddering
 druse
 diguanide
