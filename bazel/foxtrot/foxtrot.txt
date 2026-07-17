@@ -2148,7 +2148,7 @@ fires
 fornical
 foliature
 fitch
-fawnier
+fawnier 1
 fezzy
 fallenness
 flypapers
