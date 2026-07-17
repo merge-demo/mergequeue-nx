@@ -27882,7 +27882,7 @@ chromidial
 crabman
 crabs
 crabstick
-comeatable
+comeatable 1
 calotin
 conquians
 crabut
