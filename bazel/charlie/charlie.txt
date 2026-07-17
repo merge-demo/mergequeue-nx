@@ -6688,7 +6688,7 @@ clamoring
 celestine
 ceilers
 ceilidhe
-connexivum
+connexivum 1
 ceiling
 ceilings
 ceilingwards
