@@ -7687,7 +7687,7 @@ flotter
 furriness
 forspeak
 favourers
-forehoofs
+forehoofs 1
 forehooves
 forpit
 foreboding
