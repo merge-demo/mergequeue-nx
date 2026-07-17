@@ -21540,7 +21540,7 @@ concubine
 chasteningly
 concubines
 cottonless 1
-concubitancy
+concubitancy 1
 concubitous
 conculcate
 concupy
