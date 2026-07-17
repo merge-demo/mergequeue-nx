@@ -3845,7 +3845,7 @@ acetabuliform
 adipinic
 autotransplant
 adipocellulose
-adipocere
+adipocere 1
 adipoceriform
 adipoid
 angiology
