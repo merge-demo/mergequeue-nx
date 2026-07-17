@@ -18293,7 +18293,7 @@ aracana
 anarthria
 aracanga
 antefebrile 1
-arach
+arach 1
 arachidic
 autotomised
 augen
