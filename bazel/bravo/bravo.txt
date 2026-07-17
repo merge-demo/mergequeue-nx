@@ -4779,7 +4779,7 @@ bhalu
 burglarizes
 bibracteate
 billfold
-barbarize
+barbarize 1
 burking
 barrener
 biotelemetry
