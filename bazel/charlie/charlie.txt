@@ -24985,7 +24985,7 @@ cordaites
 cowperitis
 circumpolar
 cordal
-cordate
+cordate 1
 catawamptious
 clavicytherium
 cordax
