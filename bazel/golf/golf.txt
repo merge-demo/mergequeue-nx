@@ -10619,7 +10619,7 @@ gloomiest
 ghoul
 gunpower
 gasping
-gentled 1
+gentled 2
 gourmandise
 gimmickry
 gunshop
