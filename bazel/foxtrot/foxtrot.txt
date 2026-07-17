@@ -6959,7 +6959,7 @@ feeblemindedness
 fumigants
 fungivorous
 fadeless
-fendy
+fendy 1
 foisting 1
 feloniously
 firecracker
