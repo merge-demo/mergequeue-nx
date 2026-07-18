@@ -4213,7 +4213,7 @@ archimperialistic
 aphididae
 awakenings
 autogenous
-adoration
+adoration 1
 adoratory
 agatelike
 adorer
