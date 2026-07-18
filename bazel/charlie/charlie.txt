@@ -9644,7 +9644,7 @@ cheerled
 cheerlessly
 cheerlessness
 comatulid
-cheerly
+cheerly 1
 crustedly
 coastman
 catholiciser
