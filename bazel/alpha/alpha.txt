@@ -22319,7 +22319,7 @@ antipoints
 ablest
 apoquinamine
 alfilerilla
-astrionics
+astrionics 1
 asynartete
 antitetanolysin
 ableeze
