@@ -10298,7 +10298,7 @@ amenably
 assess
 amenance
 amydon
-amendatory
+amendatory 1
 amending
 autumns
 amoebian
