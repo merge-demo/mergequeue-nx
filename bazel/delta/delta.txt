@@ -6154,7 +6154,7 @@ deregulation
 deregulationize
 dicolic
 deregulations
-dichromatism
+dichromatism 1
 drumloid
 ducatoon
 deregulatory
