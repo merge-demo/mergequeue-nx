@@ -454,7 +454,7 @@ formulise 1
 frouze
 formulistic
 fulminating
-fluctisonous
+fluctisonous 1
 ferk
 faithlessness
 fringeless
