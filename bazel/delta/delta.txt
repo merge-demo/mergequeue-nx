@@ -11591,7 +11591,7 @@ devillike
 disconsent 1
 diphthongised
 dithering
-discerpibility
+discerpibility 1
 disconsolately
 datasets
 dispeopling
