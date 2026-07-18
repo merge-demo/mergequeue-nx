@@ -3347,7 +3347,7 @@ camaldolensian
 commissariat
 coderives
 caponize
-crispate
+crispate 1
 caponized
 contrasty
 caponizer
