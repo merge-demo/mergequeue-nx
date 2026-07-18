@@ -6800,7 +6800,7 @@ avowing
 animally
 afterband
 affable
-amyrin
+amyrin 1
 ammonify
 airdrome
 airdromes
