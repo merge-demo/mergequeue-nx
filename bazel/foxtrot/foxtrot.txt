@@ -371,7 +371,7 @@ fluids
 flowerily
 fattiness
 flusterer
-faints
+faints 1
 forcedness
 franklandite
 frothed
