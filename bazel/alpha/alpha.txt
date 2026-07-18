@@ -8965,7 +8965,7 @@ auxiliatory
 allophanamid
 allophanate
 allophanates
-allophanic
+allophanic 1
 acredula
 antiscians
 allophyle
