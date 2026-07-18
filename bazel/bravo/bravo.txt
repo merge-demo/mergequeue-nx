@@ -8646,7 +8646,7 @@ barbells
 bestream
 bitterish 1
 benshea
-bunjara
+bunjara 1
 bilsh
 bitumen
 bifluorid
