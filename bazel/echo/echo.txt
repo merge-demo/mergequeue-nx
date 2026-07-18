@@ -2612,7 +2612,7 @@ eunectes
 electrocutioner
 ebulus 1
 exportability
-etherical
+etherical 1
 ecphova
 expurgative
 electrophoretically
