@@ -6903,7 +6903,7 @@ begrudges
 beslaver
 balmony
 beshadowed
-beauxite
+beauxite 1
 briolette
 biplosive
 breediness
