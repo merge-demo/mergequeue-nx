@@ -10373,7 +10373,7 @@ cervalet
 conveyorizer
 chiefish
 chieftain
-chieftaincy
+chieftaincy 1
 chieftainess
 chieftainry
 complexify
