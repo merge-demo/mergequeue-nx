@@ -8647,7 +8647,7 @@ anglophobist
 allegorizer
 antidinic
 anomuran
-allegorizing
+allegorizing 1
 aeolic
 allegresse
 allegrettos
