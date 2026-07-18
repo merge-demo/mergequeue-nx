@@ -1840,7 +1840,7 @@ bandfile
 bandh
 burdon
 brownism
-brython
+brython 1
 birken
 bandhook
 balladromic
