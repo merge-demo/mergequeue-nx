@@ -7615,7 +7615,7 @@ carduaceous
 cerebron
 cerebronic
 cerebroparietal
-cerebropedal
+cerebropedal 1
 coppy
 cerebropsychosis
 calade
