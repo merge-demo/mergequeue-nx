@@ -13766,7 +13766,7 @@ entea
 extispicious
 extoling
 epitympanum 1
-edingtonite
+edingtonite 1
 edestosaurus
 epiphysary
 enserfing
