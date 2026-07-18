@@ -4819,7 +4819,7 @@ encolour
 excrementitiousness
 encolpia
 equilibrator
-entypies
+entypies 1
 enduro
 epidosite
 eccoproticophoric
