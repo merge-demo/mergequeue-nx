@@ -2500,7 +2500,7 @@ diatropism
 deferral
 duds
 dishonourary
-declaim
+declaim 1
 dichorisandra
 dresser
 declaimer
