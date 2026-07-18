@@ -20511,7 +20511,7 @@ chlorider
 compatriotic
 chilicote
 chays
-compatriots
+compatriots 1
 compd
 cusparia
 carnose
