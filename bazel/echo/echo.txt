@@ -12323,7 +12323,7 @@ ethic
 enhydrous
 etymologicon
 exercitation 1
-elecampane
+elecampane 1
 effortless
 equilin
 elvanitic
