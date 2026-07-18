@@ -421,7 +421,7 @@ abietineae
 atuami
 addlings 1
 agarose
-askoi
+askoi 1
 algores
 abigeat
 antihydropic
