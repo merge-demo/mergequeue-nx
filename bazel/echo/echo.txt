@@ -2281,7 +2281,7 @@ emphasizes
 electriferous
 energumen
 epitaphist
-epilating
+epilating 1
 elongated
 equally
 extemporization
