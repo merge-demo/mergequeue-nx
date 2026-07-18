@@ -9244,7 +9244,7 @@ atomics
 antiparliamentarian 1
 argentamin
 autometric
-aphony
+aphony 1
 angiolymphoma
 asaraceae
 abhorrent
