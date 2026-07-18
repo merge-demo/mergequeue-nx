@@ -1252,7 +1252,7 @@ ethylidyne
 epigrammatise
 eelcake
 elsewheres
-exposition
+exposition 1
 episomal
 evaluation
 endopleuritic
