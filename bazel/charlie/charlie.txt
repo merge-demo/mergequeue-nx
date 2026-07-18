@@ -16029,7 +16029,7 @@ clevis
 columbous
 codicilic
 caridea
-capillariness
+capillariness 1
 cyanins
 contrastimulus
 cuculiform
