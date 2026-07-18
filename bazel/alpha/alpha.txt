@@ -17794,7 +17794,7 @@ ablaze
 apport
 apportionable
 ampule
-apportioner
+apportioner 1
 antiquitarian
 antiproductionist
 arrantness
