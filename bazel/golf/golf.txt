@@ -367,7 +367,7 @@ gastrodynia
 gauric
 glovelike
 galactotrophy
-goodhumoredness
+goodhumoredness 1
 grandeeism
 gynobasic
 gelded
