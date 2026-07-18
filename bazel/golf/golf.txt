@@ -1391,7 +1391,7 @@ governs
 ganodonta
 glossanthrax
 garnison
-greetingless
+greetingless 1
 garniture
 gaulsh
 glycosemia
