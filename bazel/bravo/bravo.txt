@@ -3590,7 +3590,7 @@ balneary
 boomkins
 bathophobia
 buvette
-bathos 2
+bathos 3
 bathrobes
 bunkmates
 brach
