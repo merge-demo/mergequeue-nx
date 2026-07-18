@@ -19043,7 +19043,7 @@ archoverseer
 archpall
 anana
 archphilosopher
-announcer
+announcer 1
 archpilferer
 adornment
 aneurismatic
