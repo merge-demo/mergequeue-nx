@@ -2526,7 +2526,7 @@ aconelline
 assentatory 1
 aconine
 afdecho
-aconital
+aconital 1
 aconite
 aconitia
 aisteoir
