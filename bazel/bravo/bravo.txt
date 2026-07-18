@@ -6546,7 +6546,7 @@ birdshot
 besprizorni
 brustled
 becolor
-berated
+berated 1
 bushful
 berates
 blastospheric
