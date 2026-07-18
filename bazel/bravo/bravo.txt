@@ -1994,7 +1994,7 @@ bandcutter
 bhaiachara
 banisher
 banishing
-banishment
+banishment 1
 banyuls
 baniva
 brittonic
