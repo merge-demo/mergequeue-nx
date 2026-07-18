@@ -17299,7 +17299,7 @@ amli
 antisiphonal
 aclinal
 ashram
-acetonize
+acetonize 1
 antiagglutinant
 allowing
 azido
