@@ -31376,7 +31376,7 @@ chaetopodous
 criosphinges
 cothurnate
 curie
-curiet
+curiet 1
 curietherapy
 curying
 cyclopentane
