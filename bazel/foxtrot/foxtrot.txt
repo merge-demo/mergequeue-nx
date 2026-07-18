@@ -5127,7 +5127,7 @@ famulli 1
 fragrancies 2
 forewords
 furler
-fregit
+fregit 1
 farmhousey
 fraile
 flashings
