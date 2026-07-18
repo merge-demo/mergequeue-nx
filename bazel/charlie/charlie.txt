@@ -8857,7 +8857,7 @@ characterise
 characterised
 cumulus
 characterising
-chanted
+chanted 1
 clodbreaker
 cuniform
 cumarone
