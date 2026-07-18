@@ -6763,7 +6763,7 @@ crustacea
 canstick
 compartmentally
 colliculate
-caruncle
+caruncle 1
 celestify
 cuttages
 celestina
