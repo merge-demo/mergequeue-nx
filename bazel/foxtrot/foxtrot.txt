@@ -1062,7 +1062,7 @@ floter
 foredestining
 furriery
 farolito
-flustration
+flustration 1
 fiberboard
 ferriages
 frontons
