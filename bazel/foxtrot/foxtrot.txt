@@ -10853,7 +10853,7 @@ frondosely
 franciscan 1
 frousy
 fabledom
-faddism
+faddism 1
 fulgidity
 flaite
 functionally
