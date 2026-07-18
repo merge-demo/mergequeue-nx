@@ -4110,7 +4110,7 @@ alcaide
 arousers
 alca
 antiae
-arbuscles
+arbuscles 1
 admonitorily
 admonitrix
 alkalinize
