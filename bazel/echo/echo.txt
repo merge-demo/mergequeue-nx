@@ -1572,7 +1572,7 @@ extraversion
 encampment
 epinasty 1
 envigor
-exogeny
+exogeny 1
 exaggeratedness
 emball
 egises
