@@ -10492,7 +10492,7 @@ gumshoeing
 gumweed
 galangals
 gumweeds
-geerah
+geerah 1
 gramenite
 gregal
 genizero
