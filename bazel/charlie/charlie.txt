@@ -10034,7 +10034,7 @@ chanoyu
 cherubfish
 cherubfishes
 chauffeuring 1
-cherubic
+cherubic 1
 chowder
 cabernet
 cherubical
