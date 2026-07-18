@@ -13698,7 +13698,7 @@ apollinarianism 1
 anomaloflorous
 archaistic
 amentaceous
-anomalogonatous
+anomalogonatous 1
 anomalon
 antipasto
 auxochromism
