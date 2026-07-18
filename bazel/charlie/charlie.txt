@@ -28971,7 +28971,7 @@ charlatanical
 cricoarytenoid
 corroborated
 cheilotomy
-cyanic
+cyanic 1
 cricoid
 cricoids
 couper
