@@ -11287,7 +11287,7 @@ flurrying
 footwear
 farcing
 fourfold
-folletti
+folletti 1
 falun
 fully 1
 formularized
