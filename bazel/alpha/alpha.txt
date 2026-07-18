@@ -12270,7 +12270,7 @@ ancylopod
 acneiform
 acrider
 anatropous
-antiecclesiastic
+antiecclesiastic 1
 alnico
 apprehensions 1
 ambisexual
