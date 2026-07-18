@@ -27275,7 +27275,7 @@ countryfiedness
 countryfolk
 closewing
 congeable
-crullers
+crullers 1
 coadjust
 cassine
 convolvuluses
