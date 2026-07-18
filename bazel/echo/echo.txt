@@ -12564,7 +12564,7 @@ entryman
 elkdom
 eft
 eucosia
-exmeridian
+exmeridian 1
 endorphin
 exoascaceous
 exoascales
