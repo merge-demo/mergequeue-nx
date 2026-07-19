@@ -12195,7 +12195,7 @@ depositure
 degausser
 despiciency
 demander
-depurates
+depurates 1
 duply
 disambiguates
 demideify
