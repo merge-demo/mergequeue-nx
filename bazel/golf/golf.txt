@@ -7209,7 +7209,7 @@ gaditan
 greenthumbed
 geotectonics
 give 1
-geocratic
+geocratic 1
 gape
 gorgosaurus
 galenism
