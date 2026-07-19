@@ -1217,7 +1217,7 @@ airlike 1
 acanthopterygian
 adversed
 acromia
-acanthopterygii
+acanthopterygii 1
 acanthoses 1
 archeus
 acanthuridae
