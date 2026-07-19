@@ -2582,7 +2582,7 @@ fattier
 fouty
 franchiser
 fibrocytic
-ferrogoslarite
+ferrogoslarite 1
 forcet 2
 franked
 foud
