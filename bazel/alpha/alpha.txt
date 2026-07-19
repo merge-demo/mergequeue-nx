@@ -20285,7 +20285,7 @@ aleutian
 adsignification
 arroyos
 arroyuelo
-apostolate
+apostolate 1
 arrosive
 aleuritic
 antistreptococcal
