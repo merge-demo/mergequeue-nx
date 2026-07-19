@@ -4107,7 +4107,7 @@ gaulic 1
 gamekeeper 1
 gaufer
 gudget
-glorification
+glorification 1
 goneoclinic
 gipsywort
 gulgul
