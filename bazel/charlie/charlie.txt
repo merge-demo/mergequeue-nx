@@ -27065,7 +27065,7 @@ croupily
 clerking
 counterprotection
 counterpull
-counterpuncture
+counterpuncture 1
 counterpush
 counterquartered
 caneva
