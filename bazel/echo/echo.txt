@@ -3304,7 +3304,7 @@ expreme
 ectopic
 ethnos
 exegetically
-eridanid
+eridanid 1
 enraged
 envisions 1
 enclose
