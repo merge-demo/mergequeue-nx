@@ -3346,7 +3346,7 @@ elaeodendron
 erythrin
 euphroe 2
 equiangular
-emphemeralness
+emphemeralness 1
 expensefully
 endodermis
 ecdyses
