@@ -13538,7 +13538,7 @@ cyma
 companionable
 cymae
 cymagraph
-cimaise
+cimaise 1
 cicatriculae
 cafe
 colament
