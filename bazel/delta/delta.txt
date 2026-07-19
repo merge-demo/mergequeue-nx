@@ -9036,7 +9036,7 @@ dicoumarol
 dicranaceous
 dextrinous 1
 diverter
-dicrotal
+dicrotal 1
 dicrotous
 dicruridae
 delia
