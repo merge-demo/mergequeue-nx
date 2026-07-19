@@ -3039,7 +3039,7 @@ capitonidae
 centrales
 cantrip
 cantus
-cantuta
+cantuta 1
 cantwise
 castigated
 canula
