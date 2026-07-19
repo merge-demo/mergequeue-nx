@@ -18395,7 +18395,7 @@ aspredinidae
 automen
 apostrophizes
 arleng 1
-advises
+advises 1
 actinism
 almonds
 arase
