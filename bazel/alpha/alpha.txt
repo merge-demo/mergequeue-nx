@@ -21534,7 +21534,7 @@ asphyxiating
 athapaskan
 asphyxiation
 avenging
-asphyxiator
+asphyxiator 1
 asphyxied
 achlorhydric
 anticritique
