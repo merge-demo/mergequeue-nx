@@ -1700,7 +1700,7 @@ disadvantage
 dignity
 disentrain
 dispond
-duckstone
+duckstone 1
 distringas
 dobl
 decoding
