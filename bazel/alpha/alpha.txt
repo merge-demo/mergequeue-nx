@@ -9612,7 +9612,7 @@ alumic
 abesse
 alumiferous
 acroamatics
-autoinoculation
+autoinoculation 1
 assument
 amygdaliform
 abominates
