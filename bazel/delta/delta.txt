@@ -3162,7 +3162,7 @@ diluviate
 disgout
 dissimulated
 drouths
-dryness
+dryness 1
 defeats
 deathroot
 defeature 1
