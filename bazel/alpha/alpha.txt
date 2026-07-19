@@ -8684,7 +8684,7 @@ alternationist
 allelomorphic
 allelotropy
 allelotropic
-attendantly
+attendantly 1
 aldehydase
 allelotropism
 alleluia
