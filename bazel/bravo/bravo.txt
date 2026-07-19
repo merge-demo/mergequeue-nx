@@ -565,7 +565,7 @@ blottingly
 bishoped
 backwoodsy
 bacon
-balkar
+balkar 1
 baubee
 balisaur
 baconian
