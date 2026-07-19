@@ -23760,7 +23760,7 @@ auslaute
 auspex
 approvability
 associational
-anisopodous
+anisopodous 1
 acetifier
 avowance
 alto
