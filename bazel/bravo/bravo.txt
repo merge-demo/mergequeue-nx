@@ -4345,7 +4345,7 @@ bossdoms
 beche
 becheck 1
 befool
-bechic
+bechic 1
 bechignoned
 bacchanalize
 balzacian
