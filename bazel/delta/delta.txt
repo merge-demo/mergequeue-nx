@@ -1186,7 +1186,7 @@ donnybrook
 diachoretic
 dextrinize
 dogfall
-desmotropy
+desmotropy 1
 discepted
 deglutitory
 deaminization
