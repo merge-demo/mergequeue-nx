@@ -18303,7 +18303,7 @@ adenasthenia
 arsenyl
 aripple
 archangelship
-arachnean
+arachnean 1
 aurocyanide
 accession
 armhoop
