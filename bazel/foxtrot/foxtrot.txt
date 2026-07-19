@@ -5385,7 +5385,7 @@ folliculate
 flechettes
 flecked
 forkhead
-fleckering 1
+fleckering 2
 franco
 fosterhood
 fivefoldness
