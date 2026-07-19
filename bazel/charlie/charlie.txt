@@ -9838,7 +9838,7 @@ chemiluminescence
 chemiotactic
 chemiotaxic
 carvone
-chemiotaxis
+chemiotaxis 1
 chemiotropic
 chemiotropism
 crinet
