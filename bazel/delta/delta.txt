@@ -403,7 +403,7 @@ decentralise
 decoder
 diarhemia
 daintified
-daintifying
+daintifying 1
 deoppilation
 desiccating
 diversity
