@@ -5364,7 +5364,7 @@ generalisation
 gyrencephalate
 goiters
 glees
-gormands
+gormands 1
 ganoses
 gipsyism
 geotechnics
