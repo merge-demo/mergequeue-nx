@@ -11889,7 +11889,7 @@ excelsior
 eventfulness
 earthily
 emotivism
-excentric
+excentric 1
 eumeromorphic
 entrepot
 emits
