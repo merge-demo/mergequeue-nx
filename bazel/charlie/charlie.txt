@@ -3612,7 +3612,7 @@ cotrespasser
 choosable
 caraboa
 caaba
-cinques
+cinques 1
 circle
 caraboid
 carabus
