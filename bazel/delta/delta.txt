@@ -13940,7 +13940,7 @@ distn
 dystocia
 dourade
 dogwatch
-diaetetae
+diaetetae 1
 dystocial
 doolee
 diagenesis
