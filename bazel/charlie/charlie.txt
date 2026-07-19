@@ -7090,7 +7090,7 @@ conciliated
 connotational
 centesm
 centetid
-centiar
+centiar 1
 centiares
 copita
 curvidentate
