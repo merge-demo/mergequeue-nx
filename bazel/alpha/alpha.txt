@@ -9918,7 +9918,7 @@ anacoenosis
 amating
 alumstone
 albuminogenous
-assacu
+assacu 1
 awaste
 archaeolithic
 acerata
