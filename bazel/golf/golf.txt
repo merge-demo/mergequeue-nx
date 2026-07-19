@@ -127,7 +127,7 @@ gyros
 gangrening
 gadroonage 1
 gadrooning
-gersum
+gersum 1
 glacises
 granulize
 gageable
