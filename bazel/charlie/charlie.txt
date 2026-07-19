@@ -4127,7 +4127,7 @@ closehearted
 cichlids
 cardiomegalia
 caffa
-clerihew
+clerihew 1
 cubed
 chancellor
 cardinalities
