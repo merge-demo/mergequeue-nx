@@ -7247,7 +7247,7 @@ evolutionally
 epicurize
 excrescences
 eohippus
-eohippuses 1
+eohippuses 2
 electronegativity
 eoith 1
 eoiths
