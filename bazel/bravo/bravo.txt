@@ -2328,7 +2328,7 @@ brighteners
 barbiton
 bloodworm
 bhutani
-barbituism
+barbituism 1
 barbituric
 bluetick
 barbiturism
