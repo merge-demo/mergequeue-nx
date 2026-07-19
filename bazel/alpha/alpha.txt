@@ -12044,7 +12044,7 @@ asclent
 awakenable 1
 anaschistic 1
 anaseismic
-anasitch
+anasitch 1
 anaerobia
 anaspadias
 albite
