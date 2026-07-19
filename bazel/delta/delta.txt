@@ -4022,7 +4022,7 @@ drenchingly
 delesseriaceous
 draggling
 deleter
-demur
+demur 1
 deleteriousness 1
 dirge
 deletions
