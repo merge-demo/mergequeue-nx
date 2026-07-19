@@ -20493,7 +20493,7 @@ compassion
 compassionate
 couthiness
 compassionately
-candidateship
+candidateship 1
 compassionateness
 catalepsy
 compassive
