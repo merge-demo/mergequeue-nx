@@ -1469,7 +1469,7 @@ commercializes
 calisthenics
 calite
 calyx
-coecal
+coecal 1
 continents
 careening
 calkers
