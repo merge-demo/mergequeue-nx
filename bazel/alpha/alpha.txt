@@ -14064,7 +14064,7 @@ antecornu
 antecourt
 antecubital
 antecurvature
-afshah
+afshah 1
 abdiel
 anted
 autophytically
