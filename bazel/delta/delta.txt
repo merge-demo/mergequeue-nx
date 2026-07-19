@@ -14265,7 +14265,7 @@ defoliator
 deviationist
 donkeymen
 demulceate
-deb 1
+deb 2
 deviances
 dithion
 dithionous
