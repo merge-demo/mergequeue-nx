@@ -4783,7 +4783,7 @@ extracardial
 encloister
 extend
 endosporously
-emeried
+emeried 1
 epencephalon
 extrarhythmical
 emboite
