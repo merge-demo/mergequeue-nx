@@ -31043,7 +31043,7 @@ cheilanthes
 chainage
 calescence
 crepe
-colorize
+colorize 1
 caprocks
 cumsha
 cumshaw
