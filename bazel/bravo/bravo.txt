@@ -3002,7 +3002,7 @@ bartended
 barrera
 bigamistically
 bergsonism
-beared
+beared 1
 bidirectionally
 boist
 bartenders
