@@ -9223,7 +9223,7 @@ biphenol
 bashfulness
 bipinnariae
 bastnasite
-biordinal
+biordinal 1
 batussi
 bladebone
 balanoid
