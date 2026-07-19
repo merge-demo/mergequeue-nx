@@ -13691,7 +13691,7 @@ anomalist
 aromatite
 anomalistic
 andor
-asiatic
+asiatic 1
 anomalistical
 anomalocephalus
 apollinarianism 1
