@@ -11929,7 +11929,7 @@ defeasive
 debonaire
 diseasedness
 diseases
-diseconomy
+diseconomy 1
 diastemata
 dolerites
 diselenid
