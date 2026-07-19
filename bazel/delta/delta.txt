@@ -6776,7 +6776,7 @@ disally
 dirtboard
 datatype
 demoralizer
-detestably
+detestably 1
 diathermic
 desilvers
 demultiplex
