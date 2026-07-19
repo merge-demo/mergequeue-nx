@@ -12947,7 +12947,7 @@ bucktails
 berthold
 boardinghouses
 bootman
-boots
+boots 1
 bottoms
 blouson
 bittersweet
