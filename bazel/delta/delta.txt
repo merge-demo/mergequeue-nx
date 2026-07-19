@@ -16437,7 +16437,7 @@ derivately
 defogger
 dwaible
 delirate
-diachyma
+diachyma 1
 drabbler
 datum
 difflugia 1
