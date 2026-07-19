@@ -12853,7 +12853,7 @@ encircled
 exoterically
 erythremomelalgia
 episcopal
-exoticness 1
+exoticness 2
 enantioses
 ensile
 exotics
