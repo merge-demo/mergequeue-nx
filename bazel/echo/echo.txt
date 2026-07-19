@@ -9359,7 +9359,7 @@ educable
 escalades
 escalating
 escalations
-enkindle
+enkindle 1
 expectedly
 earmindedness 1
 escalator
