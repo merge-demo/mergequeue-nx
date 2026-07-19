@@ -14557,7 +14557,7 @@ anthroponomics
 anthroponomist
 antipathies
 alveolitis
-areas
+areas 1
 aquaplaned
 avesta
 aestival
