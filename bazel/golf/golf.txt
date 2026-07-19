@@ -5130,7 +5130,7 @@ gummas
 glaucionetta
 gromatics
 grassland
-glycoside
+glycoside 1
 glossate
 gregarinous
 glali
