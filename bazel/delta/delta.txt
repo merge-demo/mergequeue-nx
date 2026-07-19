@@ -12663,7 +12663,7 @@ diskindness
 diskography
 dvandva
 dextrorse
-doleful
+doleful 1
 divining
 dehorts
 diatrymiformes
