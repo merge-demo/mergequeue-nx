@@ -26244,7 +26244,7 @@ costander
 costanoan
 costar
 costarred
-continentaler
+continentaler 1
 chuffiness
 costata
 costated
