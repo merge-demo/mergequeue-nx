@@ -18440,7 +18440,7 @@ dysphemize
 diamondbacks
 dactylograph
 demichamfron
-diagometer
+diagometer 1
 disulphuret
 degreased
 disodic
