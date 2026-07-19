@@ -17288,7 +17288,7 @@ aposia
 aposiopesis
 aposiopetic
 americanize
-arbalest
+arbalest 1
 acataposis
 ayins
 apositia
