@@ -19812,7 +19812,7 @@ comeling
 comendite
 comers
 catachresti
-condescendingness
+condescendingness 1
 chinchilla
 comestible
 cringles
