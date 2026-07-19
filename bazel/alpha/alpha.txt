@@ -7479,7 +7479,7 @@ anchoress
 albuginea
 archivist
 albugines
-apometabolous
+apometabolous 1
 amban
 albuginitis
 album
