@@ -5583,7 +5583,7 @@ aftershaft
 aftershafted
 acetylcholinic
 almagests
-aftershocks
+aftershocks 1
 alexandria
 aftersound
 anterevolutional
