@@ -5386,7 +5386,7 @@ ensnow
 emarginate
 enuresises
 executiveship
-erogeny
+erogeny 1
 extradotal
 endothecial
 equator
