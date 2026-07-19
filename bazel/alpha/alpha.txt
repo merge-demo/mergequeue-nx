@@ -12709,7 +12709,7 @@ antiquarism
 apodioxis
 awarrant
 anoretic
-acalyptrate
+acalyptrate 1
 angelomachy
 arragonite
 angelonia
