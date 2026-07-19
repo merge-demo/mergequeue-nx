@@ -18092,7 +18092,7 @@ draftage
 dumbfounderment
 dumbfounding
 denatures
-discourageable
+discourageable 1
 despisers
 dumby
 dumbing
