@@ -18395,7 +18395,7 @@ cognised
 creepy
 chatchkas
 chirimoya
-clypeal
+clypeal 1
 compactedness
 cognition
 cucullated
