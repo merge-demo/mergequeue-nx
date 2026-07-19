@@ -808,7 +808,7 @@ disingenious
 dangerously
 dactyliomancy
 diabrotic
-deduced
+deduced 1
 dangerousness
 distention
 danglers
