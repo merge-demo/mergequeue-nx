@@ -107,7 +107,7 @@ extraught
 enamoured
 eusteles
 earrings
-eaves
+eaves 1
 excrementally
 exsculptate
 enginehouse
