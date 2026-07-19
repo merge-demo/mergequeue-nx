@@ -6275,7 +6275,7 @@ benthamism
 btise
 blurping
 benthic 1
-barbar
+barbar 1
 bagfuls
 bevors
 benthoscope

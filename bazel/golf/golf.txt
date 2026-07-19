@@ -3997,7 +3997,7 @@ gemshorn
 gnide
 guessingly
 gigster
-guarinite
+guarinite 1
 gemonies 1
 gravic 1
 geniculate
