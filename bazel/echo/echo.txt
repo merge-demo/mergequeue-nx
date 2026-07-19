@@ -7599,7 +7599,7 @@ epicycle
 epicyemate
 eeyuch
 experiments
-esogastritis
+esogastritis 1
 excurvate
 eolithic
 euglena
