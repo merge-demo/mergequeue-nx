@@ -11594,7 +11594,7 @@ evolutoid
 elegize
 enchiridion
 explicating
-entablatured
+entablatured 1
 electroretinogram
 engregge
 eternalising
