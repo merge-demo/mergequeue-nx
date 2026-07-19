@@ -7230,7 +7230,7 @@ accresce
 alamode
 ascogonidia
 applesnits
-aneroid
+aneroid 1
 abstrusion
 alexandrines
 alamonti
