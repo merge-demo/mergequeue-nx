@@ -28433,7 +28433,7 @@ creamlaid
 coccobaccilli
 creamless
 creamlike
-cutpurses
+cutpurses 1
 cotarnine
 chiefling
 creams
