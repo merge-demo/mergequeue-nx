@@ -21913,7 +21913,7 @@ confessant
 confessary
 coelomopore
 cornfield
-clubrooms
+clubrooms 1
 confessedly
 confesses
 coiners
