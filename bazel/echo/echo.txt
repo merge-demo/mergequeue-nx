@@ -11216,7 +11216,7 @@ experimentalist
 epibolies
 evangeliaries
 endocycle
-exocrinology
+exocrinology 1
 enkindling
 enthronised
 elohism
