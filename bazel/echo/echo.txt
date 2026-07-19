@@ -4829,7 +4829,7 @@ estrogenicity
 embrangle
 encomiastically
 extols
-emulously
+emulously 1
 encomic
 executory
 excipient
