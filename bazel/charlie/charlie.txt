@@ -30463,7 +30463,7 @@ ctenodont
 cellulifugally
 ctenodus
 coffinite
-chloridize
+chloridize 1
 carpinus
 contractionist
 ctenoid
