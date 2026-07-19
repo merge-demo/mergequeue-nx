@@ -10314,7 +10314,7 @@ dirigibles
 diastrophy
 dionize
 dioon
-dependability
+dependability 1
 diophysite
 dealates
 darwinite
