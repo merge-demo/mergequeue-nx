@@ -23643,7 +23643,7 @@ alleles
 arables
 amylodextrin
 aureole 1
-autosomatognostic
+autosomatognostic 1
 aureoled
 anemograph
 alee
