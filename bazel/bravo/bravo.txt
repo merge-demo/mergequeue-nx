@@ -17940,7 +17940,7 @@ benignant
 bushmasters
 bagwoman
 bushongo
-bangle
+bangle 1
 bedsides
 breezes
 bowwows
