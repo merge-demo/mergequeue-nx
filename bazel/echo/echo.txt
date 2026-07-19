@@ -11883,7 +11883,7 @@ enomoty
 engorges
 excels
 eosophobia
-eternizes
+eternizes 1
 encounter
 excelsior
 eventfulness
