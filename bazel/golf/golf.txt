@@ -10219,7 +10219,7 @@ grippers
 guzzled
 guile
 gyrectomies
-galluses
+galluses 1
 groundsel
 gonk
 geotonus
