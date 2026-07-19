@@ -13132,7 +13132,7 @@ desynonymization
 dispersers
 dreigh
 disperses
-doubtful
+doubtful 1
 dipicrylamin
 donkeyback
 dispersibility 1
