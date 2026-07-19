@@ -13641,7 +13641,7 @@ artefacts
 ampollosity
 antituberculous
 anticum
-anesthesia
+anesthesia 1
 abeam
 automa
 abolition 1
