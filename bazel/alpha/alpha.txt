@@ -6936,7 +6936,7 @@ amende
 apostrophic 1
 aglyphous
 aptian
-aventine
+aventine 1
 airview
 agrypnias
 abdicative
