@@ -11920,7 +11920,7 @@ chuzwi
 choreographically
 choreographing
 cuds
-calculabilities
+calculabilities 1
 crestfallenness
 cerites
 cohanim
