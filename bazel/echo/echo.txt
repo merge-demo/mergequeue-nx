@@ -11852,7 +11852,7 @@ explemental 1
 erythrochroic
 endocrinopathy
 eulogized
-expenders
+expenders 1
 excarnificate
 entoproctous
 ecdysone
