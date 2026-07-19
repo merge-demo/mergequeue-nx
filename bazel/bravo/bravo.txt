@@ -2522,7 +2522,7 @@ bariatrician
 banderilla 1
 baric
 barycenter
-bemused
+bemused 1
 burmite
 brillolette
 barid
