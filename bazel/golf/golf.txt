@@ -10010,7 +10010,7 @@ gone
 gentlemanship
 gorgonised
 geomys
-gamba
+gamba 1
 garlandwise
 gorgonacean
 geochrony
