@@ -9242,7 +9242,7 @@ alodialty
 adenogenous
 atomics
 antiparliamentarian 1
-argentamin
+argentamin 1
 autometric
 aphony
 angiolymphoma
