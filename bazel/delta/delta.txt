@@ -14135,7 +14135,7 @@ decession
 decasualised
 disanimate
 diol
-desacralize
+desacralize 1
 diapason
 disulfiram
 doyst
