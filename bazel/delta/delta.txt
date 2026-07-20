@@ -14682,7 +14682,7 @@ doxies
 dieselize
 disagrees
 debauchee
-dolent
+dolent 1
 djuka
 diaskeuast
 dk
