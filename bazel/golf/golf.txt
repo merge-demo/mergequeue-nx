@@ -5345,7 +5345,7 @@ grammatology
 gloatingly
 garaging
 guanidine
-glegly
+glegly 1
 galactosemia
 gulfier
 galvanoplastical
