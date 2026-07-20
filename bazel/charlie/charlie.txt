@@ -30056,7 +30056,7 @@ croupiness
 croupon
 croupous
 croups
-comparcioner
+comparcioner 1
 crouse
 crousely
 croustade
