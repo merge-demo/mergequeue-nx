@@ -12989,7 +12989,7 @@ entice
 expectorant
 espiglerie
 expectorated
-echinococcus
+echinococcus 1
 enneahedria
 exculpate
 endosecretory
