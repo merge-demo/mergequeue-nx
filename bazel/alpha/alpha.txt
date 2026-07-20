@@ -19674,7 +19674,7 @@ alfarga
 aristate
 ascesis
 aristeas
-alertness
+alertness 1
 armaria
 aristeia
 acetanilide
