@@ -365,7 +365,7 @@ arrival
 aberration
 aberrational
 aberrative
-acinose
+acinose 1
 avoyer
 abetments
 ambulant
