@@ -10460,7 +10460,7 @@ electrodialytic
 erstwhile
 etypic
 ensheath
-equiponderation
+equiponderation 1
 elytrtra
 enoplan
 ethicalness
