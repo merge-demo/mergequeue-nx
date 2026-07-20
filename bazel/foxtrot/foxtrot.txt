@@ -11720,7 +11720,7 @@ friars
 fosslology
 flighty
 fawnskin
-flagellator
+flagellator 1
 folkland
 fantastically
 feudalised
