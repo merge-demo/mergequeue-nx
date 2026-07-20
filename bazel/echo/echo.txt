@@ -2018,7 +2018,7 @@ elabor
 epibenthic
 episternite
 evictees
-emulsic
+emulsic 1
 equisonant
 endodontist
 eradiculose
