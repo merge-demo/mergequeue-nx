@@ -5554,7 +5554,7 @@ fleecer
 fatal
 foraminiferous
 flirtish
-flexuously 1
+flexuously 2
 fram
 fluffiest
 forecited
