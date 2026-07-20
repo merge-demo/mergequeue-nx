@@ -15606,7 +15606,7 @@ crucifier
 clattery
 captainly
 clattering
-chicaner
+chicaner 1
 capryl
 conure
 colorfully
