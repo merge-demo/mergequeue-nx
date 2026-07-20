@@ -4449,7 +4449,7 @@ encarnalised 1
 encarnalize
 enteropneust
 egghot
-effervesces
+effervesces 1
 emicate
 echards
 edifices
