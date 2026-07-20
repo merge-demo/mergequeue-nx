@@ -18294,7 +18294,7 @@ anarthria
 aracanga
 antefebrile 1
 arach
-arachidic
+arachidic 1
 autotomised
 augen
 archsaint
