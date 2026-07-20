@@ -11369,7 +11369,7 @@ diabases
 dermatocele
 disciflorae
 disunifying
-dispensating
+dispensating 1
 dissociably
 discoherent
 decays
