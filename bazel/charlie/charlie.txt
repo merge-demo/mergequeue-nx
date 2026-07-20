@@ -31575,7 +31575,7 @@ cobdenism
 curtalaxes
 coho
 curtate
-curtein
+curtein 1
 chilion
 curteous
 curter
