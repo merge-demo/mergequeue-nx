@@ -12009,7 +12009,7 @@ chorizos
 cribrately
 cariyo
 cutes
-chorograph
+chorograph 1
 chorographer
 continuately
 chorographical
