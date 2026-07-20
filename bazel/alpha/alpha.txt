@@ -12119,7 +12119,7 @@ accepter
 artou
 aegeriid
 appels
-anathematizer
+anathematizer 1
 angularly
 antihumanist
 anatheme
