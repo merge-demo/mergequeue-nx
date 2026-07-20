@@ -1885,7 +1885,7 @@ guffaw
 gilgai
 goofy
 geodic
-galacturia
+galacturia 1
 gardenwise
 grabber
 gatherers
