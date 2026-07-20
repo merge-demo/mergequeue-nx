@@ -10924,7 +10924,7 @@ chirognomy
 cerement
 chirognomic
 chirognomically
-chuppahs
+chuppahs 1
 chirognomist
 cerebrates
 contd
