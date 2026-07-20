@@ -4297,7 +4297,7 @@ camauros
 centroidal
 carfuffling
 carful
-congregationalize
+congregationalize 1
 carga
 cargadores
 chintziness
