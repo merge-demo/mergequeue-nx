@@ -8522,7 +8522,7 @@ astronautics
 actinotrocha
 atabal
 aborts
-aphthae
+aphthae 1
 anabolin
 acheilia
 aerograms
