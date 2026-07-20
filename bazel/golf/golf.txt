@@ -2003,7 +2003,7 @@ gaskings
 gageite 1
 gonadotrope
 granville
-goosetongue
+goosetongue 1
 glyconian
 gleefully
 gynaecea
