@@ -1962,7 +1962,7 @@ analyse
 armorial
 acetins
 acardite
-archigony
+archigony 1
 adangle
 acetize
 assertions
