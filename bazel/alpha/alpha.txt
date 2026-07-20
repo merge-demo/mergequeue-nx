@@ -8875,7 +8875,7 @@ antlike
 askant
 ambilevous
 azurous
-adscititiously
+adscititiously 1
 amakebe
 anetic
 allocyanine
