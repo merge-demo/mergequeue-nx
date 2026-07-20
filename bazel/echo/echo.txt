@@ -1907,7 +1907,7 @@ enwisen
 evanescency
 eulogically
 expulsion
-ethnics
+ethnics 1
 electrophotographic
 entomofauna
 eisegetical
