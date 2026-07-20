@@ -18064,7 +18064,7 @@ adlet
 arrenotokous
 areolate
 aranga
-apterial
+apterial 1
 apterygidae
 apterygiformes
 almsgiver
