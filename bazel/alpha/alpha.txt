@@ -4451,7 +4451,7 @@ apsides
 amang
 aldoxime
 aftmost
-adv
+adv 1
 archbanc
 archimago
 argue
