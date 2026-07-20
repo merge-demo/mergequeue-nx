@@ -9742,7 +9742,7 @@ chekan
 connatal
 cheke
 cheken
-chekhov
+chekhov 1
 composal 1
 colourable
 chekist
