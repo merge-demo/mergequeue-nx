@@ -26419,7 +26419,7 @@ cotyliscus
 cotylophora
 collide
 cotylopubic
-catatonics
+catatonics 1
 criminalist
 cotylosacral
 cotylosaur
