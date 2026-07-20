@@ -1817,7 +1817,7 @@ bowlin
 bushranging
 bandala
 buggery
-bandanaed
+bandanaed 1
 battlepiece
 bollito
 bescribble
