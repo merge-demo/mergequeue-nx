@@ -12804,7 +12804,7 @@ exarchist
 exostra
 ebullition
 engraves
-elementary
+elementary 1
 exostrae
 exoteric
 exoterica
