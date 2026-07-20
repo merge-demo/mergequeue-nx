@@ -11333,7 +11333,7 @@ ergatoid
 evenglow
 erenach
 eneid
-erudite
+erudite 1
 encephalomeric
 eventual
 eozoic
