@@ -6689,7 +6689,7 @@ dioptres
 diminutely
 defoliation
 desesperance 1
-desexualized
+desexualized 1
 desexualizing
 deshabille
 dinitrophenol
