@@ -9483,7 +9483,7 @@ apheretic
 achier
 alignments
 assaugement
-aphengescope
+aphengescope 1
 apritif
 acadian
 alternater

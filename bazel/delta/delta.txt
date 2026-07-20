@@ -2731,7 +2731,7 @@ delectable
 duetto
 decorate
 decorating
-daukin
+daukin 1
 dont
 discounsel
 diplopterous
