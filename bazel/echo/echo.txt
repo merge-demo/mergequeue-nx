@@ -7739,7 +7739,7 @@ erythraea
 epirogeny
 epidermic
 epidermical
-enteroplasty
+enteroplasty 1
 erechtheus
 electropolish
 eonisms
