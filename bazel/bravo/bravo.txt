@@ -6980,7 +6980,7 @@ bewelter
 brae
 besmirchers
 bactris
-bankfull
+bankfull 1
 besmooth
 besmooths
 betrust
