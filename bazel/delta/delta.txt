@@ -16705,7 +16705,7 @@ downshare
 dramatized
 degasses
 dramaturgically
-devisceration
+devisceration 1
 drammage
 dramme
 drammed
