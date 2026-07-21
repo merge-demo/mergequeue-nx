@@ -6877,7 +6877,7 @@ geaster
 galeas
 genitival
 geed
-gaposises
+gaposises 1
 goniatitic
 grainman
 goshen
