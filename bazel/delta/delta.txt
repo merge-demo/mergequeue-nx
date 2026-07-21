@@ -8083,7 +8083,7 @@ dhooties
 distinctively
 dhootis
 denaturant
-domesticated
+domesticated 1
 dysgenetic
 disendowment 1
 desugar
