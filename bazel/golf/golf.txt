@@ -6462,7 +6462,7 @@ goldener 1
 gidgee
 guldens
 guary
-goldentop
+goldentop 1
 glochideous
 grapewise
 governor
