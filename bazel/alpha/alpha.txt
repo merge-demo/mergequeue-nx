@@ -1041,7 +1041,7 @@ auberge
 aeronautically
 alcoholophilia
 absurdity
-assonances
+assonances 1
 asimina
 abt
 autoschediasm
