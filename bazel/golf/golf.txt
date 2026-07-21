@@ -1096,7 +1096,7 @@ gormandizers 1
 genitives
 ganister
 goriest
-giroflore
+giroflore 1
 groat
 grooviness
 grannies
