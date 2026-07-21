@@ -5563,7 +5563,7 @@ enfeoffment
 exestuate
 exhaustedly
 ethions
-enfettering
+enfettering 1
 enophthalmos
 expandability
 episcopality
