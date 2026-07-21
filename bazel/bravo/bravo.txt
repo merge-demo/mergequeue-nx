@@ -841,7 +841,7 @@ billikin 1
 bet
 bacillar
 bezique
-bagasses
+bagasses 1
 berceaunette
 badhan
 bruxisms
