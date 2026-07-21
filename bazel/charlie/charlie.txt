@@ -26536,7 +26536,7 @@ cottrel
 cottus
 cotunnite
 concreteness
-capeskin
+capeskin 1
 culicids
 cymbaled
 chemosis
