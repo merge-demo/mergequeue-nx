@@ -24640,7 +24640,7 @@ coplot
 comoquer
 cauqui
 coplotter
-chinoidine
+chinoidine 1
 counterpaly
 cryaesthesia
 charcoals
