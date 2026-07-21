@@ -14085,7 +14085,7 @@ barytine
 boarders
 brachygraphical
 brachyhieric
-bikol
+bikol 1
 berlinite
 burkites
 behaviour
