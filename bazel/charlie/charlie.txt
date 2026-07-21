@@ -31208,7 +31208,7 @@ cuproplumbite
 cuproscheelite
 cytoplastic
 chromaticity
-cuprose
+cuprose 1
 cuprums
 czechoslovaks
 cupsful
