@@ -15418,7 +15418,7 @@ asomatophyte
 accentor
 avaricious
 antilogic
-antilogistic
+antilogistic 1
 amastia
 antilope
 antiloquy
