@@ -15593,7 +15593,7 @@ amalgamations
 armory
 antimusically
 animalculous
-afront
+afront 1
 antimusicalness
 affrightedly
 areoles
