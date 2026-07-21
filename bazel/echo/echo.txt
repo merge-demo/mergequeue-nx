@@ -8126,7 +8126,7 @@ ethnology
 epiural
 extracalicular
 epididymite
-earaches
+earaches 1
 enew
 exhumator
 episclera
