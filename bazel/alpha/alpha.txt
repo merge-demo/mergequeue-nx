@@ -1197,7 +1197,7 @@ autogravure 1
 antimedically
 acanthodes
 alcoholise
-aspirations
+aspirations 1
 alligations
 avowal
 antivitamin
