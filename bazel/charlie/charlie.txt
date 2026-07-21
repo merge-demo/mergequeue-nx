@@ -15174,7 +15174,7 @@ claimant
 cezannesque
 claimants
 claimed
-congeals
+congeals 1
 claimer
 consumables
 cacothelin

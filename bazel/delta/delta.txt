@@ -17800,7 +17800,7 @@ ducklet
 ducklings
 deputator
 duckmeat
-duckpin
+duckpin 1
 desalinate
 diabolarch
 dower
