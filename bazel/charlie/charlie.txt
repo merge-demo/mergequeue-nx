@@ -21826,7 +21826,7 @@ conepatls
 calahan
 circumnutatory
 cones
-conestoga
+conestoga 1
 counterpose
 confab
 constructionists
