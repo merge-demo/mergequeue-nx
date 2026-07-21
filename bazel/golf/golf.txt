@@ -10776,7 +10776,7 @@ gutt 1
 gunny 1
 gerenuk
 ghole 1
-genialness
+genialness 1
 gonadectomy
 gammadia
 grandevous
