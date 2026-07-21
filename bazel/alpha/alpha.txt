@@ -12631,7 +12631,7 @@ arrayan
 aesopic
 advene
 allochroite
-algosis
+algosis 1
 aneurisms
 arithmetician
 anfract
