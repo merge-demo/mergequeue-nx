@@ -10397,7 +10397,7 @@ burgrave
 biosynthesis
 bravado 1
 bragged
-buonamano
+buonamano 1
 botong
 breaker
 blanketlike
