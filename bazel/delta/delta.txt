@@ -6729,7 +6729,7 @@ duckmole
 designable
 doughfoot
 dhutis
-dissolutions
+dissolutions 1
 designates 1
 dacron
 dimedone
