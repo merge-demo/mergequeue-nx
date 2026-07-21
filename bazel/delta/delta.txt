@@ -2815,7 +2815,7 @@ decretalist
 despumating
 debility
 desalinization
-deedbote
+deedbote 1
 donatory 1
 decretively
 dictionary 1
