@@ -23133,7 +23133,7 @@ antinode
 attitudinize
 authoritarianisms
 attemptive
-antipapacy
+antipapacy 1
 aortism
 agglomerations
 agnominal
