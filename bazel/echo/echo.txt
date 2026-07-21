@@ -7204,7 +7204,7 @@ epoxying
 etheostoma
 equalizer
 enwove
-entender
+entender 1
 epistasis
 euphonym 1
 enchesoun
