@@ -18382,7 +18382,7 @@ ankylotia
 arapahos
 azorian
 adversant
-awaiter
+awaiter 1
 anticensoriously
 autoecious
 araponga
