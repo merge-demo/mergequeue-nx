@@ -8188,7 +8188,7 @@ chairmanship
 congrid
 chairmanships
 checkoff
-conficient
+conficient 1
 chairmender
 chairpersons
 chairway
