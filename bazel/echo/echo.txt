@@ -11738,7 +11738,7 @@ examinant
 eschewer
 enscrolled
 examinatory
-estrepe
+estrepe 1
 endochrome
 encumbering
 equivocacies
