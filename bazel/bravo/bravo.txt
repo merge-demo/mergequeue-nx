@@ -14875,7 +14875,7 @@ brokers
 breakable
 breakaxe
 bitterless
-burning
+burning 1
 baja
 breakers
 breakfast
