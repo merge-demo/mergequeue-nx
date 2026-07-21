@@ -6694,7 +6694,7 @@ desexualizing
 deshabille
 dinitrophenol
 diplohedron
-downcurved
+downcurved 1
 desyatin
 deaconries
 desicate
