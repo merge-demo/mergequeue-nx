@@ -2467,7 +2467,7 @@ bereason
 bibliophilism
 binotic
 bigram
-baresthesia
+baresthesia 1
 bottom
 busies
 bifunctional
