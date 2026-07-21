@@ -13220,7 +13220,7 @@ expiscation
 enrheum
 enzooty
 explainable
-expropriated
+expropriated 1
 explainableness
 eductor
 epiphytism
