@@ -26239,7 +26239,7 @@ cossnent
 contemn
 citydom
 costage
-costally
+costally 1
 costander
 costanoan
 costar
