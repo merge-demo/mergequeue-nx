@@ -9231,7 +9231,7 @@ dieldrins
 dielectric
 doziest
 disparately
-dismerit
+dismerit 1
 depender
 discontinuor
 drosophilidae
