@@ -31511,7 +31511,7 @@ culiciform
 collectivization
 coservant
 cursa
-curse
+curse 1
 cursedly
 cursedness
 calciferous
