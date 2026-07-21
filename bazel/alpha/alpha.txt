@@ -11880,7 +11880,7 @@ anserinae 1
 anamniata
 antimonarchy
 apishly
-amuguis
+amuguis 1
 archai
 aissaoua
 anamorphoscope
