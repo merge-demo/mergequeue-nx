@@ -895,7 +895,7 @@ droppy
 determent
 dreepiness
 dantean
-dimatis
+dimatis 1
 dacryopyorrhea
 dolorific
 dantology
