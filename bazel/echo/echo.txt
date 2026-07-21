@@ -4755,7 +4755,7 @@ encysts
 evenest
 eyepieces
 euphrosyne
-enarthrosis 1
+enarthrosis 2
 effulgent
 emeerates
 enclasps
