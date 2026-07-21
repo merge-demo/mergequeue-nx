@@ -5140,7 +5140,7 @@ eobiont
 estray
 exsanguinous
 endocoele
-enaliosaurian
+enaliosaurian 1
 exploiter
 effaced
 expositoriness
