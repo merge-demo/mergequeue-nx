@@ -1450,7 +1450,7 @@ deprest
 disparagingly
 dawnward
 dud
-drooliest
+drooliest 1
 dipropyl
 dawpate
 diminished 1
