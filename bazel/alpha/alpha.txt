@@ -13692,7 +13692,7 @@ aromatite
 anomalistic
 andor
 asiatic
-anomalistical
+anomalistical 1
 anomalocephalus
 apollinarianism 1
 anomaloflorous
