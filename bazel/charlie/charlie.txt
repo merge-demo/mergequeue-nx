@@ -17731,7 +17731,7 @@ confirmingly
 contramure
 coconuco
 coconut
-coconuts
+coconuts 1
 cocoon
 cocooneries
 crockard
