@@ -2588,7 +2588,7 @@ grassed
 gyrogonite
 guigne
 gargling
-gametogeny
+gametogeny 1
 generant
 generate
 guitars
