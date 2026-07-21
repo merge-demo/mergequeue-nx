@@ -12816,7 +12816,7 @@ equine
 emajagua 1
 exoterical
 espials
-exotericism
+exotericism 1
 extenuated
 emboldener
 embossmen
