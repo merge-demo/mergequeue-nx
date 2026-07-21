@@ -6115,7 +6115,7 @@ goodby
 gordiacean
 girja
 gigliato
-gardinol
+gardinol 1
 gallimaufry
 gyrous
 gurniad
