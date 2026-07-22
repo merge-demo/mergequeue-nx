@@ -2402,7 +2402,7 @@ deciduity
 daver
 deciduoma 1
 discommendable
-deciduously
+deciduously 1
 dessertspoonful
 dimercuric
 decyl
