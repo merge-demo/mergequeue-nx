@@ -1024,7 +1024,7 @@ glanduliferous
 gully
 geognostic
 geodetician
-ganger
+ganger 1
 guesten
 genthite
 gentlewomanliness
