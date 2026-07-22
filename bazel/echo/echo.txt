@@ -7072,7 +7072,7 @@ excitomuscular
 encompassed
 enumerability
 entry
-epris 1
+epris 2
 expansionary
 exemptile
 earthfast
