@@ -18691,7 +18691,7 @@ addlebrain
 archbeadle
 accidentalist
 autocephality
-archbishopry
+archbishopry 1
 archbishopric
 acroamata
 awhet
