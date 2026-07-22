@@ -12638,7 +12638,7 @@ dertrotheca
 defaultant
 descendentalist
 descrial
-dodgeries
+dodgeries 1
 duplicidentate
 dechemicalization
 disjunctive
