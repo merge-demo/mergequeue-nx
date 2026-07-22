@@ -17791,7 +17791,7 @@ alburnous
 algomic
 adonia
 ablaze
-apport
+apport 1
 apportionable
 ampule
 apportioner
