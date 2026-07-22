@@ -1693,7 +1693,7 @@ cardiograph
 calappa
 curelessly
 calorifics
-caricography 1
+caricography 2
 calorifier
 calorimetry
 calorimetrical
