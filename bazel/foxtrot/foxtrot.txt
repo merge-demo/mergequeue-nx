@@ -581,7 +581,7 @@ funerate
 fenugreek
 flagstaff
 frighteningly
-furmety
+furmety 1
 forelocks
 faufel
 forlornity
