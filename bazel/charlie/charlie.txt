@@ -17276,7 +17276,7 @@ comprehensives
 conflux
 coan
 cotangential
-coanimate
+coanimate 1
 concretes
 cephalemia
 coannexed
