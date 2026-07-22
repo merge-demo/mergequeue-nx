@@ -6489,7 +6489,7 @@ gapeworms
 gurry
 glycols 1
 grit
-graduatical
+graduatical 1
 ghazel
 gliming
 grooving
