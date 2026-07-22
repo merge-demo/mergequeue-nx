@@ -13570,7 +13570,7 @@ bismutosmaltite
 berapt 1
 biomagnetic
 bobbysocks
-bearded
+bearded 1
 bivane
 boughy
 bijugate
