@@ -20339,7 +20339,7 @@ communize
 catholicoses
 communized
 commutability
-commutable
+commutable 1
 canada
 conjee
 commutant
