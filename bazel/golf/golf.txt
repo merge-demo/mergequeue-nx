@@ -1026,7 +1026,7 @@ geognostic
 geodetician
 ganger
 guesten
-genthite
+genthite 1
 gentlewomanliness
 germination
 geologer
