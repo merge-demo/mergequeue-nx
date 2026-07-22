@@ -3063,7 +3063,7 @@ detailist
 deerstalking
 deerweed
 dollyway
-deescalate
+deescalate 1
 deeses
 deepfrozen
 deemphasize
