@@ -1124,7 +1124,7 @@ berne
 banquets 1
 backwall
 borates
-botete
+botete 1
 bankman
 bountree
 bairnwort
