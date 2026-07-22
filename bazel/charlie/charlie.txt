@@ -17962,7 +17962,7 @@ coelestial
 coelestine
 chewie
 coelho
-coeliac
+coeliac 1
 coelicolae
 caliphs
 chromoplasmic
