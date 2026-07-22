@@ -9012,7 +9012,7 @@ chiels
 charlady
 charladies
 criterions
-celestiality
+celestiality 1
 countergauge
 cookings
 charlatanic
