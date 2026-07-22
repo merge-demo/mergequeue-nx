@@ -21672,7 +21672,7 @@ airstrips
 arriccio
 apophyeeal
 aminoacetophenone
-assaultable
+assaultable 1
 antimissioner
 astrospectroscopic
 antiquer
