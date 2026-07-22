@@ -12913,7 +12913,7 @@ enticingly
 expeditiousness
 ecchymose
 epithymetic
-evangeliary
+evangeliary 1
 energetically
 ethnographical
 effluvias
