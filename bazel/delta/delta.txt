@@ -8233,7 +8233,7 @@ damasked
 dissectors
 dulcor
 diorism
-diadochic
+diadochic 1
 diadochite
 diadochokinesia
 diadoumenos
