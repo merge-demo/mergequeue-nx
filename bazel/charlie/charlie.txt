@@ -4908,7 +4908,7 @@ carageen
 carses
 cogitable
 carsick
-carsickness
+carsickness 1
 caviteno
 carrottop
 carstone
