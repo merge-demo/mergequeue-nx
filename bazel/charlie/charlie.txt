@@ -12051,7 +12051,7 @@ chockler
 casal
 chorusmaster
 chorussed
-chorusses
+chorusses 1
 cathedralic
 chorussing
 creatively
