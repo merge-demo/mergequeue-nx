@@ -18578,7 +18578,7 @@ aulos
 adlegation
 arcading
 aggravate
-atomical
+atomical 1
 arctogaean
 antipatriarchally
 allurer
