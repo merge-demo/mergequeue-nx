@@ -12027,7 +12027,7 @@ escutellate
 exclusiveness
 effectuality
 enforceability
-enamelled
+enamelled 1
 epidialogue
 exclusivistic
 exclusivity
