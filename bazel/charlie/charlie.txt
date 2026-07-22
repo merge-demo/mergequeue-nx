@@ -6808,7 +6808,7 @@ chanceable
 caudal
 cellarmen
 cellars
-chirologies
+chirologies 1
 cellarwoman
 cellblock
 celled
