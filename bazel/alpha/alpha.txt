@@ -19851,7 +19851,7 @@ armies
 abthainry
 affenspalte 1
 armiferous
-agnoetism
+agnoetism 1
 agnoetae
 attributives
 abhenries
