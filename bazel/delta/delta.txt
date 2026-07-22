@@ -9394,7 +9394,7 @@ diffranchise
 dely
 diadumenus
 decrete
-durabilities
+durabilities 1
 decadic
 discontentive
 dissoluble
