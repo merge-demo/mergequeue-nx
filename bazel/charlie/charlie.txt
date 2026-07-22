@@ -8290,7 +8290,7 @@ chalybite
 chalice
 chancelry
 chaliced
-chalicosis
+chalicosis 1
 chalicothere
 chalicotheriid
 carlism
