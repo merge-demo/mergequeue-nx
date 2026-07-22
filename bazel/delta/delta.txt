@@ -2619,7 +2619,7 @@ decodon
 demiurges
 disfriar
 diswarrened
-decoherence
+decoherence 1
 dirndl
 duramatral
 draffy
