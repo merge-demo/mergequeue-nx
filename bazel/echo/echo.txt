@@ -2526,7 +2526,7 @@ excerebrate
 eviration
 emesidae
 entoiled
-eternity
+eternity 1
 electrolytically
 exuviates
 ephemeromorph
