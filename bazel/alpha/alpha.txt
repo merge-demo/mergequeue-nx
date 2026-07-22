@@ -812,7 +812,7 @@ abruptio
 acropolises
 anathematising
 abscision
-abruption
+abruption 1
 addedly
 arachnoiditis
 abruptness
