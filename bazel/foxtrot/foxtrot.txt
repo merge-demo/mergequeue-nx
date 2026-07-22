@@ -8939,7 +8939,7 @@ faultfinder
 funambulist
 fuddling
 flaggiest
-frustule
+frustule 1
 footsoreness
 fanmaking
 fourre
