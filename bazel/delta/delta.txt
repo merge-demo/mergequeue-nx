@@ -14318,7 +14318,7 @@ ditty
 disdaining
 disseminates
 decardinalize
-dispassionate
+dispassionate 1
 didymoid
 decrial
 defervescent
