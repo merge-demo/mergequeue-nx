@@ -15588,7 +15588,7 @@ clathraceous
 clathraria
 cathidine
 clathrarian
-clathrate
+clathrate 1
 choose
 clathrinidae
 clathroid
