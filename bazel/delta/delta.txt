@@ -9689,7 +9689,7 @@ doorcase
 dipneusti
 dispense 1
 daphnias 1
-devilward
+devilward 1
 ditting
 dungbred
 diageotropy
