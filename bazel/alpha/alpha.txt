@@ -355,7 +355,7 @@ argasidae
 aberr
 alphin
 aerophone
-abdicate
+abdicate 1
 aberrancy
 aberrantly
 aberrants
