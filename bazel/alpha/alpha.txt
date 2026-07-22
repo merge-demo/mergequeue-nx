@@ -18925,7 +18925,7 @@ archines
 apio
 angili
 arteriostosis
-alsatian
+alsatian 1
 artilize
 anthropologist
 aesculapian
