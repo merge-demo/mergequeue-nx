@@ -4832,7 +4832,7 @@ dyspepsia
 delightsomely
 demonetise
 defenestrates 1
-demonetize
+demonetize 1
 derotrema
 dextrous
 dyscrasing
