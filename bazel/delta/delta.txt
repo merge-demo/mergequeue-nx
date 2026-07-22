@@ -4547,7 +4547,7 @@ demilawyer
 diwans
 demilitarisation
 demilitarised
-demilitarising
+demilitarising 1
 demilitarization
 dehydrogenase
 dibranchiate
