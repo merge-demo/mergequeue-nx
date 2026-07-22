@@ -23490,7 +23490,7 @@ conterminable
 centinormal
 callorhynchus
 carbonarism
-conterminously
+conterminously 1
 coverslut
 conterminousness
 cantharidate
