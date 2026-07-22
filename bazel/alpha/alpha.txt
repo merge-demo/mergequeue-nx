@@ -4829,7 +4829,7 @@ aerobious
 allotypy
 allophylic
 awedly
-authenticatable
+authenticatable 1
 archlute
 aeroboat
 aerobranchia
