@@ -8856,7 +8856,7 @@ esthesiometer
 earshots
 eremuri
 ethnoflora
-enerve
+enerve 1
 escharoid
 englue
 euorthoptera
