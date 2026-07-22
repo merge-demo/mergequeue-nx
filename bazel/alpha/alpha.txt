@@ -22280,7 +22280,7 @@ alcibiades
 antiquates
 astragalomancy
 addressees
-astragalotibial
+astragalotibial 1
 athermic
 anisilic
 astragalus
