@@ -13065,7 +13065,7 @@ emus
 eucaine 1
 embankment
 ergates
-enslave
+enslave 1
 embassador
 eutaxite
 explications
