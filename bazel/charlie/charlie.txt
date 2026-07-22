@@ -30925,7 +30925,7 @@ cyclitol
 cults
 cultual
 cobwebbery
-cultural
+cultural 1
 culturally
 culture
 clientship
