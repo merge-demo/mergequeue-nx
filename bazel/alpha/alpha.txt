@@ -9481,7 +9481,7 @@ alternated
 alternately
 apheretic
 achier
-alignments
+alignments 1
 assaugement
 aphengescope
 apritif
