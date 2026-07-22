@@ -8218,7 +8218,7 @@ disabusing
 demurrer
 decouples
 dyadics
-diadkokinesia
+diadkokinesia 1
 diadochi
 ductible
 depigment
