@@ -9851,7 +9851,7 @@ guajillo
 gallicism
 gongoresque 1
 gips
-grousy
+grousy 1
 gametophagia
 guajiras
 guama
