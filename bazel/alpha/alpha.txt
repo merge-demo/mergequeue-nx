@@ -5184,7 +5184,7 @@ anticommunist
 afenil
 autochanger
 afetal
-apyrexia
+apyrexia 1
 ambilaevous
 achen
 affaite
