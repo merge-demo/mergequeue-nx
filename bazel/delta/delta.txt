@@ -5752,7 +5752,7 @@ decd
 depolarise
 dehumidify
 depolarization
-dernly
+dernly 1
 depolarize
 dextrorsal
 decouple
