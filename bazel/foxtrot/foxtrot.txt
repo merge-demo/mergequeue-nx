@@ -7839,7 +7839,7 @@ figulated
 forepaws
 flingdust
 foveolets
-furcellate
+furcellate 1
 fractionisation
 fungify
 favorite 1
