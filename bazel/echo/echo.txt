@@ -13632,7 +13632,7 @@ extensibility
 euphemization
 epilemma 1
 extensions
-eggcup
+eggcup 1
 expansometer
 engrosses
 empeo
