@@ -14818,7 +14818,7 @@ conscious
 coadmiring
 cotise
 cephalorhachidian
-cyclope
+cyclope 1
 checkbird
 cytokinesis
 cytokinetic
