@@ -4002,7 +4002,7 @@ etrurian
 essie
 eupatorin
 eyestalks
-evenhand
+evenhand 1
 empearl 1
 electroretinography
 each
