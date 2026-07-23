@@ -5048,7 +5048,7 @@ deemphasis
 denationalise
 denationalize
 dedicator
-decaesarize
+decaesarize 1
 densification
 dayal 1
 drivingly
