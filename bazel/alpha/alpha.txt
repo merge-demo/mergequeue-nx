@@ -11724,7 +11724,7 @@ appraisal
 anagyrine
 anagyris
 anaglyph
-annulism
+annulism 1
 anisopleural
 anaglyphs
 anaglypta
