@@ -4447,7 +4447,7 @@ entomion
 exhilarative 2
 encarnalised 1
 encarnalize
-enteropneust
+enteropneust 1
 egghot
 effervesces
 emicate
