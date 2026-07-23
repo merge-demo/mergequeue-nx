@@ -3939,7 +3939,7 @@ bisected
 bassette
 bunch
 bristols
-behelp
+behelp 1
 bdellovibrio
 brushbird
 butanes
