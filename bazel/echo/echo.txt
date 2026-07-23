@@ -528,7 +528,7 @@ echeneidae
 echevaria
 endobiotic
 endonucleolus
-evocate
+evocate 1
 electrophorus
 elaborated
 echinacea 1
