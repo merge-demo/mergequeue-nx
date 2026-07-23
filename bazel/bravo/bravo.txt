@@ -945,7 +945,7 @@ bahaist
 blocs
 bahamians
 babbitter
-boated
+boated 1
 blitheness
 bisulfite
 bathylitic
