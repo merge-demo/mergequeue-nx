@@ -11797,7 +11797,7 @@ demirep
 diplococcoid
 dollarleaf
 delabialize
-demot
+demot 1
 duny
 dosserets
 deinodon
