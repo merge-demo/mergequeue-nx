@@ -7825,7 +7825,7 @@ fleamy 1
 fashionableness
 fowlerite
 fleshen
-fritterers
+fritterers 1
 foreordinate
 forespent
 finns
