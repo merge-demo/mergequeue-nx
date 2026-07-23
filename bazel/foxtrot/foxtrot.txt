@@ -10314,7 +10314,7 @@ fiaunt
 fraenula 1
 floodlighted
 foredoing
-fluoridized
+fluoridized 1
 faceman
 fortiori
 flexible
