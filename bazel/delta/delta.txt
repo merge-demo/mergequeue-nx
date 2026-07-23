@@ -9941,7 +9941,7 @@ dipneustal
 dogmata
 diminisher
 dezinc
-diminishingly
+diminishingly 1
 diminishment
 dulcet
 dehorned
