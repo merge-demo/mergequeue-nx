@@ -2031,7 +2031,7 @@ cytosin
 camisole
 cautela
 camisoles
-cosmolabe
+cosmolabe 1
 chlamydobacteriaceae
 camla
 camlet
