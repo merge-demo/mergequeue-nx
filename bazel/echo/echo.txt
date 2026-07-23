@@ -5197,7 +5197,7 @@ endothermically
 epimeride
 enounced
 elephants
-electrology
+electrology 1
 economists
 entocoele
 ergotist
