@@ -31514,7 +31514,7 @@ cursa
 curse
 cursedly
 cursedness
-calciferous
+calciferous 1
 cutaneous
 cursen
 conoclinium
