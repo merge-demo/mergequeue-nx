@@ -2437,7 +2437,7 @@ decimating
 dacrya
 disobediently
 degorder
-decimetre
+decimetre 1
 decimolar
 drainpipe 1
 diplacusis
