@@ -30166,7 +30166,7 @@ cruciality
 crucially
 courge
 crucian
-chokidar
+chokidar 1
 crucians
 cruciately
 cruciating
