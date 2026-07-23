@@ -8982,7 +8982,7 @@ allophones
 allophonically
 alloplast
 appetisse
-allopsychic
+allopsychic 1
 appleroot 1
 autobolide
 ailments
