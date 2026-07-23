@@ -24966,7 +24966,7 @@ awedness
 ashstone
 archconfraternities
 awee
-aweek
+aweek 1
 acanthology
 aweel
 anaerobism
