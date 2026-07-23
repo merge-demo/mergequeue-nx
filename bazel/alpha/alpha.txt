@@ -10974,7 +10974,7 @@ amoebogeniae
 amoebula
 amoy
 apinoid
-amok
+amok 1
 amoke
 azure
 antidepressive
