@@ -8225,7 +8225,7 @@ euthenic
 earlobe
 ethnomaniac
 exodontic
-effaceable
+effaceable 1
 episcia
 extracting
 ermani
