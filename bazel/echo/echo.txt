@@ -12230,7 +12230,7 @@ epiphanizing
 extralateral
 elevener
 entally
-erodable
+erodable 1
 edriasteroidea
 ergotine
 eskuara
