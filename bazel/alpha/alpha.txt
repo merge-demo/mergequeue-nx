@@ -4922,7 +4922,7 @@ amoretti
 anticommercialness
 aerograph
 americium
-amphidetic
+amphidetic 1
 aristogenic
 alluvia
 acculturized
