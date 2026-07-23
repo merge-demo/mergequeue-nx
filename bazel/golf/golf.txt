@@ -8428,7 +8428,7 @@ gelsemium
 gilten
 ghetchoo
 girondism 1
-ganderteeth
+ganderteeth 1
 gratified
 gaseous
 gratis
