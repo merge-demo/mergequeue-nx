@@ -2733,7 +2733,7 @@ cannabises
 cannabism
 calcareosulphurous
 camorra
-cannaceous
+cannaceous 1
 chaquetas
 clarigation
 cinerama
