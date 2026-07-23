@@ -17636,7 +17636,7 @@ convertend
 corrivals
 coccus
 chalazogamy
-cushite
+cushite 1
 cochairing
 chlorothiazide
 cocher
