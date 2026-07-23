@@ -11743,7 +11743,7 @@ devocalizing
 discreditability
 dahabiya
 delist
-deploredly
+deploredly 1
 damianist
 darkening
 discard
