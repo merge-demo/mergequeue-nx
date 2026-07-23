@@ -17230,7 +17230,7 @@ catacrotism
 coaly
 caixinha
 commoderate
-communicativeness
+communicativeness 1
 chambrel
 curseder
 coalier
