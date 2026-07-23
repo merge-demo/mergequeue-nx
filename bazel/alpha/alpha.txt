@@ -18496,7 +18496,7 @@ allotype
 amias
 arborea
 arrhenoid
-akroasis
+akroasis 1
 antimusical 1
 azoturias
 assassinating

@@ -13368,7 +13368,7 @@ daguerreotypes
 disporting
 discanting
 diasyrm
-doublehorned
+doublehorned 1
 disquieted
 dehydrogenised
 digitalized
