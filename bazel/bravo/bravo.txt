@@ -7204,7 +7204,7 @@ blastomeric
 bur
 bestiarian
 bestiarist
-bestock
+bestock 1
 bestow
 bestowment
 burgee
