@@ -7102,7 +7102,7 @@ flagger
 footstick
 fickler
 figurant
-fractionator
+fractionator 1
 fripper
 flaker
 fiddleback
