@@ -2364,7 +2364,7 @@ decessit
 decerebrating
 daikon
 disagreeably
-dechemicalize
+dechemicalize 1
 doctorfish
 dechloridation
 dechloridize
