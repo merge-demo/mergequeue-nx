@@ -15543,7 +15543,7 @@ draffman
 decahedra
 draegerman
 dessert
-directness 1
+directness 2
 duggler
 donkeywork
 dilator
