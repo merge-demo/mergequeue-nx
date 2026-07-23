@@ -1996,7 +1996,7 @@ glyptical
 gaurian
 gasting
 gaurie
-gaurs
+gaurs 1
 glamourous
 gaussage
 gaskings
