@@ -18822,7 +18822,7 @@ asymmetrically
 archettos
 auroauric
 assever
-assumptiveness
+assumptiveness 1
 adhibit
 archfiend
 apprize
