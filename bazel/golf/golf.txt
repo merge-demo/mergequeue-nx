@@ -4197,7 +4197,7 @@ gollar
 gymnorhinal
 gaspergou
 gluttony
-gienah
+gienah 1
 gene
 graphomania 1
 grandfather
