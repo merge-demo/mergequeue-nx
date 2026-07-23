@@ -25104,7 +25104,7 @@ cricketing
 coremorphosis
 colouring 1
 chromonematic
-coreometer
+coreometer 1
 crocks
 complacential
 coreplastic
