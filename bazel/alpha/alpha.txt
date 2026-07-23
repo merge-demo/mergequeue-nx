@@ -4773,7 +4773,7 @@ anthologizing
 aftermath
 asterionella
 acarology
-anaretic
+anaretic 1
 antihum
 aorists
 aeriality
