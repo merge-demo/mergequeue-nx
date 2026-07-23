@@ -6845,7 +6845,7 @@ cellulated
 corradiating
 cornicular
 cathro
-cellules
+cellules 1
 cellulifugal
 crevasse
 clamor
