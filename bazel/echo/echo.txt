@@ -8260,7 +8260,7 @@ enjoying 1
 entozoa
 epigenist
 exulcerate
-enweave
+enweave 1
 eleostearate
 epistlers
 epistolarian
