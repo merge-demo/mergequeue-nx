@@ -4012,7 +4012,7 @@ estus
 effloresce
 etherealized
 epilamellar
-etymologise
+etymologise 1
 evangelian
 estrapade
 enage
