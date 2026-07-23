@@ -18555,7 +18555,7 @@ coiffured
 ceroxylon
 coiffures
 coiffuring
-coifing
+coifing 1
 coeducate 1
 conner
 catheptic
