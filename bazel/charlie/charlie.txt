@@ -2297,7 +2297,7 @@ cymoid
 chargeship
 commonwealth
 cytopahgous
-canakin
+canakin 1
 canakins
 canal
 clerks
