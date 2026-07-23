@@ -12015,7 +12015,7 @@ enterfeat
 exampleship
 essentials
 eigenspace
-etherion
+etherion 1
 espeire
 embolus
 electioneerer

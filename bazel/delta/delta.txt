@@ -156,7 +156,7 @@ dewtry
 defog
 dadenhudd
 dimercurion
-deprivations
+deprivations 1
 depasturable
 dissatisfying
 dado 1
