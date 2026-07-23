@@ -18381,7 +18381,7 @@ calorize
 cognatus
 cementum
 cognisable
-chiragrical
+chiragrical 1
 catholicized
 calpulli
 corporal
