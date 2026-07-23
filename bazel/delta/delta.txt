@@ -14344,7 +14344,7 @@ diuranate
 dreadingly
 drawly
 diureide
-deteriorations
+deteriorations 1
 diureses
 diuresis
 difficile
