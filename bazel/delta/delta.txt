@@ -17407,7 +17407,7 @@ damlike
 dogeships
 dinarchy
 diener
-duvetyns
+duvetyns 1
 danged
 droseraceae
 droseraceous
