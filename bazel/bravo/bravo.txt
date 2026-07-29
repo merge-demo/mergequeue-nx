@@ -15430,7 +15430,7 @@ benetted 1
 bludgeoner
 bota
 bifurcations
-boxthorns
+boxthorns 1
 battledoring
 brilliancies
 bagged
