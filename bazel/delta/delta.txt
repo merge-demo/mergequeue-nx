@@ -10478,7 +10478,7 @@ diphtheritically
 disarraying
 dourly
 dishonesties
-diphthongally
+diphthongally 1
 disenable
 dipneust
 dismortgaged
