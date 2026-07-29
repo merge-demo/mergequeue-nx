@@ -15195,7 +15195,7 @@ counterclaimed
 clairecole
 cholesterin
 clairecolle
-catamneses
+catamneses 1
 centipede
 conforms
 cade
