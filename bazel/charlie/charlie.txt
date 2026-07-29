@@ -25911,7 +25911,7 @@ corteges
 capitalization
 congas
 coeternally
-cortexes
+cortexes 1
 cortication
 cortices
 corticiferous
