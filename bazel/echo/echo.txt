@@ -7958,7 +7958,7 @@ epimeres
 electrostenolysis
 epimerism
 enterolithiasis
-evangels
+evangels 1
 epitomate
 encephalonarcosis
 equisetic 1
