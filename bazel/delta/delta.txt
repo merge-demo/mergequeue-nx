@@ -1683,7 +1683,7 @@ dearborn
 dumortierite
 dearest
 derides
-dyne
+dyne 1
 deposition
 deadeners
 dottel
