@@ -3237,7 +3237,7 @@ capitalising
 cynocrambaceae
 cit
 capitalistically
-capitalists
+capitalists 1
 capitalizable 1
 cubatures
 coremium
