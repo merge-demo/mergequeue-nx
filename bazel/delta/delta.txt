@@ -11988,7 +11988,7 @@ descry
 decalvation
 dewater
 dilacerate 1
-deducing
+deducing 1
 deleading
 diseme
 dacelonine
