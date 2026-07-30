@@ -18658,7 +18658,7 @@ devaporation
 dereign
 deflagrability
 daishikis
-dvigu
+dvigu 1
 dwayberry
 descendance
 diligently
