@@ -4849,7 +4849,7 @@ carreton
 carri
 cetaceous
 carry
-carriageable
+carriageable 1
 carriageful
 clachans
 carriages
