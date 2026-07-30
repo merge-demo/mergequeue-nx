@@ -23763,7 +23763,7 @@ contraremonstrance
 contrariant
 contraries
 contrarily
-chancellory
+chancellory 1
 contrariness
 contrarious
 contrariously
