@@ -12743,7 +12743,7 @@ bookmobiles
 baroni
 burlesk
 bookpress
-bookracks
+bookracks 1
 blacklegging 1
 baronry
 begut
