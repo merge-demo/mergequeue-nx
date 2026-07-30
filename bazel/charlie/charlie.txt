@@ -2954,7 +2954,7 @@ cantharus
 clotter
 chank
 carabini
-cleverest
+cleverest 1
 caustic
 canthathari
 cameriera
