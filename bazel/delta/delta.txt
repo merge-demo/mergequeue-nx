@@ -8415,7 +8415,7 @@ diallagite
 deadwort
 dt
 dishonorably
-diallelus
+diallelus 1
 deflower
 dysphasic
 drowned
