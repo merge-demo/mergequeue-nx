@@ -7497,7 +7497,7 @@ gastromenia
 griffade
 gavelmen
 getmesost
-galliardize
+galliardize 1
 glossodynia
 generalization
 glial
