@@ -9699,7 +9699,7 @@ dilactone
 dilamination
 dilaniate
 doubled
-derelinquish
+derelinquish 1
 disconcord
 disembroilment
 diethylamide
