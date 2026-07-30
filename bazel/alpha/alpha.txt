@@ -11509,7 +11509,7 @@ antinatural
 amusingness
 absarokite
 amusive
-amutter
+amutter 1
 amuze
 advertisable
 apogamously
