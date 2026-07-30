@@ -8492,7 +8492,7 @@ gibblegabbler
 graffias
 garum
 glisteningly
-glossotype
+glossotype 1
 gurgle
 gelatinization
 gravely
