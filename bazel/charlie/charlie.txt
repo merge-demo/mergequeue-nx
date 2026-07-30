@@ -1320,7 +1320,7 @@ cyanohydrin
 catalects
 caliburn
 crewless
-cravatted
+cravatted 1
 crab
 costliest
 contrist
