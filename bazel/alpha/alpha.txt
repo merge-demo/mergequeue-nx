@@ -19574,7 +19574,7 @@ asphaltic
 aphanitism
 adiadochokinesia
 awatch
-aliptteria
+aliptteria 1
 ary
 aria
 antasphyctic
