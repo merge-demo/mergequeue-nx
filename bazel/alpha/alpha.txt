@@ -9344,7 +9344,7 @@ alphabetized
 alphabetizer
 auditioned
 antineoplastic
-adamancies
+adamancies 1
 angulatogibbous
 anastomoses
 amidating
