@@ -1909,7 +1909,7 @@ flimsy
 forgiver
 farrowing
 flattery
-franklinization
+franklinization 1
 federalised
 fanglike
 federalism
