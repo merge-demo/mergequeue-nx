@@ -4693,7 +4693,7 @@ elbowing
 eyeopener
 eryhtrism
 encyclopaedically 1
-extraterritorially
+extraterritorially 1
 encyclopedia
 enwoman
 encyclopediacal 1
