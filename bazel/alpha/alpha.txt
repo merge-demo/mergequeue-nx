@@ -18993,7 +18993,7 @@ archlet
 absinthin
 archleveler
 adenomalacia
-affectationist
+affectationist 1
 allocating
 abominated
 adigei
