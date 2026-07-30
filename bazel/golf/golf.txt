@@ -1027,7 +1027,7 @@ geodetician
 ganger
 guesten
 genthite
-gentlewomanliness
+gentlewomanliness 1
 germination
 geologer
 gloriette
