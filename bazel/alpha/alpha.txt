@@ -24392,7 +24392,7 @@ aarrgh
 alluded
 alembics
 auksinai
-autosyndesis
+autosyndesis 1
 appreciable
 antisuffragist
 acetylenation
