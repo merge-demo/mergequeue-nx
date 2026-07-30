@@ -10469,7 +10469,7 @@ amic 1
 amicability
 antiadiaphorist
 appredicate
-amicably
+amicably 1
 amphipodous
 amical
 amarettos
