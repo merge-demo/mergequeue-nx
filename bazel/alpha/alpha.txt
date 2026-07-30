@@ -20645,7 +20645,7 @@ anserous
 acequias
 amynodon
 arthrosis
-anapterygota
+anapterygota 1
 aeromagnetic
 adderwort
 albumen
