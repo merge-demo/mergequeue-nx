@@ -17417,7 +17417,7 @@ deliquate
 disequilibrate 1
 drosometer
 decarbonising
-drosophilas
+drosophilas 1
 dephasing
 dabuh
 drosophyllum
