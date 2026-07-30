@@ -22370,7 +22370,7 @@ conic
 conical
 canajong
 cataloguish
-corrupable
+corrupable 1
 conicality
 chordally
 crookfingered
