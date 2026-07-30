@@ -18477,7 +18477,7 @@ diose
 dislocation
 dupped
 dyschronous
-detractively
+detractively 1
 dacryoma
 dupper 1
 dejerator
