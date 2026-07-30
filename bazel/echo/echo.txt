@@ -1743,7 +1743,7 @@ ecstatic
 expwy
 exaggerates
 engining
-effeminized
+effeminized 1
 eyeliners
 elkhound
 endoneurial
