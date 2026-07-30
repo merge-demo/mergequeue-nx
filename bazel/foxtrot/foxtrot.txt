@@ -1203,7 +1203,7 @@ foxproof
 fountainlike
 fleckled
 fleckiness
-figury
+figury 1
 feinted
 fash
 friborgh
