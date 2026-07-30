@@ -3350,7 +3350,7 @@ adamantness
 actinochemical
 aphthongia
 adamantoblast
-archery
+archery 1
 amblystoma
 absentee
 atresic
