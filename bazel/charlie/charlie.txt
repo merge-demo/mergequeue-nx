@@ -7418,7 +7418,7 @@ cephalous
 cephas
 cepheid
 conchucu
-cepheids
+cepheids 1
 cephen
 coastings 1
 cardionephric
