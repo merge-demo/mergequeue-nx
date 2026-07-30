@@ -15102,7 +15102,7 @@ dogmatise
 dogmatised
 dressoirs
 dogmatizer
-dispensator
+dispensator 1
 discotheques
 darkeners
 dowdiness
