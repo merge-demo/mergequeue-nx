@@ -22419,7 +22419,7 @@ astrologist
 anagrammatise
 antiluetin
 astrologize
-advancers
+advancers 1
 astromancer
 astromantic 1
 astromeda
