@@ -4106,7 +4106,7 @@ foolship
 finnicize
 fluctisonant
 fenestellid
-finitely
+finitely 1
 fratery
 felicitously
 foresightless
