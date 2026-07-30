@@ -9378,7 +9378,7 @@ attack
 alphonist
 alphonse
 alphonsin
-airproof
+airproof 1
 advertisement
 alphonsine
 alphosis
