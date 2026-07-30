@@ -2730,7 +2730,7 @@ fetation
 friezed
 fraternization
 forelimbs 1
-fyce
+fyce 1
 fraela
 folklore
 faunas
