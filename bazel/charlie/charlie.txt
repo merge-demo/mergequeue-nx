@@ -20404,7 +20404,7 @@ compadres
 compage
 compagnies
 cresols
-condonative
+condonative 1
 concamerate
 companable 1
 companage
