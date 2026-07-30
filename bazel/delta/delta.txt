@@ -7277,7 +7277,7 @@ deuce
 data
 dear
 dicyan
-diamondlike
+diamondlike 1
 dreamily
 deteriorative
 dravida
