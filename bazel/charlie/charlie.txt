@@ -15345,7 +15345,7 @@ caracter
 clanking
 chlorimetry
 curvilineal
-coldfinch
+coldfinch 1
 clankingly
 cornfloor
 clankless
