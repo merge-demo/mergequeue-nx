@@ -7168,7 +7168,7 @@ epistemonic
 eucaryote
 extraequilibrium
 enwallow
-excandescence
+excandescence 1
 earthshine
 endymion
 eposes
