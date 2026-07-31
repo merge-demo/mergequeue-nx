@@ -869,7 +869,7 @@ fulicine 1
 formatively
 freshet
 faltboats
-falconets
+falconets 1
 forzando
 fourchette
 fireworks
