@@ -16339,7 +16339,7 @@ daven
 dismount
 divergently
 discinoid
-downsizing
+downsizing 1
 defensible
 discontinuable
 dichord
