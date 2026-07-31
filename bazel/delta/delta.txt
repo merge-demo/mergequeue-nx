@@ -5394,7 +5394,7 @@ decorative
 dentistical
 dentistry 1
 detribalizing
-duograph
+duograph 1
 dolldom
 dilating
 disrate
