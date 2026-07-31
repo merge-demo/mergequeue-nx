@@ -8908,7 +8908,7 @@ griquaite
 glomerella
 goniopholidae
 gentman
-gobang
+gobang 1
 grete
 grainage
 ganglier
