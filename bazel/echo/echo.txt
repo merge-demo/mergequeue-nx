@@ -8973,7 +8973,7 @@ endopleurite
 erratics
 erythrocytes
 exhilarant
-explorative
+explorative 1
 emboldening
 enjoinment
 electrophonic
