@@ -21881,7 +21881,7 @@ cuspated 1
 crescentwise
 conferences
 conferential
-conferral
+conferral 1
 creodont
 conferred
 conferrence
