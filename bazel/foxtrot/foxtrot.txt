@@ -236,7 +236,7 @@ fringy
 functionaries
 fulimart
 frostbound
-fritterer
+fritterer 1
 facultize
 fulgur
 finify
