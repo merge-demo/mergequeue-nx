@@ -21623,7 +21623,7 @@ carideer
 condescensions
 crownation
 ceromez 1
-condescensive
+condescensive 1
 callout
 condescensively
 condescensiveness
