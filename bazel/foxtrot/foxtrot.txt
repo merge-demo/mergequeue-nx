@@ -7220,7 +7220,7 @@ factionaries
 fairer
 farers
 falderols
-fimbrillose
+fimbrillose 1
 fiend
 fiver
 foreground 1
