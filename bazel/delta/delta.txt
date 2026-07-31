@@ -1553,7 +1553,7 @@ dicranoid
 doubtfulness
 deactivation
 deactivators
-distressedness
+distressedness 1
 doublure
 deadlier
 deaden
