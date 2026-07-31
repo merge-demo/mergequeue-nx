@@ -15200,7 +15200,7 @@ centipede
 conforms
 cade
 curtailments
-clairseach
+clairseach 1
 caplan
 cloisteral
 cardiemphraxia
