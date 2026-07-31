@@ -270,7 +270,7 @@ expiry
 expressivism
 eucalyptole
 eightsmen
-electrostatic 1
+electrostatic 2
 encashed
 electroplated
 expiries
