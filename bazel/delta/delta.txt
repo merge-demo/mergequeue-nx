@@ -5926,7 +5926,7 @@ dolerin
 demonstration
 dispossessing
 deep
-dowy
+dowy 1
 draggily
 disincrust
 depressomotor
