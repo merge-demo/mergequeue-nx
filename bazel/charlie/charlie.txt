@@ -26251,7 +26251,7 @@ costated
 cloacas
 congrio
 cedron
-confectionery
+confectionery 1
 coindication
 costectomy
 costectomies
