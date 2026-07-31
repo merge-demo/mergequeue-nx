@@ -887,7 +887,7 @@ guerrilla
 gametangia
 gerontomorphosis
 grillwork
-gotha
+gotha 1
 gametocyst 1
 glycoluril
 gametocyte
