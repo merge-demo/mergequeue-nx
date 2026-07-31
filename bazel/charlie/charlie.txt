@@ -12393,7 +12393,7 @@ chromatoptometry
 couch
 cobalticyanic
 chromatoscopy
-circumduct
+circumduct 1
 chromatosis
 chromaturia
 calciphilic
