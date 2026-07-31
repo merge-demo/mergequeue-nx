@@ -7238,7 +7238,7 @@ detectible
 detection
 diamantiferous
 deadlight
-disparatum
+disparatum 1
 daguilla
 darklings
 delubrum
