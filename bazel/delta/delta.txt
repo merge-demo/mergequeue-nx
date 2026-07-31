@@ -2957,7 +2957,7 @@ dediticiancy
 dedogmatize
 discounted
 dedolation
-deseret
+deseret 1
 destinal
 dotingness
 diegesis
