@@ -7706,7 +7706,7 @@ bhangi
 bhara
 bharal
 basaltiform
-bhat
+bhat 1
 burglaries
 bunning 1
 bheesty

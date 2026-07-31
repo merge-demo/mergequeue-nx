@@ -8564,7 +8564,7 @@ equatorward
 etheriform
 equatorwards
 excessmen
-ectomeric
+ectomeric 1
 ecalcarate
 equestrian
 epigeous
