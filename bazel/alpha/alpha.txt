@@ -17457,7 +17457,7 @@ armaturing
 appallment
 aerodyne
 availability
-anamorphic
+anamorphic 1
 armers
 amplifying
 autobasidia
