@@ -21742,7 +21742,7 @@ autoclaved
 alewife
 acetimetric
 assentingly
-assentive
+assentive 1
 antithet
 architectonics
 abbroachment
