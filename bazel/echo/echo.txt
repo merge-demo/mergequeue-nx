@@ -509,7 +509,7 @@ explorer
 exceptionally
 epigrammatarian
 ethnographies
-effeminated
+effeminated 1
 ecesic
 ectropometer
 ecgonin
