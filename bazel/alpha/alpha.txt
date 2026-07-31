@@ -7754,7 +7754,7 @@ aration
 aldermanity
 anacrotism
 aplustria
-avulses
+avulses 1
 amphikaryon
 antiseptical
 aldermanship
