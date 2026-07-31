@@ -10392,7 +10392,7 @@ dfault
 deejays
 dioxane
 dioxanes
-demonises
+demonises 1
 droiture
 diplosphene
 dioxy
