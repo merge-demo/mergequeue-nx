@@ -6171,7 +6171,7 @@ groveling
 goal
 griffithite
 galactophore
-goniatite
+goniatite 1
 gigantolite
 gunmanship
 goyin
