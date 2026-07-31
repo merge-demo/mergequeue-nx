@@ -16996,7 +16996,7 @@ disemplaned
 dreidels
 dreikanter
 dreynt
-distendedly
+distendedly 1
 duplicature
 disordered
 damkjernite
