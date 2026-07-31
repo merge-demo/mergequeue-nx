@@ -15584,7 +15584,7 @@ armadillo
 ailurophile
 aquage
 altrose
-approves
+approves 1
 assumpt
 antimoralistic
 accrescence
