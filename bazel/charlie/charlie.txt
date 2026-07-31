@@ -16577,7 +16577,7 @@ collateralize
 contraparallelogram
 complicities
 clonic
-clonicity
+clonicity 1
 cytophaga
 clonicotonic
 cunctatious
