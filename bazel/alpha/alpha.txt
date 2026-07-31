@@ -23081,7 +23081,7 @@ asfast
 attainment
 attainor
 acridium
-attainted
+attainted 1
 asepticized
 afferently
 adjoiningness
