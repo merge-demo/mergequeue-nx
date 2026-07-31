@@ -29078,7 +29078,7 @@ crimson
 crimsoned
 credendum
 crimsonness
-crin
+crin 1
 crinal
 ceresine
 contrapone
