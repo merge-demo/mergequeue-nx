@@ -4797,7 +4797,7 @@ gizzern
 glycogenize
 gjedost
 gastropleuritis
-gyniatrics
+gyniatrics 1
 grandiloquent
 gravedo
 glorifies
