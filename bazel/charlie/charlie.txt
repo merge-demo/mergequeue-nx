@@ -6185,7 +6185,7 @@ caubeen
 coky
 compoundable
 cauboge
-caucasian
+caucasian 1
 caucasians
 carcan
 caucasic
