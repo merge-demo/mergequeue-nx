@@ -7775,7 +7775,7 @@ equispatial
 exotisms
 easternmost
 embolite
-expedientially
+expedientially 1
 episodes
 electrodynamical
 etymologies
