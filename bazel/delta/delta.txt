@@ -15754,7 +15754,7 @@ dizygotic
 dormers
 dormette
 desolator
-dormeuse
+dormeuse 1
 dormice
 dormilona
 dormitive
