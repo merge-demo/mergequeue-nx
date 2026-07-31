@@ -25733,7 +25733,7 @@ churchlet
 corridas
 chedlock
 corridors
-corriedale
+corriedale 1
 corrige
 corrigenda
 compossibility
