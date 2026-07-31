@@ -14542,7 +14542,7 @@ directrixes
 downpouring
 divisibility
 divisibilities
-divisible
+divisible 1
 division
 dollop
 degomme
