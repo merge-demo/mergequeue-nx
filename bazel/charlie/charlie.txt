@@ -18270,7 +18270,7 @@ coffin 1
 copper
 coffing
 colpoplastic
-coffinless
+coffinless 1
 consoled
 chalcographer
 coffinmaking
