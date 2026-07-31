@@ -8570,7 +8570,7 @@ chancroid
 chrestomathic
 chainstitch
 chancroidal
-chorgi
+chorgi 1
 chandala
 chandelle
 chandelling
