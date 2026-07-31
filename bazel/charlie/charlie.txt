@@ -20384,7 +20384,7 @@ compactible
 crampedness
 categorizations
 cincinnus
-compactly
+compactly 1
 conciliatingly
 chondrodynia
 catabolize
