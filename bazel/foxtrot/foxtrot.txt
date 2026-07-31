@@ -11681,7 +11681,7 @@ festoons
 flocculate
 frigorific 1
 feru
-feminines
+feminines 1
 felids
 fusarial
 forelands 1

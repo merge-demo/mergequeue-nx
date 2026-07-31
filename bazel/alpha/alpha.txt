@@ -4883,7 +4883,7 @@ allochirally
 astonisher
 anthroposophist
 amaranthine
-auslaut
+auslaut 1
 airphobia
 adelochorda
 aliyoth
