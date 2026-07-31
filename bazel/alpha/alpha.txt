@@ -4369,7 +4369,7 @@ adstipulator
 aduana
 adularescence
 appointments
-abbes
+abbes 1
 assertorial
 atelectatic
 ankylomerism
