@@ -7126,7 +7126,7 @@ aerocartograph
 actuator
 anointers
 akmuddar
-aknow
+aknow 1
 aggradation
 agglomerating
 awber
