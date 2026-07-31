@@ -237,7 +237,7 @@ abbotric
 allokinesis 1
 alchemistical
 adipolytic
-ajourise
+ajourise 1
 aeroliths
 absorptiometric
 abbott
