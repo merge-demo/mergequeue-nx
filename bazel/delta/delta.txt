@@ -16002,7 +16002,7 @@ dehumanize
 dimanganous
 dispetal
 douane
-doub
+doub 1
 downsize
 decrepitude
 direct
