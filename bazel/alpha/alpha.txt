@@ -9528,7 +9528,7 @@ aspidate
 anargyroi
 ambassiate
 alonzo 1
-althorn
+althorn 1
 alticamelus
 apagoge
 altify
