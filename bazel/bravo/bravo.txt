@@ -11097,7 +11097,7 @@ blodite
 besmeared
 breakfasts
 barrooms
-buoyance
+buoyance 1
 bodikin
 backbreaking
 bakongo
