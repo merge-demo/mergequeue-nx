@@ -3516,7 +3516,7 @@ cabman
 capsulogenous
 cataphyllum
 capsulolenticular
-capsulopupillary
+capsulopupillary 1
 chromospheres
 capsulorrhaphy
 convocationally
