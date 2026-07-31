@@ -22943,7 +22943,7 @@ atrenne
 adless
 anteriorly
 azobenzoic 1
-appositional
+appositional 1
 apis
 alose
 atria
