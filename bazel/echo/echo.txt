@@ -3396,7 +3396,7 @@ equivocally
 epinephelus
 ebullate
 exurbanite
-exacters
+exacters 1
 emphase
 egoist
 embargoes
