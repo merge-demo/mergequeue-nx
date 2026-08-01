@@ -2581,7 +2581,7 @@ acoustoelectric
 acpt
 acridinic
 acquaint
-acquaintanceship
+acquaintanceship 1
 acidophilus
 acquisible
 aggeration
