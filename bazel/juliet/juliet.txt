@@ -8921,7 +8921,7 @@ jokb
 jokbjur
 jokdi
 joke
-jokf
+jokf 1
 jokfrydssn
 jokfydijzuivcu
 jokgcykbd
