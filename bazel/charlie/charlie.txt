@@ -25608,7 +25608,7 @@ corporeally
 cravenhearted
 corporeals
 cob
-corporeity
+corporeity 1
 crankier
 conicities
 corporeous
