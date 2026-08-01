@@ -4264,7 +4264,7 @@ captainries
 caresser
 clobberer
 colleens
-caressers
+caressers 1
 costively
 caressingly
 cachinnation
