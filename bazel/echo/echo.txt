@@ -4013,7 +4013,7 @@ effloresce
 etherealized
 epilamellar
 etymologise
-evangelian
+evangelian 1
 estrapade
 enage
 extirpated
