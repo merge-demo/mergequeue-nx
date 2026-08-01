@@ -8644,7 +8644,7 @@ fourposters
 futharks
 feet
 fuzes
-finites
+finites 1
 forborn
 fytte
 farstepped
