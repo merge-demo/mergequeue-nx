@@ -5053,7 +5053,7 @@ aerosolized
 aerostatic
 aerostatical
 argas
-appertain
+appertain 1
 advancements
 androgyneity
 aerosteam
