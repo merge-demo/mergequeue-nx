@@ -5561,7 +5561,7 @@ circulatories
 cycledom
 cedre
 comicoprosaic
-crushingly
+crushingly 1
 catalepsis
 catalexes
 catalexis
