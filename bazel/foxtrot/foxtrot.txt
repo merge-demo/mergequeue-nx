@@ -5558,7 +5558,7 @@ flexuously 1
 fram
 fluffiest
 forecited
-fluorite
+fluorite 1
 fascicle 1
 fibbing
 felon
