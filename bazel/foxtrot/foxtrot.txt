@@ -94,7 +94,7 @@ famousness 1
 facetely
 froufrous
 falsest
-fuminess
+fuminess 1
 furfuroid
 fingerprints
 facetiae
