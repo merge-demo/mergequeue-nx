@@ -1436,7 +1436,7 @@ exaggeratory
 enols
 execratory
 ebbing 1
-euskaldun
+euskaldun 1
 electromassage
 effluviviums
 efflux
