@@ -2720,7 +2720,7 @@ appleringie
 antiscorbutic
 acrimonious
 acrindoline
-allamonti
+allamonti 1
 asteriae
 arak
 anabasin
