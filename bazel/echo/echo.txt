@@ -5579,7 +5579,7 @@ experimentations
 excriminate
 extraovular
 enfilades
-escutcheoned
+escutcheoned 1
 eerinesses
 encasement
 enucleator
