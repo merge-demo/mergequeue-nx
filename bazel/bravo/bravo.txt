@@ -12075,7 +12075,7 @@ bokhara
 baronized
 boronic
 bokharan
-bokom
+bokom 1
 bolag
 bosey
 bolas
