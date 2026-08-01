@@ -10277,7 +10277,7 @@ dusts
 deconcentrating
 disaccustom
 doornail
-deifiers
+deifiers 1
 dioctahedral
 dioctophyme
 deave
