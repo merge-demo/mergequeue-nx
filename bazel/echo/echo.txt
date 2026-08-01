@@ -13418,7 +13418,7 @@ expressio
 exploring
 ensnaringly
 expressional
-erupted
+erupted 1
 eikones
 ebionitic
 ectogenic
