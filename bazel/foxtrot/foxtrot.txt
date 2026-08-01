@@ -5145,7 +5145,7 @@ furless
 foretooth 1
 floccular
 fellifluous
-furbelows
+furbelows 1
 froom
 flatlands
 fiberized
