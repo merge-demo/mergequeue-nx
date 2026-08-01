@@ -1421,7 +1421,7 @@ disintegrable
 dulcid
 dechoralize
 deportation
-dawdling
+dawdling 1
 dibbed
 dryster
 dichotomized
