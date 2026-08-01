@@ -25818,7 +25818,7 @@ corrugate
 corrugated
 cataphoric
 corrugator
-cadelle
+cadelle 1
 coir
 corrugent
 cryptonym
