@@ -5330,7 +5330,7 @@ glaived
 gourds
 gonidia
 glomerulate
-galactosemic
+galactosemic 1
 galactoma
 gabionade
 glassmen
