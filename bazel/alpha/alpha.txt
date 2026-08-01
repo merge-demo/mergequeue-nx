@@ -17608,7 +17608,7 @@ agrobiological
 adjudges
 adjudgeable
 antimask
-antiphonical
+antiphonical 1
 abdominales
 ascended
 almandite
