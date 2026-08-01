@@ -532,7 +532,7 @@ dalmatic
 dalt
 dawen
 dalton
-denomination
+denomination 1
 dermaskeleton
 dama
 damageability
