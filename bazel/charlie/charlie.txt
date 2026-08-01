@@ -16748,7 +16748,7 @@ comptrollership
 clouds
 chanteuses
 cloudship
-cursedest
+cursedest 1
 chalcophile
 cloudward
 cloudwards
