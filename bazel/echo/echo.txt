@@ -9028,7 +9028,7 @@ electromyographic 1
 eurychoric
 erythroblastic
 extrafoliaceous
-errancy
+errancy 1
 electrocardiographs
 evaginating 1
 euchring
