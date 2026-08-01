@@ -5552,7 +5552,7 @@ foreclosable
 ferdiad 1
 fleecer
 fatal
-foraminiferous
+foraminiferous 1
 flirtish
 flexuously 1
 fram
