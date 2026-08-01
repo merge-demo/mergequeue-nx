@@ -7479,7 +7479,7 @@ burtree
 bully
 berhymed
 burd
-bistre
+bistre 1
 bramantesque
 bullragged
 bleariest
