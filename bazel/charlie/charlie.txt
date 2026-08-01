@@ -9741,7 +9741,7 @@ centennial
 chekan
 connatal
 cheke
-cheken
+cheken 1
 chekhov
 composal 1
 colourable
