@@ -5113,7 +5113,7 @@ bureaucrat
 beflap
 beflea
 brainier
-belching
+belching 1
 borderers
 boussingaultite
 bunrakus
