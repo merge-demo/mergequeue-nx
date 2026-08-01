@@ -2424,7 +2424,7 @@ ackmen
 acanthocephali
 algonquin
 aluminized
-antitartaric
+antitartaric 1
 anoil
 autoriser
 atrochal

@@ -11022,7 +11022,7 @@ chirre
 carbides
 chirrs
 coscoroba
-chirrup
+chirrup 1
 captions
 chirrupy
 chirrupper
