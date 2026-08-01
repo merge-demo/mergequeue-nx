@@ -5612,7 +5612,7 @@ goldseed
 grisping
 guayroto
 glochid 1
-geranial
+geranial 1
 gemology
 garnice
 gradable
