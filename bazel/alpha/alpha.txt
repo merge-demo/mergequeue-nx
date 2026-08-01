@@ -24685,7 +24685,7 @@ anopheline
 averments
 admove
 aeneid
-antidiastase
+antidiastase 1
 amelioration
 acnode
 averral
