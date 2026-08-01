@@ -2603,7 +2603,7 @@ feoffed
 fancily 1
 foresheet
 ferromanganese
-ferrometer
+ferrometer 1
 filagreed
 ferronatrite
 follis
