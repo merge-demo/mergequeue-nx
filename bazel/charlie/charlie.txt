@@ -12768,7 +12768,7 @@ chumminess
 chump
 chumpa
 conglobing
-chumpaka
+chumpaka 1
 cyclopedic
 communalisation
 chumpish
