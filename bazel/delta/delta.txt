@@ -14275,7 +14275,7 @@ depaganize
 demarcature
 dithyrambs
 dithyrambus
-dominicker
+dominicker 1
 denotationally 1
 dytiscid
 daubier
