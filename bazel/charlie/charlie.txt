@@ -26813,7 +26813,7 @@ corporator
 cambiogenetic
 counterengine
 counterenthusiasm 1
-counterentry
+counterentry 1
 counterequivalent 1
 credited
 counterermine
