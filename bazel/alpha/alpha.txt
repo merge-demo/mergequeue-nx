@@ -24924,7 +24924,7 @@ automotor
 arseniosiderite
 ankylose
 adroit
-antidiphtheritic
+antidiphtheritic 1
 awkwardish
 awarders
 athalamous
