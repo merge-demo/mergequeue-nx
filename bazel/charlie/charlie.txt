@@ -8367,7 +8367,7 @@ catacrotic
 chalumeau
 collegium
 capercailye
-chalumeaux
+chalumeaux 1
 chalutzim
 chama
 coworkers
