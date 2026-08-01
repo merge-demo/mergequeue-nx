@@ -3352,7 +3352,7 @@ caponized
 contrasty
 caponizer
 caponizing 1
-caponniere
+caponniere 1
 capons
 caporal
 caporals
