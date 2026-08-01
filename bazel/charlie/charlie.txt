@@ -15929,7 +15929,7 @@ clepsydra
 contorniate
 clepsine
 condemnatory
-cleptobioses
+cleptobioses 1
 conics
 coadministration
 coryphylly
