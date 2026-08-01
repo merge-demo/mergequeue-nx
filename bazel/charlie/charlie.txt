@@ -2186,7 +2186,7 @@ campier
 campiest
 campignian
 campylite
-campylometer
+campylometer 1
 cynicist
 coffeecup
 campyloneuron
