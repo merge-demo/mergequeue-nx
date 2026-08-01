@@ -10764,7 +10764,7 @@ arthroses
 alterableness
 amitate
 antighostism
-abandonments
+abandonments 1
 anteinitial
 amities
 amitotic
