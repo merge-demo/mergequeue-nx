@@ -11913,7 +11913,7 @@ dedifferentiated
 dropsical
 defrosters
 dramm
-dhunchi
+dhunchi 1
 decalescence
 discuses
 disease
