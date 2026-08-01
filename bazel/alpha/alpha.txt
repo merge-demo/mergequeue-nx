@@ -1350,7 +1350,7 @@ accelerators
 amlet
 aumbries
 accelerometer
-accelerometers
+accelerometers 1
 anticatholic
 anapaestical
 anticnemion
