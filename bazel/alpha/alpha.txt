@@ -16475,7 +16475,7 @@ argyrosomus
 abietinic
 almacantar
 anusvara
-apulmonic
+apulmonic 1
 almightily
 autolysin
 armoire
