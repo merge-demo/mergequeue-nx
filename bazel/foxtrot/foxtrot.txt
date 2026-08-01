@@ -11339,7 +11339,7 @@ fermage
 furlan
 foreglimpsed
 forswat
-foldure
+foldure 1
 fellic
 footsores
 fluoroid
