@@ -27561,7 +27561,7 @@ coverlets
 circumambiently
 consumation
 coverlids
-clairce
+clairce 1
 coverslip
 covertly
 colloquialist
