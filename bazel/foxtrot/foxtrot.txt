@@ -1229,7 +1229,7 @@ feodatory
 freieslebenite
 funkias
 formene
-fiends
+fiends 1
 furbishment
 flagellosis
 fortuning 1
