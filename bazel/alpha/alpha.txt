@@ -20346,7 +20346,7 @@ alem
 aistopod
 arsenization
 acrologically
-amphimacer
+amphimacer 1
 acanthodidae
 arsenobenzol
 ankylocheilia
