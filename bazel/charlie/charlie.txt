@@ -2018,7 +2018,7 @@ camion 1
 camions
 camisa
 camisadoes
-classicising
+classicising 1
 cloddy
 camisard
 capsicins
