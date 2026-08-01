@@ -2153,7 +2153,7 @@ idcjw
 idcmyn
 idcn
 idcnuf
-idcnx
+idcnx 1
 idcoah
 idcurlts 1
 idcuydbnwtpm
