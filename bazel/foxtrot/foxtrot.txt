@@ -9457,7 +9457,7 @@ furnaceman
 fulcrate 1
 flounderingly
 fratricelli
-furculum
+furculum 1
 fastwalk 1
 fidele
 fraternities
