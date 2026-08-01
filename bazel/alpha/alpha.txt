@@ -3329,7 +3329,7 @@ alumroot
 aggravation
 appassionato 1
 adagissimo
-achromatise
+achromatise 1
 amalgamators
 aphototactic
 archiprelatical
