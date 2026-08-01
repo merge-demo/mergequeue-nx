@@ -24987,7 +24987,7 @@ circumpolar
 cordal
 cordate
 catawamptious
-clavicytherium
+clavicytherium 1
 cordax
 carnivora
 castoff
