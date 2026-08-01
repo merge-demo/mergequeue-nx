@@ -16649,7 +16649,7 @@ drainage
 drained 1
 drainer
 dragbolt
-dawdle
+dawdle 1
 dogging
 drainers 1
 drainfield
