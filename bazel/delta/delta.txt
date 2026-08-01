@@ -12134,7 +12134,7 @@ dp
 deutoscolex
 deescalates
 dorbie
-disparager
+disparager 1
 delusion
 dognaps
 dysesthesia
