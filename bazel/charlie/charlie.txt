@@ -19622,7 +19622,7 @@ creeperless
 columnizing
 constitutioner
 colure
-contracted
+contracted 1
 constricts
 countreeman
 choregraphically
