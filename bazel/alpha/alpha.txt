@@ -6890,7 +6890,7 @@ asst
 archmurderer
 abietin
 aistopoda
-algonkian
+algonkian 1
 archdolt
 aggrieving
 anatinacea
