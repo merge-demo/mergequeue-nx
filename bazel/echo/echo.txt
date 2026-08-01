@@ -8924,7 +8924,7 @@ erses
 egestive
 essive
 epiphanies
-errhine
+errhine 1
 eudaemonist
 erical
 exoskeletal
