@@ -2722,7 +2722,7 @@ fiefs
 farcicalness
 flagitate
 fimbriated
-fusain
+fusain 1
 frigged
 fleuronne
 filmish
