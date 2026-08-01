@@ -2765,7 +2765,7 @@ elegising
 egards
 esterizing
 excuderunt
-elegized
+elegized 1
 elegizes
 eleidin
 encrusts
