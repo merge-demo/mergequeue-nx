@@ -13684,7 +13684,7 @@ cinchonaceae
 conuzor
 cinchonaceous 1
 cathedratica
-cinchonamine
+cinchonamine 1
 cinchonas
 cinchonic
 cinchonicine 1
