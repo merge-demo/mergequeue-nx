@@ -4954,7 +4954,7 @@ exencephalic 1
 ectocoelic
 eyelight
 emporetic
-eurytomid
+eurytomid 1
 emulsifiers
 earnestful
 ephemerally
