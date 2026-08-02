@@ -6080,7 +6080,7 @@ gallature
 grinding 1
 gnathostomata
 gastrocnemial
-gypsography
+gypsography 1
 gph
 gnats
 glutaeous
