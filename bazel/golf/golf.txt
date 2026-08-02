@@ -2787,7 +2787,7 @@ glassie 1
 gelee
 gantlope
 goblets
-gluttonised
+gluttonised 1
 graduals
 gurr
 gemeinde
