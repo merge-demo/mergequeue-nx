@@ -7696,7 +7696,7 @@ epideictic
 endomesoderm
 eightieths
 endotheliomata
-eboulement
+eboulement 1
 endlichite
 euphemiser
 electrotautomerism
