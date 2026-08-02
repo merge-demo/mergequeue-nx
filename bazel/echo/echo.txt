@@ -2877,7 +2877,7 @@ expt
 endomorphic
 elder
 epitympa
-effable
+effable 1
 estoppels
 eleutherophobia
 elaphomycetaceae
