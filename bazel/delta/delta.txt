@@ -5956,7 +5956,7 @@ doublehandedness
 dingly
 damascening 1
 dianthus
-destalinize
+destalinize 1
 discussible
 dayfly
 diplodus

@@ -1415,7 +1415,7 @@ erasions
 ericoid
 entosterna
 excoct
-encashable
+encashable 1
 enzymes
 efflorescing
 effluences
