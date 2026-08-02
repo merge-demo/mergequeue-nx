@@ -9,7 +9,7 @@ electrochronograph
 engirding
 epidermoid
 erigeron
-evaporometer
+evaporometer 1
 euchologion
 emigate
 erosivity
