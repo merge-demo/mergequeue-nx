@@ -15046,7 +15046,7 @@ antipewism
 anticularia
 antidactyl
 antidemocrat
-auroras
+auroras 1
 alienator
 antidemocratically
 antidemoniac
