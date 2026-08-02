@@ -17504,7 +17504,7 @@ cobourg
 cueca
 coinitial
 cobridgehead
-chrysostomic
+chrysostomic 1
 chimneyhead
 coburg
 cobweb
