@@ -2084,7 +2084,7 @@ campaigners
 campaigns
 colostric
 campana
-campane
+campane 1
 campanella
 coadjuvancy
 campania
