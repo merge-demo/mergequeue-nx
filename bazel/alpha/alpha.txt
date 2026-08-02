@@ -24562,7 +24562,7 @@ abamperes
 auxology
 ammonea
 argentarius
-auxospore
+auxospore 1
 anachorism
 auxotonic
 annihilator
