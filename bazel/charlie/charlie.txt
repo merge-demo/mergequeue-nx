@@ -19849,7 +19849,7 @@ comfort
 cryptoglaux
 comfortableness
 comfortation
-churchly
+churchly 1
 comfortative 1
 comforters 1
 comfortingly
