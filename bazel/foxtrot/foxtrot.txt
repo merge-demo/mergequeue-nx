@@ -9682,7 +9682,7 @@ fingerroot
 functorial
 filch
 filosofe
-fanit
+fanit 1
 flied
 femes
 feaking
