@@ -12289,7 +12289,7 @@ ellagitannin
 epibolic
 exsequatur
 exempted
-exemption
+exemption 1
 essenhout
 entremess
 errorless
