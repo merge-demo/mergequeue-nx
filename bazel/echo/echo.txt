@@ -11652,7 +11652,7 @@ equianchorate
 epitaphical
 exacting
 electroirrigation
-eruca
+eruca 1
 electivity
 eliminations
 eburnian
