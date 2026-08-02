@@ -9578,7 +9578,7 @@ bisdiapason
 binary
 bicapsular
 bandlimits
-bisectors
+bisectors 1
 bisectrices
 busybodyness
 bullheadedness
