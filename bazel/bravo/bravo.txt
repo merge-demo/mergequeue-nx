@@ -7606,7 +7606,7 @@ bewitchingness
 brownprint
 bewitchment
 bounderishly
-bewizard
+bewizard 1
 bombycina 1
 blandished
 bimolecular
