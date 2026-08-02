@@ -10334,7 +10334,7 @@ delf
 discounter
 dioptometer
 deoxidized
-disnature
+disnature 1
 denudation
 deducement
 desilverizer
