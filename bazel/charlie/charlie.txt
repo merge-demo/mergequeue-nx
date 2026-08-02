@@ -8594,7 +8594,7 @@ chandui
 countercross
 chandul
 chane
-caitiff
+caitiff 1
 chanfrons
 capitelliform
 changeable
