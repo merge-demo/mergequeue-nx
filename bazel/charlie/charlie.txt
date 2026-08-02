@@ -25749,7 +25749,7 @@ cleruch
 corrigibly
 corrigiola
 corrival
-corrivality
+corrivality 1
 craniologist
 corrivalry
 corrivalship
