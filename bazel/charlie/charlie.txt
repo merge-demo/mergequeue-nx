@@ -13667,7 +13667,7 @@ carlet
 corolline
 chagal
 cyanometry
-cynareous
+cynareous 1
 cynaroid
 chromatical
 cinch
