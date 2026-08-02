@@ -11487,7 +11487,7 @@ choired
 choirlike
 conoidally
 choristoma
-coheads
+coheads 1
 circularizer
 choirman
 conspirers
