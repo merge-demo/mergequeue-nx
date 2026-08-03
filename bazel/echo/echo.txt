@@ -2317,7 +2317,7 @@ epidemiologist
 exterminations
 ensepulchre
 evangelicalness
-electrizable 1
+electrizable 2
 electrization
 enterohepatitis
 excavated
