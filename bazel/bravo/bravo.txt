@@ -6807,7 +6807,7 @@ bioacoustics
 basigenous
 bertrum
 bullarium
-beachy
+beachy 1
 broadsided
 ber
 beruffed 1
