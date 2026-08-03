@@ -2319,7 +2319,7 @@ gravitation
 gingival
 guige 1
 gerocomy
-gerard
+gerard 1
 galvanography
 graviton 1
 gravamina 1
