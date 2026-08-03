@@ -12619,7 +12619,7 @@ chronotropic
 countable
 collocution
 cheney
-chronotropism
+chronotropism 1
 churchiest
 coriandrum
 chroococcaceae
