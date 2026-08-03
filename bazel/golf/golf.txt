@@ -5551,7 +5551,7 @@ guardlike
 globigerinae
 guarnerius 1
 gourd
-glutition
+glutition 1
 globigerinas 1
 gaminish
 greens
