@@ -8950,7 +8950,7 @@ chargeably
 chargeant
 charged
 cupping
-chargee
+chargee 1
 cataphasia
 chargeful
 chargehouse
