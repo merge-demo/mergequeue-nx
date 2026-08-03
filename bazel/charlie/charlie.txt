@@ -19095,7 +19095,7 @@ collins
 collinses
 circumterraneous
 cristate
-chaptrel
+chaptrel 1
 collinsite
 collinsonia
 colliquable
