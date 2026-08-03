@@ -3259,7 +3259,7 @@ elute
 elution
 esthesiometric
 enzymatically
-effuso
+effuso 1
 epirotulian
 epigon
 encamping
