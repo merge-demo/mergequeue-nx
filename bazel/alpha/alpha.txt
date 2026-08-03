@@ -6988,7 +6988,7 @@ aedilities
 acetanisidine
 apedom
 antineutrally
-accipitral
+accipitral 1
 arsenite
 apochromat
 ayuntamiento
