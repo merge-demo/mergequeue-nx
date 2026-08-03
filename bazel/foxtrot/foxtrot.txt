@@ -2324,7 +2324,7 @@ fensive
 faulkland
 favoring
 flippest
-furner
+furner 1
 falbalas
 frillings
 fecula
