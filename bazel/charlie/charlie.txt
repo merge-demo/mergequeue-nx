@@ -25150,7 +25150,7 @@ camails
 crampoons
 chrysocale
 corge
-cory
+cory 1
 curculionist
 counterwall
 coria
