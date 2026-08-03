@@ -4443,7 +4443,7 @@ fei
 falsary
 fovent
 flogmaster
-fumishly
+fumishly 1
 fledgier
 floppiest
 fishman
