@@ -6869,7 +6869,7 @@ antiagglutinative
 albacora
 awry
 airn
-anthropomorphical
+anthropomorphical 1
 auripuncture
 amalrician
 acetone
