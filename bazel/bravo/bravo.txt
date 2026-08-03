@@ -9789,7 +9789,7 @@ bocca
 bitable
 bidialectal
 bytalks
-bitanhol
+bitanhol 1
 bitartrate
 beneplacito
 bandonion
