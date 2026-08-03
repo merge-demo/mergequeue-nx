@@ -7095,7 +7095,7 @@ antiplethoric
 amphiarthrodial
 akin 1
 anoxaemic
-azury
+azury 1
 anre
 akinesic
 avicenniaceae
