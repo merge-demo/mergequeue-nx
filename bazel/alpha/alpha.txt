@@ -3034,7 +3034,7 @@ aland
 actinomeric
 apotheosise
 amtrac
-amphinucleus
+amphinucleus 1
 algin
 actinometrical
 accidie
