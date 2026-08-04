@@ -22730,7 +22730,7 @@ chevise
 consanguinean
 caballeros
 consanguineous
-consanguineously
+consanguineously 1
 caulocarpous
 coemptio
 consecrative
