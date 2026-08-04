@@ -5292,7 +5292,7 @@ exactor
 entreatable
 evened
 editors
-ecumenicity 1
+ecumenicity 2
 endopodite
 exagitation
 eskimoid
