@@ -9133,7 +9133,7 @@ ametropic
 accipitres
 ambulates
 acarodermatitis
-applejack
+applejack 1
 allwork
 adarbitrium
 afrikaner
