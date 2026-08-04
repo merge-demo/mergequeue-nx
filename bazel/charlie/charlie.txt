@@ -17796,7 +17796,7 @@ carrotiness
 codec
 centroclinal
 cysterethism
-conjunctivitis
+conjunctivitis 1
 codeclination
 codecs
 cellularly
