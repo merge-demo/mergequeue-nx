@@ -3449,7 +3449,7 @@ brigade
 basto
 baguios
 bucklandite
-bibliolatrous
+bibliolatrous 1
 bathylite
 bovine
 basts
