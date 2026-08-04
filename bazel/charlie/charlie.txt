@@ -29155,7 +29155,7 @@ crioceras
 crioceratite
 cinefaction
 crioceratitic
-companionably
+companionably 1
 chirruping
 cheque
 cranioscopist
