@@ -10362,7 +10362,7 @@ edgestone
 embezzlements
 exhibitive
 equibiradiate
-ellagic
+ellagic 1
 eloign
 ethylamime
 elytra
