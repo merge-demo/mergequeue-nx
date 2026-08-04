@@ -4724,7 +4724,7 @@ alphard
 aeluropodous
 aenach
 aphrodistic
-addaxes
+addaxes 1
 affricate
 adawe
 antiradicalism
