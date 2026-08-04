@@ -2504,7 +2504,7 @@ borscht
 beruffled
 boccia
 blueblack
-beslash
+beslash 1
 bassetite
 bottonhook
 barguest
