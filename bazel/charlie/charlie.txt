@@ -3401,7 +3401,7 @@ clamper
 canonizant
 capreolary
 capreolate
-chimericalness
+chimericalness 1
 crossbarring
 continuua
 capretto
