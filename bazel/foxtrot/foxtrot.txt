@@ -11490,7 +11490,7 @@ fiercened
 furtively
 furud
 flamboyant
-flotant
+flotant 1
 faddisms 1
 fructuousness
 fashery
