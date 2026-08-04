@@ -2706,7 +2706,7 @@ emyds
 elaeopten
 electrothermal 1
 ephippial
-emulsoidal
+emulsoidal 1
 exteriorise
 essed
 ericolin
