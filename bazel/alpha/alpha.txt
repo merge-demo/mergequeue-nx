@@ -24564,7 +24564,7 @@ ammonea
 argentarius
 auxospore
 anachorism
-auxotonic
+auxotonic 1
 annihilator
 auxotox
 auxotroph
