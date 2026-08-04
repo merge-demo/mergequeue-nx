@@ -5593,7 +5593,7 @@ dukeship
 dothideaceous
 dieters
 depeopled
-deperdit
+deperdit 1
 duffel
 determiners
 discussive
