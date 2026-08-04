@@ -2198,7 +2198,7 @@ achroglobin
 achroiocythaemia
 apod
 anguinidae
-autoptic
+autoptic 1
 assessably
 abbreviatory
 alginic
