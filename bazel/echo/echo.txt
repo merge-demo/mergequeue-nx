@@ -1066,7 +1066,7 @@ embalmment
 exterritorial
 enshrouded
 embryonically
-edgrow
+edgrow 1
 encephaloscope
 enormous
 ead
