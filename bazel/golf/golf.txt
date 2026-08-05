@@ -2286,7 +2286,7 @@ geissospermine 1
 genecologic
 glimpses
 granulocytopoiesis
-geitonogamy 1
+geitonogamy 2
 gonostyle
 geomoroi
 grange
