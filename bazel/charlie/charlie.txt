@@ -16218,7 +16218,7 @@ condensations
 clinicopathological
 clinkant
 clinkerer
-clinkery
+clinkery 1
 clinkering
 clinking 1
 chields
