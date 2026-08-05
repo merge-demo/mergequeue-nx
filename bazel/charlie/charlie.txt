@@ -26170,7 +26170,7 @@ charcutiers
 cosmopolitanising
 centurions
 cosmopolitanism
-carnivorous
+carnivorous 1
 cosmopolitanization
 cosmopolitanized
 cosmopolitans
