@@ -7437,7 +7437,7 @@ cerambycid
 coruscations
 cerambycidae
 cyclonist
-ceramicite
+ceramicite 1
 catdom
 ceramics
 cledge
