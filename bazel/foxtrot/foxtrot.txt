@@ -6772,7 +6772,7 @@ falsidical
 foibles
 finder
 farls 1
-flukiest
+flukiest 1
 falciform
 fass
 founding
