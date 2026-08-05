@@ -11839,7 +11839,7 @@ becrowding
 bepale
 boucan
 bodykins
-bodilize
+bodilize 1
 bahuvrihi 1
 barbedness
 bellowed
