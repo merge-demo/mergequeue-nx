@@ -8481,7 +8481,7 @@ enregiment
 enhemospore
 escarmouche
 electrophotometry
-epileptoid
+epileptoid 1
 ergatandrous
 exterminators
 electrodissolution

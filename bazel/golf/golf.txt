@@ -6637,7 +6637,7 @@ geminating
 globulysis
 glycosuria 1
 gossans
-gurglingly
+gurglingly 1
 gruss
 grittiest
 gyrodyne
