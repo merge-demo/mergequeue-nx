@@ -6532,7 +6532,7 @@ entails
 eaglet
 embarrassedly
 egipto
-ensmall
+ensmall 1
 encephalorrhagia
 eleventhly
 erythrocytometer
