@@ -16857,7 +16857,7 @@ clubionidae
 clubland
 clubman
 cloveroot
-clubmate
+clubmate 1
 chiccory
 coexists
 crosswort
