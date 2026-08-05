@@ -1587,7 +1587,7 @@ ethnogenist
 exobiologist
 eglomerate
 eaglets
-eglomise
+eglomise 1
 errite
 entires
 enumerator

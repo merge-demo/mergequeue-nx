@@ -16150,7 +16150,7 @@ dhows
 dynamist
 dislustred
 dovehouse
-dovelike
+dovelike 1
 dephosphorization
 decadarch
 disconsolacy
