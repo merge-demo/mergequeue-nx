@@ -11104,7 +11104,7 @@ eusthenopteron
 electros
 espies
 esquiredom
-encage
+encage 1
 entune
 emulated
 emblemish
