@@ -3949,7 +3949,7 @@ excalation
 erogenesis 1
 earthbound
 emollients
-emoloa
+emoloa 1
 endosymbiosis
 emolumental
 extemporiser
