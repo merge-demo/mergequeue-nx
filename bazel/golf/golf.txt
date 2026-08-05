@@ -2068,7 +2068,7 @@ gibbously
 gunbuilder 1
 gutlessness
 glutted
-gherkins
+gherkins 1
 gavots
 glycerophosphoric
 gomari
