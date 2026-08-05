@@ -2978,7 +2978,7 @@ cicalas
 claustrum
 croppies
 canthorrhaphy
-canthotomy
+canthotomy 1
 charivaris
 confuter
 clamehewit
