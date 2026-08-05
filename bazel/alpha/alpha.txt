@@ -13055,7 +13055,7 @@ archespsporia
 anhydrotic
 abidances
 ancillas
-auspicious
+auspicious 1
 anakinetic
 aradid
 anhysteretic
