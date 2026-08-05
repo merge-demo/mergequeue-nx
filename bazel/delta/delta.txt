@@ -4947,7 +4947,7 @@ diacrisis
 dicrostonyx
 defailment
 displeased
-duranta
+duranta 1
 demoralized
 devotionalism
 demoralizers
