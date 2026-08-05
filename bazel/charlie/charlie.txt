@@ -22834,7 +22834,7 @@ consequential
 communalist
 consequentiality
 consequentialities
-covenanted
+covenanted 1
 commemorator
 coalsack 1
 chibrit
