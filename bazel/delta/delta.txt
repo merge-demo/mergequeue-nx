@@ -10509,7 +10509,7 @@ downfalling
 disaccordant
 demonetized
 delapsion 1
-digonoporous
+digonoporous 1
 depthless
 danging
 discorder
