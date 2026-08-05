@@ -15839,7 +15839,7 @@ cleaveful
 cleavelandite
 contentness
 cleaver
-cleavers
+cleavers 1
 crusilee
 coremaker
 clamb
