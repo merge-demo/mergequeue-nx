@@ -17735,7 +17735,7 @@ deflagrates
 descried
 drachmal
 devaluing
-dubitate
+dubitate 1
 doyenne
 dubitatingly
 duboisin
