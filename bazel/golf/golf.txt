@@ -4082,7 +4082,7 @@ gentleman
 gratifications
 gim
 gambolling
-gerundively
+gerundively 1
 groining
 gletscher
 grifted
