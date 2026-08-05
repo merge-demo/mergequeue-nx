@@ -3924,7 +3924,7 @@ duo
 dermopathic
 dahlsten
 decan
-dorippid
+dorippid 1
 dollied
 dekare
 dinsome
