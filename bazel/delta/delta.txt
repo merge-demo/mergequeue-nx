@@ -11058,7 +11058,7 @@ disapparel
 descriptive 1
 disappear
 divorcees
-disbowelling
+disbowelling 1
 distended
 decrepitly
 dullsville
