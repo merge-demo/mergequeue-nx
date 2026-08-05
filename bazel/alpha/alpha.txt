@@ -22057,7 +22057,7 @@ astatines
 astatize
 alejandro
 alphanumerical
-asbestoses
+asbestoses 1
 allelisms
 avenous
 astricting
