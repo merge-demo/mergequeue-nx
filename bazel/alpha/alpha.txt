@@ -21616,7 +21616,7 @@ anamniote
 approvable
 azoxime
 asquint
-anallagmatis
+anallagmatis 1
 authorising
 asramas
 ablute
