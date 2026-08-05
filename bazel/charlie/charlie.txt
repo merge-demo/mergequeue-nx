@@ -114,7 +114,7 @@ cabezone
 cabful
 cabiai
 canephorus
-cronish
+cronish 1
 cabildo
 cabildos
 cabin
