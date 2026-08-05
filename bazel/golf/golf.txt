@@ -503,7 +503,7 @@ geminations
 gnomes
 gurrah
 gluconokinase
-geomorphology
+geomorphology 1
 gisement
 gratuity
 geographic
