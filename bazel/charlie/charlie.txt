@@ -7563,7 +7563,7 @@ collative
 changeability
 cervices
 caliology
-centripetally
+centripetally 1
 cyclanthaceae
 chuncho
 cereals
