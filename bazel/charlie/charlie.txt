@@ -30199,7 +30199,7 @@ cruciformly
 crucily
 crucilly
 cruck
-cyclize
+cyclize 1
 crud
 canful
 crudded
