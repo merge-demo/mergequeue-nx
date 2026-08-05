@@ -22515,7 +22515,7 @@ caslon
 clings
 cupriferous
 conjunctively
-chersonese
+chersonese 1
 chimbleys
 cheekful
 conjuncts
