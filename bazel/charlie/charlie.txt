@@ -19226,7 +19226,7 @@ countlessly
 cousins
 colluvium
 copolymerous
-cooperating
+cooperating 1
 colmars
 cisandine
 colmose
