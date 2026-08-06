@@ -10421,7 +10421,7 @@ amess
 akmudar
 assailants 1
 ametabolia
-angulose
+angulose 1
 alikulufan
 apocalyptism
 anglogaean
