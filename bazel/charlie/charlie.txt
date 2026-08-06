@@ -16296,7 +16296,7 @@ chicky
 clypeastrina
 clypeastroid
 carnivaller
-clypeate
+clypeate 1
 conspicuous
 caraco
 clypeated
