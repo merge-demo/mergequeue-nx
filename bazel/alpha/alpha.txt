@@ -21570,7 +21570,7 @@ aspidospermine
 aleucemic
 actinopterygian
 aspirant
-amoraic
+amoraic 1
 agonizing
 accountancy
 aelurophobia
