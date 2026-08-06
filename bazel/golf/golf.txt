@@ -9964,7 +9964,7 @@ gogglers
 glegness
 glyptic
 googols
-gipsyfy 1
+gipsyfy 2
 galvayned
 goldi
 greisen
