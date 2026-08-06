@@ -5546,7 +5546,7 @@ experimenting
 evertors
 exoterics
 espiritual
-enfeebles 1
+enfeebles 2
 enfeebling
 eucarida
 epigrammatised
