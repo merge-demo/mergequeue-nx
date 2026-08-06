@@ -4675,7 +4675,7 @@ antrostomus
 armet
 aggravates
 arthriticine
-ataxias
+ataxias 1
 asphaltus
 amblingly
 abasing
