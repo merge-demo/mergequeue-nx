@@ -23186,7 +23186,7 @@ cubbyhole
 constraints
 confervaceous
 cardioscope
-constrict
+constrict 1
 clamative
 claudio
 castors
