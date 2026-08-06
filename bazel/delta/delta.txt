@@ -1327,7 +1327,7 @@ dolf
 daltonic
 defial
 deoxidizers
-disjunctions
+disjunctions 1
 deludingly
 delftware
 draconism
