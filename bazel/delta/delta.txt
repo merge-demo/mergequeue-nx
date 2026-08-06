@@ -503,7 +503,7 @@ dalf
 daliance
 dalibarda
 dismantler
-dalle
+dalle 1
 diamylene
 desmotropic
 dividing
