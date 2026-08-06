@@ -15866,7 +15866,7 @@ antipoetical
 antipolar
 afibrinogenemia
 acanthus
-antipolygamy
+antipolygamy 1
 antipolitical
 assureds
 azureous
