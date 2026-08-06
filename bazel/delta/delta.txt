@@ -6122,7 +6122,7 @@ dualin
 detrimental
 dropout
 dimission
-durgen
+durgen 1
 deckedout 1
 derated
 diphtheroid
