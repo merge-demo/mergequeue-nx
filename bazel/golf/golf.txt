@@ -4143,7 +4143,7 @@ grapsidae
 gentilities
 grundy
 geochronology
-gnawing
+gnawing 1
 gregarian
 gringo
 gnars
