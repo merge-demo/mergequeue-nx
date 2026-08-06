@@ -6660,7 +6660,7 @@ cedrat
 conglution
 cedrate
 cedrela
-cocamine
+cocamine 1
 cedrene
 cedry
 codeia
