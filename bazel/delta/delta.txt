@@ -15820,7 +15820,7 @@ disprobabilize
 dorsicornu
 dorsiflex
 does
-dorsiflexion
+dorsiflexion 1
 deuteron
 detects
 diacetic
