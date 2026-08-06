@@ -9399,7 +9399,7 @@ escapees
 erysipelas
 eyehole
 extraordinarily
-exactus
+exactus 1
 entonic
 explainer
 endeavor
