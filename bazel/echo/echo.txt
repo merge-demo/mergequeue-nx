@@ -9348,7 +9348,7 @@ esbatement
 exercite
 enlock 1
 ectomorphic
-exolution
+exolution 1
 emotionally
 emane
 enrobement
