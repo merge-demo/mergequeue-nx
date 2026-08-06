@@ -5804,7 +5804,7 @@ catechumenship
 codo
 catechutannic
 conquest
-coumarate
+coumarate 1
 categorematical
 category
 choledoch
