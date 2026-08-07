@@ -3533,7 +3533,7 @@ captainship
 counterpetition
 communistically
 chaotically
-chemicked
+chemicked 1
 concordat 1
 captandum
 captate
