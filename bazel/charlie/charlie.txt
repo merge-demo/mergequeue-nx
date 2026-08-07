@@ -8878,7 +8878,7 @@ coffle
 crosshead
 confirming
 cassinette
-cerned
+cerned 1
 contraposaune
 characters
 chasmogamy
