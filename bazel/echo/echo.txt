@@ -2862,7 +2862,7 @@ ethnogenies
 expatiative
 eleusinia
 explicantia
-emasculator
+emasculator 1
 eventognath
 exsuscitate 1
 eleutherian
