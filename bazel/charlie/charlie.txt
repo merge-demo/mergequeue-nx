@@ -18990,7 +18990,7 @@ collectivise
 collectivism
 collectivist
 circumcircle
-collectivistically
+collectivistically 1
 cocainization
 contraflow
 collectivists

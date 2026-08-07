@@ -19804,7 +19804,7 @@ arsphenamine
 armatures
 albation
 anarchal
-arcane
+arcane 1
 averrer
 ast
 atrail
