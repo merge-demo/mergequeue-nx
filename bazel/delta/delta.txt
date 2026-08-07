@@ -8594,7 +8594,7 @@ daphnioid
 diapirs
 diaplases
 disk
-deprived
+deprived 1
 dinosaurian
 destroying
 doormaking
