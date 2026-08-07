@@ -18931,7 +18931,7 @@ anthropologist
 aesculapian
 auricle
 archipallium
-appetizingly
+appetizingly 1
 asphyxiated
 abedge
 archipelagian
