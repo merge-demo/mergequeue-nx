@@ -7493,7 +7493,7 @@ fluellin 1
 frolicful
 fogou
 forgivably
-freenesses
+freenesses 1
 foreassurance
 forecabin
 feedingstuff

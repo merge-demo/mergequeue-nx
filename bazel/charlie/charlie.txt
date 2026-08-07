@@ -12439,7 +12439,7 @@ crocard
 congoese 1
 chromizing
 caswellite
-chromoblast
+chromoblast 1
 chromocyte
 chromocollograph
 chromocollography
