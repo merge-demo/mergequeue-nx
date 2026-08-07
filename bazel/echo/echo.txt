@@ -13159,7 +13159,7 @@ epiphonema
 epistlar
 endergonic
 eugenist
-ereptase
+ereptase 1
 ethnicize 1
 euryalus
 escapisms
