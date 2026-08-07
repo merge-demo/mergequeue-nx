@@ -10137,7 +10137,7 @@ commodores
 changed
 capitalistic
 copurchaser
-chevin
+chevin 1
 cheviots
 chevres
 centuplicated
