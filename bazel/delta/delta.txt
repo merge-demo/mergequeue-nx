@@ -1853,7 +1853,7 @@ debilitates
 debilitative
 dermatoglyphics
 devirginator
-debitum
+debitum 1
 declaratory 1
 douvecot
 dorsale
