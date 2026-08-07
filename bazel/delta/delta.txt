@@ -3141,7 +3141,7 @@ defaming
 disability
 domesticity
 duringly
-defaulted
+defaulted 1
 defaultless
 depauperization
 downfolded
