@@ -8597,7 +8597,7 @@ guerdonless
 gestic
 gibbeting
 geothermometer
-gaufrettes
+gaufrettes 1
 glucose
 geometrizing
 graziers
