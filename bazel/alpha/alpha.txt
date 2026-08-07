@@ -12078,7 +12078,7 @@ anastasimon
 anastasius
 anemosis
 architeuthis
-anastate
+anastate 1
 anastatus
 anastigmat
 anastigmatic
