@@ -30941,7 +30941,7 @@ cleanliness
 culturological
 culturologically
 cavaliero 1
-cardinalitial
+cardinalitial 1
 caroid
 costate
 cacatua
