@@ -10016,7 +10016,7 @@ gorgonacean
 geochrony
 gudewife
 galopade
-girgashite
+girgashite 1
 gaffer
 glastonbury
 graybeard
