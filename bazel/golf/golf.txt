@@ -8829,7 +8829,7 @@ germain
 generalize
 griddler 1
 galleys
-gentianaceous
+gentianaceous 1
 gallus 1
 globate
 griege

@@ -15626,7 +15626,7 @@ doormats
 digitorium
 doormen
 demonetised
-discomfiting
+discomfiting 1
 doorpiece
 drivel
 dowl
