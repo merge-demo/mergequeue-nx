@@ -15342,7 +15342,7 @@ bohorok
 boisterously
 brieflessly
 besieges
-briefness
+briefness 1
 bleeds
 bedstaves
 barblet
