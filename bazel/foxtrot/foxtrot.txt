@@ -4945,7 +4945,7 @@ fourteens
 flamen
 flamandization 1
 firefanged
-funneling
+funneling 1
 firepan
 firmware 1
 fulcraceous 1
