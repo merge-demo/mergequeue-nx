@@ -10773,7 +10773,7 @@ geranyl
 gibblegable
 glycyl
 gutt 1
-gunny 1
+gunny 2
 gerenuk
 ghole 1
 genialness
