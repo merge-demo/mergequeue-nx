@@ -17774,7 +17774,7 @@ antipole
 arthrosclerosis 1
 astrier
 anchoring
-appals
+appals 1
 antistatic
 afterhours
 appointer
