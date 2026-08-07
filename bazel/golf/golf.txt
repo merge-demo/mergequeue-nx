@@ -8721,7 +8721,7 @@ girosols 1
 guazuma 1
 gonys
 greenrooms
-garlics
+garlics 1
 glossectomy
 gynoecia
 goldenly
