@@ -12016,7 +12016,7 @@ daint
 diammine
 decimus
 domicella
-distichous
+distichous 1
 disendow
 dagoes
 demideity
