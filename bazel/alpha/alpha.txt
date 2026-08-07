@@ -14113,7 +14113,7 @@ audacities
 amyelencephalic
 antemeridian
 anukit
-antemetallic
+antemetallic 1
 anestrus 1
 antemillennial
 aurorally
