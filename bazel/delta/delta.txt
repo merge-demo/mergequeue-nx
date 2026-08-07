@@ -196,7 +196,7 @@ debitumenize
 dealfish
 daemons
 daemonurgist
-defecant
+defecant 1
 dak
 deemstership
 dysgenic
