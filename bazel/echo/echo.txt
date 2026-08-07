@@ -4915,7 +4915,7 @@ englishly
 eggers 1
 ensured
 es
-entablements
+entablements 1
 excisions
 ef
 encumbrance
