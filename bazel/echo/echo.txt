@@ -12986,7 +12986,7 @@ exposals
 emotion
 ensnarls
 entice
-expectorant
+expectorant 1
 espiglerie
 expectorated
 echinococcus
