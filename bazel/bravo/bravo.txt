@@ -7933,7 +7933,7 @@ biblus
 boanbura
 balistraria
 beryllium
-borborygmi
+borborygmi 1
 bodymaker
 billing
 barothermogram
