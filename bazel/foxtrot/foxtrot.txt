@@ -11218,7 +11218,7 @@ furzed
 funiculars
 funiform
 funje
-fount
+fount 1
 fustians
 flashcubes
 fabricative
