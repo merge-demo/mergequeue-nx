@@ -26983,7 +26983,7 @@ culotte
 carbethoxyl
 counteropposite
 chiococcine
-copen
+copen 1
 counterorder
 counterpace
 cranium
