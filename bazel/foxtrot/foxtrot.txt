@@ -7640,7 +7640,7 @@ factitiousness
 foreorlop
 flimsilyst
 flips 1
-flustroid
+flustroid 1
 forefinger
 figary
 fixed
