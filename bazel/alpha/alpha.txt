@@ -14359,7 +14359,7 @@ aniseikonia
 antholite
 anthological
 anthologically
-anthologies
+anthologies 1
 autobiographies
 alberto
 anthologised
