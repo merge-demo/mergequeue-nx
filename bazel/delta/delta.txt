@@ -11643,7 +11643,7 @@ discoplasm
 dostoevsky
 damsite
 denser
-discursative
+discursative 1
 discommune
 denominates
 disburgeon
