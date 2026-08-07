@@ -8322,7 +8322,7 @@ elvan
 earthy
 evg
 effulgence
-excursional
+excursional 1
 essonites
 episthotonos
 epidictic
