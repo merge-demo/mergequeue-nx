@@ -11048,7 +11048,7 @@ dialogues
 dichroic
 disentanglements
 dyophysite
-disincarcerate
+disincarcerate 1
 disannuls
 dysenteries
 disembay
