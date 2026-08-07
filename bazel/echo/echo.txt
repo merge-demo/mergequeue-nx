@@ -11558,7 +11558,7 @@ encodement
 embrittled 1
 errantness
 ennoy
-evocator
+evocator 1
 evoe
 ensilaging
 exoculating
