@@ -2068,7 +2068,7 @@ elamitish
 episcope
 electrophorese
 evilly 1
-eudialyte
+eudialyte 1
 elanet
 elanus
 enantiopathia
