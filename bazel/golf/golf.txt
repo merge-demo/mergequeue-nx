@@ -1392,7 +1392,7 @@ ganodonta
 glossanthrax
 garnison
 greetingless
-garniture
+garniture 1
 gaulsh
 glycosemia
 germanize
