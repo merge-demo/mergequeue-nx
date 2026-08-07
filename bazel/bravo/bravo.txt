@@ -3239,7 +3239,7 @@ blottesquely
 babbling
 biotechnological
 basilic
-bantingize
+bantingize 1
 bedouin
 basilica
 belverdian
