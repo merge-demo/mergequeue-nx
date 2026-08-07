@@ -10693,7 +10693,7 @@ extrasyllabic
 enswathe 1
 ensigning
 embraced
-endopleural
+endopleural 1
 erebus
 euglenoid
 electrotypic
