@@ -371,7 +371,7 @@ eeler
 enthroned
 eavesdropping
 encyclopedism
-eightvos
+eightvos 1
 exosseous
 ebcd
 experts
