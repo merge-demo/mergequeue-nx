@@ -11834,7 +11834,7 @@ equibalance
 epirrhematic
 epidendric
 etiolation
-excalcarate
+excalcarate 1
 extractible
 equiproducing
 elecive
