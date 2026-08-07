@@ -13765,7 +13765,7 @@ evermo
 entea
 extispicious
 extoling
-epitympanum 1
+epitympanum 2
 edingtonite
 edestosaurus
 epiphysary
