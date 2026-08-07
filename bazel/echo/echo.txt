@@ -10363,7 +10363,7 @@ embezzlements
 exhibitive
 equibiradiate
 ellagic
-eloign
+eloign 1
 ethylamime
 elytra
 ethnopsychology
