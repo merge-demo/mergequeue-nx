@@ -2217,7 +2217,7 @@ barbara
 barbary
 baculiferous
 blastier
-bast
+bast 1
 ballism
 bridgebote
 barbarianizing
