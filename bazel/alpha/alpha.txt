@@ -6609,7 +6609,7 @@ antsy
 aiglets
 affirms
 aigre
-abbatial
+abbatial 1
 ascalabota
 adambulacral
 alkaligen
