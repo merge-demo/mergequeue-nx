@@ -11851,7 +11851,7 @@ analogised
 alchem
 anteroventral
 analogize
-appropriation
+appropriation 1
 analogon
 antihemorrheidal
 analogous
