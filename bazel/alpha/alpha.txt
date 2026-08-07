@@ -11602,7 +11602,7 @@ anachronismatical
 achamoth
 agars
 afright
-anachronize
+anachronize 1
 animalish
 albuminuria
 allothigenic
