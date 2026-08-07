@@ -7774,7 +7774,7 @@ daphnephoria
 devaluating
 devocalized 1
 dicyandiamide
-diptychon
+diptychon 1
 dignation
 devoice
 duvet
