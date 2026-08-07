@@ -18249,7 +18249,7 @@ darts
 dungiest
 disapprobative
 dippy
-deuterogamist
+deuterogamist 1
 draffs
 discordia
 divot
