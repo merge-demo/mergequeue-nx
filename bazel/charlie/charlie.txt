@@ -27398,7 +27398,7 @@ cabinetmaker
 courtin
 catastatic
 courting
-courtly
+courtly 1
 courtlier
 chow
 chaptered
