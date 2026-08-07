@@ -2301,7 +2301,7 @@ budgerygah
 bebite
 backyards
 barbariousness
-barbero
+barbero 1
 benzoles
 bubaline
 bullrings
