@@ -25164,7 +25164,7 @@ cuttlebones
 cycled 1
 calabar
 centesimate
-curvier
+curvier 1
 clinocephalus
 coriaria
 coriariaceae
