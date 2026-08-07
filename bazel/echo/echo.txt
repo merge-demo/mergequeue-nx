@@ -12126,7 +12126,7 @@ excubitoria
 eradicator
 entwisting
 excud
-europeanize
+europeanize 1
 excudate
 entwite
 ennoblment
