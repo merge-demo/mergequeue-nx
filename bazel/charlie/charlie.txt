@@ -9484,7 +9484,7 @@ checkage
 capsulized
 checkback
 checkbite
-checkbits
+checkbits 1
 checkbook
 counterbuff
 chachalaca
