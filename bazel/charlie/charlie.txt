@@ -7731,7 +7731,7 @@ countrymen
 casuarinales
 chemiluminescent
 coinhering
-charkhas
+charkhas 1
 capromys
 ceroplasty
 ceroplastic
