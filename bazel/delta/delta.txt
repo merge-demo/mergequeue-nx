@@ -8633,7 +8633,7 @@ dibbuk
 denatured
 diarrhea
 dows
-decarchy
+decarchy 1
 diarrhoeal
 dephysicalize
 diarrhoetic
