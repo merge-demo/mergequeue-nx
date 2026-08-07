@@ -10644,7 +10644,7 @@ amyloidosis
 anguille
 amusias
 amyloleucite
-afterwrath
+afterwrath 1
 archiepiscopality
 amylolysis
 antitragic
