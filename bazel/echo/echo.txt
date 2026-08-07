@@ -14093,7 +14093,7 @@ etyma
 entour
 extremuma
 ectozoa
-extrasacerdotal
+extrasacerdotal 1
 extricable
 extricably
 egbo
