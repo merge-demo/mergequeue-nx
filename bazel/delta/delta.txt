@@ -14677,7 +14677,7 @@ darioles
 djin 1
 disrespondency
 describe 1
-dowers
+dowers 1
 doxies
 dieselize
 disagrees
