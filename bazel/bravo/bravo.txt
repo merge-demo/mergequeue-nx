@@ -4502,7 +4502,7 @@ brokes 1
 buffering
 buhrstone
 borocalcite
-bathala
+bathala 1
 brutifies
 becrust
 becrusting
