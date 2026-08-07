@@ -15971,7 +15971,7 @@ clerihews
 clerisies
 certifiably
 coinventor
-carryovers
+carryovers 1
 cobstone
 clerkdom
 clerkery
