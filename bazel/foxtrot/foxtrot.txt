@@ -3506,7 +3506,7 @@ fended
 federary
 figurable
 fixture
-figurae
+figurae 1
 forebowels
 flusk
 formulism
