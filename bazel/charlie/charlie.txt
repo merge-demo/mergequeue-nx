@@ -24668,7 +24668,7 @@ creneled
 corollaceous
 cola
 cute
-carpospore
+carpospore 1
 copperbottom
 copperer
 curare
