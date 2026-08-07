@@ -1433,7 +1433,7 @@ erythrocytolytic
 espoused
 ethnicon
 exaggeratory
-enols
+enols 1
 execratory
 ebbing 1
 euskaldun
