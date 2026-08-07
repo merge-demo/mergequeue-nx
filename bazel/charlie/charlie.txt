@@ -1155,7 +1155,7 @@ culturology
 calcsinter
 chinnam
 cranioclasis
-calcspars
+calcspars 1
 cotwal
 crunches
 chilopoda
