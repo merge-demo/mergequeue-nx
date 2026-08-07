@@ -5738,7 +5738,7 @@ guanyl
 grieshuckle
 girasols
 gyrolite
-gurus
+gurus 1
 geologize
 gratia
 gammons
