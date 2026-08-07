@@ -18632,7 +18632,7 @@ catjang
 coinheritor
 costiform 1
 cytozymase
-coining
+coining 1
 curialism
 cumulophyric
 coinmate
