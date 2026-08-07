@@ -9030,7 +9030,7 @@ komnj
 komnno
 komnrz
 komocb
-komon
+komon 1
 komotv
 kompnralyr
 komqa
