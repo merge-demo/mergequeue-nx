@@ -13021,7 +13021,7 @@ aluniferous
 aeroballistics
 arrowy
 agglomeratic
-anhedral
+anhedral 1
 anhelation
 anhelose
 anhemitonic
