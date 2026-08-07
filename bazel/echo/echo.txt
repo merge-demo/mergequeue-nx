@@ -13826,7 +13826,7 @@ energeticist
 engenderer
 enscale
 euchroite
-effacing
+effacing 1
 erepsins
 encarditis
 embrake
