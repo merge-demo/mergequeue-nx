@@ -7261,7 +7261,7 @@ colorcaster
 cancellate
 copopsia
 catarinite
-cryptococcal
+cryptococcal 1
 cohobated
 centuple
 clematises
