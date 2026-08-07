@@ -2842,7 +2842,7 @@ feting
 front
 flossie
 freeways
-fizzy
+fizzy 1
 fatigating
 fortyfives
 flirtingly
