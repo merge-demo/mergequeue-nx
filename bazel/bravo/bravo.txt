@@ -3685,7 +3685,7 @@ bucketful
 bally
 belfather
 batteaux
-bonnering
+bonnering 1
 bakatan
 battement
 balladising
