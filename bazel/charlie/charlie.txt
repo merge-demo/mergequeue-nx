@@ -3004,7 +3004,7 @@ cousins
 cantingness
 clairschach
 cantles
-cantlet
+cantlet 1
 cantline
 cantling
 canto
