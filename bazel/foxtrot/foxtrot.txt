@@ -2723,7 +2723,7 @@ farcicalness
 flagitate
 fimbriated
 fusain
-frigged
+frigged 1
 fleuronne
 filmish
 fetation
