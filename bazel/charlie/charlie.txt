@@ -24949,7 +24949,7 @@ cystine
 chummiest
 corbicula
 corbiculate 1
-cellulolytic
+cellulolytic 1
 campaniform
 corbiculum
 corbie
