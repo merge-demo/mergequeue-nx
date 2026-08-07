@@ -1887,7 +1887,7 @@ einsteinian 1
 equatability
 encomiast
 eyoty
-elapsed
+elapsed 1
 endamage
 everwho
 eightball
