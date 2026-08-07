@@ -28864,7 +28864,7 @@ cretism
 cretize
 cretonne
 collogue
-classmate
+classmate 1
 coney
 circumarctic
 calsouns
