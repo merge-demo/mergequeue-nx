@@ -19149,7 +19149,7 @@ actualism
 aspread
 agnostically
 arcograph
-apneic
+apneic 1
 azurmalachite
 angiomatous 1
 anticommunists
