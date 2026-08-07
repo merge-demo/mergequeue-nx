@@ -1939,7 +1939,7 @@ gushy
 greeve
 guttiness
 galopades
-glorifiers
+glorifiers 1
 galliards
 gauffered
 grayfishes
