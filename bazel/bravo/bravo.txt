@@ -4489,7 +4489,7 @@ bronchiectatic
 bluenose 1
 becroak
 bedead
-becross
+becross 1
 bureaucratism
 becrowd
 becrowded
