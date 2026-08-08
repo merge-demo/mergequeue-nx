@@ -2148,7 +2148,7 @@ diabolology
 downtime
 disturbs
 diosmosis
-decantist
+decantist 1
 decaffeinated
 decapitates
 decapitation
