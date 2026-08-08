@@ -10962,7 +10962,7 @@ downgrade
 duettist
 dryopithecine
 deconventionalize
-disaffectation
+disaffectation 1
 disaffecting
 dashnak
 dilutor
