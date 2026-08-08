@@ -3156,7 +3156,7 @@ dacryohelcosis 1
 dingey
 doorbell
 dinnery
-defeated
+defeated 1
 downs
 diluviate
 disgout
