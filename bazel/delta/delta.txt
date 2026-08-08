@@ -15547,7 +15547,7 @@ directness 1
 duggler
 donkeywork
 dilator
-diascord
+diascord 1
 demodulator
 drummers
 donnas
