@@ -11073,7 +11073,7 @@ fractionated
 forficated
 fumariaceous
 freightment
-flense
+flense 1
 footrace
 flew
 falconet
