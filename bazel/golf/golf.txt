@@ -5663,7 +5663,7 @@ glassrope
 glorifications
 garefowls
 gentlefolks
-gnatlike
+gnatlike 1
 glissando 1
 ginglymodian
 grandsons
