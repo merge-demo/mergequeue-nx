@@ -3043,7 +3043,7 @@ cantuta
 cantwise
 castigated
 canula
-canulae
+canulae 1
 canulas
 chthonophagy
 coistrel
