@@ -14833,7 +14833,7 @@ diallage
 doctorless 1
 diffusibly
 dimissorial
-disorderly
+disorderly 1
 doctress
 due 1
 discombobulation
