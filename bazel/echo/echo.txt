@@ -5549,7 +5549,7 @@ espiritual
 enfeebles 1
 enfeebling
 eucarida
-epigrammatised
+epigrammatised 1
 edessan
 enfeeblish 1
 effectful
