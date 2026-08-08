@@ -8483,7 +8483,7 @@ deesis
 dapperest
 diaminogen
 downset
-directionize
+directionize 1
 dodecyl
 draconitic 1
 downgrades
