@@ -4795,7 +4795,7 @@ fasciculus
 fissurellidae
 feuillants
 fortunetelling
-flocculable
+flocculable 1
 feltmonger
 flaunching 1
 freshened
