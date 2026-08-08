@@ -8210,7 +8210,7 @@ cymbling
 callower
 chakobu
 chakram
-carpentry
+carpentry 1
 chaksi
 chal
 complection
