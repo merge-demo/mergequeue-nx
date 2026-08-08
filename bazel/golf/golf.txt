@@ -6982,7 +6982,7 @@ geswarp
 generalism
 goof
 goofah 1
-guaniferous
+guaniferous 1
 greystone 1
 gebanga
 guirlande
