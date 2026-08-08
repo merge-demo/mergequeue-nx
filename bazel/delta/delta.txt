@@ -893,7 +893,7 @@ dansker
 danta
 droppy
 determent
-dreepiness
+dreepiness 1
 dantean
 dimatis
 dacryopyorrhea
