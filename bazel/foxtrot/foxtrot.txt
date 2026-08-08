@@ -118,7 +118,7 @@ furaldehyde 1
 facilitate
 forthcome
 flocks
-facilitation
+facilitation 1
 fluosilicate
 facilitative
 fashionist
