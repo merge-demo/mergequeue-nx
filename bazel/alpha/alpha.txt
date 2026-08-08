@@ -22860,7 +22860,7 @@ aquo
 atmosphereless
 announces
 almendro
-antidyscratic
+antidyscratic 1
 axometry
 asrama
 alkalemia
