@@ -17946,7 +17946,7 @@ dactylous
 dugongidae
 diminutional
 deliriously
-dugongs
+dugongs 1
 determinacy
 demandable
 dossals
