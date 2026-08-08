@@ -18653,7 +18653,7 @@ discountenanced
 disseisor
 devitrification
 decolorize
-duvetynes
+duvetynes 1
 devaporation
 dereign
 deflagrability
