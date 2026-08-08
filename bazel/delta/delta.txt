@@ -10253,7 +10253,7 @@ defenestrate
 dinted
 dintless
 ducal
-degradedly
+degradedly 1
 dinus
 dermoskeleton
 distaste
