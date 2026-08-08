@@ -9894,7 +9894,7 @@ diosgenin
 dumba 1
 dynamic
 diversipedate
-dimerism
+dimerism 1
 defectuous
 dimerization
 dipropargyl
