@@ -7093,7 +7093,7 @@ bawdiness
 bespell
 bespelled
 bespend
-bespew
+bespew 1
 biparietal
 boucherism
 bandfiling
