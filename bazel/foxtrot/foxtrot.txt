@@ -4678,7 +4678,7 @@ flatnose
 figurante
 flaunched
 flections
-flexibilities
+flexibilities 1
 frighten
 fumariaceae
 fragrantly
