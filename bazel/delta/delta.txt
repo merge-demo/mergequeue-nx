@@ -16874,7 +16874,7 @@ dreadable
 directorial 1
 daftnesses
 dreaded
-disadventurous
+disadventurous 1
 disentailment
 despairingness
 douanes
