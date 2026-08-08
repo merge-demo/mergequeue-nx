@@ -7052,7 +7052,7 @@ blaming
 bedazzlement
 bespangle
 bespangling
-bespate
+bespate 1
 brickbatted
 basset
 bezzant
