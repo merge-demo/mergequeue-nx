@@ -13066,7 +13066,7 @@ cibarial
 ceroxyle
 champaca
 cibarian
-cibaries
+cibaries 1
 conyrine
 cibbaria
 cibboria
