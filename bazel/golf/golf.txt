@@ -1833,7 +1833,7 @@ granat
 gratility
 gaggling
 gouts
-gemmiparity
+gemmiparity 1
 guinean
 gullah
 gingiva
