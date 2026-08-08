@@ -3367,7 +3367,7 @@ gibbar
 guttiferal
 gundelet
 germinations
-gigglingly
+gigglingly 1
 gallicolae
 gools
 grittily
