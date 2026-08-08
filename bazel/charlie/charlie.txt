@@ -25646,7 +25646,7 @@ completed
 corpuscularity
 corpuscule
 corpusculous
-chairlift
+chairlift 1
 corradial 1
 corradiate
 corradiated
