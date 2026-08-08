@@ -2865,7 +2865,7 @@ flurry 1
 fungid
 familistery
 fortuned
-fameflower
+fameflower 1
 fettered
 frowstiness
 foozle
