@@ -9405,7 +9405,7 @@ djinni
 duplicator
 diffusers
 disenthralment
-diffuses
+diffuses 1
 danaidean
 dechlore
 demilitarizing
