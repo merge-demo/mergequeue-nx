@@ -6868,7 +6868,7 @@ emblemized
 eelskin
 ealdorman
 erythrozincite
-epituberculosis
+epituberculosis 1
 ermine
 exults
 epidermoidal 1
