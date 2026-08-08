@@ -30052,7 +30052,7 @@ counterparts
 cognising
 croupiers
 croupiest
-croupiness
+croupiness 1
 croupon
 croupous
 croups
