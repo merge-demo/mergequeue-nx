@@ -12274,7 +12274,7 @@ antiecclesiastic
 alnico
 apprehensions 1
 ambisexual
-avanyu
+avanyu 1
 agathin
 ancylostomiasis
 anemotactic
