@@ -9255,7 +9255,7 @@ dier
 dyer
 dementis
 dochmii
-dieresis
+dieresis 1
 dihydrazone
 disemic
 debite
