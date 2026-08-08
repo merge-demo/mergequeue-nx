@@ -13868,7 +13868,7 @@ cinnabarine 1
 cinnabars
 cinnamaldehyde
 collaborationism
-cinnamate
+cinnamate 1
 cinnamein
 cinnamene
 corser
