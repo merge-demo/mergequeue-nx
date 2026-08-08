@@ -13064,7 +13064,7 @@ drillings
 dimethylsulfoxide
 discocarpium
 decimalised
-decimals
+decimals 1
 daulias
 descantist
 dispeaceful
