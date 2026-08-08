@@ -19780,7 +19780,7 @@ antimedievalist
 anhydridize
 adjudger
 archplotter
-armadillos
+armadillos 1
 astrocyte
 arythmically
 aminolytic

@@ -2508,7 +2508,7 @@ exterminative
 electrokinetics
 elasticum
 electroless
-exsecants
+exsecants 1
 educables
 expansivity
 embryopathology
