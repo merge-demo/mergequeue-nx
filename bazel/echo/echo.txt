@@ -4145,7 +4145,7 @@ entangler
 envisaged
 endives
 exedral
-epirote 1
+epirote 2
 eiffel
 ensheathed
 every
