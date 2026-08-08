@@ -8643,7 +8643,7 @@ disfavored 1
 diarticular
 dias
 depertible
-dermatographia
+dermatographia 1
 downstream
 diametrically
 denitrifying
