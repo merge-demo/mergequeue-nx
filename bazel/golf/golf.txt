@@ -10317,7 +10317,7 @@ gujarati
 gametic
 girondin 1
 gamodesmic
-gymnostomous
+gymnostomous 1
 gigantostraca
 geographized
 gastroenterology 1
