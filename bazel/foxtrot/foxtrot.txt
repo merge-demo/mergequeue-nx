@@ -2549,7 +2549,7 @@ fitchews
 faithbreach
 fishpot
 fretter
-forewarningly
+forewarningly 1
 forequarter
 finlandization
 fluvicoline
