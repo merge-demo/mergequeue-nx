@@ -20865,7 +20865,7 @@ antesignanus
 asana
 aconitin
 arachnidism
-avalvular
+avalvular 1
 arcate
 antiparasitically
 acetose
