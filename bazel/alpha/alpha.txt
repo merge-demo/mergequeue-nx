@@ -23287,7 +23287,7 @@ attractiveness
 adipogenous
 abactinally
 adnumber
-antship
+antship 1
 averroist
 anglophobic
 augurs
