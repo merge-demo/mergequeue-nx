@@ -29421,7 +29421,7 @@ crispers
 craaled 1
 chromatogram
 cymbals
-curdy
+curdy 1
 crispier
 cryptophyte
 carcinolytic
