@@ -2629,7 +2629,7 @@ deathtraps 1
 decoll
 deguelia
 dumbcow
-dispensaries
+dispensaries 1
 decolletage
 displeaser
 decollete
