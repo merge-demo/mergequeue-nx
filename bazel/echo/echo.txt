@@ -6683,7 +6683,7 @@ epibatus
 eyas
 extraduction
 enthalpies
-excusers
+excusers 1
 enarthrodial
 enterorrhagia
 enterorrhaphy
