@@ -1090,7 +1090,7 @@ earock
 equipoised
 evaluates
 envined
-edificatory
+edificatory 1
 epimerize
 elliptic
 edificed
