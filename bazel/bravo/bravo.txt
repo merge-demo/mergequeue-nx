@@ -1088,7 +1088,7 @@ bismarckianism
 bairdi 1
 bumbailiff
 beneficency
-bastiles
+bastiles 1
 bairn
 bypassed
 brevetted
