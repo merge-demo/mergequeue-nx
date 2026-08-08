@@ -7394,7 +7394,7 @@ flywire
 flirtigig
 foraramens 1
 frugs
-funicle
+funicle 1
 fissirostral
 ferrarese
 floressence
