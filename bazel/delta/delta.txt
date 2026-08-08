@@ -6760,7 +6760,7 @@ desucration
 desilicify
 desilicified
 desiliconization
-dribbed
+dribbed 1
 doubly
 disuniters
 decollating
