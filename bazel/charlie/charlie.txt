@@ -13437,7 +13437,7 @@ cif
 countergage
 camerawork
 cig
-cigarette
+cigarette 1
 cystenchyma
 cigarfish
 counterconversion
