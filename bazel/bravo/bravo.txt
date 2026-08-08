@@ -3450,7 +3450,7 @@ basto
 baguios
 bucklandite
 bibliolatrous
-bathylite
+bathylite 1
 bovine
 basts
 banuyo
