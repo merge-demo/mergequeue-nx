@@ -14007,7 +14007,7 @@ extraregularly
 expirers
 exiling
 exsertile
-elderbrotherly
+elderbrotherly 1
 extrasocial 1
 ectophyte
 eshin
