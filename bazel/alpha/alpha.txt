@@ -10365,7 +10365,7 @@ americanisms
 americanistic
 alhagi
 aftertax
-astigmatizer
+astigmatizer 1
 approachless
 accredited
 alibamu
