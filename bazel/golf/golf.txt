@@ -8930,7 +8930,7 @@ gladelike
 grandiloquous
 gwag
 globy
-galvanising
+galvanising 1
 gnaw 1
 glycosidic
 geranomorphic
