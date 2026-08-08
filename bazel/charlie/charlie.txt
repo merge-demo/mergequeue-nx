@@ -14371,7 +14371,7 @@ circumvallation
 circumvented
 circumventing
 circumvention
-circumventions
+circumventions 1
 camphor
 circumventor
 conveyorized
