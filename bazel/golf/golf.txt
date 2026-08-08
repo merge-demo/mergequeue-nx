@@ -7953,7 +7953,7 @@ guesdist
 gymnospermy
 glumness
 getmjlkost
-gametogonium
+gametogonium 1
 glimmerite
 gregaloid
 gyniolatry
