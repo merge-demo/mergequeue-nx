@@ -93,7 +93,7 @@ dustyfoot
 dactylopteridae
 disclaimant
 dripper
-delater
+delater 1
 depark
 demibrute
 dictyoceratine
