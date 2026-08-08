@@ -14954,7 +14954,7 @@ carronade
 capsize
 clouring
 contorsion
-chlorpropamide
+chlorpropamide 1
 chromoplasm
 counterparallel
 crossjack
