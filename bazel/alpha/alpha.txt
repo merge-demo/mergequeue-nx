@@ -12273,7 +12273,7 @@ anatropous
 antiecclesiastic
 alnico
 apprehensions 1
-ambisexual
+ambisexual 1
 avanyu
 agathin
 ancylostomiasis
