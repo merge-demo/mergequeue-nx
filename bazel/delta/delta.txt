@@ -812,7 +812,7 @@ deduced
 dangerousness
 distention
 danglers
-deniable
+deniable 1
 dearths
 dulcorate
 della
