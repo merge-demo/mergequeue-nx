@@ -7147,7 +7147,7 @@ allophore
 akroter
 akroteria
 arithmetization
-aktistetae
+aktistetae 1
 aku
 akule
 appalto
