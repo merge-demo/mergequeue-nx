@@ -10093,7 +10093,7 @@ antasthmatic 1
 amblystegite
 autodialer
 amblotic
-apostrophizing
+apostrophizing 1
 anythings
 ambo
 acanthin
