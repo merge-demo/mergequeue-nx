@@ -6193,7 +6193,7 @@ bibliography
 bijugous
 benevolency
 bengalese
-batavian
+batavian 1
 bengola
 bipartient
 beni
