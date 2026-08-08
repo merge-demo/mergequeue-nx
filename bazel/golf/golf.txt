@@ -9917,7 +9917,7 @@ grander
 grainsick
 gallop
 galiots
-glamorizing
+glamorizing 1
 groundnut
 gratulatorily
 growingly
