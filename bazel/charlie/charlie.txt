@@ -13236,7 +13236,7 @@ cholecystopexy
 carapacial
 cyclocephaly
 cyclocoelic
-cyclode
+cyclode 1
 catastrophe
 cyclodiene
 cycloganoid
