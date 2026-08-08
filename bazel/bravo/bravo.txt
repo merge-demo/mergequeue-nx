@@ -12601,7 +12601,7 @@ braccate
 bakshaish
 beshag 1
 beaproned
-buttresses
+buttresses 1
 bonspiel
 bookbind
 boruca
