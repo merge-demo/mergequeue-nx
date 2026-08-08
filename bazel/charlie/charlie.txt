@@ -27721,7 +27721,7 @@ convected
 chivage
 couhage
 cowpats
-compliable
+compliable 1
 cowpen 1
 cowper
 complexively
