@@ -8372,7 +8372,7 @@ dialysability
 diastolic
 dimerizing
 dermamycosis 1
-diminutal
+diminutal 1
 deplanes
 dialysable
 dorobo
