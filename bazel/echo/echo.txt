@@ -5978,7 +5978,7 @@ enframing 1
 enigma
 egotism
 enigmas
-enjambements
+enjambements 1
 enigmata
 eluvial
 exquisite
