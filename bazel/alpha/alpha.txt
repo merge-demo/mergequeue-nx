@@ -19300,7 +19300,7 @@ areocentric
 areolated
 antiritualistic
 areology
-absurds
+absurds 1
 areologies
 alfaquin
 attainable
