@@ -10923,7 +10923,7 @@ cornu
 chirognomy
 cerement
 chirognomic
-chirognomically
+chirognomically 1
 chuppahs
 chirognomist
 cerebrates
