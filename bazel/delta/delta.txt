@@ -12839,7 +12839,7 @@ dominial
 destructor
 dam
 dribblets
-democratization
+democratization 1
 dismasted 1
 denned
 disme
