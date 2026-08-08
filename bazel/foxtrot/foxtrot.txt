@@ -9733,7 +9733,7 @@ factful
 forgathered
 frenetically
 forlorner
-frenula
+frenula 1
 frenular
 footlicker
 fornicate
