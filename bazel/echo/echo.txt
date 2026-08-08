@@ -3364,7 +3364,7 @@ erythrorrhexis
 expressible
 embadomonas
 eats
-embain
+embain 1
 egglike
 epanthous 1
 embays
