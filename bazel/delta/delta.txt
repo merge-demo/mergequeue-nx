@@ -3650,7 +3650,7 @@ deglut
 dec
 disarrangement
 decubation
-denounced
+denounced 1
 despisement
 delinquencies
 designed
