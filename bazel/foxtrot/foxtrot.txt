@@ -2721,7 +2721,7 @@ fantasts 1
 fiefs
 farcicalness
 flagitate
-fimbriated
+fimbriated 1
 fusain
 frigged
 fleuronne
