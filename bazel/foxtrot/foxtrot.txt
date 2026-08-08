@@ -5022,7 +5022,7 @@ foremartyr
 fiddlewood
 filet 1
 fluctuable
-faceable
+faceable 1
 frowsier
 feathers
 faineantise

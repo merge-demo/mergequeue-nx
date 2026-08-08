@@ -20500,7 +20500,7 @@ compassive
 coinhere
 compassivity
 cwrite
-compatibility
+compatibility 1
 compatibilities
 cainism
 condors
