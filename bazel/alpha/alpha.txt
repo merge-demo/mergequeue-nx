@@ -1186,7 +1186,7 @@ alabastoi
 agalmatolite
 agonothetic
 acanthodei
-acoasma
+acoasma 1
 associationism
 antemortem
 admissibly
