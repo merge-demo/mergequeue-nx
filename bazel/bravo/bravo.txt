@@ -18161,7 +18161,7 @@ butyryls
 boldfacedly
 butyrin
 besonnet
-begets
+begets 1
 bosses
 biogenase
 butyrometer
