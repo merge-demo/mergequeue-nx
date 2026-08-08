@@ -2955,7 +2955,7 @@ displayer
 dedit
 dediticiancy
 dedogmatize
-discounted
+discounted 1
 dedolation
 deseret
 destinal
