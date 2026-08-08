@@ -2787,7 +2787,7 @@ acrodromous
 amyxorrhoea
 acetum
 adequateness
-acrogamous
+acrogamous 1
 acrogen 1
 aspirated
 ashthroat
