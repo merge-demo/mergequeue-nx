@@ -11871,7 +11871,7 @@ evanescent
 eucre
 econometric
 everwhich 1
-enteroparesis
+enteroparesis 1
 enfranchisement
 extbook
 embowing
