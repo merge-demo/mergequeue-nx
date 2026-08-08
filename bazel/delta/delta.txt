@@ -14282,7 +14282,7 @@ daubier
 dytiscus
 ditokous
 dichrooscope
-dibasic
+dibasic 1
 ditolyl
 ditremid
 disharmonies
