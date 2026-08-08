@@ -17446,7 +17446,7 @@ dentiroster
 devitrified
 drouking
 deprehension
-deforcer
+deforcer 1
 drouth
 dopas
 delphacid
