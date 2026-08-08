@@ -13759,7 +13759,7 @@ epithalamial
 effusely
 exodontist
 ethnize
-encloak
+encloak 1
 exosperm
 evermo
 entea
