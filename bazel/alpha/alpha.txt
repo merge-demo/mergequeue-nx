@@ -20609,7 +20609,7 @@ arbalist
 aedegi
 alpestral
 adulators 1
-arthromeric
+arthromeric 1
 afterplay
 adamantoma
 arthrometry
