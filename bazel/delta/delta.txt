@@ -9433,7 +9433,7 @@ dehematize
 digamy
 disobeyal
 digamies
-disfranchise
+disfranchise 1
 displume
 destructively
 digamma
