@@ -13067,7 +13067,7 @@ embankment
 ergates
 enslave
 embassador
-eutaxite
+eutaxite 1
 explications
 ergotisms
 ende
