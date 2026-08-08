@@ -14055,7 +14055,7 @@ enchantingly
 euemerism
 emulsibility
 extravaganza
-eutectoid
+eutectoid 1
 extravaginal
 electrify
 exteroceptist
