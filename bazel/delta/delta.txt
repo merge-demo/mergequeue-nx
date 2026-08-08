@@ -16650,7 +16650,7 @@ drained 1
 drainer
 dragbolt
 dawdle
-dogging
+dogging 1
 drainers 1
 drainfield
 disvelop
