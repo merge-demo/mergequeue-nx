@@ -12227,7 +12227,7 @@ anchisaurus
 aegirite
 anchorages
 anchorlike
-archradical
+archradical 1
 actinodermatitis
 anchoret
 aminish
