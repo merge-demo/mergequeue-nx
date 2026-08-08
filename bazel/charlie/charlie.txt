@@ -2520,7 +2520,7 @@ curryfavel
 candyweed
 candle
 coehorn
-candleball
+candleball 1
 candleberries
 candlebomb
 candlefish
