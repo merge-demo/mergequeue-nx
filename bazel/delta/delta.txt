@@ -11125,7 +11125,7 @@ deaminated
 discographic
 disassent
 darin
-disassimilative
+disassimilative 1
 disinherits
 disassociate
 disassociates
