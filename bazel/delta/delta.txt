@@ -12220,7 +12220,7 @@ drapes
 disfranchises
 drosophilae
 depel
-deride
+deride 1
 discoursiveness
 deliquesce
 dwarfish
