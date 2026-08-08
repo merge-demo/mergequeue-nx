@@ -12205,7 +12205,7 @@ assistive
 ancestorially
 alcoholisation
 ancestral
-antlerite
+antlerite 1
 ancestry
 autocue
 astronautical
