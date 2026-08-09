@@ -17014,7 +17014,7 @@ angulodentate
 apocalyptically
 auslander
 amizilis
-anamorphose
+anamorphose 1
 acouophonia
 agonia
 apjohnite
