@@ -13651,7 +13651,7 @@ extenuations
 enskying
 ecphonesis
 extenuative
-exorcisation
+exorcisation 1
 epilogism
 earners
 embacle
