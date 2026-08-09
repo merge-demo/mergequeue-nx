@@ -31127,7 +31127,7 @@ chumpy
 counternotice
 cunnilinctus
 cunnilinguism
-cavalries
+cavalries 1
 cunninger
 cunninghamia
 cobewail
