@@ -8196,7 +8196,7 @@ broadwayite
 bifilar
 bifilarly
 biflabellate
-blowtorch
+blowtorch 1
 biflagelate
 bewaring
 boring
