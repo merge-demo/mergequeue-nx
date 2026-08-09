@@ -4868,7 +4868,7 @@ encourages
 embusy
 eucatropine
 escapable
-exorciser
+exorciser 1
 epidermatoid
 encoder
 episcopable
