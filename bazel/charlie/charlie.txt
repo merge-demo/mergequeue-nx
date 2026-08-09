@@ -29242,7 +29242,7 @@ caracols
 crypteroniaceae
 cryptical
 chinaroot
-cryptically
+cryptically 1
 crypticness
 covenantally
 crypto
