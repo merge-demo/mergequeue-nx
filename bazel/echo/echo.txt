@@ -421,7 +421,7 @@ ebulliate
 essera
 exomphalus
 entocondyle
-ebulliently 1
+ebulliently 2
 elfish
 exposits
 ebulliometer
