@@ -2818,7 +2818,7 @@ elenchize
 ecthlipsis
 eath 1
 endamask
-effeminately
+effeminately 1
 epipubic
 exampleless
 ecodeme
