@@ -12616,7 +12616,7 @@ deodorise
 definitise
 dephase
 dae
-disinvagination
+disinvagination 1
 deepfroze
 directs
 dargsman
