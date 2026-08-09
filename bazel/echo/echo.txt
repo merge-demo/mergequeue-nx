@@ -14143,7 +14143,7 @@ entrails
 epitaphic
 evensongs
 extrachromosomal
-encomium 1
+encomium 2
 electly
 expromission
 ecoles
