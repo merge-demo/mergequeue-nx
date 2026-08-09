@@ -6134,7 +6134,7 @@ formalities
 flours
 fetterers
 flagilate
-fangled
+fangled 1
 farthingless
 fishlines
 fabrique
