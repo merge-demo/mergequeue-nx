@@ -13645,7 +13645,7 @@ chalkboards
 coppras
 chiropraxis
 cocuisa
-chuffed
+chuffed 1
 claimable
 coincidental
 cymosely
