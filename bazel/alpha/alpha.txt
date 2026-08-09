@@ -3918,7 +3918,7 @@ adjudging
 apocarps
 autarkik
 adjudicated
-apostrophied
+apostrophied 1
 adjudication
 agglutinin
 adjudicative
