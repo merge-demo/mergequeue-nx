@@ -4898,7 +4898,7 @@ antipedal
 adoors
 archhost 1
 anticonservative
-arenite
+arenite 1
 areek
 aerodrome
 aerodromes
