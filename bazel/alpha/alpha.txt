@@ -21611,7 +21611,7 @@ antirickets
 akasha
 asprout 1
 antihierarchist
-antu
+antu 1
 anamniote
 approvable
 azoxime
