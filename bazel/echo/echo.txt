@@ -7318,7 +7318,7 @@ encushion 1
 epagomenae
 equerryship
 epagomenous
-electro
+electro 1
 eumitosis
 epochism
 escalier
