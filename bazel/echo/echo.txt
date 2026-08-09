@@ -9280,7 +9280,7 @@ entertains
 euchologia
 eugeosynclinal
 epitaphize 1
-elytrin
+elytrin 1
 errors
 estramazone
 ecrustaceous
