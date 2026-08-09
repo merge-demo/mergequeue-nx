@@ -5419,7 +5419,7 @@ allod
 attainers
 aculeus
 agenesic
-aforetimes
+aforetimes 1
 adenoblast
 afortiori
 apocatastasis
