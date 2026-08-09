@@ -19836,7 +19836,7 @@ comeuppances
 comfy
 clamorously
 comfier
-calamites
+calamites 1
 chamaedaphne
 cohibitive
 comfily
