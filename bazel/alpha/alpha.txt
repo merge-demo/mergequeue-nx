@@ -5710,7 +5710,7 @@ agamian
 appendicitis
 adenocellulitis
 angels
-arteries
+arteries 1
 ascertainer
 argillocalcareous
 alderney
