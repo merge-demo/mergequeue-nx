@@ -16796,7 +16796,7 @@ artamus
 agnoete
 aphorismos
 avatars
-autopore
+autopore 1
 aphorist
 ailuropus
 autoportraiture
