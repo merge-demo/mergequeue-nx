@@ -18124,7 +18124,7 @@ distinctionless
 dardic
 depoliticizing
 duppa
-diaphonical
+diaphonical 1
 domatophobia
 dumose
 dermoskeletal
