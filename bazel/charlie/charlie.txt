@@ -2971,7 +2971,7 @@ cuthbert
 contradistinction
 cantholysis
 commonable
-chaffers
+chaffers 1
 capriole
 colliquation
 cicalas
