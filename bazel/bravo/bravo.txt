@@ -8626,7 +8626,7 @@ bewig
 balcone
 bubalis 1
 blockheaded
-behear
+behear 1
 basins
 bilobe
 besiegingly
