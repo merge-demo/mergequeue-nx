@@ -26018,7 +26018,7 @@ cosed
 clipei
 citadels
 cosegment
-cosey
+cosey 1
 chimesmaster
 coseiest
 coadjutive
