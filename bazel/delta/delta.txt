@@ -5842,7 +5842,7 @@ destrier
 disestablishes
 desistance
 depots
-dasyure
+dasyure 1
 deprave
 disanagrammatize
 doxologizing
