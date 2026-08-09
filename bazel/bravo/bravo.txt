@@ -7774,7 +7774,7 @@ breach
 bianca 1
 bellum
 birchman
-biangulate
+biangulate 1
 baluchitheria
 biangulous
 biannually
