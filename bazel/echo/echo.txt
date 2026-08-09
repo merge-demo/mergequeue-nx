@@ -7948,7 +7948,7 @@ exordia
 epimandibular
 enthrone
 epimanikia
-eolopile
+eolopile 1
 equivocatory
 estragol
 ensilation
