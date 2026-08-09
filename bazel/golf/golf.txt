@@ -1797,7 +1797,7 @@ goutiest
 gonadial
 genealogizer
 gastroscopist
-gavelled
+gavelled 1
 gasterosteid
 glossolaly
 gutterblood
