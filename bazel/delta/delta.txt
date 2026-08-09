@@ -8290,7 +8290,7 @@ disadvantageously
 dependancy
 dynamiting
 dagesh
-desonation
+desonation 1
 digitation
 doombook
 dialyzer
