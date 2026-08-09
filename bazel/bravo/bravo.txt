@@ -11537,7 +11537,7 @@ birdwomen
 brachymetropia
 bestows 1
 bocedization
-blup
+blup 1
 barbs
 blurbist
 bananist 1
