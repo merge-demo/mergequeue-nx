@@ -4009,7 +4009,7 @@ friese
 flattish
 forfeited 1
 flunk
-fingerprint
+fingerprint 1
 ferric
 furazolidone
 fluorosis
