@@ -4397,7 +4397,7 @@ dissepiment
 dragonets
 duplexity
 dizening
-drawk
+drawk 1
 demeanor
 doit
 disallowableness
