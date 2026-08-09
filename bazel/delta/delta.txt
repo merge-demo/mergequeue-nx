@@ -7719,7 +7719,7 @@ devility
 deprotestantize
 daurna
 devilize
-delative
+delative 1
 diverged
 devilkins
 doubling
