@@ -4098,7 +4098,7 @@ grasped
 glucolipid 1
 gimel
 gobernadora
-gegenschein
+gegenschein 1
 gogglebox
 genus
 gelechiid
