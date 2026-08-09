@@ -5959,7 +5959,7 @@ furzes
 fearlessly
 favonius
 frenchification
-frailly
+frailly 1
 floodlilit
 fivepins
 futileness 1
