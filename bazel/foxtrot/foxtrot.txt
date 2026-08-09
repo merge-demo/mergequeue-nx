@@ -8121,7 +8121,7 @@ fretsaw
 falisci
 forewrought
 fractionate
-fanaticalness
+fanaticalness 1
 foretell
 filmiest
 fillister 1
