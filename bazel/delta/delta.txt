@@ -13827,7 +13827,7 @@ diabolarchy
 distancing
 dalmatian
 disjoining
-deceptitious
+deceptitious 1
 daytide
 dysphemia
 dogeared
