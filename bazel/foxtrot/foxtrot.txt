@@ -11448,7 +11448,7 @@ fusible
 fistinut 1
 fluorbenzene
 fideles
-flic
+flic 1
 frayedly
 furcule
 flaffer
