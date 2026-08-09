@@ -10095,7 +10095,7 @@ dynamophone
 decentralised
 dynamos
 dadoing
-dynamostatic
+dynamostatic 1
 decreing
 dynamotor
 dinanderie
