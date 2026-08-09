@@ -3572,7 +3572,7 @@ equoid
 epicureanism
 erysipelatoid
 exothermally
-epidesmine
+epidesmine 1
 emboscata
 exclusionary
 ectoglia
