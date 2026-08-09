@@ -26079,7 +26079,7 @@ chasuble
 cosymmedian
 compurgator
 cosinage
-cosine
+cosine 1
 culverineer
 cynognathus
 cosiness
