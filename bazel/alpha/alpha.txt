@@ -14758,7 +14758,7 @@ anticalcimine
 accurateness
 archdukedom
 antically
-anticalligraphic
+anticalligraphic 1
 agnathia
 advantaged
 atomistically
