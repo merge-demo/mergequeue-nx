@@ -5706,7 +5706,7 @@ frasse
 fracturableness
 flipperling
 flawlessly
-furious
+furious 1
 foremilks
 flyproof
 flush 1
