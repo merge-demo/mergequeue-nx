@@ -7820,7 +7820,7 @@ ausubos
 atrickle
 anomalonomy
 anglicism
-aldrovanda
+aldrovanda 1
 achromaturia 1
 adequative
 alchemically
