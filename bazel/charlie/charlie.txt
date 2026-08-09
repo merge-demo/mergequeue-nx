@@ -19188,7 +19188,7 @@ collotype
 cardiospasm
 corporally
 collotyped
-curries
+curries 1
 collotypy
 coontail
 cornhusks
