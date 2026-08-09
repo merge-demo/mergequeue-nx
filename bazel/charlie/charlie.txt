@@ -31605,7 +31605,7 @@ cheet
 chaton
 curvation
 curvative
-curvature
+curvature 1
 cozy
 crosstail
 clingstone
