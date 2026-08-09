@@ -12468,7 +12468,7 @@ choleinic
 clarioned
 chromolith
 colent
-chromolithic
+chromolithic 1
 concanavalin
 chromolithography
 chromolithographic
