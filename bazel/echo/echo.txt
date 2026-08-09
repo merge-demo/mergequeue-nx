@@ -13760,7 +13760,7 @@ effusely
 exodontist
 ethnize
 encloak
-exosperm
+exosperm 1
 evermo
 entea
 extispicious
