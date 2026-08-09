@@ -5659,7 +5659,7 @@ gokuraku
 goodbye
 gratefuller
 glasses 1
-glassrope
+glassrope 1
 glorifications
 garefowls
 gentlefolks
