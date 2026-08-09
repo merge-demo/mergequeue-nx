@@ -8674,7 +8674,7 @@ gres
 gymnosoph
 galerum
 gawkishly
-geotactic
+geotactic 1
 goosing
 gree
 glean
