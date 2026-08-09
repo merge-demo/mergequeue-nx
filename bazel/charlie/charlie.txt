@@ -9405,7 +9405,7 @@ citoyen
 clickless
 chazan
 chazanim
-capette
+capette 1
 chazans
 chazanut
 chazy
