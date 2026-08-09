@@ -13434,7 +13434,7 @@ ajatasatru
 arctician
 annamite
 arvicolous
-adverseness 1
+adverseness 2
 annapolis
 annas
 alations
