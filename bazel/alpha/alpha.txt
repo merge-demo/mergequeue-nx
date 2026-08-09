@@ -8270,7 +8270,7 @@ antisiccative
 athermous
 avenges
 alienigenate
-acetannin
+acetannin 1
 augmentative
 acquent
 anthropopithecus
