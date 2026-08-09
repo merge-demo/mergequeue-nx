@@ -239,7 +239,7 @@ frostbound
 fritterer
 facultize
 fulgur
-finify
+finify 1
 fetials
 fopship
 fannel
