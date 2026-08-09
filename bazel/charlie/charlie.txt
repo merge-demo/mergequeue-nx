@@ -1896,7 +1896,7 @@ confectory
 cambodian
 calotte
 camboge
-cliffed
+cliffed 1
 contraposing
 camboose
 cambouis
