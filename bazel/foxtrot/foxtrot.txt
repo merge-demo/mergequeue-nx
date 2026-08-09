@@ -1323,7 +1323,7 @@ fyttes
 famose
 flyable
 factionally
-frantically
+frantically 1
 fluxible
 fatherly
 fartherer

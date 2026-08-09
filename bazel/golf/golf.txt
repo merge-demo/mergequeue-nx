@@ -4312,7 +4312,7 @@ germicide
 gynetype
 gymnadenia 1
 glazieries
-glazings
+glazings 1
 grieves
 gippy
 grads
