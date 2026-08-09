@@ -10475,7 +10475,7 @@ amical
 amarettos
 attachments
 answerableness
-anaxagorize
+anaxagorize 1
 annotating
 anticlimactically
 amice
