@@ -12351,7 +12351,7 @@ assisi
 andian 1
 automatable
 andine
-angakut
+angakut 1
 anding
 angiosarcoma
 alternateness
