@@ -401,7 +401,7 @@ gradeless
 genuflexuous
 galatea
 galateas
-glucogenesis
+glucogenesis 1
 galbula
 gelding
 glidewort
