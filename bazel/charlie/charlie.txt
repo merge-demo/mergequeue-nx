@@ -29275,7 +29275,7 @@ caliginousness
 counterplease
 cryptocerata
 chemis
-cryptocerous
+cryptocerous 1
 confessarius
 clamoured
 conceptualising
