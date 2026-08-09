@@ -12005,7 +12005,7 @@ catalanist
 chorizont
 chorizontal
 comprehensible
-chorizos
+chorizos 1
 cribrately
 cariyo
 cutes
