@@ -1697,7 +1697,7 @@ floridian
 fearsomeness
 foreshape
 feased 1
-folic 1
+folic 2
 fumigant
 fingrigo
 forprise
