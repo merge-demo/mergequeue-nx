@@ -4497,7 +4497,7 @@ endolabyrinthitis
 encephalomyelopathy
 encenter
 ensilage 1
-endolithic
+endolithic 1
 encephalartos
 encephalasthenia
 effloresced 1
