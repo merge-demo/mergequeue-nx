@@ -6896,7 +6896,7 @@ desolates
 desolating
 doffers 1
 drabber
-diabasic
+diabasic 1
 desolatingly
 duniewassal
 desolation
