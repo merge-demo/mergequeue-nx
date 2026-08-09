@@ -5228,7 +5228,7 @@ boarcite
 barbules 1
 basification
 breadboards
-barkeeps
+barkeeps 1
 begar
 bodingly
 basaltic
