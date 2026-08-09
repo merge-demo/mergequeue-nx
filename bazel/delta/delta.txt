@@ -17659,7 +17659,7 @@ dioscorein 1
 deratizing
 dualize
 dialogic
-disaffiliates
+disaffiliates 1
 decare
 desulphurating
 disapprovingly
