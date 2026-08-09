@@ -10080,7 +10080,7 @@ dramshop
 dynamogenesis
 dauphins
 demological
-dynamograph
+dynamograph 1
 dauerschlaf
 dynamometamorphic
 disseverance
