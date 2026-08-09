@@ -6648,7 +6648,7 @@ barbarious
 beriberis
 bevesseled
 beerier 1
-berycid
+berycid 1
 busyhead
 bovld
 berycidae
