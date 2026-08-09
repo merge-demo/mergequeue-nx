@@ -4568,7 +4568,7 @@ cationic
 carnification
 carnificial
 carnifies
-colonel
+colonel 1
 cnidocell 1
 carniform
 consummatory
