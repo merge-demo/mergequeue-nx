@@ -7759,7 +7759,7 @@ amphikaryon
 antiseptical
 aldermanship
 aldermen
-allopolyploidy 1
+allopolyploidy 2
 almehs
 aonian
 adjustably
