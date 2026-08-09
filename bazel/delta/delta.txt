@@ -16986,7 +16986,7 @@ dunning
 doorcheek
 demipillar
 dendrocoela
-disjoined
+disjoined 1
 diacritically
 displenish
 dregs 1
