@@ -9923,7 +9923,7 @@ ferromagnetism
 furze
 friesian
 fittable
-friezer
+friezer 1
 fiercely
 frig
 fossilated
