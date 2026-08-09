@@ -3185,7 +3185,7 @@ distaff
 doltishness
 depolarizes
 devotionalness
-dimitting
+dimitting 1
 defectless
 declaratives
 defectlessness
