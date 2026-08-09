@@ -10443,7 +10443,7 @@ aculeolus
 ametrope
 antshrike
 ametropia
-ametrous
+ametrous 1
 amhar
 afterbirths
 alcade
