@@ -11159,7 +11159,7 @@ figged
 frowy
 fungation
 fungia
-fremdness
+fremdness 1
 flyblowing
 fungian
 felspar
