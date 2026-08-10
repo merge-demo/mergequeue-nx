@@ -7276,7 +7276,7 @@ betain 2
 bibiru
 broddle
 blanked
-betake
+betake 1
 buckshees
 barkevikite
 betakes
