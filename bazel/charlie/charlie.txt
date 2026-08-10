@@ -24317,7 +24317,7 @@ crull
 creatable
 classist
 corncutting
-coarrange
+coarrange 1
 cookeite
 cooker
 cookeries
