@@ -30595,7 +30595,7 @@ cubomedusan
 cubometatarsal
 cubonavicular
 cubti
-cuca
+cuca 1
 cluff
 clambers
 corraded
