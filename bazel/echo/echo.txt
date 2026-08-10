@@ -2055,7 +2055,7 @@ electrograph
 embroilments
 eldin
 electrolyzation
-erupts
+erupts 1
 embitterments
 eunuchoidism
 echoencephalography
