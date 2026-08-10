@@ -5591,7 +5591,7 @@ afterspring
 anatron
 anhele
 afterstretch
-amphitriaene
+amphitriaene 1
 autosuggestive
 archdogmatist
 acetylaminobenzene
