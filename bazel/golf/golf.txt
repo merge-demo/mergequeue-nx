@@ -10239,7 +10239,7 @@ gonophorous
 gastroptosis
 grape
 gossypin
-graminivore 1
+graminivore 2
 glycogenase
 guiltsick
 genesee
