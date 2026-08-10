@@ -7604,7 +7604,7 @@ gravimetrically
 greengroceries
 gloeosporium
 goodyness
-gemmula
+gemmula 1
 grus
 grabhook
 grabouche
