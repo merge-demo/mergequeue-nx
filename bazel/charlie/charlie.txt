@@ -6107,7 +6107,7 @@ catso
 catsos
 carloadings
 catspaw
-catstane
+catstane 1
 catstep
 catstick
 ciderkin
