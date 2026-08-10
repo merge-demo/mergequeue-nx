@@ -28974,7 +28974,7 @@ cheilotomy
 cyanic 1
 cricoid
 cricoids
-couper
+couper 1
 cricopharyngeal
 cricothyreotomy
 choosey
