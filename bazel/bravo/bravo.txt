@@ -5065,7 +5065,7 @@ biloculine
 beferned
 befetished
 bandoline 1
-bilingual
+bilingual 1
 balefire
 biocatalyst
 basenet
