@@ -6486,7 +6486,7 @@ guarded
 gie
 guanare
 gapeworms
-gurry
+gurry 1
 glycols 1
 grit
 graduatical
