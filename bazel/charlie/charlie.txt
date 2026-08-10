@@ -4637,7 +4637,7 @@ carolus
 chemicocautery
 causeless
 caroluses
-carom
+carom 1
 clubbily
 caromel
 caroming
