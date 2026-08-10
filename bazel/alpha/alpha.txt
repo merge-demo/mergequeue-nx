@@ -4717,7 +4717,7 @@ arianize
 arghoul
 abush
 aetheling
-antedawn
+antedawn 1
 allographic 1
 acrotisms
 alphard

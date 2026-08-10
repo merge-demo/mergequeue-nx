@@ -30840,7 +30840,7 @@ culmed
 cosuretyship
 casco
 causus
-committable
+committable 1
 culmiferous
 culminal
 culminate
