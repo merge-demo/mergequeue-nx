@@ -9843,7 +9843,7 @@ esterified 1
 eclipsation
 eatage
 esterization
-esterize
+esterize 1
 enterocrinin
 exhumated
 electorate
