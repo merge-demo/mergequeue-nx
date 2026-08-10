@@ -8458,7 +8458,7 @@ dooxidize
 dextro
 decrowns 1
 daimonology
-decise
+decise 1
 deration
 dibutyl
 didymis
