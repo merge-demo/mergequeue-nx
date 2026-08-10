@@ -9171,7 +9171,7 @@ chasmed
 caddy
 chondrigenous
 cheths
-clypeolate
+clypeolate 1
 chasmogamous
 chasmophyte
 commandeering
