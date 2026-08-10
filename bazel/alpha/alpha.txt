@@ -22221,7 +22221,7 @@ astogeny
 aglutition
 arrestees 1
 anticholinergic
-astomia
+astomia 1
 astone
 allylamine
 apennine
