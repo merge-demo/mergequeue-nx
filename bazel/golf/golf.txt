@@ -2933,7 +2933,7 @@ gallons
 glabreity
 gulley
 growlier
-glumpish
+glumpish 1
 gavelkind
 growleries
 glycol
