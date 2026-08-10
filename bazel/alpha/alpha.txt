@@ -18156,7 +18156,7 @@ autolytic
 aquarius
 astint
 anacusia
-adequately
+adequately 1
 aquascope
 alltud
 ashberry
