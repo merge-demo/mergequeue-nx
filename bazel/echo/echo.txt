@@ -906,7 +906,7 @@ enures
 emperies
 extrastate
 electrostrictive
-episedia
+episedia 1
 encomiastic
 excommunicators
 endosporous
