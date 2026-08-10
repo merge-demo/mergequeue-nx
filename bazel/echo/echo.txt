@@ -6207,7 +6207,7 @@ entrappingly 1
 entocondyloid
 elision
 ennoblement
-estuant
+estuant 1
 ennoblements
 euryhaline
 exaspidean
