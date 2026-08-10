@@ -4021,7 +4021,7 @@ epionychia 1
 empexa
 emphasize
 emphasized
-embargos
+embargos 1
 exogens
 eyeblack
 endometritis
