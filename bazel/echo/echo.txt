@@ -644,7 +644,7 @@ etwees
 elocute
 eclegma
 ehrman
-etatism
+etatism 1
 excretitious
 establishment
 equisufficiency
