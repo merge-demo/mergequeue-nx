@@ -1294,7 +1294,7 @@ dentition
 dysodyle
 doitrified
 dardanarius
-disturbed
+disturbed 1
 daturism 1
 delusive
 diphycercal
