@@ -664,7 +664,7 @@ caesious 1
 caespitose
 caespitosely
 cinemize
-crownal
+crownal 1
 caestus
 creatins
 caestuses
