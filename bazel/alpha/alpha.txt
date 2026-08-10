@@ -2598,7 +2598,7 @@ actutate
 applies
 arriswise
 acquiesce
-addiction
+addiction 1
 acanthopterous 1
 alginates
 acquiescement
