@@ -10531,7 +10531,7 @@ famishment
 frictionless
 francisca
 faiths
-feelies
+feelies 1
 forehanded
 falltime
 forcipiform
