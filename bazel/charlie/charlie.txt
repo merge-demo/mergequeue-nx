@@ -7019,7 +7019,7 @@ centage
 cavort
 centals
 coolies
-chock
+chock 1
 centaur
 centaurdom
 cuvette
