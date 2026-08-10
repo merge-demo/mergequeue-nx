@@ -12317,7 +12317,7 @@ astylospongia
 analog
 andabatism
 antinous
-atheromatous
+atheromatous 1
 anaclete
 agnes
 antipestilent
