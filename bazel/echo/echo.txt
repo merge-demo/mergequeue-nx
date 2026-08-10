@@ -7094,7 +7094,7 @@ enunciated
 embowelled
 escalloniaceous 1
 electroanalytical
-ectropionization
+ectropionization 1
 egotisms
 ectocinereal
 epapophysial
