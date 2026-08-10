@@ -6594,7 +6594,7 @@ foamflower
 flammulation
 firework
 forthcomer 1
-frocks
+frocks 1
 floriculturally
 fullness
 fettled
