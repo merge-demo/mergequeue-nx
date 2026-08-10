@@ -5079,7 +5079,7 @@ aporrhiegma
 albruna
 allantoidal
 aerotonometric
-alloys
+alloys 1
 agrostographical
 aerotropism
 allantois
