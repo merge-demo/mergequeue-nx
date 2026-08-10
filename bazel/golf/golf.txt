@@ -8921,7 +8921,7 @@ gaufferer
 groove
 grubbed
 gingras
-gabbing
+gabbing 1
 grandparent
 galesaur
 gaffe
