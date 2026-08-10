@@ -595,7 +595,7 @@ dicyclopentadienyliron
 dehydroretinol
 develin
 drawboy
-demifusion
+demifusion 1
 dextrose
 dups
 damine
