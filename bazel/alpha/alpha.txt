@@ -22036,7 +22036,7 @@ asepticism
 anteprostate
 astable
 astay
-anisometropic
+anisometropic 1
 aegithognathism
 anaphylaxis
 astare
