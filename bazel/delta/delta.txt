@@ -13806,7 +13806,7 @@ deerskin
 dialogistically 1
 demurral
 deader
-driftpin
+driftpin 1
 dramatis
 dogvane
 decapod
