@@ -17813,7 +17813,7 @@ conium
 counterlit
 counselling
 cacking
-codeine
+codeine 1
 codeines
 codelinquency
 crypta
