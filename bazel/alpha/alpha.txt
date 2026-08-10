@@ -1435,7 +1435,7 @@ accipient
 accipitrine
 adeuism
 amplitude
-accite
+accite 1
 acclaimable
 amblyope
 atocha
