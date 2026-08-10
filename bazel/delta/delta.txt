@@ -6013,7 +6013,7 @@ disapprove
 dermatonosus
 derogated
 depthways
-disoccupy
+disoccupy 1
 deadman
 dandered
 drayages
