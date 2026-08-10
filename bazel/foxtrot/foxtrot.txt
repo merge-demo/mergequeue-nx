@@ -3814,7 +3814,7 @@ fraterniser
 fillingly
 fingerboard
 flyflap
-freon
+freon 1
 ferritization
 frizzliest
 frocklike
