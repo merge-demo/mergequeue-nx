@@ -1949,7 +1949,7 @@ acetylmethylcarbinol
 aporetic
 acetylperoxide
 acetylphenylhydrazine
-aslope
+aslope 1
 affinite
 acetylphenol
 agogic
