@@ -436,7 +436,7 @@ exobiologists
 ec
 ecardines 1
 extravagate
-ernest
+ernest 1
 ecballium
 expugnable
 ecbole
