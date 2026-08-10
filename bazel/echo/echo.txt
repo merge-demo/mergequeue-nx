@@ -10908,7 +10908,7 @@ eanlings
 eudemian
 easternize
 enterokinase
-enfin
+enfin 1
 encephalocoele
 epibaterium
 euktolite
