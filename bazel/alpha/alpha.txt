@@ -1173,7 +1173,7 @@ acanthaceous
 aeacus
 applauses
 adjustor
-acanthia
+acanthia 1
 anthropogenetic
 apocryphally
 acanthion
