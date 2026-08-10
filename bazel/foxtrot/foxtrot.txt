@@ -3372,7 +3372,7 @@ flashers
 fieldish
 funereality
 fattener
-furriners
+furriners 1
 fibromatous
 fossores
 foveolate
