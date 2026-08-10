@@ -726,7 +726,7 @@ aver
 alternize
 anglicized
 aptote
-animine
+animine 1
 antivaccination
 abrade
 angaralite
