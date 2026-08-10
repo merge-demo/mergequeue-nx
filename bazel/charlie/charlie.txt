@@ -12737,7 +12737,7 @@ chuje
 clockmaker
 cajava
 complices
-chukchi
+chukchi 1
 chukka
 centerboards
 chukkar
