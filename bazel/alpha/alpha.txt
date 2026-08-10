@@ -12528,7 +12528,7 @@ anemony
 anaspida 1
 anguillidae
 anemopathy
-astroscope
+astroscope 1
 antisudorific
 anemoscope
 albifying
