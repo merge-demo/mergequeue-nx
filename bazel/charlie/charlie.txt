@@ -28756,7 +28756,7 @@ circaetus
 compendiary
 crepuscular
 cavitate
-cornutine
+cornutine 1
 chafer
 crepusculine
 catenary
