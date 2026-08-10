@@ -14849,7 +14849,7 @@ designate
 doctrinate
 doctrines
 delinition
-disgraces
+disgraces 1
 decumbently
 docudramas
 document
