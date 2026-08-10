@@ -12331,7 +12331,7 @@ bombesins
 brightsomeness
 beeregar
 brandle
-bantered
+bantered 1
 bombycine
 bagpiper
 blacky
