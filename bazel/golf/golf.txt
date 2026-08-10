@@ -894,7 +894,7 @@ gametocyte
 grayout
 gametogenic 1
 gooseflesh
-gueparde
+gueparde 1
 glutathione
 geognost
 grassfire
