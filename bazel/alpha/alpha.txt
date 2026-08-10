@@ -24481,7 +24481,7 @@ ayless
 argalis
 araliad
 appeased
-acceptingness
+acceptingness 1
 alkalinization
 arthropody
 arithmogram 1
