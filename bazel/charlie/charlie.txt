@@ -9330,7 +9330,7 @@ childlikeness
 chartometer
 chaunted
 chaunter
-capillaritis
+capillaritis 1
 chaunts
 catamarans
 chaus
