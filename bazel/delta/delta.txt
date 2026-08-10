@@ -6677,7 +6677,7 @@ dipneedle
 danders
 deregulates
 deserving 1
-diabetics
+diabetics 1
 diorite
 despisedness
 droiturel
