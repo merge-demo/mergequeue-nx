@@ -7055,7 +7055,7 @@ cack
 centennially
 corroborant
 centennials
-caribes
+caribes 1
 caisson
 chisedec
 centerable
