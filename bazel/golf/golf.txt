@@ -9349,7 +9349,7 @@ galleasses
 goliad 1
 gunnysacks
 ghaznevid
-ghaist 1
+ghaist 2
 gasparillo
 gyrostat
 gimmick
