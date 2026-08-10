@@ -2830,7 +2830,7 @@ ferrozirconium
 floodlights
 fideicommiss
 fetichism
-fraction
+fraction 1
 forebush
 foreadmonish
 fieldsmen
