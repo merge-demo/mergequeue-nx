@@ -18360,7 +18360,7 @@ coralloid
 counterbuilding
 conformers
 cogmen
-claypan
+claypan 1
 chenevixite
 conterminant
 cognac
