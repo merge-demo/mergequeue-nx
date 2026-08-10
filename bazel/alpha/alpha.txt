@@ -3307,7 +3307,7 @@ apx
 amblychromatic
 anomurous
 agawam
-adactylous
+adactylous 1
 ametabola
 adad
 algesic
