@@ -3154,7 +3154,7 @@ doat
 defeasibility
 dacryohelcosis 1
 dingey
-doorbell
+doorbell 1
 dinnery
 defeated
 downs
