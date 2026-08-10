@@ -12991,7 +12991,7 @@ disorientate 1
 dottrel
 didric
 diastematomyelia
-disorients
+disorients 1
 dysoxidation
 dollarfishes
 disoxygenation
