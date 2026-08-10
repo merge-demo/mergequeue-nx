@@ -5557,7 +5557,7 @@ epilimnetic
 euhemerizing
 encourage
 etherlike
-enfeoffing
+enfeoffing 1
 episcopant
 enfeoffment
 exestuate
