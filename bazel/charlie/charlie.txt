@@ -3947,7 +3947,7 @@ capra
 carburetors
 carburets
 cuffer
-cosponsored
+cosponsored 1
 cataphracta
 carburetter
 calcaneoastragalar
