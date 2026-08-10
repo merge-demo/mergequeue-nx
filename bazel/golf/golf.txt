@@ -632,7 +632,7 @@ gradatory
 guenepe
 guideline
 gramineal
-geodetic
+geodetic 1
 grottowork
 gardencraft
 gallomaniac
