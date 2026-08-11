@@ -23698,7 +23698,7 @@ algorism
 auriflamme
 authorize
 anniversariness
-aurigerous
+aurigerous 1
 aurigraphy
 aurotellurite
 akanekunik
