@@ -9551,7 +9551,7 @@ emasculated 1
 embarrassed
 eskimoized
 electrolysed
-embeam
+embeam 1
 eupatoriaceous
 earls
 eskualdun
