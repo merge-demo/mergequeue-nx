@@ -24734,7 +24734,7 @@ adyta
 airest
 antipathogene
 ankylosaurus 1
-angule
+angule 1
 antecoxal
 admission
 antemural
