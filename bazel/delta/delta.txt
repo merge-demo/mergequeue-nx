@@ -1116,7 +1116,7 @@ dase
 dissidently
 dash 1
 designado
-doctorization
+doctorization 1
 dashed
 dicentra
 dipnoid
