@@ -20484,7 +20484,7 @@ celticist
 compass
 compassability
 compassable
-compassed 1
+compassed 2
 cotham
 cobwebbiest
 chinchiest
