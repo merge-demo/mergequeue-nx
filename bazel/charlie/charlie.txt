@@ -22633,7 +22633,7 @@ connotation
 ceratitoid
 connotations
 connotative
-connotatively
+connotatively 1
 counterextend
 connote
 crymotherapy 1
