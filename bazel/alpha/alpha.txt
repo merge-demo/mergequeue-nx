@@ -12721,7 +12721,7 @@ antimedicative
 agnamed
 anelectric
 allograft
-angeluses
+angeluses 1
 anger
 adiaphoresis
 acrasieae
