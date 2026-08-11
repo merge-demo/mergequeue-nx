@@ -15518,7 +15518,7 @@ duopolies
 dismalness
 diabolism 1
 despicability
-dendral
+dendral 1
 dobbie
 dualists
 desensitize
