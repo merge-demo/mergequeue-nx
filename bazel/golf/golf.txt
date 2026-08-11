@@ -9475,7 +9475,7 @@ glandulosity
 genitalial
 glycose
 gladiate
-glossy
+glossy 1
 ganser
 glossographical
 gleeishly
