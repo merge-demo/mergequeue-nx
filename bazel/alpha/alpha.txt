@@ -22217,7 +22217,7 @@ advised
 antepaschal
 anthropophagism
 argumentativeness
-astogeny
+astogeny 1
 aglutition
 arrestees 1
 anticholinergic
