@@ -16513,7 +16513,7 @@ alodially
 auriscope
 aortal
 aortarctia
-aortas
+aortas 1
 avogadro
 agsam
 aegagri
