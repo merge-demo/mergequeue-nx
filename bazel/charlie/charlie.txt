@@ -7796,7 +7796,7 @@ chlamydophore
 connoissance
 cylindricalness
 conducing
-ceruleous
+ceruleous 1
 ceratophrys
 cerulific
 cerulignol
