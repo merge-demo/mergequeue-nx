@@ -17090,7 +17090,7 @@ abstinence
 apodiabolosis
 arithmetize
 apodictive
-aluminite
+aluminite 1
 apodyteria
 adverb
 apodyterium
