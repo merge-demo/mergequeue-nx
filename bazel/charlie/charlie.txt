@@ -19024,7 +19024,7 @@ combattant
 collembola
 collembole
 cokernut
-collembolous
+collembolous 1
 checkweighman
 collencyte
 collery
