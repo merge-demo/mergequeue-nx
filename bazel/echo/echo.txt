@@ -1703,7 +1703,7 @@ ergophile
 encapsulations
 eyedot
 expediential
-exploder
+exploder 1
 evener
 exaggerating
 enunciatory
