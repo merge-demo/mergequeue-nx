@@ -24150,7 +24150,7 @@ acetylthymol
 alewives
 avast
 arache
-altoist
+altoist 1
 antianarchist
 absorbance
 azelfafage
