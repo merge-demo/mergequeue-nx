@@ -12508,7 +12508,7 @@ embosture
 executrixship
 expertize 1
 exine
-exies
+exies 1
 extraviolet
 errantia
 electicism
