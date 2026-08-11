@@ -9832,7 +9832,7 @@ estrich
 etagre
 expurgator
 eikon
-egocentricity 1
+egocentricity 2
 enthronising
 endoceras
 equiomnipotent
