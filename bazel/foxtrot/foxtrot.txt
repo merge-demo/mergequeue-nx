@@ -11524,7 +11524,7 @@ ferruler
 fistic
 foreremembered
 fab 1
-furtiveness
+furtiveness 1
 frena
 foxfeet
 fuselages
