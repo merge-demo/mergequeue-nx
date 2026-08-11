@@ -14675,7 +14675,7 @@ calyxes
 cystourethrography
 cistron
 cistronic
-cochon
+cochon 1
 cistrons
 conventionality
 cists
