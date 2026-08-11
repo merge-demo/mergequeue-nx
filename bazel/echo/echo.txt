@@ -11562,7 +11562,7 @@ evocator
 evoe
 ensilaging
 exoculating
-erethizon 1
+erethizon 2
 estrange
 endites
 evernia
