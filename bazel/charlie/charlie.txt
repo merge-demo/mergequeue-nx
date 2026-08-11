@@ -21917,7 +21917,7 @@ clubrooms 1
 confessedly
 confesses
 coiners
-confessingly
+confessingly 1
 confessional
 confessionalism
 confessionally
