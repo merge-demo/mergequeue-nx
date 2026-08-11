@@ -8797,7 +8797,7 @@ gulfs
 goalless
 gymnostomina
 greese
-gust
+gust 1
 genual
 glistered
 garryaceae
