@@ -2956,7 +2956,7 @@ actine
 actinenchyma
 artiness
 antijam
-acting
+acting 1
 actiniae
 amphiprotic
 appalment
