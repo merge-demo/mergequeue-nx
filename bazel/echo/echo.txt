@@ -10616,7 +10616,7 @@ electroendosmose
 electrotherapies
 endorse
 eucritic 1
-eudaemon
+eudaemon 1
 eurous
 enmeshes
 extravasated
