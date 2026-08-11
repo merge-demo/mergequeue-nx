@@ -8386,7 +8386,7 @@ darwinize 1
 digestant
 disniche
 dialysis
-digestional
+digestional 1
 debauchedness
 diduction
 dialystaminous
