@@ -8616,7 +8616,7 @@ changefully
 copolymerism
 changeless
 cynosural
-curtness
+curtness 1
 complementaries
 cohesionless
 changelessness
