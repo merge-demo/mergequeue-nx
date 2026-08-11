@@ -13593,7 +13593,7 @@ coproite
 crankest
 chiffer
 cimices
-cimicide
+cimicide 1
 cene
 cimiciform
 chickens
