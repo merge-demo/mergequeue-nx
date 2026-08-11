@@ -13363,7 +13363,7 @@ disequilibria
 disputisoun
 duala
 disheartens
-distributively
+distributively 1
 daguerreotypes
 disporting
 discanting
