@@ -1114,7 +1114,7 @@ forbade
 familiarizing
 fervidness
 fusileer
-frizzling
+frizzling 1
 farthing
 foresay
 fluffing
