@@ -9497,7 +9497,7 @@ calculated
 checker
 checkerbelly
 centrolepidaceous
-checkerbellies
+checkerbellies 1
 checkerberry
 checkerberries
 chorological
