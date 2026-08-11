@@ -5610,7 +5610,7 @@ afterthrift
 apastron
 armil
 anchoritically
-absorptivity
+absorptivity 1
 aphototaxis
 aftervision
 actinomycoma
