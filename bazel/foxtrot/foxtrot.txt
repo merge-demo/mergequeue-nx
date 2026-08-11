@@ -4567,7 +4567,7 @@ forespoken
 feuder
 fisticuff
 fort
-fouldre
+fouldre 1
 familiarness
 fratricide
 fainaigued
