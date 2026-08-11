@@ -4147,7 +4147,7 @@ endives
 exedral
 epirote 1
 eiffel
-ensheathed
+ensheathed 1
 every
 etymologically
 endurability
