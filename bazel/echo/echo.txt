@@ -2481,7 +2481,7 @@ exhilarates
 electrogilt
 ejecting
 electrogram
-endows
+endows 1
 eupolyzoa
 eleve
 exegete
