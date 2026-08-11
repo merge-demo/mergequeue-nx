@@ -250,7 +250,7 @@ furmint
 fibrillous
 floozy
 freeload
-forspend
+forspend 1
 fidgets
 fluviation
 forwhy
