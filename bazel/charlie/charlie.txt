@@ -9316,7 +9316,7 @@ chauk
 calodaemon
 catagmatic
 chaukidari
-castrate
+castrate 1
 chullo
 chaulmaugra
 chaulmoogra
