@@ -17467,7 +17467,7 @@ cobbra
 cobbs
 carabins
 characterize
-calixtin
+calixtin 1
 categorematically
 crowning
 cobdenite
