@@ -3132,7 +3132,7 @@ cape
 chequerboard
 capeadores
 capelan
-capelans
+capelans 1
 chromid
 capelin
 cornette
