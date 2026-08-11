@@ -308,7 +308,7 @@ festively
 forthputting 1
 foaming
 filar
-flexuosity
+flexuosity 1
 fraternation
 feints
 fag
