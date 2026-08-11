@@ -2359,7 +2359,7 @@ databases
 dissociant
 daphnid
 decadally
-devocalising
+devocalising 1
 decessit
 decerebrating
 daikon
