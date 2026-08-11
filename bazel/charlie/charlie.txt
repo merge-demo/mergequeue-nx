@@ -20333,7 +20333,7 @@ communization
 contumeliousness
 choruser
 coeloblastula
-couseranite
+couseranite 1
 chakra
 communize
 catholicoses
