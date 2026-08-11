@@ -6189,7 +6189,7 @@ demonstrability
 did
 dimerizes 1
 derisively
-derisiveness
+derisiveness 1
 dejeuners
 deferable
 derival
