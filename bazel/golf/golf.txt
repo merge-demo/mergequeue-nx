@@ -1099,7 +1099,7 @@ goriest
 giroflore 1
 groat
 grooviness
-grannies
+grannies 1
 gonangium 1
 gregorianize
 ganja
