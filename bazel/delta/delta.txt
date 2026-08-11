@@ -6065,7 +6065,7 @@ damiana
 disacknowledgement
 doughbelly
 diopsis
-deputing
+deputing 1
 diaconicon
 digitalization
 dorps
