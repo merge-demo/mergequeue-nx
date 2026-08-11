@@ -1292,7 +1292,7 @@ demigardebras
 dissyllabize
 dentition
 dysodyle
-doitrified
+doitrified 1
 dardanarius
 disturbed
 daturism 1
