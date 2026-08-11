@@ -922,7 +922,7 @@ cakchikel
 cushily
 caker
 cakette
-chaptalization
+chaptalization 1
 cakewalked
 cakewalker
 cakewalking
