@@ -18291,7 +18291,7 @@ apostatising
 austenitize
 aracana
 anarthria
-aracanga
+aracanga 1
 antefebrile 1
 arach
 arachidic
