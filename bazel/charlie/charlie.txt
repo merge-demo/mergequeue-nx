@@ -30858,7 +30858,7 @@ coolidge
 corneocalcareous
 cranioclasm
 cleithrum
-copaline
+copaline 1
 corduroyed
 culot
 consentful
