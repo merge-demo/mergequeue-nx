@@ -5220,7 +5220,7 @@ advocacies
 affectivity
 affector
 accoast
-affeerer
+affeerer 1
 aum
 ankerite
 almendron
