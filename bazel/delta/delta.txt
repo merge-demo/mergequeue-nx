@@ -12186,7 +12186,7 @@ depressible
 dejections
 disfigure
 draughter
-defencelessness
+defencelessness 1
 disfigurer
 demarcated
 didactician
