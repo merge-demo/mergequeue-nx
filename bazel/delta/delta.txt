@@ -17323,7 +17323,7 @@ desirers 1
 dodecanal
 doa
 dignifying
-drooled
+drooled 1
 drooly
 doorstep
 dilatational
