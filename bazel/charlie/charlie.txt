@@ -9246,7 +9246,7 @@ chatons
 convincedly
 chatot
 cuckoomaiden
-compel
+compel 1
 chatsome
 chattah
 chattanooga
