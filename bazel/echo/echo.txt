@@ -6169,7 +6169,7 @@ emusified
 ethnomusicological
 elans
 evolvent
-enneagonal
+enneagonal 1
 etymologizable
 enrolling
 endorachis
