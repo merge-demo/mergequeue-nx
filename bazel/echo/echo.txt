@@ -984,7 +984,7 @@ excavatory
 emasculating
 enthymematic
 ensaffron
-ensealing
+ensealing 1
 endomitotic
 excrementary
 edaphology
