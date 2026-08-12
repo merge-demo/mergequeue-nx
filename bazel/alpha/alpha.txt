@@ -16569,7 +16569,7 @@ autolithographic
 ach
 athanasy
 anadem
-anorthosite
+anorthosite 1
 alisanders
 apanthropia 1
 awakenment
