@@ -90,7 +90,7 @@ cephaeline
 coemptor
 cabbed
 cubics
-cabby
+cabby 1
 cabbie
 crenelate
 cabbies
