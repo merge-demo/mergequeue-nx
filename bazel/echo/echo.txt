@@ -1023,7 +1023,7 @@ equable
 energised
 electrohorticulture
 expansionists 1
-epigonation
+epigonation 1
 egilops
 eudyptes
 etatisme
