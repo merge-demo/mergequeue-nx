@@ -8381,7 +8381,7 @@ eosin
 equivocating
 etherealism
 enhaloes
-euphuist
+euphuist 1
 everylike
 epitomized
 epitomizes
