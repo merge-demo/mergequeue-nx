@@ -1193,7 +1193,7 @@ construable
 couture
 celluloses
 calculuses
-callipered
+callipered 1
 caldaria
 calden
 calderas
