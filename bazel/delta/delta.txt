@@ -8142,7 +8142,7 @@ diacaustic
 diamminonitrate
 diapasons
 destitution
-dipsetic
+dipsetic 1
 dakotan
 divaricated
 devein
