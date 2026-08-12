@@ -6654,7 +6654,7 @@ entomophagan
 exchangite
 escambron
 enteroischiocele
-enlacement
+enlacement 1
 esplees
 electronarcosis
 eurocentric
