@@ -3488,7 +3488,7 @@ defoliants
 defoliate
 defoliations
 descending
-disjunct
+disjunct 1
 debilitant 1
 dichroscope
 decelerating
