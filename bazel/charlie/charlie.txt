@@ -27608,7 +27608,7 @@ covite
 covolume
 catchpennies
 coarser
-cognoscitively
+cognoscitively 1
 cypressroot 1
 cow
 chesteine
