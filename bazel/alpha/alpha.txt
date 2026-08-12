@@ -12513,7 +12513,7 @@ antipacifist
 anemography
 anemographically
 anemologic
-anticonfederationist
+anticonfederationist 1
 anemometrically
 attenuated
 amanuenses
