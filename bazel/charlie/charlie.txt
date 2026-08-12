@@ -31214,7 +31214,7 @@ czechoslovaks
 cupsful
 cupstone
 cupula
-cupulae
+cupulae 1
 cupular
 carlines
 cupulate
