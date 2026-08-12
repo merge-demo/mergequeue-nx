@@ -5591,7 +5591,7 @@ catercousin
 catalyze
 catalyzer
 catchalls
-compunctionary
+compunctionary 1
 catallactic
 catallum
 cladocerans
