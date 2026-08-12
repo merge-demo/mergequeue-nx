@@ -28055,7 +28055,7 @@ crammer
 crammers
 cramming
 chameleonic
-crammingly
+crammingly 1
 cramoisies
 cramp
 cramped
