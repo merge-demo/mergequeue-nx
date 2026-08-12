@@ -11618,7 +11618,7 @@ facsimile
 frolicsomely
 fortissimi
 farci
-fibrous
+fibrous 1
 fylgja
 fosite
 funestal
