@@ -6680,7 +6680,7 @@ gynodioeciously 1
 gunsman
 glitters
 guard
-garmentless
+garmentless 1
 giantism
 gastroscopies
 graptolithida
