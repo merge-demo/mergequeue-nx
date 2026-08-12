@@ -13437,7 +13437,7 @@ arvicolous
 adverseness 1
 annapolis
 annas
-alations
+alations 1
 anthroposcopy
 anne
 alod
