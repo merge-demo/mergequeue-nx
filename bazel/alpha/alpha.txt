@@ -9149,7 +9149,7 @@ adenovirus
 almander
 aeginetic
 almandines
-agalactous
+agalactous 1
 antiputrefaction
 averter
 animations
