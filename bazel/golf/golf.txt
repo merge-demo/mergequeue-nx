@@ -3867,7 +3867,7 @@ gell
 galanas
 giftwrapping 1
 gazeless
-gorgonesque
+gorgonesque 1
 goats
 gushing
 gruffed
