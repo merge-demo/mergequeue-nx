@@ -10043,7 +10043,7 @@ editresses
 energetical
 epitaphial
 esculetin
-evolutions
+evolutions 1
 emergent
 encastered
 egrets
