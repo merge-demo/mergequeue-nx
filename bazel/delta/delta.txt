@@ -10732,7 +10732,7 @@ deferrers
 dat
 decompensatory
 diarthrosis
-discreditable
+discreditable 1
 deckie
 diprotodan
 delian
