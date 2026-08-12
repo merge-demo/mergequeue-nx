@@ -4329,7 +4329,7 @@ dods
 demagogical
 dura 1
 descriers
-demagogue
+demagogue 1
 diseducate
 demagoguery
 demagogues
