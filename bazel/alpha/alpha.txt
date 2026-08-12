@@ -5671,7 +5671,7 @@ ancillae
 affatuate
 againstand
 antilens
-amphidromia
+amphidromia 1
 amphistomatic
 againward
 aggrace
