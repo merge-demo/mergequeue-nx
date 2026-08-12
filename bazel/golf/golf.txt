@@ -6076,7 +6076,7 @@ gemuetlich
 grizelin
 guly 1
 gonzo
-gallature
+gallature 1
 grinding 1
 gnathostomata
 gastrocnemial
