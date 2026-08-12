@@ -8821,7 +8821,7 @@ gonogenesis
 gregariously
 glaciologic
 grazed 1
-geranomorphae
+geranomorphae 1
 grossularia
 grossest
 gauntleting
