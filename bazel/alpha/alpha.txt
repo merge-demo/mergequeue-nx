@@ -1355,7 +1355,7 @@ anticatholic
 anapaestical
 anticnemion
 airtightly
-awingly
+awingly 1
 auxillary
 accentual
 accension

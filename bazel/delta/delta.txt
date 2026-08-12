@@ -10224,7 +10224,7 @@ defatting
 dinkum
 detractory
 duroc
-dinnerly
+dinnerly 1
 decillionth
 dishcross
 doblons
