@@ -5196,7 +5196,7 @@ cashkeeper
 crows
 clearest
 cashmere
-cashmeres
+cashmeres 1
 conepates 1
 claudian
 cashoo

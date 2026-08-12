@@ -1994,7 +1994,7 @@ alembroth
 amidoazobenzene
 arizonans
 alap
-acetophenetidin
+acetophenetidin 1
 acetophenetidine
 anurias
 abrogations
