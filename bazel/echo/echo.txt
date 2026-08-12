@@ -5925,7 +5925,7 @@ exaggerativeness
 epitomise
 edeitis
 enfief
-enhancing
+enhancing 1
 enharbour
 electrometallurgy
 exocytosis
