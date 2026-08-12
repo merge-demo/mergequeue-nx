@@ -12140,7 +12140,7 @@ adulterates
 anatomize
 anopsy
 anatomizer
-advisiveness
+advisiveness 1
 attacco
 anatopism
 adorally
