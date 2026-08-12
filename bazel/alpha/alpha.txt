@@ -20356,7 +20356,7 @@ apostoli
 acidproof
 antilogistically
 arsenofuran
-antipsoric
+antipsoric 1
 apologizing
 afterdamp
 arsenolite
