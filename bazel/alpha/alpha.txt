@@ -17258,7 +17258,7 @@ aspersory
 apophthegmatical
 angostura
 antineuralgic
-aaronic
+aaronic 1
 apoplastogamous
 attempts
 ampersand
