@@ -3291,7 +3291,7 @@ acutiplantar
 autoluminescence
 acrylate
 assassin
-atomizes
+atomizes 1
 acutograve
 analogist
 acutonodose
