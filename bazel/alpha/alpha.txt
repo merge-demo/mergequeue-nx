@@ -7065,7 +7065,7 @@ acalephes 1
 adhibited 1
 asporogenous
 arthropathy
-ameiotic
+ameiotic 1
 allocation
 anthramin
 akenobeite

@@ -15513,7 +15513,7 @@ bemuck
 benzoquinoline
 brunonian
 beaterman
-balut
+balut 1
 balaghaut
 bestreak
 banakite
