@@ -14649,7 +14649,7 @@ disinvite
 deuteropathy
 dizen
 dlr
-devitalized
+devitalized 1
 dizoic
 dizzen
 dizzies
