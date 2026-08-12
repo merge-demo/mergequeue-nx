@@ -11649,7 +11649,7 @@ denominates
 disburgeon
 dragooner
 divell
-dismemberer
+dismemberer 1
 discordable
 discordance
 dedenda
