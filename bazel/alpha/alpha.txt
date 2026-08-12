@@ -14036,7 +14036,7 @@ antecavern
 antecedaneously
 antecede
 anapes
-alexiteric
+alexiteric 1
 atamans
 axopodium
 atmometry
