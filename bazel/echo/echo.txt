@@ -11091,7 +11091,7 @@ ekacaesium
 epistemolog
 epiglottal
 extravasation
-endosporium
+endosporium 1
 eurytus
 engagedness
 enlisted
