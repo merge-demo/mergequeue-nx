@@ -10769,7 +10769,7 @@ anteinitial
 amities
 amitotic
 azotizes
-anormality
+anormality 1
 acrolith
 amitrole
 amitular
