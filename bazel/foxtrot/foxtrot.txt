@@ -5121,7 +5121,7 @@ fict
 furnishment
 furculae
 flashiest
-flashiness
+flashiness 1
 fermerer
 famulli 1
 fragrancies 3
