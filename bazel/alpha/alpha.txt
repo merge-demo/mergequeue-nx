@@ -14465,7 +14465,7 @@ asymmetry 1
 anthraxylon
 anthrenus
 aphasia
-atwitch
+atwitch 1
 anthribidae
 antipharisaic
 antimonate
