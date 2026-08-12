@@ -9664,7 +9664,7 @@ freibergite
 fulgorous
 fruit
 fowled
-flipflop
+flipflop 1
 foretoken
 faldstool
 fringe 1
