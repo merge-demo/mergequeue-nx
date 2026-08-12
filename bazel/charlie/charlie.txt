@@ -23774,7 +23774,7 @@ curlicued
 contrariwise
 contrarotation
 conjunctival
-centrifugal
+centrifugal 1
 contrascriptural
 contrast
 cosec
