@@ -8276,7 +8276,7 @@ acquent
 anthropopithecus
 aliening
 alienism
-abulic
+abulic 1
 alienists
 archleader
 avowals
