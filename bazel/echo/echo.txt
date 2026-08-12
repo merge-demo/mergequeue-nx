@@ -5566,7 +5566,7 @@ ethions
 enfettering
 enophthalmos
 expandability
-episcopality
+episcopality 1
 ecphrasis
 endoergic
 enfevering
