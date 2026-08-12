@@ -7021,7 +7021,7 @@ eustyle
 entrepreneur
 enrobers
 entrer
-entresols
+entresols 1
 endocardial
 extractors
 embladder 1
