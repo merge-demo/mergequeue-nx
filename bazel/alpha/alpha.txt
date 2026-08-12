@@ -16750,7 +16750,7 @@ admirer
 aftermast
 accidentals
 amianthiform 1
-anteaters
+anteaters 1
 antiorthodox
 antikamnia
 aphanitic
