@@ -8129,7 +8129,7 @@ algerines
 algerite
 aciduric
 algernon
-assassinator
+assassinator 1
 algesiometer
 algidity
 autocatharsis
