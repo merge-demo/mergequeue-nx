@@ -15054,7 +15054,7 @@ defoliators
 dibbukim
 deludher
 demulsify
-diskery
+diskery 1
 desmic
 delightable
 dimply
