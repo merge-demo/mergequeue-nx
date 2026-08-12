@@ -4173,7 +4173,7 @@ anticrotalic
 aphrasia
 adjag
 apoapsis
-armorers
+armorers 1
 acetoxyls
 anabaptistically
 amalgamable
