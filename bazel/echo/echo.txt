@@ -5089,7 +5089,7 @@ extensionally
 echoes
 eldorado
 empathizing
-effortfulness
+effortfulness 1
 epitheliotoxin
 eleutheria
 etudes
