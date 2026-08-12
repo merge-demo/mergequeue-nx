@@ -16881,7 +16881,7 @@ cypselae
 compendiously
 clucky
 concussional
-connectional
+connectional 1
 coachwhip 1
 clucking
 clue
