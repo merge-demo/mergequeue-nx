@@ -320,7 +320,7 @@ esotericism
 extrema
 eirenarch
 excitement
-ependymal
+ependymal 1
 ethmopresphenoidal
 essede
 entoperipheral
