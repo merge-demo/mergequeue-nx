@@ -23940,7 +23940,7 @@ convalesces
 convalescing
 convallaria
 chalazion
-consummately
+consummately 1
 chammied
 convect
 colubrina
