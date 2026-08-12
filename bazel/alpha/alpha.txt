@@ -4926,7 +4926,7 @@ amphidetic
 aristogenic
 alluvia
 acculturized
-aerographical
+aerographical 1
 aerohydrodynamic
 angakoks 1
 ambodexter
