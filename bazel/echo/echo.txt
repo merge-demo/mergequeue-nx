@@ -2840,7 +2840,7 @@ essayistical
 eleostearic
 endoubt
 enseat
-electroluminescent
+electroluminescent 1
 explicans
 evenhanded
 enaluron
