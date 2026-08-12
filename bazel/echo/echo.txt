@@ -10047,7 +10047,7 @@ evolutions
 emergent
 encastered
 egrets
-ethambutol
+ethambutol 1
 ethmovomerine
 exitial
 entamoebiasis 1

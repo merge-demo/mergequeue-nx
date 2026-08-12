@@ -17734,7 +17734,7 @@ burnisher
 braeside
 barramundas
 brahmins
-burnishing
+burnishing 1
 bookbindery
 bellies
 bede
