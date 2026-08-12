@@ -934,7 +934,7 @@ animous
 appeasably
 absonous
 absorb
-adulterously
+adulterously 1
 attracted
 anticivic
 acescency

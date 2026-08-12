@@ -11610,7 +11610,7 @@ circinal
 colorization
 cholelith
 conchotome
-cholelithic
+cholelithic 1
 cholelithotomy
 chastising
 counterbore
