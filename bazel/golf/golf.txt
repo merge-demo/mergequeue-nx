@@ -10234,7 +10234,7 @@ gobbet
 gunless
 guillotinist
 glutaraldehyde
-ginzo
+ginzo 1
 gonophorous
 gastroptosis
 grape
