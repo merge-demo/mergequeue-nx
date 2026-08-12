@@ -3973,7 +3973,7 @@ giggliest
 grindstones
 geds
 genospecies
-gynecocratical
+gynecocratical 1
 guano 1
 guardage
 grassnut
