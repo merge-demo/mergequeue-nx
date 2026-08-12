@@ -18233,7 +18233,7 @@ aquopentamminecobaltic
 arcady
 aquose
 analogistic
-ar
+ar 1
 ara
 arabesks
 anguish
