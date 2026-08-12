@@ -10126,7 +10126,7 @@ defervesce
 derrickmen
 dechloridized
 disassimilating
-dodecahedra
+dodecahedra 1
 dindon
 doodled
 dimidiated
