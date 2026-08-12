@@ -10140,7 +10140,7 @@ gurgling
 gazolyte
 guller
 glareless
-greenier
+greenier 1
 grudges 1
 granophyric
 gideonite
