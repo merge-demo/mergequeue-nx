@@ -8339,7 +8339,7 @@ emulating 1
 eagling
 epitheme
 evangelise
-enscrolls
+enscrolls 1
 eternizing
 eland
 eucarpic
