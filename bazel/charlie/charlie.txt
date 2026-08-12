@@ -25223,7 +25223,7 @@ corinth
 corinthes
 corinthiac
 corinthianize
-cumidine
+cumidine 1
 coriolanus
 cailleach
 cladode
