@@ -6326,7 +6326,7 @@ agreeable
 audiovisual
 ampulate
 axils
-autoxidizer
+autoxidizer 1
 agreeably
 agreed
 ammoniums
