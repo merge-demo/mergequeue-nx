@@ -2271,7 +2271,7 @@ awning
 albarello
 aluminous
 adjectitious
-attempers
+attempers 1
 acidaspis
 acider
 anaphoric
