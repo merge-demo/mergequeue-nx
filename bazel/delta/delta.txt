@@ -10432,7 +10432,7 @@ diphenylchloroarsine
 diphenylene
 despend 1
 diphenylenimine
-ditcher
+ditcher 1
 dug
 diphenylhydantoin
 dogmatic
