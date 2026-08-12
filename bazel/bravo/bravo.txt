@@ -4291,7 +4291,7 @@ bathyscaph
 battledore
 bacterious
 bebreech
-bigeminy
+bigeminy 1
 backcourtman
 bebrother
 blouselike
