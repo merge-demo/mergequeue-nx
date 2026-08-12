@@ -9514,7 +9514,7 @@ demonstrational
 dighted
 dighter
 donatives
-digraphic
+digraphic 1
 dynamogeny
 dialysers
 demiurge
