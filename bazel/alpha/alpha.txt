@@ -17293,7 +17293,7 @@ acataposis
 ayins
 apositia
 antisensuality
-acidimetric
+acidimetric 1
 afterdate
 amli
 antisiphonal
