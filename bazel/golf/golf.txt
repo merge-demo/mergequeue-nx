@@ -481,7 +481,7 @@ grouches
 galere
 gridirons
 gipsies
-glozingly
+glozingly 1
 garroting
 galericulate
 gynandromorphy
