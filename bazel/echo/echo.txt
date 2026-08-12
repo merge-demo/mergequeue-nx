@@ -6440,7 +6440,7 @@ ensweeten
 exceptioner 1
 exarchy
 enleen
-exhalants
+exhalants 1
 eastering
 egestion
 exsanguinate
