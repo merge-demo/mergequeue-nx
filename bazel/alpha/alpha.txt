@@ -1180,7 +1180,7 @@ acanthion
 atrosanguineous
 acanthocephalous
 acanthocladous
-acanthodean
+acanthodean 1
 abbots
 alabastoi
 agalmatolite
