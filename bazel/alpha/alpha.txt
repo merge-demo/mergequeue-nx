@@ -18270,7 +18270,7 @@ alibility
 adultlike 1
 arabism
 abstinent
-aquiculture
+aquiculture 1
 arabist
 appreciator
 arabit
