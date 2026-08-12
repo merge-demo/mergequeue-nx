@@ -8621,7 +8621,7 @@ extractively
 enframe
 electrodynamometer 1
 elinguating
-ectal
+ectal 1
 equilibrates
 exonerators
 ethylamide
