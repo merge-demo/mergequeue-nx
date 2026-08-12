@@ -12042,7 +12042,7 @@ aralkylated 1
 arteriosclerosis
 asclent
 awakenable 1
-anaschistic 1
+anaschistic 2
 anaseismic
 anasitch
 anaerobia
