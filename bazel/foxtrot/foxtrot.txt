@@ -521,7 +521,7 @@ frowny
 foresense
 falco
 fermentive
-forgivableness
+forgivableness 1
 forepaled
 fetterless
 fustigating
