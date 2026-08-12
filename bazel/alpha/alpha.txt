@@ -19311,7 +19311,7 @@ administratress
 areometry
 awm
 areometrical
-adventurers
+adventurers 1
 arbutus
 ankylos
 anthologizer
