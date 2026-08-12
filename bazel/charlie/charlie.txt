@@ -26039,7 +26039,7 @@ chapters
 cosh
 coshed
 cosher
-countermanded 1
+countermanded 2
 chestiness
 cupreine
 coshery
