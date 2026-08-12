@@ -15613,7 +15613,7 @@ colorfully
 corvinae
 ceratodus
 criminologists
-chrysanisic
+chrysanisic 1
 chromograph
 coquin
 clattertraps
