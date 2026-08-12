@@ -3555,7 +3555,7 @@ goth
 geums
 gangues 1
 garmentworker
-ganglions
+ganglions 1
 gymnorhina
 geomagnetist
 gluconeogenesis
