@@ -2016,7 +2016,7 @@ fannell
 fardels
 feetfirst
 fireworky 1
-fractionizing
+fractionizing 1
 furlongs
 freshens
 farmers
