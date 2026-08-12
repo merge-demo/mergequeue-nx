@@ -821,7 +821,7 @@ ectype
 enwrite
 epizoa
 erythrinidae
-eral
+eral 1
 excrescent
 extremest
 extradecretal

@@ -13429,7 +13429,7 @@ apathetic
 adiposeness
 annalists
 authotype
-annalize
+annalize 1
 ajatasatru
 arctician
 annamite
