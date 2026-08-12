@@ -10707,7 +10707,7 @@ aminopherase
 aminopyrine
 agrobiologic
 angulometer
-armitas
+armitas 1
 arachne
 alcayde
 adulterants
