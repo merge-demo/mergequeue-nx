@@ -9512,7 +9512,7 @@ floppiness
 fattrels
 faithworthy
 frontways
-footling
+footling 1
 finiteness
 fringier
 finiglacial
