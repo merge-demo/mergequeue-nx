@@ -10483,7 +10483,7 @@ etna
 effortful
 etoile
 etrenne
-exsurgent
+exsurgent 1
 event
 etrog
 equatoreal
