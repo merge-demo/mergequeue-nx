@@ -4333,7 +4333,7 @@ canonicity
 cladophyll
 codeias
 caribing
-caribous
+caribous 1
 calpacked
 candier
 carica
