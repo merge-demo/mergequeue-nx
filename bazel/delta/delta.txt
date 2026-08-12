@@ -15277,7 +15277,7 @@ dendroclastic
 disconcerted
 decelerate
 droopt
-decalcomania
+decalcomania 1
 didelphyidae
 dolmans
 diurnation
