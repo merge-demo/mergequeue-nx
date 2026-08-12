@@ -20732,7 +20732,7 @@ augmenting
 acquitment
 artifactitious
 altitonant
-artifactually
+artifactually 1
 ascents
 artifex
 activates
