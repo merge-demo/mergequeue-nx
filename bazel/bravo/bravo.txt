@@ -2765,7 +2765,7 @@ brattiest
 brownstone
 bailouts
 becapping 1
-boose
+boose 1
 buboed
 boatloading
 bookies
