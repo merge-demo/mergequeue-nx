@@ -8552,7 +8552,7 @@ gasolene 1
 gemuti
 geonoma
 gravicembalos
-garrotter
+garrotter 1
 glutton
 gravida
 gynecomasty
