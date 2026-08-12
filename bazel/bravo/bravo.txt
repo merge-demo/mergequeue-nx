@@ -8482,7 +8482,7 @@ bemusk
 barkle
 bannerer
 bilingually
-bilinguar
+bilinguar 1
 balks
 berycine
 bijoux
