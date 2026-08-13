@@ -3878,7 +3878,7 @@ bawdries
 boreal
 bawl
 bawled
-bawler
+bawler 1
 bawly
 brutalitarian
 bezels
