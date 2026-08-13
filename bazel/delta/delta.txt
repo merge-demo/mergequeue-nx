@@ -438,7 +438,7 @@ dais
 disinthrall
 donjons
 dibs
-drenchers
+drenchers 1
 dimyaric
 diathermous
 dimercaprol
