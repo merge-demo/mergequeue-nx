@@ -10035,7 +10035,7 @@ gastronomes
 gleans
 gazebos
 glaistig
-gammation
+gammation 1
 gargoyles
 greasing 1
 granitoidal
