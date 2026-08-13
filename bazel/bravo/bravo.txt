@@ -1449,7 +1449,7 @@ bloomier
 balkanize
 besoot
 bints
-belliferous
+belliferous 1
 biddulphia
 balkans
 blanchingly
