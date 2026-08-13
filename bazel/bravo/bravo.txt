@@ -8211,7 +8211,7 @@ berith
 bb
 bobstay
 balagan
-bullfist
+bullfist 1
 brothership
 bespurt
 bulgaric
