@@ -8272,7 +8272,7 @@ epochal
 enatant
 epistolised
 eure
-epigeic 1
+epigeic 2
 escapado
 epitoke
 erratums 2
