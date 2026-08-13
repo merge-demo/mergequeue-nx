@@ -2311,7 +2311,7 @@ fixities
 fixatifs
 flagitious
 felis
-franchises
+franchises 1
 feminizes
 friday
 forbysen
