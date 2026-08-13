@@ -1178,7 +1178,7 @@ dactylopatagium
 docimastic
 delineatory
 dassent
-deadheads
+deadheads 1
 dicaeology
 dodecaphony
 diiamb
