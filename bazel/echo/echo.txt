@@ -12798,7 +12798,7 @@ enthusiastical
 eurycerotidae
 epomophorus
 exines
-extensional
+extensional 1
 exostosis
 exarchist
 exostra
