@@ -678,7 +678,7 @@ depermed
 dampness
 dextrosuria
 diacetylene
-despairs
+despairs 1
 dampproof
 dampproofing
 dyspepsy
