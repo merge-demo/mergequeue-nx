@@ -8852,7 +8852,7 @@ barleysick
 bioblastic
 backwoodsiness
 berakot
-burnewin
+burnewin 1
 biocenology
 brontolith 1
 blankmindedness
