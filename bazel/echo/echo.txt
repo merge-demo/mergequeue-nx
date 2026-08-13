@@ -4730,7 +4730,7 @@ eulogism
 engerminate
 executonis
 epigean
-estre
+estre 1
 emplaced
 exponentiating
 encircle
