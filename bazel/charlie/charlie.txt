@@ -7386,7 +7386,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
-cryostats
+cryostats 1
 cervisia
 consorted
 cryoprobe
