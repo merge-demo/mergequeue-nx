@@ -9798,7 +9798,7 @@ grutch
 galeche
 gumfield
 gitano
-glycidic
+glycidic 1
 grylle
 gonothecal
 gobstick
