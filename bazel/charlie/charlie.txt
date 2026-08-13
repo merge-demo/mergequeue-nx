@@ -2470,7 +2470,7 @@ crystallitic
 cancrum
 cancrums
 cand
-candelabras
+candelabras 1
 candelabrum
 corelatively
 candelilla
