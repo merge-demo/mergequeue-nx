@@ -24377,7 +24377,7 @@ ankylomele
 arksutite
 apothec
 autoscope
-autoscopic
+autoscopic 1
 antivivisection
 apparentation
 antagonise
