@@ -10264,7 +10264,7 @@ fistulatome
 flutier
 fasher
 frolicker 1
-frolicking
+frolicking 1
 frillies
 flagitiousness
 ferricyanhydric
