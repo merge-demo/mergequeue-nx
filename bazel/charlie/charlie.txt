@@ -19358,7 +19358,7 @@ colorado
 chagrin
 chorioretinitis
 coloradoite
-connectionism
+connectionism 1
 captainships
 cherubin
 consecrating
