@@ -4572,7 +4572,7 @@ familiarness
 fratricide
 fainaigued
 fisting
-faithfulness
+faithfulness 1
 flattest
 frictionize
 frutices
