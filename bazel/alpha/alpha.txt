@@ -22858,7 +22858,7 @@ anyhow
 assonate
 aquo
 atmosphereless
-announces
+announces 1
 almendro
 antidyscratic
 axometry
