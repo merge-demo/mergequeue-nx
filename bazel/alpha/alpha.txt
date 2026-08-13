@@ -7823,7 +7823,7 @@ anglicism
 aldrovanda
 achromaturia 1
 adequative
-alchemically
+alchemically 1
 aflow
 aortosclerosis
 auriculoid
