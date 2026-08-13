@@ -1620,7 +1620,7 @@ argyrosis
 arilliform
 arricci
 accrescendo
-accretal
+accretal 1
 accretions
 awag
 according
