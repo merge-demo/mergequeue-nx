@@ -1867,7 +1867,7 @@ epicentra
 expletives
 executrix
 eimak 1
-exulted
+exulted 1
 eulima
 euphonious
 eleutherodactyl
