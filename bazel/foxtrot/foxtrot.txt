@@ -7345,7 +7345,7 @@ flabbily
 france
 farset 1
 foraneen
-ferrateen
+ferrateen 1
 ferocious
 fluoridising
 formaldehydesulphoxylic
