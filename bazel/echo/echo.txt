@@ -11689,7 +11689,7 @@ epididymectomy
 emundation
 exaggeratingly 1
 exoascus
-extralinguistically
+extralinguistically 1
 expends
 erythrogenic
 estragons
