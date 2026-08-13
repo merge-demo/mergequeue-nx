@@ -4528,7 +4528,7 @@ doting
 disclosing
 decussis
 dendrite 1
-decern
+decern 1
 dorsilumbar
 distraughted
 devocation
