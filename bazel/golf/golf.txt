@@ -7139,7 +7139,7 @@ gremio
 gagtooth
 gorble
 gorblin 1
-gorcocks
+gorcocks 1
 gypsylike
 grasscut
 guayaba
