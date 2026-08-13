@@ -1838,7 +1838,7 @@ caman
 chroococcaceous
 carucal
 cercelee
-camansi
+camansi 1
 camara
 camarade
 conciliar
