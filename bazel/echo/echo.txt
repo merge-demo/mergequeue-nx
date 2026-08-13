@@ -14105,7 +14105,7 @@ enzymically
 extendedness 1
 epiphyses
 exterraneous
-entrancements
+entrancements 1
 extrinsically
 extrinsicalness
 extrinsication
