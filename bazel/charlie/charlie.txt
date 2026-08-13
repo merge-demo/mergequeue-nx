@@ -8861,7 +8861,7 @@ chanted
 clodbreaker
 cuniform
 cumarone
-cowards
+cowards 1
 characterism
 cueing
 characteristically
