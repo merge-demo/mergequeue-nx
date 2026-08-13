@@ -7285,7 +7285,7 @@ frache
 fenestral
 fagald
 finchbacked 1
-feazing
+feazing 1
 forsaking
 fishyard
 fibulocalcaneal
