@@ -2625,7 +2625,7 @@ folkfree
 frowzier
 ferruginating
 fulful 1
-flashly
+flashly 1
 framesmith
 fibrinogenic
 forecastles
