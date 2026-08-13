@@ -13123,7 +13123,7 @@ dipeptidase
 diocese
 disperple 1
 diadem
-deflourish
+deflourish 1
 decurved
 didactive
 dispersedness
