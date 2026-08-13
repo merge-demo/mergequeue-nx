@@ -3487,7 +3487,7 @@ dorsobranchiata
 defoliants
 defoliate
 defoliations
-descending
+descending 1
 disjunct
 debilitant 1
 dichroscope
