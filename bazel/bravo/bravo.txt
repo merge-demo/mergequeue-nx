@@ -3197,7 +3197,7 @@ bhaga
 bollandist
 blastozooid
 bromelia
-beadily
+beadily 1
 basidia
 bangash
 basidigital
