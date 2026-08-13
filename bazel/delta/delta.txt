@@ -14147,7 +14147,7 @@ defective
 demandingness
 decedent
 disulphate
-depursement
+depursement 1
 desulfurated
 decrepit
 daybook
