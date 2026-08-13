@@ -12511,7 +12511,7 @@ exine
 exies
 extraviolet
 errantia
-electicism
+electicism 1
 everyway
 embarrel
 enchiridia
