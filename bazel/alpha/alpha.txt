@@ -23772,7 +23772,7 @@ amorphozoa
 asplenioid
 aposporic
 ararauna
-auspiciousness
+auspiciousness 1
 arpenteur
 abannition
 actinocarpic
