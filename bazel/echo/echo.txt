@@ -5554,7 +5554,7 @@ edessan
 enfeeblish 1
 effectful
 epilimnetic
-euhemerizing
+euhemerizing 1
 encourage
 etherlike
 enfeoffing
