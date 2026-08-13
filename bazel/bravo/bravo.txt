@@ -14743,7 +14743,7 @@ balaclava
 basketmaker
 bahamas
 bravers
-bipolar
+bipolar 1
 bradycrotic
 braves
 bisect
