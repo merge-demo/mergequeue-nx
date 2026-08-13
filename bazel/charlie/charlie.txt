@@ -12610,7 +12610,7 @@ chefrinia
 chronophotography
 chronoscopic
 chronoscopically
-cheesier
+cheesier 1
 catechisation
 columnize
 cyperaceous
