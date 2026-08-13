@@ -6578,7 +6578,7 @@ aline
 adjunctive
 afterripening
 arbalestre 1
-apocarpous
+apocarpous 1
 anoraks
 acknowledgment
 asperge
