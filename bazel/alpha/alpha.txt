@@ -13937,7 +13937,7 @@ alvelos
 advantaging
 antagony
 auscultator
-antiprestidigitation
+antiprestidigitation 1
 anamniota
 aquarians
 anergic
