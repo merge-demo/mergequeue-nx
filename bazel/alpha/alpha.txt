@@ -24255,7 +24255,7 @@ acaciin 1
 aminolipin
 angelolater
 automobilists
-ascendent
+ascendent 1
 algerians
 airwave
 automotive
