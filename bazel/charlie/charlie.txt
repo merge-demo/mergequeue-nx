@@ -31680,7 +31680,7 @@ cushion
 cushioned
 cushionet
 cushionflower
-cushioning
+cushioning 1
 celestial
 cushionless
 ciruses
