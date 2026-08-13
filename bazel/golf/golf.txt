@@ -7328,7 +7328,7 @@ gossard
 greyflies
 grievedly
 gonfalonier
-glumpiness 1
+glumpiness 2
 guildhall
 gosports
 grainless
