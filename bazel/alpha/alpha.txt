@@ -8628,7 +8628,7 @@ allegoriser
 anotto
 aeolomelodicon
 austenite
-applauded
+applauded 1
 ampelosicyos
 adjudicatory
 avizandum
