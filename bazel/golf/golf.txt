@@ -3270,7 +3270,7 @@ guarantor
 gossypol
 gyral
 gaelicist
-gulo
+gulo 1
 galvanical
 gustatory
 giddiest
