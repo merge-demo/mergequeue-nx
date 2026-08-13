@@ -1074,7 +1074,7 @@ abundancy
 aluminosis
 abundant
 anachronical
-abundantly
+abundantly 1
 agnatically
 abune
 acromimia
