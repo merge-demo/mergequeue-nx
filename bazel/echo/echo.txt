@@ -2316,7 +2316,7 @@ escalatory
 epidemiologist
 exterminations
 ensepulchre
-evangelicalness
+evangelicalness 1
 electrizable 1
 electrization
 enterohepatitis
