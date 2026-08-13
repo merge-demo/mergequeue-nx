@@ -9646,7 +9646,7 @@ enhydritic
 especialness
 esperantido
 extrapatriarchal
-enclosing
+enclosing 1
 emissaries
 epicycles
 espy
