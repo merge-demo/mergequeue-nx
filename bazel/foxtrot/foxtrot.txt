@@ -185,7 +185,7 @@ frescoing
 factitively
 forums 1
 flatfoots
-featherless
+featherless 1
 furnarius
 flier
 factorable
