@@ -2531,7 +2531,7 @@ collogued
 candleholder
 candlelight
 candlelighter
-chaloth
+chaloth 1
 confraternities
 candlelighting
 cohusband
