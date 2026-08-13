@@ -42,7 +42,7 @@ grammes 1
 gabions
 gynecologies
 gunfires
-genotypically
+genotypically 1
 gableboard
 groats
 graperies
