@@ -4946,7 +4946,7 @@ flamen
 flamandization 1
 firefanged
 funneling
-firepan
+firepan 1
 firmware 1
 fulcraceous 1
 flagarie
