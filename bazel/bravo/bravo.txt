@@ -2153,7 +2153,7 @@ baptisms
 breakless 1
 badgers
 baptistic
-breakbone
+breakbone 1
 behaviourist
 balliage
 baptistry
