@@ -21843,7 +21843,7 @@ cytopharynges
 calypter
 caravanist
 confabulatory
-caracul
+caracul 1
 counterdecree
 confact
 cartelizing
