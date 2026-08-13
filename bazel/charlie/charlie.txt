@@ -10751,7 +10751,7 @@ chinela 1
 chlor
 chines
 counterraising
-chinesery
+chinesery 1
 cinched
 chinfest
 contentious
