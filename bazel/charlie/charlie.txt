@@ -8999,7 +8999,7 @@ cancrophagous
 charisticary
 charitative
 coquettish
-colloq
+colloq 1
 charities
 circumrotated
 condition
