@@ -13801,7 +13801,7 @@ dissuit
 duhat
 dignifies
 dissunder
-deflexible
+deflexible 1
 deerskin
 dialogistically 1
 demurral
