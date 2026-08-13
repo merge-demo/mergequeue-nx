@@ -7104,7 +7104,7 @@ akinete
 azotes
 annerodite
 akka
-akkad
+akkad 1
 appense
 ajonjoli
 alist
