@@ -23888,7 +23888,7 @@ compluvia
 craton
 contubernal
 channelwards
-contubernial
+contubernial 1
 contumacy
 ciceronic
 contumacious
