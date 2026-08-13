@@ -9092,7 +9092,7 @@ allspice
 angulosity 1
 anticatalase
 antiblock
-anticommunistical
+anticommunistical 1
 antivaccinist
 alludes
 afterdecks
