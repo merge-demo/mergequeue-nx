@@ -20275,7 +20275,7 @@ anthropomorphization
 alkalify
 arrogates
 amphiboly
-attitudinizing
+attitudinizing 1
 acutangular 1
 adpromission
 aribin

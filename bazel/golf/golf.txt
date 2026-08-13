@@ -8549,7 +8549,7 @@ gusla 1
 gilo
 germaneness
 gasolene 1
-gemuti
+gemuti 1
 geonoma
 gravicembalos
 garrotter
