@@ -8679,7 +8679,7 @@ diaspores
 diastalses
 dum
 dovekey 1
-diastalsis
+diastalsis 1
 diglossia
 disgustedness
 dryads
