@@ -16122,7 +16122,7 @@ bolsterers
 bratstvo
 brookweed
 brool
-buprestid
+buprestid 1
 beardtongue
 broomballer
 blasphemers 1
