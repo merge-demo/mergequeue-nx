@@ -10382,7 +10382,7 @@ concludendi
 chirring
 chivalric
 countertendencies
-chieftains
+chieftains 1
 cracknels
 chiefty
 chiel
