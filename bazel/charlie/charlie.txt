@@ -18321,7 +18321,7 @@ crenelled
 cogger
 cogging
 coggledy
-cogitate
+cogitate 1
 combed
 campal
 cogglety
