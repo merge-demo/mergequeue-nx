@@ -10297,7 +10297,7 @@ eemis
 epidemial
 expecters
 effacer
-ethmopalatal
+ethmopalatal 1
 ectases
 epiphyllous
 ensignment
