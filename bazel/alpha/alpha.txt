@@ -8657,7 +8657,7 @@ annulosan
 africanization
 alienee
 archigenesis
-askeses
+askeses 1
 australoid
 alleys
 alephzero
