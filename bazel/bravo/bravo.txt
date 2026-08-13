@@ -268,7 +268,7 @@ bacillian
 bacillicidal
 bacillicidic
 bacilliform
-bigamic
+bigamic 1
 buna
 bacilligenic
 booths
