@@ -1964,7 +1964,7 @@ acetins
 acardite
 archigony
 adangle
-acetize
+acetize 1
 assertions
 acetla
 acetoacetate
