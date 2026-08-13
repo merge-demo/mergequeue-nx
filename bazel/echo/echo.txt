@@ -8217,7 +8217,7 @@ exsection
 empiecement
 etwas
 encydlopaedic
-equidominant
+equidominant 1
 equidistantly 1
 ergophobia
 enisling
