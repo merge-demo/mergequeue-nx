@@ -17706,7 +17706,7 @@ applejohn
 analogice
 antidotism
 apples
-applewoman
+applewoman 1
 adopts
 aestethic
 adaptationally
