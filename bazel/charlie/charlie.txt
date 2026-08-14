@@ -8177,7 +8177,7 @@ clinanthium
 cynips
 cordaitalean
 claxons
-chairmaking
+chairmaking 1
 crystallogenetic
 chairmaning
 chattack
