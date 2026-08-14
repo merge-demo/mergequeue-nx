@@ -1093,7 +1093,7 @@ datiscaceae
 dhyal
 decayless
 declivitous
-divisibleness
+divisibleness 1
 dads
 denudations
 darvon
