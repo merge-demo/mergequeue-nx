@@ -6850,7 +6850,7 @@ gagwriter 1
 ghostflower
 gasmaker
 gastrojejunal
-globosphaerite 1
+globosphaerite 2
 grossirete
 grandpa
 gonorrhoeal
