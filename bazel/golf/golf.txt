@@ -10778,7 +10778,7 @@ gerenuk
 ghole 1
 genialness
 gonadectomy
-gammadia
+gammadia 1
 grandevous
 gandered
 gignitive 1
