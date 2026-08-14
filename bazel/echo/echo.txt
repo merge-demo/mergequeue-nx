@@ -6321,7 +6321,7 @@ exorcised
 eugenolate
 exteriorising
 endpapers
-echinosphaerites
+echinosphaerites 1
 enharmonically
 earnful
 emodin
