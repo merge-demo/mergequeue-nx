@@ -9079,7 +9079,7 @@ anthracoid
 alloxuraemia
 alloxuremia
 apnoeas
-anadicrotic
+anadicrotic 1
 alphyl
 amidoacetal
 anaeroplastic
