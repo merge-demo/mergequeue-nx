@@ -2405,7 +2405,7 @@ gemmating
 gushier
 gemmer
 gumphion
-gloppy
+gloppy 1
 grow
 guianese
 groomed
