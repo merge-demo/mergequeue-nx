@@ -6941,7 +6941,7 @@ encradle
 enzone
 esau 1
 entoprocta 1
-entoptic
+entoptic 1
 entoptical 1
 entoptics
 evections
