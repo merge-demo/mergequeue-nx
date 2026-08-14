@@ -5488,7 +5488,7 @@ gapperi
 gastruran
 grangerising
 gemmier
-gluttery
+gluttery 1
 glyster
 galumphed
 gablet
