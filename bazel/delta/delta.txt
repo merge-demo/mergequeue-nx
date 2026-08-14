@@ -7416,7 +7416,7 @@ detoxifier
 draperess
 directress
 disapproved
-devest
+devest 1
 decarbonylating
 dunness
 digitately
