@@ -5212,7 +5212,7 @@ gemara
 gentianose
 gieseckite
 geogenesis 1
-grottesco
+grottesco 1
 grimful
 geometricism
 guiler
