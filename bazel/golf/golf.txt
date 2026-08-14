@@ -10518,7 +10518,7 @@ grayishness
 garn
 goblinry
 gundie
-graspingness
+graspingness 1
 galipots
 goladar
 girl
