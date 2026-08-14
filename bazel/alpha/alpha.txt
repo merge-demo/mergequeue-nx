@@ -24569,7 +24569,7 @@ annihilator
 auxotox
 auxotroph
 auxotrophy
-avadana
+avadana 1
 absinthiate
 armorist
 anchietine
