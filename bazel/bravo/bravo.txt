@@ -17900,7 +17900,7 @@ belabour
 bonytail
 buginese
 bushelling
-boopis
+boopis 1
 busher
 bernoo
 bushfighting
