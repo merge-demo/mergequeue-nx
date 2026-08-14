@@ -2506,7 +2506,7 @@ ecosphere
 epicanthic
 exterminative
 electrokinetics
-elasticum
+elasticum 1
 electroless
 exsecants
 educables
