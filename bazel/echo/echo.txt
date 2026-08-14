@@ -2779,7 +2779,7 @@ explorations
 ebracteate
 eurithermophilic
 excecate
-elytrous
+elytrous 1
 eutropic
 equipartition
 epidiplosis
