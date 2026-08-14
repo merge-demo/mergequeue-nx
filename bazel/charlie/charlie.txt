@@ -16602,7 +16602,7 @@ circut
 clonos
 clonothrix
 carangus
-clonus
+clonus 1
 cloof
 chymaqueous 1
 chemicoluminescence
