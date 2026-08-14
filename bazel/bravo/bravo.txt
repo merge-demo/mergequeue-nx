@@ -11920,7 +11920,7 @@ bogart
 backboneless 1
 bisaxillary
 bogatyr 1
-boosies
+boosies 1
 bogbeans
 bordels
 bogberry
