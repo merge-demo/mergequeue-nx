@@ -1696,7 +1696,7 @@ calorifics
 caricography 1
 calorifier
 calorimetry
-calorimetrical
+calorimetrical 1
 calorimetrically
 calorimotor
 calorist
