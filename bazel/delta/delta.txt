@@ -6260,7 +6260,7 @@ dezincation
 diplonephridia
 dermatolysis
 duchesnea
-disfigured
+disfigured 1
 deutobromide
 dividable
 defenser
