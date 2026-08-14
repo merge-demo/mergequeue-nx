@@ -12725,7 +12725,7 @@ angeluses
 anger
 adiaphoresis
 acrasieae
-adversifolious
+adversifolious 1
 alvan
 alkalinizing
 aulophyte
