@@ -10600,7 +10600,7 @@ bidery
 blawn
 bronchiole
 brigittine
-bajulate
+bajulate 1
 blaze
 blazers
 bursts
