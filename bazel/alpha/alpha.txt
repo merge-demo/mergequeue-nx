@@ -22782,7 +22782,7 @@ accomodate
 akepiros
 atlantic
 assists
-asteroidean
+asteroidean 1
 amphistylic
 animikite
 acromastitis
