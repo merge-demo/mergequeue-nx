@@ -1480,7 +1480,7 @@ greta
 gasolier
 ghostology
 granolith
-gaseousness
+gaseousness 1
 girllike
 grotesque
 garner
