@@ -2787,7 +2787,7 @@ eighteenmo
 economicalness
 encroach
 empalement
-elementalistic
+elementalistic 1
 extrathoracic
 estrangements
 elementalize
