@@ -1021,7 +1021,7 @@ feverweed
 fretful
 federalese
 filicornia
-fragmentalize
+fragmentalize 1
 flatboats
 finalists
 farinometer
