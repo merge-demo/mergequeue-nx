@@ -11223,7 +11223,7 @@ christiania
 chlorenchyma
 coassistance
 chlorguanide
-chlorhexidine
+chlorhexidine 1
 coemperor
 chlorhydric
 chloriamb
