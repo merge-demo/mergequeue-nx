@@ -6075,7 +6075,7 @@ agitate
 agitated
 agitational
 aftosa
-agitations
+agitations 1
 allorrhyhmia
 actor
 anorchism
