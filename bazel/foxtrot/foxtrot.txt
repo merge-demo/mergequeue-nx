@@ -9449,7 +9449,7 @@ familial
 fauld
 foeticide
 fico
-flamens 1
+flamens 2
 fratry
 fountainheads
 flippery
