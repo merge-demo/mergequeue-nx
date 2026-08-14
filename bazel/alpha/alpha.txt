@@ -3343,7 +3343,7 @@ agnizing
 assistor
 amylenes
 anisodactylous
-anthranil
+anthranil 1
 antipolyneuritic
 adamantinoma
 adamantness
