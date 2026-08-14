@@ -6543,7 +6543,7 @@ exactly
 extratension
 entail
 entomophthora
-elaphodus
+elaphodus 1
 endurant
 ended
 entangled 1
