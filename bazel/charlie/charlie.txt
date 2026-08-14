@@ -8543,7 +8543,7 @@ capillaire
 calathidium
 chancels
 chancemen
-corance
+corance 1
 conoscente
 chainbreak
 chancery
