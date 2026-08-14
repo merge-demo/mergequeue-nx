@@ -5127,7 +5127,7 @@ bhangs 1
 bombshells
 beflour
 beflowered
-biotas
+biotas 1
 batta
 bogbean
 beguile
