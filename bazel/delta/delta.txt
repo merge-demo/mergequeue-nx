@@ -4068,7 +4068,7 @@ dogcarts
 delicense
 desiccant
 dynamometamorphosed
-deliciouses
+deliciouses 1
 deliciousness
 debouches
 delict
