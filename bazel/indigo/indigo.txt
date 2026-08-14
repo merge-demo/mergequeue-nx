@@ -10918,7 +10918,7 @@ isfmgerans
 isfnnpl
 isfomrt
 isfphitvl
-isfsbs
+isfsbs 1
 isftht
 isfxocxjit
 isfy
