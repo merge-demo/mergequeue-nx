@@ -13002,7 +13002,7 @@ antispectroscopic 1
 angustiseptal
 accommodable
 alfridaric
-angustura
+angustura 1
 angwich
 aphorismic
 archly
