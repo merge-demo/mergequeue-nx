@@ -20650,7 +20650,7 @@ aeromagnetic
 adderwort
 albumen
 arthrospore
-arthrostome
+arthrostome 1
 arthrostomy
 arthrotyphoid 1
 amputative
