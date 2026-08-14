@@ -19381,7 +19381,7 @@ colorblind
 cartomancies
 colorcasting
 calvus
-colorcasts
+colorcasts 1
 colorectitis
 chrisomloosing
 correspondingly
