@@ -3238,7 +3238,7 @@ distrainor
 defendant
 discocephalous
 dir
-decorativeness
+decorativeness 1
 defenestrating
 danae
 dayside
