@@ -10326,7 +10326,7 @@ gloomed
 gul
 gaming
 gladiest
-goldfishes
+goldfishes 1
 gabari
 gravemaster
 grammaticism
