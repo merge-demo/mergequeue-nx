@@ -1868,7 +1868,7 @@ expletives
 executrix
 eimak 1
 exulted
-eulima
+eulima 1
 euphonious
 eleutherodactyl
 ep
