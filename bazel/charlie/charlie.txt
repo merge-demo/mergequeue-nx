@@ -20810,7 +20810,7 @@ componency
 caciocavallo
 compared
 componendo
-component
+component 1
 componented
 confronters
 crocodilian
