@@ -9810,7 +9810,7 @@ guacacoa
 grimacer
 gorce
 grantor
-gue
+gue 1
 globulinuria
 glossemes
 glares
