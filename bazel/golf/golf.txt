@@ -4449,7 +4449,7 @@ globigerinidae
 gynura
 goyazite
 gadsman
-glucuronide
+glucuronide 1
 gobby
 giobertite 1
 grazierdom
