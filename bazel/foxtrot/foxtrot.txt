@@ -1289,7 +1289,7 @@ foins
 footlocker
 fossoria
 fastuousness
-fluctuous
+fluctuous 1
 flarfishes
 feminophobe
 falconoid
