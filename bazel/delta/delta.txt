@@ -3092,7 +3092,7 @@ designated
 degradand
 delightfully 1
 defaces
-disennoble
+disennoble 1
 defacing
 defacto
 defade
