@@ -4987,7 +4987,7 @@ curmudgeon
 cust
 costrel
 chiclero
-canalman
+canalman 1
 cryptovolcanic
 conceptuality
 crystallizing
