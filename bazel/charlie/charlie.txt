@@ -24040,7 +24040,7 @@ codfisheries
 convergence
 coiling 1
 convergences
-comps
+comps 1
 convergency
 columbary
 convergent
