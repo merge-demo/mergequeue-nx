@@ -13000,7 +13000,7 @@ equivale
 elderbrotherish
 estoppage
 embitterer
-enjoins
+enjoins 1
 edictally
 expectorative
 eurycerous
