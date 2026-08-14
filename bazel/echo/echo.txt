@@ -10273,7 +10273,7 @@ effodientia
 elasticizer
 ergal
 extravasate
-eulogium
+eulogium 1
 excipulum
 experimentize
 electronography
