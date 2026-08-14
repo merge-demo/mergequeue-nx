@@ -10143,7 +10143,7 @@ glareless
 greenier
 grudges 1
 granophyric
-gideonite
+gideonite 1
 gymslip
 glazement
 gasohol
