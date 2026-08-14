@@ -3493,7 +3493,7 @@ bedimples
 baalism 1
 batboy
 bicarpellary
-batboys
+batboys 1
 blubberous
 bumbass
 bissext
