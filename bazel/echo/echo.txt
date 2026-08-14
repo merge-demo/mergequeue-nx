@@ -9636,7 +9636,7 @@ entia
 epenthesize
 epacris
 espagnole
-elaeagnus
+elaeagnus 1
 enfrai
 esparsette
 encloud
