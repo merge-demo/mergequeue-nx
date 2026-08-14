@@ -11067,7 +11067,7 @@ eurus
 electrothermostat
 enhusk
 expropriations
-episcopally
+episcopally 1
 estheria
 epileptically
 epicormic
