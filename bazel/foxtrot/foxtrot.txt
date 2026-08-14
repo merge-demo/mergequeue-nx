@@ -10851,7 +10851,7 @@ flagitiously
 forwore 1
 frondosely
 franciscan 1
-frousy
+frousy 1
 fabledom
 faddism
 fulgidity
