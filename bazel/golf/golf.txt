@@ -1022,7 +1022,7 @@ gymnure
 guttle
 glanduliferous
 gully
-geognostic
+geognostic 1
 geodetician
 ganger
 guesten
