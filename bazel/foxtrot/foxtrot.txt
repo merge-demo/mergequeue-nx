@@ -866,7 +866,7 @@ flavicant
 forkman 1
 fluorogenic
 fulicine 1
-formatively
+formatively 1
 freshet
 faltboats
 falconets
