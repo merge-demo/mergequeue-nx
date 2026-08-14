@@ -23689,7 +23689,7 @@ amphisile
 auriculoparietal
 auriculotemporal
 auriferous
-appreciational
+appreciational 1
 axlike
 aurify 1
 aurific
