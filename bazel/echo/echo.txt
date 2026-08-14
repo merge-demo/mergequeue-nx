@@ -11713,7 +11713,7 @@ exaltation
 erenow
 explanator
 enterocoele
-endocarditis
+endocarditis 1
 elevated
 enforcive 1
 extendlessness
