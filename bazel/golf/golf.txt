@@ -6861,7 +6861,7 @@ gloryingly
 gypsied
 glauconite
 granulomas
-gaffsman
+gaffsman 1
 gonosphere
 grisettish
 graphics
