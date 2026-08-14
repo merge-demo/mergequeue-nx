@@ -7887,7 +7887,7 @@ applicators
 aoudads
 alehouse
 averrable
-arterionecrosis
+arterionecrosis 1
 amor
 austerely
 aleikoum
