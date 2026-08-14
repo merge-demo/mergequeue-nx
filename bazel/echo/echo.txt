@@ -11415,7 +11415,7 @@ epileptogenous
 evergreen
 exsputory
 evergreens
-everydayness
+everydayness 1
 everyhow
 ectethmoidal
 everyman
