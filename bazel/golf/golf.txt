@@ -8593,7 +8593,7 @@ gathic
 gossameriness
 gametically
 genealogical
-guerdonless
+guerdonless 1
 gestic
 gibbeting
 geothermometer
