@@ -22335,7 +22335,7 @@ clustery
 claviform
 congressing
 congressionalist
-congressionally
+congressionally 1
 corolla
 complementally
 congressionist
