@@ -6792,7 +6792,7 @@ foldaway
 feretory
 ferryman
 farfal
-forethink
+forethink 1
 foldcourse
 fiberless
 folkmoots
