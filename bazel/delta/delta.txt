@@ -8565,7 +8565,7 @@ dexterously
 drys
 deflex
 diaphony
-diaphysial
+diaphysial 1
 diaphonic
 divertedly
 denegation
