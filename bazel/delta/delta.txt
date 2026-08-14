@@ -17238,7 +17238,7 @@ digynian
 dacryolith
 dressmake
 dureresque
-drizzly
+drizzly 1
 drizzlier
 drizzliest
 diablery
