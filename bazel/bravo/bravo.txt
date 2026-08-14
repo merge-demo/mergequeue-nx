@@ -2529,7 +2529,7 @@ barid
 bronchostenosis
 bereaving
 burgus 1
-barye
+barye 1
 burglarise
 bois
 barcolongo
