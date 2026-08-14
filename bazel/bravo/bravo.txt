@@ -18259,7 +18259,7 @@ buttermilk
 bastardy
 buttermonger
 bice
-bagworm
+bagworm 1
 bronzier
 butternuts
 barstool
