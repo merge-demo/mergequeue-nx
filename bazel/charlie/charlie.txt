@@ -12130,7 +12130,7 @@ crupper
 conjecturalist
 copeognatha
 chresmology
-chrestomathics
+chrestomathics 1
 chrestomathies
 celluliferous
 chimere
