@@ -10699,7 +10699,7 @@ cisgangetic
 companionless
 chin
 commoned
-colonitis
+colonitis 1
 complementarism
 chinafy
 cuapinole
