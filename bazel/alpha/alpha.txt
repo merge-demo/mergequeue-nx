@@ -2267,7 +2267,7 @@ aciculae
 amended
 agronomics 2
 aciculum
-awning
+awning 1
 albarello
 aluminous
 adjectitious
