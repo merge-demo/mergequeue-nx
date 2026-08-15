@@ -6652,7 +6652,7 @@ gondoletta
 guffs
 gangliform
 gamboller
-gordius
+gordius 1
 glossolabiopharyngeal
 gucks 1
 ganda
