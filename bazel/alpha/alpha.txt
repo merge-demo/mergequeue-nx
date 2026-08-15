@@ -16058,7 +16058,7 @@ adenophyma
 antirevolution
 antirevolutionist
 antirheumatic
-anaptyxes
+anaptyxes 1
 achango
 autoradiographic
 antiromantic
