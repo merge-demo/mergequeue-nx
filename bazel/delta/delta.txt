@@ -5658,7 +5658,7 @@ depictment
 dandilly
 depictors
 depicture
-distract
+distract 1
 debe
 diopsidic
 depigmentate
