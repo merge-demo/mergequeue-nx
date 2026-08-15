@@ -6681,7 +6681,7 @@ diabetics
 diorite
 despisedness
 droiturel
-diversly
+diversly 1
 dilatations
 dactylis
 dodecasyllabic
