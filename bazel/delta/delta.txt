@@ -6298,7 +6298,7 @@ debatter
 dermatorrhagia
 drossy
 dial
-dendrolatry
+dendrolatry 1
 dicranaceae
 dorsabdominally
 dermatosclerosis
