@@ -5275,7 +5275,7 @@ anthomedusae 1
 alemanni
 aggerate
 affinities
-affinition
+affinition 1
 apostrophe
 affinitive
 affirmable
