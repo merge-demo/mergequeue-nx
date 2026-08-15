@@ -5081,7 +5081,7 @@ dialer
 dendritical
 deal
 derbyshire
-dendrium
+dendrium 1
 diminishes
 decuria
 derailed
