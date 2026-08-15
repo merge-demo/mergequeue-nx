@@ -11610,7 +11610,7 @@ barche 1
 boarspear 1
 balloter
 burns
-bevels
+bevels 1
 bacauan
 blacks
 bizant
