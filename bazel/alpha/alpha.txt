@@ -21741,7 +21741,7 @@ assenter
 autoclaved
 alewife
 acetimetric
-assentingly
+assentingly 1
 assentive
 antithet
 architectonics
