@@ -14441,7 +14441,7 @@ compressingly
 coloslossi
 cirrocumulus
 cirropodous
-cirrose
+cirrose 1
 chetrums
 cholelithiasis
 capsulociliary
