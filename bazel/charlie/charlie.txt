@@ -12824,7 +12824,7 @@ chuprassy
 canasta
 calorite
 commonplacer 1
-calcitestaceous
+calcitestaceous 1
 camellias
 church
 courageousness
