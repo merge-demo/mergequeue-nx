@@ -8762,7 +8762,7 @@ enstrengthen
 equivoluminal
 explainers
 enfume
-elementarist
+elementarist 1
 equoidean
 embrue 1
 erade
