@@ -23037,7 +23037,7 @@ cutty 1
 consonate
 consonous
 coemption
-callused
+callused 1
 counteradvantage
 consopite
 consort
