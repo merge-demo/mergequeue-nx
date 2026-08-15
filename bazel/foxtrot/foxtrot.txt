@@ -4735,7 +4735,7 @@ frises
 facy 1
 factice
 frederic
-fricatrice
+fricatrice 1
 fumers 1
 flacianist
 fife
