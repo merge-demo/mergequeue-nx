@@ -3223,7 +3223,7 @@ dryth
 drool
 dens
 dolichocnemic
-demoniac
+demoniac 1
 defenceable
 dekle
 doftberry
