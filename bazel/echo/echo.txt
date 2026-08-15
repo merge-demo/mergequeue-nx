@@ -6694,7 +6694,7 @@ electromotiv
 enchelycephali
 enterosepsis 1
 enterotome
-encharged
+encharged 1
 enright
 enterotoxemia
 enterotoxication
