@@ -4498,7 +4498,7 @@ divulse
 dividingly
 demicircular
 divulsor
-drowningly
+drowningly 1
 defence
 deceptions
 demicuirass
