@@ -4812,7 +4812,7 @@ chibouk
 carposporangial
 catalase
 carlist
-carposporous
+carposporous 1
 carpsucker
 cavalierish
 concaving
