@@ -1019,7 +1019,7 @@ barfs
 bailable
 baile
 bezazz
-betanaphthol
+betanaphthol 1
 basqued
 blizzards
 bad
