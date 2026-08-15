@@ -14579,7 +14579,7 @@ anthropophagite
 abirritated
 allophonic
 auric
-amandine
+amandine 1
 anthropoidean
 anthropophilous
 afterdated
