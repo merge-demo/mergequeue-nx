@@ -2220,7 +2220,7 @@ blastier
 bast 1
 ballism
 bridgebote
-barbarianizing
+barbarianizing 1
 bandog
 bevesselled
 barbarically
