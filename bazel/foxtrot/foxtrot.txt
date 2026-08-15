@@ -5303,7 +5303,7 @@ flukes
 fumage
 fluoridize
 fatwood
-fretters
+fretters 1
 french
 flain
 fernwort
