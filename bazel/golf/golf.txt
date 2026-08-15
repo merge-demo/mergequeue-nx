@@ -7977,7 +7977,7 @@ globing
 glottologies
 gnomonologically
 goldenmouthed 1
-gasifiable
+gasifiable 1
 galline
 gainer
 guttee
