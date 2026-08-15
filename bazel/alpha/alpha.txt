@@ -13137,7 +13137,7 @@ arrace
 antidynastical
 anabolite
 animala
-animalic
+animalic 1
 avunculize
 amusgo
 animalier
