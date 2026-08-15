@@ -18608,7 +18608,7 @@ cadillacs
 cystomata
 coinclination
 coachability
-coincorporate
+coincorporate 1
 coindicant
 coiner
 comparograph
