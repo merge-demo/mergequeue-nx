@@ -5662,7 +5662,7 @@ distract
 debe
 diopsidic
 depigmentate
-depigmentation
+depigmentation 1
 depigmentize
 dissidence
 devilized
