@@ -5796,7 +5796,7 @@ apickaback
 ancestor
 agate
 agates
-autoturning
+autoturning 1
 antenave
 appal
 aquatinter
