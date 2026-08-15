@@ -3838,7 +3838,7 @@ adion
 arhat
 adios
 adipate
-amphitruo
+amphitruo 1
 aequorin
 amphithuron
 acetabuliform
