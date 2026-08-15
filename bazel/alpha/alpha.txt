@@ -1528,7 +1528,7 @@ anthroponomy
 airborn
 accomplicity
 asturian
-autopathic
+autopathic 1
 accomplisher
 angelican
 arthrodesis
