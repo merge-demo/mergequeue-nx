@@ -1671,7 +1671,7 @@ colport
 consuetitude 1
 conferees
 caloreceptor
-cochairs
+cochairs 1
 calorescence
 calory
 clearly
