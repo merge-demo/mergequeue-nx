@@ -2560,7 +2560,7 @@ capitalizations
 cecidiology
 committeewoman
 chinol
-castellanship
+castellanship 1
 candlesticks
 cogniser
 candlewaster
