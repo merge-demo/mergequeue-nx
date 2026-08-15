@@ -18558,7 +18558,7 @@ durry
 deny
 dappled
 durrin
-dig
+dig 1
 durrs
 durukuli
 disanimated
