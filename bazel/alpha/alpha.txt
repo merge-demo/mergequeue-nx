@@ -14012,7 +14012,7 @@ anteater
 astrologian
 achronychous
 antebaptismal
-andesyte
+andesyte 1
 albigenses
 acculturational 1
 adjustation
