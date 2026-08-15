@@ -3678,7 +3678,7 @@ abyssinian
 acephalite
 accumulative 1
 adenopodous
-adenosarcomata
+adenosarcomata 1
 adiaphoristic
 artist
 acuating
