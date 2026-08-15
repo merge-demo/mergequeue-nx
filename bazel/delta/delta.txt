@@ -9952,7 +9952,7 @@ disingenuous
 digitule
 discursus
 denticulation
-daintily
+daintily 1
 drossiness
 dawnlight
 distances
