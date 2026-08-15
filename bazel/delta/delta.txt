@@ -11532,7 +11532,7 @@ dunciad
 dovewood
 discommendation 1
 dheneb
-dedanim
+dedanim 1
 deaner
 dallyingly
 discommode
