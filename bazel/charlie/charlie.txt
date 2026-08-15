@@ -11634,7 +11634,7 @@ cholerigenous
 chelicerate
 cholerine
 choleroid
-cholerophobia
+cholerophobia 1
 camphylene
 cyanamids
 cholesteatoma
