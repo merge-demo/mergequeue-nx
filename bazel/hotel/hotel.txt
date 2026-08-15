@@ -11143,7 +11143,7 @@ hsqzq 1
 hsrevotaf
 hsrglaezq
 hsrkl
-hsrlpsc
+hsrlpsc 1
 hsrnelmlr
 hsrpaiikpcdv
 hsrpry
