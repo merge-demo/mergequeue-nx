@@ -4324,7 +4324,7 @@ exfodiation
 egranulose 1
 empowering
 extraterritoriality
-enterable
+enterable 1
 endothelioid
 entrenches
 esture
