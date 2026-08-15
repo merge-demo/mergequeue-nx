@@ -10013,7 +10013,7 @@ geomys
 gamba 2
 garlandwise
 gorgonacean
-geochrony
+geochrony 1
 gudewife
 galopade
 girgashite
