@@ -6406,7 +6406,7 @@ breakup
 benzil
 banewort
 bibliothecaire
-benzopyrazolone
+benzopyrazolone 1
 barquentine
 benzopyrene
 benzopyrylium
