@@ -5002,7 +5002,7 @@ flood
 faured
 flaneurs
 flanked
-formulaically
+formulaically 1
 fledging
 factordom
 fribourg
