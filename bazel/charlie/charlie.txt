@@ -11458,7 +11458,7 @@ coals
 crotaloid
 chocks 1
 chocoan
-chocolate
+chocolate 1
 chocolatey
 chine
 chocolates
