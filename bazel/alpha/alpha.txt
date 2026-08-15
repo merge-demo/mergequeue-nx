@@ -11146,7 +11146,7 @@ anfractuous
 amphibians
 arette
 ashkenazi
-antisun
+antisun 1
 amphibiety
 azimuthally
 artifices 1
