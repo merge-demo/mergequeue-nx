@@ -4499,7 +4499,7 @@ gastrostaxis
 ginning
 garvance
 giraffe
-gynocardic
+gynocardic 1
 gypsyism
 gowk
 glossokinesthetic
