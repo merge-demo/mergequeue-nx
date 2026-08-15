@@ -26815,7 +26815,7 @@ counterengine
 counterenthusiasm 1
 counterentry
 counterequivalent 1
-credited
+credited 1
 counterermine
 coninidia
 counterespionage
