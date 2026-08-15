@@ -17251,7 +17251,7 @@ depreciative
 dictyogenous
 degausses
 desulphurated
-debt
+debt 1
 disseizee
 droghlin
 discrepant
