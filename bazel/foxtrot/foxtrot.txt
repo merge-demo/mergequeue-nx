@@ -9346,7 +9346,7 @@ fecaloid
 fatuitousness
 frankalmoign
 filibustrous
-fellowly
+fellowly 1
 futurize
 frankenstein
 franker
