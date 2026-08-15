@@ -2110,7 +2110,7 @@ grottolike
 gardenia
 gastrostege
 geison
-gawking
+gawking 1
 glucinic
 gastrins
 gawkish
