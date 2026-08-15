@@ -24995,7 +24995,7 @@ cordeau
 cordel
 comae
 chumble 1
-cordelia
+cordelia 1
 cordelle
 crushableness
 cordery
