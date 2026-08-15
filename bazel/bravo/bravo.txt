@@ -5816,7 +5816,7 @@ bizarrely
 bromids
 benevolences
 bemata 1
-beleaps
+beleaps 1
 bestorm
 bldg
 bricks
