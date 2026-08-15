@@ -10484,7 +10484,7 @@ frostings
 fanzine
 finises
 fervencies
-floggable
+floggable 1
 felsosphaerite
 frostroot
 floe
