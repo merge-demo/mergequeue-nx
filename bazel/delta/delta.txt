@@ -14589,7 +14589,7 @@ dismemberment 1
 dwells
 demureness
 denotive 1
-demiurgically
+demiurgically 1
 disastrousness
 dysfunction
 damourite
