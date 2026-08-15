@@ -710,7 +710,7 @@ enspell
 equidistant
 eidently
 enode
-eyefuls
+eyefuls 1
 enterozoa
 equalable
 expressionable
