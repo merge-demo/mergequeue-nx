@@ -10422,7 +10422,7 @@ akmudar
 assailants 1
 ametabolia
 angulose
-alikulufan
+alikulufan 1
 apocalyptism
 anglogaean
 antepredicament
