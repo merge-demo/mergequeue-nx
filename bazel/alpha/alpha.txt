@@ -2137,7 +2137,7 @@ aganice
 arracks
 azobenzol
 achinese
-amphophilous
+amphophilous 1
 adspiration
 abbaye
 amortissement
