@@ -6385,7 +6385,7 @@ dielec
 derodidymus
 derog
 demeanour
-doronicum
+doronicum 1
 despond
 derogate
 denuclearization
