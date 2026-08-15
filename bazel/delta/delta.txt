@@ -14186,7 +14186,7 @@ dysurias
 deals
 disusage
 dynamoscope
-dibbles
+dibbles 1
 defeater
 deathful
 disuse

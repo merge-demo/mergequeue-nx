@@ -11263,7 +11263,7 @@ ethnologic
 eeling
 electrochemist
 extracts 1
-entomologically
+entomologically 1
 endanger
 epichlorohydrin
 economies
