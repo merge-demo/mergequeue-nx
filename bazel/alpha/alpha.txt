@@ -10032,7 +10032,7 @@ arboreal
 appel
 arousing
 ambigu
-anorthitite
+anorthitite 1
 acinacity
 ambilateralaterally
 annonce
