@@ -5690,7 +5690,7 @@ dentelliere
 dawdled
 dolorousness 1
 drumler
-deplant
+deplant 1
 disvertebrate
 denominational
 deozonize
