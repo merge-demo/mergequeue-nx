@@ -20996,7 +20996,7 @@ comptie
 compting
 comblessness
 closedown
-comptness
+comptness 1
 cabda
 comptroller
 comptrollers
