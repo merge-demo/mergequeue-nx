@@ -6115,7 +6115,7 @@ decocts
 divvied
 defalcate
 duplexs 1
-december
+december 1
 derays
 deranges
 dualin
