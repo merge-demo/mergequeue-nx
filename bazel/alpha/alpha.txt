@@ -2980,7 +2980,7 @@ actinium
 anopias
 actiniums
 antiacid
-austerest
+austerest 1
 alisma
 actinobaccilli
 anchusins
