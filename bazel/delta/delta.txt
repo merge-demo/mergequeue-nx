@@ -9950,7 +9950,7 @@ diminuendoes
 degu
 disingenuous
 digitule
-discursus
+discursus 1
 denticulation
 daintily
 drossiness
