@@ -8245,7 +8245,7 @@ benzophosphinic
 brakehead
 bedsteads
 bovarysm
-bigamies
+bigamies 1
 bigamist 1
 boyars
 betafite
