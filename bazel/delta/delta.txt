@@ -16181,7 +16181,7 @@ droplet
 desalinized
 deweylite 1
 dowdy
-distent
+distent 1
 downsliding
 doughnuts
 davyum
