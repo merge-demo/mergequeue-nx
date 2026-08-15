@@ -5173,7 +5173,7 @@ glyceride
 glb
 gastratrophia
 geckotian
-gossipred
+gossipred 1
 gesticulator
 glossocomon
 guavas
