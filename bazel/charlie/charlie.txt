@@ -17021,7 +17021,7 @@ cnidarian
 cnidian
 crayoned
 cnidoblast
-cnidocil
+cnidocil 1
 cobbed
 coexplosion
 cupmate
