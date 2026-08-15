@@ -8980,7 +8980,7 @@ andy
 arboreally
 allophones
 allophonically
-alloplast
+alloplast 1
 appetisse
 allopsychic
 appleroot 1
