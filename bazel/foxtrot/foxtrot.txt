@@ -3219,7 +3219,7 @@ flotages
 fringiness
 foods
 fogman
-feloness
+feloness 1
 fluework
 floorshift
 firmisternous
