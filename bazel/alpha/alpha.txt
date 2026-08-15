@@ -15641,7 +15641,7 @@ ailment
 acoustics
 antinormality
 antinormalness
-ambage 1
+ambage 2
 anoxaemia
 acanthad
 aphidicolous
