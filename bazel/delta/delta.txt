@@ -6474,7 +6474,7 @@ desamidase
 desands
 desc
 descale
-downrightly
+downrightly 1
 descant
 dentinoblast
 disencumber

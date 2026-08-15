@@ -25104,7 +25104,7 @@ amphicondyla
 axiferous
 antimonarchists
 argumentation 1
-apothegms
+apothegms 1
 abaptistum
 annealed
 axilemmas
