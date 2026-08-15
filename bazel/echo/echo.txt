@@ -7010,7 +7010,7 @@ exiting
 effecting
 excisor
 encauma
-entrelac
+entrelac 1
 emetically
 epilogued
 escalops
