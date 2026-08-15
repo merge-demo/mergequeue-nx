@@ -10596,7 +10596,7 @@ affirmative
 amigos
 amiidae
 amyl
-ainu
+ainu 1
 amylan
 aphorismatic
 attomy
