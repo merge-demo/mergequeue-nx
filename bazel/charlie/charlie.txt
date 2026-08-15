@@ -17677,7 +17677,7 @@ cocinera
 cocircular
 cultrirostres
 catodont
-cocitizen
+cocitizen 1
 cocitizenship
 cockade
 colour
