@@ -13765,7 +13765,7 @@ acoumeter
 allobroges
 approved
 amusable
-abortuses
+abortuses 1
 ambisyllabic
 altimeter
 accrementition
