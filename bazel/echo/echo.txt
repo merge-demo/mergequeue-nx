@@ -9962,7 +9962,7 @@ estrin
 elk
 estrums
 extrospection
-englishize
+englishize 1
 estuarial
 epagogic
 eloquently
