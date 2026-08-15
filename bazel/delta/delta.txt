@@ -1604,7 +1604,7 @@ dawe
 dicyanid
 destruct
 dunkirker
-deafly
+deafly 1
 deafmuteness
 disembrace
 digression
