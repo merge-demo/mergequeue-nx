@@ -17262,7 +17262,7 @@ aaronic
 apoplastogamous
 attempts
 ampersand
-apoplectoid
+apoplectoid 1
 apoplex
 adamantoid
 anemometrographic
