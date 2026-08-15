@@ -13557,7 +13557,7 @@ exsiccant
 exsiccatae
 elucidate 1
 exsiccating
-embowment
+embowment 1
 ergusia
 exsolving
 epochs
