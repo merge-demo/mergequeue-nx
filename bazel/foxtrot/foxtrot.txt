@@ -527,7 +527,7 @@ fetterless
 fustigating
 falcon
 falconinae
-favoredness
+favoredness 1
 fleeces
 forfeiter
 factitial
