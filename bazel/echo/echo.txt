@@ -5112,7 +5112,7 @@ endocervical
 eccentrically 1
 enslavers
 eremitic
-endochorion
+endochorion 1
 endochorionic
 engrains
 elatha
