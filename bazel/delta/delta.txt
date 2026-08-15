@@ -17494,7 +17494,7 @@ disheartened
 drudged
 depict
 dwarf
-depolish
+depolish 1
 drudgers
 drudges
 ditheists
