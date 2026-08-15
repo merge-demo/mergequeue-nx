@@ -16253,7 +16253,7 @@ clinohumite 1
 childermas
 constringency
 contraindicate
-clinoid
+clinoid 1
 clinology
 clinometer
 clinometry
