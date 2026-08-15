@@ -16615,7 +16615,7 @@ conteck
 clopped
 clops
 cantref
-cloque
+cloque 1
 cloques
 cathodically
 cimaroon
