@@ -10217,7 +10217,7 @@ despise
 deemed
 dinkier
 dismalities
-dinkiest
+dinkiest 1
 defrauded
 dinking
 defatting
