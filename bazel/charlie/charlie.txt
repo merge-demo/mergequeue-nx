@@ -16893,7 +16893,7 @@ cephalothorax
 clisiocampa
 cluing
 chwas
-cheyney
+cheyney 1
 charca
 clumber
 clump
