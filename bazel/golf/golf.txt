@@ -3590,7 +3590,7 @@ gambolled 1
 goniaster
 gnomelike
 gregarinaria
-gavial
+gavial 1
 glutinose
 granulitization
 galvanic
