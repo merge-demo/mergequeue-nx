@@ -10030,7 +10030,7 @@ controvert
 caverned
 cherub
 cyanites
-chanoyu
+chanoyu 1
 cherubfish
 cherubfishes
 chauffeuring 1
