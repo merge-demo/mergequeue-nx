@@ -12576,7 +12576,7 @@ chronogrammatically
 cheetah
 cenospecifically
 chronogrammic
-chronograph
+chronograph 1
 chronographer
 chronography
 choreas
