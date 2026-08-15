@@ -8409,7 +8409,7 @@ dialyzes
 draftsmen
 disnaturing
 detentes
-diallagic
+diallagic 1
 dogmaticalness
 diallagite
 deadwort
