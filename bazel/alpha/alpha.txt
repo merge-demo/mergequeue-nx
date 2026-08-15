@@ -17037,7 +17037,7 @@ auriscalp
 apocynthion
 apocynthions
 apocyte
-apocopate
+apocopate 1
 audiometrist
 apocopated
 alumian
