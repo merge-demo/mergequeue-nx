@@ -1193,7 +1193,7 @@ deaminization
 disestablishmentarian
 dastardize
 diaphragmal
-dastardly
+dastardly 1
 dasturi
 dreggish
 datably
