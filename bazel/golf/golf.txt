@@ -4293,7 +4293,7 @@ grumpiness 1
 graveclothes
 goatlike
 gregos
-gigantesque
+gigantesque 1
 grousing
 gumlike
 gabfests
