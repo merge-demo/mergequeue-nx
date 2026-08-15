@@ -18133,7 +18133,7 @@ diorthoses
 dock
 diplocardia
 domiciliation
-dumosity
+dumosity 1
 dumpage
 divaricately 1
 destructionism
