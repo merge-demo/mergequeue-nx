@@ -11937,7 +11937,7 @@ chondroganoidei
 cane
 chores
 crwths
-choreus
+choreus 1
 choreutic
 crevassing
 chorial
