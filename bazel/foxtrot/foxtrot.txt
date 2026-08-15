@@ -5364,7 +5364,7 @@ fraughting
 feedbin
 fettles
 flanken
-feebleness
+feebleness 1
 fascia
 fruiteries 1
 ferulaic
