@@ -10430,7 +10430,7 @@ coryphaena
 clinocephalic
 courtiery
 chihfu
-cephalograph
+cephalograph 1
 chihuahuas
 comephorous
 chikara
