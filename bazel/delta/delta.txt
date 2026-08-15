@@ -17138,7 +17138,7 @@ dero
 decuries
 decine
 dipygi
-devarshi 1
+devarshi 2
 drilling
 dystonia
 drillman
