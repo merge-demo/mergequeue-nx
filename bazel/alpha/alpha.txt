@@ -19917,7 +19917,7 @@ adjuration
 armorials 1
 armoric
 arkansawyer
-armorican 1
+armorican 2
 albescence
 adenofibrosis
 anagnorisis
