@@ -25001,7 +25001,7 @@ awhir
 awhirl
 aswim
 autotruck
-antedon 1
+antedon 2
 awikiwiki
 asymmetral
 anionically
