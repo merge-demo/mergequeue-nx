@@ -21014,7 +21014,7 @@ cereuses
 compulsitor
 coremiumia
 caramelan
-cypsela
+cypsela 1
 compunct
 crassilingual
 compunction
