@@ -17306,7 +17306,7 @@ azido
 apostacize
 amrelle
 audiometer
-auguste
+auguste 1
 actors
 apeirophobia
 autocollimator
