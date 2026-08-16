@@ -8761,7 +8761,7 @@ emphractic
 enstrengthen 1
 equivoluminal
 explainers
-enfume
+enfume 1
 elementarist
 equoidean
 embrue 1
