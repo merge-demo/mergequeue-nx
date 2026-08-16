@@ -3417,7 +3417,7 @@ deflector
 dichlorvos
 devitrifying
 deflesh
-deflexibility
+deflexibility 1
 dysgenics
 diversely
 deflocculant
