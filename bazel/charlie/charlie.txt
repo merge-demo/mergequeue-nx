@@ -26782,7 +26782,7 @@ columnization
 counterdifficulty
 commiserate
 coldest
-counterdigged
+counterdigged 1
 cladautoicous
 cerebroscopy
 counterdike
