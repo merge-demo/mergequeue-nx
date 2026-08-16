@@ -5237,7 +5237,7 @@ denotatively
 dauerlauf
 dampens
 denotativeness
-denotatum
+denotatum 1
 deacidifying
 denotes
 docetistic
