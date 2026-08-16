@@ -22983,7 +22983,7 @@ consolato
 consolator
 consolatory
 consolatorily
-chartophylax
+chartophylax 1
 consolatrix
 console
 crain
