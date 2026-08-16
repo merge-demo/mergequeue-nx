@@ -12224,7 +12224,7 @@ bolographic 1
 broggerite
 baluchitherium
 bookshelf
-boloism
+boloism 1
 breakthrough
 byplays
 boutre
