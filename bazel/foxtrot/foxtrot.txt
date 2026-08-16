@@ -4526,7 +4526,7 @@ farmlands
 feer
 forheed
 foreigner 1
-forslake
+forslake 1
 flooded
 fountainhead
 fructify
