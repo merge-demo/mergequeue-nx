@@ -7858,7 +7858,7 @@ fibrotuberculosis 1
 fiked 1
 froppish
 forepossessed
-fenestrule
+fenestrule 1
 filler
 foreshots 1
 furfuraldehyde
