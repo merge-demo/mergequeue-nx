@@ -5329,7 +5329,7 @@ erectors
 ernest
 estocs
 ergodicity
-elegiast
+elegiast 1
 eliminability
 endosclerite
 extrahepatic
