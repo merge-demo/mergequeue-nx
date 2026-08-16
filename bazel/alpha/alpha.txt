@@ -18499,7 +18499,7 @@ arrhenoid
 akroasis
 antimusical 1
 azoturias
-assassinating
+assassinating 1
 arborer
 adventitious
 adulteress
