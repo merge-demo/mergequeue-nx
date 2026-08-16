@@ -1097,7 +1097,7 @@ genitives
 ganister
 goriest
 giroflore 1
-groat
+groat 1
 grooviness
 grannies
 gonangium 1
