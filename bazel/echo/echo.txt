@@ -13496,7 +13496,7 @@ epifolliculitis 1
 ectocondyloid
 editing
 etruscologist
-evaporite
+evaporite 1
 eristic
 endangeitis
 epitomic
