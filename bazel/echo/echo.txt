@@ -3564,7 +3564,7 @@ entrefer
 embolize
 eupeptic
 epididymal
-entocone
+entocone 1
 embolomalerism
 enervator
 exceeder
