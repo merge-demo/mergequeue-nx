@@ -12163,7 +12163,7 @@ etageres 1
 egally
 embastioned
 elasmobranchian
-exiguity
+exiguity 1
 excusably
 enswathing
 entertainments
