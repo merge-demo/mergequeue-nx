@@ -10722,7 +10722,7 @@ emacerate
 emblazer
 ecologic
 euhyostylic
-eukairite
+eukairite 1
 enfavor
 eaver
 enwraps
