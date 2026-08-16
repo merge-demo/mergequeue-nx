@@ -18584,7 +18584,7 @@ driftfishes
 duskishness
 dogtrotting
 didrachm
-dewool
+dewool 1
 duskness
 dust
 delphian
