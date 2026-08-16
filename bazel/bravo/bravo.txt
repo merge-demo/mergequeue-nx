@@ -2188,7 +2188,7 @@ backflash
 briscola
 bararite
 barathea
-barbellate
+barbellate 1
 bibbled
 bemaddens
 bellicosely
