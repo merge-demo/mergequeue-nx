@@ -4725,7 +4725,7 @@ entrammel
 ensuance
 englishism
 enciphering
-enrapture
+enrapture 1
 eulogism
 engerminate
 executonis
