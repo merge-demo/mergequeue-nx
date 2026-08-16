@@ -8154,7 +8154,7 @@ fossilology
 foretrace
 forecastleman
 fountful
-foreuse
+foreuse 1
 foreutter
 flavoursome
 fillercap
