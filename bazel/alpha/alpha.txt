@@ -21948,7 +21948,7 @@ adicity
 autochthones
 articulating
 anathemata
-apodictical
+apodictical 1
 addicted
 aportoise
 anoxias
