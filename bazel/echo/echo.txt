@@ -2270,7 +2270,7 @@ esophagogastrostomy
 exploitive
 electrically
 extensometer
-enciente
+enciente 1
 embryony
 embraceable
 encoach
