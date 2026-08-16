@@ -7141,7 +7141,7 @@ demolished
 dispraised
 disworship
 dudeen
-directively
+directively 1
 desulfuring
 dunging
 desulfurisation
