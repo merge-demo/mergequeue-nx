@@ -5026,7 +5026,7 @@ angiohyalinosis
 adinvention
 aerophobic 1
 aerophor
-antithermic
+antithermic 1
 arrode
 aerophotos
 antiwhitism
