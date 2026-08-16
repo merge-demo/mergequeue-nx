@@ -4062,7 +4062,7 @@ executrices
 epipodial
 ex
 enringing
-evangelised
+evangelised 1
 encyclopaedism
 embroils
 epitheca
