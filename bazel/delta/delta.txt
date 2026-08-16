@@ -806,7 +806,7 @@ daneweeds
 detections
 disingenious
 dangerously
-dactyliomancy
+dactyliomancy 1
 diabrotic
 deduced
 dangerousness
