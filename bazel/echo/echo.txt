@@ -3010,7 +3010,7 @@ evaluate
 extine
 efflorescence
 evocative
-extern
+extern 1
 encorpore
 externa
 eliot
