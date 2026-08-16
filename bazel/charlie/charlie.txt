@@ -20491,7 +20491,7 @@ chinchiest
 coasting
 compassion
 compassionate
-couthiness
+couthiness 1
 compassionately
 candidateship
 compassionateness
