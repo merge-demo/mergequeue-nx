@@ -9838,7 +9838,7 @@ diesis
 discouragingness
 dynamometamorphism
 diluvia
-disarmament
+disarmament 1
 disillusionizer
 deviancies
 dissected
