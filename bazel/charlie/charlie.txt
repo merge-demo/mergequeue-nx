@@ -9292,7 +9292,7 @@ confragose
 chatties
 chattiest
 chattiness
-colorably
+colorably 1
 chromotherapy
 chalutz
 cordite
