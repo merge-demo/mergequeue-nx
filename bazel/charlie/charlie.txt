@@ -8674,7 +8674,7 @@ chanteuse
 chanticleer
 chanticleers
 chantier
-curiousness
+curiousness 1
 capreomycin
 chanties
 chantilly
