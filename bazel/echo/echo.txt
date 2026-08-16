@@ -1468,7 +1468,7 @@ emunct
 exenteritis
 epipleural
 envelop
-enfarce
+enfarce 1
 euxanthate
 euhemerism
 efforts 1
