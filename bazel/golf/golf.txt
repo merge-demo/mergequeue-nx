@@ -255,7 +255,7 @@ griselda
 greenlandic 1
 geologizing
 ghostlike 1
-gambrelled
+gambrelled 1
 glamorous
 guao
 gemless
