@@ -4688,7 +4688,7 @@ electrophonically
 encyclics
 extroversive
 eisodic
-eucrites
+eucrites 1
 elbowing
 eyeopener
 eryhtrism
