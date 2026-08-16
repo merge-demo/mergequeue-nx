@@ -5666,7 +5666,7 @@ fawe
 fragility
 frumenties
 fibrine
-freckles
+freckles 1
 funeration
 forbearant
 finite
