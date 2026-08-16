@@ -7642,7 +7642,7 @@ alphabetically
 atomist
 alcyonacean
 alcyoniaceae
-acost
+acost 1
 alcyonic
 astutely
 argentinitrate
