@@ -12964,7 +12964,7 @@ exodoi
 exclusion
 equipartile
 epicyclical
-excommunicated
+excommunicated 1
 expected
 eucharises
 embathe
