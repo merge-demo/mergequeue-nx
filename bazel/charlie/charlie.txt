@@ -8681,7 +8681,7 @@ chantilly
 conformity 1
 connubially
 campagnols
-chantingly
+chantingly 1
 carman
 commonest
 cheiloplasties
