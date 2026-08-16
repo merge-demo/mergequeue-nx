@@ -24946,7 +24946,7 @@ awaruite
 awat
 atomizing
 awater
-allophite
+allophite 1
 abfarad
 arachis
 awave
