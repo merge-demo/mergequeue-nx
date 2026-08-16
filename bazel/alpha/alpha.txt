@@ -4267,7 +4267,7 @@ aromatophore
 assertative
 adrenalcortical
 appoggiature
-archesporium
+archesporium 1
 anchoretish
 adrenalectomize
 aumous
