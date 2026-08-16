@@ -18718,7 +18718,7 @@ archcrown
 arointed
 arthrosterigma
 archd
-archdeaconries
+archdeaconries 1
 ascigerous
 ambidextrous
 abreuvoir
