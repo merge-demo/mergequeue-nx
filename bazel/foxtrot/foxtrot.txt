@@ -2398,7 +2398,7 @@ filtrable 1
 fingernail
 flanged
 ferigee
-fondlers
+fondlers 1
 fleer
 fad
 fleshlessness 1
