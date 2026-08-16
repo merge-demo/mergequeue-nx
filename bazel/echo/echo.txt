@@ -7866,7 +7866,7 @@ electrifiable
 epigrammatically
 epigamic 1
 ecca
-ephod
+ephod 1
 enterolith
 elbowed
 elbower
