@@ -9521,7 +9521,7 @@ demiurge
 decontaminated
 digital
 drunkest
-digitalin
+digitalin 1
 dispergator
 diathermanous
 digitated
