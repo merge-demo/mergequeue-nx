@@ -6408,7 +6408,7 @@ correcter
 conchfish
 cauterizer
 cauterizes
-caution
+caution 1
 cautionary
 couve
 cerebromedullary
