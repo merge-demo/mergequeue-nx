@@ -17681,7 +17681,7 @@ cocitizen
 cocitizenship
 cockade
 colour
-colonisation
+colonisation 1
 christianization
 connecting
 cockades
