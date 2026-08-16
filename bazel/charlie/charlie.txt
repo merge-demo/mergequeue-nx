@@ -19263,7 +19263,7 @@ colombina
 crimsonly
 colon
 colonate
-colonelcies
+colonelcies 1
 colonelships
 conductorless
 coloner
