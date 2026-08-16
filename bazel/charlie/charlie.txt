@@ -21955,7 +21955,7 @@ confiding 1
 coppa
 confidingly
 cessation
-canorousness
+canorousness 1
 confidingness
 configural
 canteens
