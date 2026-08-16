@@ -3992,7 +3992,7 @@ fulmine
 figurehead
 flanque
 feminisation
-fictionally
+fictionally 1
 fibres
 fraulein
 friarling
