@@ -16840,7 +16840,7 @@ dungari
 dorestane
 discontinual
 determinativeness
-discharity
+discharity 1
 dozes
 depreciations
 dissyllabise
