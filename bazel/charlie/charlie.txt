@@ -20124,7 +20124,7 @@ comminglement 1
 cuspids 1
 commingler
 commingles
-commingling
+commingling 1
 comminuted
 cybercultural
 comminution
