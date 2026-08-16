@@ -13186,7 +13186,7 @@ diazole
 dovetailed
 demoralize
 dysplasia
-demonish
+demonish 1
 determination
 dislocates
 durums
