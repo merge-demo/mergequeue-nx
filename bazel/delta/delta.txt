@@ -10049,7 +10049,7 @@ debarkations
 deflate
 defailance
 diselectrify 1
-dozier
+dozier 1
 dishonour
 deled
 damply
