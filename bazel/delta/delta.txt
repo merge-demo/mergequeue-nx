@@ -3782,7 +3782,7 @@ disimbitter
 deia
 deadpanner
 dyostyle
-detest
+detest 1
 dor
 dwale
 disgracia
