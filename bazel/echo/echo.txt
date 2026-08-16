@@ -11523,7 +11523,7 @@ emcee
 enforced
 encheiria
 erotylid
-exhaling
+exhaling 1
 eserin
 extractable
 elegantly
