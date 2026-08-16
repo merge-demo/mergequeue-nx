@@ -4231,7 +4231,7 @@ eggeater
 evagination
 emotionalize
 extrathecal
-emprizes
+emprizes 1
 epicycloid
 erubescite
 ebbs
