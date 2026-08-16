@@ -7706,7 +7706,7 @@ graduands 1
 geopolitic
 girning
 galvanized 1
-gunpowderous
+gunpowderous 1
 globus
 geomyid
 grizzliest
