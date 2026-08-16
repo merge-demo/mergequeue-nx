@@ -8429,7 +8429,7 @@ freshman
 fades
 formalist
 fallibilist
-flurr
+flurr 1
 foreboded
 floweriness
 foppish
