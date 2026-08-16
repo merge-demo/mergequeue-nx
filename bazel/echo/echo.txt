@@ -12574,7 +12574,7 @@ ebionize
 epruinose
 exobasidiales
 etc
-exclaim
+exclaim 1
 ergonovine
 exobasidium
 eupathy
