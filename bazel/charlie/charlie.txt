@@ -19528,7 +19528,7 @@ clubbier
 cryptocarpous
 coltpixy
 coltsfoot
-coltsfoots
+coltsfoots 1
 captivities
 coluber
 colubrinae
