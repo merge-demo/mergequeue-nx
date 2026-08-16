@@ -1761,7 +1761,7 @@ diphyllobothrium
 deathtrap
 devocalization
 drof
-deathward
+deathward 1
 dikaryon
 ductility
 docent
