@@ -6007,7 +6007,7 @@ critics
 centraliser
 collatress
 contratempo
-catholic
+catholic 1
 courtesans
 cardinalated
 cryptostomata
