@@ -6901,7 +6901,7 @@ fruity
 fifes
 fleme
 felafel
-fanakalo
+fanakalo 1
 flintwood
 flosculous
 februaries
