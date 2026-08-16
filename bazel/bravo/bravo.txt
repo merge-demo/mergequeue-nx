@@ -3170,7 +3170,7 @@ biperforate
 branchiomerism
 barbecue
 busine
-berserk
+berserk 1
 birdieing
 basial
 belove
