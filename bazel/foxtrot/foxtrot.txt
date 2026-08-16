@@ -5399,7 +5399,7 @@ feridji
 figuration
 fruittime
 forthbringer
-formable
+formable 1
 flecking
 firehouses
 fusarole
