@@ -560,7 +560,7 @@ ethiopians
 eavesdropper
 equatorially
 excommunicatory
-encrimson
+encrimson 1
 echinomys
 entrained
 erythrene
