@@ -1989,7 +1989,7 @@ believably
 bedstand
 brachydiagonal
 baniya
-baning
+baning 1
 bandcutter
 bhaiachara
 banisher
