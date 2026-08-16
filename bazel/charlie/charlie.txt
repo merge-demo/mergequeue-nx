@@ -3578,7 +3578,7 @@ capulet
 capulin
 caputium
 caque
-condemnor
+condemnor 1
 chewiest
 cooping
 caqueterie
