@@ -3356,7 +3356,7 @@ absentee
 atresic
 atelets
 andean
-allosyndesis
+allosyndesis 1
 argestes
 antihierarchic
 arborescence
