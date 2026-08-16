@@ -224,7 +224,7 @@ ambystomidae
 avidous
 apotactite
 alantolic
-apteran
+apteran 1
 acology
 aguishly
 abbotcies
