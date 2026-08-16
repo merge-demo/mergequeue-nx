@@ -26699,7 +26699,7 @@ cloisters
 counterassociation
 cammock
 careering
-counterattack
+counterattack 1
 colonels
 capellane
 counterattacked
