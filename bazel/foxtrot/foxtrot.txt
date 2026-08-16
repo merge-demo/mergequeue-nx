@@ -5096,7 +5096,7 @@ funorin
 flashboard
 fiendliest
 forelay
-flinches
+flinches 1
 forewent 1
 flashed
 faldistory
