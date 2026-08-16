@@ -4957,7 +4957,7 @@ aerolitic
 aerological
 antepartum
 aeromancer
-anthonomus
+anthonomus 1
 aerometer
 aspen
 amygdalus
