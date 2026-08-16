@@ -15970,7 +15970,7 @@ dissocial
 dialogize
 dasein
 dukhn
-dotkin
+dotkin 1
 dudish
 dottiest
 dotlet
