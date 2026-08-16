@@ -11897,7 +11897,7 @@ dehypnotized
 dragoonade
 daguerreotypic 1
 disdein
-dardani
+dardani 1
 doubleheader
 dephlegmate
 disbecome
