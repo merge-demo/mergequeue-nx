@@ -2999,7 +2999,7 @@ gondite
 gavialis
 gelly
 galvanocauteries
-gentlefolk
+gentlefolk 1
 gambusia
 guatambu
 greasiness
