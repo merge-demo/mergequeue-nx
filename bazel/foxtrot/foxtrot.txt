@@ -8897,7 +8897,7 @@ forepast
 falsificator
 fretfulness
 flown
-funambulic
+funambulic 1
 foulest 1
 fjeld
 fiques
