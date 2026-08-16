@@ -19612,7 +19612,7 @@ coitional
 columning
 cuttling
 columnist
-columnistic
+columnistic 1
 coach
 columnists
 callets
