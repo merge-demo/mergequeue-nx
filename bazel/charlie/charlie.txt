@@ -31505,7 +31505,7 @@ curricla
 currijong
 curring
 currock
-clupeoids
+clupeoids 1
 cisrhenane
 culiciform
 collectivization
