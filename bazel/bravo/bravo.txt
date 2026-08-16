@@ -1468,7 +1468,7 @@ boyarisms
 blighter
 balkish
 bodaciously
-bahadurs 1
+bahadurs 2
 beggar
 boroglycerate
 barras
