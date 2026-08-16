@@ -12465,7 +12465,7 @@ chromoleucite
 chromolipoid
 clayen
 choleinic
-clarioned
+clarioned 1
 chromolith
 colent
 chromolithic
