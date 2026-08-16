@@ -9626,7 +9626,7 @@ ethanethial
 esurine
 enlarging
 espadon
-effervescible
+effervescible 1
 ewer
 endoblast
 encense
