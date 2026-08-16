@@ -385,7 +385,7 @@ goatskins
 grandmamma
 guisian
 gps
-galant
+galant 1
 galanthus
 guilery
 ganymedes
