@@ -6699,7 +6699,7 @@ foofaraws 1
 furrier
 freshwater
 flaughtbred
-frequent
+frequent 1
 finableness
 forecontrive
 fenner
