@@ -23187,7 +23187,7 @@ constraints
 confervaceous
 cardioscope
 constrict
-clamative
+clamative 1
 claudio
 castors
 chocard
