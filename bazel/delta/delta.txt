@@ -12387,7 +12387,7 @@ disassembly
 disheartenedly
 doubles
 disheartener
-doveflower
+doveflower 1
 devachan
 daphnean
 dharmakaya
