@@ -11749,7 +11749,7 @@ darkening
 discard
 disasinate
 discreeter
-dispensation
+dispensation 1
 drawled
 dermography
 desoxymorphine
