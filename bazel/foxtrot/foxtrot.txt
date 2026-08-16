@@ -3774,7 +3774,7 @@ fibula
 fellmonger
 fulls
 filliped
-fascinatingly
+fascinatingly 1
 fluxing
 francize
 fascistically
