@@ -12559,7 +12559,7 @@ chronicling
 chronicon
 chronics
 craddy
-chronique
+chronique 1
 contingency
 commerceless
 chronocarator
