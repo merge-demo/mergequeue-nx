@@ -13068,7 +13068,7 @@ ergates
 enslave
 embassador
 eutaxite
-explications
+explications 1
 ergotisms
 ende
 ecchondrosis
