@@ -10361,7 +10361,7 @@ excitability
 edgestone
 embezzlements
 exhibitive
-equibiradiate
+equibiradiate 1
 ellagic
 eloign 1
 ethylamime
