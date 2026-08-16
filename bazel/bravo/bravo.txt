@@ -9669,7 +9669,7 @@ bismuthate
 burhinus
 birchbark
 bismuthide
-bethanked
+bethanked 1
 beneficing
 browses
 bezzled
