@@ -10852,7 +10852,7 @@ dauntingly
 dimerized
 displays
 dirged
-dirgelike
+dirgelike 1
 dirgeman
 debts
 dirgy
