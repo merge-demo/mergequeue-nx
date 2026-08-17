@@ -7295,7 +7295,7 @@ goofing
 gamostelic
 garcon
 gassendist
-gortonite
+gortonite 1
 gauffer
 graphiologist
 glutaric
