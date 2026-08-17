@@ -1768,7 +1768,7 @@ eyes
 ewhow 1
 encasing
 eyeseed
-entophytically
+entophytically 1
 eyeservant
 eyeshade
 exolve
