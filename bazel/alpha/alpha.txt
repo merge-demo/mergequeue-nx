@@ -23505,7 +23505,7 @@ augured
 abeigh
 anteroposteriorly
 anarcotin
-astasia
+astasia 1
 algaeology
 auguring
 augurous 1
