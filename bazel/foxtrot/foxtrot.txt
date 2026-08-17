@@ -10505,7 +10505,7 @@ fortuities
 feodality
 featherback
 frotton
-fum
+fum 1
 fascicularly
 fumelike
 firetail
