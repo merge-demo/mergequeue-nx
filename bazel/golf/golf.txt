@@ -3119,7 +3119,7 @@ gomuti
 gymnocidium
 gastful
 guffaws
-gullage
+gullage 1
 gurglet
 grees
 geopolar
