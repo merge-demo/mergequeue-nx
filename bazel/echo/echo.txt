@@ -11795,7 +11795,7 @@ epirot
 elusion
 ensignship 1
 eurymus
-endorsingly
+endorsingly 1
 exasperatedly
 eversion
 entrees
