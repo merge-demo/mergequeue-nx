@@ -18502,7 +18502,7 @@ duffer
 durances
 downcast
 divorced
-duraspinalis 1
+duraspinalis 2
 diacritic
 duration
 durations
