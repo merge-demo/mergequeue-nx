@@ -3697,7 +3697,7 @@ carapaces
 carapacho
 chapfallenly
 contumacity
-cognates
+cognates 1
 carapacic
 carapax
 climacterial
