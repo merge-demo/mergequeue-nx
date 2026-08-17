@@ -11070,7 +11070,7 @@ adduction
 amounters
 amouli
 anathematiser
-apogeic
+apogeic 1
 ariki
 amovable
 acronarcotic
