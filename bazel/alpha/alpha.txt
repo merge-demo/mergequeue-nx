@@ -11346,7 +11346,7 @@ alcoholimeter
 alegar
 aposthume
 abomasi
-amphodarch
+amphodarch 1
 ampholytic
 anobiidae
 amphora
