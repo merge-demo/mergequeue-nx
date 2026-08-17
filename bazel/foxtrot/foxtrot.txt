@@ -6570,7 +6570,7 @@ footcloth
 fetiales
 fissions
 fo
-fireproofed
+fireproofed 1
 fuciphagous 1
 foalfoots
 ficula
