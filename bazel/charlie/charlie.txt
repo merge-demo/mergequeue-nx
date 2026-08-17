@@ -3760,7 +3760,7 @@ cephalomenia
 carbamyls
 carpodetus
 carbamine
-circumnutate
+circumnutate 1
 cowquake
 circum
 carbanilid
