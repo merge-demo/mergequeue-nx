@@ -9338,7 +9338,7 @@ ellen
 eruptive
 extortioner
 essoinee
-eruptiveness
+eruptiveness 1
 endear
 earable
 eruptivity
