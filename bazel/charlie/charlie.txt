@@ -5153,7 +5153,7 @@ casemates
 casemented
 casements
 copolar
-caseolysis
+caseolysis 1
 caseose
 caseous
 caserios
