@@ -23266,7 +23266,7 @@ accumulator
 arrhythmias
 attorneydom
 assenters
-attracts
+attracts 1
 ambulacra
 anticorrosive
 artificially
