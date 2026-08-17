@@ -9052,7 +9052,7 @@ allottery
 aigrette
 astrictiveness
 antimilitaristic
-allowable
+allowable 1
 antemarital
 animant
 ancylostome
