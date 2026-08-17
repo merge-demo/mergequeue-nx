@@ -29389,7 +29389,7 @@ cryptosplenetic
 cryptostome
 cryptous
 cryptovalence
-cholane
+cholane 1
 cymoidium
 cryptovolcanism
 cryptozygy
