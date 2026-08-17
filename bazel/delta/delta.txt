@@ -6381,7 +6381,7 @@ dustmen
 diplotene
 disassociation
 dorsiventral
-dielec
+dielec 1
 derodidymus
 derog
 demeanour
