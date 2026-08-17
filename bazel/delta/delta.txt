@@ -4988,7 +4988,7 @@ dempsters
 deaerate
 demulcents
 diphycercy
-diseasedly
+diseasedly 1
 demulsified
 discession
 dipsy
