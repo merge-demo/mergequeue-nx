@@ -2437,7 +2437,7 @@ cancerophobe
 cancerophobia
 cancerous
 celtophil
-cancerously
+cancerously 1
 coolth
 cancerousness
 cardiotonic
