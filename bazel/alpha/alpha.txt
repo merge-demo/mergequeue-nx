@@ -10785,7 +10785,7 @@ ammelide
 apodemal
 apothecary
 ammer
-adductor
+adductor 1
 ammeter
 ammeters
 amplexuses
