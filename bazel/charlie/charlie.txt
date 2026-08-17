@@ -22938,7 +22938,7 @@ consiliary
 consilience
 consilient 1
 consimilar
-caphtorim
+caphtorim 1
 consimilate
 carnified
 convokers
