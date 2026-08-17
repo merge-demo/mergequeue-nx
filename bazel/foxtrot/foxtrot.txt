@@ -11562,7 +11562,7 @@ fulmar
 futhermore
 fixature
 finnickiest
-fusiliers
+fusiliers 1
 forthbringing
 faucet
 foreworn
