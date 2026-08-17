@@ -17348,7 +17348,7 @@ chrysolite
 coast
 coastal
 coastally 1
-cohabitant
+cohabitant 1
 coastguardman
 cheapskates
 coastguardsman
