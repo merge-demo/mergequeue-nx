@@ -20962,7 +20962,7 @@ ascellus
 ascend
 ascendable
 ayenbite
-amortisseur
+amortisseur 1
 ahtena
 antirust
 athreptic
