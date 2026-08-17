@@ -1114,7 +1114,7 @@ extempory
 epeisodion
 esterification
 elatrometer
-electrotypes
+electrotypes 1
 epicaridea
 edith
 epitrichial
