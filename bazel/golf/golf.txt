@@ -7499,7 +7499,7 @@ gavelmen
 getmesost
 galliardize
 glossodynia
-generalization
+generalization 1
 glial
 goals
 gamogenesis
