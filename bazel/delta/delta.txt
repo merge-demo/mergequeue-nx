@@ -13158,7 +13158,7 @@ derangement
 demonophobia
 desiccations
 disguisement
-directiveness
+directiveness 1
 dysphonia
 diabolonian
 dollardee
