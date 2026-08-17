@@ -22770,7 +22770,7 @@ consecrate
 consecrater
 chieftess
 contramarque
-consecrates 1
+consecrates 2
 clearage
 citrals
 coticular
