@@ -12031,7 +12031,7 @@ ascribed
 armagnac
 alkylated
 anarthrosis
-algous
+algous 1
 anarthrously
 anarthrousness
 avionics
