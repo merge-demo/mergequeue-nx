@@ -14620,7 +14620,7 @@ bewrayment
 bitterns
 brantails
 barricado
-bedcord
+bedcord 1
 brantle
 bacteriologic
 bibliomanism
