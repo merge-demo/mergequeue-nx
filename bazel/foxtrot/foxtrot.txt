@@ -1958,7 +1958,7 @@ flowerlike
 festshrifts
 francia
 fainaiguing 1
-forbite
+forbite 1
 formalistically
 forecaster
 fothergilla
