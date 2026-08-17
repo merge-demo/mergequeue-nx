@@ -9613,7 +9613,7 @@ cyathozooid
 cubiculary
 contrabandism
 cheered
-cheerfulize
+cheerfulize 1
 cheerfuller
 columbier
 combatted
