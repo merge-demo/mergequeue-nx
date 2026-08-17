@@ -6921,7 +6921,7 @@ calorimetric
 cementatory
 chlorobromomethane
 curvirostres
-charros
+charros 1
 cementer
 cementification
 cyborgs
