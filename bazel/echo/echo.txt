@@ -11243,7 +11243,7 @@ englyns
 eely
 exceptionably 1
 effulgently
-excisemanship
+excisemanship 1
 enclothe
 evangelistary
 enthronements
