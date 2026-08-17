@@ -5729,7 +5729,7 @@ drepanid
 demit
 deplorabilia
 dextrane
-deplorability
+deplorability 1
 duals
 deplorableness
 disrepair
