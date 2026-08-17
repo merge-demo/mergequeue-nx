@@ -13417,7 +13417,7 @@ diffusion
 dennstaedtia
 disrated
 disrecommendation
-digitalis
+digitalis 1
 disregard
 demiglace
 dought
