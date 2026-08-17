@@ -4160,7 +4160,7 @@ bartlemy
 beastlike
 bodywise
 bengalic
-bumpkinish
+bumpkinish 1
 buoyantness
 brinsell
 bracteal
