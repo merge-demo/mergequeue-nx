@@ -19678,7 +19678,7 @@ comatoseness
 comatosity
 comatula
 combaron
-combasou
+combasou 1
 combat
 criminal
 combatable
