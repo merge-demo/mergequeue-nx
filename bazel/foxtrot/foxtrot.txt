@@ -3099,7 +3099,7 @@ fibro
 fantasia
 fennecs
 fiercehearted
-frontispiece
+frontispiece 1
 fortifyingly
 frozen
 frenching
