@@ -1332,7 +1332,7 @@ affiliated
 atom
 aiolis
 agnized
-accelerate
+accelerate 1
 anilide
 acceleratedly
 assidean
