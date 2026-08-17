@@ -10396,7 +10396,7 @@ demonises
 droiture
 diplosphene
 dioxy
-defecate
+defecate 1
 discourtship
 dioxid
 disfavors
