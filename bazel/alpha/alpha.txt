@@ -16364,7 +16364,7 @@ anticommutative
 antivivisectionist
 acrospiring
 ambuscade
-asteroidal
+asteroidal 1
 arsanilic
 antiwarlike
 anthropomorphitic
