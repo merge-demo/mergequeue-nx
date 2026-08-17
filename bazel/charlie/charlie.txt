@@ -6474,7 +6474,7 @@ collogues
 celebrating
 cavea
 caveae
-caveating
+caveating 1
 chiquitan
 cycadlike
 caveator
