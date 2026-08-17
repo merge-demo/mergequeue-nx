@@ -7623,7 +7623,7 @@ coincidentally
 cerebrosclerosis
 cerebroscope
 codewords
-cerebrose
+cerebrose 1
 campanula
 chargers
 calathisci
