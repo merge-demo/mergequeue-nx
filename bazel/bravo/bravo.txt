@@ -17130,7 +17130,7 @@ baromotor
 bodeword
 backliding
 blackfins
-buckass
+buckass 1
 bygones
 backboards
 bullheads
