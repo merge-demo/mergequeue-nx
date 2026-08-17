@@ -23047,7 +23047,7 @@ attaches
 ascitan
 attacheship
 administrating
-astrology
+astrology 1
 abaft
 antewar
 alumium
