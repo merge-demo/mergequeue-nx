@@ -29500,7 +29500,7 @@ cravers
 cunye
 crystallomancy
 crystallometry
-continuist
+continuist 1
 conjunctional
 continental
 culpatory
