@@ -13683,7 +13683,7 @@ escarp
 earthing
 ewelease 1
 equalizes
-externalistic
+externalistic 1
 euphorbium
 explorativeness
 externalities
