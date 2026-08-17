@@ -4649,7 +4649,7 @@ gunlocks
 gaudy
 guerinet
 glossitic 1
-guttersnipish 1
+guttersnipish 2
 griggles
 graphometer
 gastrodialysis
