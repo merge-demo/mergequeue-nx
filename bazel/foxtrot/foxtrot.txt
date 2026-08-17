@@ -10558,7 +10558,7 @@ favose
 feudalist
 funambulation
 fruchtschiefer
-fructescent
+fructescent 1
 flumadiddle
 filmily
 framable
