@@ -18724,7 +18724,7 @@ ambidextrous
 abreuvoir
 archdefender
 agenesia
-archdetective
+archdetective 1
 amputee
 alkalisation
 apurpose
