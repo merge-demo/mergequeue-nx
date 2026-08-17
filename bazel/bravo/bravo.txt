@@ -8032,7 +8032,7 @@ bicorn
 bourrelet
 blanque
 boatman
-buckbeans
+buckbeans 1
 busked
 bluntness
 bicornate
