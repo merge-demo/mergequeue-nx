@@ -5576,7 +5576,7 @@ andiroba
 absolute
 afters
 amphibrach
-allomerism 1
+allomerism 2
 attentat
 apholate
 aftershaft
