@@ -10514,7 +10514,7 @@ exemplifications
 electrometry
 effusing
 entreatingly
-euboean
+euboean 1
 eubteria
 engelmann
 embezzlers
