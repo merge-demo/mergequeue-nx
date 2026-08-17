@@ -9512,7 +9512,7 @@ collet
 clavola
 checkers
 cabbalah
-cardanic
+cardanic 1
 capos
 checky
 cityful
