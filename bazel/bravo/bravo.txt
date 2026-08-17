@@ -2748,7 +2748,7 @@ barology
 barolong
 boroughship
 barometers
-beefy
+beefy 1
 blam
 brainache
 beachside 1
