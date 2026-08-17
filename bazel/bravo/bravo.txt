@@ -14873,7 +14873,7 @@ breakability
 bilith
 brokers
 breakable
-breakaxe
+breakaxe 1
 bitterless
 burning
 baja
