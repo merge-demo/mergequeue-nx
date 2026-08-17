@@ -18435,7 +18435,7 @@ craftier
 chondromata
 conspiratorially
 cogonal
-cogovernor
+cogovernor 1
 cellularity
 chokey
 carboxylate
