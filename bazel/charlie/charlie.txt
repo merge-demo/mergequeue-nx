@@ -9860,7 +9860,7 @@ chastizer
 curiological
 chemokinetic
 chemolysis
-cicero
+cicero 1
 chemolyze
 correspondentially
 clamp
