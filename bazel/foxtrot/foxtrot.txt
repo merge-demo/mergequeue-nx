@@ -1684,7 +1684,7 @@ formularies
 falsies
 felonous
 fearingly
-ferineness
+ferineness 1
 fearless
 forehammer
 frangible
