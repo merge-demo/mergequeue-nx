@@ -11344,7 +11344,7 @@ epixylous
 evea
 enolization
 eunuch
-eugenics
+eugenics 1
 eolienne
 eveless
 estrildine
