@@ -16962,7 +16962,7 @@ antifermentative
 aplenty
 alveolars
 affreight
-aplite
+aplite 1
 alfione
 aplites
 amulet
