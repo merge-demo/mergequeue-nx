@@ -693,7 +693,7 @@ caffeinic
 caffeins
 coctoantigen
 carries
-caffeism
+caffeism 1
 cud
 colometry
 caffeol
