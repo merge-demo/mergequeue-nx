@@ -12223,7 +12223,7 @@ depel
 deride 1
 discoursiveness
 deliquesce
-dwarfish
+dwarfish 1
 dovecots
 disfrocking
 dysfunctional
