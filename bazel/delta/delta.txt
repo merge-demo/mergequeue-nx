@@ -16507,7 +16507,7 @@ deoculate
 dervishlike
 despatcher
 darii
-dishevel
+dishevel 1
 dilucidate
 disdainable
 diomedes
