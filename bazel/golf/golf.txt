@@ -1488,7 +1488,7 @@ gasher
 galaginae
 glumly
 gunmaker
-gymnarchus
+gymnarchus 1
 gluconate 1
 galosh
 guacamole
