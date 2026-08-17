@@ -5675,7 +5675,7 @@ discommodate
 dispiritedness
 depilating
 depilatory
-depilatories
+depilatories 1
 discos
 decerniture
 delineation
