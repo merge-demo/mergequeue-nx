@@ -10333,7 +10333,7 @@ bamboozlers
 breviature
 bordman
 boil
-boozers
+boozers 1
 blame
 blamefully
 bicyclical
