@@ -9961,7 +9961,7 @@ chequebook
 croup
 chequer
 chequered
-chequers
+chequers 1
 creosoted
 chalukya
 chequerwork
