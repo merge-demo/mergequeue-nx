@@ -14409,7 +14409,7 @@ anthracin
 amnemonic
 almugs
 amplexicauline
-anthracitic
+anthracitic 1
 apprehensively
 acclaims
 anthracic
