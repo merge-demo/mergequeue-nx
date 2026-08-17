@@ -12651,7 +12651,7 @@ braccia
 bestowable
 boogeymen
 bane
-bellical
+bellical 1
 buhrs
 bec
 bolivares
