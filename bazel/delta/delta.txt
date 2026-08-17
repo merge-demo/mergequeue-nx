@@ -17490,7 +17490,7 @@ deletery
 diaschisis
 drubly
 divinise
-disheartened
+disheartened 1
 drudged
 depict
 dwarf
