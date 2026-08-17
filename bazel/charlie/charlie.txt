@@ -11989,7 +11989,7 @@ cognizee
 chorisis
 chlorins
 chorist
-cyanuret
+cyanuret 1
 characetum
 choristate
 chorister
