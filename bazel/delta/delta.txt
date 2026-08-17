@@ -4491,7 +4491,7 @@ devalorize
 developmentist
 dysphoric
 deemphasizes
-dulnesses
+dulnesses 1
 deception
 diaspora
 divulse
