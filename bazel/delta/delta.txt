@@ -16511,7 +16511,7 @@ dishevel
 dilucidate
 disdainable
 diomedes
-disjuncts
+disjuncts 1
 dictated
 dehydrofreezing
 dethroning
