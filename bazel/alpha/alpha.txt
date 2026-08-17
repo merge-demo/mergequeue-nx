@@ -9526,7 +9526,7 @@ ajutment
 asterikos
 aspidate
 anargyroi
-ambassiate
+ambassiate 1
 alonzo 1
 althorn
 alticamelus
