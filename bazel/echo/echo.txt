@@ -14009,7 +14009,7 @@ exiling
 exsertile
 elderbrotherly
 extrasocial 1
-ectophyte
+ectophyte 1
 eshin
 enripen
 embittered
