@@ -5673,7 +5673,7 @@ enframed
 elaphebolion
 ethnarch
 eagres
-ellipsonic
+ellipsonic 1
 enfranchisements
 epididymis
 elaeagnaceous
