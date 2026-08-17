@@ -28962,7 +28962,7 @@ cricketers 1
 chuckler
 cicindelid
 countervengeance
-cigaret
+cigaret 1
 cricketlike
 coercibility
 crickle
