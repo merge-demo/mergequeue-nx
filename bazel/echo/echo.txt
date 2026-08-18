@@ -11847,7 +11847,7 @@ excalibur
 esophagectasia 1
 erythrophore
 euconic
-excandescent
+excandescent 1
 explemental 1
 erythrochroic
 endocrinopathy
