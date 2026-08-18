@@ -13954,7 +13954,7 @@ aboudikro
 amblyrhynchus
 algist 1
 apronlike
-antagonists
+antagonists 1
 antagonization
 aclu
 antiempiricism
