@@ -11853,7 +11853,7 @@ discurre
 dislikable
 discursify
 deplumed
-donatively
+donatively 1
 domineered
 dbl
 dissociableness
