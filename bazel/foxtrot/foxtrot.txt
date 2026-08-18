@@ -2579,7 +2579,7 @@ ferrocyanate
 ferroelectric
 fingerbreadth
 fattier
-fouty
+fouty 1
 franchiser
 fibrocytic
 ferrogoslarite
