@@ -9397,7 +9397,7 @@ borak
 befitting
 basichromatic 1
 bluegums
-belabours
+belabours 1
 braider
 biophotometer
 bullyhuff
