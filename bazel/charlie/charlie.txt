@@ -31385,7 +31385,7 @@ counterconquest
 chocked
 croutons
 curio
-curiolofic
+curiolofic 1
 culinarily
 chemotropic
 curiologically
