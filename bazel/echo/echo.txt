@@ -13984,7 +13984,7 @@ eyepoint
 equalising
 erythromania
 eisegetic
-encoignures
+encoignures 1
 embryo
 emboitement
 epitoniidae
