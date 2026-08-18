@@ -5846,7 +5846,7 @@ dasyure
 deprave
 disanagrammatize
 doxologizing
-dreidel
+dreidel 1
 dimagnesic
 depraver
 dragonfly
