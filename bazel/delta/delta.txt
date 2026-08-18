@@ -4902,7 +4902,7 @@ deigns
 diminuendo
 dialogist
 demonologer
-demonology
+demonology 1
 demonologically
 disluster
 densitometers
