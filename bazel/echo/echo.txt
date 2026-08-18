@@ -10972,7 +10972,7 @@ eperva
 euproctis
 endophasia
 excluder
-eoan
+eoan 1
 emydea
 estufa 1
 eupsychics 1
