@@ -10829,7 +10829,7 @@ ethnobiology
 eupatrids
 eluent
 exemplars
-enoptromancy
+enoptromancy 1
 explodes
 engine
 electrocuting
