@@ -1307,7 +1307,7 @@ caliber
 compulsatory
 calibers
 colunar
-calibrated
+calibrated 1
 calibrater
 calibrates
 cloison
