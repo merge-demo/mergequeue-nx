@@ -726,7 +726,7 @@ famp
 famuli
 frustrater 1
 fana
-feoffment
+feoffment 1
 fluxion
 feministics
 fragmentate
