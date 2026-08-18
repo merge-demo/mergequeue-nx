@@ -26474,7 +26474,7 @@ cotripper
 cotrustee 1
 cottiform
 couther 1
-cots
+cots 1
 cephalomelus
 cotset
 crub
