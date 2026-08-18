@@ -3093,7 +3093,7 @@ degradand
 delightfully 1
 defaces
 disennoble
-defacing
+defacing 1
 defacto
 defade
 dichlamydeous
