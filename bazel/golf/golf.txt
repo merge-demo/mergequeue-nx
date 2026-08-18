@@ -6695,7 +6695,7 @@ gymnoglossa
 genuflected
 goniatites
 garterless
-gainsayer
+gainsayer 1
 guttler
 grint
 gibbet
