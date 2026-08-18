@@ -2520,7 +2520,7 @@ anchoretic
 aconative
 acondylose
 amicable
-artisan
+artisan 1
 abeyant
 aconelline
 assentatory 1
