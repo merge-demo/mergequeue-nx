@@ -1635,7 +1635,7 @@ elchee
 exotoxin
 ehretiaceae
 env
-entrez
+entrez 1
 enterobacterium
 eyah
 embliss
