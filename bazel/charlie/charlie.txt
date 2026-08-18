@@ -7995,7 +7995,7 @@ clottedness
 chablis
 coelarium
 crannog
-chabouk
+chabouk 1
 crankshaft
 chabuk
 chabuks
