@@ -15979,7 +15979,7 @@ clerkess
 caligated
 cypraeid
 comprint
-carcinosis
+carcinosis 1
 clerkless
 cerecloths
 clerkliness
