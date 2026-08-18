@@ -25250,7 +25250,7 @@ chirurgic
 contradistinctively
 canonicate
 coryza
-cork
+cork 1
 corkage
 canoodler
 cocreates
