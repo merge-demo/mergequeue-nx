@@ -6466,7 +6466,7 @@ fernbird
 furiosa 1
 ferried 1
 fumagine
-fouquieriaceous
+fouquieriaceous 1
 flightful
 foulness
 fictor
