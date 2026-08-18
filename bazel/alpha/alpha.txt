@@ -670,7 +670,7 @@ artesian
 aborad
 aboral
 abord
-aboriginality
+aboriginality 1
 anhydrosis 1
 aborigines
 abort
