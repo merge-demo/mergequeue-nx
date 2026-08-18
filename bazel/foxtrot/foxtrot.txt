@@ -7716,7 +7716,7 @@ fishy
 foreignness
 foreimpressed
 firnismalerei
-foreinstruct
+foreinstruct 1
 fallal
 fatherland
 flyman
