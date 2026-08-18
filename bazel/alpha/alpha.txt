@@ -15446,7 +15446,7 @@ airliners
 alogical
 antimechanism 1
 antimechanistic
-apocopic
+apocopic 1
 aureolae
 antimechanistically 1
 aircrew 1
