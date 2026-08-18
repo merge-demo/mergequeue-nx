@@ -31493,7 +31493,7 @@ curricula 1
 curricularize
 cardiomyoliposis
 chid
-currier
+currier 1
 chirivita
 chogak
 couthiest
