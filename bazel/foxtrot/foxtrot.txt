@@ -11281,7 +11281,7 @@ flaxwife
 frigorify
 foregut
 femmes
-fogy
+fogy 1
 fiscalize
 flurrying
 footwear
