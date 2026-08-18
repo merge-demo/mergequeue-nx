@@ -23078,7 +23078,7 @@ caecocolic
 cottoneer
 cyanochlorous
 conspicuously
-cabalic
+cabalic 1
 conspiracy
 conspirant
 conspiration
