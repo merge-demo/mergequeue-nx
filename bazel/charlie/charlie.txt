@@ -8478,7 +8478,7 @@ champart
 cranching
 champe
 cayuvava
-champer
+champer 1
 cynegetic
 champerties
 chalaze
