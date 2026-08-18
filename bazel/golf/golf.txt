@@ -4991,7 +4991,7 @@ glandered
 global
 genially
 gangliest
-gateage
+gateage 1
 graunt
 grouselike
 gauging
