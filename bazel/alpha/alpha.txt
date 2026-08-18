@@ -9954,7 +9954,7 @@ accented 1
 antihelixes
 amazilia
 amazing
-antizymotic
+antizymotic 1
 allovers
 amazulu
 aphthongal
