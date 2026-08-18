@@ -418,7 +418,7 @@ bugles
 backpacked
 bibliophagic
 bidcock
-beamer
+beamer 1
 bromocamphor
 backpedal
 backpedaling
