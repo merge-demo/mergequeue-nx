@@ -13909,7 +13909,7 @@ cirripeds
 cynoid
 contributiveness
 coadjacently
-casusistry
+casusistry 1
 calliopes
 calombigas
 criminalities
