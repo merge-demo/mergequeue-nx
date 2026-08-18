@@ -1884,7 +1884,7 @@ evechurr
 endocarps
 einkorn
 einsteinian 1
-equatability
+equatability 1
 encomiast
 eyoty
 elapsed 1
