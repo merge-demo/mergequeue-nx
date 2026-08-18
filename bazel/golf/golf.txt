@@ -5570,7 +5570,7 @@ gymnocalycium 1
 gussies
 granuloblast
 globous
-georgical
+georgical 1
 gadus
 goffle
 gephyrophobia
