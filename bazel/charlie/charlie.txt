@@ -31540,7 +31540,7 @@ cratered
 cuproid
 cursorily
 crystallizability
-cursoriness
+cursoriness 1
 cursorious
 coffeecake
 cursorius
