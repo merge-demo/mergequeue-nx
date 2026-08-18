@@ -13143,7 +13143,7 @@ derelicta
 dogmatizing
 dispersing
 dynastid
-dispersonate
+dispersonate 1
 dysanagnosia
 dondia
 dismasting
