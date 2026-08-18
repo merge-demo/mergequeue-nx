@@ -9375,7 +9375,7 @@ compart
 chavicin
 chomp
 chiot
-chavicol
+chavicol 1
 cautelousness
 cowedly
 chaw
