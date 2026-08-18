@@ -26323,7 +26323,7 @@ celebratedness
 ceteosaur
 chalcomancy
 costovertebral
-costraight
+costraight 1
 cloudberries
 chasteness
 choleromania
