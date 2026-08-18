@@ -217,7 +217,7 @@ glagolitsa
 greys
 gooks
 girdling
-gags
+gags 1
 gonoecium
 guarder 1
 greatens
