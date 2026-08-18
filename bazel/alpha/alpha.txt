@@ -22811,7 +22811,7 @@ arousals
 astonished
 adsorbates
 atma
-atman
+atman 1
 acotyledon
 amazon
 aggregately
