@@ -2280,7 +2280,7 @@ electricize
 emphasizes
 electriferous
 energumen
-epitaphist
+epitaphist 1
 epilating
 elongated
 equally
