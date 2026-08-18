@@ -29259,7 +29259,7 @@ chondroma
 cutlas
 choices
 cryptobranchiate
-collides
+collides 1
 ciphered
 claquer
 calibrate
