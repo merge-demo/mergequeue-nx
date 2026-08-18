@@ -7846,7 +7846,7 @@ cervinae
 cosignatory
 cervixes
 cervoid
-cervuline
+cervuline 1
 cervus
 cesare
 cesareans
