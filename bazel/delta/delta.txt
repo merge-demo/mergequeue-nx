@@ -7563,7 +7563,7 @@ deuterosy
 drubber
 ducktail
 druidesses
-discs
+discs 1
 deuterotype
 displeasure
 deuterozooid
