@@ -11004,7 +11004,7 @@ aphrolite
 antilactase
 aromatizing
 acheat
-apoplectic
+apoplectic 1
 aoife
 atrichous
 autogeny
