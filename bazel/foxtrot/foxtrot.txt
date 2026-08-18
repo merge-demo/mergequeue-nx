@@ -4573,7 +4573,7 @@ fratricide
 fainaigued
 fisting
 faithfulness
-flattest
+flattest 1
 frictionize
 frutices
 flaunted
