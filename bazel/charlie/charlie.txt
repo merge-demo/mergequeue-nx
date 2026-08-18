@@ -1172,7 +1172,7 @@ chromophilic
 calculates
 calculatingly
 cony
-compeer
+compeer 1
 correlate
 calculational
 concaves
