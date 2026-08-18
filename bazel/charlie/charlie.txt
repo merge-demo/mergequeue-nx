@@ -21593,7 +21593,7 @@ callot
 condensary
 counteroffensives
 crustless
-condensaries
+condensaries 1
 condensates
 cultivars
 crick
