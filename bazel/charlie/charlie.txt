@@ -13453,7 +13453,7 @@ cautions
 consubstantialism
 cygnid
 commodore
-countersecure
+countersecure 1
 cygninae
 companionableness
 cygnus
