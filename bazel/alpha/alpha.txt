@@ -6736,7 +6736,7 @@ anthemene
 ainhum
 arrivederla
 arthropleure
-amortisable
+amortisable 1
 ainoi
 appellatory
 antioxygen
