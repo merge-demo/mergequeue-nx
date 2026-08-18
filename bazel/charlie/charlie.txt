@@ -9503,7 +9503,7 @@ checkerberries
 chorological
 checkerbloom
 calyciform
-checkery
+checkery 1
 checkering
 consignifying
 cataphysical
