@@ -12645,7 +12645,7 @@ essancia
 ergotize
 elateroid
 egurgitating
-excussio
+excussio 1
 exoenzyme
 enterobacterial
 exogamies
