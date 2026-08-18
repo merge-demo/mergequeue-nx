@@ -4438,7 +4438,7 @@ electrophysiologic
 excentrical
 endenizen
 extispices
-enthymeme
+enthymeme 1
 e
 espacement
 ejaculation
