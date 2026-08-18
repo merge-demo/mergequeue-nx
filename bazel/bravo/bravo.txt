@@ -6994,7 +6994,7 @@ besmudge
 beamless
 bronzite
 baalist
-bespouses
+bespouses 1
 boxhaul
 behaviorism
 boma
