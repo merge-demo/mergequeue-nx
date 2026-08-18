@@ -19742,7 +19742,7 @@ allelopathy
 ascriptive
 arithmocratic
 arithmograph
-arithmography
+arithmography 1
 azulejos
 aggressiveness
 arithmomancy
