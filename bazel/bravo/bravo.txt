@@ -3025,7 +3025,7 @@ borts
 buccinum
 branglement
 bopping
-burgesses
+burgesses 1
 bartizans
 beigel
 belee
