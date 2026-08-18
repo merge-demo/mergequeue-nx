@@ -17091,7 +17091,7 @@ deconcentrated
 dryfoot
 drift
 driftage
-deficient
+deficient 1
 decatyl
 diaboleptic
 detenebrate
