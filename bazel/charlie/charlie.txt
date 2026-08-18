@@ -22659,7 +22659,7 @@ crossgrainedness 1
 counterdecision
 ciderlike
 caseworms
-conocarpus
+conocarpus 1
 conocephalum
 conocuneus
 coderiving
