@@ -14869,7 +14869,7 @@ breadwinner
 beanpoles
 bloodthirstier
 breadwinning
-breakability
+breakability 1
 bilith
 brokers
 breakable
