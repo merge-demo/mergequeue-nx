@@ -6955,7 +6955,7 @@ eleganter 1
 extrapolations
 endarteria
 election
-entourage 1
+entourage 2
 empt
 enounces
 entozoologically
