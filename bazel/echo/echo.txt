@@ -4895,7 +4895,7 @@ exponentiations
 elemental
 effeminateness
 excludible
-explete
+explete 1
 enjamb
 encroachments
 epitaxic
