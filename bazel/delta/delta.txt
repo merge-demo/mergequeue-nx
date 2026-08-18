@@ -9359,7 +9359,7 @@ defalcates
 deneb
 dewax
 diplopia
-differently
+differently 1
 dinarchies
 differer
 differs
