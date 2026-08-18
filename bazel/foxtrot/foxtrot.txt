@@ -1201,7 +1201,7 @@ fears
 fascistization
 foxproof
 fountainlike
-fleckled
+fleckled 1
 fleckiness
 figury
 feinted
