@@ -5196,7 +5196,7 @@ guativere
 gracility
 geognosist
 gleamily
-gabble
+gabble 1
 gharial
 gleamingly
 garroters
