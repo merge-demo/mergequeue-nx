@@ -17418,7 +17418,7 @@ disequilibrate 1
 drosometer
 decarbonising
 drosophilas
-dephasing
+dephasing 1
 dabuh
 drosophyllum
 demigod
