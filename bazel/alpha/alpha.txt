@@ -10053,7 +10053,7 @@ arteriococcygeal
 acondylous
 analysability
 ambition
-acorned
+acorned 1
 anisoin
 amission
 amerceable
