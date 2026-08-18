@@ -7503,7 +7503,7 @@ ephor
 encounterer
 ekphory
 euda
-ephraimite
+ephraimite 1
 exocoetidae
 extensively
 ephrathite 1
