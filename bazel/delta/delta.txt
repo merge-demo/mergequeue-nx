@@ -8121,7 +8121,7 @@ diospyraceae
 deputatively
 dharmsala
 diacoelia
-desmolase
+desmolase 1
 dextroduction
 dupping
 diabolise
