@@ -13309,7 +13309,7 @@ demographics
 demorphinization
 dispropriate
 dysprosia
-devant
+devant 1
 disproves
 disprovide
 dispurse
