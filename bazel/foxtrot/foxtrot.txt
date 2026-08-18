@@ -4376,7 +4376,7 @@ forfeitable
 frate
 fibroplastic 1
 flyte
-figureheads
+figureheads 1
 flavo
 furied
 frogfishes

@@ -15836,7 +15836,7 @@ dorsipinal
 diablerie
 dorsocaudad
 dorsocentral
-diminishing
+diminishing 1
 dayglow
 disfrancnise
 disaccredit
