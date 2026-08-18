@@ -2192,7 +2192,7 @@ coffeecup
 campyloneuron
 cakey
 campylotropal
-campylotropous
+campylotropous 1
 campimeter
 conches
 configuring
