@@ -6134,7 +6134,7 @@ diabantite
 deservedness
 derats
 deratted
-defatigation
+defatigation 1
 deratting
 draperies
 dissector
