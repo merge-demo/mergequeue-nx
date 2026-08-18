@@ -8554,7 +8554,7 @@ enorganic
 easts
 exclusively
 epichoristic
-equative
+equative 1
 electre
 eburneous
 etherial
