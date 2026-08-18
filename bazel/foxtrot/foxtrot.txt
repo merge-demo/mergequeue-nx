@@ -11595,7 +11595,7 @@ faradic
 fargite
 fussing
 fontinal 1
-fideicommissary
+fideicommissary 1
 forced
 fraternal
 febrifugal
