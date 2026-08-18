@@ -26150,7 +26150,7 @@ consociative
 cloudlet
 cosmologically
 convocant
-compages
+compages 1
 chiromancist
 cercopidae
 cosmonautical
