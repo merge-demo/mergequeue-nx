@@ -2518,7 +2518,7 @@ endostylar
 epilepsia
 enmeshed
 ensate
-eparcuale
+eparcuale 1
 epitomisation
 eulytite
 equitriangular
