@@ -8120,7 +8120,7 @@ conjugant
 chaffwax
 chafing
 chafted
-cudgeller
+cudgeller 1
 chagan
 chagga
 chagigah
