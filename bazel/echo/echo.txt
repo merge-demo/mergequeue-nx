@@ -6671,7 +6671,7 @@ enterologic
 epanastrophe
 exhaled
 enteromegalia
-enteroneuritis
+enteroneuritis 1
 effectuates
 entomophthoraceous
 engrafted
