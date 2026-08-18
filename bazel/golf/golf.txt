@@ -8219,7 +8219,7 @@ gris
 gasconading
 genevois 1
 graphemics
-graphically
+graphically 1
 glutamates
 glorioso
 graphiological
