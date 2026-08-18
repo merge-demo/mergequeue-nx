@@ -5301,7 +5301,7 @@ biscuitmaker
 bezzants 1
 bipinnate
 bugbite
-beginning
+beginning 1
 bemirement
 beginnings
 begird
