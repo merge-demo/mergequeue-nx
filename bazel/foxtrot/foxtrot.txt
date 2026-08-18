@@ -1816,7 +1816,7 @@ fractureproof
 fissiparous
 forane 1
 forgets
-featured
+featured 1
 fluidify
 featureful
 featurelessness
