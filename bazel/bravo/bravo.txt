@@ -10641,7 +10641,7 @@ bandspreading
 boardinghouse
 bernese
 bollies
-bishopscap
+bishopscap 1
 bleaky
 buist
 bleakness
