@@ -16782,7 +16782,7 @@ disorganized
 drawback
 drawbar
 disposability
-decolorate
+decolorate 1
 demitube
 demirobe
 dyscrasial
