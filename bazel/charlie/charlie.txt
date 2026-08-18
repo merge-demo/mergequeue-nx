@@ -29191,7 +29191,7 @@ comparator
 cityless
 chanfron
 colicolitis
-cryoscopic
+cryoscopic 1
 cryoscopies
 cymbaler
 constipate
