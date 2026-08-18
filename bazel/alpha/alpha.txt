@@ -19649,7 +19649,7 @@ asswaging
 amboinese
 agglutinins
 arioian
-assailed
+assailed 1
 arion
 ariose
 arrowless
