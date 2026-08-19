@@ -5005,7 +5005,7 @@ aminophenol
 aerophagia
 arecaidine
 alphonsism
-aerophane
+aerophane 1
 appease 1
 assumptions
 abnormalist
