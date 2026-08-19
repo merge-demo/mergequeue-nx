@@ -6454,7 +6454,7 @@ fluotantalic
 forweary
 flummery
 filth
-folkcraft
+folkcraft 1
 frenchize
 fordy
 fellatrix
