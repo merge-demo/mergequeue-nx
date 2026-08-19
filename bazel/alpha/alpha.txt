@@ -14911,7 +14911,7 @@ arnoldist
 aburagiri
 ankaratrite 1
 ambassadress
-afflictive
+afflictive 1
 anticlerical
 anticlericalism
 acidophilous
