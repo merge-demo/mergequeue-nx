@@ -6551,7 +6551,7 @@ entangledness
 endotrachelitis
 ehlite
 exhauster
-enwrapt
+enwrapt 1
 earsore
 epaenetic
 entanglements
