@@ -2106,7 +2106,7 @@ expropriatory
 enent
 emma
 emblematist
-enclosable
+enclosable 1
 enterolysis
 elasmothere 1
 euphoniously
