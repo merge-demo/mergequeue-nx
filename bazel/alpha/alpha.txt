@@ -16985,7 +16985,7 @@ annoyously
 adorned
 americanizer
 apneumona
-apneumonous
+apneumonous 1
 agrammatical
 apneusis
 apnoea
