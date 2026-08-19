@@ -2532,7 +2532,7 @@ candleholder
 candlelight
 candlelighter
 chaloth
-confraternities
+confraternities 1
 candlelighting
 cohusband
 carvels
