@@ -10374,7 +10374,7 @@ astuteness
 apitpat 1
 angiotonase
 autonym
-aneled
+aneled 1
 antidancing
 audio
 americanizing
