@@ -11547,7 +11547,7 @@ evocating
 ensign
 enkerchief
 esterlin
-encia
+encia 1
 executry
 euphoric
 ess 1
