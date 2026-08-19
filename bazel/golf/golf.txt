@@ -1766,7 +1766,7 @@ gyrofrequencies
 grivation
 glacify
 groupoids
-gastropneumonic
+gastropneumonic 1
 governmentish
 gootee
 gingery
