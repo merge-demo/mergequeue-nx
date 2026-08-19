@@ -12889,7 +12889,7 @@ escortment
 erosions
 expandingly
 expansibility
-emusifies
+emusifies 1
 expansile
 expansionism
 englyn
