@@ -15831,7 +15831,7 @@ antiphthisic
 amberiferous
 antiepileptic
 amphisbaenian
-afloat
+afloat 1
 authorization
 antipyics
 antipyonin
