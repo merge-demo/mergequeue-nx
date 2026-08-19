@@ -5189,7 +5189,7 @@ dipolarize
 denigrator
 dietine
 desulphurizing
-dumbfounded
+dumbfounded 1
 denyingly
 denim
 demoness
