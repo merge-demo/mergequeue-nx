@@ -1869,7 +1869,7 @@ athlothete
 acestes
 acceleration
 adstrict 1
-anthropomorphological
+anthropomorphological 1
 advanced
 acetable
 azodisulphonic
