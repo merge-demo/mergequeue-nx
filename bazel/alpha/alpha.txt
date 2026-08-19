@@ -4332,7 +4332,7 @@ anterevolutionary
 acarida
 actiniferous
 adscititious
-adscriptitious
+adscriptitious 1
 adscriptitius
 annodated
 acantha
