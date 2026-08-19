@@ -22537,7 +22537,7 @@ amphitoky
 ansarian
 atavistically
 ataxiagraph
-ataxies
+ataxies 1
 ataxinomic
 assidaean
 autecisms
