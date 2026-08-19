@@ -11060,7 +11060,7 @@ disappear
 divorcees
 disbowelling
 distended
-decrepitly
+decrepitly 1
 dullsville
 deadpan
 disappointedly
