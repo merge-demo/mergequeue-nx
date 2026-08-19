@@ -8202,7 +8202,7 @@ atavist
 aln
 alterne
 ahush
-antarctalia
+antarctalia 1
 alias
 aleutians
 assassins
