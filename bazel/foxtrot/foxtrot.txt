@@ -7617,7 +7617,7 @@ fescenninity
 ferganite
 forefeelingly
 frogging 1
-foreffelt
+foreffelt 1
 folioed
 fimbrillae
 flotten
