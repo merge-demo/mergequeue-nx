@@ -22009,7 +22009,7 @@ confirmor
 canastas
 confirms
 ceraunite
-confiscatable
+confiscatable 1
 cynebot
 confiscate
 countertrend
