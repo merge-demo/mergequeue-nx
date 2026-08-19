@@ -9594,7 +9594,7 @@ belshazzaresque
 bisetose
 blubber
 begulfed
-bisetous
+bisetous 1
 bracketing
 bisexed
 biles
