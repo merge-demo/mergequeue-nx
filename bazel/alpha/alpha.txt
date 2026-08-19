@@ -5993,7 +5993,7 @@ aclys
 aggrievance
 axweed
 agatize
-aggrieve
+aggrieve 1
 atake
 autoerotically
 aggrievedly
