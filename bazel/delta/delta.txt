@@ -2520,7 +2520,7 @@ disaccommodation
 dove
 dubonnet
 deactivating
-declarations
+declarations 1
 declarative
 deligation
 demieagle
