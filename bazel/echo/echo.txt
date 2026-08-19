@@ -10320,7 +10320,7 @@ expendable
 excogitating
 equipostile
 epifocal
-electuaries
+electuaries 1
 exosmic
 extemporise
 exaggerative
