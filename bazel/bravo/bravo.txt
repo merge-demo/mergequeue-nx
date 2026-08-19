@@ -6647,7 +6647,7 @@ bargeboard
 barbarious
 beriberis
 bevesseled
-beerier 1
+beerier 2
 berycid
 busyhead
 bovld
