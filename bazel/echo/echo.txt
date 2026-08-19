@@ -5096,7 +5096,7 @@ etudes
 enunciation
 escrod
 elevatingly
-eavesdrop
+eavesdrop 1
 eclecticism
 endearingly
 exemptible
