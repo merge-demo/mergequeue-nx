@@ -6757,7 +6757,7 @@ enveloping
 esterifies
 euhemerise
 echidnae
-epitaxially
+epitaxially 1
 eyelids
 erythraemia
 enthronizing
