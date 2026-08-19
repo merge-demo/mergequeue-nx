@@ -1687,7 +1687,7 @@ fearingly
 ferineness
 fearless
 forehammer
-frangible
+frangible 1
 ferrament
 fleeching
 fingertip
