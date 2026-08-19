@@ -2573,7 +2573,7 @@ encopreses
 extremes
 exploitatively
 enchanters
-etrogs
+etrogs 1
 electron
 elastins
 exenteration
