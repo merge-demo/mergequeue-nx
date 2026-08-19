@@ -13341,7 +13341,7 @@ extrametaphysical
 encowl
 enough
 erithacus 1
-entitled
+entitled 1
 exceedingly
 enrough
 entreated
