@@ -10581,7 +10581,7 @@ grommets 1
 goads
 garnisher
 grilly
-gymnogene
+gymnogene 1
 geologic
 gelds
 gens
