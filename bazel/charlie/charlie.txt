@@ -6038,7 +6038,7 @@ cleg
 cyanide 1
 catholyte
 cathouse
-carryable
+carryable 1
 cathouses
 crownling
 cathrin
