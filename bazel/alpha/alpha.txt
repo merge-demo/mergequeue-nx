@@ -12216,7 +12216,7 @@ autobiographic
 anchieutectic
 abience
 arteriectasia
-affectuous
+affectuous 1
 allbone
 afacing
 autositic
