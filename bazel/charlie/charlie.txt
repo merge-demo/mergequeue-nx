@@ -11923,7 +11923,7 @@ cuds
 calculabilities
 crestfallenness
 cerites
-cohanim
+cohanim 1
 cruces
 cosmochemistry
 choreoid
