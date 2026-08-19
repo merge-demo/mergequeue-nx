@@ -16809,7 +16809,7 @@ clownade
 clownage
 clownery
 capitative
-clowneries
+clowneries 1
 clownheal
 coadjutrices
 clownship
