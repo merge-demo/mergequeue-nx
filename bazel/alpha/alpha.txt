@@ -4543,7 +4543,7 @@ accumulable
 adversities
 abranchial
 aliptes
-axotomous
+axotomous 1
 advertence
 advertently
 adverting
