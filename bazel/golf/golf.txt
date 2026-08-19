@@ -3042,7 +3042,7 @@ geoponics
 galvayning
 grammatical
 graspable
-glitteringly
+glitteringly 1
 gibbed
 gyrostatically
 gromet
