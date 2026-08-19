@@ -6151,7 +6151,7 @@ deregulated
 dodonean
 discrowning
 deregulation
-deregulationize
+deregulationize 1
 dicolic
 deregulations
 dichromatism
