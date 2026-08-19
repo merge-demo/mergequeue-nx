@@ -10229,7 +10229,7 @@ geissospermin
 gainsays
 glaucous 1
 gowpin
-gweduck
+gweduck 1
 gobbet
 gunless
 guillotinist
