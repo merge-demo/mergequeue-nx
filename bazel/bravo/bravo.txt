@@ -3648,7 +3648,7 @@ backsettler
 batophobia
 benzdioxazine
 balloonery
-bepierce
+bepierce 1
 buffoon
 batrachian
 bifrontal
