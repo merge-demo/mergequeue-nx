@@ -29431,7 +29431,7 @@ curtelace
 crispin
 culicidal
 crispine
-crisping
+crisping 1
 crispins
 citramide
 cremometer
