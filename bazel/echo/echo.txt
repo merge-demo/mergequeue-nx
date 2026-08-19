@@ -8941,7 +8941,7 @@ esophagitis
 exothecium
 extrasensuous
 emotiomotor
-extrovertive
+extrovertive 1
 erigerons
 echoers
 enables
