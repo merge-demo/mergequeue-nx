@@ -15627,7 +15627,7 @@ boner
 bailage 1
 bezette
 buskle
-butat
+butat 1
 brittleness
 batrachotoxin
 belder
