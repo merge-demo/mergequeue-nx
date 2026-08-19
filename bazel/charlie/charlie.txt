@@ -1443,7 +1443,7 @@ cymes
 calyptoblastea
 chapiters
 calyptoblastic
-criticize
+criticize 1
 calyptorhynchus
 calyptraea
 cradleman
