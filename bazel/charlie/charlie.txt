@@ -21918,7 +21918,7 @@ confessedly
 confesses
 coiners
 confessingly
-confessional
+confessional 1
 confessionalism
 confessionally
 chirographary
