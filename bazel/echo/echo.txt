@@ -378,7 +378,7 @@ experts
 electrepeter
 entelodont
 eighteenfold
-educ
+educ 1
 exoneural
 enterorrhea
 epicalyxes
