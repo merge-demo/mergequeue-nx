@@ -14772,7 +14772,7 @@ brightener
 bedimplies
 braxy
 braxies
-brunt
+brunt 1
 brazenfacedness
 bicaudal
 bargh
