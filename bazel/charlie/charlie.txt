@@ -5785,7 +5785,7 @@ calipered
 catalyzator
 circumspective
 catechistic
-catechistical
+catechistical 1
 catechists
 catechization
 catechizer
