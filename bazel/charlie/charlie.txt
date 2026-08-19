@@ -24608,7 +24608,7 @@ cypripedium 1
 copingstone
 chaplainry
 copiosity
-chanteyman
+chanteyman 1
 copious
 copiousness
 cloners
