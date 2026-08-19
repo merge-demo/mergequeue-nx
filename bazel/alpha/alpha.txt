@@ -11676,7 +11676,7 @@ anthropomorph
 arrage
 abastard
 assuror
-anaemotropy
+anaemotropy 1
 adrad
 anaeretic
 ambulacrum
