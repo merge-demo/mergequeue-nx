@@ -31203,7 +31203,7 @@ cuprobismutite
 cryolite
 corrosive
 cuproiodargyrite
-chalque
+chalque 1
 cuproplumbite
 cuproscheelite
 cytoplastic
