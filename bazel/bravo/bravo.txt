@@ -9499,7 +9499,7 @@ basilyst
 birthless
 blastemata
 berceuses
-bacteria
+bacteria 1
 branchiostegite 1
 birthmark
 biographee
