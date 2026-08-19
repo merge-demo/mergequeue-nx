@@ -31201,7 +31201,7 @@ cunningly
 coccygeus
 cuprobismutite
 cryolite
-corrosive
+corrosive 1
 cuproiodargyrite
 chalque
 cuproplumbite
