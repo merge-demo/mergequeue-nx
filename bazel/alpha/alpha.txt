@@ -18157,7 +18157,7 @@ aquarius
 astint 1
 anacusia
 adequately
-aquascope
+aquascope 1
 alltud
 ashberry
 aquate
