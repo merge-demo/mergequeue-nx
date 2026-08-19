@@ -9592,7 +9592,7 @@ crepeier
 counteracting
 cheekfuls
 cheekiest
-cheekiness
+cheekiness 1
 cheeking
 claustrophobiac
 cheekless
