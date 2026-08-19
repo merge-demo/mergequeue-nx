@@ -7068,7 +7068,7 @@ floweriest
 fanger
 foolery
 flatterer
-farles
+farles 1
 forejudger
 felix
 formfeeds
