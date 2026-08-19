@@ -18577,7 +18577,7 @@ coil
 curtis
 conchylia
 coiled
-crusie
+crusie 1
 coiler
 coeducational
 combusted
