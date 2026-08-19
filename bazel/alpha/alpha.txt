@@ -22284,7 +22284,7 @@ astragalotibial
 athermic
 anisilic
 astragalus
-astrain
+astrain 1
 antimissile
 apostils
 ansation
