@@ -7240,7 +7240,7 @@ diamantiferous
 deadlight
 disparatum
 daguilla
-darklings
+darklings 1
 delubrum
 deverbative
 desolately
