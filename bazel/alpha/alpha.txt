@@ -5233,7 +5233,7 @@ almsman
 abnegative 1
 affiance
 angakok
-antievolutionistic
+antievolutionistic 1
 affiants
 affiches
 affidare
