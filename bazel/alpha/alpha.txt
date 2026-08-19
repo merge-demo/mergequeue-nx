@@ -16952,7 +16952,7 @@ affectedness
 angliae
 amphorette
 aplanatic
-aplanatism
+aplanatism 1
 ately
 airways
 abortus
