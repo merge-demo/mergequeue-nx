@@ -4751,7 +4751,7 @@ exponentially
 encysting
 eugenol
 emptiest
-encysts
+encysts 1
 evenest
 eyepieces
 euphrosyne
