@@ -4699,7 +4699,7 @@ flopwing
 fangs 1
 fummel
 furtherer
-flamboyancy 1
+flamboyancy 2
 fluorene
 fistlike
 fizgig
