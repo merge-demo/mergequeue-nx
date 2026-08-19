@@ -421,7 +421,7 @@ disobedient
 dairymaids 1
 devaluate
 dogfighting
-dithered
+dithered 1
 dorsoanterior
 drinker
 dairywomen
