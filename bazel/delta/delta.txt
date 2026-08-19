@@ -5850,7 +5850,7 @@ dreidel
 dimagnesic
 depraver
 dragonfly
-dewaxing
+dewaxing 1
 deadtongue
 dags
 dentaries
