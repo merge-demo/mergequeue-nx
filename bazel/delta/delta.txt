@@ -3931,7 +3931,7 @@ dinsome
 dearomatize
 dogfoot
 deference
-dekes
+dekes 1
 derivationally
 drisheen
 douser
