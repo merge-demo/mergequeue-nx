@@ -1487,7 +1487,7 @@ faultiest
 fishmeal
 fairgoer
 fila
-flutings
+flutings 1
 furibund
 flunkeyish
 furanose
