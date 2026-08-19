@@ -10169,7 +10169,7 @@ fluttered
 flobby
 falcer
 forinsecal
-friulian
+friulian 1
 fibroadenia
 frizzy
 fizzwater

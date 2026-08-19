@@ -741,7 +741,7 @@ doubtless
 depeche
 dandier
 drybrained
-dreaminess
+dreaminess 1
 detachs
 dandify
 dimmit
