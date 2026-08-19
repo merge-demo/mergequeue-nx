@@ -7116,7 +7116,7 @@ gopherberries
 garbologist
 goatherd
 gothics
-glaucously
+glaucously 1
 getting
 gatter
 grottoed
