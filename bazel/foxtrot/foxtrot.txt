@@ -2061,7 +2061,7 @@ felahin
 fissipes
 fendillation
 favissae 1
-fusulas
+fusulas 1
 fieldfare
 frory
 forensically
