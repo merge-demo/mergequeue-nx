@@ -3681,7 +3681,7 @@ adenopodous
 adenosarcomata
 adiaphoristic
 artist
-acuating
+acuating 1
 anureses
 arrant
 assurge
