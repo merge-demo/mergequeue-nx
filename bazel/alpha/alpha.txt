@@ -22052,7 +22052,7 @@ astartidae
 actings
 archaicism
 asyngamic
-anaplasmosis
+anaplasmosis 1
 astatines
 astatize
 alejandro
