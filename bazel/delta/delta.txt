@@ -7695,7 +7695,7 @@ discission
 densimetrically
 devil
 disciplinary
-devildom
+devildom 1
 druery
 dealerdom
 deviled
