@@ -17247,7 +17247,7 @@ beclouding 1
 ballastage
 borley 1
 basseting
-bubingas
+bubingas 1
 blepharolithiasis
 bumblepuppy
 bedriveled
