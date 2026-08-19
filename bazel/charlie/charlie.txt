@@ -12957,7 +12957,7 @@ cyanhydric
 cyanhydrin
 citrean
 cyanid
-collects
+collects 1
 casel
 circumhorizontal
 catamenial
