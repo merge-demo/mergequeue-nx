@@ -570,7 +570,7 @@ halrdagin
 halrduhglpy
 halrsmmsztv
 halrvu
-halsal
+halsal 1
 halsdprm
 halsm
 halt
