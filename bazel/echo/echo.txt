@@ -7208,7 +7208,7 @@ entender
 epistasis
 euphonym 1
 enchesoun
-ensample 1
+ensample 2
 enzootically
 evenlight
 exposed
