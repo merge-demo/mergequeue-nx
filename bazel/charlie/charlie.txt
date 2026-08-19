@@ -22174,7 +22174,7 @@ confusions
 confusticate
 clapmatch
 confustication
-confutability
+confutability 1
 confutator
 confutes
 cong
