@@ -10700,7 +10700,7 @@ electrotypic
 evenworthy
 ecossaise
 egosyntonic
-etiquet
+etiquet 1
 endfile
 excusable
 eugonic
