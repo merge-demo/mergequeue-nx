@@ -4789,7 +4789,7 @@ adenoses
 ahimsa
 atrichia
 apalachee
-autarky
+autarky 1
 acutifoliate
 antimonarchist
 aerifies
