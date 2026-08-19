@@ -1402,7 +1402,7 @@ accessary
 accessaries
 anesthesiometer
 accessarily
-amoebae
+amoebae 1
 accessariness
 arcubalist
 amidothiazole
