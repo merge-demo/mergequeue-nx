@@ -5920,7 +5920,7 @@ gewgawish 1
 grackle
 grogshops
 goofs
-gambirs
+gambirs 1
 glamourizer
 gluepot
 gimballed
