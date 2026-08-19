@@ -18390,7 +18390,7 @@ concomitate
 cognisant
 cognises
 coarct 1
-countergambit
+countergambit 1
 cognised
 creepy
 chatchkas
