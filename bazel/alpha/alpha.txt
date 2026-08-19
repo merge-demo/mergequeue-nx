@@ -5765,7 +5765,7 @@ afeared
 agapeti
 agapetid 1
 archivault
-agennetic
+agennetic 1
 aciculate
 atoning
 autocoder
