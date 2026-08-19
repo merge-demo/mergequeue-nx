@@ -3902,7 +3902,7 @@ baxtone
 brachyskelic
 boughten
 bazars
-bint
+bint 1
 brockage
 bazooka
 blunge
