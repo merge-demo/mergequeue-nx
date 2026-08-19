@@ -5147,7 +5147,7 @@ expositoriness
 evanishment
 endoconidia
 edificate
-epiplanktonic
+epiplanktonic 1
 ejectives
 encrustment
 elegits
