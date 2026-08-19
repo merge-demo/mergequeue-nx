@@ -11704,7 +11704,7 @@ friarhood
 far
 foretellableness
 flugelhorn
-fasciola
+fasciola 1
 furphy
 fernsick
 frameless
