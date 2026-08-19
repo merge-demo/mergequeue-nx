@@ -18532,7 +18532,7 @@ drivage
 diagraphic
 desulfurization
 darbs 1
-disrates
+disrates 1
 durians
 differ
 duricrust
