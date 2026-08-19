@@ -3767,7 +3767,7 @@ funnily
 flippantness
 faultlessly 1
 fortressed
-frizettes
+frizettes 1
 furoate
 failure
 fibula
