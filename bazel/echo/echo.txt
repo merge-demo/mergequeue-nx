@@ -5665,7 +5665,7 @@ epicritic 1
 enforth
 estrangle
 eigenvalue
-epithi
+epithi 1
 ensnarers
 exhibitorial
 exquisitism
