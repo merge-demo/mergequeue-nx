@@ -28357,7 +28357,7 @@ crawdad
 crawdads
 collector
 crawfishing
-crawfoots
+crawfoots 1
 corviform
 crawl
 crawled
