@@ -29541,7 +29541,7 @@ criticalness
 coendured
 centervelic
 colophonist
-crabbed
+crabbed 1
 criticaster
 criticasterism
 criticastry
