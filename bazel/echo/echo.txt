@@ -4422,7 +4422,7 @@ ensigncies
 endosmometric 1
 eubacteria
 ecumenist
-elaeis
+elaeis 1
 ebriously
 encapsulation
 emitted
