@@ -9938,7 +9938,7 @@ dissinew
 downcourt
 dodecatoic
 dipneustal
-dogmata
+dogmata 1
 diminisher
 dezinc
 diminishingly
