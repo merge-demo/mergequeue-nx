@@ -5848,7 +5848,7 @@ geroderma
 graffito
 glycolaldehyde
 gedact
-galvanoplastic
+galvanoplastic 1
 grundel
 gadger
 gladify 1
