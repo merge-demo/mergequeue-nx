@@ -25151,7 +25151,7 @@ aberuncate
 axites
 assault 1
 anacanthini
-accommodatingly
+accommodatingly 1
 antimonious
 axled
 apophylactic
