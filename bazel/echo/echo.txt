@@ -6343,7 +6343,7 @@ emporium
 ergotin
 eschar
 euchred
-expiatory
+expiatory 1
 ensphered
 eyespot
 enseal
