@@ -14554,7 +14554,7 @@ divisionary
 duplicately
 disposing
 domine
-detents
+detents 1
 divisions
 divisive
 divisively
