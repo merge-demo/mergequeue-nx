@@ -6640,7 +6640,7 @@ empyreumata
 enantiomeric
 encraty
 elephantlike
-enzymologies
+enzymologies 1
 enterohydrocele
 evictee
 emetocathartic
