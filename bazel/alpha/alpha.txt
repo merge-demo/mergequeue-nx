@@ -6870,7 +6870,7 @@ albacora
 awry
 airn
 anthropomorphical
-auripuncture
+auripuncture 1
 amalrician
 acetone
 airplaner
