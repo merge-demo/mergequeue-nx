@@ -10973,7 +10973,7 @@ disaffirmance
 dheri
 dictyosiphon
 disaffirmation
-decidedness
+decidedness 1
 disaffirming
 debussed
 dermococcus
