@@ -13548,7 +13548,7 @@ engl
 esociform
 evildoer
 exserted
-empanoply
+empanoply 1
 embroidery
 eateries
 exsibilation
