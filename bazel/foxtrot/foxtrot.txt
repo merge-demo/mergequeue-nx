@@ -6061,7 +6061,7 @@ frizz
 flunkeyize
 farting
 flavorfulness
-fungiform
+fungiform 1
 firmarius
 freebooted
 fraternate
