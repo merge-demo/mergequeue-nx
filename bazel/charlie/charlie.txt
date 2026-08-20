@@ -17551,7 +17551,7 @@ coccaceous
 coccal
 conducible
 coccerin
-corr
+corr 1
 coccic
 coccidae
 cookies
