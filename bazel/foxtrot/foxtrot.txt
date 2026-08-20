@@ -11002,7 +11002,7 @@ fumed
 fluidiser
 frigging
 freeport
-freshly
+freshly 1
 fortilage
 fordable
 feuillemorte
