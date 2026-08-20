@@ -2155,7 +2155,7 @@ endleaf
 enfoil
 exterminatress 1
 enanthematous
-epoxy
+epoxy 1
 esophagostenosis
 eyestring
 ensorceling
