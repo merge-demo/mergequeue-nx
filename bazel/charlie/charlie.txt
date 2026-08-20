@@ -3640,7 +3640,7 @@ caractacus
 caradoc 1
 carafes
 craspedote
-censors
+censors 1
 coenoblastic
 cattleyas
 confucianist
