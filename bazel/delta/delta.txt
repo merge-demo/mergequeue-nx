@@ -5659,7 +5659,7 @@ dandilly
 depictors
 depicture
 distract
-debe
+debe 1
 diopsidic
 depigmentate
 depigmentation
