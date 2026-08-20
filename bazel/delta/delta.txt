@@ -12084,7 +12084,7 @@ disenthrone
 dicalcic
 denizened
 demerits
-disentitled
+disentitled 1
 didelphine
 disjune
 disentitlement
