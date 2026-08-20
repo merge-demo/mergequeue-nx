@@ -28934,7 +28934,7 @@ compensating
 cribbings
 cribbiting
 cholericly
-criticist
+criticist 1
 cribellum
 cribose
 cribrate
