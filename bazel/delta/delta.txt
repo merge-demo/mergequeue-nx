@@ -7884,7 +7884,7 @@ dewcap
 disbudder
 devocalised
 driveways
-dewclaws
+dewclaws 1
 diaphonia
 dites
 dewdamp
