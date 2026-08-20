@@ -5104,7 +5104,7 @@ destitute
 deperition
 ductings 1
 dravya
-dipsomania
+dipsomania 1
 dafla
 dendrocoelan
 dendrocoele
