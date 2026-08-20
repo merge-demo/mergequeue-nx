@@ -8584,7 +8584,7 @@ allegorised
 anisogenous 1
 ademption
 allasch
-anticus
+anticus 1
 ammanite
 anecdota
 agnoites
