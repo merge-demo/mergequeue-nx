@@ -4187,7 +4187,7 @@ attributiveness
 autocarpous
 apophthegmatic
 ablare
-adoptian
+adoptian 1
 anacoustic
 angustifoliate
 arylide
