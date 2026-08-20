@@ -3460,7 +3460,7 @@ caproin
 camptodrome
 causeuse
 comprehends
-craniovertebral 1
+craniovertebral 2
 capsella
 calyptras
 capshore
