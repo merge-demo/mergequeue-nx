@@ -12146,7 +12146,7 @@ erpetologist
 eg
 eyelike
 epural
-excursionist
+excursionist 1
 excursiveness
 enterate
 excurvated
