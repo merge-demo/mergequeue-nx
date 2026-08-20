@@ -29566,7 +29566,7 @@ cultivatable
 cabals
 chopine
 critiqued
-critize
+critize 1
 cosmic
 critling
 coadunating
