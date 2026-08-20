@@ -8190,7 +8190,7 @@ chairmanships
 checkoff
 conficient
 chairmender
-chairpersons
+chairpersons 1
 chairway
 cryptogamian
 conjunctivae
