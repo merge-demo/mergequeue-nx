@@ -17775,7 +17775,7 @@ arthrosclerosis 1
 astrier
 anchoring
 appals
-antistatic
+antistatic 1
 afterhours
 appointer
 agapornis
