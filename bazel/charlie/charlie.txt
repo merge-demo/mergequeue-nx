@@ -4671,7 +4671,7 @@ cronying
 carotinoid
 corespondency
 carotol
-chalcedonian
+chalcedonian 1
 carouba
 caroubier
 conjurership
