@@ -11520,7 +11520,7 @@ elegancies
 epicurean
 elastometer
 emcee
-enforced
+enforced 1
 encheiria
 erotylid
 exhaling
