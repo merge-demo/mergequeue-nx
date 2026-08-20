@@ -21876,7 +21876,7 @@ abutted
 assish
 averrhoa
 assishly
-aculeated
+aculeated 1
 adapted
 aplacophoran
 asbestous
