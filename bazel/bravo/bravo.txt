@@ -17335,7 +17335,7 @@ bunchier
 bunchily
 bunchiness
 buncoing
-berthing
+berthing 1
 brucellas
 blotches
 basilosaurus
