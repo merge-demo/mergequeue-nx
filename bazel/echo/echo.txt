@@ -7531,7 +7531,7 @@ ephedras
 equiradial
 epiboulangerite
 episomes
-efficacity
+efficacity 1
 entelechial
 epidermically
 extinguised
