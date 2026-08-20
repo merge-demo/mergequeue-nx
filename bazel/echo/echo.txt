@@ -2760,7 +2760,7 @@ encoil
 excrescently
 ergastic
 erythropoiesis
-elegised
+elegised 1
 elegising
 egards
 esterizing
