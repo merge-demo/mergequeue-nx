@@ -4399,7 +4399,7 @@ enarthrodia
 engagers
 excretes 1
 embryons
-evacuates
+evacuates 1
 enations
 euripos
 enbrave
