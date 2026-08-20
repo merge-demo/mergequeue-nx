@@ -11564,7 +11564,7 @@ cholecyanine
 couchee
 cholecystectasia
 cholecystectomy
-cingulum
+cingulum 1
 clammier
 chimachima
 countermeasure
