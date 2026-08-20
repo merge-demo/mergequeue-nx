@@ -10774,7 +10774,7 @@ gibblegable
 glycyl
 gutt 1
 gunny 1
-gerenuk
+gerenuk 1
 ghole 1
 genialness
 gonadectomy
