@@ -13367,7 +13367,7 @@ anywhence
 appurtenance 1
 anywhither
 anywither
-anhalonium
+anhalonium 1
 areolar
 androgenic
 arcosolium
