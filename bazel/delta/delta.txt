@@ -4679,7 +4679,7 @@ disintoxicate
 demythologization
 diplomatize
 demythologizer
-duodecimal
+duodecimal 1
 discretionally
 dees 1
 delectableness
