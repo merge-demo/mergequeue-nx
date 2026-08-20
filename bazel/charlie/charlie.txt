@@ -24451,7 +24451,7 @@ cavefishes
 cooree
 coorie
 convoker
-coories
+coories 1
 coos
 counterpractice
 coosers
