@@ -9653,7 +9653,7 @@ acrotarsial
 austerity
 aluminums
 altruist
-alumish
+alumish 1
 alumite
 abstractly
 adagio
