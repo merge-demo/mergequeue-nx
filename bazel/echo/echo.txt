@@ -10977,7 +10977,7 @@ emydea
 estufa 1
 eupsychics 1
 eurafric
-epigastric
+epigastric 1
 eurasianism
 eremites
 endocervicitis
