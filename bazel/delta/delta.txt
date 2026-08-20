@@ -6042,7 +6042,7 @@ dyophysitic
 deceitfully
 denunciative 1
 disillusion
-dammit
+dammit 1
 dolesomeness
 desmotrope
 deflates
