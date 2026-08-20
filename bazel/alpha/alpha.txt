@@ -10359,7 +10359,7 @@ arrayed
 americanese
 aerobacteriology
 antihemoglobin
-academician
+academician 1
 aethers
 americanisms
 americanistic
