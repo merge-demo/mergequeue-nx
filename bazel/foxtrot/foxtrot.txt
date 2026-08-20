@@ -572,7 +572,7 @@ fussed
 folklorism
 forjudger
 falloff
-flamier
+flamier 1
 fdubs
 frequentative
 frappe
