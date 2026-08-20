@@ -6752,7 +6752,7 @@ enthral
 eschewers
 enthralldom 1
 exurb
-enormously
+enormously 1
 enveloping
 esterifies
 euhemerise
