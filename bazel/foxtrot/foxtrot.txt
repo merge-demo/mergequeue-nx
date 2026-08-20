@@ -2921,7 +2921,7 @@ frumpiness
 fantastical
 flutiest
 fanciable
-fumigations 1
+fumigations 2
 fortressing
 footmark
 frontogenesis
