@@ -11021,7 +11021,7 @@ frivolist
 fossilizes
 fillets 1
 fumigated
-fierce
+fierce 1
 flutidae
 femororotulian
 floriferously
