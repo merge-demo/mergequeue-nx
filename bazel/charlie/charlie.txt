@@ -28083,7 +28083,7 @@ cranch
 chondrigen 1
 crandall
 curded
-cynicism
+cynicism 1
 crandallite
 cuspidine
 coastwise
