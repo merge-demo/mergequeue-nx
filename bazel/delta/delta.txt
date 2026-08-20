@@ -16387,7 +16387,7 @@ devourment
 delocalized
 dispellable
 dogtrotted
-downgrowth
+downgrowth 1
 deducive
 dultie
 drawtube
