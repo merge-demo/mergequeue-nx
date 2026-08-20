@@ -8580,7 +8580,7 @@ acetoxim
 allantoxaidin
 anthropoclimatology
 actinouranium
-allegorised
+allegorised 1
 anisogenous 1
 ademption
 allasch
