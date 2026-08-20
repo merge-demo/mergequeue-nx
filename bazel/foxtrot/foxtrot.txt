@@ -5024,7 +5024,7 @@ filet 1
 fluctuable
 faceable
 frowsier
-feathers
+feathers 1
 faineantise
 falsificate
 formalisms
