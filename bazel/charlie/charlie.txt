@@ -19866,7 +19866,7 @@ chaussee
 comically
 critical
 comicalness
-cubited
+cubited 1
 comices
 cognominal
 comicocynical
