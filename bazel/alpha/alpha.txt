@@ -6605,7 +6605,7 @@ altitudinous
 alectoriae
 anchoresses
 aphroditeum
-antsy
+antsy 1
 aiglets
 affirms
 aigre
