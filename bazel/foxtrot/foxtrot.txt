@@ -9124,7 +9124,7 @@ floridly
 floozies 1
 fr
 flintlike
-furdle
+furdle 1
 funambulated
 faulkner
 frizzers
