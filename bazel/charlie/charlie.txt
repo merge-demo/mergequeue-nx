@@ -25349,7 +25349,7 @@ cornigeous
 corneosiliceous
 corner
 cornerback
-cornerer
+cornerer 1
 cornering
 crang
 cornerstone
