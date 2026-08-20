@@ -2026,7 +2026,7 @@ agglutinating
 acropathology
 amplexus
 aveny
-awakeable
+awakeable 1
 amritas
 amidoxy
 achagua
