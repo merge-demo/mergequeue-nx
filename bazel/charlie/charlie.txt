@@ -5830,7 +5830,7 @@ cultivated
 cochlearia
 chemicopharmaceutical
 cuemanship
-cleaves
+cleaves 1
 categorization
 coryzal
 corona
