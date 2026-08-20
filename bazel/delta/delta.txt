@@ -5158,7 +5158,7 @@ denes
 deices
 defer
 daughterlike
-deading
+deading 1
 dismastment
 densitometric
 deniably
