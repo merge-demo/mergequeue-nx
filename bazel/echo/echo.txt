@@ -874,7 +874,7 @@ exemptionist
 euxanthic
 ectoparasitica
 exhumating
-expediencies
+expediencies 1
 economically
 ectopy
 engulfed
