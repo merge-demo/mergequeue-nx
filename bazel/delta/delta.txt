@@ -14831,7 +14831,7 @@ distinctness
 distributive
 diallage
 doctorless 1
-diffusibly
+diffusibly 1
 dimissorial
 disorderly
 doctress
