@@ -21655,7 +21655,7 @@ assamites 1
 acetamide
 atrophiated
 amblyopsidae
-assart
+assart 1
 antistriker
 assassinate
 azoeosin
