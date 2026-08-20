@@ -2656,7 +2656,7 @@ esoterica
 estadel
 eiry
 entad
-exemplarity
+exemplarity 1
 ethnocentrism
 electrosmosis
 excelling
