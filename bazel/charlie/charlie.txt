@@ -7899,7 +7899,7 @@ catafalque
 cestidae
 cestodes
 copatron
-coronize
+coronize 1
 capitulary
 carouses
 cestoidean
