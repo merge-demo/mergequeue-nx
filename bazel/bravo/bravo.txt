@@ -5832,7 +5832,7 @@ berseem
 bittock
 bribeworthy
 baigneuse
-bengaline
+bengaline 1
 bellyful
 bestrews
 boor
