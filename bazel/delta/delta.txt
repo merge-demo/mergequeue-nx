@@ -2119,7 +2119,7 @@ decameron
 digraph
 decamethonium
 decametric
-decanal
+decanal 1
 decancellate
 dominator
 decancellated
