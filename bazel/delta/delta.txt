@@ -1755,7 +1755,7 @@ disaccord
 deathtime
 diverticular
 dhotis
-diphenan
+diphenan 1
 dividend
 diphyllobothrium
 deathtrap
