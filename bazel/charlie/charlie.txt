@@ -30129,7 +30129,7 @@ caprinic
 crownless
 crownlike
 crownment
-clavolae
+clavolae 1
 complementing
 crownpiece
 coincidency
