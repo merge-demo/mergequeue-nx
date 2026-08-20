@@ -8489,7 +8489,7 @@ draconitic 1
 downgrades
 diamondbacked
 debaucher
-declassify
+declassify 1
 dunites
 desiringly
 denigrating
