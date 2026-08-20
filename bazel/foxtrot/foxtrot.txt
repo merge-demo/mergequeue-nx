@@ -4011,7 +4011,7 @@ forfeited 1
 flunk
 fingerprint
 ferric
-furazolidone
+furazolidone 1
 fluorosis
 fishery
 forleft
