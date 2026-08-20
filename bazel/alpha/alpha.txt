@@ -13977,7 +13977,7 @@ antanaclasis
 antelopes
 antebrachia
 antanagoge
-aneurysmally
+aneurysmally 1
 alcyonaria
 antanandro
 actressy
