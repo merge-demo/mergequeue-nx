@@ -1915,7 +1915,7 @@ chaumer
 cambuca
 cambuscan
 came
-camel
+camel 1
 comforted
 cameleer
 culverins
