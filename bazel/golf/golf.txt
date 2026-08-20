@@ -394,7 +394,7 @@ goys
 glassiest
 goalposts
 gilsonite
-gorgon
+gorgon 1
 geostrategy
 germinogony
 gradeless
