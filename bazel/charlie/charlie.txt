@@ -8680,7 +8680,7 @@ chanties
 chantilly
 conformity 1
 connubially
-campagnols
+campagnols 1
 chantingly
 carman
 commonest
