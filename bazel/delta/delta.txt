@@ -13896,7 +13896,7 @@ demiurgic
 disinhabit
 denshare
 dramatics
-dokhma
+dokhma 1
 deles
 distillator
 danebrog
