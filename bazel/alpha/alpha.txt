@@ -7825,7 +7825,7 @@ achromaturia 1
 adequative
 alchemically
 aflow
-aortosclerosis
+aortosclerosis 1
 auriculoid
 amarantus
 ale
