@@ -8460,7 +8460,7 @@ decrowns 1
 daimonology
 decise
 deration
-dibutyl
+dibutyl 1
 didymis
 diamat
 dermochrome
