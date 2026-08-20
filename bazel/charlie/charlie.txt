@@ -8399,7 +8399,7 @@ chambers
 chambertin
 chambioa
 chambray
-copei
+copei 1
 colloquist
 calyciferous
 comport
