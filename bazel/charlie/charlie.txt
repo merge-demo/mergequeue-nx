@@ -17821,7 +17821,7 @@ codelinquent
 coden
 codens
 carburating
-cruise
+cruise 1
 coder
 counterponderate
 crible
