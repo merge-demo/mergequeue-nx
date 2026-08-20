@@ -17039,7 +17039,7 @@ dressline 1
 dumas
 divinityship
 discumber
-denning
+denning 1
 draftily
 dobbed
 dissents
