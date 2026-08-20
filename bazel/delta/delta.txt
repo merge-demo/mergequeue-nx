@@ -11791,7 +11791,7 @@ delivering
 discretive
 discretiveness
 dousers
-discreteness
+discreteness 1
 dandification
 demirep
 diplococcoid
