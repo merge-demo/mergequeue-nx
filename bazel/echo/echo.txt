@@ -13030,7 +13030,7 @@ ergotic
 estafette
 electrocauteries
 ethos
-elites
+elites 1
 engrapple
 enhazard
 entrusted
