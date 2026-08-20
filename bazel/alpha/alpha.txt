@@ -1542,7 +1542,7 @@ alkoranic
 abidden
 autacoids
 accomplisht
-accordance
+accordance 1
 atomity
 accordancy
 agglutinoid
