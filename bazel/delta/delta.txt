@@ -13683,7 +13683,7 @@ diatryma
 dogberries
 dispersals
 differential
-deceivingly
+deceivingly 1
 dissipaters
 digestedly
 disseating
