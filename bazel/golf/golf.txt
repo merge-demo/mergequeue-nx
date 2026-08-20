@@ -3236,7 +3236,7 @@ gilgul
 goldenwing
 galoot
 greatish
-getatability
+getatability 1
 gally
 graffage
 gazement
