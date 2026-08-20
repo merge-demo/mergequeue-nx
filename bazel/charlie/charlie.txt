@@ -7642,7 +7642,7 @@ coiffing
 curettes
 concessionist
 centralizer
-confinements
+confinements 1
 ceremony
 chrysoeriol
 content
