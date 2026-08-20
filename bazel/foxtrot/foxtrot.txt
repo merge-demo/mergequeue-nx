@@ -5951,7 +5951,7 @@ foolhardily
 falseface
 freer
 fraudlessness
-freehand
+freehand 1
 feretories
 floodlight
 forthinking
