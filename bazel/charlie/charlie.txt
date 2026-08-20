@@ -2366,7 +2366,7 @@ canap
 consummator
 cabriole
 cubitocutaneous
-celtologist
+celtologist 1
 compliments
 canapina
 canards
