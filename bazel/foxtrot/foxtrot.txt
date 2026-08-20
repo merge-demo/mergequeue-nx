@@ -7995,7 +7995,7 @@ fleying
 forecooler
 frontispiecing
 fantasmagorically
-foreslow
+foreslow 1
 frumpled
 flatteur
 fowent
