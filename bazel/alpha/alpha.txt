@@ -16102,7 +16102,7 @@ antiscorbutical
 acrosphacelus
 antiscrofulous
 antiseismic
-antiselene
+antiselene 1
 acroarthritis
 antisemitic
 aphthartodocetism
