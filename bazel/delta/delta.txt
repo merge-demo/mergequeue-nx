@@ -7252,7 +7252,7 @@ dicotyl
 dimetric
 detenue
 decussorium
-desulfurize
+desulfurize 1
 detenues
 dephlegmator
 deter
