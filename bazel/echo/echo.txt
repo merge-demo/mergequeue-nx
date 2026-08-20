@@ -11125,7 +11125,7 @@ eiderdown
 ebullioscopy
 erotetic
 euthycomi
-exploitable
+exploitable 1
 enol
 eurasia
 exsiliency
