@@ -1045,7 +1045,7 @@ farmership
 flypaper
 formicarian
 frieda
-focalization
+focalization 1
 flopper
 felspathose
 foined
