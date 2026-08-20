@@ -14268,7 +14268,7 @@ corollike
 circumnavigating
 circumnavigation
 clefted
-chickaree
+chickaree 1
 coelia
 circumnavigator
 cyclometrical
