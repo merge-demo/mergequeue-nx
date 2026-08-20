@@ -28776,7 +28776,7 @@ crescented
 clocked
 compensate
 coacervated
-crescentiform
+crescentiform 1
 chinking
 chylifactive
 crescenting
