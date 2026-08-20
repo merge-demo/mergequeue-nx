@@ -8680,7 +8680,7 @@ allelism
 axonemal
 argyrite
 almes
-alternationist
+alternationist 1
 allelomorphic
 allelotropy
 allelotropic
