@@ -9186,7 +9186,7 @@ chasseing
 chassepot
 chassepots
 chiarooscurist 1
-chasseurs
+chasseurs 1
 creatine
 chassignite
 coachful
