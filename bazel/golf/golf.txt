@@ -9109,7 +9109,7 @@ garotte
 governableness 1
 grumose
 guttation
-geophagist
+geophagist 1
 guillemet
 grindable
 gibbose
