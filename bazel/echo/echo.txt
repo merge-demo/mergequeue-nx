@@ -9957,7 +9957,7 @@ ertebolle
 eschars
 ennew
 ecclesiae
-estrif
+estrif 1
 estrin
 elk
 estrums
