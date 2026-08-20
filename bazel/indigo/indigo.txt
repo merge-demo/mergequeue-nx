@@ -11212,7 +11212,7 @@ iszhsmkn 1
 iszi
 iszicaylrypr
 iszjpysr
-iszlxbaa
+iszlxbaa 1
 iszmbx
 isznvysk
 iszpd
