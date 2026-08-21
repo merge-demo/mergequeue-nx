@@ -3241,7 +3241,7 @@ capitalists
 capitalizable 1
 cubatures
 coremium
-capitalized
+capitalized 1
 capitalizers
 catecheses
 creophagism
