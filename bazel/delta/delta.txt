@@ -2680,7 +2680,7 @@ decompoundable
 diffractional
 decompoundly
 downstairs
-desmoma
+desmoma 1
 decompress
 decompresses
 detectaphone
