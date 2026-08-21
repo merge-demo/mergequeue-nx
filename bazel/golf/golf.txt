@@ -7313,7 +7313,7 @@ gyrostatic
 genet 1
 gutturally
 guze
-gravelling
+gravelling 1
 gangly
 goar
 gymnosophy
