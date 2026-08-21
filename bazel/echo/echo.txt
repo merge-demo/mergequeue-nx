@@ -9985,7 +9985,7 @@ endamnify
 ensures
 etamins
 enamdar 1
-entepicondylar
+entepicondylar 1
 etape
 escruage 1
 etapes
