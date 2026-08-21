@@ -8610,7 +8610,7 @@ alleghenian
 aspiringness
 anta
 allegiance
-allegiancy
+allegiancy 1
 admonitor
 apodeipna
 apoharmine
