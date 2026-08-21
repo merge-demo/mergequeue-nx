@@ -3303,7 +3303,7 @@ caplin
 caplins
 coherald
 capmaking
-combatter
+combatter 1
 capnodium
 capnoides
 clipping
