@@ -8832,7 +8832,7 @@ galleys
 gentianaceous
 gallus 1
 globate
-griege
+griege 1
 gm
 gunne
 gadabout
