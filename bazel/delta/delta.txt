@@ -12087,7 +12087,7 @@ demerits
 disentitled
 didelphine
 disjune
-disentitlement
+disentitlement 1
 dudishly
 drepanaspis
 disentombment
