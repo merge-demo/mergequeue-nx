@@ -4369,7 +4369,7 @@ demaree
 dying
 detenu
 deciduate
-demarked
+demarked 1
 depredating
 dentately
 divorceable
