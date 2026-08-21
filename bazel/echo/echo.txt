@@ -6806,7 +6806,7 @@ ecclesioclastic
 entoblastic
 entobronchium
 eelgrass
-ellinge
+ellinge 1
 entocyemate
 everett
 efoliolate
