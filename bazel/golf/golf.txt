@@ -5569,7 +5569,7 @@ grugrus
 gymnocalycium 1
 gussies
 granuloblast
-globous
+globous 1
 georgical
 gadus
 goffle
