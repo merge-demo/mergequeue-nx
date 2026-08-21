@@ -10253,7 +10253,7 @@ exactingly
 eudorina
 epicurish
 estafet
-evectic
+evectic 1
 economical
 ethyne
 elucidatory
