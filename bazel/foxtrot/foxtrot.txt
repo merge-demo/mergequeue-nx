@@ -11751,7 +11751,7 @@ factorage
 fumados
 fuzees
 faultfinders
-fuzzier
+fuzzier 1
 fuzziest
 forstraught
 fertilitate
