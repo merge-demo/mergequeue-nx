@@ -14274,7 +14274,7 @@ circumnavigator
 cyclometrical
 coitophobia
 cannabin
-costal
+costal 1
 cardioids
 copplecrown
 canalside
