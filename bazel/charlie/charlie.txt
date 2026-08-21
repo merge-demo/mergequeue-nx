@@ -3464,7 +3464,7 @@ craniovertebral 1
 capsella
 calyptras
 capshore
-capsian
+capsian 1
 collectress
 ceruses
 chullpa
