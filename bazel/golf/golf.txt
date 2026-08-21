@@ -10496,7 +10496,7 @@ geerah
 gramenite
 gregal
 genizero
-geyserite 1
+geyserite 2
 gaggers
 gynecic
 garbardine
