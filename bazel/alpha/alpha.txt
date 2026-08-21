@@ -24640,7 +24640,7 @@ ambassador
 antischolastically
 avena
 agouti
-acclaim
+acclaim 1
 accessibility
 arbutuses
 archineuron
