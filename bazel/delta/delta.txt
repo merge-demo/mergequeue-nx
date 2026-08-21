@@ -14764,7 +14764,7 @@ docimastical
 decimation
 docimology
 docious
-deflowering
+deflowering 1
 docity
 discords
 deplaster
