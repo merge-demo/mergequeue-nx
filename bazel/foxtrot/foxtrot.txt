@@ -11683,7 +11683,7 @@ frigorific 1
 feru
 feminines
 felids
-fusarial
+fusarial 1
 forelands 1
 finikin
 flare
