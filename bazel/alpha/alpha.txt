@@ -15983,7 +15983,7 @@ autoloading
 amphispore
 antirabies
 aponeurositis
-anisomelia
+anisomelia 1
 antirachitically
 acubens
 arecolidine
