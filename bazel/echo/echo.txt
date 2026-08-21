@@ -5199,7 +5199,7 @@ enounced
 elephants
 electrology
 economists
-entocoele
+entocoele 1
 ergotist
 enterovirus
 eastings
