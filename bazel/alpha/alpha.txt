@@ -7558,7 +7558,7 @@ acetal 1
 aquamanale
 artificiality
 amphipodal
-amercer
+amercer 1
 alcahests
 apertion
 alcaics
