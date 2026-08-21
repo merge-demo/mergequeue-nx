@@ -2742,7 +2742,7 @@ foliolate
 fiercer
 fragmentarily
 fellinic
-fesses
+fesses 1
 flaunche
 facetiation
 friendlily
