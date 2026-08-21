@@ -4540,7 +4540,7 @@ encephalomyocarditis
 emancipate
 enactive
 emerita
-ephorate
+ephorate 1
 encephalopathia
 encephalophyma
 ethynylation
