@@ -9238,7 +9238,7 @@ brighter
 bipyramid
 bring
 bipyridyl
-biangulated
+biangulated 1
 bubale
 broadsides
 bacterioidal
