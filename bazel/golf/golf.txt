@@ -7378,7 +7378,7 @@ gossipped
 glochidial 1
 gossips
 gestor
-glomerule
+glomerule 1
 gilthead
 glyptograph
 gallach
