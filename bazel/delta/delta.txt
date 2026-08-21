@@ -14834,7 +14834,7 @@ doctorless 1
 diffusibly
 dimissorial
 disorderly
-doctress
+doctress 1
 due 1
 discombobulation
 drafted
