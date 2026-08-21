@@ -2007,7 +2007,7 @@ goosetongue
 glyconian
 gleefully
 gynaecea
-goosewing
+goosewing 1
 gaspingly
 galleass
 goutify
