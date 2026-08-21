@@ -2269,7 +2269,7 @@ agronomics 2
 aciculum
 awning
 albarello
-aluminous
+aluminous 1
 adjectitious
 attempers
 acidaspis
