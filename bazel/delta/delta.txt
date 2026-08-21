@@ -6092,7 +6092,7 @@ diastasic
 dysmenorrhoea
 dream
 dactyliographic
-dequeues
+dequeues 1
 der
 deboites
 dendrometer
