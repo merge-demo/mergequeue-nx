@@ -4128,7 +4128,7 @@ cichlids
 cardiomegalia
 caffa
 clerihew
-cubed
+cubed 1
 chancellor
 cardinalities
 cardinally
