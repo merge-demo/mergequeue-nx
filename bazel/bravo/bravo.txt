@@ -12475,7 +12475,7 @@ bonify
 bdls
 betaines
 brawniness
-bondstone
+bondstone 1
 burntness
 bather
 bagpiped
