@@ -5115,7 +5115,7 @@ grenadine
 goldeneye
 greesagh 1
 gte
-glathsheimr
+glathsheimr 1
 ginnel
 gourmander
 glycocholic
