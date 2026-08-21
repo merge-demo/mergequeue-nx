@@ -10057,7 +10057,7 @@ dedal
 dogfought
 definitization
 digoneutic
-dynamitard
+dynamitard 1
 disqualify
 denitrify
 diana
