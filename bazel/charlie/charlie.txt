@@ -4077,7 +4077,7 @@ cardialgy
 caryl
 coevals
 centaurian
-cardialgia
+cardialgia 1
 cirrostome
 calla
 cardiameter
