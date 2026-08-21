@@ -13553,7 +13553,7 @@ embroidery
 eateries
 exsibilation
 evadable
-exsiccant
+exsiccant 1
 exsiccatae
 elucidate 1
 exsiccating
