@@ -6485,7 +6485,7 @@ descants
 discourtesies
 diastatic 1
 denunciatory
-dime
+dime 1
 daubingly
 dorsifixed
 disencumberment
