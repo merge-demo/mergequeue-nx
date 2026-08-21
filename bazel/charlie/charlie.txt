@@ -11705,7 +11705,7 @@ chomps
 contabescent
 cuffle
 commissionary
-chondral
+chondral 1
 chondrarsenite
 cholesteric
 chondre
