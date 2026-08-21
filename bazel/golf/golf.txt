@@ -425,7 +425,7 @@ galbanums
 genophobia
 groomishly
 gimcrackiness
-galcha
+galcha 1
 growl 1
 garnishees
 grapeys
