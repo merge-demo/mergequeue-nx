@@ -18654,7 +18654,7 @@ coinsuring
 cointense
 codesigns
 countermeasures
-clearheaded
+clearheaded 1
 crafty
 conourish
 corporales
