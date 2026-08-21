@@ -5269,7 +5269,7 @@ clavierists
 chromomeric
 cassegrainian
 casseroling
-carinule
+carinule 1
 cataleptic
 conduced
 cuculine
