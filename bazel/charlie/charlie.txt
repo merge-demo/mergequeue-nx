@@ -14732,7 +14732,7 @@ coursy
 cowering
 cityfied
 citifying
-cityfolk
+cityfolk 1
 churned
 citigradae
 cigale
