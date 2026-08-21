@@ -136,7 +136,7 @@ geryonid
 guelf
 gadwalls
 girth
-gigantology
+gigantology 1
 gaelic
 gynostegia
 gs
