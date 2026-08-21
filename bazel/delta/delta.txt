@@ -6285,7 +6285,7 @@ dermatopathic
 davoch
 dodecanesian
 dermatophyte
-disarming
+disarming 1
 decarboxylation
 dehydrates
 dehydrators
