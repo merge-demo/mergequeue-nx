@@ -8415,7 +8415,7 @@ fluoroscopes
 fullerboard
 folksy
 formalesque
-foistiness
+foistiness 1
 flatfootedly
 freshmanic
 formulize
