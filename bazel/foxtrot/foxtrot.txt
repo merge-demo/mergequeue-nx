@@ -1855,7 +1855,7 @@ febriphobia
 februarius
 flemishing
 fringefoot 1
-fencibles
+fencibles 1
 fielden
 fiveling
 fiances
