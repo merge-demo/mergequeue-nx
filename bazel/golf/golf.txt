@@ -5049,7 +5049,7 @@ grutched
 gelechia
 guards
 gaedown
-glycogen
+glycogen 1
 gerefa
 gastrohypertonic
 grizzlers
