@@ -8205,7 +8205,7 @@ ahush
 antarctalia
 alias
 aleutians
-assassins
+assassins 1
 amora
 alibied
 ambiverts
