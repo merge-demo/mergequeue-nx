@@ -11063,7 +11063,7 @@ circuminsular
 compander
 chitarroni
 clitoris
-cyclicly
+cyclicly 1
 coalize
 chitimacha
 chitimachan
