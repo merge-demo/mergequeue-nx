@@ -665,7 +665,7 @@ ditroite
 damon
 damosel
 drachms
-divorcement
+divorcement 1
 decapitalize
 damped
 desquamated
