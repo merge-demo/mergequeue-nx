@@ -4715,7 +4715,7 @@ designingly
 daybreak
 datiscaceous
 demivirgin
-demivol
+demivol 1
 disbend
 deutencephalic
 dendrolene
