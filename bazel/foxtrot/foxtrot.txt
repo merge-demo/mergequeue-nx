@@ -2210,7 +2210,7 @@ febricitation
 farraginous
 freyja
 fantasmagoria
-fixe
+fixe 1
 fibrinopurulent
 fogged
 feminal 1
