@@ -2612,7 +2612,7 @@ atheist
 agapeic
 allocated
 auxoflore
-abutters
+abutters 1
 acquire
 antescript
 asiden
