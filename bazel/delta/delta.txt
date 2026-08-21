@@ -11114,7 +11114,7 @@ dulled
 dorhawk
 dotless
 dissertator
-disarticulating
+disarticulating 1
 disarticulation
 detruded
 disarticulator
