@@ -10321,7 +10321,7 @@ excogitating
 equipostile
 epifocal
 electuaries 1
-exosmic
+exosmic 1
 extemporise
 exaggerative
 ethonomics
