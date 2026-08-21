@@ -9437,7 +9437,7 @@ allodies
 armbone
 anemones
 apicad
-angiosclerotic
+angiosclerotic 1
 autocinesis
 alterable
 acatery
