@@ -11990,7 +11990,7 @@ dewater
 dilacerate 1
 deducing
 deleading
-diseme
+diseme 1
 dacelonine
 dermatomyoma
 disdainful
