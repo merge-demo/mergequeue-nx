@@ -2391,7 +2391,7 @@ acinetiform
 amarin
 acaricidal
 acinic
-aciniform
+aciniform 1
 anatomicophysiological
 aggrate
 acinus
