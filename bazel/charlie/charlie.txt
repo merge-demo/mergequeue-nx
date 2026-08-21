@@ -5702,7 +5702,7 @@ catatonic 1
 coeloglossum
 countersignal
 catawampous
-catawamptiously
+catawamptiously 1
 catawampus
 cenogenetically
 catberry
