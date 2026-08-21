@@ -9301,7 +9301,7 @@ dekaliters
 disploded 1
 deobstruent
 dietic
-decolorant
+decolorant 1
 dietitians
 dtset
 diplomat 1
