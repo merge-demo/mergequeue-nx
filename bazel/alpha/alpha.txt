@@ -17044,7 +17044,7 @@ alumian
 artily
 alcid
 angulus
-addy
+addy 1
 arthrotropic
 apocopes
 apocrenic
