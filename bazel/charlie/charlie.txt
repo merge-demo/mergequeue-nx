@@ -29444,7 +29444,7 @@ cystogenous
 companionway
 clagging
 crissal
-chromodiascope
+chromodiascope 1
 chaetetidae
 chylaqueous
 crisscrossed
