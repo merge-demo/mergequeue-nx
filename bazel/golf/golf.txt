@@ -924,7 +924,7 @@ glycaemia
 grumousness
 glucosemia
 gawkishness
-gatewise
+gatewise 1
 gashed
 gibboseness
 guelphism
