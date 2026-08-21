@@ -13367,7 +13367,7 @@ distributively
 daguerreotypes
 disporting
 discanting
-diasyrm
+diasyrm 1
 doublehorned
 disquieted
 dehydrogenised
