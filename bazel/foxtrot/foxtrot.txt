@@ -2171,7 +2171,7 @@ frontiers
 folkmoot
 falsities
 felonwort
-falutin
+falutin 1
 flatterdock
 fraudproof
 fligger
