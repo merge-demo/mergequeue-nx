@@ -4539,7 +4539,7 @@ carnation
 carnationist
 carnations
 carnauba
-carnaubas
+carnaubas 1
 carneau
 carnegie
 carnegiea
