@@ -9774,7 +9774,7 @@ daggerboard
 disulfoxide
 dogfishes
 domino
-dclass
+dclass 1
 dilettanti
 decriminalizing
 dilettantism
