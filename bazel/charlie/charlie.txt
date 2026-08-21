@@ -29306,7 +29306,7 @@ calcify
 cathetometer
 calvinize
 cryptodire
-cryptodirous
+cryptodirous 1
 cryptodouble
 cryptogam
 chilitis
