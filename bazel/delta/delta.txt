@@ -11952,7 +11952,7 @@ disacidified
 draftee
 disembarking
 denominationally
-disbloom
+disbloom 1
 disembarks
 dentifrices
 degum
