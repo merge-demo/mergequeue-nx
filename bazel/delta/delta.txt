@@ -12967,7 +12967,7 @@ daughterkin
 dactylitis
 disordering
 downwith
-decasyllables
+decasyllables 1
 disordinance
 disordinate
 devastator
