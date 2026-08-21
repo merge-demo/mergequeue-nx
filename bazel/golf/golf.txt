@@ -2950,7 +2950,7 @@ gyniatry
 goldurnedest 1
 grazable
 gulph
-gosh
+gosh 1
 gastroscopic
 gooseflower
 grotty
