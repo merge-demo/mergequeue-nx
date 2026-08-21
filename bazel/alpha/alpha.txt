@@ -10649,7 +10649,7 @@ archiepiscopality
 amylolysis
 antitragic
 accusator 1
-amylom
+amylom 1
 aquarid
 amyloplast
 appertaining
