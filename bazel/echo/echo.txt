@@ -9331,7 +9331,7 @@ encrusted
 erugos
 escapage
 eruptible 1
-eruption
+eruption 1
 eruptional
 establishing
 ellen
