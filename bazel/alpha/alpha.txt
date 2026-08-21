@@ -12324,7 +12324,7 @@ antipestilent
 academised
 autotoxicity
 argentum
-ambay
+ambay 1
 amiranha
 andamenta
 allopatric
