@@ -10366,7 +10366,7 @@ chilies
 cahoots 1
 chief
 chiefage
-chiefery
+chiefery 1
 cyatholith
 chiefest
 cervalet
