@@ -4956,7 +4956,7 @@ eyelight
 emporetic
 eurytomid
 emulsifiers
-earnestful
+earnestful 1
 ephemerally
 endearedness
 enterocele
