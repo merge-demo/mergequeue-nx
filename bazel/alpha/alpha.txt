@@ -10732,7 +10732,7 @@ adsorptively
 absinth
 alumetize
 animosities
-anabolitic
+anabolitic 1
 antaphrodisiac
 agrammaphasia
 alevins
