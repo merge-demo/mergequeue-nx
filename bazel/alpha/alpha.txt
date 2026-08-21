@@ -9072,7 +9072,7 @@ actinomycetaceae
 alcahest
 alloxan
 absterged
-alloxans
+alloxans 1
 arsenicalism
 alloxantin
 anthracoid
