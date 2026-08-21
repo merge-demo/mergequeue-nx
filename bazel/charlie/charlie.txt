@@ -8198,7 +8198,7 @@ chairwarmer
 chairwomen
 cyanocitta
 chaiseless
-chaises
+chaises 1
 comfortabilities
 circumbendibuses
 chaitra
