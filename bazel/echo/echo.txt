@@ -2115,7 +2115,7 @@ emulge
 excretory
 elastica
 extrapolator
-elastically
+elastically 1
 eurycephalous
 edenite
 exudes
