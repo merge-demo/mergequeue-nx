@@ -24602,7 +24602,7 @@ amantadine
 associateship 1
 avalanches
 acrologic
-actless
+actless 1
 assortive
 aquaplaner
 absolve

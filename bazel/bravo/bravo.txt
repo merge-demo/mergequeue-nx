@@ -2868,7 +2868,7 @@ boskage 1
 biform
 bashawism
 buddage
-barrage
+barrage 1
 barnmen
 banger
 brushland
