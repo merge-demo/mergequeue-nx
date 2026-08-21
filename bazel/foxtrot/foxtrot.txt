@@ -1901,7 +1901,7 @@ feta
 fleeceless
 fremescent
 flitched
-fainly
+fainly 1
 filicologist
 flowerlessness
 fanatics 1
