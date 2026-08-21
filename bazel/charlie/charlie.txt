@@ -11723,7 +11723,7 @@ crotalism
 cirrhotic 1
 chondrioma
 churlhood
-chondriomere
+chondriomere 1
 chondriosphere
 connaturally
 cacophony
