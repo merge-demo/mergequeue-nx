@@ -6694,7 +6694,7 @@ ceilings
 ceilingwards
 copiability 1
 celtophobia
-ceilometer
+ceilometer 1
 couac
 ceylonite
 ceils
