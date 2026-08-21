@@ -11438,7 +11438,7 @@ frigidarium
 firebase
 fiducially
 fluviose 1
-falteringly
+falteringly 1
 furrily
 firefly
 frae
