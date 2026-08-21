@@ -2556,7 +2556,7 @@ collaborated
 candleshine
 chaucerism
 candleshrift
-capitalizations
+capitalizations 1
 cecidiology
 committeewoman
 chinol
