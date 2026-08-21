@@ -6774,7 +6774,7 @@ finder
 farls 1
 flukiest
 falciform
-fass
+fass 1
 founding
 fitcher
 fold
