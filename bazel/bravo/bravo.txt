@@ -3452,7 +3452,7 @@ bucklandite
 bibliolatrous
 bathylite
 bovine
-basts
+basts 1
 banuyo
 basural
 bovarism
