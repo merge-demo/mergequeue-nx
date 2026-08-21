@@ -10673,7 +10673,7 @@ amines
 avoy
 asok
 autogenously
-amphistylar
+amphistylar 1
 amino
 aminoacetic
 anatomicosurgical
