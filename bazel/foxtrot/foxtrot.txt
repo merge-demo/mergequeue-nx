@@ -1008,7 +1008,7 @@ factorability
 forweend
 flashes
 fluorapatite
-fluoborid
+fluoborid 1
 feeblest
 farinas
 foglietto
