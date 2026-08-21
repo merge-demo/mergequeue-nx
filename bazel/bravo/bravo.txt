@@ -8287,7 +8287,7 @@ bigeminies
 betelnuts
 boers
 bourtrees
-bureaucratically
+bureaucratically 1
 bigeminum
 biconditional
 billie
