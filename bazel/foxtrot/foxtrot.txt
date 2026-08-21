@@ -4426,7 +4426,7 @@ fetters
 fl
 frenches
 folkmotes
-feulamort
+feulamort 1
 farand
 forfeit
 footpick
