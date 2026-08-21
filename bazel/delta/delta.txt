@@ -10033,7 +10033,7 @@ demodulation
 detailer
 demist
 deck
-disordain
+disordain 1
 decemfoliolate
 dynactinometer
 deratize
