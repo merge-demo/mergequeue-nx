@@ -6070,7 +6070,7 @@ afore
 agitability
 archilowe
 accouters
-agitant
+agitant 1
 agitate
 agitated
 agitational
