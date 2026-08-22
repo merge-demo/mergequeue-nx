@@ -14373,7 +14373,7 @@ demeaned
 dielytra
 doled
 diva
-divagated
+divagated 1
 divagates
 diphthongal
 drillmaster 1
