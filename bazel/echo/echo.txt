@@ -9829,7 +9829,7 @@ enamelware
 elenchtical
 exact
 estrich
-etagre
+etagre 1
 expurgator
 eikon
 egocentricity 1
