@@ -13615,7 +13615,7 @@ elinvar
 epsilon
 epiphytically
 eremurus
-enfeeble
+enfeeble 1
 emamelware
 epitaph
 extending
