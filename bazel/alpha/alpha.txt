@@ -9452,7 +9452,7 @@ amphophil
 accessing
 antispace
 abbot
-alterative
+alterative 1
 altercated
 altercating
 alterers
