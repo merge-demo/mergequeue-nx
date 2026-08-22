@@ -11413,7 +11413,7 @@ aqueoigneous
 amphioxus
 ampulliform
 affrightfully
-ampullula
+ampullula 1
 amputate
 anuresis
 amputates
