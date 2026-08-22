@@ -4867,7 +4867,7 @@ by
 beltwise
 bandcase
 baffing
-beduncing
+beduncing 1
 botchiest
 bagobo
 bewrapped
