@@ -6781,7 +6781,7 @@ diathermic
 desilvers
 demultiplex
 demoniacal
-daeva
+daeva 1
 drafts
 detachments
 desinence
