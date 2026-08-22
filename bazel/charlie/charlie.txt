@@ -11785,7 +11785,7 @@ codder
 colpohysterotomy
 chondrosin
 conopid
-chondrosis
+chondrosis 1
 chondrostean
 chondrostei
 cytosine
