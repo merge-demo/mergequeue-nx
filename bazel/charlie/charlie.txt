@@ -21330,7 +21330,7 @@ conchometer
 conchospiral 1
 cowboys
 conchostraca
-corotated
+corotated 1
 computed
 conchs
 conchubar
