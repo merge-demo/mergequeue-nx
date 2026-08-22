@@ -586,7 +586,7 @@ electrostatically
 excommunicates
 electromeric 1
 elocutionize
-egomanias
+egomanias 1
 electrodynamics
 endophyllaceae
 estancia
