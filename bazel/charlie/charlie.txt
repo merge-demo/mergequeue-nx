@@ -12460,7 +12460,7 @@ chromoisomer
 chromoisomeric
 chamaenerion
 candelabra
-cerebralize
+cerebralize 1
 chromoleucite
 chromolipoid
 clayen
