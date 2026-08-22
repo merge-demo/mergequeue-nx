@@ -10214,7 +10214,7 @@ globalism
 gladdon
 gimbaljawed
 groundneedle
-generaliser
+generaliser 1
 grippers
 guzzled
 guile
