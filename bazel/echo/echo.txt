@@ -1513,7 +1513,7 @@ experimentarian
 estantion
 empyesis
 efts
-egad
+egad 1
 elderlies
 encyclopediac
 entomophilous
