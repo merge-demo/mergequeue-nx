@@ -4779,7 +4779,7 @@ aorists
 aeriality
 angiasthenia
 acmaea
-aerials
+aerials 1
 asuri
 agrologically
 aeric 1
