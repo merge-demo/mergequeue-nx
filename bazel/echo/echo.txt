@@ -8421,7 +8421,7 @@ edemic
 emblossom
 exulceration
 epinasties
-epulones
+epulones 1
 exchange
 electrizer
 evisceration
