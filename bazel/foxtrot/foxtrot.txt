@@ -8136,7 +8136,7 @@ foison
 fire
 flexo
 flatcaps
-faithful
+faithful 1
 featurette
 fuchsias
 fellable
