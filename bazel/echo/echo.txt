@@ -11172,7 +11172,7 @@ evacuator
 evaded
 echinoidea
 earthlier
-evades
+evades 1
 evadingly
 egre
 emprime
