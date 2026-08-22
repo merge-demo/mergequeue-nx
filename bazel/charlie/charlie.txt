@@ -4117,7 +4117,7 @@ cardin
 cardinal
 cardinalfish
 croslet
-cancans
+cancans 1
 cardinalfishes
 casuist
 capitate
