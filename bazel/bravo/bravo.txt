@@ -2187,7 +2187,7 @@ bromocyanid 1
 backflash
 briscola
 bararite
-barathea
+barathea 1
 barbellate
 bibbled
 bemaddens
