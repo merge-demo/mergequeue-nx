@@ -16255,7 +16255,7 @@ constringency
 contraindicate
 clinoid
 clinology
-clinometer
+clinometer 1
 clinometry
 clinometric
 cantos
