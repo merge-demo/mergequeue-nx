@@ -11615,7 +11615,7 @@ engraphia 1
 eucalypt
 envenomous 1
 everywhereness
-expatiation
+expatiation 1
 encephalitis
 ewte
 exacerbated
