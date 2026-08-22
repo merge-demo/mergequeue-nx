@@ -1700,7 +1700,7 @@ feased 1
 folic 1
 fumigant
 fingrigo
-forprise
+forprise 1
 fibrinoalbuminous
 forestep
 fasciolariidae
