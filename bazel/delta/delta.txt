@@ -8161,7 +8161,7 @@ doutous
 deciduae
 decasualize
 detribalize
-disruptively
+disruptively 1
 deferrization
 diachronic
 dipleurule
