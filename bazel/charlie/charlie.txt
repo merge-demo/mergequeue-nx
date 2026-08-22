@@ -1489,7 +1489,7 @@ chanciest
 clausular
 chilenite
 cackler
-cadginess
+cadginess 1
 conclusions
 citigrade
 callat
