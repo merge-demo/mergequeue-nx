@@ -2697,7 +2697,7 @@ ferventness
 frighteningness
 floodwall
 fishify
-flamant
+flamant 1
 frenzies
 flambe
 faithing
