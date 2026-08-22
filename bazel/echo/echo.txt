@@ -7848,7 +7848,7 @@ entomotaxy
 epigonic
 expletive
 excardination
-encrinoid
+encrinoid 1
 extirpationist
 essentialized
 euconjugatae
