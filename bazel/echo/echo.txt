@@ -4593,7 +4593,7 @@ enlightened
 exploited
 enchanting
 englante
-expel 1
+expel 2
 expatiations
 equalised
 endpleasure
