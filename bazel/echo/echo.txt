@@ -7152,7 +7152,7 @@ everyday
 endocolitis
 engrossed
 established
-epimere
+epimere 1
 examples
 edriophthalmous
 envisioning
