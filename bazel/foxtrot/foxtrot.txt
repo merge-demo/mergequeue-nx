@@ -8641,7 +8641,7 @@ flamberge
 freightless
 filterability
 fourposters
-futharks
+futharks 1
 feet
 fuzes
 finites
