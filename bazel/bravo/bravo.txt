@@ -3026,7 +3026,7 @@ buccinum
 branglement
 bopping
 burgesses
-bartizans
+bartizans 1
 beigel
 belee
 beckons
