@@ -26924,7 +26924,7 @@ contrectation
 counterman
 carles
 countermand
-countermandable
+countermandable 1
 commelinaceae
 craniological
 contemner
