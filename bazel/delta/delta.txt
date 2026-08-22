@@ -8856,7 +8856,7 @@ dixit
 debilissima
 dibhole
 dioptry
-dualized
+dualized 1
 diborate
 dibothriocephalus
 daughterless
