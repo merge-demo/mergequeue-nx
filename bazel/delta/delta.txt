@@ -10774,7 +10774,7 @@ deinodontidae
 dipterocarp
 dipterocarpaceae
 dartingly
-dipterocarpaceous
+dipterocarpaceous 1
 deportee
 dipterocarpous
 dipterocarpus
