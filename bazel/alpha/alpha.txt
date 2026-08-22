@@ -3294,7 +3294,7 @@ assassin
 atomizes 1
 acutograve
 analogist
-acutonodose
+acutonodose 1
 aurene
 aminity
 anthropomorphist
