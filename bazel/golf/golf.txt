@@ -1869,7 +1869,7 @@ gatewaying
 gatetender
 gawain
 ghibellinism
-gallonage
+gallonage 1
 gill 1
 gawkihood
 grecizing
