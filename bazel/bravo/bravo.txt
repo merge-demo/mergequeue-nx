@@ -16879,7 +16879,7 @@ buffoonish
 bungle
 baret
 betorn
-birostrated
+birostrated 1
 baronages
 balneographer
 bedimpling
