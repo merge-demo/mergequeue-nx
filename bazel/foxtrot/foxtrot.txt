@@ -5415,7 +5415,7 @@ fetis
 fragmentize 1
 forbled
 foremade
-frisado
+frisado 1
 factorial
 fledgiest
 floatless
