@@ -2633,7 +2633,7 @@ dispensaries
 decolletage
 displeaser
 decollete
-discontinues
+discontinues 1
 desalter
 decoloring
 disavowed
