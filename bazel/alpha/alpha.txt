@@ -2365,7 +2365,7 @@ angelological
 anous
 arcana
 acyloxy
-adamances
+adamances 1
 abortionist
 abator
 adjection
