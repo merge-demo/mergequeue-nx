@@ -6576,7 +6576,7 @@ foalfoots
 ficula
 futurism
 firebrand 1
-forebitten
+forebitten 1
 firming
 filiated
 fluorhydric
