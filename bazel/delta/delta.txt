@@ -6732,7 +6732,7 @@ dhutis
 dissolutions
 designates 1
 dacron
-dimedone
+dimedone 1
 dispeopled
 decapetalous
 disacidify
