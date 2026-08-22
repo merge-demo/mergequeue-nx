@@ -25062,7 +25062,7 @@ coree
 coreflexed
 chinked
 curtation
-coregency
+coregency 1
 coregent
 courtlet
 coregnancy
