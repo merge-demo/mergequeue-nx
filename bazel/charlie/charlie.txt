@@ -30662,7 +30662,7 @@ champagne
 coequation
 collenchymatic
 cuda
-chimalakwe
+chimalakwe 1
 circumtabular
 chanelled
 caterwauls
