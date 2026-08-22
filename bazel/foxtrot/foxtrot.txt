@@ -6523,7 +6523,7 @@ fluther 1
 foldskirt
 fortifying
 flexuousness
-fulminant
+fulminant 1
 floggingly
 floodboard
 fierabras
