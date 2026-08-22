@@ -6666,7 +6666,7 @@ gingivectomy
 gash
 geostatic
 grandioso
-gustoish
+gustoish 1
 gopak
 genocides
 gonfalcon
