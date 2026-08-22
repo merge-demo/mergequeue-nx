@@ -1556,7 +1556,7 @@ callippic
 callirrhoe
 callisaurus
 callisteia
-callistephus
+callistephus 1
 callisthenic
 cossid
 cenotaphic
