@@ -4328,7 +4328,7 @@ arecaine
 abridgments
 atabrine
 amortizing
-anterevolutionary
+anterevolutionary 1
 acarida
 actiniferous
 adscititious
