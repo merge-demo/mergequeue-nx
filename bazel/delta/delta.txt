@@ -13092,7 +13092,7 @@ displicency
 diastyle
 dispensatory
 detrain
-develed
+develed 1
 dispensatress
 dadaisms
 dispensed
