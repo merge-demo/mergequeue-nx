@@ -2460,7 +2460,7 @@ capelline
 cancrine
 cicatrix
 carpers
-coffeeberry
+coffeeberry 1
 cancrinite
 cancrisocial
 cancroid
