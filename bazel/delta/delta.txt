@@ -865,7 +865,7 @@ dubiosity
 devoicing
 decalcification
 dowered
-disorchard
+disorchard 1
 dankishness
 discardable
 disprovement
