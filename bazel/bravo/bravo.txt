@@ -12587,7 +12587,7 @@ balance
 bonnnes
 bonnocks
 bonnwis
-bionomist
+bionomist 1
 bonorum
 bisector
 bagatelle
