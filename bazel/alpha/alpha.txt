@@ -18184,7 +18184,7 @@ allocatable
 aconitic
 althea
 areel
-approximatively
+approximatively 1
 anasarca
 assassination
 ammonocarbonous
