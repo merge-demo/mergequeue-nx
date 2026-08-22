@@ -31665,7 +31665,7 @@ cushag 1
 collineation
 cushats
 crinkliness
-cushaws
+cushaws 1
 caseins
 consumed
 cochurchwarden
