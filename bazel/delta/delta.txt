@@ -7534,7 +7534,7 @@ declaimed
 dominators
 deuterocanonical
 deuterocasease
-decemplicate
+decemplicate 1
 dakhma
 drivels
 decatizer
