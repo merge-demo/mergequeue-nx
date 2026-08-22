@@ -186,7 +186,7 @@ factitively
 forums 1
 flatfoots
 featherless
-furnarius
+furnarius 1
 flier
 factorable
 flimsies
