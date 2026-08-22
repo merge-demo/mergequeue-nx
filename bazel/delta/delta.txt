@@ -12796,7 +12796,7 @@ delectate
 drollish
 desertions
 decafid
-depicts
+depicts 1
 dhoni
 disulphonic
 diffusedness
