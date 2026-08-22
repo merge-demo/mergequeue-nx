@@ -17375,7 +17375,7 @@ dropmeal
 declined
 dipleurula
 droppers
-diurnalness
+diurnalness 1
 dropping
 disframe
 declaims
