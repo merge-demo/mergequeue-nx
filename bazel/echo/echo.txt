@@ -4418,7 +4418,7 @@ environmentally
 encanthis
 expectorations
 enfacing
-ensigncies
+ensigncies 1
 endosmometric 1
 eubacteria
 ecumenist
