@@ -278,7 +278,7 @@ easterling
 exhumers
 epigoneion
 enqueue
-enantioblastic
+enantioblastic 1
 endognath
 ectocuniform
 esquired
