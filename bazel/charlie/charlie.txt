@@ -30395,7 +30395,7 @@ claughting
 caserio
 crustade
 charted
-cresotinic 1
+cresotinic 2
 crustalogy
 crustalogical
 crustalogist
