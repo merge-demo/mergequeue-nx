@@ -10024,7 +10024,7 @@ canephors
 cephalotripsy
 chersydridae
 chert
-childishness
+childishness 1
 calcarate
 controvert
 caverned
