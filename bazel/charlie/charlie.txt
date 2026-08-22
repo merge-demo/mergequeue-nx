@@ -242,7 +242,7 @@ currency
 cacciatora
 capeador
 cacei
-cachaemic
+cachaemic 1
 cyphellae
 commemoratively
 cachalote
