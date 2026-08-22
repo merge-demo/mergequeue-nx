@@ -1768,7 +1768,7 @@ burdie 1
 bamboula
 banterer
 boswellized
-bowmen
+bowmen 1
 balanops
 balloonet
 bedsprings
