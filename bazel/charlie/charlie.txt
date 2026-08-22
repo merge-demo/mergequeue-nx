@@ -29667,7 +29667,7 @@ crocused
 captionless
 commonwealths
 contrantiscion
-croissants
+croissants 1
 casemate
 crocuses
 chronogrammatist
