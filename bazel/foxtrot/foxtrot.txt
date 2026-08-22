@@ -5017,7 +5017,7 @@ fissive
 filmcard
 flaneur
 frescoes 1
-functioned
+functioned 1
 foremartyr
 fiddlewood
 filet 1
