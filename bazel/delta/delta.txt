@@ -14377,7 +14377,7 @@ divagated
 divagates
 diphthongal
 drillmaster 1
-divagationally
+divagationally 1
 divan
 dipolsphene
 doley
