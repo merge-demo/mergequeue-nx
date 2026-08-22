@@ -20430,7 +20430,7 @@ ampery
 arrojadite
 artcraft
 antitypes
-acceptableness
+acceptableness 1
 appeared
 adaptively
 anaglyphoscope
