@@ -9458,7 +9458,7 @@ biggins
 blepharophryplasty
 banya
 bipunctal
-bores
+bores 1
 barbarian
 birn 1
 byrnie
