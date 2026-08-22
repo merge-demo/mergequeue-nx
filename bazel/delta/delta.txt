@@ -12373,7 +12373,7 @@ depone
 deepening
 decempartite
 didymiums 1
-decoagulation
+decoagulation 1
 dishaunt
 deflationary
 dichromaticism
