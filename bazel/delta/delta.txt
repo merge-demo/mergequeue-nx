@@ -9582,7 +9582,7 @@ drunks
 dignotion
 dependants
 desmitis
-deuterons
+deuterons 1
 digonal
 digoneutism
 differentness
