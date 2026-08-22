@@ -1313,7 +1313,7 @@ flear
 flirtation
 fluoridised
 flookan
-flout
+flout 1
 fallowness
 frictionally
 fineleaf
