@@ -17222,7 +17222,7 @@ acroparesthesia
 apopenptic
 anteroom
 apophatic
-akhrot
+akhrot 1
 atonements
 anticrepuscule
 admonitively
