@@ -9279,7 +9279,7 @@ burgaudine
 blackguardism
 biprong
 baseball
-begloomed
+begloomed 1
 befit
 bleezy
 bobsled
