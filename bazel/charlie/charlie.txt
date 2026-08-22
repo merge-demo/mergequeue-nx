@@ -8008,7 +8008,7 @@ camphoraceous
 chaccon
 chachalakas
 chackchiuma
-chacker
+chacker 1
 cannelon
 chackle
 cachets
