@@ -8053,7 +8053,7 @@ dharmic
 dharnas
 dhaura
 defilements
-dialleli
+dialleli 1
 derfness
 devilment
 daftardar
