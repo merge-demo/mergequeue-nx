@@ -20804,7 +20804,7 @@ artocarpous
 artolater
 aliner
 abraid
-artophagous 1
+artophagous 2
 archheresy
 artotype
 annotation
