@@ -11108,7 +11108,7 @@ chitted
 chitter
 chitterling 1
 chutney
-chitters
+chitters 1
 capillaries
 chiurm
 chiv
