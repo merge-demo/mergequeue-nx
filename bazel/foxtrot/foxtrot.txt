@@ -1455,7 +1455,7 @@ fantasie
 filago
 fireside
 faubourgs
-focussing
+focussing 1
 fistulose
 featly
 faulds
