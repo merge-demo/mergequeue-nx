@@ -11900,7 +11900,7 @@ disdein
 dardani
 doubleheader
 dephlegmate
-disbecome
+disbecome 1
 disdenominationalize
 dishonorableness
 disdiapason
