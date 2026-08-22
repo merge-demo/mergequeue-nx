@@ -17454,7 +17454,7 @@ desectionalize
 drouthier
 defame
 definitude
-datums
+datums 1
 deertongue
 delegatee
 drove
