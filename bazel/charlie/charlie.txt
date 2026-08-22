@@ -3114,7 +3114,7 @@ cenotaphies
 cyclophrenia
 cyclopes
 capacitor
-chalker
+chalker 1
 catercornerways
 clone
 capanna
