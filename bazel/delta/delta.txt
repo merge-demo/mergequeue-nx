@@ -10839,7 +10839,7 @@ diabolifuge
 direnesses
 demophil
 drier
-debunkment
+debunkment 1
 diletant
 diadematoida
 desmidiaceous
