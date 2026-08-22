@@ -8517,7 +8517,7 @@ bilks
 bushveld
 burro
 brachiolarian
-bagtikan
+bagtikan 1
 bassanello
 baar
 bandos
