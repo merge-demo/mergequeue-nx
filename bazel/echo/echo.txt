@@ -6094,7 +6094,7 @@ enlief
 evertebrate
 excruciate
 escutcheon 1
-encounters
+encounters 1
 epilator
 enlightenedly
 enlistments
