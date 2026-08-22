@@ -9452,7 +9452,7 @@ bathymeter
 basaltine
 bemedaled
 bashes
-birma
+birma 1
 busted
 biggins
 blepharophryplasty
