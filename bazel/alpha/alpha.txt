@@ -2728,7 +2728,7 @@ acritan
 acrite
 asthenobiosis
 astringent
-arriba
+arriba 1
 antidysenteric
 arctiid
 any
