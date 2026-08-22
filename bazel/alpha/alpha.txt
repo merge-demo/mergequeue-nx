@@ -25232,7 +25232,7 @@ azande
 antediluvially
 ammonal
 azelaic
-antical
+antical 1
 aciduria
 azeotrope
 alveoloclasia
