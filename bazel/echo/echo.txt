@@ -10087,7 +10087,7 @@ ethenes
 ethenoid
 ethenol
 eyecups
-ensorcelize
+ensorcelize 1
 eschatocol
 ebb
 erythrosin
