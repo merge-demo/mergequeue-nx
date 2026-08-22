@@ -6509,7 +6509,7 @@ dissevering
 determinate
 dactylogram 1
 demounted
-disanney
+disanney 1
 dynamited
 demonist
 doxological
