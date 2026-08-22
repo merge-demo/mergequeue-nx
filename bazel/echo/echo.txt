@@ -3250,7 +3250,7 @@ enclitical
 encephalotomy
 eyesore
 entrench
-episcleral
+episcleral 1
 emancipates
 esophagospasm
 eelgrasses
