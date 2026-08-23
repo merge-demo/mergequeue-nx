@@ -11917,7 +11917,7 @@ cypseloid
 choreographers
 choreographic
 chuzwi
-choreographically
+choreographically 1
 choreographing
 cuds
 calculabilities
