@@ -10381,7 +10381,7 @@ gunda
 griddles
 glycyls
 gelatiniser
-gutta
+gutta 1
 gullies
 gems
 groans
