@@ -4308,7 +4308,7 @@ gorgonia
 gyneolater 1
 guinfo
 gelsemia 1
-germicide
+germicide 1
 gynetype
 gymnadenia 1
 glazieries 1
