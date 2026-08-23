@@ -14719,7 +14719,7 @@ antibibliolatry
 antibigotry
 arribadas
 antibilious
-antibiont
+antibiont 1
 antibiosis 1
 anaglyphic
 antibiotic
