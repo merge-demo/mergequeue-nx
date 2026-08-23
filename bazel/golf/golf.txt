@@ -8710,7 +8710,7 @@ grammars
 gearing
 gastraeal
 gates
-gnathonical
+gnathonical 1
 grassflat
 gastrodisc
 growler 1
