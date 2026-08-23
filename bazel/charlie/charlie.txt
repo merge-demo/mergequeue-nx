@@ -16536,7 +16536,7 @@ chondrolipoma
 cloisonless
 chancering
 cloisonn
-cloisonne
+cloisonne 1
 convival
 carrigeen
 cloisonnism
