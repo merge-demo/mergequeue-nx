@@ -18811,7 +18811,7 @@ acetonurometer
 arches
 albumosuria
 autonephrectomy
-archesporial
+archesporial 1
 autocades
 archest
 archetypal
