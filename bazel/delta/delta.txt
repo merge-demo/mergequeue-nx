@@ -5355,7 +5355,7 @@ derider
 dorsimesal
 disblame
 decoyed
-daraf
+daraf 1
 diaphoretic
 displaced
 dentical
