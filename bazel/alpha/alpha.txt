@@ -4615,7 +4615,7 @@ anahao 1
 afficionado
 advocated
 afterspeech
-advocative
+advocative 1
 acanthological
 aq 1
 avicularian
