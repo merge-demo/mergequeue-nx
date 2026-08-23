@@ -14744,7 +14744,7 @@ coccinellid
 coalyards
 cocinero
 choroiditis
-curatel
+curatel 1
 chiarooscuros
 cityness
 cotyle
