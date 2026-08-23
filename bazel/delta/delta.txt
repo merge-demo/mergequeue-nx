@@ -7721,7 +7721,7 @@ daurna
 devilize
 delative
 diverged
-devilkins
+devilkins 1
 doubling
 discanonization
 dichroous
