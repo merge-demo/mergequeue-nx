@@ -7361,7 +7361,7 @@ fat
 forbborne 1
 freshen
 feudalism 1
-forby
+forby 1
 famelessly
 foreparent
 forebodingly

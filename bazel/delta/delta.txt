@@ -4053,7 +4053,7 @@ deposited
 disvantage
 delicate
 disposingly
-delicately
+delicately 1
 denier
 darknesses
 domicil
