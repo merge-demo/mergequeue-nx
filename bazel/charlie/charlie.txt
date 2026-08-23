@@ -17092,7 +17092,7 @@ coacts
 coadamite
 companionized
 cavings
-coadaptations
+coadaptations 1
 californium
 coadapting
 chauliodes
