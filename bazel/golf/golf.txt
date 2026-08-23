@@ -6908,7 +6908,7 @@ goody
 giganticide
 geomalism
 glowers
-genealogic
+genealogic 1
 ganglioform
 geographer
 geneserine
