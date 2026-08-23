@@ -14493,7 +14493,7 @@ achenium
 anthropogenic
 animadverts
 addictiveness
-affrontedly
+affrontedly 1
 anthropogeographical
 anthropoglot
 anthospermum
