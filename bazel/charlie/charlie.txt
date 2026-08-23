@@ -14257,7 +14257,7 @@ calcographic
 cassoni
 circummundane
 circummure
-circummuring
+circummuring 1
 convolving
 christmases
 circumnavigable
