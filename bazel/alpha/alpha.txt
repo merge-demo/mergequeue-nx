@@ -15105,7 +15105,7 @@ anoplanthus
 antidromically
 apparance
 antidrug
-anemotropic
+anemotropic 1
 applied
 archcheater
 analcimes
