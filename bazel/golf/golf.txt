@@ -3855,7 +3855,7 @@ geochronometry
 goldbeating
 griddlecakes
 gifola
-galleriies
+galleriies 1
 geometer
 glossophorous
 gonococcic
