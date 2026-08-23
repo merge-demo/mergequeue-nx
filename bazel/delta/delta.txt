@@ -8105,7 +8105,7 @@ duodial
 dentex
 developpes
 distributions
-decidable
+decidable 1
 dichogamic
 dinosaurs
 diabetometer
