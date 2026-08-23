@@ -1885,7 +1885,7 @@ footingly
 foredoom
 footstep
 fourdrinier
-flamboyantize
+flamboyantize 1
 faradizing
 frs
 fraidycat
