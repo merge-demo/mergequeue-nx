@@ -153,7 +153,7 @@ glunimie
 galactosyl
 galvanosurgery
 gybe 1
-glacialize
+glacialize 1
 graphorrhea
 guesthouse
 gingerroot
