@@ -5309,7 +5309,7 @@ coreigner
 cassiopeium
 cladrastis
 cramps
-cassis
+cassis 1
 crampy
 courtling
 cassiterite
