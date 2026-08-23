@@ -4363,7 +4363,7 @@ anachronistically
 apoxyomenos
 alcae
 antitheistically
-adenoids
+adenoids 1
 agaristidae
 adstipulator
 aduana
