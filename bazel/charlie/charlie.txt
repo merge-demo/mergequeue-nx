@@ -24555,7 +24555,7 @@ codger
 cathodoluminescent
 copers 1
 cutches
-coperta
+coperta 1
 copes
 chelidon
 cantate
