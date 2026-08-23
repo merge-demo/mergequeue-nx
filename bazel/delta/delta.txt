@@ -5762,7 +5762,7 @@ downloads
 diazotizability
 droves
 deliberating 1
-debater
+debater 1
 duree
 disjoint
 descriptor
