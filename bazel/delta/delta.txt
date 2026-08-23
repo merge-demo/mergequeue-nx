@@ -5961,7 +5961,7 @@ discussible
 dayfly
 diplodus
 deprogrammed
-drillstock
+drillstock 1
 dottling
 devonic
 dollish
