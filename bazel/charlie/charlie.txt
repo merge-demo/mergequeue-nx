@@ -24565,7 +24565,7 @@ clapped
 copiapite
 copyboy
 copyboys
-cupelers
+cupelers 1
 cod
 cakehouse
 characinidae
