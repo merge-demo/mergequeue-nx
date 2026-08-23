@@ -6837,7 +6837,7 @@ discoidal
 desmidiology
 dandyishy
 dethroner
-diorthotic
+diorthotic 1
 dvorak
 dolichoblond
 definition
