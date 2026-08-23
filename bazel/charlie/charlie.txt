@@ -886,7 +886,7 @@ cayugan
 cayugas
 cayuse
 cayuses
-cajan
+cajan 1
 capitare
 cajaputs
 cazibi
