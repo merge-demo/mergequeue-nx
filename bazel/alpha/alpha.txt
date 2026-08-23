@@ -7397,7 +7397,7 @@ antirepublican 1
 alveolonasal
 alsinaceae
 albigensianism
-angularness
+angularness 1
 abietene
 abomasusi
 annulus
