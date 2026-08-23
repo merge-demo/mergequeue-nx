@@ -1746,7 +1746,7 @@ engining
 effeminized 1
 eyeliners
 elkhound
-endoneurial
+endoneurial 1
 epilogue
 eyen 1
 etacism
