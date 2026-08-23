@@ -13253,7 +13253,7 @@ coadapt
 cyclohexadienyl 1
 cashoos
 crossrow
-cyclohexanol
+cyclohexanol 1
 crass
 cyclohexanone
 cyclohexyl
