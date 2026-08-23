@@ -8353,7 +8353,7 @@ entifical
 epithets
 enterocolostomy
 exuvial
-eyetooth
+eyetooth 1
 enthrallments
 educative
 excitomotory
