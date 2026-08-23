@@ -14714,7 +14714,7 @@ chaplets
 cholesteryl
 catmint
 circumagitate
-cylix
+cylix 1
 celebration
 charbocle 1
 cystathionine
