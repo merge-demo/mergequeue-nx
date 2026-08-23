@@ -4725,7 +4725,7 @@ aeluropodous
 aenach
 aphrodistic
 addaxes
-affricate
+affricate 1
 adawe
 antiradicalism
 aenigmatite
