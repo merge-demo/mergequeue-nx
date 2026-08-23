@@ -29,7 +29,7 @@ glycic
 grossularious
 gieaways 1
 goatroot
-gaelicism
+gaelicism 1
 geoselenic
 gliderport
 globose
