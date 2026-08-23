@@ -12915,7 +12915,7 @@ ecchymose
 epithymetic
 evangeliary
 energetically
-ethnographical
+ethnographical 1
 effluvias
 entodermic
 earstones
