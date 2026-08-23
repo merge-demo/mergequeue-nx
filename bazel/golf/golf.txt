@@ -8461,7 +8461,7 @@ gastaldite
 gadzooks
 gushet
 gomphosis
-garancine
+garancine 1
 goatishness 1
 gerontophilia
 glossator
