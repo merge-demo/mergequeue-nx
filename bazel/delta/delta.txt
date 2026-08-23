@@ -6259,7 +6259,7 @@ dermatography 1
 dezincation
 diplonephridia
 dermatolysis
-duchesnea
+duchesnea 1
 disfigured
 deutobromide
 dividable
