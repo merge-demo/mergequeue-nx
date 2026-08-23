@@ -22960,7 +22960,7 @@ choriambi
 consistent
 consistently
 chebacco
-consistible
+consistible 1
 consisting
 cent
 consistorial
