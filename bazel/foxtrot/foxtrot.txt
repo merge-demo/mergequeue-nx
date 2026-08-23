@@ -7013,7 +7013,7 @@ fondues
 forestress
 frescoist
 fictionistic
-fusees
+fusees 1
 fichtelite
 floriferousness
 finagled
