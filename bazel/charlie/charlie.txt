@@ -14314,7 +14314,7 @@ cuneonavicular
 circumrotatory
 calochortus
 cask
-connectivity
+connectivity 1
 circumscribable
 condescend
 circumscribed
