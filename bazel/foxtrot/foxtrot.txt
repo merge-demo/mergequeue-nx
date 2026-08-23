@@ -8485,7 +8485,7 @@ frow 1
 figment
 forked
 formica
-foolishly
+foolishly 1
 fasciculate
 fitty
 formicate
