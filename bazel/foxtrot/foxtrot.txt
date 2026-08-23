@@ -7006,7 +7006,7 @@ foreaccustom
 fruitwoman 1
 flexions
 filla
-functor
+functor 1
 frison
 frittered
 fondues
