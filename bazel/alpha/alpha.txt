@@ -6934,7 +6934,7 @@ alanyls
 assailment
 amende
 apostrophic 1
-aglyphous
+aglyphous 1
 aptian
 aventine
 airview
