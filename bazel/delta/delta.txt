@@ -426,7 +426,7 @@ dorsoanterior
 drinker
 dairywomen
 daunder
-descanting
+descanting 1
 dayrooms
 deities
 dodrantal
