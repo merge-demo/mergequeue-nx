@@ -131,7 +131,7 @@ gersum
 glacises
 granulize
 gageable
-guerdonable
+guerdonable 1
 geryonid
 guelf
 gadwalls
