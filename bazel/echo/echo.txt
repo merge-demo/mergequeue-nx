@@ -7395,7 +7395,7 @@ exuviate
 encloses
 exonship
 epithetical
-extollment
+extollment 1
 everywhither
 earthmoving
 epembryonic 1
