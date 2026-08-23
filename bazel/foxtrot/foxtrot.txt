@@ -3445,7 +3445,7 @@ fieriness
 fierte
 fifed
 flerried 1
-frontals 1
+frontals 2
 feminising
 fulmines
 forewarmer
