@@ -10856,7 +10856,7 @@ fabledom
 faddism
 fulgidity
 flaite
-functionally
+functionally 1
 fantasizing
 footholds
 fallings
