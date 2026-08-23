@@ -5566,7 +5566,7 @@ grained
 goatskin
 gambols
 grugrus
-gymnocalycium 1
+gymnocalycium 2
 gussies
 granuloblast
 globous
