@@ -13084,7 +13084,7 @@ chimblies
 cybernetical
 cybernetically
 cybernetician
-cyberneticist
+cyberneticist 1
 cybernetics
 cybernion
 cibol
