@@ -9872,7 +9872,7 @@ fluviomarine
 fosh
 fibroneuroma 1
 felinophobe
-frickle
+frickle 1
 ferrel
 frontager
 furilic
