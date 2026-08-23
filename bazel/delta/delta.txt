@@ -16993,7 +16993,7 @@ dregs 1
 defrication
 dampeners
 disemplaned
-dreidels
+dreidels 1
 dreikanter
 dreynt
 distendedly
