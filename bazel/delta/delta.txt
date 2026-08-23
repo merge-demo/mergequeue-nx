@@ -11883,7 +11883,7 @@ dihelium
 diallagoid
 disdainfulness
 delations
-deflagrating
+deflagrating 1
 drawknives
 dentel
 dispermic
