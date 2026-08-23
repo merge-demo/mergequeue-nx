@@ -5268,7 +5268,7 @@ amidist
 antiatheistically
 affined
 affinely
-acromiodeltoid
+acromiodeltoid 1
 affines
 arthron 1
 anthomedusae 1
