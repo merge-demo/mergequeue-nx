@@ -8366,7 +8366,7 @@ eloped
 epityphlitis
 erythrosinophile
 effrenate
-evolutional
+evolutional 1
 estranged 1
 expeding
 eastlins
