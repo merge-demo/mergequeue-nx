@@ -13570,7 +13570,7 @@ cymbalom
 cimbaloms
 cymbalon
 cymbel
-cymbid
+cymbid 1
 clochard
 cymbidium
 catchpollery
