@@ -6295,7 +6295,7 @@ caulocarpic
 caulomic 1
 caulosarc
 caulotaxis
-caulote
+caulote 1
 cauls
 caum
 cauma
