@@ -7259,7 +7259,7 @@ gribble
 gleby
 gingernut
 gemination
-gammas
+gammas 1
 gromyl 1
 gormand
 gibbus
