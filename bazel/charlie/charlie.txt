@@ -9220,7 +9220,7 @@ chastity
 chastities
 chockstone
 chasubled
-cooper
+cooper 1
 categorize
 chataka
 chatchka
