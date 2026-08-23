@@ -1481,7 +1481,7 @@ fibry
 frizzes
 flunkyhood
 floatability
-fungillus
+fungillus 1
 faucre
 faultiest
 fishmeal
