@@ -7840,7 +7840,7 @@ exoerythrocytic
 epigone
 epithelium
 exarchate
-exophoria
+exophoria 1
 ejaculator
 eddish
 epigoni
