@@ -2922,7 +2922,7 @@ dashel
 dedanite
 dedecorous
 divide
-desmodont
+desmodont 1
 duodecimomos
 dedicant
 dichotic
