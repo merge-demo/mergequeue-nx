@@ -1393,7 +1393,7 @@ glossanthrax
 garnison
 greetingless
 garniture
-gaulsh
+gaulsh 1
 glycosemia
 germanize
 grecize
