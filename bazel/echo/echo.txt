@@ -4041,7 +4041,7 @@ empyemata
 empyemic
 empiercement
 evirato
-extensibleness
+extensibleness 1
 epirogenetic
 evaporative
 exedent
