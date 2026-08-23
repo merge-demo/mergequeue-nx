@@ -8824,7 +8824,7 @@ dodecagonal
 divination
 dib
 dyspraxia
-dibbing
+dibbing 1
 deliberates
 deterring
 drachmas
