@@ -10995,7 +10995,7 @@ electrokinematics
 excavates
 eurybenthic 1
 endeared
-etacist 1
+etacist 2
 eutaxies
 eusynchite
 eurycephalic
