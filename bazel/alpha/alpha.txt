@@ -24720,7 +24720,7 @@ artisans
 amalfian
 aveugle
 avg
-assenting
+assenting 1
 avians
 abreactions
 arctitude
