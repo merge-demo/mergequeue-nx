@@ -10723,7 +10723,7 @@ emblazer
 ecologic
 euhyostylic
 eukairite
-enfavor
+enfavor 1
 eaver
 enwraps
 exedra
