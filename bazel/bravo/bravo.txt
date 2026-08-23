@@ -4567,7 +4567,7 @@ bemingles
 betrunk
 buckteeth
 buglewort
-bicellular
+bicellular 1
 backjaw
 bedarkening
 bedaub
