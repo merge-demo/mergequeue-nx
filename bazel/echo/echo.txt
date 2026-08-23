@@ -2030,7 +2030,7 @@ erythrosine
 epitrophy
 encurl
 exophasia
-elytrigerous
+elytrigerous 1
 emersion
 etherish
 ethiopic
