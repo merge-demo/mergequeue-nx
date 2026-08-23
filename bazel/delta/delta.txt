@@ -14686,7 +14686,7 @@ dolent
 djuka
 diaskeuast
 dk
-dkg
+dkg 1
 dkl
 deadener
 decasemic

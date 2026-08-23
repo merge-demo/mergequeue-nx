@@ -16125,7 +16125,7 @@ brool
 buprestid
 beardtongue
 broomballer
-blasphemers 1
+blasphemers 2
 biologic
 badarian
 broomiest
