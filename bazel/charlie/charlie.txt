@@ -13209,7 +13209,7 @@ cyclic
 cyclical
 cyclizing
 cyclically
-cyclicalness
+cyclicalness 1
 cyclide
 cubeb 1
 cyclindroid
