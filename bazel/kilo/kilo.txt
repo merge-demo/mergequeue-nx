@@ -8100,7 +8100,7 @@ knimapppzvc
 kninmsr
 knipxxc
 kniredlplefvc
-knis
+knis 1
 knisahlu
 knitl
 knixyrd
