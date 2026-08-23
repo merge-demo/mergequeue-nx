@@ -1967,7 +1967,7 @@ grossing
 gaultherin
 gaunch
 gangers
-gruelly
+gruelly 1
 gaunty
 gypsite
 genealogically

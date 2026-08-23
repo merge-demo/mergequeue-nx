@@ -1686,7 +1686,7 @@ felonous
 fearingly
 ferineness
 fearless
-forehammer
+forehammer 1
 frangible
 ferrament
 fleeching
