@@ -11569,7 +11569,7 @@ evernia
 expressman 1
 equipartisan
 evoking
-empetraceous
+empetraceous 1
 evolute
 embrute
 enlighten
