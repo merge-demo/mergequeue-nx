@@ -10117,7 +10117,7 @@ anaheim
 amboina
 amboinas 1
 aviatrixes
-antiegoistic
+antiegoistic 1
 ajangle
 azedarach
 anthropogeny
