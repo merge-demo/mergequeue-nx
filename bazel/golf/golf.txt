@@ -2336,7 +2336,7 @@ galopin
 geldings
 gol
 garlandage
-gelated
+gelated 1
 gorgets
 gustfulness
 gymnics
