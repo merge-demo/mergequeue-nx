@@ -1196,7 +1196,7 @@ diaphragmal
 dastardly
 dasturi
 dreggish
-datably
+datably 1
 demoiselles
 datafile
 dunts
