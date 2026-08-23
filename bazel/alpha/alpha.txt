@@ -13138,7 +13138,7 @@ antidynastical
 anabolite
 animala
 animalic
-avunculize
+avunculize 1
 amusgo
 animalier
 acetosalicylic
