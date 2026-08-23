@@ -11587,7 +11587,7 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
-cholecystolithiasis
+cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
 choledochal

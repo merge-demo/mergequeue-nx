@@ -7693,7 +7693,7 @@ alcoholize
 alcoholmeter
 airmass
 anemogram
-alcoholmetric
+alcoholmetric 1
 acroter
 abaissed
 alcoholometer
