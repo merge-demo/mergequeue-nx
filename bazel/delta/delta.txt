@@ -9037,7 +9037,7 @@ dicranaceous
 dextrinous 1
 diverter
 dicrotal
-dicrotous
+dicrotous 1
 dicruridae
 delia
 dehort
