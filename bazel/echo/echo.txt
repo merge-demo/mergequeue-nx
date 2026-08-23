@@ -13917,7 +13917,7 @@ eburnated
 extramoral
 electee 1
 empathy
-epimerizing
+epimerizing 1
 exorcized
 errordump
 euphoniousness
