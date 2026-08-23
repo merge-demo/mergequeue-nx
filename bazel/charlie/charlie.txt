@@ -8359,7 +8359,7 @@ challenges
 cohered
 chalons
 coronograph
-chalot
+chalot 1
 chaloupe
 cowpunch
 chaluka
