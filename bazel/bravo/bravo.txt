@@ -4594,7 +4594,7 @@ bigaroons
 bilker
 baloskionaceae
 ballbuster
-bedazzles 1
+bedazzles 2
 bedazzlingly
 bibliopolery
 beckon
