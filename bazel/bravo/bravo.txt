@@ -11934,7 +11934,7 @@ brut
 bawke
 betweens
 bolivianos
-begirdling
+begirdling 1
 boggard
 blindfoldly
 boggier
