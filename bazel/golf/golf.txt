@@ -225,7 +225,7 @@ gradefinder
 gratiano
 gaiassa 1
 gifts
-gelasimus
+gelasimus 1
 guidman
 grandsir
 globalized
