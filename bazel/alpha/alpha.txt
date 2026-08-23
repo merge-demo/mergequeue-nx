@@ -3825,7 +3825,7 @@ adrenalectomized
 aprowl
 argufier
 ariel
-anchorwise
+anchorwise 1
 acetonyl
 ametabole
 adieu
