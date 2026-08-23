@@ -5300,7 +5300,7 @@ alterations
 appetized
 axon
 affixal
-astipulate
+astipulate 1
 astrid
 americanoid
 affixation 1
