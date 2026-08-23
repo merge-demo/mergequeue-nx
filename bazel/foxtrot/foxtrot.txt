@@ -9050,7 +9050,7 @@ fib
 frumentaceous
 flotsan
 flashbacks
-faineantism
+faineantism 1
 fix
 fractionalize
 foreparents
