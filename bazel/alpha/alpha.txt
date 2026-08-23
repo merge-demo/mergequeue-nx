@@ -21142,7 +21142,7 @@ asecretory
 amenableness 1
 appositeness
 airth
-amniorrhea
+amniorrhea 1
 ambiens
 affinitative
 aseismatic
