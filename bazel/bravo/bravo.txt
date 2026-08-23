@@ -17037,7 +17037,7 @@ bulimus
 baler
 bimahs
 binoxide
-bishoping
+bishoping 1
 bulkage
 boldfaces 1
 burt
