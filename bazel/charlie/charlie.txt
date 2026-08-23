@@ -25747,7 +25747,7 @@ compote
 coronal
 cleruch
 corrigibly
-corrigiola
+corrigiola 1
 corrival
 corrivality
 craniologist
