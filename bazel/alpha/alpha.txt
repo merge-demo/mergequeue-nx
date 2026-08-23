@@ -2180,7 +2180,7 @@ alqueire
 amyelotrophy
 achordata 1
 achorion
-anarya
+anarya 1
 archpoet
 achillodynia
 achras
