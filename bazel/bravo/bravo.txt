@@ -11919,7 +11919,7 @@ bailiff
 bogart
 backboneless 1
 bisaxillary
-bogatyr 1
+bogatyr 2
 boosies
 bogbeans
 bordels
