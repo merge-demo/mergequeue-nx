@@ -5539,7 +5539,7 @@ department
 discontiguousness
 departmental
 disrobers
-desiccate
+desiccate 1
 dealation
 diphyllous
 departmentalised
