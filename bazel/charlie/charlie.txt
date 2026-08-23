@@ -15926,7 +15926,7 @@ countertrippant
 cleanly
 cleped
 clepsydra
-contorniate
+contorniate 1
 clepsine
 condemnatory
 cleptobioses
