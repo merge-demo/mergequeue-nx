@@ -286,7 +286,7 @@ chorepiscopus
 comatose
 conchoid
 cachinnating
-cachinnatory
+cachinnatory 1
 caustify
 conchiform
 cachous
