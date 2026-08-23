@@ -12416,7 +12416,7 @@ betsimisaraka
 behap
 bicapitate
 backcast
-begloom
+begloom 1
 bonbons
 batell
 barker
