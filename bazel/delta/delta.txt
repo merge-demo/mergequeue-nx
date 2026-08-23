@@ -9103,7 +9103,7 @@ daleman
 dragomanish
 didacticism
 defile
-doundake
+doundake 1
 dryish
 didal
 didascalic
