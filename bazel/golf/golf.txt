@@ -5026,7 +5026,7 @@ giganticidal
 gauls
 garridge
 girasoles
-gleetiest
+gleetiest 1
 goofed
 ganders
 gallingness
