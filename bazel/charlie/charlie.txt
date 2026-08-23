@@ -2947,7 +2947,7 @@ cantharides
 coation
 clip
 cantharidian
-cycloacetylene
+cycloacetylene 1
 cantharidize
 cantharidized
 cantharus

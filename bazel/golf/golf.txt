@@ -5714,7 +5714,7 @@ gertrude
 glowbard
 gurneyite
 gerres
-gloveress
+gloveress 1
 gimmaled
 gpad
 ganglioneuron 1
