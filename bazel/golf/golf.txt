@@ -3707,7 +3707,7 @@ galah
 geodetically
 glumelike
 ghostish 1
-gelatigenous
+gelatigenous 1
 gracilescent
 gussying
 guppy
