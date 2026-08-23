@@ -28592,7 +28592,7 @@ creepies
 creepily 1
 coxcomby
 creepiness
-chammies
+chammies 1
 creepmouse
 creeps
 creese
