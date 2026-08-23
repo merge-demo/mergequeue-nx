@@ -7024,7 +7024,7 @@ deface
 despondence
 despondencies
 despondentness
-desponder
+desponder 1
 despondingly
 desponds
 diaster
