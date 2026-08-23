@@ -41,7 +41,7 @@ bracketwise 1
 babblers
 bodement
 beneficiation
-bechirp
+bechirp 1
 bish
 bundocks
 babbly
