@@ -8414,7 +8414,7 @@ aortostenosis
 alkahest
 agalaxy
 agistment
-allopath
+allopath 1
 advertency
 assoin
 apologised
