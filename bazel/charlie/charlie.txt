@@ -8830,7 +8830,7 @@ clabbered
 characids
 cataria
 cheville
-characine
+characine 1
 creasiest
 coercibly
 cuya
