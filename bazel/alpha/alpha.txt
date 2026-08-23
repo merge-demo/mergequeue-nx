@@ -25120,7 +25120,7 @@ anagenesis
 acrosarc
 anhistic
 areography 1
-axinite
+axinite 1
 axiolite
 alimentiveness
 asterial
