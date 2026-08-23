@@ -13479,7 +13479,7 @@ exsolution
 erbia
 epithalamium
 ethnomusicology
-enterparlance
+enterparlance 1
 epidural
 episiorrhagia
 extraconstitutional
