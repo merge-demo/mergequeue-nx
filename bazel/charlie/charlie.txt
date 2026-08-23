@@ -12581,7 +12581,7 @@ chronographer
 chronography
 choreas
 crosslap
-cauterizing
+cauterizing 1
 circumventable
 chronoisothermal
 cellucotton
