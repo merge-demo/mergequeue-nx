@@ -7854,7 +7854,7 @@ donnered
 duomos 1
 dukery
 disproving
-devove
+devove 1
 discombobulates
 dalcassian
 divergencies
