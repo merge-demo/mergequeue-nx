@@ -1237,7 +1237,7 @@ bambacciata
 balaena
 blindedly
 barrowful
-bendy
+bendy 1
 barleys
 bottomer
 brimmed
