@@ -12963,7 +12963,7 @@ circumhorizontal
 catamenial
 continentality
 cyanides
-cyanidrosis
+cyanidrosis 1
 clothes
 cyanids
 cyanimide

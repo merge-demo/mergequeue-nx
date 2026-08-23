@@ -8432,7 +8432,7 @@ eglogue
 endothecate
 ethicosocial
 epizootology
-enwrought
+enwrought 1
 epocha
 embaying
 epollicate
