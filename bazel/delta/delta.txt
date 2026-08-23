@@ -1837,7 +1837,7 @@ disharmonious
 debarbarize
 daylilies
 debeige
-douzepers
+douzepers 1
 downwarp
 declinograph
 dewberry
