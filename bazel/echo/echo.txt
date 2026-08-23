@@ -14049,7 +14049,7 @@ equationism
 emes
 excitonic
 enterochromaffin
-extravagance
+extravagance 1
 extravagantly
 enchantingly
 euemerism
