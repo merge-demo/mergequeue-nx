@@ -25746,7 +25746,7 @@ chatta
 compote
 coronal
 cleruch
-corrigibly
+corrigibly 1
 corrigiola
 corrival
 corrivality
