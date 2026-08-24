@@ -25696,7 +25696,7 @@ cumquat
 correlatives
 contiguate
 crouche
-correligionist
+correligionist 1
 convertibly
 cytolysis
 correllations
