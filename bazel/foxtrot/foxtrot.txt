@@ -1628,7 +1628,7 @@ framework
 frothiest
 feltmaking
 frolickers
-frankincense
+frankincense 1
 fresher
 faxes
 folkway
