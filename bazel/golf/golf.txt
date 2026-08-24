@@ -7629,7 +7629,7 @@ gunpaper
 greyly 1
 graft
 gyal
-glossoepiglottic
+glossoepiglottic 1
 gunkholing
 girlies
 ghoster
