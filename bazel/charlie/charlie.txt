@@ -17147,7 +17147,7 @@ coadventure
 coadventured
 coadventuring
 coadvice
-coaffirmation
+coaffirmation 1
 coafforest
 coaged
 cablemen
