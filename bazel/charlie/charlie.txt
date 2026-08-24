@@ -10048,7 +10048,7 @@ crappin
 cherublike
 crystalize
 calzone
-cherusci
+cherusci 1
 chervonei
 conundrumize
 chervontsi
