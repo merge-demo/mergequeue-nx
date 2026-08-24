@@ -3680,7 +3680,7 @@ accumulative 1
 adenopodous
 adenosarcomata
 adiaphoristic
-artist
+artist 1
 acuating
 anureses
 arrant
