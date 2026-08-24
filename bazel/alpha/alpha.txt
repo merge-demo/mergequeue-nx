@@ -21627,7 +21627,7 @@ acheilous
 anteflected
 alkalizes 1
 acetometrically
-anisomerous
+anisomerous 1
 assayable
 afterpotential
 argyroneta
