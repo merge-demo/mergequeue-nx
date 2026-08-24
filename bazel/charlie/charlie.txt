@@ -27720,7 +27720,7 @@ connumeration
 convected
 chivage
 couhage
-cowpats
+cowpats 1
 compliable
 cowpen 1
 cowper
