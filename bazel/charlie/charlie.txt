@@ -3012,7 +3012,7 @@ confederatism
 cortege
 colander
 cantonal
-cantonalism
+cantonalism 1
 crapelike
 cantoner
 cowleeching
