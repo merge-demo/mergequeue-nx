@@ -3960,7 +3960,7 @@ exopathic
 estella
 escapologist
 emirate
-euxanthin
+euxanthin 1
 euskara
 extremistic
 encephalic

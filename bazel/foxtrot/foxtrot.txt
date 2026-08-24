@@ -4980,7 +4980,7 @@ frenulum
 flyway
 feebleheartedly
 flammule 1
-fatidic
+fatidic 1
 flanch
 formalize
 ferrugination
