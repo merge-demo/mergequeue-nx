@@ -9389,7 +9389,7 @@ alveolocondylean
 alpieu
 antireducing
 alpine
-appointive
+appointive 1
 aud
 axillars
 alpinesque
