@@ -5836,7 +5836,7 @@ filariid
 floatage
 farmeries
 fayal
-feverously
+feverously 1
 fluochloride
 fattening
 fervidly
