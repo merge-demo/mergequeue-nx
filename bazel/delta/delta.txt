@@ -13882,7 +13882,7 @@ doltish
 disty
 dotardy 1
 druthers
-distichal
+distichal 1
 demisable
 diadelphia
 distichlis

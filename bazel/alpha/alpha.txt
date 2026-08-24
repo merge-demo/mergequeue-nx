@@ -755,7 +755,7 @@ abashment
 autogyro
 agnition
 accordatura
-asperation
+asperation 1
 attuning
 apogalacteum
 abrasively
