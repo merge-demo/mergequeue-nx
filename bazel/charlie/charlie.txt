@@ -2827,7 +2827,7 @@ cuerpo
 canon
 churlish
 canones
-cardooer
+cardooer 1
 canonesses
 canonicalization
 cinctures
