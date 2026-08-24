@@ -7975,7 +7975,7 @@ gothonic
 ganglionectomy
 globing
 glottologies
-gnomonologically
+gnomonologically 1
 goldenmouthed 1
 gasifiable
 galline
