@@ -15592,7 +15592,7 @@ determinedly
 dool
 duumviri
 deviable
-doolfu
+doolfu 1
 dooly
 doomed
 doomer
