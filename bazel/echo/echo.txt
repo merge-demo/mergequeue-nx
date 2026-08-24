@@ -3239,7 +3239,7 @@ eludes
 educive
 extroversively
 exaltedly
-eludible
+eludible 1
 enswathes
 enfollow
 eluents
