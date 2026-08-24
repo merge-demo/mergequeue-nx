@@ -13530,7 +13530,7 @@ eyass
 extrafloral 1
 exscriptural
 execrating
-extemporarily
+extemporarily 1
 exscutellate
 extravagancy
 elflock
