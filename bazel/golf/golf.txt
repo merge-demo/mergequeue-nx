@@ -3764,7 +3764,7 @@ greenfinch
 grumpishness
 greycoat
 giants
-gratifyingly
+gratifyingly 1
 glossology
 gentian
 gouges 1
