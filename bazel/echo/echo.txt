@@ -10870,7 +10870,7 @@ examinationism
 euphemisation
 euphemise
 elected
-euphemising
+euphemising 1
 enshroud
 euphemistically
 euphemize
