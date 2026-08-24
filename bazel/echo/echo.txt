@@ -2794,7 +2794,7 @@ elementalize
 ephori 1
 elementaloid
 emperil
-essang
+essang 1
 encoronate
 eluded
 embelic
