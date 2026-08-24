@@ -10579,7 +10579,7 @@ diploe
 disbalancement
 didrachmas
 dispend
-disesteemed
+disesteemed 1
 dependable
 debouched
 decorticate
