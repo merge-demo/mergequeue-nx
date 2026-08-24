@@ -2377,7 +2377,7 @@ cogs
 companator
 chinbones
 canarian
-canaries
+canaries 1
 cohobates
 canarine
 canarium
