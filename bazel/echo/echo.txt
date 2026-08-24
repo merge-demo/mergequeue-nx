@@ -14102,7 +14102,7 @@ ericad
 exorcize
 eustatically
 enzymically
-extendedness 1
+extendedness 2
 epiphyses
 exterraneous
 entrancements
