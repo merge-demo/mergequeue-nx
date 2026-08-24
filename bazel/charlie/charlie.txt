@@ -690,7 +690,7 @@ caffeines
 cobblerless
 compensable
 caffeinic
-caffeins
+caffeins 1
 coctoantigen
 carries
 caffeism
