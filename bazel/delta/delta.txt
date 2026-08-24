@@ -6411,7 +6411,7 @@ denization
 dewans 1
 doggones
 diglyphic
-docquet
+docquet 1
 druidic
 deewans
 deportment
