@@ -10373,7 +10373,7 @@ assisting
 astuteness
 apitpat 1
 angiotonase
-autonym
+autonym 1
 aneled
 antidancing
 audio
