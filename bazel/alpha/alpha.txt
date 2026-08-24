@@ -20373,7 +20373,7 @@ amyous
 admeasure
 austerities
 apostolicalness
-arcsines
+arcsines 1
 anticorrosives
 autoradiography
 authenticators
