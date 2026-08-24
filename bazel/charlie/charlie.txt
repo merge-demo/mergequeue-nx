@@ -4329,7 +4329,7 @@ caribe
 cauterised
 caribed
 calyphyomy
-canonicity
+canonicity 1
 cladophyll
 codeias
 caribing
