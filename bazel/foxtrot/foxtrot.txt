@@ -9014,7 +9014,7 @@ fondling
 fasc
 foremistress
 fizelyite
-feeling
+feeling 1
 freakery
 flimflammer
 fistle
