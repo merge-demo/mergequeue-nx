@@ -11924,7 +11924,7 @@ expurgation 1
 ephidrosis
 excerebration
 extraphysical
-endemiology
+endemiology 1
 eudaemonistically
 excursory
 equiradical
