@@ -8087,7 +8087,7 @@ epiphloeum
 etherize
 essoign
 emotional
-exceptive
+exceptive 1
 empowerment
 equicrural
 electrooculogram
