@@ -11100,7 +11100,7 @@ evangelisation
 energized
 evans
 expiate
-eusthenopteron
+eusthenopteron 1
 electros
 espies
 esquiredom
