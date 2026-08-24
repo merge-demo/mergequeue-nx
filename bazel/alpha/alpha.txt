@@ -2717,7 +2717,7 @@ acrylonitrile
 attributes
 agonistically
 appleringie
-antiscorbutic
+antiscorbutic 1
 acrimonious
 acrindoline
 allamonti
