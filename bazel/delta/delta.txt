@@ -2675,7 +2675,7 @@ decomposers
 daddocky
 decomposure
 digne
-dogwatches
+dogwatches 1
 decompoundable
 diffractional
 decompoundly
