@@ -13225,7 +13225,7 @@ explainableness
 eductor
 epiphytism
 eldred
-exheredate
+exheredate 1
 excluders
 exoarteritis
 exanthalose
