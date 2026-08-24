@@ -5319,7 +5319,7 @@ formonitrile
 festuca
 fingerprinting
 ferry
-faitery
+faitery 1
 flb
 fantasque
 flutey
