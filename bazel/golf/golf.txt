@@ -768,7 +768,7 @@ galvanotherapy
 geomorphic
 galvanotropism
 guntub
-globulolysis
+globulolysis 1
 gaulter
 glossolalist
 gutter 1
