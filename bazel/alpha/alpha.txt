@@ -18754,7 +18754,7 @@ archearl
 andrew
 archebanc
 archebancs
-alkine
+alkine 1
 amylocoagulase
 aguilarite
 ascocarpous
