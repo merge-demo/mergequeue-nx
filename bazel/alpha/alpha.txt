@@ -21750,7 +21750,7 @@ antiberiberin
 antiphonic
 assents
 asseour
-assert
+assert 1
 asserta
 albanenses
 assertable
