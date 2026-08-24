@@ -20054,7 +20054,7 @@ aromatised
 aromatitae
 alcoholizing
 appetize
-anaphoras
+anaphoras 1
 apophyses
 ambrosial
 allomerizing
