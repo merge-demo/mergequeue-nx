@@ -7383,7 +7383,7 @@ cephalometric
 clysis
 cephalonasal
 cephalopathy
-cephalopharyngeal
+cephalopharyngeal 1
 cephalophyma
 cephalophine
 cryostats
