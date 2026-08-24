@@ -11843,7 +11843,7 @@ extromit
 excalceate
 emasculatory
 excalceation
-excalibur
+excalibur 1
 esophagectasia 1
 erythrophore
 euconic

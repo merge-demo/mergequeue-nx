@@ -31137,7 +31137,7 @@ cordierite
 cunnings 1
 cunoniaceous
 cunt
-chantor
+chantor 1
 cunzie
 cutlines
 cupay
