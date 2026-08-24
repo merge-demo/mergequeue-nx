@@ -14519,7 +14519,7 @@ anteropygal
 anthropology
 apostrophised
 adapis 1
-anthropometry
+anthropometry 1
 anuloma
 anthropometric
 acrocarpi
