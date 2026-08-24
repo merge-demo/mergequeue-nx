@@ -2616,7 +2616,7 @@ abutters
 acquire
 antescript
 asiden
-acquisite
+acquisite 1
 arricciati
 appraiser
 alferes
