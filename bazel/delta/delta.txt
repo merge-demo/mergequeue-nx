@@ -6396,7 +6396,7 @@ derogating
 derogative
 derogator
 derogatory
-dooja
+dooja 1
 dermovaccine
 dischurch
 drawer
