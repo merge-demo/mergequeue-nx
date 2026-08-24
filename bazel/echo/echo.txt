@@ -5245,7 +5245,7 @@ either
 endoneurium
 edify
 equestrianism 1
-equinely
+equinely 1
 entier
 erythrogen
 encinder
