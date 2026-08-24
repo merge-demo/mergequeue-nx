@@ -3476,7 +3476,7 @@ dashboards
 disavowance
 dehydroffrozen
 defoedation
-defogged
+defogged 1
 disyllable
 dormered
 drogh
