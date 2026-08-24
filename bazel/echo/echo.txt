@@ -3184,7 +3184,7 @@ exhaustiveness
 eom
 emmarble
 elaborate
-evinced
+evinced 1
 egghead
 entertainingness
 envisagement
