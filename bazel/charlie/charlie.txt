@@ -16520,7 +16520,7 @@ clogwyn
 clogwood
 calvinian
 cloy
-cloyedness
+cloyedness 1
 chloralization
 cloyingly
 complexions
