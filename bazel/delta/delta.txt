@@ -7715,7 +7715,7 @@ deeded
 devilishness
 darshana
 displaceable
-devility
+devility 1
 deprotestantize
 daurna
 devilize
