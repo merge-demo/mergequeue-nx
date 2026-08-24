@@ -3995,7 +3995,7 @@ decides
 disintensify
 duplex
 devitalise
-deputized
+deputized 1
 distune
 delectating
 damnously
