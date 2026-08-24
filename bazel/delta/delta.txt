@@ -7559,7 +7559,7 @@ drawout
 derner
 dunziekte
 desilverization
-deuterosy
+deuterosy 1
 drubber
 ducktail
 druidesses
