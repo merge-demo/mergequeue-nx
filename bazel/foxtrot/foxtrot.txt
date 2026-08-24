@@ -1646,7 +1646,7 @@ forthcut
 fluible
 flamboyantly
 furbelowed 1
-focally
+focally 1
 fice
 feaberry
 ferrandin
