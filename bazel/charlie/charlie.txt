@@ -19109,7 +19109,7 @@ cedes
 cystocyte
 collisive
 curtseying
-cunningest
+cunningest 1
 caracoler
 collyweston
 commonalty
