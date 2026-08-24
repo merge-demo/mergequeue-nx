@@ -599,7 +599,7 @@ graveolence
 graters
 gutierrez
 gyrinidae
-geocronite
+geocronite 1
 germanity
 gigue
 guarauno
