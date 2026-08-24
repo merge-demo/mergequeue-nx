@@ -5957,7 +5957,7 @@ floodlight
 forthinking
 furzes
 fearlessly
-favonius
+favonius 1
 frenchification
 frailly
 floodlilit
