@@ -8483,7 +8483,7 @@ escarmouche
 electrophotometry
 epileptoid
 ergatandrous
-exterminators
+exterminators 1
 electrodissolution
 eydent
 expansions
