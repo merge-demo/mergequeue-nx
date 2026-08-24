@@ -6214,7 +6214,7 @@ ascendency
 acetnaphthalide
 avirulent
 annexer
-activable
+activable 1
 amphioxis
 audile
 amyluria
