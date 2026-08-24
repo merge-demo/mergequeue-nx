@@ -5820,7 +5820,7 @@ glave
 guanidin
 grasshopperish
 gastrodisk
-gurjara
+gurjara 1
 glowering
 glowingly
 glows 1
