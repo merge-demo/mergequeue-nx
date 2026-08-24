@@ -264,7 +264,7 @@ firedamp
 fadge
 furfuramide
 furniment
-fermery
+fermery 1
 flattered
 fiduciary
 fellagha
