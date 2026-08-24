@@ -12051,7 +12051,7 @@ boyo
 blizzardy
 boyology
 battiest
-boiserie
+boiserie 1
 bifurcous
 boyship
 boisterous
