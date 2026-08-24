@@ -10993,7 +10993,7 @@ flintiest
 foreproffer
 foreweep
 fatlike
-furfurol
+furfurol 1
 fumblers
 feign
 fumbles
