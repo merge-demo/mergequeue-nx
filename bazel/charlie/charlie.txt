@@ -27148,7 +27148,7 @@ crocheting
 coprostasis
 chittered
 counterstimulate
-counterstimulation
+counterstimulation 1
 counterstimulus 1
 counterstock
 counterstroke

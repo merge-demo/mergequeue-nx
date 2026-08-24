@@ -7029,7 +7029,7 @@ gladioli
 gentil
 gumshoes 1
 glazier
-glamorizes
+glamorizes 1
 grillade
 grindle
 gomart
