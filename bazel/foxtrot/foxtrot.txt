@@ -3883,7 +3883,7 @@ fieldball
 floria
 firmnesses
 frizzles
-fanglomerate
+fanglomerate 1
 figurings
 farleu
 fimbrillate
