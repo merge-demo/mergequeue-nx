@@ -13823,7 +13823,7 @@ delphinin
 distanceless
 distancy
 dissimilar
-diabolarchy
+diabolarchy 1
 distancing
 dalmatian
 disjoining
