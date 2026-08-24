@@ -2657,7 +2657,7 @@ fifty
 frostbow
 fetish
 flashy
-frump
+frump 1
 feckulence
 ferter
 felliducous
