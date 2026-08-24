@@ -7967,7 +7967,7 @@ berhyming
 bichloride
 borazons
 bioxalate
-bichos
+bichos 1
 bichromatize
 bedebt
 bellworts
