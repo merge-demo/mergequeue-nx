@@ -942,7 +942,7 @@ duskiest
 digonous
 dauts
 detachers
-directives
+directives 1
 dewed
 dures
 darb
