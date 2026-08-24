@@ -7483,7 +7483,7 @@ dignosce
 discoverably
 demobbing 1
 detur
-deturpate
+deturpate 1
 decomposability
 demurity
 dopster
