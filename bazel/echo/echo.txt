@@ -11762,7 +11762,7 @@ ephydrid
 euplocomi
 engoue
 excarnation
-erysipelous
+erysipelous 1
 epanadiplosis
 elusory
 excavating
