@@ -11928,7 +11928,7 @@ cruces
 cosmochemistry
 choreoid
 crocidolite
-chorepiscopal
+chorepiscopal 1
 chorepiscope
 catheterize
 canoodling
