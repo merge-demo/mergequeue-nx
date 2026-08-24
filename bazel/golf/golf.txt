@@ -7263,7 +7263,7 @@ gammas
 gromyl 1
 gormand
 gibbus
-gemmingia
+gemmingia 1
 gormandised
 geissolomataceous
 graduators
