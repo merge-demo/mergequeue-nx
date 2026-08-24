@@ -2083,7 +2083,7 @@ banquet
 blindish
 bardiest
 banqueting
-beseem
+beseem 1
 buddhistic
 besteer
 bladeless
