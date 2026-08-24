@@ -4502,7 +4502,7 @@ encephalartos
 encephalasthenia
 effloresced 1
 escocheon
-erythrophagous
+erythrophagous 1
 encephalitic 1
 executively 1
 emulators
