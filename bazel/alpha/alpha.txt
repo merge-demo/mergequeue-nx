@@ -595,7 +595,7 @@ adrenalectomies
 adjure
 abnormalized
 anatomical
-amynodont
+amynodont 1
 abococket
 abode
 aryballus
