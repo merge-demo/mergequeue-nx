@@ -11366,7 +11366,7 @@ exigency
 ethnohistory
 exotropic
 electrodesiccation
-evenforth
+evenforth 1
 eryopid
 edificator
 eruciform
