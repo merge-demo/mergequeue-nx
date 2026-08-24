@@ -10035,7 +10035,7 @@ cherubfish
 cherubfishes
 chauffeuring 1
 cherubic
-chowder
+chowder 1
 cabernet
 cherubical
 caribisi
