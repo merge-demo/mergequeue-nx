@@ -1025,7 +1025,7 @@ abstricting
 abstrusest
 avulsing
 antiwit
-abstrusity
+abstrusity 1
 adlai
 abstrusities
 angiogenesis
