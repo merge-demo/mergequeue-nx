@@ -12433,7 +12433,7 @@ diastereoisomer
 dampne
 dishome
 dishonor
-distendedness
+distendedness 1
 dishonorer
 doctrinairism
 deresinize
