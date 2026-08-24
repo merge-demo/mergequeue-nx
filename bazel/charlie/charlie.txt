@@ -27521,7 +27521,7 @@ conceptualistic
 corpus
 cocas
 canephoros
-covenance
+covenance 1
 cammed
 covenantal
 corrodant
