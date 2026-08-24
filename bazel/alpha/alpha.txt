@@ -2913,7 +2913,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
+aerobatics 1
 albugineous
 acrostical
 acrostichoid
