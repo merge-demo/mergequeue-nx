@@ -22155,7 +22155,7 @@ audiograms
 asthenical
 arpeggiando
 arrowstone
-apetalousness
+apetalousness 1
 archeology
 asthenolith
 asthenology
