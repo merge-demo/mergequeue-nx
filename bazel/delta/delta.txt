@@ -15127,7 +15127,7 @@ dogstones
 dogtie
 degenerated
 dogtooth
-diabetogenous
+diabetogenous 1
 delegare
 demographist
 dyaus
