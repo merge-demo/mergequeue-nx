@@ -1696,7 +1696,7 @@ dismissive
 dears
 dottard
 dupability
-disadvantage
+disadvantage 1
 dignity
 disentrain
 dispond
