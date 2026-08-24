@@ -2586,7 +2586,7 @@ giltheads
 guillotined 1
 grassed
 gyrogonite
-guigne
+guigne 1
 gargling
 gametogeny
 generant
