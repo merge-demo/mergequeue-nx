@@ -2063,7 +2063,7 @@ bollixing 1
 bannat
 baulky
 bannerline
-bannerole 1
+bannerole 2
 blossomry
 bronchus
 bcf
