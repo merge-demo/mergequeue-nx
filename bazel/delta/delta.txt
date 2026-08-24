@@ -5039,7 +5039,7 @@ dialypetalae
 disgusting
 dictamen
 denasalized
-dequeued
+dequeued 1
 devotes
 doand
 dextrocardia
