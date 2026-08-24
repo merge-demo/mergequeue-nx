@@ -3181,7 +3181,7 @@ draughtily
 defectible
 defecting
 dezincified
-distaff
+distaff 1
 doltishness
 depolarizes
 devotionalness 1
