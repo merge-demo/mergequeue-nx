@@ -21135,7 +21135,7 @@ concealedly
 concealedness
 concealer
 concealing
-conceals
+conceals 1
 coleopteran
 cimmerian
 concededly

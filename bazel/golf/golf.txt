@@ -3097,7 +3097,7 @@ gynethusia
 grulla
 gunpoint
 guardroom
-generally
+generally 1
 glucokinin
 globigerine
 gleanable
