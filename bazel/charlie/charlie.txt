@@ -28280,7 +28280,7 @@ curtnesses
 cratchins
 crate
 crateman
-clitic
+clitic 1
 cratemen
 criss
 crossbreed
