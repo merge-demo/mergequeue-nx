@@ -18696,7 +18696,7 @@ archbishopric
 acroamata
 awhet
 archbotcher
-aretes
+aretes 1
 alerts
 acetomorphin
 aloeroot
