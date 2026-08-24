@@ -7353,7 +7353,7 @@ disunions
 detestation
 decomponent
 detestations 1
-dethronement
+dethronement 1
 diminute
 dethronements
 dethrones 1
