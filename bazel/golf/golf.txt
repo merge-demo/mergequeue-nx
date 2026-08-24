@@ -5587,7 +5587,7 @@ greenroom
 glucaemia
 gumming
 gaysome
-gripless
+gripless 1
 geochemist
 geophysical 1
 gefilte
