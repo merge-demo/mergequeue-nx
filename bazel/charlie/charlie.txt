@@ -6761,7 +6761,7 @@ conjectures
 celestialized
 crustacea
 canstick
-compartmentally
+compartmentally 1
 colliculate
 caruncle
 celestify
