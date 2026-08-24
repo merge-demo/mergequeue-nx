@@ -7324,7 +7324,7 @@ epochism
 escalier
 exception
 epalpebrate
-eurypylous
+eurypylous 1
 eternises
 enolize
 exemplariness
