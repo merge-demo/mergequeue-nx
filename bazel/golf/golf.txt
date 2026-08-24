@@ -6639,7 +6639,7 @@ glycosuria 1
 gossans
 gurglingly
 gruss
-grittiest
+grittiest 1
 gyrodyne
 gateman
 gropes
