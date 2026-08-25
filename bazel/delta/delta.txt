@@ -17809,7 +17809,7 @@ demographies
 deskmen
 ducs
 determents
-disaggregate
+disaggregate 1
 diluents
 depolarising
 dhunchee
