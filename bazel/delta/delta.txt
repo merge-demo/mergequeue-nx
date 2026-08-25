@@ -12732,7 +12732,7 @@ distrustfully
 disoxidate
 diazotizing
 dislive
-defectoscope
+defectoscope 1
 dislluminate
 dubbings
 difference
