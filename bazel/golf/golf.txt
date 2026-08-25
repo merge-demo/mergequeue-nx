@@ -2807,7 +2807,7 @@ guemul
 garblings
 grandisonous
 gathers
-gazettal
+gazettal 1
 grigris
 gormless
 glottalite
