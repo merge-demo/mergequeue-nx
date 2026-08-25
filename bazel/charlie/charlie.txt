@@ -29572,7 +29572,7 @@ critling
 coadunating
 critters
 crittur
-cardiokinetic
+cardiokinetic 1
 consular
 crivetz
 constraint
