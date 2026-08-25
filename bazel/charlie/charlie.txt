@@ -16627,7 +16627,7 @@ closable
 closeable
 closecross
 closed
-closefistedly
+closefistedly 1
 closefistedness
 concussant
 clubbiest
