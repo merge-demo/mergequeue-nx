@@ -7833,7 +7833,7 @@ gegg 1
 groaners
 glutter
 guillotines
-globs
+globs 1
 gristmilling
 graphospasm 1
 gerents

@@ -20612,7 +20612,7 @@ adulators 1
 arthromeric
 afterplay
 adamantoma
-arthrometry
+arthrometry 1
 atsara
 alvine
 apospories
