@@ -4730,7 +4730,7 @@ fobbing
 fijian
 fulgor
 ferrugineous
-flabella
+flabella 1
 frises
 facy 1
 factice
