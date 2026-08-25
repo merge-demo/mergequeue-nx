@@ -7109,7 +7109,7 @@ cadent
 chimed
 centillionth
 crood
-centiloquy
+centiloquy 1
 casziel
 canton 1
 caliculus
