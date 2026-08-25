@@ -10696,7 +10696,7 @@ embraced
 endopleural
 erebus
 euglenoid
-electrotypic
+electrotypic 1
 evenworthy
 ecossaise
 egosyntonic
