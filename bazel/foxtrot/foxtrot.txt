@@ -11262,7 +11262,7 @@ finbacks
 forrit
 funster
 furans
-furacious
+furacious 1
 file
 farces
 frabjous
