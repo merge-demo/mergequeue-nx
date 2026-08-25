@@ -10733,7 +10733,7 @@ guergal
 gustatorial
 groupie
 gustfully
-guaycuru
+guaycuru 1
 groundlessly
 gypsyisms
 gnomonological
