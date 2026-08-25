@@ -2237,7 +2237,7 @@ barbarising
 bragless
 barbarities
 barbarization
-boucle
+boucle 1
 begoggled
 brigid
 bijective
