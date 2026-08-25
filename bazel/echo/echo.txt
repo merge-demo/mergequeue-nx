@@ -5904,7 +5904,7 @@ epigramme
 exacerbescence
 epidendral
 exsiccate
-engrossedly
+engrossedly 1
 engrosser
 endocarditic
 eubacteriales
