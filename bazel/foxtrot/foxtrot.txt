@@ -4951,7 +4951,7 @@ firmware 1
 fulcraceous 1
 flagarie
 flamencos
-funtumia
+funtumia 1
 fevertwitch
 fraunch
 flameout
