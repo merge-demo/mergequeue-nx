@@ -31414,7 +31414,7 @@ cheiceral
 chiropodist
 curledly
 centranthus
-curledness
+curledness 1
 chondrules
 curler
 canoed
