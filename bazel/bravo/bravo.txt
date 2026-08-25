@@ -10657,7 +10657,7 @@ bevel
 blindly
 brotulid 1
 begarnish
-blearing
+blearing 1
 blearness
 balarao
 bleated
