@@ -2055,7 +2055,7 @@ artemisin
 affiliation
 amylohydrolytic
 antiputrefactive
-anammonid
+anammonid 1
 altitudinal
 acheiria
 aboveboard
