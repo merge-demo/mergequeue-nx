@@ -8006,7 +8006,7 @@ chimin
 caravansaries
 camphoraceous
 chaccon
-chachalakas
+chachalakas 1
 chackchiuma
 chacker
 cannelon
