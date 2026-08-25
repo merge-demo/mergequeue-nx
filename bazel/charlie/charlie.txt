@@ -3659,7 +3659,7 @@ carlish
 cucumiform
 caraja
 carajas
-carambole
+carambole 1
 coextensively 1
 caviler
 caramboling
