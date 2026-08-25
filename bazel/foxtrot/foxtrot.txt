@@ -10589,7 +10589,7 @@ fibrination
 finement
 fatefulness
 fuzzes
-fulgent
+fulgent 1
 foiling
 foilsman
 filaceous
