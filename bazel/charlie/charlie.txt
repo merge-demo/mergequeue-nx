@@ -31834,7 +31834,7 @@ cutinising
 cutinize 1
 cutireaction
 corymb
-cutisector
+cutisector 1
 centillion
 cutises
 cutiterebra
