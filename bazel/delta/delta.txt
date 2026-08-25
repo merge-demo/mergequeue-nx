@@ -4154,7 +4154,7 @@ didrachmal 1
 dreikanters
 doctrinization
 dishonourable
-divagate
+divagate 1
 disherit
 delisk
 delists
