@@ -11765,7 +11765,7 @@ cucurbitaceae
 chondromatous
 chondromyces
 cissoids
-chukkas
+chukkas 1
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
