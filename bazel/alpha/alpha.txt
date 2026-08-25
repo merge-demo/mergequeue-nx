@@ -22967,7 +22967,7 @@ atrip
 asthenopic
 argyraspides 1
 asquat
-archaical
+archaical 1
 atriplex
 atrypoid
 assimilation
