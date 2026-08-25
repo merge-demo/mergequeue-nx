@@ -14821,7 +14821,7 @@ budges
 backstretch 1
 buckles
 brazilian
-bewailing
+bewailing 1
 bunked
 billycock
 baulks
