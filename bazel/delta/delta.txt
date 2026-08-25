@@ -15727,7 +15727,7 @@ doricism
 dorylinae
 dyemaker
 deflectometer
-dakota
+dakota 1
 dendrochronologist
 diphosphid
 denunciation
