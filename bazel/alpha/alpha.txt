@@ -10723,7 +10723,7 @@ abrazo
 amins
 anacrusis
 aminta
-amyotonia
+amyotonia 1
 appendicious
 averting
 archivists
