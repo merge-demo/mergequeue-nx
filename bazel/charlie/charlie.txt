@@ -16420,7 +16420,7 @@ cheveron
 cutlets
 castellanus
 circulable
-ceriferous
+ceriferous 1
 cloacinal
 cordelled
 cloacitis
