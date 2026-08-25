@@ -9435,7 +9435,7 @@ garroted
 glandulation
 gluttingly 1
 geonic
-gabelle
+gabelle 1
 gotchy
 greekery
 groundedly
