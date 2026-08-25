@@ -10751,7 +10751,7 @@ disinfects
 dhoon
 decessor
 dipsie
-declared
+declared 1
 decarboxylize
 drainspout
 drools
