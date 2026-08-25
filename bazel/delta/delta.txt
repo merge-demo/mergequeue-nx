@@ -1275,7 +1275,7 @@ danthonia
 discal
 dusted
 diazoic
-denari
+denari 1
 demitasses
 datives
 deplane
