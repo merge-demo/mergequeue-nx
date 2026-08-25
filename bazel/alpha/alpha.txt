@@ -3047,7 +3047,7 @@ adelops
 autochton
 actinomycete
 allogeneity
-analcime
+analcime 1
 actinomycosistic
 alacrify
 aphrodisiac
