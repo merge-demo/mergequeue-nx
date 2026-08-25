@@ -1317,7 +1317,7 @@ balatte
 bergfall
 bermudian
 bernoullian
-bingy
+bingy 1
 burelage
 bedways
 balaustine
