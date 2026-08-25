@@ -3947,7 +3947,7 @@ garrisons
 gipsy
 gynaecocratic
 geneal
-gigawatt
+gigawatt 1
 gutser
 glochchidia
 garote
