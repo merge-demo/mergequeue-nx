@@ -8064,7 +8064,7 @@ glenoidal
 granitiform
 geomancer
 gastrostomus
-granitite
+granitite 1
 geomagnetism
 ghain
 genteelish
