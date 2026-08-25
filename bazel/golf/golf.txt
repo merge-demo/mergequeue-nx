@@ -10750,7 +10750,7 @@ gypsyry
 gedackt
 geckotoid
 globulin
-gorsebird
+gorsebird 1
 grovelers
 gerodontics
 germinator
