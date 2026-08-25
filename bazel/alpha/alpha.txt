@@ -12255,7 +12255,7 @@ argumentatively
 amazonite
 arcades
 anchusas
-aselgeia
+aselgeia 1
 amblypoda
 arteriosympathectomy
 archcupbearer
