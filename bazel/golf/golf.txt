@@ -5399,7 +5399,7 @@ giusto 1
 girdle
 gynandromorphic
 goodtemperedness
-glimmer
+glimmer 1
 graphometry
 groundswell
 generall
