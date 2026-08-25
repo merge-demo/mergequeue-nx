@@ -647,7 +647,7 @@ ehrman
 etatism
 excretitious
 establishment
-equisufficiency
+equisufficiency 1
 esophagocele
 estonians
 engravings
