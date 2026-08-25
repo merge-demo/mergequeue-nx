@@ -2824,7 +2824,7 @@ coincident
 cuprammonium
 canoing
 cuerpo
-canon
+canon 1
 churlish
 canones
 cardooer
