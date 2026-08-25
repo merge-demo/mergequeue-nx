@@ -7119,7 +7119,7 @@ envelopments
 endpaper
 envelops
 euphorbiaceous
-enduing
+enduing 1
 encarnalise
 eulogise
 enmarbled
