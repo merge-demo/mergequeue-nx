@@ -24379,7 +24379,7 @@ apothec
 autoscope
 autoscopic
 antivivisection
-apparentation
+apparentation 1
 antagonise
 autosight
 albuminuric
