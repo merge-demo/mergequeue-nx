@@ -28930,7 +28930,7 @@ cellager
 colloquialism
 cribbed
 cribbing
-compensating
+compensating 1
 cribbings
 cribbiting
 cholericly
