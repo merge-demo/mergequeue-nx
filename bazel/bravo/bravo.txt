@@ -2250,7 +2250,7 @@ barbarized
 beleaping
 bona
 buteo
-bedizens
+bedizens 1
 butted
 bummil
 bindoree
