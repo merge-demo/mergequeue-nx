@@ -4993,7 +4993,7 @@ embryotomy
 endellionite
 eucephalous
 emigates
-electrocorticogram
+electrocorticogram 1
 envy
 extirpative
 equinia
