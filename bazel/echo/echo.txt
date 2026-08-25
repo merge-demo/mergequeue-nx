@@ -12597,7 +12597,7 @@ euphon
 ethion
 eunuchry
 exocoelar
-exocoele
+exocoele 1
 excusing
 electrophoreses
 exocoelic
