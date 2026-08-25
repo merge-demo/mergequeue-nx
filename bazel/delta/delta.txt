@@ -14139,7 +14139,7 @@ desacralize
 diapason
 disulfiram
 doyst
-disulfonic
+disulfonic 1
 dispread
 disulfoxid
 dhobi
