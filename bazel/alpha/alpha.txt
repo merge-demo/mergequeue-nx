@@ -13766,7 +13766,7 @@ allobroges
 approved
 amusable
 abortuses
-ambisyllabic
+ambisyllabic 1
 altimeter
 accrementition
 ancyrene
