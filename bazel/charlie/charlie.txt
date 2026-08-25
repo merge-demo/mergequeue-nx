@@ -21953,7 +21953,7 @@ confider
 confiders
 confiding 1
 coppa
-confidingly
+confidingly 1
 cessation
 canorousness
 confidingness
