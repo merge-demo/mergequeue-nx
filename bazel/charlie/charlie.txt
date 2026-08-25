@@ -14331,7 +14331,7 @@ calorific
 cointers
 corniness
 cystorrhagia
-circumspheral
+circumspheral 1
 circumsphere
 circumstances
 connarite
