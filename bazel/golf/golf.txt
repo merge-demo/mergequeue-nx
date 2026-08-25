@@ -10079,7 +10079,7 @@ galivanting
 glore
 gudgeon 1
 grobianism 1
-gauntest
+gauntest 1
 graecize
 gainings
 gramophonically
