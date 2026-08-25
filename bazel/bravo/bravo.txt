@@ -8806,7 +8806,7 @@ binnogue
 battel
 backstrap
 bepill
-binocularly
+binocularly 1
 binoculars
 binodose
 buckbean
