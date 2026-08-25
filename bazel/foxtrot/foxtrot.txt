@@ -2227,7 +2227,7 @@ freshmanhood
 fikie
 fiscus
 firebombs
-fuliguline
+fuliguline 1
 flatcars
 fructosan
 ferrara
