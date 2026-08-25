@@ -4482,7 +4482,7 @@ admiralty
 adventitiousness 1
 archdemon
 adventive
-abysses
+abysses 1
 adventively
 apaesthesia
 automobilism
