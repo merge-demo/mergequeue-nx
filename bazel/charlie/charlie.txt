@@ -9759,7 +9759,7 @@ collisions
 conjunctiva
 chelicer
 cysts
-chelide
+chelide 1
 csardas
 cowheart
 chelydidae
