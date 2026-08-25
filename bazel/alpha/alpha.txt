@@ -4893,7 +4893,7 @@ appeasement 1
 amnesiac
 aerodontalgia
 arcanum
-algorithms
+algorithms 1
 antipedal
 adoors
 archhost 1
