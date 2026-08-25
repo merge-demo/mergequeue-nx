@@ -27688,7 +27688,7 @@ clockers
 chincloth
 cowier
 copalms
-cowiest 1
+cowiest 2
 carnage
 cowing
 carcinosarcomata
