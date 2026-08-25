@@ -1855,7 +1855,7 @@ dermatoglyphics
 devirginator
 debitum
 declaratory 1
-douvecot
+douvecot 1
 dorsale
 deblai
 deblaterate
