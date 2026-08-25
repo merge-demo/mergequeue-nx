@@ -9740,7 +9740,7 @@ cheka
 centennial
 chekan
 connatal
-cheke
+cheke 1
 cheken
 chekhov
 composal 1
