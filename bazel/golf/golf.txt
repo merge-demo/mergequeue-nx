@@ -3469,7 +3469,7 @@ grum
 gubernance
 gove
 gaveler
-geometers
+geometers 1
 gudgeons
 gowl
 gelatinated
