@@ -7917,7 +7917,7 @@ clericate
 collieshangie
 cetane
 cetanes
-cete
+cete 1
 cetera 1
 ceterach
 ceti
