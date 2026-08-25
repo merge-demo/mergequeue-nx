@@ -1510,7 +1510,7 @@ groose
 guaxima
 glandless
 gorlin
-gregarinidal
+gregarinidal 1
 grote
 genapping
 geratology 1
