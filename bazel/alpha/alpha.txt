@@ -18784,7 +18784,7 @@ apotropaism
 alebench
 adoxaceae
 angioneoplasm
-apraxia
+apraxia 1
 archeocyte
 acneform
 archeolithic
