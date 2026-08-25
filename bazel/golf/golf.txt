@@ -1803,7 +1803,7 @@ glossolaly
 gutterblood
 gelatinotype
 grippelike
-ghyll
+ghyll 1
 glutinate
 gestalten 2
 granodioritic
