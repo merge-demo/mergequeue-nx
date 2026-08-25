@@ -669,7 +669,7 @@ divorcement
 decapitalize
 damped
 desquamated
-dukely
+dukely 1
 deafen
 dudgeons
 dodecastylar
