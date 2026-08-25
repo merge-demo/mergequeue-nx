@@ -8291,7 +8291,7 @@ dependancy
 dynamiting
 dagesh
 desonation
-digitation
+digitation 1
 doombook
 dialyzer
 diagrams
