@@ -11063,7 +11063,7 @@ distended
 decrepitly
 dullsville
 deadpan
-disappointedly
+disappointedly 1
 diakinesis
 decarbonylate
 disappearer
