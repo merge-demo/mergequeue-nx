@@ -26716,7 +26716,7 @@ carvacrol
 countercompany
 counterattractive
 costulation 1
-counteravouch
+counteravouch 1
 counteravouchment
 counterbalanced
 crackerjack
