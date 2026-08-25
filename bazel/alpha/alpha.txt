@@ -10862,7 +10862,7 @@ aryan
 ammonifies
 arapaho
 acholias
-arctiidae
+arctiidae 1
 ammonion
 ammonitess
 ammonitic
