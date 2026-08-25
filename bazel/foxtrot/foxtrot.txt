@@ -5609,7 +5609,7 @@ fascicled
 formerness
 fourgons
 flight 1
-frusla
+frusla 1
 fortitude
 flighter
 fraik
