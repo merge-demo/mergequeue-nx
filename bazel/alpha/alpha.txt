@@ -12529,7 +12529,7 @@ anaspida 1
 anguillidae
 anemopathy
 astroscope
-antisudorific
+antisudorific 1
 anemoscope
 albifying
 aurorian

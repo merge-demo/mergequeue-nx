@@ -1022,7 +1022,7 @@ fretful
 federalese
 filicornia
 fragmentalize
-flatboats
+flatboats 1
 finalists
 farinometer
 farinose
