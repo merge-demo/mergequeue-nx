@@ -8247,7 +8247,7 @@ geranin
 grouthead
 glucosan
 gator
-giantly
+giantly 1
 gyrations
 gram
 graphological
