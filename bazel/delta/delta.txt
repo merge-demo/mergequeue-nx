@@ -3236,7 +3236,7 @@ demimondaine
 dissentient
 distrainor
 defendant
-discocephalous
+discocephalous 1
 dir
 decorativeness
 defenestrating
