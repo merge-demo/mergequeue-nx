@@ -12656,7 +12656,7 @@ antipragmatical
 adversely
 azoxyanisole
 atresias
-autophonoscope
+autophonoscope 1
 appetizement
 angarep
 anticryptically
