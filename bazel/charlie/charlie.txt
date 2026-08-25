@@ -2271,7 +2271,7 @@ cholecyst
 canadian
 coagulase
 canadianize
-compassionable
+compassionable 1
 catchwords
 counterlathing
 centaurus
