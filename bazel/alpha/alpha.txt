@@ -760,7 +760,7 @@ attuning
 apogalacteum
 abrasively
 abrazite
-antirevolutionaries
+antirevolutionaries 1
 antipolitically
 aviarists
 allurements
