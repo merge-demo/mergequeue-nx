@@ -1342,7 +1342,7 @@ accelerates
 alinotum
 accelerative
 aboiteaux
-adiaphanousness
+adiaphanousness 1
 azote
 aug
 aqueducts
