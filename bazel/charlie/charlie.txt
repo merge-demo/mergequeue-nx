@@ -5961,7 +5961,7 @@ chronophotograph
 contractibly
 cutcha
 cathedrated
-cathedratic
+cathedratic 1
 cathedraticum
 cathepsin
 cathern
