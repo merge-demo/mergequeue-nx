@@ -24706,7 +24706,7 @@ copping
 croppers
 coppra
 chamidae
-closenesses 1
+closenesses 2
 copra
 copraemia
 cencerros
