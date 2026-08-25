@@ -16105,7 +16105,7 @@ doughtiest
 doughtily
 disaffections 1
 diplozoon
-deaning
+deaning 1
 drimys
 deterration
 denaturisation
