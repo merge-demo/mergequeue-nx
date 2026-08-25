@@ -3697,7 +3697,7 @@ degressive
 dactylopterus
 daunting
 dictamnus
-degust
+degust 1
 dasnt
 degusted
 dregginess
