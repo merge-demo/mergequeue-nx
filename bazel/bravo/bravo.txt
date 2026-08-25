@@ -5045,7 +5045,7 @@ beltcourse
 bigotedly
 befalling
 benzomorpholine
-befalls
+befalls 1
 botanised
 battlers
 blazoned
