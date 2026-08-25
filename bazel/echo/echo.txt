@@ -5413,7 +5413,7 @@ explicators
 esquiline
 empyreum
 eophyte
-eccentrometer
+eccentrometer 1
 endothermal
 endothermy
 ectopatagia
