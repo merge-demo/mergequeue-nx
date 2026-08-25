@@ -10712,7 +10712,7 @@ forbore
 frumpishly
 fanciness
 foreyear
-follyer
+follyer 1
 fructified
 fascistize
 filagree
