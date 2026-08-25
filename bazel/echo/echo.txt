@@ -858,7 +858,7 @@ eudemonism
 encorbelment
 epiderms
 emraud
-englobement
+englobement 1
 eddic
 entourages
 epistolizer
