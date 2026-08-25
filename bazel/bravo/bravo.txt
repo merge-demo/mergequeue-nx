@@ -5212,7 +5212,7 @@ ballistophobia
 bumpkinet
 berating
 bardish
-bacteriostatic
+bacteriostatic 1
 beggarhood
 bergamots
 befurbelowed
