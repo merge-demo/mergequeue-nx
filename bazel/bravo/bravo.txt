@@ -17902,7 +17902,7 @@ buginese
 bushelling
 boopis
 busher
-bernoo
+bernoo 1
 bushfighting
 bushfires
 backslider
