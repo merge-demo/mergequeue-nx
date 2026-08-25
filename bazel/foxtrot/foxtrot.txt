@@ -905,7 +905,7 @@ fanums
 ferine 1
 fenberry
 fanwise
-falangism
+falangism 1
 faddier
 fadaise
 fleabug
