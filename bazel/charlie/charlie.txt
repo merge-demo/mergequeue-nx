@@ -14904,7 +14904,7 @@ cytost
 conceit
 conveys
 counterpray
-curding
+curding 1
 compactness
 coenogamete
 continuedly
