@@ -13893,7 +13893,7 @@ elizabethan 1
 empressment
 epilimnial
 empanada 1
-extirpates
+extirpates 1
 extramatrical
 exculpating
 elations
