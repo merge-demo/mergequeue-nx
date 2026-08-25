@@ -3107,7 +3107,7 @@ elliptoid
 extraparietal
 eke
 elm 1
-embarrassment
+embarrassment 1
 educing
 expiscatory
 epistolographist
