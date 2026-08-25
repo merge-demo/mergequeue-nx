@@ -6656,7 +6656,7 @@ fulgurating
 flossing
 forenotice
 foemanship
-fripperer
+fripperer 1
 fecifork
 foemen
 forethoughtfully 1
