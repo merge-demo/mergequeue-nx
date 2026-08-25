@@ -18967,7 +18967,7 @@ cloine
 ceste
 chickahominy
 catouse
-collator
+collator 1
 chorotega
 couldna
 clumped
