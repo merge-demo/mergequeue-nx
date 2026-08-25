@@ -2304,7 +2304,7 @@ fatherlessness
 faunule 1
 fenestrato
 fifteenfold
-featherheaded
+featherheaded 1
 febrility
 fast
 fixities
