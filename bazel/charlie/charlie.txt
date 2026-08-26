@@ -22871,7 +22871,7 @@ collapsable
 conservatoires
 conservator
 conservatory
-conservatorial
+conservatorial 1
 climatologist
 conservatorium
 crystograph
