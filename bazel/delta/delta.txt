@@ -10841,7 +10841,7 @@ demophil
 drier
 debunkment
 diletant
-diadematoida
+diadematoida 1
 desmidiaceous
 digit
 dynameter
