@@ -26392,7 +26392,7 @@ coterie
 ciminite
 concavities
 centipoise
-clergess
+clergess 1
 cliffier
 coterminousness
 cotes
