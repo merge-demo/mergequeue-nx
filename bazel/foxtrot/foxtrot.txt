@@ -3045,7 +3045,7 @@ felstones
 friendlies
 fibbers
 fustin
-fiber
+fiber 1
 fiberizes
 fritillary
 formolite
