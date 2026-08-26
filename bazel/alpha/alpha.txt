@@ -23983,7 +23983,7 @@ archipelagos
 autoboating
 autobuses
 autobusses
-ariettes
+ariettes 1
 autocall
 antilogarithms
 apostatised
