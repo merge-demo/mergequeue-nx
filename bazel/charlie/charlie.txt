@@ -10194,7 +10194,7 @@ compurgatory
 carps
 chamomilla
 chorisepalous
-chiarooscuro
+chiarooscuro 1
 chiaroscuros
 chuvash
 coulis
