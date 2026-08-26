@@ -15944,7 +15944,7 @@ deprivers
 doted
 diploplacula
 doters
-donable
+donable 1
 dotes 1
 dispreads
 disbudded
