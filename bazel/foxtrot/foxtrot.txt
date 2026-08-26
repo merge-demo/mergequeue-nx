@@ -1230,7 +1230,7 @@ freieslebenite
 funkias
 formene
 fiends
-furbishment
+furbishment 1
 flagellosis
 fortuning 1
 foredeem
