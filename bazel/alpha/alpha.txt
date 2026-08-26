@@ -9571,7 +9571,7 @@ aglets
 attackman
 amygdaloncus
 aworth
-accentuate
+accentuate 1
 atheism
 algorithmic
 autoionization
