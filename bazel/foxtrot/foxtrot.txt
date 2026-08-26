@@ -854,7 +854,7 @@ flexing
 fellness
 farenheit
 fantasmal
-fundus
+fundus 1
 fantasms
 forsloth
 fractable
