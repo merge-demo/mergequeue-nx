@@ -10408,7 +10408,7 @@ allele
 acanthophis
 arendator
 asuang
-actualizes
+actualizes 1
 adoring
 abarticular
 amesite
