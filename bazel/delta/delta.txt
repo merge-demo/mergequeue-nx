@@ -6332,7 +6332,7 @@ daltonism
 dermis
 drawbores
 dendrologist
-diaplasis
+diaplasis 1
 dejectory
 dermobranchiate
 dangles
