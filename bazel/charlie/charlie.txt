@@ -7568,7 +7568,7 @@ cyclanthaceae
 chuncho
 cereals
 coached
-chariotry
+chariotry 1
 counterindoctrination
 calystegia
 cerebellifugal
