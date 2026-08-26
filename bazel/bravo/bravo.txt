@@ -14687,7 +14687,7 @@ biographically
 brassicaceae
 backworm 1
 brassiere
-brassieres
+brassieres 1
 blackhander
 brassies
 brachiorrheuma
