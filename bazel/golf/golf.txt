@@ -10309,7 +10309,7 @@ gullygut
 gonorrheal
 gilling
 gildsman
-goralog
+goralog 1
 gleaner
 guichet
 gnathions
