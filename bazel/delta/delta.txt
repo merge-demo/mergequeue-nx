@@ -2436,7 +2436,7 @@ dihydronaphthalene
 decimating
 dacrya
 disobediently
-degorder
+degorder 1
 decimetre
 decimolar
 drainpipe 1
