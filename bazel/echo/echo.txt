@@ -14132,7 +14132,7 @@ extensory
 episcopates
 ebonizing
 ephemerality
-enseraph 1
+enseraph 2
 enplanement
 emulates
 enlard
