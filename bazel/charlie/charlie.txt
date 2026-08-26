@@ -16211,7 +16211,7 @@ clingy
 clinginess
 cuit
 craniopagus
-clinging
+clinging 1
 clingingly
 clinia
 condensations
