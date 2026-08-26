@@ -11002,7 +11002,7 @@ disagreeing
 disagreements
 dissevered
 disrelation
-disagreing
+disagreing 1
 dethronable
 dredges
 dioptroscopy
