@@ -1686,7 +1686,7 @@ curlicuing
 circ
 cestoi
 counterdiscipline 1
-calorifical
+calorifical 1
 chairs
 calorification
 cardiograph
