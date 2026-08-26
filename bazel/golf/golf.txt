@@ -3107,7 +3107,7 @@ gibbol
 glossarist
 garo
 geophilid
-galvanoscopic
+galvanoscopic 1
 granula
 gymnasisia
 groined
