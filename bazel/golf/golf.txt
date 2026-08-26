@@ -1137,7 +1137,7 @@ gemmiferous
 gestura
 geneura 1
 gerontocracies
-gallnut
+gallnut 1
 galyac
 groupment
 gunpowder
