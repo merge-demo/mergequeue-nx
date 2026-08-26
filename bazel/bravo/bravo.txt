@@ -14059,7 +14059,7 @@ bottlebird
 brachydodromous
 boc
 boding 1
-binzuru
+binzuru 1
 brachydomatic
 brevetcies
 biomechanics
