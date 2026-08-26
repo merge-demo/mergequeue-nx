@@ -6533,7 +6533,7 @@ cynicisms 1
 cavitary
 closeup
 cystophthisis
-choleric
+choleric 1
 cauliculi
 cavitated
 consulter
