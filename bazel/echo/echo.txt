@@ -13649,7 +13649,7 @@ enfurrow
 earths
 extenuations
 enskying
-ecphonesis
+ecphonesis 1
 extenuative
 exorcisation
 epilogism
