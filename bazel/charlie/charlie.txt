@@ -31066,7 +31066,7 @@ cumulatist
 choughs
 cumulative
 chervonets
-cumulativeness
+cumulativeness 1
 countersunk
 cumulene
 cossacks
