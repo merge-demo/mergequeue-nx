@@ -626,7 +626,7 @@ acacetin
 amatols
 atelomitic
 abolishers
-astigmatism
+astigmatism 1
 alastrim 1
 astrologic
 acetoamidophenol
