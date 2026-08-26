@@ -18159,7 +18159,7 @@ basters
 byzant 1
 butyryls
 boldfacedly
-butyrin
+butyrin 1
 besonnet
 begets
 bosses
