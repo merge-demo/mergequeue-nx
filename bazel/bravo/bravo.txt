@@ -16682,7 +16682,7 @@ bucker
 belait
 buckers
 befringed
-borosilicate
+borosilicate 1
 bubblelike
 bucketmaking
 basketfuls
