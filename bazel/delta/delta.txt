@@ -12656,7 +12656,7 @@ disgusted
 dumplings
 dextroses
 didy
-dyskeratosis
+dyskeratosis 1
 diskette
 discernibleness
 diskindness
