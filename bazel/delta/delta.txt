@@ -5693,7 +5693,7 @@ drumler
 deplant
 disvertebrate
 denominational
-deozonize
+deozonize 1
 delegacies
 demigods
 desterilized
