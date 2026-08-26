@@ -17579,7 +17579,7 @@ desuperheater
 dogbite
 drunkenwise
 dirtiest
-dryopteris
+dryopteris 1
 drunker
 denaturising 1
 dabbler
