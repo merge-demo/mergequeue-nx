@@ -10129,7 +10129,7 @@ disassimilating
 dodecahedra
 dindon
 doodled
-dimidiated
+dimidiated 1
 digestive
 dirts
 dip
