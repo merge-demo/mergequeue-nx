@@ -10058,7 +10058,7 @@ dogfought
 definitization
 digoneutic
 dynamitard
-disqualify
+disqualify 1
 denitrify
 diana
 diocoel
