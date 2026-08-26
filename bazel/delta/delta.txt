@@ -897,7 +897,7 @@ dreepiness 1
 dantean
 dimatis
 dacryopyorrhea
-dolorific
+dolorific 1
 dantology
 dashpots
 dextrin 1
