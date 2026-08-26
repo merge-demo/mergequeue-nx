@@ -20053,7 +20053,7 @@ adscripted
 aromatised
 aromatitae
 alcoholizing
-appetize
+appetize 1
 anaphoras
 apophyses
 ambrosial
