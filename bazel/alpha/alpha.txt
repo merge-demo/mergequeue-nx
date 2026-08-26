@@ -1764,7 +1764,7 @@ asphyxies
 aglipayano
 arabis 1
 anemia
-apochromatic
+apochromatic 1
 acedy
 acedias
 abbreviature
