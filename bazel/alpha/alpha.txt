@@ -10347,7 +10347,7 @@ affination
 athetized
 ataxic 1
 aristocratically
-alkalic
+alkalic 1
 amerces
 amerciable
 amerciament
