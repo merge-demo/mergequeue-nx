@@ -1262,7 +1262,7 @@ cyprine
 coilability
 calendarist
 calendas
-cribble
+cribble 1
 cocainism
 catechistically
 calender
