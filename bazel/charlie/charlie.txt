@@ -2022,7 +2022,7 @@ classicising
 cloddy
 camisard
 capsicins
-curcuddoch
+curcuddoch 1
 critickin
 criticised
 cassique
