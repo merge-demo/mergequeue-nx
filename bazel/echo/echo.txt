@@ -10959,7 +10959,7 @@ eupolidean
 esopus
 envoy 1
 eggy
-eupotamic
+eupotamic 1
 encoignure
 esparcet
 equivocalness
