@@ -3869,7 +3869,7 @@ clept
 chewbark
 colonizers
 carbonification
-chigger
+chigger 1
 consultively
 courie
 carbonylene
