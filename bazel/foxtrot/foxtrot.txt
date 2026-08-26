@@ -8343,7 +8343,7 @@ foundling
 fils
 furriner
 flagellata
-forkedness
+forkedness 1
 folderol
 feastful
 fewsome
