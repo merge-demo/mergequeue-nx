@@ -2782,7 +2782,7 @@ glottochronological
 gristly
 gabies
 gangwayed
-governably
+governably 1
 glassie 1
 gelee
 gantlope
