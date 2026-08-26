@@ -1457,7 +1457,7 @@ diminished 1
 dandruffy
 dawsonia
 dawt
-defacements
+defacements 1
 dictional
 disinfect
 durain
