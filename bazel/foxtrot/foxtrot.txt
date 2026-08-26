@@ -4158,7 +4158,7 @@ fireboy
 flying 1
 fiendishly
 fraticelli
-firebomb
+firebomb 1
 fakiness
 firebombing 1
 fairlike
