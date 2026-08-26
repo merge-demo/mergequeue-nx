@@ -7357,7 +7357,7 @@ dethronement
 diminute
 dethronements
 dethrones 1
-discommodes
+discommodes 1
 dwight
 dianil
 demasculinize
