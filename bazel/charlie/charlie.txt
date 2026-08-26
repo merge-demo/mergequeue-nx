@@ -3292,7 +3292,7 @@ capitulars
 colourability
 calcino
 capitulate
-capitulates
+capitulates 1
 capitulator
 capituliform
 cystolithic
