@@ -2789,7 +2789,7 @@ cohorts
 cannonading
 cannonarchy
 cannonballed
-commercialistic
+commercialistic 1
 conglutination
 cannoneer
 capitella
