@@ -20038,7 +20038,7 @@ chamosite
 commensurability 1
 commensurable
 cajoled
-commensurably
+commensurably 1
 commensurate
 commensurateness
 curatorial
