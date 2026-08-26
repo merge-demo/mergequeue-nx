@@ -494,7 +494,7 @@ dogs
 dalesfolk
 droughtiest
 dustblu
-defoliant
+defoliant 1
 disrupter
 dozily
 daleths
