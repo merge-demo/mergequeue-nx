@@ -22940,7 +22940,7 @@ consilient 1
 consimilar
 caphtorim
 consimilate
-carnified
+carnified 1
 convokers
 cafoy
 coifs
