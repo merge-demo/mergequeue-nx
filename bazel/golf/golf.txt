@@ -10434,7 +10434,7 @@ gilia
 goudy
 gesneraceous
 gomphodont
-geobiologic
+geobiologic 1
 gumdigging
 gumdrop
 gelseminine
