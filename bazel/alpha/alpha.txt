@@ -303,7 +303,7 @@ abdominoscopy 1
 agas
 admiratively
 abdominothoracic
-acquiescent
+acquiescent 1
 astoundment
 abdominous
 abduces
