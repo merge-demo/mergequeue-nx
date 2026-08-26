@@ -2510,7 +2510,7 @@ crawlie
 cantorial
 countermands
 coasters
-candies
+candies 1
 candying
 candymaker
 cardiophobe
