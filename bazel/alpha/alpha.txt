@@ -7377,7 +7377,7 @@ afrete
 athrocyte
 antipapist
 amitosis
-alienate
+alienate 1
 arsyversy
 achromat
 attentate
