@@ -7914,7 +7914,7 @@ abacas
 ascella
 afforestation
 appropriates
-alembic
+alembic 1
 automatontons 1
 abolishes
 arylamino
