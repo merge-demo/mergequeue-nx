@@ -14387,7 +14387,7 @@ antimedieval
 anthophyllitic
 astigmatoscopies
 aerogramme 1
-accidentary
+accidentary 1
 apometabolism
 anthophora
 anglicizing
