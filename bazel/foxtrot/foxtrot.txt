@@ -6430,7 +6430,7 @@ fluorimetric
 fluorobenzene 1
 fructifies
 foreship
-frivoled
+frivoled 1
 frogeye
 fluoaluminate
 fainted
