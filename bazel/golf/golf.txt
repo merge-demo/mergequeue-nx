@@ -4291,7 +4291,7 @@ gomorrhean
 gesturing
 grumpiness 1
 graveclothes
-goatlike
+goatlike 1
 gregos
 gigantesque
 grousing
