@@ -17312,7 +17312,7 @@ apeirophobia
 autocollimator
 algaecide
 antiforeign
-apostatically
+apostatically 1
 apostatise
 appendicectasis
 abthain
