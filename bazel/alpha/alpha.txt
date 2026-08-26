@@ -20703,7 +20703,7 @@ articularly
 axonemes
 articulars
 accessively
-articulated
+articulated 1
 accidental
 articulately 1
 abut

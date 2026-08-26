@@ -5274,7 +5274,7 @@ beggaring
 bicrescentic
 bringsel
 beggarlike
-boshas
+boshas 1
 bullom
 brimless
 bubbies
