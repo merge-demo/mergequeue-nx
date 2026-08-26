@@ -8041,7 +8041,7 @@ gynaecomorphous
 guildry
 gnabble
 globulous
-gongorism
+gongorism 1
 gossipers
 gan
 galempung
