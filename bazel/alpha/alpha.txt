@@ -14880,7 +14880,7 @@ anticipatable
 anodic
 anomorhomboidal
 anticipates 1
-azoxy
+azoxy 1
 arpens
 anticipatingly
 andvari
