@@ -7890,7 +7890,7 @@ averrable
 arterionecrosis
 amor
 austerely
-aleikoum
+aleikoum 1
 accidentality
 astropecten
 agammaglobulinemia
