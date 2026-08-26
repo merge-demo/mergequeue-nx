@@ -22271,7 +22271,7 @@ conglomerating
 cordy
 conglomeration
 conglomerations
-conglomeritic
+conglomeritic 1
 conglutinant
 crossopodia
 codlings
