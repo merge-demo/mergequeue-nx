@@ -10197,7 +10197,7 @@ geladas
 grimy
 grammaticize
 gayeties
-gooneys
+gooneys 1
 graze
 gtd
 giustamente
