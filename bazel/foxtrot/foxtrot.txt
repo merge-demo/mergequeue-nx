@@ -10135,7 +10135,7 @@ finalize
 fricatives
 frivolousness
 foray
-faunula
+faunula 1
 felled
 forgives
 filisters
