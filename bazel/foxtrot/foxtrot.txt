@@ -8579,7 +8579,7 @@ fornication
 forest
 feigner
 fossilize
-fornicatrix
+fornicatrix 1
 fieldman
 frameshift
 fullfil
