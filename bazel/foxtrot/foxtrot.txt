@@ -11037,7 +11037,7 @@ fontainea
 frontolysis 1
 fancies
 flanerie
-ferruminate
+ferruminate 1
 fumishing
 friendliness
 fermented
