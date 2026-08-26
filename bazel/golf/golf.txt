@@ -9210,7 +9210,7 @@ gripping
 gelandesprung
 glycocin
 guayule
-goshawful
+goshawful 1
 geologists
 germanous
 guaka
