@@ -3217,7 +3217,7 @@ batiked
 bodiless 1
 bedights
 bonnyvis
-bathtub
+bathtub 1
 blatters
 barkpeel
 biltong
