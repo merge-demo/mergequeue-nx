@@ -15729,7 +15729,7 @@ anaesthesiologist
 antipathetic
 antimodernism
 autostability
-antipathetical
+antipathetical 1
 arenas
 apnoeic
 atophan
