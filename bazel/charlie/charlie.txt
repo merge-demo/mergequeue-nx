@@ -14078,7 +14078,7 @@ circinate
 coxcombs
 chirinola
 circination 1
-circiter
+circiter 1
 counterapproach
 calvity
 cattie
