@@ -4371,7 +4371,7 @@ escadrille
 equimolar
 epotation
 eggars
-excrescence
+excrescence 1
 embody
 emphlysis
 eritrean
