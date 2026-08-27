@@ -12,7 +12,7 @@ alkalimetric
 anisotropy
 anaitis
 ataxy
-anidrosis
+anidrosis 1
 adipolysis
 arriding
 autoimmunities
