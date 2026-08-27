@@ -11738,7 +11738,7 @@ flatland
 futwa
 fete
 floramor
-frights
+frights 1
 fathom
 foliiform
 flneur
