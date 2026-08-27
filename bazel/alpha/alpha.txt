@@ -9931,7 +9931,7 @@ anticlastic
 auricled
 amativeness 1
 arcing
-adagial
+adagial 1
 artificious
 avoue
 alternator
