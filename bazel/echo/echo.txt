@@ -5327,7 +5327,7 @@ enravishes
 externes
 erectors
 ernest
-estocs
+estocs 1
 ergodicity
 elegiast
 eliminability 1
