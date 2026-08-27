@@ -13478,7 +13478,7 @@ annexion
 abnormalise
 avoidless
 atrophic
-astigmatic
+astigmatic 1
 azedarac
 annicut
 annidalin
