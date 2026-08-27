@@ -20679,7 +20679,7 @@ acanthial
 aulostomid
 amphorous
 arefy
-ayurvedas
+ayurvedas 1
 axiolitic
 articulacy
 aleuroscope
