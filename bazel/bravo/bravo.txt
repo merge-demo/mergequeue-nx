@@ -5194,7 +5194,7 @@ blennocele
 befringe
 branchiata
 befringes
-befringing
+befringing 1
 butenes
 broadwife
 befrocked
