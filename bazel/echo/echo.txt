@@ -10630,7 +10630,7 @@ exodium 1
 elaterid
 eudaimonia
 eudaimonist
-epirhizous
+epirhizous 1
 eric
 eudemonic
 epappose

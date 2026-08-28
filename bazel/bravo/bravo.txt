@@ -12625,7 +12625,7 @@ battycake
 bleekbok 1
 bahuma
 beshadows
-bonze
+bonze 1
 butterhead
 bonzer
 betattered
