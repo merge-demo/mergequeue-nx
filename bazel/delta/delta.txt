@@ -7635,7 +7635,7 @@ disembellish
 dissimule
 developable
 diuretically
-deceptious
+deceptious 1
 dealer
 deflocculation
 digamous
