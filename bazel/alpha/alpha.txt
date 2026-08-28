@@ -5943,7 +5943,7 @@ assiento
 athlete
 arborization
 azoxyphenetole
-adversary
+adversary 1
 apprehensive
 atelorachidia
 anhaematopoiesis
