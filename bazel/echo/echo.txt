@@ -677,7 +677,7 @@ elmiest
 enhance
 envier
 excide
-eclogic
+eclogic 1
 extraocular
 eclogite
 eclosion
