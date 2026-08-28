@@ -5481,7 +5481,7 @@ enemata
 enemyship
 energeia
 emblematicalness
-energesis
+energesis 1
 energetic
 electrochronographic
 extrinsicality
