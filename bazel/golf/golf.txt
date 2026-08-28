@@ -8501,7 +8501,7 @@ groupers
 gayal
 galleon
 geomorphological
-geotectonically
+geotectonically 1
 gravelish
 guardian
 geognostical
