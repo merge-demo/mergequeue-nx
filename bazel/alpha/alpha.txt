@@ -23612,7 +23612,7 @@ acmite
 aked
 allochthonous
 aimed
-auntish
+auntish 1
 auntly
 auntlier
 auntliest
