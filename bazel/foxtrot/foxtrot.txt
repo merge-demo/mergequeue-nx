@@ -4244,7 +4244,7 @@ fireplace
 fiendishness
 fraist
 fussification 1
-flanky
+flanky 1
 frogmouths
 fracases
 freakishness
