@@ -21762,7 +21762,7 @@ condottiere
 conduce
 christianogentilism
 chulan
-converse
+converse 1
 conducers 1
 conductance
 congregationalists
