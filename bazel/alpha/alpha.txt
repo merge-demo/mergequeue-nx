@@ -4720,7 +4720,7 @@ aetheling
 antedawn
 allographic 1
 acrotisms
-alphard
+alphard 1
 aeluropodous
 aenach
 aphrodistic
