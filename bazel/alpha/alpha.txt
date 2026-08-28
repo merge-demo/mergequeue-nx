@@ -12449,7 +12449,7 @@ actinides
 argante
 androsphinx
 androsporangium
-arteriology
+arteriology 1
 androsterone
 androtomy
 acoemeti
