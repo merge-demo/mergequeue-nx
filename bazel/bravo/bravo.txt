@@ -12379,7 +12379,7 @@ backtack
 bombonne
 bombora
 bawls
-beswarmed
+beswarmed 1
 bombus
 bombardelle
 bomi
