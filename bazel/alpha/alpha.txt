@@ -19702,7 +19702,7 @@ argonauts
 antistate
 autobiographist
 ammoniate
-armeniaceous
+armeniaceous 1
 anticathexis
 aristology
 anamite
