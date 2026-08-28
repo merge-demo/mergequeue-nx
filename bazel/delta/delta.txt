@@ -5477,7 +5477,7 @@ deorsum
 deossification
 deuterostomatous
 dissipates
-dyakisdodecahedron
+dyakisdodecahedron 1
 deoxycorticosterone
 dandically
 dismounting
