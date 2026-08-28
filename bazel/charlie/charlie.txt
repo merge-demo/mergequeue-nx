@@ -8731,7 +8731,7 @@ coelomatic
 cobriform
 chapeled
 concion
-convalescency
+convalescency 1
 crenelle
 chapelgoing
 cockpits
