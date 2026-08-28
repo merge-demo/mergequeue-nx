@@ -2288,7 +2288,7 @@ extemporization
 eudiometry
 enchantments
 exormia
-enbloc 1
+enbloc 2
 endolymph
 excretal
 eger
