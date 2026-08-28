@@ -15083,7 +15083,7 @@ aetosaurian
 archmagirist
 assidually
 antidogmatist
-alogian
+alogian 1
 appast
 annihilationism
 armomancy
