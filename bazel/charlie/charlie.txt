@@ -4199,7 +4199,7 @@ cardiotrophotherapy
 cardiovascular
 coalhole
 chamomile
-carditis
+carditis 1
 carditises
 cardium
 chervante
