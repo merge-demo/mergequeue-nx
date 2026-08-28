@@ -519,7 +519,7 @@ demicadence
 dallier
 dup
 denuclearizes
-dextromanual
+dextromanual 1
 diminishingturns
 discustom 1
 dromotropic
