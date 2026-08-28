@@ -9743,7 +9743,7 @@ entitles
 eradiates
 enodal
 equisonance
-everyplace
+everyplace 1
 eddo
 emerick
 enneahedron
