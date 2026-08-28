@@ -11088,7 +11088,7 @@ determinateness
 disapprovals
 demagog
 disapproves
-disillusioned
+disillusioned 1
 doppelkummel
 demonetisation
 dirt
