@@ -4997,7 +4997,7 @@ electrocorticogram
 envy
 extirpative
 equinia
-engraphic
+engraphic 1
 earthgall
 exencephalia
 ebonises
