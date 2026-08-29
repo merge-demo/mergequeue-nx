@@ -861,7 +861,7 @@ absee
 abseils
 assibilating
 actionized
-arithmic
+arithmic 1
 amianthoid
 absentees
 absenters
