@@ -27092,7 +27092,7 @@ counterrevolutionist
 counterriposte
 counterroll
 counters
-crotchety
+crotchety 1
 compressedly
 causability
 counterscalloped
