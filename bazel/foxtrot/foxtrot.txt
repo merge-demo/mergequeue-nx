@@ -10435,7 +10435,7 @@ foreadvice 1
 frontotemporal
 forestian
 frontsman
-fluxional
+fluxional 1
 frontspieces
 fleet
 fwd
