@@ -9093,7 +9093,7 @@ angulosity 1
 anticatalase
 antiblock
 anticommunistical
-antivaccinist
+antivaccinist 1
 alludes
 afterdecks
 allumette
