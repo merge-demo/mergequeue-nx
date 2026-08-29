@@ -24328,7 +24328,7 @@ autopsychoanalysis
 autopsychosis 1
 autopsied
 autopsies
-ambrose
+ambrose 1
 archprophet
 abaters
 autoptically
