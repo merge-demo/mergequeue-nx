@@ -9903,7 +9903,7 @@ argean
 algine
 acromiosternal
 acetonization
-acceptive
+acceptive 1
 amateur
 antidotal
 arietid
