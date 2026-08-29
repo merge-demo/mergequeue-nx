@@ -2776,7 +2776,7 @@ counterstrike
 cableman
 cannie
 cagui
-cannier
+cannier 1
 canning
 cannings
 chiccories
