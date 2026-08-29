@@ -8280,7 +8280,7 @@ chiver
 caucused
 caricetum
 contravariant
-councillary
+councillary 1
 chalder
 coholder
 chaleh
