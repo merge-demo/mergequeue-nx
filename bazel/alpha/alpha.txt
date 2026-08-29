@@ -12957,7 +12957,7 @@ anguiped 1
 anginiform
 afterhatch
 acutes
-arbitrations
+arbitrations 1
 achromatising
 adjuvants
 apologetics
