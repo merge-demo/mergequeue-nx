@@ -11205,7 +11205,7 @@ etuis
 elver
 extatic
 exportations 1
-evanescible
+evanescible 1
 evanescing
 exorbitancy
 expilation
