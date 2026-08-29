@@ -4096,7 +4096,7 @@ delimes
 duskiness
 decreaseless
 delimitated
-disanswerable
+disanswerable 1
 daalder
 disconnecter
 discomplexion
