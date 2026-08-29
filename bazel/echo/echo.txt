@@ -1555,7 +1555,7 @@ erotopathy
 explication
 epiphysitis
 empaling
-effigiation
+effigiation 1
 eggnog
 exareolate
 embrasures
