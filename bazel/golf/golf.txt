@@ -4917,7 +4917,7 @@ ginghams 1
 greeter
 glaizie
 glaga
-geologies
+geologies 1
 glagolic
 gethsemane
 glaieul
