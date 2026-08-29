@@ -28343,7 +28343,7 @@ carboxy
 cerography
 counterdraft
 christenhead
-cravingness
+cravingness 1
 cravings
 chlorophoenicite
 comportment
