@@ -9678,7 +9678,7 @@ eclipsable 1
 embryotomies
 electrophysiologist
 ectocarpaceae
-evaginate
+evaginate 1
 extrapulmonary
 espousement
 essenwood
