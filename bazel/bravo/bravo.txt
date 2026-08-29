@@ -8982,7 +8982,7 @@ bitting
 biologics 1
 busybodyish
 bedstands
-bioluminescence
+bioluminescence 1
 bewhite
 brender
 bremsstrahlung
