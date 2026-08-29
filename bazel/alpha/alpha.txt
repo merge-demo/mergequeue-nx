@@ -1280,7 +1280,7 @@ acataleptic
 autocorrelate
 autosomally
 advectitious
-affrontee
+affrontee 1
 acatamathesia
 artinskian
 azurean
