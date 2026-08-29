@@ -10773,7 +10773,7 @@ anormality
 acrolith
 amitrole
 amitular
-ancre
+ancre 1
 antiagglutinating
 aged
 amiantuses
