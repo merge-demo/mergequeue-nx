@@ -2564,7 +2564,7 @@ generalities
 grig
 grubbies 1
 gain
-guilder 1
+guilder 2
 gynecium
 gurle
 gomeisa
