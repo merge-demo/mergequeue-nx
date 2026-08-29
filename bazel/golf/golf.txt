@@ -2696,7 +2696,7 @@ genioglossus
 gelling
 genitocrural
 grout
-gallooned
+gallooned 1
 gripingly
 gelidium
 guptavidya
