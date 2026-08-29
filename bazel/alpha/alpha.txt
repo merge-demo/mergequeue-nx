@@ -3374,7 +3374,7 @@ antiphlogistic
 asternal
 adamsia
 adiathermanous
-adamsites
+adamsites 1
 appeasableness
 adapt
 apeman
