@@ -2949,7 +2949,7 @@ genecological
 gyniatry
 goldurnedest 1
 grazable
-gulph
+gulph 1
 gosh
 gastroscopic
 gooseflower
