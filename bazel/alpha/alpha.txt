@@ -17750,7 +17750,7 @@ aversation
 ameiurus
 adumbration
 antispasis
-applique
+applique 1
 appliques
 antinarcotics
 assorters
