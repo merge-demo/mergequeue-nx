@@ -17985,7 +17985,7 @@ approximants
 ambits
 ashkenazic
 antiheroic
-acridly
+acridly 1
 aerialists
 approximates
 approximation
