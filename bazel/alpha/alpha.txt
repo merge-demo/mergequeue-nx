@@ -16794,7 +16794,7 @@ aphorismical
 acanthopore
 artamus
 agnoete
-aphorismos
+aphorismos 1
 avatars
 autopore
 aphorist
