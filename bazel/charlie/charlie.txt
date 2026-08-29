@@ -2616,7 +2616,7 @@ craftswoman
 carbylamine
 caneology
 canephora
-canephorae
+canephorae 1
 canephore
 canephori
 canephoroi
