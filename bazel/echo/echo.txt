@@ -11332,7 +11332,7 @@ eluviated
 ergatoid
 evenglow
 erenach
-eneid
+eneid 1
 erudite
 encephalomeric
 eventual
