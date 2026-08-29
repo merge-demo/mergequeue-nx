@@ -11149,7 +11149,7 @@ clumper
 chizz 1
 chizzel
 chladnite
-chondrite
+chondrite 1
 churlishly
 chlamyd
 chlamydate
