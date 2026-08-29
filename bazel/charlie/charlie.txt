@@ -20452,7 +20452,7 @@ comparatives
 cpi
 contratabular
 comparativist
-cardiodysesthesia
+cardiodysesthesia 1
 churada
 colombier
 comparers
