@@ -16785,7 +16785,7 @@ archbancs
 alle
 anginal
 antipascha
-antifrictional
+antifrictional 1
 abscoulomb
 algarsyf
 aphorise
