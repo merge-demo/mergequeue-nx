@@ -20615,7 +20615,7 @@ adamantoma
 arthrometry
 atsara
 alvine
-apospories
+apospories 1
 ammodytoid
 aswithe
 aduncity
