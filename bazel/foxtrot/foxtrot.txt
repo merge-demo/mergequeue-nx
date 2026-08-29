@@ -8264,7 +8264,7 @@ forgett
 faits
 feldspars
 fistulated
-fulltime 1
+fulltime 2
 fructuose
 forgettably
 fixers
