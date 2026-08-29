@@ -7602,7 +7602,7 @@ experiments
 esogastritis 1
 excurvate
 eolithic
-euglena
+euglena 1
 earnestness
 exterminate
 eikonology
