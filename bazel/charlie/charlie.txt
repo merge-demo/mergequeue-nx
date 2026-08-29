@@ -10848,7 +10848,7 @@ centropomus
 cinnoline
 chip
 chipchop
-chipewyan
+chipewyan 1
 chiplet
 culvert
 chipmunk
