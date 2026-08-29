@@ -8599,7 +8599,7 @@ alineation
 alkoxid
 architectonically 1
 atmophile
-allegata
+allegata 1
 allegations
 allegers
 anthophyllite
