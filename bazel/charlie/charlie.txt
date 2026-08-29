@@ -24344,7 +24344,7 @@ caritas
 cookshop
 cookshops
 chiliasms
-cards
+cards 1
 cookstove
 colligible
 contumacies
