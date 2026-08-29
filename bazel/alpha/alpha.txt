@@ -17179,7 +17179,7 @@ anaerobian
 apolunes
 apartment
 adaptableness
-ankerites
+ankerites 1
 apolusis
 anatosaurus
 amoebiasis
