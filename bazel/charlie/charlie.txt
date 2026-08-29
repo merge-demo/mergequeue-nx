@@ -26663,7 +26663,7 @@ chessart
 compilation
 counteraction
 calcaneotibial 1
-calamumi
+calamumi 1
 compatibly
 contendere
 chilognatha
