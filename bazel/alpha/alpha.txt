@@ -22157,7 +22157,7 @@ arpeggiando
 arrowstone
 apetalousness
 archeology
-asthenolith
+asthenolith 1
 asthenology
 anabaptistry 1
 asthenophobia
