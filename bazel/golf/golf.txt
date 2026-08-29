@@ -179,7 +179,7 @@ gluteoperineal
 guesting
 gradgrind
 golfer
-goaled 1
+goaled 2
 gabarit
 gammacism
 groschen
