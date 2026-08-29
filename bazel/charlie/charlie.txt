@@ -11935,7 +11935,7 @@ canoodling
 cowhages
 chondroganoidei
 cane
-chores
+chores 1
 crwths
 choreus
 choreutic
