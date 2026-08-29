@@ -8560,7 +8560,7 @@ diaphysis
 dracontiasis
 druggists
 diaphone
-diaphones
+diaphones 1
 dexterously
 drys
 deflex
