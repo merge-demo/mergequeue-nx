@@ -8162,7 +8162,7 @@ gooey
 granuloblastic
 granulocyte 1
 gerontal
-galbanum
+galbanum 1
 generalissimo
 grager
 gironde
