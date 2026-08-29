@@ -8951,7 +8951,7 @@ anticoagulan
 actiniaria
 adlerian
 allopathically
-affrightingly
+affrightingly 1
 allopathist
 audited
 araceae
