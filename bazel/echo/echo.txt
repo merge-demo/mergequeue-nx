@@ -7250,7 +7250,7 @@ eohippus
 eohippuses 1
 electronegativity
 eoith 1
-eoiths
+eoiths 1
 entamebae
 eradicably
 enterally
