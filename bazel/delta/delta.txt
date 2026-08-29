@@ -10255,7 +10255,7 @@ dintless
 ducal
 degradedly
 dinus
-dermoskeleton
+dermoskeleton 1
 distaste
 doura
 dutch
