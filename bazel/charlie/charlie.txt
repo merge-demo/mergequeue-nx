@@ -11429,7 +11429,7 @@ choanoflagellate
 cotta
 choanophorous
 cataplasm
-choanosome
+choanosome 1
 choate
 cautioned
 chobie
