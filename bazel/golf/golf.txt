@@ -714,7 +714,7 @@ grossify
 gooranut
 galvanised
 germanistic 1
-gawn
+gawn 1
 gladdest
 grissen
 gersdorffite
