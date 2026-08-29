@@ -1632,7 +1632,7 @@ disorientated
 didymia
 deisin
 disfranchising
-deliverable
+deliverable 1
 difficulty
 daylong
 dimetrodon
