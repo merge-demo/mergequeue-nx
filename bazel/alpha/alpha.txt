@@ -13948,7 +13948,7 @@ alligators
 anticrepuscular
 antagonistical
 airedale
-awestricken
+awestricken 1
 antagonistically
 aboudikro
 amblyrhynchus
