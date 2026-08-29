@@ -1897,7 +1897,7 @@ bandoleer
 burlesquely 1
 backhoes
 bandoleers
-bivalent
+bivalent 1
 birny
 bandolerismo
 buckayros
