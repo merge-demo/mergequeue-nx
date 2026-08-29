@@ -17558,7 +17558,7 @@ buret 1
 burets
 blowfishes
 bedirtied
-bashkir
+bashkir 1
 bellonion
 buccellarius
 bhima
