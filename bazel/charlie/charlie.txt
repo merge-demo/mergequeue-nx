@@ -14790,7 +14790,7 @@ chararas
 cytochrome 1
 cytocyst
 cytoclasis
-caluptra
+caluptra 1
 cytoclastic
 crioboly
 cytococci 1
