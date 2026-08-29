@@ -490,7 +490,7 @@ caddicefly
 caddie
 caddies
 convulsionary
-cottons
+cottons 1
 clinics
 chincough
 caddises
