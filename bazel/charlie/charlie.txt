@@ -15767,7 +15767,7 @@ chainlet
 couma
 cleanliest
 culottes
-clumpier
+clumpier 1
 cleanout
 cleansable
 cellists
