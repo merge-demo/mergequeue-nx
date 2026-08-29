@@ -10630,7 +10630,7 @@ fictitious
 femininity
 freezingly
 friandise
-fruitbearing
+fruitbearing 1
 foremark
 fusc
 frankness
