@@ -5183,7 +5183,7 @@ antireticular
 anticommunist
 afenil
 autochanger
-afetal
+afetal 1
 apyrexia
 ambilaevous
 achen
