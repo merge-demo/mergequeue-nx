@@ -2473,7 +2473,7 @@ emerges
 eches
 ethanol
 electrogalvanization
-equivalence
+equivalence 1
 electrogenic
 electrogild
 eudemonia
