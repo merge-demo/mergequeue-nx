@@ -5468,7 +5468,7 @@ deoppilate
 dep
 doss
 deorganization 1
-deistic
+deistic 1
 decolouriser
 deorganize
 deregister
