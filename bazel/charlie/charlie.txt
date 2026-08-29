@@ -13686,7 +13686,7 @@ cinchonaceous 1
 cathedratica
 cinchonamine
 cinchonas
-cinchonic
+cinchonic 1
 cinchonicine 1
 cinchonidia
 cinchonidine
