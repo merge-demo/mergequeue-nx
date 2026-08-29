@@ -184,7 +184,7 @@ fragmentizing
 frescoing
 factitively
 forums 1
-flatfoots
+flatfoots 1
 featherless
 furnarius
 flier
