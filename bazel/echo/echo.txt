@@ -8474,7 +8474,7 @@ epimorpha
 endures 1
 epsilons
 expressionistic
-entryways
+entryways 1
 entrants
 emda
 enregiment
