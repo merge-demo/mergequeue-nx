@@ -12139,7 +12139,7 @@ chris
 calibogus
 caraunda
 chrysalid
-coronet
+coronet 1
 chrysalida
 cascarilla
 chrysaline
