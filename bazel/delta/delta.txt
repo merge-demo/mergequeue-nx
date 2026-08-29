@@ -8727,7 +8727,7 @@ dislimned
 dendrophil
 dispensatrix
 demisacrilege
-diathesis
+diathesis 1
 dirl
 dimps
 diatoma
