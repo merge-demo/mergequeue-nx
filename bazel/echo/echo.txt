@@ -2909,7 +2909,7 @@ elevenses
 eleventeenth
 eleventh
 evicts
-excitation
+excitation 1
 emplaning 1
 elevons
 eurydice
