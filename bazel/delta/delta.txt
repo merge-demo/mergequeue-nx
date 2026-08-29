@@ -14053,7 +14053,7 @@ draughtman
 distributary
 dressy
 distributaries
-designative
+designative 1
 doocot
 dolichocephalic
 doggrel
