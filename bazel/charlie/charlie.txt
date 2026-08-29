@@ -20478,7 +20478,7 @@ compartmented
 centenionalis
 corundum
 composition
-compartments
+compartments 1
 chapin
 celticist
 compass
