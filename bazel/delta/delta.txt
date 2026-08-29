@@ -742,7 +742,7 @@ depeche
 dandier
 drybrained
 dreaminess 1
-detachs
+detachs 1
 dandify
 dimmit
 dispeopler
