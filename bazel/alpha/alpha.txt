@@ -12752,7 +12752,7 @@ adaize
 angrily
 accountants
 ashpit
-anginose
+anginose 1
 anginous
 adenectomies
 apocenter
