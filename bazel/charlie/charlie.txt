@@ -11252,7 +11252,7 @@ collochemistry
 chemotropism
 compaternity
 carlin
-chlorimeter
+chlorimeter 1
 chlorimetric
 chlorinated
 chlorinating
