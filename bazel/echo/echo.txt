@@ -3792,7 +3792,7 @@ enecate
 explored
 emceeing
 escalader 1
-enquirer
+enquirer 1
 emcumbering
 eyewater
 electroneutral
