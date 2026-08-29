@@ -1451,7 +1451,7 @@ fatuoid
 fatuus
 frankly
 fairtime 1
-fantasie
+fantasie 1
 filago
 fireside
 faubourgs
