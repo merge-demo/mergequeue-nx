@@ -18402,7 +18402,7 @@ doubtedly
 disembarkment
 demilune
 demonstrable
-duopsonistic
+duopsonistic 1
 devota
 defrauder
 diatribist
