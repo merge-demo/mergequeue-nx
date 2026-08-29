@@ -678,7 +678,7 @@ fizzier 1
 fireman
 filemot
 floccing
-funkier
+funkier 1
 flannelmouths
 feathercut
 fairish
