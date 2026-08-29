@@ -11838,7 +11838,7 @@ cados
 choppiest
 choppiness
 cowpuncher
-clancular
+clancular 1
 chopstick
 chopsticks
 chopunnish
