@@ -9217,7 +9217,7 @@ clapperboard
 cheering
 corf
 chastity
-chastities
+chastities 1
 chockstone
 chasubled
 cooper
