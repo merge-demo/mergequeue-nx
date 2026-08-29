@@ -12078,7 +12078,7 @@ bokharan
 bokom 1
 bolag
 bosey
-bolas
+bolas 1
 bedell
 bartsia
 balmacaan
