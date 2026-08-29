@@ -2636,7 +2636,7 @@ etymologisable
 exempla
 electrophrenic
 electroplater
-electropower
+electropower 1
 electropsychrometer
 embodying
 evolvers
