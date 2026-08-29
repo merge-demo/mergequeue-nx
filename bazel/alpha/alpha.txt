@@ -9191,7 +9191,7 @@ anga
 almonage
 angina
 almonership
-almonries
+almonries 1
 angiochondroma
 antievolutionally
 assumpsit
