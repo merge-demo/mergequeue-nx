@@ -13121,7 +13121,7 @@ decompositions
 defamer 1
 dipeptidase
 diocese
-disperple 1
+disperple 2
 diadem
 deflourish
 decurved
