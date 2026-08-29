@@ -19979,7 +19979,7 @@ afterclap
 armseye
 actuators
 abatjour
-aals
+aals 1
 amasta
 armure
 armures
