@@ -11842,7 +11842,7 @@ bodykins
 bodilize
 bahuvrihi 1
 barbedness
-bellowed
+bellowed 1
 beento
 braggest
 bondswomen
