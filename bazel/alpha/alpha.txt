@@ -919,7 +919,7 @@ apostrophi
 absolutist
 absolutize
 absolutory
-acanthopteri
+acanthopteri 1
 absolvatory
 aestuary
 absolves
