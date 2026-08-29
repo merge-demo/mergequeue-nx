@@ -22186,7 +22186,7 @@ angelicize
 adolescents
 alloplastic
 absorbedly
-astigmatometer
+astigmatometer 1
 atrocoeruleus
 asthenosphere
 astigmatometry
