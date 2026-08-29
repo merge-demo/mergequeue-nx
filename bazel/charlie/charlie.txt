@@ -8488,7 +8488,7 @@ champertous
 cephalomotor
 champy
 conjoint
-coe
+coe 1
 capparidaceous
 coquillage
 contrastively
