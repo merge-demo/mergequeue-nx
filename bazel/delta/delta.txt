@@ -4338,7 +4338,7 @@ diode
 dysacousia
 demanded
 dissyllabized
-dilos
+dilos 1
 dewlap
 descrier
 disburden
