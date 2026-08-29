@@ -6097,7 +6097,7 @@ canaan
 clippable
 catoptrically
 curtise
-catoptrite
+catoptrite 1
 catoptromantic
 catoquina
 chelonidae
