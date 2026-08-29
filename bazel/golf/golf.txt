@@ -10611,7 +10611,7 @@ greenockite
 gallow
 glumose
 gallinules
-gotraja
+gotraja 1
 goy
 guildite
 gunpoints
