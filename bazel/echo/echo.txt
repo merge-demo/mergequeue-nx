@@ -1534,7 +1534,7 @@ eurythermal
 eyeable
 egg
 ethmoid
-endosternum
+endosternum 1
 exradio
 episcopised
 egoisticalness
