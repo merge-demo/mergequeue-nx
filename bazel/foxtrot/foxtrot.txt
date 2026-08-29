@@ -1322,7 +1322,7 @@ falser
 fyttes
 famose
 flyable
-factionally
+factionally 1
 frantically
 fluxible
 fatherly
