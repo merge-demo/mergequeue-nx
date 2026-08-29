@@ -1193,7 +1193,7 @@ friths
 financiers
 fannon
 fascista
-fright
+fright 1
 fund
 fluoroscopy
 fleech
