@@ -6234,7 +6234,7 @@ ferrimagnetic
 fractionating 2
 fluffiness
 flexography
-flugel
+flugel 1
 frettingly
 foreleg
 flatlet
