@@ -3800,7 +3800,7 @@ dismutation
 deictical
 devilkin 1
 dreissiger
-dunno
+dunno 1
 deific
 dhobey
 deification
