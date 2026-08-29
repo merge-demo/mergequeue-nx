@@ -13825,7 +13825,7 @@ distancy
 dissimilar
 diabolarchy
 distancing
-dalmatian
+dalmatian 1
 disjoining
 deceptitious
 daytide
