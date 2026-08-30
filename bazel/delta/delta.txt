@@ -7124,7 +7124,7 @@ destructivity
 dabbing
 defiances
 dactylitic
-deplorable
+deplorable 1
 dyskinesia
 danzon
 doggishly
