@@ -2247,7 +2247,7 @@ danes
 dishelm
 dedan
 deceitfulness
-debase
+debase 1
 dinoflagellatae
 dungeonlike
 drummed
