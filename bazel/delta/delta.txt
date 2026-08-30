@@ -12642,7 +12642,7 @@ dodgeries
 duplicidentate 1
 dechemicalization
 disjunctive
-disjunctively
+disjunctively 1
 deseed
 dibble
 disembodying
