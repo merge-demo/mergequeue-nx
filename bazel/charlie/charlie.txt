@@ -31426,7 +31426,7 @@ candied
 curlycues
 crouton 1
 cycladic
-curlike
+curlike 1
 cantharidal
 curlylocks
 cadew
