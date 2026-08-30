@@ -21977,7 +21977,7 @@ confined
 cadging
 confinedly
 confiners
-confines
+confines 1
 confining
 confinity
 chivying
