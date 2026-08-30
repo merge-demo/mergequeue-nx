@@ -8650,7 +8650,7 @@ anomuran
 allegorizing
 aeolic
 allegresse
-allegrettos
+allegrettos 1
 apasttra
 adobes
 annulosan
