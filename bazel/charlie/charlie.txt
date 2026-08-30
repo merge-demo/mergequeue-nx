@@ -16201,7 +16201,7 @@ cathedratical
 counterreligion
 cline
 clines
-caudexes
+caudexes 1
 clinger
 crankness
 crossbeak
