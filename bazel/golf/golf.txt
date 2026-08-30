@@ -629,7 +629,7 @@ geophysicist
 gigartina
 glide
 gradatory
-guenepe
+guenepe 1
 guideline
 gramineal
 geodetic
