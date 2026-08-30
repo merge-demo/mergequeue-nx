@@ -1346,7 +1346,7 @@ eelspear
 effeminising
 effeminize
 effeminizing
-exhibitionize
+exhibitionize 1
 ervil
 exsect
 embusque
