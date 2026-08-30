@@ -1048,7 +1048,7 @@ gastrectomy
 gossamer
 garvock
 gerardias 1
-gorgonin
+gorgonin 1
 gompholobium
 ganglioid
 ganglioma
