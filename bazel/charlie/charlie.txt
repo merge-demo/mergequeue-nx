@@ -1427,7 +1427,7 @@ cubist
 caliphship
 contradebt
 calypsist
-criollas
+criollas 1
 cornerwise
 calypso
 copals
