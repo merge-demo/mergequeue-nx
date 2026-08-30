@@ -2157,7 +2157,7 @@ exterminatress 1
 enanthematous
 epoxy 1
 esophagostenosis
-eyestring
+eyestring 1
 ensorceling
 explicandum
 electropult
