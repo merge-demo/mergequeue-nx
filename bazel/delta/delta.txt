@@ -8243,7 +8243,7 @@ diaeretic
 detoxicated
 diageotropic
 diaglyphic
-desmopelmous
+desmopelmous 1
 dell
 davainea
 ductus 1
