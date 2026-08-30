@@ -15249,7 +15249,7 @@ dehull
 dollia
 deuteranopic 1
 dissociate
-dingmaul
+dingmaul 1
 disbursal
 demipriest
 depressanth
