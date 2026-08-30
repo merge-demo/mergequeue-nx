@@ -11937,7 +11937,7 @@ bolivianos
 begirdling 1
 boggard
 blindfoldly
-boggier
+boggier 1
 bayou
 boggle
 babakoto
