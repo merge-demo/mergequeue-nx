@@ -25253,7 +25253,7 @@ coryza
 cork
 corkage
 canoodler
-cocreates
+cocreates 1
 culmigenous
 corkages
 corkboard
