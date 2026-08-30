@@ -16311,7 +16311,7 @@ aitchless
 adamants
 adenometritis 1
 accombination
-arborvitae
+arborvitae 1
 armarium
 accusive
 antitragicus
