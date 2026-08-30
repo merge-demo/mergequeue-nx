@@ -12507,7 +12507,7 @@ cattycorner
 chromoplast
 congelation
 countergauger
-charmer
+charmer 1
 coachmaking
 cassino
 chrysorin
