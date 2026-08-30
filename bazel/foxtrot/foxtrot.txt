@@ -8680,7 +8680,7 @@ freesia
 flatfooted
 flaunters
 fryers
-funiculate
+funiculate 1
 furicane
 flapless
 fathomable
