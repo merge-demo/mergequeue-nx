@@ -3490,7 +3490,7 @@ additive
 acrogynous
 additivity
 apesthesia
-aloysia
+aloysia 1
 additory
 augustin
 appointively
