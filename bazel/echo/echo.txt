@@ -11405,7 +11405,7 @@ extrinsical
 embanking
 evangelising
 eventualize 1
-eventually
+eventually 1
 expansional
 eventuating
 evictors
