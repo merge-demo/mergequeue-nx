@@ -4675,7 +4675,7 @@ fayettism
 filicinean
 fearsome
 flatnose
-figurante
+figurante 1
 flaunched
 flections
 flexibilities
