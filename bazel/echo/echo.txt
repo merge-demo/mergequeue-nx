@@ -8996,7 +8996,7 @@ exophthalmos
 erythema
 evene
 erythemal
-elenchical
+elenchical 1
 enterokinesia
 enormious
 erythemas
