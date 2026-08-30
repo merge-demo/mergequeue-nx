@@ -16875,7 +16875,7 @@ apicolysis
 amentulum
 apposable
 anymore
-adequation
+adequation 1
 allodelphite 1
 aerodonetic
 ad
