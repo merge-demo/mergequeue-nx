@@ -2314,7 +2314,7 @@ decentralize
 dewatering
 decentralizing
 daphne
-defensory
+defensory 1
 dishwash
 dismounted
 diagraphs
