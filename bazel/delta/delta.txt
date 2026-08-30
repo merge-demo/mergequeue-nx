@@ -15420,7 +15420,7 @@ diastema
 domineering
 domineeringly
 disinherited
-doming
+doming 1
 domini
 decalomania
 demurer 1
