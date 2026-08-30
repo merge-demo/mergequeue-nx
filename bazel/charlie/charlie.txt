@@ -13027,7 +13027,7 @@ craniates
 curies
 cyanophile
 cyanophoric
-cyanopia
+cyanopia 1
 colloquize
 chresard
 cyanoplastid
