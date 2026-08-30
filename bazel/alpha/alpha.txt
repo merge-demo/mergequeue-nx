@@ -4460,7 +4460,7 @@ advance
 azurine
 advancedness
 anagenetic
-adunc
+adunc 1
 archimperial
 amplest
 advancive
