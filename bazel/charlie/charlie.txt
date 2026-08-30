@@ -8250,7 +8250,7 @@ caird 1
 chalcidoid
 conocarp
 cadalene
-chalcocite
+chalcocite 1
 compotatory
 christianomastix
 chalcogen
