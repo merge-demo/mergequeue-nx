@@ -14031,7 +14031,7 @@ caucasoid
 contraregular
 cyprina
 cyprinid
-cheiromancy
+cheiromancy 1
 cyprinids
 cypriniform
 cauline
