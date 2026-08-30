@@ -1908,7 +1908,7 @@ gerbillus
 gamelote
 germaniums 1
 groundable
-gowd
+gowd 1
 grails
 golland
 grelot
