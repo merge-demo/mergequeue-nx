@@ -27054,7 +27054,7 @@ counterpronunciamento
 cetylene 1
 counterpropaganda
 checklaton
-chalcotrichite
+chalcotrichite 1
 counterpropagandize
 counterprophet
 collegially
