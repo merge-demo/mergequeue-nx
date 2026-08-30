@@ -15808,7 +15808,7 @@ chauffeur
 clearinghouses
 clearings
 clearish
-condescendence
+condescendence 1
 clears
 cerealian
 cribrosity
