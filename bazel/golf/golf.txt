@@ -6525,7 +6525,7 @@ groundably
 gospelmonger
 gallivat
 goniatitoid
-glycogenosis
+glycogenosis 1
 ghis
 gunster
 geotherm
