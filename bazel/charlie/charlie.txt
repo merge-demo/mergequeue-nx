@@ -10124,7 +10124,7 @@ categorizers
 compagnie
 chevener
 cheventayn
-cheverel 1
+cheverel 2
 carcassed
 cheveret
 cheveril
