@@ -16528,7 +16528,7 @@ centralized
 cloyless
 cloyment
 coronale
-caffiso
+caffiso 1
 compensations
 cloysome
 cleistothecia
