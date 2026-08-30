@@ -6026,7 +6026,7 @@ gaidropsaridae 1
 gnetaceae
 gravelweed
 geminative
-gutturonasal
+gutturonasal 1
 gingerly
 goodwilly
 geranium
