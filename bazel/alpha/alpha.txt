@@ -4462,7 +4462,7 @@ advancedness
 anagenetic
 adunc
 archimperial
-amplest
+amplest 1
 advancive
 answerer
 agaricus
