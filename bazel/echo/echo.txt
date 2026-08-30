@@ -5921,7 +5921,7 @@ emphases
 explees
 ecarinate
 execrators
-exaggerativeness
+exaggerativeness 1
 epitomise
 edeitis
 enfief
