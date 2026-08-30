@@ -25528,7 +25528,7 @@ chitchatty 1
 coronel
 chamaerrhine
 coronership
-chasidim
+chasidim 1
 coroneted
 chaise
 crutchlike
