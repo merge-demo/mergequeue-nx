@@ -5618,7 +5618,7 @@ afterwale
 amnesics
 afterward
 afterwise
-afterwit
+afterwit 1
 afterwork
 agathodemon
 apinage

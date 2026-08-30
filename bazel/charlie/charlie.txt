@@ -14013,7 +14013,7 @@ comtes
 cypraeidae
 cypraeiform
 confinement
-cypraeoid 1
+cypraeoid 2
 cypre
 cypress
 courtesanry
