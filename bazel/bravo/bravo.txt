@@ -3930,7 +3930,7 @@ brownist
 bdelloid
 bdellometer
 boarts
-booksellerish
+booksellerish 1
 bombardier
 bocstaff
 brickbats
