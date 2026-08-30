@@ -9720,7 +9720,7 @@ alveololingual
 aggregatae
 alveolosubnasal
 accustomized
-antagonising
+antagonising 1
 aux
 alvissmal
 antirabic
