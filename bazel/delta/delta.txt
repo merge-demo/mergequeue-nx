@@ -13070,7 +13070,7 @@ descantist
 dispeaceful
 dory
 dital
-decampment
+decampment 1
 decliners
 drollingly
 decurrencies
