@@ -3922,7 +3922,7 @@ geminated
 gnostic
 glens
 glossocarcinoma
-gawkies
+gawkies 1
 giving
 genitally
 graphomotor
