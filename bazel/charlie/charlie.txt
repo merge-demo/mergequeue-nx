@@ -12503,7 +12503,7 @@ cranky
 corundophilite
 colonists
 creakiest
-cattycorner
+cattycorner 1
 chromoplast
 congelation
 countergauger
