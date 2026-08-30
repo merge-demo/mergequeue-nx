@@ -9407,7 +9407,7 @@ chazan
 chazanim 1
 capette
 chazans
-chazanut
+chazanut 1
 chazy
 circularwise
 curtly
