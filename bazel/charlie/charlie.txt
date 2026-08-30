@@ -8769,7 +8769,7 @@ chloranaemia
 chapitral
 chaplain
 chaplaincies
-chaplains
+chaplains 1
 curiboca
 crackup
 carpocapsa
