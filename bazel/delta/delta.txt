@@ -12356,7 +12356,7 @@ debitable
 discomedusoid
 discredited
 dutchess
-detracted
+detracted 1
 dactyl
 dromaeognathous
 dielectrics
