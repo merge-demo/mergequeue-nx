@@ -772,7 +772,7 @@ globulolysis
 gaulter
 glossolalist
 gutter 1
-gluck
+gluck 1
 gutturize
 galvanothermometer
 ggr
