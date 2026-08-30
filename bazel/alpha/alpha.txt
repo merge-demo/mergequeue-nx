@@ -18657,7 +18657,7 @@ almuce
 alexipharmical
 acroanesthesia
 architraval
-archaises
+archaises 1
 archaising
 archaism
 algebraically 1
