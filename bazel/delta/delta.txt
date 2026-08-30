@@ -378,7 +378,7 @@ daimiate
 daimiel
 davallia
 daimyo
-dawdlers
+dawdlers 1
 dihydrated
 dreadness
 daimios
