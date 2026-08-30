@@ -11741,7 +11741,7 @@ depersonalizes 1
 discredit
 devocalizing
 discreditability
-dahabiya
+dahabiya 1
 delist
 deploredly
 damianist
