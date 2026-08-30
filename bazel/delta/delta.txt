@@ -12491,7 +12491,7 @@ decimalize
 disillusionments
 diaphanousness
 disgorge
-decinormal
+decinormal 1
 discomycetes
 dana
 den
