@@ -6228,7 +6228,7 @@ bungalow
 bennets
 bootlace
 bookism
-bissextus 1
+bissextus 2
 battalions
 barndoor
 biuret
