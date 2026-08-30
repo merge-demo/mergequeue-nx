@@ -9526,7 +9526,7 @@ congruencies
 checkmate
 chirosophist
 cautioning
-circumferences
+circumferences 1
 cultriform
 checkpointed
 chemitypies
