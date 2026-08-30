@@ -11213,7 +11213,7 @@ amphictyons
 anisospore
 amphid
 amphophile 1
-amphidiarthrosis
+amphidiarthrosis 1
 aryans
 amphidisc
 acridan
