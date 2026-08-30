@@ -8804,7 +8804,7 @@ aspersions
 alimental
 anfractuousness
 airtightness
-ascoma
+ascoma 1
 apterygote
 acetylcholinesterase
 afforests
