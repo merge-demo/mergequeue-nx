@@ -23196,7 +23196,7 @@ artel
 arsonvalization
 abolla 1
 alytarch
-anisotonic
+anisotonic 1
 appercipient
 akelas
 attestations
