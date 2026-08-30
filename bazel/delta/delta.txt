@@ -9501,7 +9501,7 @@ diastataxic
 debenzolize
 desiliconize
 discussable
-digestor
+digestor 1
 digestory
 decide
 digesture 1
