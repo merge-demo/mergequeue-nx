@@ -12420,7 +12420,7 @@ circuses
 carolers
 chromidium
 chanceably
-compositae
+compositae 1
 chromidrosis
 chromyl
 chroming
