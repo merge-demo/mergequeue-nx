@@ -8819,7 +8819,7 @@ gasterophilus
 glycins
 gonogenesis 1
 gregariously
-glaciologic
+glaciologic 1
 grazed 1
 geranomorphae
 grossularia
