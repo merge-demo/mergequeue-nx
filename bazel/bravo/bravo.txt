@@ -10081,7 +10081,7 @@ butties
 blabbered
 barytic
 bewhiskered
-blabbering
+blabbering 1
 blabbermouths
 blabbing
 blabmouth 1
