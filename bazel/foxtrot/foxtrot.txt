@@ -8089,7 +8089,7 @@ flusterated
 forejudged
 forenews
 faunistic
-foyboat
+foyboat 1
 fulminated
 foveolae
 funkiest
