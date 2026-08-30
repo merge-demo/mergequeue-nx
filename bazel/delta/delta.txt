@@ -9210,7 +9210,7 @@ dodonian
 divertimentos
 destinist
 debatingly
-diehard
+diehard 1
 demarkation
 disdainly
 diehards
