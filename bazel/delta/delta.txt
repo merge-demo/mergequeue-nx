@@ -6089,7 +6089,7 @@ disgraded
 disannulling
 disintegrant
 diastasic
-dysmenorrhoea
+dysmenorrhoea 1
 dream
 dactyliographic
 dequeues
