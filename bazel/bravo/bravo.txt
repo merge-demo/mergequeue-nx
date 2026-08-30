@@ -9380,7 +9380,7 @@ bullyrook
 bulges
 birdless
 bimucronate
-balbutiate
+balbutiate 1
 birdlimes
 blennoemesis
 becomings
