@@ -7845,7 +7845,7 @@ gasometric
 guttide
 grisoutine
 grovelled
-gtc
+gtc 1
 geoglossaceae
 gun
 guhayna
