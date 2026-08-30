@@ -19273,7 +19273,7 @@ austroasiatic
 amphigonium
 afterhand
 adynamy
-areng
+areng 1
 archpresbyter
 arenga
 another
