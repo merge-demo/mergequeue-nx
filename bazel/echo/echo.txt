@@ -6770,7 +6770,7 @@ entrechat
 endoceratitic
 enthusiastically
 eta
-enthusiastly
+enthusiastly 1
 emydosaurian
 emmarvel
 ephemeral
