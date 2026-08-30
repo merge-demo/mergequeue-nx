@@ -6693,7 +6693,7 @@ enkindler
 electromotiv
 enchelycephali
 enterosepsis 1
-enterotome
+enterotome 1
 encharged
 enright
 enterotoxemia
