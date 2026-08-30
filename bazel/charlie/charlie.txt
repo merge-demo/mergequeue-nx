@@ -3418,7 +3418,7 @@ carers
 caprices
 capricious
 cajole
-capricornid
+capricornid 1
 conditotoria
 centon
 cedarware 1
