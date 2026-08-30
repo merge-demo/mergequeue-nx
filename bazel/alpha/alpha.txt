@@ -1076,7 +1076,7 @@ abundant
 anachronical
 abundantly
 agnatically
-abune
+abune 1
 acromimia
 ausubo
 aburton
