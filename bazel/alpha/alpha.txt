@@ -18542,7 +18542,7 @@ arborous
 arborvitaes
 arcticwards
 amidine
-arrises
+arrises 1
 attitudes
 arborway
 arbota
