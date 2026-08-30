@@ -878,7 +878,7 @@ dieback
 deuteronomistic
 dummerer
 diagnostication
-dori
+dori 1
 dermotherm
 daguerrean
 dripproof
