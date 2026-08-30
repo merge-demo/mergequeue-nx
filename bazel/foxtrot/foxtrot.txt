@@ -7534,7 +7534,7 @@ ferial
 ferrocyanhydric
 foment
 feazes
-foredesignment
+foredesignment 1
 forecastle
 forecastlehead 1
 five
