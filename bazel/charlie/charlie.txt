@@ -5646,7 +5646,7 @@ cataphoria
 cataphract
 counterargue
 cosmetology
-cataphracted
+cataphracted 1
 cataphractic
 cataphrenia
 crook
