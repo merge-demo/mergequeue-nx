@@ -13664,7 +13664,7 @@ dissymmetric 1
 degender
 dampy
 devises
-disturbances
+disturbances 1
 demisemitone
 dissymmetrically
 danseurs
