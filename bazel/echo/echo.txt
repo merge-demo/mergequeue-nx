@@ -11249,7 +11249,7 @@ evangelistary
 enthronements
 earflower
 endostraca
-enamor
+enamor 1
 emigre
 enthronized
 evangelistic
