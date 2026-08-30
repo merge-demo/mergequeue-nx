@@ -9584,7 +9584,7 @@ forensic
 floreta
 frontopontine
 fizzed 1
-fichus
+fichus 1
 friableness
 fusteric
 frizzing
