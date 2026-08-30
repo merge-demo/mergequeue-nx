@@ -5287,7 +5287,7 @@ frilliest
 fails
 flawful
 flawing
-flabbergasted
+flabbergasted 1
 footloose
 flawlessness
 fangy
