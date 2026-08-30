@@ -22301,7 +22301,7 @@ autodynamic
 antal 1
 antifundamentalist
 astride
-averah
+averah 1
 antefixal
 argentoproteinum
 argents
