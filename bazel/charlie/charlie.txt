@@ -22798,7 +22798,7 @@ caulicles
 congiaries
 consentable
 consentaneity
-consentaneous
+consentaneous 1
 consentaneousness
 continently
 consecutives
