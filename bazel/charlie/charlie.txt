@@ -9533,7 +9533,7 @@ chemitypies
 checkpointing
 combmaking
 checkpoints
-commonize
+commonize 1
 cogitative
 checkrack 1
 casehardens
