@@ -12825,7 +12825,7 @@ evangelicity
 ensepulchered
 ecanda
 edgeways
-excavation
+excavation 1
 empacket
 elinguated
 eroticization
