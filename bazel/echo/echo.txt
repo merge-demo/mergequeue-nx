@@ -7140,7 +7140,7 @@ energic
 envious
 expelling
 embryomata
-ensophic
+ensophic 1
 epicyesis
 eild
 exclusions
