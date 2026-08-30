@@ -3447,7 +3447,7 @@ fifed
 flerried 1
 frontals 1
 feminising
-fulmines
+fulmines 1
 forewarmer
 forepointer
 furfurans
