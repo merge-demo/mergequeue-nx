@@ -6470,7 +6470,7 @@ diploes
 decadenza
 dactylioglyph
 disbark
-desamidase
+desamidase 1
 desands
 desc
 descale
