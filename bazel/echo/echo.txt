@@ -10135,7 +10135,7 @@ epinastic
 enunciating
 exacerbations
 exheredation
-emballonurid
+emballonurid 1
 eupion
 exemplifier
 endive
