@@ -414,7 +414,7 @@ cacorhythmic
 coterminous
 clanged
 cacorrhinia
-coelevate
+coelevate 1
 circumvents
 crumbers
 curns
