@@ -6807,7 +6807,7 @@ foreshadowing
 ferme
 fiendliness
 frontal
-flaccidity
+flaccidity 1
 footbeat
 forfalt
 faithfuls
