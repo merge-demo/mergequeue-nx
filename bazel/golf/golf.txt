@@ -183,7 +183,7 @@ goaled 1
 gabarit
 gammacism
 groschen
-gavage
+gavage 1
 gelled
 garred
 going
