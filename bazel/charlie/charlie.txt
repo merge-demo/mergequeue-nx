@@ -4964,7 +4964,7 @@ cartloads
 clicket
 cartmaking
 cartobibliography
-columbia
+columbia 1
 cartogram
 comminate
 cartography
