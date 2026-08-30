@@ -13339,7 +13339,7 @@ existible
 evolvable
 extrametaphysical
 encowl
-enough
+enough 1
 erithacus 1
 entitled
 exceedingly
