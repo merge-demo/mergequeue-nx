@@ -5290,7 +5290,7 @@ espinillo
 etaerio
 exactor
 entreatable
-evened
+evened 1
 editors
 ecumenicity 1
 endopodite
