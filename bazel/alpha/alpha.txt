@@ -15612,7 +15612,7 @@ antineutralism
 argyles
 attritive
 antineutrino
-ametria
+ametria 1
 aftermatter
 antineutrons
 anting
