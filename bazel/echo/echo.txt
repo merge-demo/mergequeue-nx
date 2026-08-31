@@ -11645,7 +11645,7 @@ extemporising
 exactas
 ergastoplasm
 elaterite
-epileptogenic
+epileptogenic 1
 elephanticide
 exacter
 equianchorate
