@@ -15927,7 +15927,7 @@ dewaxes
 daydream
 dotages
 doubleword
-darned
+darned 1
 duddle
 drawlingly
 dotarie
