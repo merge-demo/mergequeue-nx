@@ -15120,7 +15120,7 @@ damningness
 disadvantaged
 decremental
 delawn
-degustate
+degustate 1
 dubitatively
 dipolarization
 dogstones
