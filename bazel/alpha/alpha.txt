@@ -2311,7 +2311,7 @@ acidometry 1
 antinationalization
 asmear
 anacamptically
-acidoses
+acidoses 1
 antiradically
 afternoon
 acidosteophyte

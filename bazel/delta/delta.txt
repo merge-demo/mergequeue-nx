@@ -3163,7 +3163,7 @@ disgout
 dissimulated
 drouths
 dryness
-defeats
+defeats 1
 deathroot
 defeature 1
 debted
