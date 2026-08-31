@@ -4583,7 +4583,7 @@ enchancement 1
 empeoplement
 enchanted
 eschara
-eunuchise
+eunuchise 1
 euthycomic
 extraregular
 encephalola
