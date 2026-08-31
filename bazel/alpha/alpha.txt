@@ -17875,7 +17875,7 @@ antonomasy
 algraphy 1
 awan
 argininephosphoric
-avosets
+avosets 1
 aleutite
 apprense
 acetylenic
