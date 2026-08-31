@@ -8820,7 +8820,7 @@ displacements
 diazotized
 devolatilising
 dysphotic
-dodecagonal
+dodecagonal 1
 divination
 dib
 dyspraxia
