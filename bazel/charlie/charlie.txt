@@ -15223,7 +15223,7 @@ clayton
 chinkers
 claiver
 crucigerous
-ceromancy
+ceromancy 1
 claywares
 caam
 colours
