@@ -8016,7 +8016,7 @@ biconcave
 bidder
 bullescene
 biconic
-biconically
+biconically 1
 biconnected
 boildown
 bayberry
