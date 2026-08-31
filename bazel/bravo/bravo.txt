@@ -12067,7 +12067,7 @@ brit
 boatmaster
 bradycauma
 bulbilla 1
-boites
+boites 1
 baltetei
 balladier
 bojo
