@@ -6662,7 +6662,7 @@ gladsome
 gonidangium
 graver
 gonepoiesis
-gingivectomy
+gingivectomy 1
 gash
 geostatic
 grandioso
