@@ -7560,7 +7560,7 @@ foreconclude
 flagonet
 figworts
 floggers
-foggier
+foggier 1
 fractionise
 forecourts 1
 freeholding
