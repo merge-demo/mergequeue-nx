@@ -12918,7 +12918,7 @@ critism
 coronoid 1
 cleidocranial
 chute
-clangorously
+clangorously 1
 clachs
 chuted
 calyon
