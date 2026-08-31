@@ -7262,7 +7262,7 @@ gemination
 gammas
 gromyl 1
 gormand
-gibbus
+gibbus 1
 gemmingia
 gormandised
 geissolomataceous
