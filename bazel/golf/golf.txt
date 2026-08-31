@@ -10666,7 +10666,7 @@ glottologist
 guric
 grog
 granitization
-gelatinobromide
+gelatinobromide 1
 gurl
 geocentricism
 glyceryl
