@@ -26370,7 +26370,7 @@ chrysanilin
 coteaux
 coted
 cling
-cans
+cans 1
 coteen
 cotele
 curlers
