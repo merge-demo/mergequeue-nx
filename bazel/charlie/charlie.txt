@@ -10551,7 +10551,7 @@ conter
 carports
 chiller
 confessionary
-comino
+comino 1
 corporational
 cotwist
 chillest
