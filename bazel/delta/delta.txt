@@ -8730,7 +8730,7 @@ demisacrilege
 diathesis
 dirl
 dimps
-diatoma
+diatoma 1
 diapase
 deems
 diastase
