@@ -9723,7 +9723,7 @@ fuchsins 1
 fevery
 ficoideae
 fretworks
-flexile
+flexile 1
 flaccidness
 frenchwomen
 frenetical
