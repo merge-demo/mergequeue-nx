@@ -23534,7 +23534,7 @@ aularian
 anthracitization
 assagai
 accipenser
-auksinas
+auksinas 1
 allotropy
 andalusite
 aldeia
