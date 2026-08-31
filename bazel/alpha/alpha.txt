@@ -23851,7 +23851,7 @@ autarch
 antherozoidal
 ataraxy
 atalantis
-amices
+amices 1
 ascanian
 autarchic
 arrowweed
