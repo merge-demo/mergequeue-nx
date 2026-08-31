@@ -5836,7 +5836,7 @@ engoument
 entification
 evade
 emulatory
-efficace
+efficace 1
 electrovalency
 exfoliation
 erlkings
