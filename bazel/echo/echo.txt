@@ -1469,7 +1469,7 @@ exenteritis
 epipleural
 envelop
 enfarce
-euxanthate
+euxanthate 1
 euhemerism
 efforts 1
 effraction
