@@ -13497,7 +13497,7 @@ ectocondyloid
 editing
 etruscologist
 evaporite
-eristic
+eristic 1
 endangeitis
 epitomic
 epigrapher
