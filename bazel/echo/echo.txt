@@ -13633,7 +13633,7 @@ euphemization
 epilemma 1
 extensions
 eggcup
-expansometer
+expansometer 1
 engrosses
 empeo
 extracorporeally
