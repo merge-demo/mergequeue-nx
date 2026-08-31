@@ -13169,7 +13169,7 @@ compellability
 colluviums
 clavellate
 ciceronianize
-ciceronically
+ciceronically 1
 clearskins
 cichlid
 cichlidae
