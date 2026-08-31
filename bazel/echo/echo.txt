@@ -12983,7 +12983,7 @@ erminette
 etheling
 evicke
 exposals
-emotion
+emotion 1
 ensnarls
 entice
 expectorant
