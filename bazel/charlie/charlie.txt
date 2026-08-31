@@ -18371,7 +18371,7 @@ cognacs
 cognate
 contrarevolutionary
 chamsin
-cognately
+cognately 1
 cerotate
 cognati
 churchless
