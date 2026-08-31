@@ -20058,7 +20058,7 @@ anaphoras
 apophyses
 ambrosial
 allomerizing
-albainn
+albainn 1
 agatiform
 autobiographical
 aromatophor
