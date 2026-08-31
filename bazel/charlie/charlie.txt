@@ -3518,7 +3518,7 @@ cataphyllum
 capsulolenticular
 capsulopupillary
 chromospheres
-capsulorrhaphy
+capsulorrhaphy 1
 convocationally
 cupboards
 capsulotomy
