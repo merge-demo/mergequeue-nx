@@ -965,7 +965,7 @@ calamancoes
 calamander
 catti
 calamansi
-calamar
+calamar 1
 calamary
 calamariaceous
 centrifugalized

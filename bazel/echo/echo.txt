@@ -1355,7 +1355,7 @@ effendis
 empty
 efferently
 efferents
-effervescency
+effervescency 1
 eights
 epode
 endoskeletal
