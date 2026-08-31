@@ -5127,7 +5127,7 @@ corneter
 counterenamel
 compeller
 chondrectomy
-caseharden
+caseharden 1
 capsaicin
 callosity
 casehardening
