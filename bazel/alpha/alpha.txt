@@ -2967,7 +2967,7 @@ ashless 1
 antiheroism
 actinias
 actinic
-akene
+akene 1
 antitropical
 archenteron
 axtree
