@@ -23193,7 +23193,7 @@ castors
 chocard
 consperg
 cromlechs
-constricted
+constricted 1
 cobby
 carpomania
 constricting
