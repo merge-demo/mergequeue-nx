@@ -10511,7 +10511,7 @@ esoanhydride
 extirpations
 effigy
 exemplifications
-electrometry
+electrometry 1
 effusing
 entreatingly
 euboean
