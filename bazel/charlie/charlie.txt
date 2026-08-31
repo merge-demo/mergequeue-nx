@@ -10305,7 +10305,7 @@ clupeiform
 chickell
 chicken
 chainsmen
-chartographist
+chartographist 1
 chickenberry
 counterpole
 citoyens
