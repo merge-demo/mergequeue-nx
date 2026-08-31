@@ -4987,7 +4987,7 @@ aeronomics
 anthropopathia
 armrest
 amphisbaenid
-argentate 1
+argentate 2
 auriculate
 admissibleness
 aeropathy
