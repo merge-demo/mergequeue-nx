@@ -11449,7 +11449,7 @@ embryotic
 expdt 1
 elided
 evetide
-extirpating
+extirpating 1
 encipherment
 ethanim
 elucidation
