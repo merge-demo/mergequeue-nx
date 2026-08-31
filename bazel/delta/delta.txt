@@ -8166,7 +8166,7 @@ deferrization
 diachronic
 dipleurule
 daer
-darger
+darger 1
 diachronically
 dicranum
 diacid
