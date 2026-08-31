@@ -7359,7 +7359,7 @@ forbad
 faeces
 fat
 forbborne 1
-freshen
+freshen 1
 feudalism 1
 forby
 famelessly
