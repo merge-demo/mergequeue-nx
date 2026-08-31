@@ -11478,7 +11478,7 @@ aporrhea
 argolic
 antiphilosophism
 acaulose
-arteriolar
+arteriolar 1
 adenophore
 appetites
 algoristic
