@@ -1892,7 +1892,7 @@ bandanas
 bergama
 bandogs
 bediademed
-barken
+barken 1
 bandoleer
 burlesquely 1
 backhoes
