@@ -10095,7 +10095,7 @@ autodialer
 amblotic
 apostrophizing
 anythings
-ambo
+ambo 1
 acanthin
 architective
 ablatives
