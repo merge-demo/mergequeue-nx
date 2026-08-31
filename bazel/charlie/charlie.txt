@@ -22838,7 +22838,7 @@ covenanted
 commemorator
 coalsack 1
 chibrit
-consequently
+consequently 1
 choremen
 cognateness
 clamourer
