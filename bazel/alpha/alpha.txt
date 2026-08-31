@@ -2367,7 +2367,7 @@ arcana
 acyloxy
 adamances
 abortionist
-abator
+abator 1
 adjection
 acrospired
 anticritically
