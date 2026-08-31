@@ -6992,7 +6992,7 @@ desalinizes
 despitefulness
 disray
 despiteously
-despites
+despites 1
 decease
 diogenite
 dithionite
