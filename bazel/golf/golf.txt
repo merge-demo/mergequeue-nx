@@ -6622,7 +6622,7 @@ glummy
 garous
 granivorous
 glegnesses 1
-gonaduct
+gonaduct 1
 guiling
 gonalgia
 gallinipper
