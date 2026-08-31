@@ -887,7 +887,7 @@ furfooz
 foundationlessness 1
 forestlike
 fatheads
-featural
+featural 1
 flatheads
 fortake
 fishhook
