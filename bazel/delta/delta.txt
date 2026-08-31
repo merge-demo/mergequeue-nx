@@ -3791,7 +3791,7 @@ dynamites
 distrain
 deice
 donning
-disseizoress
+disseizoress 1
 defibrillation
 deicers
 defacingly
