@@ -24868,7 +24868,7 @@ arthroplasty
 anguishously
 autobiographically
 antejuramentum
-archplutocrat
+archplutocrat 1
 anthropometrical
 avow
 avowably
