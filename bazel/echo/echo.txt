@@ -4756,7 +4756,7 @@ evenest
 eyepieces
 euphrosyne
 enarthrosis 1
-effulgent
+effulgent 1
 emeerates
 enclasps
 emptings
