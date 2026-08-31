@@ -4386,7 +4386,7 @@ encephalosclerosis
 evisite
 endoplastule
 euornithes
-enapt
+enapt 1
 ethnog
 elemi
 encages
