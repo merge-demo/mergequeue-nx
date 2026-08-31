@@ -1359,7 +1359,7 @@ effervescency
 eights
 epode
 endoskeletal
-essentialness
+essentialness 1
 exomis
 evasional
 ebcdic
