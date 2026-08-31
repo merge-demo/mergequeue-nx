@@ -11825,7 +11825,7 @@ deipnosophism
 dormitary
 discrowns
 daydreamed
-devitalised
+devitalised 1
 dogma
 defiler 1
 discruciate 1
