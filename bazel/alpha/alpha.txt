@@ -8726,7 +8726,7 @@ accessed
 anarchial
 autohybridization
 aread
-alleviated
+alleviated 1
 abnormalizing
 abscind
 accusatival
