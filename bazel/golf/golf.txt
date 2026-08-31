@@ -813,7 +813,7 @@ grazeable
 goldenrods
 gyppo
 gletty
-galoots
+galoots 1
 granose
 ginney
 gnarring
