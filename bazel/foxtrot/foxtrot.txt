@@ -697,7 +697,7 @@ firebolted
 farmstead
 forenotion 1
 farcemeat
-ferromagnetic
+ferromagnetic 1
 futilitarianism
 fascioloid
 forehard
