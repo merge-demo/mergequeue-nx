@@ -15117,7 +15117,7 @@ dogsbodies
 deleniate
 dentist
 damningness
-disadvantaged
+disadvantaged 1
 decremental
 delawn
 degustate
