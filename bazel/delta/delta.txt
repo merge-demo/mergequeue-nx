@@ -5358,7 +5358,7 @@ decoyed
 daraf
 diaphoretic
 displaced
-dentical
+dentical 1
 denticle
 dentiferous
 dentification
