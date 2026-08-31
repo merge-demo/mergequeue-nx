@@ -4606,7 +4606,7 @@ girlery 1
 girlishly
 glink
 giornata
-guarantees
+guarantees 1
 glycerizin 1
 griotte
 gufought
