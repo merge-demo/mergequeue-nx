@@ -10065,7 +10065,7 @@ ambivert
 arrect
 amble
 apanteles
-ambleocarpus
+ambleocarpus 1
 anthropomorphitical
 ambler
 awakes
