@@ -7311,7 +7311,7 @@ constitution
 conicity
 carnelians
 cryptolunatic
-chloro
+chloro 1
 caucasus
 crushes
 cinchomeronic
