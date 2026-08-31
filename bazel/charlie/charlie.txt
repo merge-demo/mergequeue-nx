@@ -9404,7 +9404,7 @@ catering
 citoyen
 clickless
 chazan
-chazanim 1
+chazanim 2
 capette
 chazans
 chazanut
