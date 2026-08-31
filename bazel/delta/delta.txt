@@ -1266,7 +1266,7 @@ datiscosid
 delacerate
 drosograph
 datisi
-dative
+dative 1
 dorking
 datively
 dreamlore
