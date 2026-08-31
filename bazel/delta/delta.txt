@@ -5150,7 +5150,7 @@ dendrophilous 1
 densation
 dadoed
 doggiest
-denebola
+denebola 1
 dulbert
 disburdened
 denervation
