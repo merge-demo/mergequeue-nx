@@ -16361,7 +16361,7 @@ attacker
 aldoses 1
 aal
 anticommutative
-antivivisectionist
+antivivisectionist 1
 acrospiring
 ambuscade
 asteroidal
