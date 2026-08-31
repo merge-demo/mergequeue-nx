@@ -3955,7 +3955,7 @@ demes
 delayer
 delayful
 dooli
-devitalisation
+devitalisation 1
 delaminated
 dibranchia
 demonolatrously
