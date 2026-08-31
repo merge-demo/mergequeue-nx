@@ -7907,7 +7907,7 @@ avouched
 azodiphenyl
 adenography
 abandum
-anorthoscope
+anorthoscope 1
 atropines
 annexitis
 abacas
