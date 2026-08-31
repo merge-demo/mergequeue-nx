@@ -2158,7 +2158,7 @@ coalbin
 conterminate
 cymba
 corduroy
-campho
+campho 1
 camphocarboxylic
 camphoid
 choryos
