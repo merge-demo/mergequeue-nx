@@ -10712,7 +10712,7 @@ dingar
 dumbnesses
 diaculum
 depit
-dormin
+dormin 1
 digitalize
 demurs
 dippier
