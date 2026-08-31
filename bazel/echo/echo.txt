@@ -11542,7 +11542,7 @@ eviting
 evangeline
 emprize
 endosteitis
-edital
+edital 1
 evocating
 ensign
 enkerchief
