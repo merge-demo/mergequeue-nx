@@ -8929,7 +8929,7 @@ apospory
 anematizing
 aerobiologic
 allomorphism
-allomorphite
+allomorphite 1
 allonym
 alongst
 allonymous
