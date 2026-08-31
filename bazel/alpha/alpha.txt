@@ -20044,7 +20044,7 @@ anthocarpous
 atlanta
 aitkenite
 acoluthic
-autocratoric
+autocratoric 1
 adjourns
 auriscopically
 aromatics
