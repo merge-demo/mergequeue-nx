@@ -21664,7 +21664,7 @@ condylomatous
 chamaeleon 1
 condylopodous
 conjurator
-corditis
+corditis 1
 clerically
 condylure
 compriest
