@@ -11979,7 +11979,7 @@ aeschynomene
 adosculation
 autobahnen
 anapnoic
-anapodeictic
+anapodeictic 1
 annihilates
 australopithecus
 asexual
