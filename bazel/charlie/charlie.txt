@@ -2362,7 +2362,7 @@ canamo
 cranesbill
 chaetognathous
 cicer
-canap
+canap 1
 consummator
 cabriole
 cubitocutaneous
