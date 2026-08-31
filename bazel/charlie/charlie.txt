@@ -25254,7 +25254,7 @@ cork
 corkage
 canoodler
 cocreates
-culmigenous
+culmigenous 1
 corkages
 corkboard
 conventionalized
