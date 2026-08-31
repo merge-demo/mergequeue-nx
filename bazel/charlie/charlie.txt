@@ -16452,7 +16452,7 @@ clobbers 1
 clochette
 clockbird
 comodato
-caponizes
+caponizes 1
 clocker
 clockhouse
 clockless
