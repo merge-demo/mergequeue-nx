@@ -9958,7 +9958,7 @@ dawnlight
 distances
 devonian
 droved
-declassee
+declassee 1
 diolefine
 droner
 dodged
