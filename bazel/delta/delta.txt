@@ -1595,7 +1595,7 @@ disinfector
 deadwork
 deaerated
 dorsum
-deaf
+deaf 1
 dynamogenous
 deafened
 doorjambs
