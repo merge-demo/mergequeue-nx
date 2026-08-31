@@ -3886,7 +3886,7 @@ frizzles
 fanglomerate
 figurings
 farleu
-fimbrillate
+fimbrillate 1
 fany
 fig
 flowerlet
