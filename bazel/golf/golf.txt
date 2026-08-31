@@ -5844,7 +5844,7 @@ glochidia 1
 gendarmes
 gruiformes
 ghettoing
-geroderma
+geroderma 1
 graffito
 glycolaldehyde
 gedact
