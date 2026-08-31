@@ -28087,7 +28087,7 @@ cynicism
 crandallite
 cuspidine
 coastwise
-crane
+crane 1
 craned
 cerveliere
 cichoriaceae
