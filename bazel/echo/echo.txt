@@ -11284,7 +11284,7 @@ emanating
 enwrapped
 ectoplasy
 extraversive
-eutaxy
+eutaxy 1
 eikonogen
 evaporates
 edp
