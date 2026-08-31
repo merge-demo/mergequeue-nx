@@ -13803,7 +13803,7 @@ dignifies
 dissunder
 deflexible
 deerskin
-dialogistically 1
+dialogistically 2
 demurral
 deader
 driftpin
