@@ -8719,7 +8719,7 @@ fid
 falsifies
 frisette
 fortifys
-finalist
+finalist 1
 ferther
 framboesia
 finniest
