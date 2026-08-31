@@ -20409,7 +20409,7 @@ concamerate
 companable 1
 companage
 circumfluent
-counterword
+counterword 1
 cerebroma
 cannels
 company
