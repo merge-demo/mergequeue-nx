@@ -18193,7 +18193,7 @@ carboline
 crisscross
 coevolution
 coimplicate
-calumniousness
+calumniousness 1
 cryochoric
 collectiveness
 coexerted
