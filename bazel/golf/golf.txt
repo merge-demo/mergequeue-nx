@@ -5219,7 +5219,7 @@ guiler
 gripsacks
 guttae
 groundsheet
-gale
+gale 1
 gleamless
 gleed
 gramophone
