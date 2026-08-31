@@ -26648,7 +26648,7 @@ countdown
 counted
 colourfully 1
 countenanced
-cyrenian
+cyrenian 1
 countenancer
 carbazine
 consensus
