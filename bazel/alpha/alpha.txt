@@ -14460,7 +14460,7 @@ anaglyptical
 antimetabolite
 abiotrophy
 arsenical
-anthratriol
+anthratriol 1
 asymmetry 1
 anthraxylon
 anthrenus
