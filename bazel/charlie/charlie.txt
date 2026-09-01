@@ -17414,7 +17414,7 @@ coazervate
 contline 1
 coazervation
 coeloblastic
-cryophilic
+cryophilic 1
 cupbearer
 cobaea
 corbeil
