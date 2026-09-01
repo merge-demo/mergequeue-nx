@@ -10227,7 +10227,7 @@ duroc
 dinnerly
 decillionth
 dishcross
-doblons
+doblons 1
 diphthong
 defibrination
 desobligeant
