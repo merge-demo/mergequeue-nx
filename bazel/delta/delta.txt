@@ -1856,7 +1856,7 @@ devirginator
 debitum
 declaratory 1
 douvecot 1
-dorsale
+dorsale 1
 deblai
 deblaterate
 daubries
