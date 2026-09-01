@@ -4194,7 +4194,7 @@ emporte
 ecstasy
 exegeses
 ensteep
-evasible
+evasible 1
 empower
 ecumenics
 eriocaulon 1
