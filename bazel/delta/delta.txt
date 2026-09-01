@@ -2894,7 +2894,7 @@ draper
 didunculidae
 detainers 1
 deerlike
-decurion
+decurion 1
 dispensatories 1
 demented
 diorthosis
