@@ -9198,7 +9198,7 @@ galvanometer
 greenwich
 gynarchies
 galvanization
-generalizes 1
+generalizes 2
 groves
 grangerizer
 goffered
