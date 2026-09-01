@@ -9816,7 +9816,7 @@ enucleating
 evolving
 estampede
 estang
-ethnographist
+ethnographist 1
 extincteur
 econometrician
 eatables
