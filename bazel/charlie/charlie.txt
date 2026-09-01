@@ -9722,7 +9722,7 @@ chromotype
 cheiranthus
 cheirogaleus
 cheirography
-cheirolin
+cheirolin 1
 cymbal
 cheirology
 ciconiidae
