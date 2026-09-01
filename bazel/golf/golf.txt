@@ -10422,7 +10422,7 @@ graphiology
 gum
 gandhi
 gluiness
-gyneolatry
+gyneolatry 1
 geologician
 goney 1
 gardbrace
