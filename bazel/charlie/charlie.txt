@@ -20528,7 +20528,7 @@ checkerspot
 chromatophorous
 compellable
 cheirognomy
-compelled
+compelled 1
 carpogenic
 crumpling
 clarkia
