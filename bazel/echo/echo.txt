@@ -3546,7 +3546,7 @@ embolimeal
 ecumenism
 emuscation
 estriols
-enfoeffment
+enfoeffment 1
 exothermic
 exanthematous
 ergographic
