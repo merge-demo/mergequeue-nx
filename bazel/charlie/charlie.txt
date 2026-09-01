@@ -15908,7 +15908,7 @@ clementina
 clemently
 clementness
 caballine
-clemming
+clemming 1
 clench
 carbamino
 clenched
