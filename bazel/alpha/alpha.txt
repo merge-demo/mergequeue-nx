@@ -817,7 +817,7 @@ addedly
 arachnoiditis
 abruptness
 apptd
-ambilogy
+ambilogy 1
 algarot
 authoritatively
 additur
