@@ -15663,7 +15663,7 @@ devilishly
 doozies
 dopa
 demobilisation
-determine
+determine 1
 dopchick
 dopebook 1
 demonstrator
