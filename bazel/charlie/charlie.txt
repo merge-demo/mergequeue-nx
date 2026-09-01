@@ -9853,7 +9853,7 @@ chemists
 coenactor
 countess
 chawer
-chemitypy
+chemitypy 1
 chemizo
 colligated
 chastizer
