@@ -20949,7 +20949,7 @@ comprizes
 cobhead
 cymous
 cultuses
-comprizing
+comprizing 1
 casshe
 cresol
 comprobation
