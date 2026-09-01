@@ -25149,7 +25149,7 @@ cathartae
 camails
 crampoons
 chrysocale
-corge
+corge 1
 cory
 curculionist
 counterwall
