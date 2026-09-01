@@ -2607,7 +2607,7 @@ acquiescence
 acquiescency 1
 abacli
 amygdalotomy
-accrescent
+accrescent 1
 atheist
 agapeic
 allocated
