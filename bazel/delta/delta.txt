@@ -6303,7 +6303,7 @@ dicranaceae
 dorsabdominally
 dermatosclerosis
 dermatoses 1
-devulcanize
+devulcanize 1
 dermatosiophobia
 diselder
 depurated
