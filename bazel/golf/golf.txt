@@ -4551,7 +4551,7 @@ gyrated
 gosain 1
 grandfatherish
 germinable
-gummed
+gummed 1
 gainpain 2
 glabrousness
 genocidal
