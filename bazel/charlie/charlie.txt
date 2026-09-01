@@ -12821,7 +12821,7 @@ chuppah
 cornuate
 cecile
 chuprassy
-canasta
+canasta 1
 calorite
 commonplacer 1
 calcitestaceous
