@@ -14223,7 +14223,7 @@ allomorph
 arapahite 1
 agglutinant
 abrahamic
-aeroscopic
+aeroscopic 1
 arent
 anisaldehyde
 arbuscula
