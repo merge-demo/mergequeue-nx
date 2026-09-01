@@ -7856,7 +7856,7 @@ cesarian
 cesarians
 cruisers
 calcinable
-chinned 1
+chinned 2
 cesious
 cesium
 cesiums
