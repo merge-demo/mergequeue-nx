@@ -10560,7 +10560,7 @@ euchology
 endocrinological
 evangelistarium
 effuse
-equationist
+equationist 1
 endboard
 eclectical
 ensurers
