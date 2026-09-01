@@ -25352,7 +25352,7 @@ antinucleons 1
 azosulphonic
 acker
 azotemia
-arbiter
+arbiter 1
 azotemias
 ankylosis
 acinaceous
