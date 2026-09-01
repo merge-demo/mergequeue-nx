@@ -4233,7 +4233,7 @@ argentation
 assiduity
 automorph
 arouser
-astichous
+astichous 1
 astore
 ados
 acromegalia
