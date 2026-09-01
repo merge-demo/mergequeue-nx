@@ -5936,7 +5936,7 @@ eurytopicity
 exoenzymic
 embuskin
 ephemeron
-excursive
+excursive 1
 exclave
 eftest
 ethmonasal
