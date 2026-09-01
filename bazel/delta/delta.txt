@@ -14444,7 +14444,7 @@ disjointing 1
 duopolist
 denies
 dindymene
-divertibility
+divertibility 1
 diverticle
 daibutsu
 disguisedness
