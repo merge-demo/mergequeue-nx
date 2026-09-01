@@ -11271,7 +11271,7 @@ antiballistic
 avidious
 amphiprostylar
 anaglyptographic
-antiusurious
+antiusurious 1
 aquocellolitis
 amdahl
 aminoformic
