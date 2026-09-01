@@ -8693,7 +8693,7 @@ gannetry
 grassily
 gasteromycete
 glyphograph
-greedyguts
+greedyguts 1
 guaconize
 gibier
 greedless
