@@ -1842,7 +1842,7 @@ enginous
 electroballistic
 errableness
 enigmatical
-eared
+eared 1
 eighties
 exhalable
 eightieth
