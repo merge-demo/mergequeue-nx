@@ -1641,7 +1641,7 @@ foreannounce
 fellowless
 fipenny
 four 1
-fdnames
+fdnames 1
 forthcut
 fluible
 flamboyantly
