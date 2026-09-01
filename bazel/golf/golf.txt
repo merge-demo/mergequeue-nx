@@ -3693,7 +3693,7 @@ guardstone
 gulist
 griphus 1
 groover
-gaslighted
+gaslighted 1
 gelastic
 grapsus
 ghostfishes
