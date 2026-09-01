@@ -16290,7 +16290,7 @@ auscultative
 antitonic
 artistical
 autoneurotoxin
-annuity
+annuity 1
 apiararies 1
 antiroyal
 aspire
