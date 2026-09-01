@@ -3240,7 +3240,7 @@ capitalistically
 capitalists
 capitalizable 1
 cubatures
-coremium
+coremium 1
 capitalized
 capitalizers
 catecheses
