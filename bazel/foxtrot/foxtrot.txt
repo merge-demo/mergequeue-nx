@@ -10274,7 +10274,7 @@ fratched
 frammit
 fibrinolysin 2
 fatheadedness
-falernian
+falernian 1
 folkmot
 faultless
 fromenty
