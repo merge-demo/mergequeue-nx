@@ -14090,7 +14090,7 @@ epimerised
 exhaustless
 excubittoria
 etyma
-entour
+entour 1
 extremuma
 ectozoa
 extrasacerdotal
