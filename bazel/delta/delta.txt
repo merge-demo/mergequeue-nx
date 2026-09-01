@@ -6687,7 +6687,7 @@ dactylis
 dodecasyllabic
 dioptres
 diminutely
-defoliation
+defoliation 1
 desesperance 1
 desexualized
 desexualizing
