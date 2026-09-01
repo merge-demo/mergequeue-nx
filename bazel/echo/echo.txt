@@ -11141,7 +11141,7 @@ externalised
 expiating
 eutropous
 evocation 1
-entanglingly
+entanglingly 1
 enjambments
 eavesdrip
 encomy
