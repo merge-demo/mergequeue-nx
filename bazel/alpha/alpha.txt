@@ -19708,7 +19708,7 @@ aristology
 anamite
 anglesmith
 acrostichal
-aristologist
+aristologist 1
 aristophanic
 aristorepublicanism
 arteriorrhexis
