@@ -3762,7 +3762,7 @@ carpodetus
 carbamine
 circumnutate
 cowquake
-circum
+circum 1
 carbanilid 1
 cantatrices
 convenership
