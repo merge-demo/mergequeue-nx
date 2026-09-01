@@ -5242,7 +5242,7 @@ altropathy
 antihemorrhagic
 allegorists
 almond
-affidavy
+affidavy 1
 acosmic
 advertisements
 affied
