@@ -18194,7 +18194,7 @@ duncical
 delamination 1
 dharani
 dispensary
-duncish
+duncish 1
 dechlog
 duncishness
 dermataneuria
