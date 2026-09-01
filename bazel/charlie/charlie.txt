@@ -8653,7 +8653,7 @@ channelling
 commiseratingly
 channelure
 cestus
-chronoscope
+chronoscope 1
 chansonette
 commissionaire
 chansonnette
