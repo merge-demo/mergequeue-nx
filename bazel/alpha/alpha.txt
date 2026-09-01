@@ -9280,7 +9280,7 @@ aloid
 ashfall
 anamorphous
 acapulco
-ateba
+ateba 1
 analyser
 afflate
 along
