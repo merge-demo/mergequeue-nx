@@ -7451,7 +7451,7 @@ garrulous
 googlies
 grangerized
 genotype
-galenas
+galenas 1
 gladstonianism 2
 germen
 goulash
