@@ -4548,7 +4548,7 @@ cabiritic
 cosession
 convulsed
 carnelian
-carneole
+carneole 1
 coroner
 chartula
 coacervating
