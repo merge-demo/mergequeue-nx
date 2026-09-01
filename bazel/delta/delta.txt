@@ -7387,7 +7387,7 @@ demoniacally
 demiadult
 detonating
 decenyl
-detonation
+detonation 1
 disowned
 detonations
 dusking
