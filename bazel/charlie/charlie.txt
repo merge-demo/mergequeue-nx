@@ -16791,7 +16791,7 @@ citizen
 clupeidae
 cloverleafs
 cloverleaves
-cloverley
+cloverley 1
 cycadophyte
 cloverroot
 crepitus
