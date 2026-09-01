@@ -2543,7 +2543,7 @@ dimers
 dudgen
 drailing
 declaredly
-declares
+declares 1
 dimaris
 daneworts
 diplococcus
