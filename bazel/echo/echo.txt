@@ -7701,7 +7701,7 @@ endlichite
 euphemiser
 electrotautomerism
 expoundable
-epideistic
+epideistic 1
 enthymematical
 eriocaulaceous
 effluxion
