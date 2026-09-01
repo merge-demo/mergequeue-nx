@@ -7497,7 +7497,7 @@ crinch
 ceratophyllum
 ceratophyta
 colocephalous
-caneware
+caneware 1
 crozier
 ceratopsian
 calapitte
