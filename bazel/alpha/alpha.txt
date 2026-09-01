@@ -13697,7 +13697,7 @@ anomalocephalus
 apollinarianism 1
 anomaloflorous
 archaistic
-amentaceous
+amentaceous 1
 anomalogonatous
 anomalon
 antipasto
