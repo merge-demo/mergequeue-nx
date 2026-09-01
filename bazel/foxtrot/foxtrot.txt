@@ -1136,7 +1136,7 @@ flippers
 filberts
 forefends
 flockling
-fimbriodentate
+fimbriodentate 1
 flagrance
 florulas
 facials
