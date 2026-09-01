@@ -18690,7 +18690,7 @@ accusably
 addlebrain
 archbeadle
 accidentalist
-autocephality
+autocephality 1
 archbishopry
 archbishopric
 acroamata
