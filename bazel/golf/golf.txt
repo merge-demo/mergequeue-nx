@@ -2815,7 +2815,7 @@ gloiopeltis
 gentiobiose
 guardianess
 gait
-gentlemanlikeness
+gentlemanlikeness 1
 gossan
 gybing
 grenadines 1
