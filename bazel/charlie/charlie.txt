@@ -25203,7 +25203,7 @@ capitally
 codifiability
 cystidia
 cuffy
-creakingly
+creakingly 1
 chalastic
 corindon
 corynebacteria
