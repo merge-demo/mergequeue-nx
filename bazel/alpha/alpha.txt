@@ -5248,7 +5248,7 @@ advertisements
 affied
 abjured
 applaudingly
-affiliable
+affiliable 1
 airscape
 addio
 alpenhorn
