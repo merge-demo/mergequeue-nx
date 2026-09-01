@@ -27628,7 +27628,7 @@ cowardly
 choloidinic
 culp
 cowardness
-cowbane
+cowbane 1
 collided
 coolheaded
 chamfered
