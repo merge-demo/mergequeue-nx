@@ -15,7 +15,7 @@ concurrency:
 jobs:
   test:
     name: run tests on ${{ github.event_name == 'pull_request' && 'PR' || 'push' }}
-    runs-on: ubicloud-standard-2
+    runs-on: "trunk-kiln=${{ github.run_id }}-${{ github.run_attempt }}..size=small"
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
