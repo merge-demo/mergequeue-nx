@@ -9745,7 +9745,7 @@ cheken
 chekhov
 composal 1
 colourable
-chekist
+chekist 1
 connaraceae
 chekker
 collegers
