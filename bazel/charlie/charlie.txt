@@ -6383,7 +6383,7 @@ collencytal
 caustification
 caustifying
 campfires
-casefies
+casefies 1
 charioted
 chancre
 cautelous
