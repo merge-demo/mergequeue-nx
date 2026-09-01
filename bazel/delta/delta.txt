@@ -8863,7 +8863,7 @@ daughterless
 dibranch
 duftery
 defiguration
-dozinesses
+dozinesses 1
 draglines
 dropperful
 dovens 1
