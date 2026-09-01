@@ -4777,7 +4777,7 @@ bed
 bedribble
 bhalu
 burglarizes
-bibracteate
+bibracteate 1
 billfold
 barbarize
 burking
