@@ -27,7 +27,7 @@ dependance
 dabs
 dabsters
 desalinates
-deediest
+deediest 1
 disgeneric
 dachas
 dachshund
