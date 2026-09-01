@@ -11452,7 +11452,7 @@ chocking
 cockpaddle
 cyrenaicism
 chytridium
-cre
+cre 1
 chylified
 coals
 crotaloid
