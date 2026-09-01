@@ -21588,7 +21588,7 @@ archprotopope
 aprilesque
 anice
 antecedes
-aspiringly
+aspiringly 1
 anabata
 anakoluthia
 aspises
