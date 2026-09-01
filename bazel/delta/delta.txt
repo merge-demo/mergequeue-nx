@@ -950,7 +950,7 @@ deserters
 darby
 diapnoic
 dependantly
-decerp
+decerp 1
 dumpers
 deaned
 domable
