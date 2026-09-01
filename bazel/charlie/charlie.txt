@@ -5541,7 +5541,7 @@ cartbote
 capitulations
 coenosarcous
 coulometer
-catadioptrical
+catadioptrical 1
 catadioptrics
 conserved
 chantment
