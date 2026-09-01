@@ -11818,7 +11818,7 @@ arecolin
 analytique
 analyzability
 arnoseris
-arcuately
+arcuately 1
 anticynicism
 ajari
 analyze
