@@ -13362,7 +13362,7 @@ emporiria
 extraenteric
 epicorolline
 elegizing
-exposes
+exposes 1
 encrustant
 envassalage
 encrownment
