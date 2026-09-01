@@ -5572,7 +5572,7 @@ endoergic
 enfevering
 emitters 1
 edwardeanism
-enzootic
+enzootic 1
 epicardial
 enfilade
 experimentations
