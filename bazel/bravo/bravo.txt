@@ -15231,7 +15231,7 @@ beclose
 blennoid
 backstrip
 bucketing 1
-balneal
+balneal 1
 bestrewn
 benchers
 bridale
