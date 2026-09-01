@@ -11152,7 +11152,7 @@ featurally
 flowerbed
 flintwork
 forefather
-funereally
+funereally 1
 fiddly
 force
 figged
