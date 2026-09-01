@@ -3021,7 +3021,7 @@ faintheartedness
 filmiform 1
 forma
 fiars
-fiascos
+fiascos 1
 ferricyanogen
 ferrotype
 fulgurantly
