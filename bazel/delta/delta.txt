@@ -1409,7 +1409,7 @@ demilitarize
 dispel
 downdale
 dismain
-demonomanie
+demonomanie 1
 dorsiflexor
 digitals
 delis
