@@ -11592,7 +11592,7 @@ ectromelic
 encephalosepsis
 evolutoid
 elegize
-enchiridion
+enchiridion 1
 explicating
 entablatured
 electroretinogram
