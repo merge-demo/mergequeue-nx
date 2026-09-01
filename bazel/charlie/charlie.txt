@@ -28543,7 +28543,7 @@ concealers
 crimogenic
 credibly
 creditable
-coinfinite
+coinfinite 1
 creditably
 caracaras
 crediting
