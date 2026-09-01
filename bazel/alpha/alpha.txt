@@ -651,7 +651,7 @@ abominably
 abominate
 avifaunal
 adulates
-amniotitis
+amniotitis 1
 autotomic
 azumbre
 azoted
