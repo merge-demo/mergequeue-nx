@@ -5271,7 +5271,7 @@ burrier
 beggary 1
 beeriest
 beggaring
-bicrescentic
+bicrescentic 1
 bringsel
 beggarlike
 boshas
