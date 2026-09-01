@@ -9308,7 +9308,7 @@ adjustive
 alouette
 androsphinxes
 alout 1
-acierate
+acierate 1
 alliterations
 aloxite
 alpacas
