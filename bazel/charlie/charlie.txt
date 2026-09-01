@@ -134,7 +134,7 @@ cabinlike
 crafter
 cabio
 chemisorptive
-costotransverse
+costotransverse 1
 cabiria
 cabirian
 circumcised
