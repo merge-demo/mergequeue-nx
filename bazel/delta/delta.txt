@@ -4533,7 +4533,7 @@ dorsilumbar
 distraughted
 devocation
 drabbled
-demigroat
+demigroat 1
 dogmatician
 dotier
 demihagbut
