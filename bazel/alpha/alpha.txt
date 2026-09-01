@@ -12595,7 +12595,7 @@ antidorcas
 anes
 anesone
 ashthroat
-apexes
+apexes 1
 anacatadidymus
 anesthesimeter
 axiomatizations
