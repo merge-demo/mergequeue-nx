@@ -26271,7 +26271,7 @@ costicartilaginous
 costicervical
 caciqueship
 crusader
-costious
+costious 1
 collagenic
 costipulator
 costispinal
