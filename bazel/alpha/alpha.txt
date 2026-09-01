@@ -21636,7 +21636,7 @@ aphonous
 amorist
 assayers
 aphorists
-assaying
+assaying 1
 androgens 1
 adenectopic 1
 assailableness
