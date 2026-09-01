@@ -25207,7 +25207,7 @@ creakingly
 chalastic
 corindon
 corynebacteria
-coreless
+coreless 1
 coryneform
 corineus
 candelabrums
