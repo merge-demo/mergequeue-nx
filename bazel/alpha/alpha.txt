@@ -194,7 +194,7 @@ abbasi
 abbasside
 advertizable
 altostratus
-ashtray
+ashtray 1
 arctogaea
 aerologist
 anilins
