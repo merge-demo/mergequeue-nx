@@ -9503,7 +9503,7 @@ bacteria
 branchiostegite 1
 birthmark
 biographee
-banality
+banality 1
 besots
 birthnight 1
 birthplaces
