@@ -2286,7 +2286,7 @@ filator
 fraudlessly
 feuterer
 fashionless
-fundable
+fundable 1
 foambow
 filicales
 formulable
