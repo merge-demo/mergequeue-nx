@@ -803,7 +803,7 @@ fowl
 fermate
 frizado
 flatulently
-frowsy
+frowsy 1
 flypast
 forgedly
 flusher
