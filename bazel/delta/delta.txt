@@ -9940,7 +9940,7 @@ dodecatoic
 dipneustal
 dogmata
 diminisher
-dezinc
+dezinc 1
 diminishingly
 diminishment
 dulcet
