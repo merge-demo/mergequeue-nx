@@ -4732,7 +4732,7 @@ disrelish
 demiwolf
 deprivals
 demob
-devi
+devi 1
 disremember
 demobilising
 democracy
