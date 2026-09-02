@@ -2975,7 +2975,7 @@ glutinousness
 geyseric
 gastrotheca
 glitterance
-geogeny
+geogeny 1
 gerara
 gullability
 grogger
