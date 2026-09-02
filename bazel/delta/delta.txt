@@ -7775,7 +7775,7 @@ devaluating
 devocalized 1
 dicyandiamide
 diptychon
-dignation
+dignation 1
 devoice
 duvet
 dadburned
