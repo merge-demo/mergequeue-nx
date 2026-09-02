@@ -14066,7 +14066,7 @@ craunching
 cookwares
 crocodile
 coriandrol
-chloritoid
+chloritoid 1
 cleruchial
 circassic
 capivi
