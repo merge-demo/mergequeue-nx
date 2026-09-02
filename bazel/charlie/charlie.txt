@@ -10664,7 +10664,7 @@ caribou
 cytoplasmic
 chimes
 chymes
-caseoses
+caseoses 1
 ctenophorous
 coprolite
 compassless
