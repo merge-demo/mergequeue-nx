@@ -5667,7 +5667,7 @@ gnatlike
 glissando 1
 ginglymodian
 grandsons
-gies
+gies 1
 glorying
 gobbledegook
 gatemen
