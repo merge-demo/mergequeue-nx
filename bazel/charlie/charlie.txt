@@ -24972,7 +24972,7 @@ curatives
 corbula
 celidographer
 corchat
-corchorus
+corchorus 1
 corcyraean 1
 corcle
 canalizations
