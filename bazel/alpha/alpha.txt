@@ -19182,7 +19182,7 @@ amidship
 asexualize
 arctoidean
 arctos
-arctosis
+arctosis 1
 ager
 acetylasalicylic
 allituric
