@@ -4089,7 +4089,7 @@ danize
 delignification
 demurringly
 decimalizing
-delimed
+delimed 1
 disquisitory
 diphysitism
 delimes
