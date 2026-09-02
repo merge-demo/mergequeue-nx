@@ -11921,7 +11921,7 @@ choreographically
 choreographing
 cuds
 calculabilities
-crestfallenness
+crestfallenness 1
 cerites
 cohanim
 cruces
