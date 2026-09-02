@@ -30620,7 +30620,7 @@ chunnia
 cucujid 1
 chromotrope
 cucujus
-callitype
+callitype 1
 cucularis
 cutest
 collimating
