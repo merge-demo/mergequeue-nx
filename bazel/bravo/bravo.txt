@@ -6499,7 +6499,7 @@ bepimpling
 bepraiser
 benzocaine
 bituminizing
-bombyx
+bombyx 1
 bepretty
 bedirt
 beghard
