@@ -16947,7 +16947,7 @@ drearily
 dreariness
 deamidate
 doz
-dunkard
+dunkard 1
 dazedness
 domus
 drearing
