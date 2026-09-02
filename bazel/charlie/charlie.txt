@@ -19337,7 +19337,7 @@ coloppe
 chrimsel
 coloproctitis
 coloptosis
-colopuncture
+colopuncture 1
 coloquintid 1
 craniotabes
 carousing
