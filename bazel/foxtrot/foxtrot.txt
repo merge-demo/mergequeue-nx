@@ -5142,7 +5142,7 @@ fawns
 fructure
 flasker
 furless
-foretooth 1
+foretooth 2
 floccular
 fellifluous
 furbelows
