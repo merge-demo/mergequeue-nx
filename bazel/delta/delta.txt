@@ -18481,7 +18481,7 @@ detractively
 dacryoma
 dupper 1
 dejerator
-denat
+denat 1
 dirca
 draggingly
 dendroica
