@@ -10319,7 +10319,7 @@ caulerpaceous
 camorras
 chickenheartedness
 chickening
-chickenpox
+chickenpox 1
 chickenwort
 chicker
 chickhood
