@@ -9964,7 +9964,7 @@ estrums
 extrospection
 englishize
 estuarial
-epagogic
+epagogic 1
 eloquently
 estuosity
 edibleness
