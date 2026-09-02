@@ -9566,7 +9566,7 @@ guidage
 groveller
 gauteite
 gruels
-girgasite
+girgasite 1
 gesticularious
 gymnostomata
 galactopoiesis
