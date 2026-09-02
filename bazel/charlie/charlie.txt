@@ -6890,7 +6890,7 @@ celtiform
 consortiums
 celtis
 celtish
-celtism
+celtism 1
 celtium
 cotyla
 clockroom
