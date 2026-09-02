@@ -3873,7 +3873,7 @@ emesis
 entrapment
 easiness
 exemplarily
-exosculation
+exosculation 1
 effeminacy
 exallotriote
 emic
