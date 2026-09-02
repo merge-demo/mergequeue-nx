@@ -5451,7 +5451,7 @@ foresummer
 feridjee
 furfuration
 fanatic 1
-fretsome
+fretsome 1
 fleeter
 fermentatively
 flex
