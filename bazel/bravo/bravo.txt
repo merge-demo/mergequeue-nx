@@ -6708,7 +6708,7 @@ bologna
 bermensch
 brith
 bermes
-bourgeoisify
+bourgeoisify 1
 bagaudae
 biked
 blurted
