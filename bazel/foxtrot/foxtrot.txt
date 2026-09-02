@@ -5421,7 +5421,7 @@ fledgiest
 floatless
 foisonless
 fabian
-feasten
+feasten 1
 forefigure
 furor
 flurt
