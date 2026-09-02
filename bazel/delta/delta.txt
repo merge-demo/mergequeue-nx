@@ -18480,7 +18480,7 @@ dyschronous
 detractively
 dacryoma
 dupper 1
-dejerator
+dejerator 1
 denat
 dirca
 draggingly
