@@ -2033,7 +2033,7 @@ exophasia
 elytrigerous
 emersion
 etherish
-ethiopic
+ethiopic 1
 examinational
 elaenia
 elaeocarpaceae
