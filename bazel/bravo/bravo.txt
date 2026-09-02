@@ -14917,7 +14917,7 @@ bitthead
 breaster
 breastfast
 bura
-bearing
+bearing 1
 balantidium
 breastheight
 baldie
