@@ -11830,7 +11830,7 @@ dogma
 defiler 1
 discruciate 1
 dived
-dislimning
+dislimning 1
 damascenine
 devonport
 detoxicate
