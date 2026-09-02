@@ -2775,7 +2775,7 @@ gadhelic 1
 gung
 granulitic
 grabbled
-garbs
+garbs 1
 garnished
 gelotometer
 glottochronological
