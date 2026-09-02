@@ -11695,7 +11695,7 @@ bobbin
 beslaved
 bewimple
 bolivias
-bobbinite
+bobbinite 1
 bobbish
 bais
 belfast
