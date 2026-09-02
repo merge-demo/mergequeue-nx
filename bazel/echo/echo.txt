@@ -2325,7 +2325,7 @@ epicotyl
 errorful
 escalate
 encrypting
-eyras
+eyras 1
 electroacoustic
 electroacoustical
 elfkin
