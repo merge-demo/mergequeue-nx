@@ -9431,7 +9431,7 @@ fulsomeness 1
 fenman
 fausant
 filmslide
-fireboats
+fireboats 1
 flambant
 fraternally
 felonsetting
