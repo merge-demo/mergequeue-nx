@@ -10569,7 +10569,7 @@ founds 1
 fertilizations
 fatidical 1
 falcade
-fructificative
+fructificative 1
 fussock
 formagen
 fattish 1
