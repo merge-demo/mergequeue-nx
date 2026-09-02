@@ -2688,7 +2688,7 @@ demiplacate
 dogies
 duckies
 dcollet
-deconcentrate
+deconcentrate 1
 dhurnas
 dishonourer
 digynous
