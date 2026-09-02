@@ -10586,7 +10586,7 @@ escallops
 eocarboniferous
 elixation
 earthiness
-expectance
+expectance 1
 euchrome
 euclideanism
 euclidian
