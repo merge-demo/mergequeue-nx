@@ -10117,7 +10117,7 @@ endorses
 ethereally
 entwined
 emprosthotonos
-etherealness
+etherealness 1
 escherichia
 equisetum
 enculturated
