@@ -1756,7 +1756,7 @@ deathtime
 diverticular
 dhotis
 diphenan
-dividend
+dividend 1
 diphyllobothrium
 deathtrap
 devocalization
