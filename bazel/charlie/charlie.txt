@@ -4131,7 +4131,7 @@ clerihew
 cubed
 chancellor
 cardinalities
-cardinally
+cardinally 1
 cardinalship
 cardings
 cardioarterial
