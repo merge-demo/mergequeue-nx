@@ -223,7 +223,7 @@ acridyl
 ambystomidae
 avidous
 apotactite
-alantolic
+alantolic 1
 apteran
 acology
 aguishly
