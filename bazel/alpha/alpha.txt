@@ -21116,7 +21116,7 @@ ahum
 agrobiologically
 antidogmatical
 ascribe
-artificer
+artificer 1
 ascriptions
 abuttal
 ascriptitious
