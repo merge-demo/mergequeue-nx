@@ -25945,7 +25945,7 @@ cortina
 cortinarious
 cortinarius
 choko
-chaffiness
+chaffiness 1
 cortisol 1
 cortisols
 cortlandtite
