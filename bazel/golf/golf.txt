@@ -1716,7 +1716,7 @@ gane
 grassquit
 gastrojejunostomy 1
 glaciation
-gloated
+gloated 1
 glaucin
 gussie
 goblinish
