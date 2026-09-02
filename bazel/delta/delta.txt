@@ -2723,7 +2723,7 @@ deconvolve
 desmon
 decor
 diplopic
-dappledness
+dappledness 1
 decurves
 decorable
 deist
