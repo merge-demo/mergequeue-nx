@@ -23309,7 +23309,7 @@ consumedly
 consumeless
 corkiness
 consumer
-consumerist
+consumerist 1
 consumes 1
 catamnestic
 cardioblast
