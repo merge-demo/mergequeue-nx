@@ -8869,7 +8869,7 @@ characteristicalness
 cucaracha
 characteristicness
 cognizableness
-characterization
+characterization 1
 characterizing
 characterless
 characterlessness
