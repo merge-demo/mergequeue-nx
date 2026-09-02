@@ -7369,7 +7369,7 @@ epaulement
 enstranged
 epauleted
 eyries
-epee 1
+epee 2
 epeeist
 embue
 exstipulate
