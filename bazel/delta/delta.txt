@@ -5651,7 +5651,7 @@ darst
 displuming
 disseveration
 datedly
-devastates
+devastates 1
 depictions
 dermomycosis
 depictment
