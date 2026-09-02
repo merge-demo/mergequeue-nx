@@ -11953,7 +11953,7 @@ anaphylactin
 anaphylactogenic
 anaphylatoxin
 apectomy
-anaphyte
+anaphyte 1
 alkoxide
 acron
 abodement
