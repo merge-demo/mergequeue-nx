@@ -23265,7 +23265,7 @@ consuetudinal
 consul
 consulage
 coloclysis
-chirurgical
+chirurgical 1
 concertizes
 cynaraceous
 consulate
