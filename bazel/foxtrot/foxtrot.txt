@@ -9255,7 +9255,7 @@ fertilities
 futilely 1
 fraises
 fretwise
-fascinery
+fascinery 1
 faradomuscular
 frontispieced
 fraktur
