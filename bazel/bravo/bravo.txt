@@ -7486,7 +7486,7 @@ bleariest
 birefraction
 befoolment
 betwine
-betwixt
+betwixt 1
 biserrate
 beneaped
 brachypodine
