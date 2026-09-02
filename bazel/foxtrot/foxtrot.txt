@@ -1089,7 +1089,7 @@ fellatrixes
 fudgy
 fishling
 fastback
-farrisite
+farrisite 1
 fleerish
 firehalls
 figulate
