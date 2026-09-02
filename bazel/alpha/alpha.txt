@@ -5447,7 +5447,7 @@ anterospinal
 africanize
 africanoid
 affrettando
-astartian
+astartian 1
 aeroview
 asseverative
 antifelon
