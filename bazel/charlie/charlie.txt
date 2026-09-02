@@ -479,7 +479,7 @@ cormus
 cadaverous 1
 cadaverously
 cadavers
-centonical
+centonical 1
 cadbait
 conjunctiveness
 crummock
