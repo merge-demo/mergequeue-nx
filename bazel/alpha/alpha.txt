@@ -402,7 +402,7 @@ advisability
 abie
 apocatharsis
 abye
-abient
+abient 1
 abusedly
 anglophily
 alipeds
