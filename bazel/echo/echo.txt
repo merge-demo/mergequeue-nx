@@ -5391,7 +5391,7 @@ extradotal
 endothecial
 equator
 elaterids
-egers
+egers 1
 emeroid
 elateridae
 encorbellment
