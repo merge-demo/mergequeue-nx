@@ -860,7 +860,7 @@ damenization
 danke
 drycoal
 dawted
-defix
+defix 1
 dubiosity
 devoicing
 decalcification
