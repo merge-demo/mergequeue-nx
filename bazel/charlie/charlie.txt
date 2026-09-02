@@ -16629,7 +16629,7 @@ closecross
 closed
 closefistedly
 closefistedness
-concussant
+concussant 1
 clubbiest
 colleagueship
 cyanosis
