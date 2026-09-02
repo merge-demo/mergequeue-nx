@@ -12064,7 +12064,7 @@ carpophalangeal
 chose
 chophouses
 coursed
-choses
+choses 1
 chott
 chunky
 chotts
