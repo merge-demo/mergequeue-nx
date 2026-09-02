@@ -8261,7 +8261,7 @@ demegoric
 diiodid
 dubitancy
 deathcup 1
-diploetic
+diploetic 1
 diagnostician
 diagnosticians
 dispopularize
