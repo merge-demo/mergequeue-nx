@@ -7091,7 +7091,7 @@ connotational
 centesm
 centetid
 centiar
-centiares
+centiares 1
 copita
 curvidentate
 coquetoon
