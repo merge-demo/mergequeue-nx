@@ -4619,7 +4619,7 @@ gymnanthes
 gluttonism 1
 gnathobase
 grecianize
-giro
+giro 1
 glossae 1
 gastronomist
 gillhooter
