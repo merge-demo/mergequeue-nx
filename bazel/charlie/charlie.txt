@@ -26985,7 +26985,7 @@ counteropposite
 chiococcine
 copen
 counterorder
-counterpace
+counterpace 1
 cranium
 concordist
 counterpane
