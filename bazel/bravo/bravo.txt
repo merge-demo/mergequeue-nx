@@ -12203,7 +12203,7 @@ bolls
 bunkum
 bollworm
 blizzardly 1
-bolo
+bolo 1
 bicron
 bogberries
 baloo
