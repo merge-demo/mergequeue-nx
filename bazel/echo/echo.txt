@@ -5681,7 +5681,7 @@ extinct
 essayist
 extraterrestrially
 eucalypts
-enfree
+enfree 1
 exordiums
 exposable
 eligibly
