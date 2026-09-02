@@ -9023,7 +9023,7 @@ ghent
 gneissose
 geog
 gobletful
-gnathophorous
+gnathophorous 1
 gravenstein
 galvanothermy
 gaminess
