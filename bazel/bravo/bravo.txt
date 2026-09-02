@@ -3075,7 +3075,7 @@ badminton
 barware
 boneblack
 barksome
-basale
+basale 1
 berascaling 1
 bathetic
 basalts
