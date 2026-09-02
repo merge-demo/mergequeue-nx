@@ -18243,7 +18243,7 @@ capelets
 chemicovital
 coffeehouse
 coffeehouses
-coffeeman
+coffeeman 1
 classico 1
 coffeepots
 colloidize

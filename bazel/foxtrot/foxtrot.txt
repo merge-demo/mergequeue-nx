@@ -2370,7 +2370,7 @@ favoritism 1
 ferforth
 frapped
 falconiformes
-frogling
+frogling 1
 feudist
 fibrocrystalline
 francic
