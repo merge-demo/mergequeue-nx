@@ -4886,7 +4886,7 @@ gladiatrix
 goyim
 girderage
 gladier 1
-guaranteeing
+guaranteeing 1
 gleam
 glozes
 gyrotheca
