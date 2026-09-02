@@ -29050,7 +29050,7 @@ cenatory
 criminologies
 criminologist
 carminic
-colletarium
+colletarium 1
 criminous
 conscribed
 criminously
