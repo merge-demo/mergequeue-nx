@@ -5106,7 +5106,7 @@ ductings 1
 dravya
 dipsomania
 dafla 1
-dendrocoelan
+dendrocoelan 1
 dendrocoele
 dendrocolaptidae
 dendrocolaptine
