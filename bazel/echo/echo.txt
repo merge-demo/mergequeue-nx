@@ -990,7 +990,7 @@ excrementary
 edaphology
 etymological
 edaphon
-ecchymotic
+ecchymotic 1
 expositors
 endorsing
 excel
