@@ -1500,7 +1500,7 @@ dc
 donmeh
 dcb
 depressure
-deaccessioning
+deaccessioning 1
 drawbolt
 dingbats
 draughts
