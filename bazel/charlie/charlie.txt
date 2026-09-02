@@ -15866,7 +15866,7 @@ comstockery
 calisthenical
 cobcab
 compends
-cleeking
+cleeking 1
 clef
 cassinese
 chesterfields
