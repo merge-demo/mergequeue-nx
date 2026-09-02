@@ -26796,7 +26796,7 @@ cooer
 counterdistinguish
 conant
 counterdoctrine
-chromogenic
+chromogenic 1
 clamping
 counterdogmatism
 counterdrive
