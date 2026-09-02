@@ -2138,7 +2138,7 @@ diabolify
 decangular
 daedalus
 decently
-decanonize 1
+decanonize 2
 dynamitish
 decanting
 digitized
