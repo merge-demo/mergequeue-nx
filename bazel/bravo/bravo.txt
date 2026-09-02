@@ -6244,7 +6244,7 @@ bennies
 benomyl
 backspread
 benightedness
-benorth
+benorth 1
 benefact 1
 beme
 bensall
