@@ -4070,7 +4070,7 @@ begottenness
 bedeafen
 beancod
 beaner
-beanery 1
+beanery 2
 bolewort
 beanfield
 bardling
