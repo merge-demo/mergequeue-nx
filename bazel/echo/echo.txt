@@ -3200,7 +3200,7 @@ extraserous
 entomophagous
 episcopation
 enamoring 1
-esperantist
+esperantist 1
 enamelwork
 emmeleia
 elopes
