@@ -12590,7 +12590,7 @@ enterocolitis
 eaglestone
 escheat 1
 earthpeas
-embrawn
+embrawn 1
 epsomite
 etymologist
 euphon
