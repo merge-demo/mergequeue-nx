@@ -4721,7 +4721,7 @@ antedawn
 allographic 1
 acrotisms
 alphard
-aeluropodous
+aeluropodous 1
 aenach
 aphrodistic
 addaxes
