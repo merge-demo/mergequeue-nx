@@ -10731,7 +10731,7 @@ arthropomatous
 adsorptively
 absinth
 alumetize
-animosities
+animosities 1
 anabolitic
 antaphrodisiac
 agrammaphasia
