@@ -10980,7 +10980,7 @@ eurafric
 epigastric
 eurasianism
 eremites
-endocervicitis
+endocervicitis 1
 excludes
 electrizing
 eurhythmic
