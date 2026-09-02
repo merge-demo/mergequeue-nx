@@ -2705,7 +2705,7 @@ deconsecrate
 duels
 dareful
 deconsecrated
-detailedness
+detailedness 1
 demitrain
 deconsideration
 decontaminating
