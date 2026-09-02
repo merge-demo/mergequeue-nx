@@ -5340,7 +5340,7 @@ barbola
 begnaw
 biharmonic 1
 borderlines
-balmy
+balmy 1
 ballroom
 begone
 baryte
