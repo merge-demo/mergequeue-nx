@@ -5593,7 +5593,7 @@ geophysical 1
 gefilte
 gownlet
 glottogonist
-gervais
+gervais 1
 gurges
 garuda
 ginks
