@@ -1514,7 +1514,7 @@ estantion
 empyesis
 efts
 egad
-elderlies
+elderlies 1
 encyclopediac
 entomophilous
 egalitarians
