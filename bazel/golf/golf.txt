@@ -1969,7 +1969,7 @@ gaunch
 gangers
 gruelly
 gaunty
-gypsite
+gypsite 1
 genealogically
 greywacke
 glairs

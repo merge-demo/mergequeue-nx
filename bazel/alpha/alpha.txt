@@ -12111,7 +12111,7 @@ anathematical
 anathematisation
 anathematise
 amour
-anathematised
+anathematised 1
 administer
 alchemize
 antambulacral
