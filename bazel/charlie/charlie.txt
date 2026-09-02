@@ -25710,7 +25710,7 @@ crepitate
 circumrotating
 corresponded
 correspondence
-correspondences
+correspondences 1
 correspondency
 correspondent
 composedness
