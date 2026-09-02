@@ -24470,7 +24470,7 @@ cootie
 copps
 coelogyne
 candles
-chlorosis
+chlorosis 1
 copa
 copable
 carrs
