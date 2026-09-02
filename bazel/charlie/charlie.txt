@@ -8118,7 +8118,7 @@ carnifying
 circumterrestrial
 conjugant
 chaffwax
-chafing
+chafing 1
 chafted
 cudgeller
 chagan
