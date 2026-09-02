@@ -9305,7 +9305,7 @@ alophas
 alorcinic
 alosa
 adjustive
-alouette
+alouette 1
 androsphinxes
 alout 1
 acierate
