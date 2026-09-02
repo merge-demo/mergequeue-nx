@@ -15572,7 +15572,7 @@ donzel
 discovering
 doubt
 divelled
-diathermize
+diathermize 1
 donzels
 doob
 diazobenzene
