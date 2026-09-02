@@ -2915,7 +2915,7 @@ armamentary
 advisive
 aerobatics
 albugineous
-acrostical
+acrostical 1
 acrostichoid
 acrostichum
 adoptianism
