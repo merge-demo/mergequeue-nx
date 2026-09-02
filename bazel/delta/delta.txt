@@ -6093,7 +6093,7 @@ dysmenorrhoea
 dream
 dactyliographic
 dequeues
-der
+der 1
 deboites
 dendrometer
 deracinating
