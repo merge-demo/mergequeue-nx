@@ -412,7 +412,7 @@ excelsitude
 evangelist
 ebriose
 elumbated
-entrenching
+entrenching 1
 extruct
 erythrinus
 espanol
