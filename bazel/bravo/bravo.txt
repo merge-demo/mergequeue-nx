@@ -4598,7 +4598,7 @@ bedazzles 1
 bedazzlingly
 bibliopolery
 beckon
-baptise
+baptise 1
 bedbugs
 boden
 bedtick
