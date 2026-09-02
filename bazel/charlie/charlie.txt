@@ -7375,7 +7375,7 @@ cephalom
 coquettishness
 cephalomant
 cephalomeningitis
-compute
+compute 1
 cleansing
 cephalomere
 cyclostylar
