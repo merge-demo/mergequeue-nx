@@ -18483,7 +18483,7 @@ affying
 arboloco
 actinocrinus
 accrediting
-affectionless
+affectionless 1
 arietinous
 arbor
 achillea
