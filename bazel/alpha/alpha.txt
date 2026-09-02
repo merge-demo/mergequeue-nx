@@ -18846,7 +18846,7 @@ aoristically
 archhypocrisy
 archhypocrite
 archdeaconess
-alamire
+alamire 1
 alloplasty
 amis
 antiaphthic
