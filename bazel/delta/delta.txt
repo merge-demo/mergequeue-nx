@@ -2581,7 +2581,7 @@ disentwined
 declines
 declining
 directrices 1
-declivent
+declivent 1
 derive
 dreamlike
 declivity
