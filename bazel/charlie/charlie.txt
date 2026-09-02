@@ -13100,7 +13100,7 @@ cyborg
 ceros
 cibory
 ciboules
-cyc
+cyc 1
 cicad
 cycadaceae
 canopied
