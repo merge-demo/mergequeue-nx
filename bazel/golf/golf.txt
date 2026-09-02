@@ -5911,7 +5911,7 @@ gassiness
 guereba
 gymnospermous
 goitrous
-gasogene
+gasogene 1
 goliardeys
 groveless
 goldarn
