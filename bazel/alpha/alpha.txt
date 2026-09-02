@@ -5083,7 +5083,7 @@ alloys
 agrostographical
 aerotropism
 allantois
-aeruginous
+aeruginous 1
 aerugo
 aes
 autosepticemia
