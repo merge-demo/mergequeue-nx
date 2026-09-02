@@ -890,7 +890,7 @@ dandling
 deliberative
 dansy
 dansker
-danta
+danta 1
 droppy
 determent
 dreepiness 1
