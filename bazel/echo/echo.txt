@@ -1356,7 +1356,7 @@ empty
 efferently
 efferents
 effervescency
-eights
+eights 1
 epode
 endoskeletal
 essentialness
