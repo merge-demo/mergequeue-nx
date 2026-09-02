@@ -3539,7 +3539,7 @@ captandum
 captate
 colation
 captation
-caption
+caption 1
 captioned
 convenably
 captioning
