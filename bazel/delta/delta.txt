@@ -14916,7 +14916,7 @@ demibastion
 dehumidifiers 1
 destructive
 dodecarch
-dodecasemic
+dodecasemic 1
 decadi
 dodecasyllable
 discretionarily
