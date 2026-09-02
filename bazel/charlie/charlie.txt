@@ -22031,7 +22031,7 @@ comparts
 confix
 confixing
 carf
-conflagration
+conflagration 1
 conflagrations
 climatologists
 conflagrative
