@@ -13876,7 +13876,7 @@ endolymphangial
 extradited
 extradomestic
 ecchymoma
-extradosed
+extradosed 1
 entireties
 environments
 ectobronchium
