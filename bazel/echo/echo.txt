@@ -6667,7 +6667,7 @@ enuring
 exhedrae
 enterology
 epactal
-enterologic
+enterologic 1
 epanastrophe
 exhaled
 enteromegalia
