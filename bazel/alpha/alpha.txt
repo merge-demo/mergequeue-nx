@@ -13229,7 +13229,7 @@ academizing
 anientise
 achtelthaler
 animosity
-aftosas
+aftosas 1
 ancestors
 aegithognathous
 animus
