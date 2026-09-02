@@ -10031,7 +10031,7 @@ caverned
 cherub
 cyanites
 chanoyu
-cherubfish
+cherubfish 1
 cherubfishes
 chauffeuring 1
 cherubic
