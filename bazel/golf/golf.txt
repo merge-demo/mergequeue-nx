@@ -8172,7 +8172,7 @@ gambroon
 glazier
 gemmiparous
 grapeless
-gumlah
+gumlah 1
 guillem
 geloscopy
 geotaxy

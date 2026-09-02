@@ -5115,7 +5115,7 @@ eremitic
 endochorion
 endochorionic
 engrains
-elatha
+elatha 1
 endocyst
 epodic
 enucleate
