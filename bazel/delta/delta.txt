@@ -10519,7 +10519,7 @@ divinize
 dihydrocupreine
 dipyrenous
 dipyridyl
-dichter
+dichter 1
 duper 1
 daughter
 denominationalize
