@@ -958,7 +958,7 @@ farceuses 1
 flenched
 facetiousness
 fluorids
-frape
+frape 1
 fastigiums
 forkers
 formalizer

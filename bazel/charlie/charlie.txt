@@ -7291,7 +7291,7 @@ cataractous
 chimera
 chilotomies
 chimar
-captious
+captious 1
 centurist
 coroners
 cherishes
