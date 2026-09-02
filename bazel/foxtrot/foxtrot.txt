@@ -7642,7 +7642,7 @@ flimsilyst
 flips 1
 flustroid
 forefinger
-figary
+figary 1
 fixed
 fritillaries
 floruits
