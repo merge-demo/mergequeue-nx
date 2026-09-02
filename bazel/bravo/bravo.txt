@@ -6276,7 +6276,7 @@ btise
 blurping
 benthic 1
 barbar
-bagfuls
+bagfuls 1
 bevors
 benthoscope
 bemoat
