@@ -11515,7 +11515,7 @@ betaxed
 bichrome
 bullae
 bemurmurs
-blunged
+blunged 1
 bourrasque
 blunger
 blunk
