@@ -11124,7 +11124,7 @@ descriptors
 deaminated
 discographic
 disassent
-darin
+darin 1
 disassimilative
 disinherits
 disassociate
