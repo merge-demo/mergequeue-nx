@@ -3784,7 +3784,7 @@ gouvernantes
 giarra 1
 gherao
 giarre
-gastaldo
+gastaldo 1
 governing
 geobios
 gallantry
