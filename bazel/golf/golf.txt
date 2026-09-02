@@ -8042,7 +8042,7 @@ guildry
 gnabble
 globulous
 gongorism
-gossipers
+gossipers 1
 gan
 galempung
 galleries 2
