@@ -11386,7 +11386,7 @@ depicter 2
 dispress
 drawl
 disciplinable
-dishfuls
+dishfuls 1
 deferentectomy
 dippers
 dolina
