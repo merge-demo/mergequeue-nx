@@ -10196,7 +10196,7 @@ emancipation
 escrowed
 emmarbled
 electrotelegraphic
-escargotieres
+escargotieres 1
 esperantic
 esophagomycosis
 envenomation
