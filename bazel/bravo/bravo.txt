@@ -17852,7 +17852,7 @@ burundians
 burushaski
 ballistocardiogram
 bus 1
-busaos
+busaos 1
 bloodleaf
 bine
 busbar
