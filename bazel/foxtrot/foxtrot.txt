@@ -7728,7 +7728,7 @@ foreknew
 fiord
 farcically
 florian
-freeish
+freeish 1
 falconlike
 fretty
 furs
