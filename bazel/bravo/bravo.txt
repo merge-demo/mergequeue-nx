@@ -17578,7 +17578,7 @@ balante 1
 blayne
 blore
 belong
-bugle
+bugle 1
 burgau
 braconidae
 benzidins 1
