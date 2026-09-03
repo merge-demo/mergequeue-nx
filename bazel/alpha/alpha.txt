@@ -9812,7 +9812,7 @@ agglomerator
 amanitopsis
 antireforming
 aspergillums
-arteriectomy
+arteriectomy 1
 aeroplane
 aposthia
 amanous
