@@ -10682,7 +10682,7 @@ dogman
 digoxin
 derationalize
 dreadlessness
-denunciating
+denunciating 1
 demorage
 disendower
 disapprover
