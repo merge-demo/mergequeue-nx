@@ -12041,7 +12041,7 @@ anasa
 aralkylated 1
 arteriosclerosis
 asclent
-awakenable 1
+awakenable 2
 anaschistic 1
 anaseismic
 anasitch
