@@ -12554,7 +12554,7 @@ chronica
 chronically
 chronicle
 chronicled
-clattertrap
+clattertrap 1
 chronicling
 chronicon
 chronics
