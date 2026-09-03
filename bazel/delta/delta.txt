@@ -1875,7 +1875,7 @@ deboite
 defet
 docimasies
 douc
-decoy
+decoy 1
 daleswoman
 debonair
 dextrorotary
