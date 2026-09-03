@@ -3263,7 +3263,7 @@ ftnerr
 frizziest
 freehearted
 fluorinate 1
-fittit
+fittit 1
 fuzed
 foreknowledge
 freestanding
