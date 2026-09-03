@@ -15082,7 +15082,7 @@ autopositive
 aetosaurian
 archmagirist
 assidually
-antidogmatist
+antidogmatist 1
 alogian
 appast
 annihilationism
