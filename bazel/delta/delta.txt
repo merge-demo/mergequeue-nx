@@ -15251,7 +15251,7 @@ deuteranopic 1
 dissociate
 dingmaul 1
 disbursal
-demipriest
+demipriest 1
 depressanth
 dogsleep
 derotremate
