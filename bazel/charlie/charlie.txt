@@ -19411,7 +19411,7 @@ colorin
 coloring
 colorings
 conges
-colorisms
+colorisms 1
 cystous
 coloristically
 cytophysiology
