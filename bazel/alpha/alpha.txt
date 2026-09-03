@@ -5027,7 +5027,7 @@ adinvention
 aerophobic 1
 aerophor
 antithermic
-arrode
+arrode 1
 aerophotos
 antiwhitism
 antipatheticalness
