@@ -12968,7 +12968,7 @@ excommunicated
 expected
 eucharises
 embathe
-expectedness
+expectedness 1
 explode
 etherous
 evanition
