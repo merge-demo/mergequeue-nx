@@ -387,7 +387,7 @@ forbid 1
 fairfieldite
 facets
 faceoff
-fancifully
+fancifully 1
 fairground
 fairy
 foresettle
