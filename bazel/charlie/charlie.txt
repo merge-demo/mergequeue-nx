@@ -3563,7 +3563,7 @@ captor
 capturable
 catechized
 capture
-captured
+captured 1
 captures
 capturing
 curricular
