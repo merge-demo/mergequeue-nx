@@ -3063,7 +3063,7 @@ cumaldehyde
 coperiodic
 capriola
 cyclopterous
-canvasing
+canvasing 1
 causata
 canvasser
 canzona
