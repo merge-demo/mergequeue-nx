@@ -2894,7 +2894,7 @@ canonic
 curatively
 cacaos
 cantabile
-clothesmonger
+clothesmonger 1
 chalcis
 cantabrian
 cantabrigian
