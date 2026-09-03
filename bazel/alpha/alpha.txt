@@ -23032,7 +23032,7 @@ alikuluf
 accultural
 axiologically
 att
-attacca
+attacca 1
 adjuring
 absences
 amphibolite
