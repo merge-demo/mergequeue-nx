@@ -5827,7 +5827,7 @@ agatoid
 alarbus
 agaze 1
 agallop
-agedness
+agedness 1
 agee
 aerugos
 ageing
