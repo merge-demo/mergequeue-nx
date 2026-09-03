@@ -8208,7 +8208,7 @@ bifluoride 1
 bifocal
 balanocele
 berith
-bb
+bb 1
 bobstay
 balagan
 bullfist
