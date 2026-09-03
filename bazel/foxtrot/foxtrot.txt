@@ -10528,7 +10528,7 @@ forstand
 frowsily 1
 footslogging
 famishment
-frictionless
+frictionless 1
 francisca
 faiths
 feelies

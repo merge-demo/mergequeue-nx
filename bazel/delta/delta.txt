@@ -11158,7 +11158,7 @@ decciare
 danite
 dismask
 dogmatist
-defectibility
+defectibility 1
 devvel
 dyeline
 djins
