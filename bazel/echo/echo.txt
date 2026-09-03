@@ -11662,7 +11662,7 @@ exactitude
 electrohydraulic
 eleusinian
 endopolyploid 1
-exactness
+exactness 1
 edeology
 exactors
 enterophthisis
