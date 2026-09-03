@@ -19265,7 +19265,7 @@ annam
 auditives 1
 anthocyan
 accoyed
-antepasts
+antepasts 1
 aquarii
 arenariae
 addressed
