@@ -1006,7 +1006,7 @@ award
 artifice
 arthrochondritis
 antidromous
-abtruse
+abtruse 1
 aquitanian
 affluxes
 abstractitious
