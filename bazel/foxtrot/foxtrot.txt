@@ -577,7 +577,7 @@ fdubs
 frequentative
 frappe
 feeblish
-funerate
+funerate 1
 fenugreek
 flagstaff
 frighteningly
