@@ -9752,7 +9752,7 @@ antipyresis
 amoving
 amah
 amahuaca
-assoil
+assoil 1
 antigen
 amanori
 aeroscope
