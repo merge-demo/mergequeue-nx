@@ -3472,7 +3472,7 @@ addita
 abiliment
 allotheism
 avidins 1
-antinovelist
+antinovelist 1
 amarillos
 additionary
 associationalism
