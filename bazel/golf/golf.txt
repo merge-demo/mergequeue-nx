@@ -2638,7 +2638,7 @@ graal 1
 glims
 gymnosophist
 genethlic
-glossopetra
+glossopetra 1
 goatee
 glossosteresis
 geniality
