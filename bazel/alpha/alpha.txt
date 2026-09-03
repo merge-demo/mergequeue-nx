@@ -15877,7 +15877,7 @@ antipooling
 aflush
 abreption
 areito
-awaits
+awaits 1
 antipopes
 asplenium
 attributed
