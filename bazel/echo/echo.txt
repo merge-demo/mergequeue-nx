@@ -5433,7 +5433,7 @@ ebonige
 enfester
 ed
 equid 1
-emigrants
+emigrants 1
 eightsman
 example
 elsewhither
