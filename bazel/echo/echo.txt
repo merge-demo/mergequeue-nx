@@ -12591,7 +12591,7 @@ eaglestone
 escheat 1
 earthpeas
 embrawn
-epsomite
+epsomite 1
 etymologist
 euphon
 ethion
