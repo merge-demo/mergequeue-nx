@@ -10684,7 +10684,7 @@ analogical
 agamae
 aminoacetophenetidine
 aminoanthraquinone
-apodictically
+apodictically 1
 aminoazo
 accouchement
 abusers
