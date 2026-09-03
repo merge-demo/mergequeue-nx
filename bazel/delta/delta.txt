@@ -7337,7 +7337,7 @@ diameters
 didine
 determinism
 dunnest
-deterministic
+deterministic 1
 dollbeer
 dreariment
 daysman
