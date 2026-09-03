@@ -3602,7 +3602,7 @@ adelphic
 adelphous
 adipsous
 azole
-assedat
+assedat 1
 arabicize
 agora
 adendritic
