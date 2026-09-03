@@ -9953,7 +9953,7 @@ digitule
 discursus
 denticulation
 daintily
-drossiness
+drossiness 1
 dawnlight
 distances
 devonian
