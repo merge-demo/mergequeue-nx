@@ -8388,7 +8388,7 @@ grillading
 grandisonant
 gadolinite
 gunport
-gallivanting
+gallivanting 1
 genipa 1
 galeeny
 gyroscopically
