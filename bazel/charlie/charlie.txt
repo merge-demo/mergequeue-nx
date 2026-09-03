@@ -4260,7 +4260,7 @@ capsulotome
 caress
 cir
 caressed
-captainries
+captainries 1
 caresser
 clobberer
 colleens
