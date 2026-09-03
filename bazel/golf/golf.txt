@@ -1538,7 +1538,7 @@ gracilariid 1
 gery
 grype
 gulfiest
-grandiloquence
+grandiloquence 1
 gasometrical
 gearless
 gurt
