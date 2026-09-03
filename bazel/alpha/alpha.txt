@@ -3889,7 +3889,7 @@ ayes
 atrabiliousness
 adjectional
 antireductive
-anastatica
+anastatica 1
 autoactivation
 adjectives
 acetine
