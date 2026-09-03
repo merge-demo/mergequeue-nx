@@ -3989,7 +3989,7 @@ finalizes
 fibrinemia
 fiscal
 fulmine
-figurehead
+figurehead 1
 flanque
 feminisation
 fictionally
