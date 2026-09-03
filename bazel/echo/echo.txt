@@ -6086,7 +6086,7 @@ eluant
 enfever 1
 edinburgh
 escheated
-enlaurel
+enlaurel 1
 emancipatist
 exorableness 1
 enliveningly
