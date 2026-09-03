@@ -9629,7 +9629,7 @@ barterers
 blatti
 bryozoum
 baizes
-batiste
+batiste 1
 bisyllabic
 benefactions
 burao
