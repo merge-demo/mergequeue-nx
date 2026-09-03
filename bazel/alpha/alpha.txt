@@ -13763,7 +13763,7 @@ anaptyctic
 anophthalmos
 acoumeter
 allobroges
-approved
+approved 1
 amusable
 abortuses
 ambisyllabic
