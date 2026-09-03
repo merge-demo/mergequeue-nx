@@ -4786,7 +4786,7 @@ aeric 1
 alligate
 aerifaction
 adenoses
-ahimsa
+ahimsa 1
 atrichia
 apalachee
 autarky 1
