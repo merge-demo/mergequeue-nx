@@ -5712,7 +5712,7 @@ gybed
 glossinas
 gertrude
 glowbard
-gurneyite
+gurneyite 1
 gerres
 gloveress
 gimmaled
