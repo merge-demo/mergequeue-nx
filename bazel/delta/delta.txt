@@ -521,7 +521,7 @@ dup 1
 denuclearizes
 dextromanual
 diminishingturns
-discustom 1
+discustom 2
 dromotropic
 douse
 dalmania
