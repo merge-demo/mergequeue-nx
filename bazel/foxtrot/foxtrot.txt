@@ -2551,7 +2551,7 @@ fishpot
 fretter
 forewarningly
 forequarter
-finlandization
+finlandization 1
 fluvicoline
 fleerer
 flimp
