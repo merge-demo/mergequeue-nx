@@ -581,7 +581,7 @@ halv
 halvigcwc
 halxhon
 halxs
-haly
+haly 1
 halzknctpma
 hamabongdys
 hamacphpqvm
