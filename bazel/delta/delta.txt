@@ -12294,7 +12294,7 @@ diplegias
 durbar
 dovecotes
 druttle
-diaphanie
+diaphanie 1
 duboisia
 diamminobromide
 disgradation 1
