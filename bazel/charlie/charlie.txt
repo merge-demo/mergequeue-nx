@@ -9227,7 +9227,7 @@ chatchka
 croziers 1
 coterminal
 chatchke
-chatchkes
+chatchkes 1
 chondrogenous
 chateaugray
 chateaus
