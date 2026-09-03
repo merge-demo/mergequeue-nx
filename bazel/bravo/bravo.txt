@@ -5090,7 +5090,7 @@ befittingly
 blacklead
 bitubercular
 baselines
-bowellike
+bowellike 1
 bejuco
 blazoning
 befittingness
