@@ -1828,7 +1828,7 @@ camailed
 calzada
 camaka
 camaldolese
-camaldolesian
+camaldolesian 1
 camaldule
 complecting
 camaldulian
