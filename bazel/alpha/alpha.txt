@@ -16994,7 +16994,7 @@ artificialness
 aplacophorous
 ayahausca
 apoatropine
-apobiotic
+apobiotic 1
 apoblast 1
 aview
 adhamant
