@@ -20306,7 +20306,7 @@ communions
 chanst
 citrullin
 communiques
-coupling
+coupling 1
 communis
 carpeted
 communise
