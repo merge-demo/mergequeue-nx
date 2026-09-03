@@ -6051,7 +6051,7 @@ faeroese
 filippo
 farandine
 forethoughted
-flewed
+flewed 1
 familiarize
 fateful
 floriation
