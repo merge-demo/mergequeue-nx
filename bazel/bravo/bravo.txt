@@ -1947,7 +1947,7 @@ bimas
 bethabara
 bywalk
 bullragging
-bitwise
+bitwise 1
 bentiness
 bolshy
 belk
