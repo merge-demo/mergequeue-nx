@@ -11966,7 +11966,7 @@ beckelite
 bolts
 bogmire
 borine
-baggit
+baggit 1
 bedwarf
 bogomilian
 bipack
