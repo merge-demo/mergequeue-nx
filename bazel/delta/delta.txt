@@ -3250,7 +3250,7 @@ dolichostylous
 dogrib
 dapicho
 defensibleness
-downsizes
+downsizes 1
 drays
 defensibly
 defensively
