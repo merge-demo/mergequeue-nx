@@ -4348,7 +4348,7 @@ atelectasis
 adsmithing
 adelocerous
 aikuchi
-autotriploid
+autotriploid 1
 adsorbability
 archpuritan
 allocryptic
