@@ -9347,7 +9347,7 @@ fatuitousness
 frankalmoign
 filibustrous
 fellowly
-futurize
+futurize 1
 frankenstein
 franker
 fastidiousness
