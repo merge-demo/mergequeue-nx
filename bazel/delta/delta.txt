@@ -4633,7 +4633,7 @@ deflea 1
 demonastery
 donn
 depose
-dinic
+dinic 1
 demisang
 dulcite
 demisangue
