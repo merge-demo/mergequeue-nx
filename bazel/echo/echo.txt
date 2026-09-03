@@ -1246,7 +1246,7 @@ eudendrium
 epicures 1
 enjoyable
 enroot
-efficiently
+efficiently 1
 earthshock
 ethylidyne
 epigrammatise
