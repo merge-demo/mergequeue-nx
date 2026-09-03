@@ -3905,7 +3905,7 @@ carbonous
 carbons
 carbonuria
 calcined
-clarity
+clarity 1
 contradistinguish
 celibacies
 cowheel
