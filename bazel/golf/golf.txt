@@ -3245,7 +3245,7 @@ gynecologists
 gerasene
 gesturer
 gutti
-gigantism
+gigantism 1
 geratologous
 guidership
 gametophytic
