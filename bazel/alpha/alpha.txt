@@ -12260,7 +12260,7 @@ amblypoda
 arteriosympathectomy
 archcupbearer
 ancientest
-anciently
+anciently 1
 ancile
 alshain 1
 ancilla
