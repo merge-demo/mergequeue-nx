@@ -3794,7 +3794,7 @@ emceeing
 escalader 1
 enquirer
 emcumbering
-eyewater
+eyewater 1
 electroneutral
 eclaircise
 eradicatory
