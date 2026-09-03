@@ -22494,7 +22494,7 @@ aswirl
 ammoniacum
 at
 adenohypophysial
-alangin
+alangin 1
 arrestor
 arecaidin
 ata
