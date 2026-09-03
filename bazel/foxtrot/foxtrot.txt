@@ -4814,7 +4814,7 @@ francisco
 foothills 1
 flagman
 fasciolaria
-fancifulness
+fancifulness 1
 flinching
 floatiest
 fullwords
