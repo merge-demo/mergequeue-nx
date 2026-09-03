@@ -11422,7 +11422,7 @@ few
 furomethyl
 furcated
 fishings
-furfuraceously
+furfuraceously 1
 fingerlike
 furred 1
 frieze
