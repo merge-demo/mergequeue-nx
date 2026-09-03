@@ -25634,7 +25634,7 @@ coprah
 corpulencies
 consolamentum
 clankum
-corsair
+corsair 1
 cannula
 closestool
 corpulentness
