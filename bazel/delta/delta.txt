@@ -14369,7 +14369,7 @@ diurnals
 diurnule
 dimensuration
 diuron
-demeaned
+demeaned 1
 dielytra
 doled
 diva
