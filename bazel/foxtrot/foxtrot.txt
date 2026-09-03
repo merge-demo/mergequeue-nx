@@ -11083,7 +11083,7 @@ forbidder
 foreknowableness
 functionation
 fane
-factfinder
+factfinder 1
 flagellated
 flockless 1
 functionnaire
