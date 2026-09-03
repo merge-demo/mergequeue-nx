@@ -17569,7 +17569,7 @@ appendant
 aouellimiden
 androspore
 antixerophthalmic
-appendency
+appendency 1
 aquacultural
 appendicalgia
 ausonian
