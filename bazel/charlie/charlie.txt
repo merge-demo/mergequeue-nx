@@ -4223,7 +4223,7 @@ chlorites
 cavaliered
 chinatown
 care
-citeable
+citeable 1
 coerect
 coronated
 carecloth
