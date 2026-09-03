@@ -23693,7 +23693,7 @@ appreciational
 axlike
 aurify 1
 aurific
-aceology
+aceology 1
 algorism
 auriflamme
 authorize
