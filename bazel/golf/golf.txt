@@ -10152,7 +10152,7 @@ giddyish
 gal
 gloried 1
 glideness
-guardianly
+guardianly 1
 git
 gingely
 grabby
