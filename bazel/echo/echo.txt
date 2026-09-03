@@ -8406,7 +8406,7 @@ epitrope
 exclusionism
 epivalve
 elatcha
-equerries
+equerries 1
 eardrum
 erodible
 endodermic
