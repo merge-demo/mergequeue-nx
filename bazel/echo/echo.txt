@@ -4043,7 +4043,7 @@ empiercement
 evirato
 extensibleness
 epirogenetic
-evaporative
+evaporative 1
 exedent
 evidenced
 esuriency
