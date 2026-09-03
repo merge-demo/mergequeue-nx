@@ -12832,7 +12832,7 @@ barthite
 birdbrains
 boomslang
 boomslange
-busuuti
+busuuti 1
 buccula
 balers
 bacterins
