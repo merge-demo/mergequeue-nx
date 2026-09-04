@@ -1758,7 +1758,7 @@ dhotis
 diphenan
 dividend
 diphyllobothrium
-deathtrap
+deathtrap 1
 devocalization
 drof
 deathward
