@@ -5524,7 +5524,7 @@ crowboot
 cpm
 catacombs
 cyanamide
-catacorner
+catacorner 1
 catacorolla
 ceaselessly
 clacked
