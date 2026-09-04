@@ -22188,7 +22188,7 @@ alloplastic
 absorbedly
 astigmatometer
 atrocoeruleus
-asthenosphere
+asthenosphere 1
 astigmatometry
 acheer
 arthroncus
