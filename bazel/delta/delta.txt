@@ -9242,7 +9242,7 @@ decorament
 dollface
 divined
 disinsectization
-dislegitimate
+dislegitimate 1
 drawcard
 digitaliform 1
 diemakers
