@@ -5154,7 +5154,7 @@ denebola
 dulbert
 disburdened
 denervation
-denes
+denes 1
 deices
 defer
 daughterlike
