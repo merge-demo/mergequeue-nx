@@ -1520,7 +1520,7 @@ deaconate 1
 demigorge
 delphinoidea
 downer
-discourager
+discourager 1
 deaconesses
 diffracted
 defeminizing
