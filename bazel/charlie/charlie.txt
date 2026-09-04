@@ -12820,7 +12820,7 @@ crithmene
 chuppah
 cornuate
 cecile
-chuprassy
+chuprassy 1
 canasta
 calorite
 commonplacer 1
