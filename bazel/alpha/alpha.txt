@@ -16980,7 +16980,7 @@ ascidicolous
 alphabetization
 aplotaxene
 aliened
-avascular
+avascular 1
 annoyously
 adorned
 americanizer
