@@ -10087,7 +10087,7 @@ amblyomma
 abrupt
 adrenal
 arles
-alchymies
+alchymies 1
 astral
 antasthmatic 1
 amblystegite
