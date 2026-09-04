@@ -9585,7 +9585,7 @@ floreta
 frontopontine
 fizzed 1
 fichus
-friableness
+friableness 1
 fusteric
 frizzing
 fraternality
