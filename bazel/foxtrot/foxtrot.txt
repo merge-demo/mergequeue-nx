@@ -11709,7 +11709,7 @@ furphy
 fernsick
 frameless
 flaw 1
-fanfish
+fanfish 1
 fiancailles
 frowns
 furriered
