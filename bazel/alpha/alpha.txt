@@ -21666,7 +21666,7 @@ antitragus
 antibromic
 assassinations
 assassinative
-assassinist
+assassinist 1
 assate
 airstrips
 arriccio
