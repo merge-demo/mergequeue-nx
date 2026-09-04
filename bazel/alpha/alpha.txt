@@ -12985,7 +12985,7 @@ assimilable
 athelings
 alkalisable
 angareeb
-apolitically
+apolitically 1
 apologist
 angulous
 aporose
