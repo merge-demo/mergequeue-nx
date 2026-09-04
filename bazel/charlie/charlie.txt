@@ -9978,7 +9978,7 @@ chordeiles
 crawfishes
 counteractant
 chymic
-cherisher
+cherisher 1
 cherishment
 chermes
 cassidinae
