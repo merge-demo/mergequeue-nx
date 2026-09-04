@@ -2542,7 +2542,7 @@ aircraftman
 acool
 acroterteria
 addda
-assumingness
+assumingness 1
 acopyrine
 acopon
 atrabiliar
