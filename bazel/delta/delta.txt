@@ -10879,7 +10879,7 @@ dwayne
 disthene
 disguisable
 dicaryophyte
-damns
+damns 1
 drudging
 dirty
 donates
