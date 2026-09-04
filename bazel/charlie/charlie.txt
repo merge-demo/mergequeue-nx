@@ -10734,7 +10734,7 @@ chinchillas
 chinchillette
 caligo
 contracivil
-churnability
+churnability 1
 chinchona
 chincof
 ciliium
