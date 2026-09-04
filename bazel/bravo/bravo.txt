@@ -543,7 +543,7 @@ backwardness
 bootboy
 blastema
 befriendment
-biggishness
+biggishness 1
 burrock
 brickiest
 bunt
