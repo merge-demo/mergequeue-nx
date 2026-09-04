@@ -3325,7 +3325,7 @@ emanatist
 epical
 emanativ 1
 erupt
-enwreath 1
+enwreath 2
 emasculates
 endoesophagitis
 emancipated
