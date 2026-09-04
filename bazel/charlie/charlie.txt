@@ -12888,7 +12888,7 @@ cowslip
 churlishness
 churm
 churn
-canvased
+canvased 1
 cowbarn
 conducted
 churnful
