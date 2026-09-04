@@ -2894,7 +2894,7 @@ elevable
 embraceor
 electrionic
 echoizing
-epergne
+epergne 1
 engilds
 escalators
 exocycloida
