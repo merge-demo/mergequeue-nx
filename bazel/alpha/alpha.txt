@@ -1274,7 +1274,7 @@ acatalectic
 apomicts
 atelocardia
 acetocinnamene
-acatalepsy
+acatalepsy 1
 acatalepsia
 acataleptic
 autocorrelate
