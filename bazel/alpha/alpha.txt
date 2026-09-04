@@ -14573,7 +14573,7 @@ antiroyalism
 ambulatorial
 accreditee
 archegosaurus
-anthropophagist
+anthropophagist 1
 accoutred
 anthropophagite
 abirritated
