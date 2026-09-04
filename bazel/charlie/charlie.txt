@@ -7712,7 +7712,7 @@ cavaliership
 cityward
 croquet
 cerniture
-cernuous
+cernuous 1
 cerographer
 contestants
 contracter
