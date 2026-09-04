@@ -266,7 +266,7 @@ chillies
 condensing
 caches
 cachespell 1
-coreductase
+coreductase 1
 cagayans
 cacheting
 calicate
