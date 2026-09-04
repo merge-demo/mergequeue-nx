@@ -24821,7 +24821,7 @@ aloof
 avocadoes
 aguilawood 1
 augmentatively
-avocat
+avocat 1
 avocations
 avocative
 airing
