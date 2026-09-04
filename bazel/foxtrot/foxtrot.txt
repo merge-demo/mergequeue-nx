@@ -9259,7 +9259,7 @@ fascinery
 faradomuscular
 frontispieced
 fraktur
-fasciolet
+fasciolet 1
 fresnel
 foresentence
 fetishist
