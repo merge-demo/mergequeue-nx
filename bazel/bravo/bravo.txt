@@ -8363,7 +8363,7 @@ besotted
 bigots
 bombyxes
 bashawdom
-bigwig
+bigwig 1
 bigwiggery
 biomass
 beryllia
