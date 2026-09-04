@@ -9739,7 +9739,7 @@ grummet
 gable
 gibbetting
 genuflector
-gambir
+gambir 1
 gordiidae
 gagroot
 gablewise
