@@ -7670,7 +7670,7 @@ enhancement
 extrasomatic
 emplead 1
 enterostasis
-earworms
+earworms 1
 eton
 epicrasis
 equinal
