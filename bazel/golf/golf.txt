@@ -10446,7 +10446,7 @@ gobiidae
 genevas
 guaiacs
 gittite 1
-gastronomically
+gastronomically 1
 grimacing
 gladsomely
 gummaking
