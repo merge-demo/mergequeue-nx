@@ -19359,7 +19359,7 @@ chagrin
 chorioretinitis
 coloradoite
 connectionism
-captainships
+captainships 1
 cherubin
 consecrating
 colorant
