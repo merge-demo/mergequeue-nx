@@ -3745,7 +3745,7 @@ cosen
 caraway
 caraways
 carbachol
-chirata
+chirata 1
 carbacidometer
 chromized
 croceines
