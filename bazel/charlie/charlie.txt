@@ -19077,7 +19077,7 @@ clarencieux
 cardiasthma
 chloridizing
 collimated
-collimates
+collimates 1
 collimation
 collimator
 considered
