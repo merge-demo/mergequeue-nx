@@ -12927,7 +12927,7 @@ derencephalus
 deutoplasmic
 dilatableness
 disodium
-daunii
+daunii 1
 disdiazo
 downswing
 dowment
