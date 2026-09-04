@@ -13386,7 +13386,7 @@ expanders
 empodium
 expostulative
 entobranchiate
-expostulatively
+expostulatively 1
 euscaro
 escapeway
 exemplify
