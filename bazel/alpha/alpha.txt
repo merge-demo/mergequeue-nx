@@ -14248,7 +14248,7 @@ argilliferous
 acephal
 aptitudinal
 anterosuperior
-antesternal
+antesternal 1
 antesuperior
 arboretums
 aviators
