@@ -127,7 +127,7 @@ dialectologically
 diazeuctic
 dioecism
 debilitations
-dyspathetic
+dyspathetic 1
 demiurgus
 descendental
 dingier
