@@ -5345,7 +5345,7 @@ castanea
 chewy 1
 cylindroconical
 cynarctomachy
-cyrillaceous
+cyrillaceous 1
 capillary
 castano
 crawler
