@@ -462,7 +462,7 @@ enanthesis
 expediteness 1
 evector
 ecclesia
-enumerable
+enumerable 1
 eucommia
 ecclesiarchy 1
 extoll
