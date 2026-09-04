@@ -7854,7 +7854,7 @@ cesarevitch
 caramelizing
 cesarian
 cesarians
-cruisers
+cruisers 1
 calcinable
 chinned 1
 cesious
