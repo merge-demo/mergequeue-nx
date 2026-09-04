@@ -18541,7 +18541,7 @@ comparition
 cankerflower
 cataphyllary
 contingents
-considerateness
+considerateness 1
 clypeole
 coif
 coiffe
