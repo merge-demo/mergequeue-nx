@@ -4690,7 +4690,7 @@ gossoon 1
 glassin
 guisard
 glycuronic
-glary
+glary 1
 gradely
 graecism
 goglet
