@@ -2537,7 +2537,7 @@ freebee
 fados
 freeboot
 fem
-functionalistic
+functionalistic 1
 foresightful
 falerno
 foreconceive
