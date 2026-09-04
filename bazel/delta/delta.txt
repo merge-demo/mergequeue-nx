@@ -3854,7 +3854,7 @@ dimwit
 defoams 1
 diviningly
 deciduous
-dicellate
+dicellate 1
 deionizations
 dichroiscope
 diatropic
