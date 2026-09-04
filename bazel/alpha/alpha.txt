@@ -17933,7 +17933,7 @@ accubitus
 approaching
 anemometer
 approbated
-anachronist
+anachronist 1
 adorner
 approbating
 approbations
