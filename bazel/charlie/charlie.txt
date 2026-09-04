@@ -15836,7 +15836,7 @@ cleavable
 cleavage
 cleavages
 cleaveful
-cleavelandite
+cleavelandite 1
 contentness
 cleaver
 cleavers
