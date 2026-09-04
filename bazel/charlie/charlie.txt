@@ -26823,7 +26823,7 @@ contumelies
 counterestablishment
 crystallise
 correctingly
-conspiring
+conspiring 1
 counterexcitement
 counterexercise
 commeasuring
