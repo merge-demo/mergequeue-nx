@@ -9688,7 +9688,7 @@ enshielded
 espouser
 espouses 1
 espousing
-esprit
+esprit 1
 enterorrhexis
 esq
 esquires
