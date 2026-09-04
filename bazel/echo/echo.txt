@@ -13772,7 +13772,7 @@ epiphysary
 enserfing
 ecorch
 extolling
-enouncement
+enouncement 1
 elephas
 extolls
 eskimos
