@@ -2785,7 +2785,7 @@ dian
 dreche
 druggist
 docudrama
-decreasingly
+decreasingly 1
 dairymen
 deltoideus
 decreer
