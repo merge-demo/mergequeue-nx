@@ -574,7 +574,7 @@ deludes
 damasking
 damassin
 deiformity
-diiodotyrosine
+diiodotyrosine 1
 didepside
 districted
 dropworm
