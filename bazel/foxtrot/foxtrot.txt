@@ -4608,7 +4608,7 @@ fighter
 footnoting
 fistwise
 fit
-fontally
+fontally 1
 fringilliform
 fitchee
 fibrocalcareous
