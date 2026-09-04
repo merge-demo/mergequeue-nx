@@ -18539,7 +18539,7 @@ duricrust
 duridine
 durity
 diphthonged
-dekalitre
+dekalitre 1
 durmast
 dirging
 durndest
