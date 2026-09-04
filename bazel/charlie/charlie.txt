@@ -3627,7 +3627,7 @@ caracoling
 curliest
 crustate
 caracolite 1
-caracolled
+caracolled 1
 caracoller
 cosmopolitanize
 colarin
