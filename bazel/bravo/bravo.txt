@@ -1469,7 +1469,7 @@ blighter
 balkish
 bodaciously
 bahadurs 1
-beggar
+beggar 1
 boroglycerate
 barras
 beeches
