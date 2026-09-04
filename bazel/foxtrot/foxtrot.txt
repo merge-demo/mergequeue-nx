@@ -4113,7 +4113,7 @@ foresightless
 fungusy
 frostation
 fergusonite 1
-featherbrain
+featherbrain 1
 fattable
 fanterie
 formal
