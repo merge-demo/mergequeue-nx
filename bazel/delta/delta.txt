@@ -11733,7 +11733,7 @@ dyscrasic
 demissness
 dactylologies
 dimane
-decoupage
+decoupage 1
 disco
 dopamelanin
 discreation
