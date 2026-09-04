@@ -14408,7 +14408,7 @@ diverse
 diversify
 drossed
 diversification
-disporous
+disporous 1
 diarch
 diversified
 devils
