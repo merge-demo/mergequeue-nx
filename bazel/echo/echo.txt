@@ -13658,7 +13658,7 @@ embacle
 evirate 1
 elevon
 elizabethanism
-exteriorisation
+exteriorisation 1
 exteriorised
 ecrus
 entapophysis
