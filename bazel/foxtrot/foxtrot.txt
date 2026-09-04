@@ -6504,7 +6504,7 @@ filches
 figurally
 fluted 1
 featherbedded
-faintish
+faintish 1
 frenzied
 flameless
 filmlands
