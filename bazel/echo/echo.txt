@@ -6441,7 +6441,7 @@ exceptioner 1
 exarchy
 enleen
 exhalants
-eastering
+eastering 1
 egestion
 exsanguinate
 egbert
