@@ -10756,7 +10756,7 @@ elderbush
 euphonic
 enid
 ephemerae
-enclaret 1
+enclaret 2
 endorsee
 extort
 ephemeran
