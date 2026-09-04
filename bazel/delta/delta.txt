@@ -13073,7 +13073,7 @@ dital
 decampment
 decliners
 drollingly
-decurrencies
+decurrencies 1
 dulcimers
 drippiest
 digitizer
