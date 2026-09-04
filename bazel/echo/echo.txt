@@ -3944,7 +3944,7 @@ efflorescent
 emollience
 elevenths
 eyliad
-estruate
+estruate 1
 excalation
 erogenesis 1
 earthbound
