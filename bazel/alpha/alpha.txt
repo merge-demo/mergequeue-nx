@@ -12421,7 +12421,7 @@ androgynia
 androgynies
 angiostomy
 androgone
-andrographis
+andrographis 1
 acrotomous
 adamsite
 andromache
