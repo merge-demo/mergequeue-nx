@@ -14943,7 +14943,7 @@ careys
 cinquain
 cycler
 cytozzoa
-coelacanthoid
+coelacanthoid 1
 citraconate
 citral
 cambaye
