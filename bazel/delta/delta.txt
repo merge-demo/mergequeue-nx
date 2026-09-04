@@ -11049,7 +11049,7 @@ dichroic
 disentanglements
 dyophysite
 disincarcerate
-disannuls
+disannuls 1
 dysenteries
 disembay
 diagnosticating
