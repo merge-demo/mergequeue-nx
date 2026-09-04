@@ -6692,7 +6692,7 @@ connexivum
 ceiling
 ceilings
 ceilingwards
-copiability 1
+copiability 2
 celtophobia
 ceilometer
 couac
