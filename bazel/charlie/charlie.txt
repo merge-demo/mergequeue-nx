@@ -6236,7 +6236,7 @@ curstness
 centetidae
 countershout
 cabbalism
-cetological
+cetological 1
 cavillers
 coconqueror
 codeword
