@@ -13999,7 +13999,7 @@ extraposition
 electrolytic
 extraprofessional
 extrapunitive
-equinity
+equinity 1
 eustacy
 extraregarding
 endogen
