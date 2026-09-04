@@ -420,7 +420,7 @@ echowise
 ebulliate
 essera
 exomphalus
-entocondyle
+entocondyle 1
 ebulliently 1
 elfish
 exposits
