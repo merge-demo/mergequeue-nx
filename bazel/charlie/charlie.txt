@@ -8275,7 +8275,7 @@ coween
 cronyism
 canadianisms
 chalcus
-chaldean
+chaldean 1
 chiver
 caucused
 caricetum 1
