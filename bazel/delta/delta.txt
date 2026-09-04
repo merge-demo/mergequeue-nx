@@ -6573,7 +6573,7 @@ dermol
 danburite 1
 desdemona
 disinvest 1
-desecrated
+desecrated 1
 dilemmatical
 dipole
 dockize
