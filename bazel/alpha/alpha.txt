@@ -11608,7 +11608,7 @@ albuminuria
 allothigenic
 annoyancer
 arseniureted
-appassionate
+appassionate 1
 anacyclus 1
 asphalting
 anacid
