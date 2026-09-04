@@ -1241,7 +1241,7 @@ avian
 asexualizing
 acaridean
 angelical
-amazedly
+amazedly 1
 ambitus
 acarina
 acrasy
