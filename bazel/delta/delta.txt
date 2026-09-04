@@ -10059,7 +10059,7 @@ definitization
 digoneutic
 dynamitard
 disqualify
-denitrify
+denitrify 1
 diana
 diocoel
 dynamitical
