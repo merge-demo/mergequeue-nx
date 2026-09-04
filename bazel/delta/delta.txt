@@ -4512,7 +4512,7 @@ dodgiest
 divulsed
 demidistance
 diaphane
-diabetogenic
+diabetogenic 1
 downtrend
 deputies
 discircumspection
