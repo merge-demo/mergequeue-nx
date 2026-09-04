@@ -14679,7 +14679,7 @@ disrespondency
 describe 1
 dowers
 doxies
-dieselize
+dieselize 1
 disagrees
 debauchee
 dolent
