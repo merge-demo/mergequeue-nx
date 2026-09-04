@@ -9097,7 +9097,7 @@ charrette
 consenescence
 charrier
 charriest
-charro
+charro 1
 concional
 cicatrize
 chylocaulous
