@@ -6053,7 +6053,7 @@ cating
 cativo
 cheapo
 catkin
-catkinate
+catkinate 1
 catkins
 curatory
 candify
