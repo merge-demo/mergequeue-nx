@@ -1695,7 +1695,7 @@ curelessly
 calorifics
 caricography 1
 calorifier
-calorimetry
+calorimetry 1
 calorimetrical
 calorimetrically
 calorimotor
