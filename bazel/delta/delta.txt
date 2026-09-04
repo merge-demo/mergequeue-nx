@@ -2033,7 +2033,7 @@ decagonally
 detenus
 dothidella
 daimen
-duplicitas
+duplicitas 1
 dichloramin
 decagram
 dourness
