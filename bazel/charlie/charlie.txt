@@ -11728,7 +11728,7 @@ chondriosphere
 connaturally
 cacophony
 chondrites
-chondritic 1
+chondritic 2
 chondroalbuminoid
 chondroangioma
 credential
