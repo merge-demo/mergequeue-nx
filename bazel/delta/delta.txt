@@ -1383,7 +1383,7 @@ dave
 davenport 1
 disna
 disableness
-dollars
+dollars 1
 daftar
 daunders
 depositing
