@@ -13816,7 +13816,7 @@ extracerebral 1
 embolo
 elucidative
 effervescingly
-electrophilic
+electrophilic 1
 earworm 1
 extracystic
 equiarticulate
