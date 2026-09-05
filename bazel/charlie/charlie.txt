@@ -7100,7 +7100,7 @@ cannikin
 copt
 confluences
 centigrams
-centile
+centile 1
 cendre
 caudatum
 catamited
