@@ -9225,7 +9225,7 @@ categorize
 chataka
 chatchka
 croziers 1
-coterminal
+coterminal 1
 chatchke
 chatchkes
 chondrogenous
