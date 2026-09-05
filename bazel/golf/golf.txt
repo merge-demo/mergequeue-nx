@@ -10462,7 +10462,7 @@ gneissy
 gerrymandered
 geistlich
 gastrolienal
-graphitization
+graphitization 1
 gastroadenitis
 gusset
 goosy
