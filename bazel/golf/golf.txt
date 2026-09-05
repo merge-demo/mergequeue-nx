@@ -2947,7 +2947,7 @@ gunfighters
 geocoronium
 genecological
 gyniatry
-goldurnedest 1
+goldurnedest 2
 grazable
 gulph
 gosh
