@@ -21374,7 +21374,7 @@ comptonia
 concinnously
 concionate
 callidness 1
-concionator
+concionator 1
 coydog
 concionatory
 cothurni
