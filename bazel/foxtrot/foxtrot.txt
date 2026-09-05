@@ -10537,7 +10537,7 @@ falltime
 forcipiform
 frowze
 franking
-fluky 1
+fluky 2
 flatus
 festivous
 fossilised
