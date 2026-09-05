@@ -15936,7 +15936,7 @@ coryphylly
 cobelligerent
 cold
 cleptomaniac
-clerestoried
+clerestoried 1
 cliched
 cinchonizing
 clergy
