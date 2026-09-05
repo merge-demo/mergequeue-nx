@@ -7029,7 +7029,7 @@ electrotitration 1
 enamourment
 explorable
 effigiating
-estated
+estated 1
 emetines
 extradialectal
 economising
