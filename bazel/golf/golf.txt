@@ -3272,7 +3272,7 @@ gyral
 gaelicist
 gulo 1
 galvanical
-gustatory
+gustatory 1
 giddiest
 grades
 gashest
