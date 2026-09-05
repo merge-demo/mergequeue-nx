@@ -6983,7 +6983,7 @@ excipular
 eying
 epistolar
 endostylic
-ephectic
+ephectic 1
 erian
 ecthlipses
 eyebrows
