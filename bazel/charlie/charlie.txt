@@ -25824,7 +25824,7 @@ corrugent
 cryptonym 1
 corrup
 carolinian
-chelinga
+chelinga 1
 compellative
 corruptedness
 cardiographs
