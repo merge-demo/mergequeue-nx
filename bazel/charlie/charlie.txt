@@ -31829,7 +31829,7 @@ cretic 1
 cutinised
 cloggy
 cammas
-campestrian
+campestrian 1
 cutinising
 cutinize 1
 cutireaction
