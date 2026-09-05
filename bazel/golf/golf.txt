@@ -4002,7 +4002,7 @@ gemonies 1
 gravic 1
 geniculate
 gloomier
-gorgedly
+gorgedly 1
 gastrology
 gnomological
 guatuso
