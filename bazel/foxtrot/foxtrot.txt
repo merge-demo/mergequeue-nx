@@ -7316,7 +7316,7 @@ fleeched
 foaminess
 ferromolybdenum
 fixation
-foraying
+foraying 1
 frognose
 foralite
 foram
