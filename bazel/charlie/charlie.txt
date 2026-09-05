@@ -19083,7 +19083,7 @@ collimator
 considered
 colline
 collections
-classicistic
+classicistic 1
 coxy
 caecias
 chairlady
