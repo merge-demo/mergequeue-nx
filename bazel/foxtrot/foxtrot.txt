@@ -10130,7 +10130,7 @@ froughy 1
 fumarium
 frivolling
 feasibility
-falchions
+falchions 1
 finalize
 fricatives
 frivolousness
