@@ -12226,7 +12226,7 @@ engarb
 episynthetic
 excur
 ensigns
-epiphanizing
+epiphanizing 1
 extralateral
 elevener
 entally
