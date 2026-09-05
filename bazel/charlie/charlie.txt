@@ -5870,7 +5870,7 @@ compositorial
 catenoid 1
 catenulate
 cacozyme
-capuli
+capuli 1
 conveyances
 contiguous
 cubistically
