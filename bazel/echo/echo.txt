@@ -12623,7 +12623,7 @@ erasmian
 eagless
 effray
 encirclement
-excoriate
+excoriate 1
 exoculate
 expostulates
 ecclesiasticalness 1
