@@ -3857,7 +3857,7 @@ angiorrhexis 1
 anartismos
 adipoma
 autocracies
-arrish
+arrish 1
 articulary
 antiopiumite
 archrobber
