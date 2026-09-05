@@ -15202,7 +15202,7 @@ cade
 curtailments
 clairseach
 caplan
-cloisteral
+cloisteral 1
 cardiemphraxia
 compresses
 choosableness
