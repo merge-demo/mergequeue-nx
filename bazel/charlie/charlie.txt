@@ -8534,7 +8534,7 @@ chanceless
 cestoda
 chancelloress
 cid
-copybook
+copybook 1
 chancellors
 califates
 chancellorship
