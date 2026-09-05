@@ -26937,7 +26937,7 @@ countermaneuver
 countermanifestoes
 countfish
 columbotitanate
-colorable
+colorable 1
 chevaux
 cunningaire
 countermarching
