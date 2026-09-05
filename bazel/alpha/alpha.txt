@@ -6080,7 +6080,7 @@ allorrhyhmia
 actor
 anorchism
 anisochromatic
-anapaestic
+anapaestic 1
 aviatrix
 appay
 askile
