@@ -20882,7 +20882,7 @@ asarabacca
 archshepherd
 asarin
 alecs
-asarite
+asarite 1
 anatomizable
 ablastemic
 allergist
