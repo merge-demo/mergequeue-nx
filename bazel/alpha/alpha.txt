@@ -13403,7 +13403,7 @@ assimilatory
 ameban
 awny
 ankush
-astringe
+astringe 1
 aristulate
 archphylarch
 ankusha
