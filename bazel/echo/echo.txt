@@ -4776,7 +4776,7 @@ endosmosic
 ebulliometry
 excircle
 epistler
-entomophytous
+entomophytous 1
 establishments
 exploratory
 extracardial
