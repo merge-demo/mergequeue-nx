@@ -5939,7 +5939,7 @@ fabiform
 flowerpots
 flooder
 fowlpoxes
-freakiness
+freakiness 1
 fichtean
 foggers
 falstaffian
