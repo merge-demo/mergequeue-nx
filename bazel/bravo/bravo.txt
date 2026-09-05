@@ -13065,7 +13065,7 @@ boreen
 burdash
 boreiad
 bannister
-bugseeds
+bugseeds 1
 boodleism
 borel
 borers
