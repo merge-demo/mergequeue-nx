@@ -269,7 +269,7 @@ cachespell 1
 coreductase
 cagayans
 cacheting
-calicate
+calicate 1
 complaisance
 chinin
 counterlode
