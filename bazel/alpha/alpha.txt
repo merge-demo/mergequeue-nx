@@ -18610,7 +18610,7 @@ antisepsis
 acarophilous
 acini
 archaeographical
-asterisking
+asterisking 1
 acinous
 academial
 astrophil
