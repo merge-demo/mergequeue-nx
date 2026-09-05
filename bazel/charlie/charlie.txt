@@ -24492,7 +24492,7 @@ copaliferous
 copalite
 copalm
 coparcenar
-coparcenary
+coparcenary 1
 cyclopropane
 comic
 coparcener
