@@ -25664,7 +25664,7 @@ cubicly
 correctionalist
 correctioner
 conformities
-corrective
+corrective 1
 correctively
 computers
 correctiveness
