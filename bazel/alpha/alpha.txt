@@ -10160,7 +10160,7 @@ ambsace
 ambsaces
 ambulacriform
 acuation
-ambulance
+ambulance 1
 apnoeal
 amoeboidism
 antithetically 1
