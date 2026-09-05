@@ -8500,7 +8500,7 @@ caveat
 carle
 contrabassoonist
 champine
-champing
+champing 1
 cryohydric
 carberry
 celebrated
