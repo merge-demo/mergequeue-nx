@@ -4921,7 +4921,7 @@ geologies
 glagolic
 gethsemane
 glaieul
-griper
+griper 1
 glossotomy
 geodal
 glycerinize
