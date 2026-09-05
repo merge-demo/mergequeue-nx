@@ -9083,7 +9083,7 @@ anadicrotic
 alphyl
 amidoacetal
 anaeroplastic
-allround
+allround 1
 alls
 adolesce
 artabe
