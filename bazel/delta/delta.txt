@@ -4871,7 +4871,7 @@ devotionary
 dyspeptically
 diphenylacetylene
 demonishness
-disozonize
+disozonize 1
 dismaying
 debited
 demonists
