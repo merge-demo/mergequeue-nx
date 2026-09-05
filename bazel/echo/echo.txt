@@ -13813,7 +13813,7 @@ extendible
 excepted
 editorializing
 extracerebral 1
-embolo
+embolo 1
 elucidative
 effervescingly
 electrophilic
