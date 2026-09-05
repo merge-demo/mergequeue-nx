@@ -10037,7 +10037,7 @@ disordain 1
 decemfoliolate
 dynactinometer
 deratize
-dazedly
+dazedly 1
 dissipater
 depair
 daughterling
