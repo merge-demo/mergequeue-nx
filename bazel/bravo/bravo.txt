@@ -16107,7 +16107,7 @@ baluster
 boskiest 1
 brookier
 bluffers
-brookite
+brookite 1
 beneficient
 barbarianized
 battling
