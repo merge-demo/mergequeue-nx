@@ -28662,7 +28662,7 @@ cuchulainn
 crenate
 crenated
 chalcosiderite
-crenately
+crenately 1
 cortins
 crotches
 crenation
