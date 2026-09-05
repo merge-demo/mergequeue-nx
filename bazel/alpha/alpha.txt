@@ -19298,7 +19298,7 @@ aluminothermics
 areolas
 areocentric
 areolated
-antiritualistic
+antiritualistic 1
 areology
 absurds
 areologies
