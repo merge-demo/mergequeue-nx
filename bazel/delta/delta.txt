@@ -14325,7 +14325,7 @@ defervescent
 dittying
 denizen
 dandified
-disadvantages
+disadvantages 1
 ditto
 disperato
 dittoes
