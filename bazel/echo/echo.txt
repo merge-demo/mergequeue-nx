@@ -12199,7 +12199,7 @@ enflame
 entrechats
 emanated
 elementalism
-emerized
+emerized 1
 excelse
 execratively
 excreter
