@@ -15566,7 +15566,7 @@ bromlite 1
 bescent
 beast
 bussy
-barbule
+barbule 1
 boardable
 brisking
 briss
