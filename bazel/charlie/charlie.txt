@@ -6410,7 +6410,7 @@ cauterizer
 cauterizes
 caution
 cautionary
-couve
+couve 1
 cerebromedullary
 calcareosiliceous
 coulterneb
