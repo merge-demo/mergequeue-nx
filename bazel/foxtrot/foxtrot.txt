@@ -10819,7 +10819,7 @@ ferrocalcite
 florimania
 ferniest
 fulciment
-fs
+fs 1
 failures
 fulcrumed
 formicarioid
