@@ -10930,7 +10930,7 @@ blesbuck
 bedlamism
 blinkards
 bowses
-basta
+basta 1
 beaneries
 beckets
 bartonia
