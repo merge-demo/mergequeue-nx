@@ -2473,7 +2473,7 @@ guardful
 greasy
 gimble
 gonopodial
-gemmology
+gemmology 1
 globality
 gnathidium
 glabrate
