@@ -1646,7 +1646,7 @@ daundered
 disassembler
 deallocate
 deobstruct
-devotional
+devotional 1
 daunter
 dicephalus
 darkhaired
