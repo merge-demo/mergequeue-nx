@@ -1069,7 +1069,7 @@ frontons
 farrage
 ferroelectricity
 furziest
-farrago
+farrago 1
 franchisement
 frizer
 flichters
