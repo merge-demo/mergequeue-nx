@@ -28300,7 +28300,7 @@ craterless
 craterlet
 craterlike
 covariance 1
-cheepily
+cheepily 1
 copywise
 craticular
 cratinean
