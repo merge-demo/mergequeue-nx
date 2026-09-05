@@ -11350,7 +11350,7 @@ downfield
 distrainee
 discerption
 difficulties
-diggers
+diggers 1
 dischargeable
 dispirited
 dilacerating
