@@ -12654,7 +12654,7 @@ enuretic
 empyemas 1
 emissarium
 exogen
-exercent
+exercent 1
 earldom
 exogenae
 esophagostomy
