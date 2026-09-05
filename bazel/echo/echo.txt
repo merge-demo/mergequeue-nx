@@ -10830,7 +10830,7 @@ eupatrids
 eluent
 exemplars
 enoptromancy
-explodes
+explodes 1
 engine
 electrocuting
 execrates
