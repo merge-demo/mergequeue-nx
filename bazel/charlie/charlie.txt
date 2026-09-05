@@ -19008,7 +19008,7 @@ cocrucify
 collectorate
 collectors
 circumscissile
-crisped
+crisped 1
 creedless
 collegia
 collegialism
