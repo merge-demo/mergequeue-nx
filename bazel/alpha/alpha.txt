@@ -5208,7 +5208,7 @@ affection
 apostasies
 arbutinase
 atoneness
-affectional
+affectional 1
 affectionally
 affectionateness
 affectioned
