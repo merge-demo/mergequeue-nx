@@ -2557,7 +2557,7 @@ candleshine
 chaucerism
 candleshrift
 capitalizations
-cecidiology
+cecidiology 1
 committeewoman
 chinol
 castellanship
