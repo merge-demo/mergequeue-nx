@@ -5993,7 +5993,7 @@ cathodal
 cathode
 chatelainry
 cathodes
-cuckstool
+cuckstool 1
 cathodograph
 conjurers
 cloacinean
