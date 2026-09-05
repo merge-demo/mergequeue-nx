@@ -17263,7 +17263,7 @@ apoplastogamous
 attempts
 ampersand
 apoplectoid
-apoplex
+apoplex 1
 adamantoid
 anemometrographic
 aporhyolite
