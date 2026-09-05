@@ -759,7 +759,7 @@ asperation
 attuning
 apogalacteum
 abrasively
-abrazite
+abrazite 1
 antirevolutionaries
 antipolitically
 aviarists
