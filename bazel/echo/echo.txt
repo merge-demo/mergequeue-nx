@@ -11324,7 +11324,7 @@ ecdysons
 epupillate
 enwrap
 evaporitic
-enforcively
+enforcively 1
 evapotranspiration
 ecaudata
 esiphonal
