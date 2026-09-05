@@ -31152,7 +31152,7 @@ clinometria
 cupeller
 conscripts
 cupellers
-centrode
+centrode 1
 cupfulfuls
 canvassing
 cupid
