@@ -6431,7 +6431,7 @@ bitripartite
 bregmata
 benzothiodiazole
 bergamiol
-bumpering
+bumpering 1
 backcloth
 barangay
 biternate
