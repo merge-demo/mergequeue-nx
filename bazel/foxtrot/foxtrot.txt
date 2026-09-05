@@ -705,7 +705,7 @@ fragrancy
 feminity
 farcial
 flapperhood
-flair
+flair 1
 foziness
 frettier
 favourably
