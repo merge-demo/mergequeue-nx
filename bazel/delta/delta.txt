@@ -10599,7 +10599,7 @@ diploidic
 dunderbolt
 dominus
 diploidize
-doorman
+doorman 1
 diploma
 decasyllabon 1
 dolorogenic
