@@ -17409,7 +17409,7 @@ adiate
 antiarchi
 apothegmatically
 apothegmatist
-atriensis
+atriensis 1
 antiattrition
 autocratically
 apotheosised
