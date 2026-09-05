@@ -1018,7 +1018,7 @@ gurnetty
 granitizing
 gnomons
 geophilous
-gymnure
+gymnure 1
 guttle
 glanduliferous
 gully
