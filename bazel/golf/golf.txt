@@ -4983,7 +4983,7 @@ gigantic
 grafters 2
 goldhead
 genealogists
-goofballs 1
+goofballs 2
 growled
 guilty
 guariba
