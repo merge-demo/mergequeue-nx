@@ -18374,7 +18374,7 @@ duodenoscopy
 denotate
 digmeat
 duodenostomy
-deceptiously
+deceptiously 1
 deuteroconid 1
 dihalo
 dabbles
