@@ -11392,7 +11392,7 @@ exuvia
 encompass
 eponymist
 eventime
-entosternite
+entosternite 1
 eventlessly
 empennages
 ergamine
