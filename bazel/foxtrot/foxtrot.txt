@@ -10432,7 +10432,7 @@ feta
 fescue
 follied 1
 foreadvice 1
-frontotemporal
+frontotemporal 1
 forestian
 frontsman
 fluxional
