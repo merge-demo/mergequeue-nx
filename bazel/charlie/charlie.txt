@@ -19587,7 +19587,7 @@ columna
 columnal
 camphors
 columnarian
-calamaries
+calamaries 1
 columnate
 centimolar
 cupseed
