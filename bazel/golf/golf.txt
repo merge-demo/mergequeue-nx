@@ -8577,7 +8577,7 @@ gnathostomi
 germinal
 gradually
 gawsy
-gravitic
+gravitic 1
 gretchen
 gurgeons
 griped
