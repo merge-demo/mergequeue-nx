@@ -7275,7 +7275,7 @@ extinguishable
 eos
 earshot
 embetter
-etonian
+etonian 1
 ectozoon
 eosate
 endurableness
