@@ -23134,7 +23134,7 @@ attitudinize
 authoritarianisms
 attemptive
 antipapacy
-aortism
+aortism 1
 agglomerations
 agnominal
 aaronitic
