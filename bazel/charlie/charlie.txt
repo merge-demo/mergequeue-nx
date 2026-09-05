@@ -28710,7 +28710,7 @@ crenulation
 creodonta
 crenellating
 creodonts
-creole
+creole 1
 creolian
 creolism
 carposporangium
