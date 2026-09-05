@@ -7840,7 +7840,7 @@ cerviconasal 1
 cholelithotripsy
 cribrous
 crotchy
-cervicothoracic
+cervicothoracic 1
 cervicovesical
 cervinae
 cosignatory
