@@ -3637,7 +3637,7 @@ devices
 deglamorizing
 doubtlessly
 disrespectfulness
-deglazed
+deglazed 1
 discoblastic
 deglazing
 duckling
