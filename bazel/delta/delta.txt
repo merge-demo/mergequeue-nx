@@ -8840,7 +8840,7 @@ dybbuks
 diabolo
 disjuncture
 dibenzoyl
-depilator
+depilator 1
 detriments
 dialyzable 1
 deg
