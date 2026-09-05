@@ -2877,7 +2877,7 @@ amygdales
 acrophonetic
 avengingly
 acrophonic
-astrol
+astrol 1
 aubrite
 antiendowment 1
 acropoleis
