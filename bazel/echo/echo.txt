@@ -8589,7 +8589,7 @@ encompassing
 epigrammatism
 egall
 ergatomorph
-equidimensional
+equidimensional 1
 equidist
 exrx 1
 essancias
