@@ -4260,7 +4260,7 @@ expiree
 escarping
 escambio
 emulousness
-eaux
+eaux 1
 eumeristic
 expolish
 expendible
