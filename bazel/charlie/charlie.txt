@@ -19520,7 +19520,7 @@ colstaff
 cnidogenous
 congresswoman
 chasid
-coltishly
+coltishly 1
 coltlike
 calicos
 coltoria
