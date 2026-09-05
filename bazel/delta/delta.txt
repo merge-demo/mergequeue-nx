@@ -667,7 +667,7 @@ damosel
 drachms
 divorcement
 decapitalize
-damped
+damped 1
 desquamated
 dukely
 deafen
