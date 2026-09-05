@@ -14638,7 +14638,7 @@ divvy
 derating 1
 depressing
 diallel
-dixain
+dixain 1
 decentre
 diplococcocci
 decameter
