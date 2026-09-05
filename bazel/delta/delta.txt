@@ -11397,7 +11397,7 @@ droopingly 1
 deserted
 disciplinarians
 disquieten
-disciplinarily
+disciplinarily 1
 disciplinate
 distrouser
 decarbonate

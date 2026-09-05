@@ -13803,7 +13803,7 @@ arizonan
 anorectic
 anagallis
 aventurin
-africanism
+africanism 1
 antonovics
 amidoacetic
 averred
