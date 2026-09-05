@@ -31632,7 +31632,7 @@ chlorohydrocarbon
 curvilinead
 carpingly
 curvimeter
-curviness
+curviness 1
 curving
 curviserial
 curvital
