@@ -1622,7 +1622,7 @@ frowned
 facet
 faxed
 futilities
-farandole
+farandole 1
 formicoidea
 framework
 frothiest
