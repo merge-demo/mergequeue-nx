@@ -11832,7 +11832,7 @@ bodice
 brainwashers
 bogged
 brushlike
-bestowals 1
+bestowals 2
 bodicemaking
 bodied
 becrowding
