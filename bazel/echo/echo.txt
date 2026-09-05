@@ -13764,7 +13764,7 @@ exosperm
 evermo
 entea
 extispicious
-extoling
+extoling 1
 epitympanum 1
 edingtonite
 edestosaurus
