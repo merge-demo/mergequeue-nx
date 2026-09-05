@@ -12214,7 +12214,7 @@ dramatism
 diomedea
 disbandment
 directional
-dormie
+dormie 1
 dodoisms
 drapes
 disfranchises
