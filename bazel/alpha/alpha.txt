@@ -14395,7 +14395,7 @@ amphistomous
 awful
 acolyte
 anthotaxis
-andries
+andries 1
 analgetic
 assortatively
 anisocycle
