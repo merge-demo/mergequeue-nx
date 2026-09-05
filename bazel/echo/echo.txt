@@ -4213,7 +4213,7 @@ electrothanatosis
 effeteness
 emptied
 exhorter
-echolalic
+echolalic 1
 electroetching
 exocardiac
 enghle
