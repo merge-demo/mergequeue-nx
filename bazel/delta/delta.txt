@@ -5527,7 +5527,7 @@ devastated
 dehistoricize
 drama
 dematiaceous
-denotement
+denotement 1
 directionality
 drought
 dyvour
