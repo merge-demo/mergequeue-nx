@@ -17965,7 +17965,7 @@ dermatomuscular
 dianthera
 duinhewassel
 deplorers
-depauperation
+depauperation 1
 danish
 domanial
 decompensate
