@@ -5544,7 +5544,7 @@ coulometer
 catadioptrical
 catadioptrics
 conserved
-chantment
+chantment 1
 catadrome
 chlorophaeite
 catadupe
