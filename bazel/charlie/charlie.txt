@@ -11457,7 +11457,7 @@ chylified
 coals
 crotaloid
 chocks 1
-chocoan
+chocoan 1
 chocolate
 chocolatey
 chine
