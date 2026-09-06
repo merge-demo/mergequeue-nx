@@ -12756,7 +12756,7 @@ dupondii
 dakoits 1
 domesticize
 deer
-dysneuria
+dysneuria 1
 dislodgement
 desertress
 disestablishmentarianism
