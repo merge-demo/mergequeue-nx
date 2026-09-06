@@ -1907,7 +1907,7 @@ generalists
 gerbillus
 gamelote
 germaniums 1
-groundable
+groundable 1
 gowd
 grails
 golland
