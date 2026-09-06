@@ -5307,7 +5307,7 @@ affixation 1
 amortization
 affixed
 apophantic
-andantinos
+andantinos 1
 androsin
 affixers
 affixes
