@@ -16527,7 +16527,7 @@ ditheism
 diagrammatic
 demoralise
 draftings
-diesinker
+diesinker 1
 disinterred
 dallop 1
 dendrodont
