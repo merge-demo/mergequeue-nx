@@ -13080,7 +13080,7 @@ digitizer
 dragster
 dispendiously 1
 debasing
-devoutly
+devoutly 1
 drooped
 dankest
 dispensationalism
