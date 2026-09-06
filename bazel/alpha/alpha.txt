@@ -305,7 +305,7 @@ admiratively
 abdominothoracic
 acquiescent
 astoundment
-abdominous
+abdominous 1
 abduces
 articulate
 ampullulae
