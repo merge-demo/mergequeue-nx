@@ -8085,7 +8085,7 @@ ferrochromium
 forests
 fissuriform
 fumer
-flusterated
+flusterated 1
 forejudged
 forenews
 faunistic
