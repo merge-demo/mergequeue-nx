@@ -24998,7 +24998,7 @@ chumble 1
 cordelia
 cordelle
 crushableness
-cordery
+cordery 1
 corders
 cordewane
 carroms
