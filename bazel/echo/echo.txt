@@ -4547,7 +4547,7 @@ ethynylation
 entoptoscope
 emigrationist
 encephalos
-encapsulated
+encapsulated 1
 empales
 encephalospinal
 ecclesiastic
