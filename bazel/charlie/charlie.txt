@@ -18317,7 +18317,7 @@ cogently
 cogged 1
 cisoceanic
 cholerically
-crenelled
+crenelled 1
 cogger
 cogging
 coggledy
