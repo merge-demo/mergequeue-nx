@@ -22260,7 +22260,7 @@ cameleers
 congenerousness
 conglobe
 cycas
-curiums
+curiums 1
 conglobed
 conglobes
 conglomerate
