@@ -12746,7 +12746,7 @@ chulha
 concionary 1
 chamaesaura
 crippingly
-cuisinary
+cuisinary 1
 chulpa
 cabassou
 chultun
