@@ -10557,7 +10557,7 @@ cotwist
 chillest
 cystocarpic
 chilli
-crank
+crank 1
 costumey
 chilly
 compartmentalize 1
