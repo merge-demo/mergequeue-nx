@@ -5245,7 +5245,7 @@ almond
 affidavy
 acosmic
 advertisements
-affied
+affied 1
 abjured
 applaudingly
 affiliable
