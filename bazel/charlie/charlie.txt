@@ -29845,7 +29845,7 @@ crosette
 carnalism
 crosiered
 capsumin
-cross
+cross 1
 circummeridian
 cablets
 coronillo
