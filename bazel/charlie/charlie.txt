@@ -19905,7 +19905,7 @@ contriturate
 clayish
 comity 1
 comitia
-comitial
+comitial 1
 colortype
 comitium
 cuscuses
