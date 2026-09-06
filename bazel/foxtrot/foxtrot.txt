@@ -813,7 +813,7 @@ fumingly
 faun
 fenny
 frogeyes
-formfitting
+formfitting 1
 fixatives 1
 fluctuations
 fanjet
