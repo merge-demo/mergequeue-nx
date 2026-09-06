@@ -6688,7 +6688,7 @@ berkeleianism
 berkelium
 berkovets
 berkovtsi
-bedull
+bedull 1
 bayesian
 berlin
 browsability
