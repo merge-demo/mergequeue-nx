@@ -5108,7 +5108,7 @@ freighting
 falasha 1
 forebespeak
 fatherling
-funking 1
+funking 2
 forbidding 1
 forthy
 fireweed
