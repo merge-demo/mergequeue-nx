@@ -10077,7 +10077,7 @@ feudatary
 firster
 foredecree
 formalise
-fearfulness
+fearfulness 1
 flightshot
 fittyfied
 fluoborite
