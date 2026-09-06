@@ -12509,7 +12509,7 @@ dentinitis
 diopsidae
 daube
 dysmerogenetic 1
-discorporate
+discorporate 1
 disincarceration
 delphinoid
 disincarnate
