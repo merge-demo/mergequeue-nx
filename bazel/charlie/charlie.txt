@@ -17419,7 +17419,7 @@ cupbearer
 cobaea
 corbeil
 cotters
-cobalamin
+cobalamin 1
 comb
 cobalt
 cobaltamine
