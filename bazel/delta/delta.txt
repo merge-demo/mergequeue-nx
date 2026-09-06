@@ -12924,7 +12924,7 @@ deepwatermen
 dairy
 disimprovement
 derencephalus
-deutoplasmic
+deutoplasmic 1
 dilatableness
 disodium
 daunii
