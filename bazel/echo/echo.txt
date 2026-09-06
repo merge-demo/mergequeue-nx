@@ -5544,7 +5544,7 @@ earwort
 exorcising
 experimenting
 evertors
-exoterics
+exoterics 1
 espiritual
 enfeebles 1
 enfeebling
