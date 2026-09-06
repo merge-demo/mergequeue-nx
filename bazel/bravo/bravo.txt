@@ -8072,7 +8072,7 @@ bicuspid
 bruxism
 brast
 burrobrush
-bid
+bid 1
 bidactylous
 biddability
 biddably
