@@ -7910,7 +7910,7 @@ delphinite
 draconianism
 desperadoes
 defrock
-droughty
+droughty 1
 diminuting
 degringolade
 dewlapped
