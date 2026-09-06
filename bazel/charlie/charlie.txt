@@ -26315,7 +26315,7 @@ collusiveness
 cicerone
 costosternal
 costothoracic
-costotome
+costotome 1
 carbonnieux
 costotomy
 costotrachelian
