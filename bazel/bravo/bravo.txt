@@ -10604,7 +10604,7 @@ bajulate
 blaze
 blazers
 bursts
-blazes
+blazes 1
 blazy
 borzois
 bridgeheads

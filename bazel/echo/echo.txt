@@ -5971,7 +5971,7 @@ enhunger
 emissary
 eruc
 erythrose
-euflavine
+euflavine 1
 epicondylitis
 expectorates
 enframing 1
