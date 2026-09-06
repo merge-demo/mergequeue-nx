@@ -12230,7 +12230,7 @@ dysfunctional
 documentaries
 dysfunctioning
 doweling
-deltoidal
+deltoidal 1
 durous
 detector
 dampers
