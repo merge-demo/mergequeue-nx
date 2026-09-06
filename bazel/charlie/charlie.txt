@@ -19677,7 +19677,7 @@ countercharged
 comatoseness
 comatosity
 comatula
-combaron
+combaron 1
 combasou
 combat
 criminal
