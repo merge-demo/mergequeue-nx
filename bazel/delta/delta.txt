@@ -2398,7 +2398,7 @@ disguisements
 diplontic
 dismantlement
 dayakker
-deciduity
+deciduity 1
 daver
 deciduoma 1
 discommendable
