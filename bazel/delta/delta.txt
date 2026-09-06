@@ -8428,7 +8428,7 @@ dialog
 ditties
 dialogers
 dexies
-deflater
+deflater 1
 devide
 deconcentrator
 deported
