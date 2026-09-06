@@ -22352,7 +22352,7 @@ astrodiagnosis
 astrodynamic
 androphyll
 afterbodies
-amphitron
+amphitron 1
 achromatolysis
 africanist
 anthropolitic
