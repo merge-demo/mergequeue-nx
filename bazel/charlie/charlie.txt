@@ -1554,7 +1554,7 @@ calliphorine 1
 callipygous
 callippic
 callirrhoe
-callisaurus
+callisaurus 1
 callisteia
 callistephus
 callisthenic
