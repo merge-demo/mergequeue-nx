@@ -27800,7 +27800,7 @@ coxes
 creeper
 chondrogeny
 coxite
-coxitis
+coxitis 1
 crocin
 checkouts
 coupee
