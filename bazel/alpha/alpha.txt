@@ -11479,7 +11479,7 @@ argolic
 antiphilosophism
 acaulose
 arteriolar
-adenophore
+adenophore 1
 appetites
 algoristic
 alderman
