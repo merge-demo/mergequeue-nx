@@ -7972,7 +7972,7 @@ dedicature
 disincorporation
 drowse
 diagnosticated
-dorsibranch
+dorsibranch 1
 drawpoint
 drunkometer
 dextroglucose
