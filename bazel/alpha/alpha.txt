@@ -9619,7 +9619,7 @@ abominates
 arachnoid
 anaglyptography
 atonalist
-abridges
+abridges 1
 aluminate
 alumines
 archicontinent
