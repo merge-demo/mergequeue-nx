@@ -12524,7 +12524,7 @@ azoturia
 aerography
 anticreator
 avidities
-anemony
+anemony 1
 anaspida 1
 anguillidae
 anemopathy
