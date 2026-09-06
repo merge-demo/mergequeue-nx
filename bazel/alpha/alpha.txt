@@ -8563,7 +8563,7 @@ alleviater
 airproofing
 attrectation
 academise
-awns
+awns 1
 advisatory
 alkahestic
 admonishment
