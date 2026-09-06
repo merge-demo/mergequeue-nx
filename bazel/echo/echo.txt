@@ -6788,7 +6788,7 @@ epithumetic
 engluts
 enjoys
 entireness
-ethologic
+ethologic 1
 evading
 echoized
 entiris
