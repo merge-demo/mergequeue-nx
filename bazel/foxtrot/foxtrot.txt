@@ -10748,7 +10748,7 @@ frustum
 frutage 1
 faithlessly
 footraces
-frutex
+frutex 1
 fruticetum
 fecklessness
 foreinclined
