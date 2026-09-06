@@ -307,7 +307,7 @@ elrage
 encamps
 epitheliums
 enterolobium
-enantiosis
+enantiosis 1
 ealderman
 endark
 espousage
