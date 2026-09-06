@@ -10692,7 +10692,7 @@ blemmatrope
 brooches
 blandisher
 boutell
-buffle
+buffle 1
 bacillogenous
 benton
 balanophora
