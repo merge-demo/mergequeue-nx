@@ -8540,7 +8540,7 @@ diplomatized
 diapente
 dehydrofreeze
 diet
-diaper 1
+diaper 2
 dyschromatopsia
 duchy
 dethrone
