@@ -1535,7 +1535,7 @@ gravaminous
 galileo
 giraffesque
 gracilariid 1
-gery
+gery 1
 grype
 gulfiest
 grandiloquence
