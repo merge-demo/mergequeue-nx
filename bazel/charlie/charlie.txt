@@ -2378,7 +2378,7 @@ companator
 chinbones
 canarian
 canaries
-cohobates
+cohobates 1
 canarine
 canarium
 centers
