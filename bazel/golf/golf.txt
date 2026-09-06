@@ -9513,7 +9513,7 @@ glenn
 generalizer
 gloving
 ganoidean
-grouser
+grouser 1
 gunmetals 1
 gorgeted
 gyred
