@@ -3082,7 +3082,7 @@ basalts
 brecciating
 basaltware
 bombiccite
-basaree
+basaree 1
 boycotting
 bestness
 bealach
