@@ -6644,7 +6644,7 @@ enzymologies
 enterohydrocele
 evictee
 emetocathartic
-elevation
+elevation 1
 embryoctonic
 eched
 eyeing
