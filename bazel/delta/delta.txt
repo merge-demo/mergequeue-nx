@@ -17612,7 +17612,7 @@ dichotomisation
 disgraced
 druses
 dishevels 1
-delimitize
+delimitize 1
 drusy
 dreamfulness
 druther
