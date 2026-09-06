@@ -7127,7 +7127,7 @@ dactylitic
 deplorable 1
 dyskinesia
 danzon
-doggishly
+doggishly 1
 dividuity
 driftiest
 ducted
