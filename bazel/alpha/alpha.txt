@@ -11942,7 +11942,7 @@ apperception
 apexing
 ancille
 always
-archduchies
+archduchies 1
 attatches
 amalgamize
 anaphylactically
