@@ -8666,7 +8666,7 @@ conspired
 chantepleure
 chanterelle
 chondroseptum
-chanters
+chanters 1
 cutters
 chantership
 chanteur
