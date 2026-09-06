@@ -2382,7 +2382,7 @@ aldopentose
 acinary
 autolyze
 abridgedly
-autocondensation
+autocondensation 1
 acinetic
 atveen 1
 assigned
