@@ -3872,7 +3872,7 @@ ethnobotanical
 emesis
 entrapment
 easiness
-exemplarily
+exemplarily 1
 exosculation
 effeminacy
 exallotriote
