@@ -7605,7 +7605,7 @@ devaloka
 drenched
 declinable
 devaluates
-droppingly
+droppingly 1
 durandarte
 devalues
 devas
