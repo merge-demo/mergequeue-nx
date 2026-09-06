@@ -9812,7 +9812,7 @@ gorce
 grantor
 gue
 globulinuria
-glossemes
+glossemes 1
 glares
 gnathostoma 1
 guahiban
