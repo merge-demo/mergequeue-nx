@@ -14705,7 +14705,7 @@ cites
 citess
 citharas
 citharexylum
-citharist
+citharist 1
 coprophiliac
 coesite
 cygnets
