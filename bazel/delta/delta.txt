@@ -9306,7 +9306,7 @@ dietitians
 dtset
 diplomat 1
 dietotherapy
-dietotoxic
+dietotoxic 1
 detersive
 depletable
 diluvions
