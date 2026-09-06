@@ -12256,7 +12256,7 @@ cabrito
 chirimoyer
 carrytale
 coynesses
-carpentered
+carpentered 1
 catnips
 circumconic
 compensative
