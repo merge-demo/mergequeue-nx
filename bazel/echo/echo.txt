@@ -2085,7 +2085,7 @@ encumberer
 euthyneural
 elapine
 endysis
-eutectics
+eutectics 1
 edictal 1
 entraps
 enchainements
