@@ -10952,7 +10952,7 @@ blinter
 batel
 blocky
 brassage
-blintzes
+blintzes 1
 blacksmiths
 bafta
 billowy
