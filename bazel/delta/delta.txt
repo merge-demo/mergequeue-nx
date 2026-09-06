@@ -16198,7 +16198,7 @@ drupetum
 draconic
 dialector
 deerskins
-dizens
+dizens 1
 deallocates
 defats
 doweress
