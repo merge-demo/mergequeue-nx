@@ -8044,7 +8044,7 @@ demonetising
 dactylist
 dhanuk
 druxey
-dharma
+dharma 1
 dharmas
 dolorously
 discombobulated
