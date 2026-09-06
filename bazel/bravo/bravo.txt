@@ -2062,7 +2062,7 @@ barefooted 1
 bollixing 1
 bannat
 baulky
-bannerline
+bannerline 1
 bannerole 1
 blossomry
 bronchus
