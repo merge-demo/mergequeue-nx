@@ -5788,7 +5788,7 @@ ensalada
 englanders
 engleim
 enshrines
-exchangeability
+exchangeability 1
 extranidal
 exhilarating
 exterritoriality
