@@ -14552,7 +14552,7 @@ diachronicness
 durio 1
 divisionary
 duplicately
-disposing
+disposing 1
 domine
 detents
 divisions
