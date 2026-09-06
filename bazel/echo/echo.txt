@@ -4524,7 +4524,7 @@ evenglome 1
 endoerythrocytic
 entothorax
 embiidae 1
-encephalomyelitic
+encephalomyelitic 1
 epochally
 extramorainal
 easement
