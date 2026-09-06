@@ -16465,7 +16465,7 @@ acrochordidae
 adulterize
 anuretic
 anury
-anuric
+anuric 1
 arthrogenous
 arctoidea
 airish
