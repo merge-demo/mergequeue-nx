@@ -4283,7 +4283,7 @@ footrill
 freudism
 fatiguability
 fulsomely
-ferdwit
+ferdwit 1
 foreshortens
 foiblesse
 foreordains
