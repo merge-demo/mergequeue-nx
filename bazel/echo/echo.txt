@@ -3789,7 +3789,7 @@ exercising
 embussing
 espigle
 enecate
-explored
+explored 1
 emceeing
 escalader 1
 enquirer
