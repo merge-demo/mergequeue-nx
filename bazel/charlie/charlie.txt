@@ -7257,7 +7257,7 @@ crevassed
 cylinderer
 cancrizans
 centum
-colorcaster
+colorcaster 1
 cancellate
 copopsia
 catarinite
