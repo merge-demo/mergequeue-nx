@@ -12106,7 +12106,7 @@ catallactically
 chowry
 chowries
 chroatol
-chows
+chows 1
 causer
 crambo
 chancellorate
