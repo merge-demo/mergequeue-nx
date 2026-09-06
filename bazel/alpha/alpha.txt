@@ -18147,7 +18147,7 @@ aquarial 1
 antehall
 adepter
 ambracan
-anemometers
+anemometers 1
 adenosclerosis
 aeolid
 allowably
