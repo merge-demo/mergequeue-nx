@@ -7890,7 +7890,7 @@ giglots 1
 grammatite
 gumbo
 glossotherium
-gelatification
+gelatification 1
 gramme
 ginned 1
 groggiest
