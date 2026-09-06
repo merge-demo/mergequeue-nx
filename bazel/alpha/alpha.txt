@@ -22930,7 +22930,7 @@ apprentices 1
 arachnids
 anatoxins
 ahriman
-antimodel
+antimodel 1
 alcoholising
 adverbialize
 ausformed
