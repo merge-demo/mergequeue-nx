@@ -4645,7 +4645,7 @@ gorillaship 1
 goatbush
 gammarid
 gentility
-gunlocks
+gunlocks 1
 gaudy
 guerinet
 glossitic 1
