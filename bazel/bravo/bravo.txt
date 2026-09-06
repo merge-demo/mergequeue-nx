@@ -13714,7 +13714,7 @@ bouldery
 bouser 1
 bousouki
 bousoukia
-brunswick
+brunswick 1
 boustrophedon
 bloomer
 bircher
