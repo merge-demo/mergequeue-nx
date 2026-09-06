@@ -5980,7 +5980,7 @@ catheterized
 commonality
 colluded
 cerastium
-catheterizes
+catheterizes 1
 cartopper
 cathetusti
 cathexes
