@@ -9926,7 +9926,7 @@ fittable
 friezer
 fiercely
 frig
-fossilated
+fossilated 1
 fantoms
 fumatorium
 freckled
