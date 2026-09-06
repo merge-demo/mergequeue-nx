@@ -16320,7 +16320,7 @@ dedolency
 decanate
 diarchy
 drubs
-duratives
+duratives 1
 dorothy
 daffled
 depictured
