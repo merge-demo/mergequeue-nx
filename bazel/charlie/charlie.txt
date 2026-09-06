@@ -15925,7 +15925,7 @@ comitant
 countertrippant
 cleanly
 cleped
-clepsydra
+clepsydra 1
 contorniate
 clepsine
 condemnatory
