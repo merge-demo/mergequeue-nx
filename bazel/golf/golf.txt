@@ -888,7 +888,7 @@ gametangia
 gerontomorphosis
 grillwork
 gotha
-gametocyst 1
+gametocyst 2
 glycoluril
 gametocyte
 grayout
