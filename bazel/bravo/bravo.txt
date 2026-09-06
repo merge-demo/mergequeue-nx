@@ -3455,7 +3455,7 @@ bovine
 basts
 banuyo
 basural
-bovarism
+bovarism 1
 basuto
 bancos 1
 buphaga
