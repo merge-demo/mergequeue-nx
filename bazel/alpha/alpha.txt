@@ -20522,7 +20522,7 @@ arteriostenosis
 admix
 arteriotrepsis
 agyria
-amman
+amman 1
 androscoggin
 antilytic
 aleurobius
