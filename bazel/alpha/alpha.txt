@@ -11307,7 +11307,7 @@ amphisporangiate
 amphistoma
 achillean
 asyllabic
-apriori
+apriori 1
 aguador
 amphitene
 amphitheatre
