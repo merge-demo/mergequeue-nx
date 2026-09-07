@@ -3400,7 +3400,7 @@ adaptive
 attending
 ankou
 apostemation
-argosies
+argosies 1
 alliaria
 adaptor
 adaptorial
