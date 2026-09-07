@@ -5930,7 +5930,7 @@ aeciostage
 aggrammatism
 approachability
 aggrandised 1
-abasias
+abasias 1
 aggrandising
 altimettrically
 afterglows
