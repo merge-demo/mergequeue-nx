@@ -11581,7 +11581,7 @@ alefnull
 abvolts 1
 albinoism
 anacephalize
-amanitin
+amanitin 1
 aiery
 amylopsin
 anacharis
