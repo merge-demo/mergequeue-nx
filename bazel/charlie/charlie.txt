@@ -88,7 +88,7 @@ cabbalistic 1
 catamaran
 cephaeline
 coemptor
-cabbed
+cabbed 1
 cubics
 cabby
 cabbie
