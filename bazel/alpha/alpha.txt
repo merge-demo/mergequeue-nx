@@ -3938,7 +3938,7 @@ adjured
 amygdalotome
 aristotelism
 absconding
-adjures
+adjures 1
 aspersorium
 autotyphization
 acanthine
