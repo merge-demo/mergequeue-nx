@@ -867,7 +867,7 @@ erythrocytolysin 1
 electrocution
 encomiastical
 endophyte
-entailed
+entailed 1
 ectomorph
 ectoparasite
 exemptionist
