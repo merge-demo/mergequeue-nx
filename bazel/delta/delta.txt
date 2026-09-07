@@ -1661,7 +1661,7 @@ democratizes
 dozening
 dentimeter
 deamidation
-deaminase
+deaminase 1
 digitize
 daws
 daw
