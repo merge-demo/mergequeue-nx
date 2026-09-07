@@ -10222,7 +10222,7 @@ flunkers
 funders
 frogmarch
 flowerful
-flossier
+flossier 1
 frighted
 franconian
 finespun
