@@ -3027,7 +3027,7 @@ elissa
 expeditor
 eyereach
 ebenezer
-elitist
+elitist 1
 elytrocele
 epidotes
 elytroposis
