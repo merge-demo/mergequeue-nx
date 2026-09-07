@@ -10580,7 +10580,7 @@ grenadiership 1
 grommets 1
 goads
 garnisher
-grilly
+grilly 1
 gymnogene
 geologic
 gelds
