@@ -2087,7 +2087,7 @@ elapine
 endysis
 eutectics
 edictal 1
-entraps
+entraps 1
 enchainements
 ecphractic
 epi
