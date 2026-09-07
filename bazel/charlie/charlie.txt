@@ -25912,7 +25912,7 @@ capitalization
 congas
 coeternally
 cortexes
-cortication
+cortication 1
 cortices 1
 corticiferous
 cordula
