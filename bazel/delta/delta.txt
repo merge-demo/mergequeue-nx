@@ -687,7 +687,7 @@ doumaist
 distend
 distributes
 damselfishes 1
-damsels
+damsels 1
 dan
 dulotic
 disembowelling
