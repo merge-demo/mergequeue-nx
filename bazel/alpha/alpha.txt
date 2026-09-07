@@ -24064,7 +24064,7 @@ antinationalism
 antilacrosse
 autodialling
 aboard
-alexipyretic
+alexipyretic 1
 autoagglutination
 autodials
 astonishments
