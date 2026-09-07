@@ -9302,7 +9302,7 @@ fruticeta
 flukey
 forsado
 fluidise
-faulting
+faulting 1
 flappers
 forty 1
 foveae
