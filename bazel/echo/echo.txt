@@ -1557,7 +1557,7 @@ epiphysitis
 empaling
 effigiation
 eggnog
-exareolate
+exareolate 1
 embrasures
 eggrolls
 eggs
