@@ -29507,7 +29507,7 @@ culpatory
 crystallometric
 crystallose
 checkerboard
-coevality
+coevality 1
 crystallurgy
 ceruminiferous
 companion
