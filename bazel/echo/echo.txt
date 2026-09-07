@@ -3237,7 +3237,7 @@ elude
 equant 1
 eludes
 educive
-extroversively
+extroversively 1
 exaltedly
 eludible
 enswathes
