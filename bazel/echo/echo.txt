@@ -10674,7 +10674,7 @@ entwine
 excitory
 endocytosis
 estragon
-easternism
+easternism 1
 eugenically
 eugenie
 eugenism
