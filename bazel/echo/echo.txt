@@ -11796,7 +11796,7 @@ elusion
 ensignship 1
 eurymus
 endorsingly
-exasperatedly
+exasperatedly 1
 eversion 1
 entrees
 electrocatalysis
