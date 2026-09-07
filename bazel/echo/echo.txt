@@ -3382,7 +3382,7 @@ egal
 excursioner
 envelopes
 encyclopaedial
-embannered 1
+embannered 2
 emetine 1
 equivokes
 eremopteris
