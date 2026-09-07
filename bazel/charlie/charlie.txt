@@ -12732,7 +12732,7 @@ chugged
 chuggers
 ceylonese
 chugging
-centilitre
+centilitre 1
 chuje
 clockmaker
 cajava
