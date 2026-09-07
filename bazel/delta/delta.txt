@@ -11423,7 +11423,7 @@ dastardy
 dockyard
 dissuader
 demivotary
-determinoid
+determinoid 1
 debug
 discloser
 disclosive
