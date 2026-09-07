@@ -15471,7 +15471,7 @@ cardionosus
 certification
 censorate
 correption
-clarist
+clarist 1
 clarities
 coasts
 calyculi
