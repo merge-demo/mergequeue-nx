@@ -9050,7 +9050,7 @@ bipectinated
 biopotential
 biopsy
 biopsic
-bailliage
+bailliage 1
 byssaceous
 bespice
 benightmare
