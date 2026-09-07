@@ -4952,7 +4952,7 @@ aerolites
 avulsions
 admonitioner 2
 antepalatal
-aerolithology
+aerolithology 1
 aerolitic
 aerological
 antepartum
