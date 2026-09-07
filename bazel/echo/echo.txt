@@ -1488,7 +1488,7 @@ exposal
 embolium
 embarrased
 empathic
-etui
+etui 1
 epizootically 1
 effused
 extemporaneously
