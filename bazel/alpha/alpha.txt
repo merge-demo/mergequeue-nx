@@ -14189,7 +14189,7 @@ anterethic
 ancor
 alismoid
 alexiterical
-antergic
+antergic 1
 aspic
 autodetector
 atlee
