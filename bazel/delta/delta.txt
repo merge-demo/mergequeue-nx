@@ -4545,7 +4545,7 @@ dukhobor
 dynastically
 demilawyer
 diwans
-demilitarisation
+demilitarisation 1
 demilitarised
 demilitarising
 demilitarization
