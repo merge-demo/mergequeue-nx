@@ -12873,7 +12873,7 @@ erethisms
 exsert
 endamoeba
 expandedly
-engrace
+engrace 1
 endsheet
 excommunicating
 elvish
