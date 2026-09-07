@@ -8412,7 +8412,7 @@ detentes
 diallagic
 dogmaticalness
 diallagite
-deadwort
+deadwort 1
 dt
 dishonorably
 diallelus
