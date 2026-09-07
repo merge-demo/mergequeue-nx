@@ -28873,7 +28873,7 @@ chubasco
 crumblement
 catharization
 crevet
-crevette
+crevette 1
 creviced
 chorus
 cussers
