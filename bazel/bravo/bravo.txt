@@ -15694,7 +15694,7 @@ batful
 blennogenic
 butyric
 broadsider
-burnished
+burnished 1
 borrovian
 begroaned
 botanophile
