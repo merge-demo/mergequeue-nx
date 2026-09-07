@@ -11596,7 +11596,7 @@ fargite
 fussing
 fontinal 1
 fideicommissary
-forced
+forced 1
 fraternal
 febrifugal
 forlornly
