@@ -775,7 +775,7 @@ gutter 1
 gluck
 gutturize
 galvanothermometer
-ggr
+ggr 1
 galliformes
 ginneries
 goose
