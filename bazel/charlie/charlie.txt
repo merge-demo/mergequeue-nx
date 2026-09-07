@@ -17315,7 +17315,7 @@ coarrangement
 comptonite
 constrains
 cadis
-coarsely
+coarsely 1
 cranched
 coarsened
 circumsail
