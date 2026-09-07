@@ -6705,7 +6705,7 @@ diascopy
 deadhead
 desiderata
 debagged
-digamists
+digamists 1
 declivitously
 disagreement
 dreyfusist
