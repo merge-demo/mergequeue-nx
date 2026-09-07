@@ -27080,7 +27080,7 @@ counterremonstrant
 counterreplied
 clypeastroida
 cladocerous
-counterreplies
+counterreplies 1
 counterreprisal
 counterrevolutionary
 cauterize
