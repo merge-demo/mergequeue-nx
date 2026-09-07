@@ -13904,7 +13904,7 @@ anserines
 anspessade 1
 assyriologue
 anticorn
-askaris
+askaris 1
 amninions
 anstosse
 adolphus
