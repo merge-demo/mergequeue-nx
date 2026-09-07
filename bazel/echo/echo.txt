@@ -6052,7 +6052,7 @@ empiry
 eyrie
 estoque
 expromissor
-endosarcs
+endosarcs 1
 expire
 ere
 epiglottises
