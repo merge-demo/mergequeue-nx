@@ -9150,7 +9150,7 @@ faired 1
 florulae
 feoffees
 flamineous
-frolicked
+frolicked 1
 fabrications
 fungosity 1
 freights
