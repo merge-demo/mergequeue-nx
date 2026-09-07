@@ -22672,7 +22672,7 @@ athermanous
 alley
 aerobic
 atheromatosis
-atheroscleroses
+atheroscleroses 1
 archbuffoon
 ateuchi
 atherosclerosis
