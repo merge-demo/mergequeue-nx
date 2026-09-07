@@ -13792,7 +13792,7 @@ exacuate
 egyptologist
 extortions
 establishmentarianism
-extortive
+extortive 1
 equiped
 epicheirema
 engraftment
