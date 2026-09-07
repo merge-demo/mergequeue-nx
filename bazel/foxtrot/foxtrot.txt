@@ -1309,7 +1309,7 @@ functionarism
 foreconsent
 feculency 1
 fulvous
-flear
+flear 1
 flirtation
 fluoridised
 flookan
