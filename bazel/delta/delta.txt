@@ -5583,7 +5583,7 @@ depended
 dolichopellic
 dependence
 desensitizes
-dependingly
+dependingly 1
 drouthiness
 depends
 dallack
