@@ -1465,7 +1465,7 @@ flittern
 flix
 felicitators
 font
-flavorings
+flavorings 1
 fruiter
 favourable
 friedman
