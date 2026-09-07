@@ -14927,7 +14927,7 @@ digammas
 dominates
 descrying
 dracontine 1
-dumbbells
+dumbbells 1
 defendants
 deridingly
 dispensible
