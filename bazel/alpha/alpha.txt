@@ -5931,7 +5931,7 @@ aggrammatism
 approachability
 aggrandised 1
 abasias
-aggrandising
+aggrandising 1
 altimettrically
 afterglows
 aggrandize
