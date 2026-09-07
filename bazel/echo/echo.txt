@@ -2564,7 +2564,7 @@ eatable
 ezra
 emptiable
 electrometer
-exstrophy
+exstrophy 1
 earthgrubber
 electrometrical
 electromobile
