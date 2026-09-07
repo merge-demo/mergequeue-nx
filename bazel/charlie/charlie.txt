@@ -5213,7 +5213,7 @@ casings
 casiri
 casita
 casket
-corpl
+corpl 1
 coemanate
 carmine
 conflation
