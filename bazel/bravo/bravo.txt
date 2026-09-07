@@ -1536,7 +1536,7 @@ balldom
 balled
 batterer
 blauboks
-baller
+baller 1
 beclowning
 ballerina
 ballet
