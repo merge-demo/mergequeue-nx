@@ -17703,7 +17703,7 @@ behove
 bismosol
 butteriness
 biont 1
-beanos
+beanos 1
 braconid
 bankeress
 broach
