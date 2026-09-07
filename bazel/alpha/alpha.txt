@@ -9015,7 +9015,7 @@ annotates
 acidified
 anthroropolith
 angelon
-allineate
+allineate 1
 annulata 1
 akoluthia
 algebraized
