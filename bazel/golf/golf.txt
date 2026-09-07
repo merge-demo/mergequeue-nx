@@ -7780,7 +7780,7 @@ gnomish
 gralline
 gadman
 gray
-getaway
+getaway 1
 greasily
 goosishly
 gemmative
