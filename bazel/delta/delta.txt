@@ -5820,7 +5820,7 @@ deformism
 deposito
 depositor
 daytime
-deleatur
+deleatur 1
 dichronous
 dishful
 dysraphia
