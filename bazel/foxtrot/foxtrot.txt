@@ -4839,7 +4839,7 @@ finlet
 fatagaga
 factorylike
 festinately
-fructiparous
+fructiparous 1
 feasting
 fascicular
 furnishing
