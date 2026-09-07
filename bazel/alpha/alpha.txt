@@ -21574,7 +21574,7 @@ amoraic
 agonizing
 accountancy
 aelurophobia
-apoplectically
+apoplectically 1
 aspirating
 aspiration
 aspiree
