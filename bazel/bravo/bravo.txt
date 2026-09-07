@@ -5522,7 +5522,7 @@ blotted
 beisance 1
 bouvier
 broadloom
-bejant
+bejant 1
 blintz
 bejel
 brawly
