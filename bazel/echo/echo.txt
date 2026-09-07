@@ -11085,7 +11085,7 @@ expunging
 endosome
 edo
 economiser
-egoity
+egoity 1
 exulceratory
 ekacaesium
 epistemolog

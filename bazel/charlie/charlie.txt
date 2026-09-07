@@ -7665,7 +7665,7 @@ carreta
 cereous 1
 celioschisis
 cerebellitis
-chark
+chark 1
 cererite
 ceres
 curatical
