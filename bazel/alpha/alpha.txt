@@ -16340,7 +16340,7 @@ aperitive
 antiuratic
 antiurease
 acetazolamide
-autotrepanation
+autotrepanation 1
 anatexis
 autophytography
 anemometrograph
