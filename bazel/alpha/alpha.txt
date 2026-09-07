@@ -9020,7 +9020,7 @@ annulata 1
 akoluthia
 algebraized
 aminobenzine
-allotments
+allotments 1
 allotransplantation
 anapsidan
 aden
