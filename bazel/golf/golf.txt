@@ -9165,7 +9165,7 @@ gripgrass
 grouchily
 gora
 gridding 1
-geographically
+geographically 1
 granulates
 glared
 goosed
