@@ -9847,7 +9847,7 @@ foredestine
 foxily
 funnelform 1
 fibrosarcoma
-flexanimous
+flexanimous 1
 flexibleness
 flinger
 fabianism 1
