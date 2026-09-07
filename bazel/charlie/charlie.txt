@@ -8244,7 +8244,7 @@ cusconine
 calabrasella
 chalcedonyx
 chalchuite
-chalcidian
+chalcidian 1
 chalcidicum
 caird 1
 chalcidoid
