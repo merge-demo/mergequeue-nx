@@ -6633,7 +6633,7 @@ antidomestically
 atnah
 aiguille
 aiguillette
-anthropoids
+anthropoids 1
 aquiline
 antinuke
 agorae
