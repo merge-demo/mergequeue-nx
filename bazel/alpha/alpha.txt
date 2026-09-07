@@ -11793,7 +11793,7 @@ anticephalalgic
 analgias
 akeki
 analgic
-antimalarial
+antimalarial 1
 anticeremonialism
 altocumulus
 antidysuric
