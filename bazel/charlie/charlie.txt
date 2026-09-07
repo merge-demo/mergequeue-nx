@@ -26841,7 +26841,7 @@ captivately
 counterfeisance
 counterfeit
 counterfeitly
-captaculum
+captaculum 1
 cudava
 chilopod
 counterfeits
