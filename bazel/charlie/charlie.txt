@@ -2857,7 +2857,7 @@ carboxyhemoglobin
 cetorhinoid
 canonizer
 canonizes
-canonizing
+canonizing 1
 churchreeve
 canonry
 canons
