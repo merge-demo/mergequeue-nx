@@ -24485,7 +24485,7 @@ copaifera
 cupfuls
 clr
 courtliness
-circovarian
+circovarian 1
 clavis
 copaivic 1
 copaliferous
