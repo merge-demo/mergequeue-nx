@@ -1985,7 +1985,7 @@ earthen
 etherialize
 exteriorate
 elastics
-exothermal 1
+exothermal 2
 eagle
 economizing
 eker
