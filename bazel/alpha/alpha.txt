@@ -11831,7 +11831,7 @@ analyzes
 analkalinity
 anallagmatic
 anallantoidean
-acclimature
+acclimature 1
 amitoses
 antipedobaptist
 antisociality
