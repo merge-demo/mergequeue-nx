@@ -4063,7 +4063,7 @@ dynam
 dustoor 1
 dominance
 delice
-dualistic
+dualistic 1
 dogcarts
 delicense
 desiccant
