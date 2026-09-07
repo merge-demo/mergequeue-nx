@@ -1255,7 +1255,7 @@ fearful
 flatten
 filmdom
 frostier
-fasti
+fasti 1
 filariform
 foreordinated
 fermentative
