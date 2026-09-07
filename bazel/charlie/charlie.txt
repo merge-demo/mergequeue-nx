@@ -20899,7 +20899,7 @@ comprehender
 coolamon
 carnivallike
 comedos
-comprehense
+comprehense 1
 comprehensibility
 cherkess
 comprehensibly
