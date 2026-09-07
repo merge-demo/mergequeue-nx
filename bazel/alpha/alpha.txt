@@ -23304,7 +23304,7 @@ attrite
 attrited
 avania
 aristolochin
-attriteness
+attriteness 1
 archduke
 apoapsides
 alloisomer
