@@ -14410,7 +14410,7 @@ amnemonic
 almugs
 amplexicauline
 anthracitic
-apprehensively
+apprehensively 1
 acclaims
 anthracic
 amoyese
