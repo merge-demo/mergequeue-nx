@@ -2010,7 +2010,7 @@ dictation
 dacryocele
 decadrachma
 decadrachmae
-dumbed
+dumbed 1
 dourer
 dimorphic
 desugars
