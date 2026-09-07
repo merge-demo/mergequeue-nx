@@ -2228,7 +2228,7 @@ gaster
 gastrocatarrhal
 goodbyes
 ganefs
-gnomonology
+gnomonology 1
 generosities
 galactohemia
 gleit
