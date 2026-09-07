@@ -15794,7 +15794,7 @@ counterfeitness
 clearcole
 clearedness
 clearheadedly
-cardcases
+cardcases 1
 calving
 crawly
 cataclysmist
