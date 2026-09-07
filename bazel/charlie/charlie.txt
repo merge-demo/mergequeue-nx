@@ -17697,7 +17697,7 @@ cunjer 1
 cockal
 carboloy
 counternoise
-cockpit
+cockpit 1
 couched
 comaking
 chemosmoic
