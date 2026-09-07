@@ -6235,7 +6235,7 @@ goaty
 glissade
 gonfalons 1
 gastroenteroanastomosis
-gowkedly
+gowkedly 1
 galactosan
 goatsbeard
 guestimate
