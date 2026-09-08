@@ -7025,7 +7025,7 @@ centaurdom
 cuvette
 centaurea
 carretta
-cantoned
+cantoned 1
 clitellum
 centauress
 centaury
