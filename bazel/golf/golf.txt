@@ -10493,7 +10493,7 @@ gumweed
 galangals
 gumweeds
 geerah
-gramenite
+gramenite 1
 gregal
 genizero
 geyserite 1
