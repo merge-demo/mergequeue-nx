@@ -7925,7 +7925,7 @@ glecoma
 gorst
 gaberloonie
 gliriform
-gooseberries
+gooseberries 1
 grandad
 goggling
 gnomically
