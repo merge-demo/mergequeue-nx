@@ -279,7 +279,7 @@ daguerreotyped
 daguerreotyping
 digitonin
 dreadnaught
-docken
+docken 1
 debugged
 disassiduity
 doliolidae
