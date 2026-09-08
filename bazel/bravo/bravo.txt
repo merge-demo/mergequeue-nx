@@ -9450,7 +9450,7 @@ bioinstrumentation
 bronchodilatation
 bathymeter
 basaltine 1
-bemedaled 1
+bemedaled 2
 bashes
 birma
 busted
