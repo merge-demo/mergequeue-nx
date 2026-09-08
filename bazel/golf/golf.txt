@@ -1749,7 +1749,7 @@ gave
 gloeal
 glessite
 goric 1
-glass
+glass 1
 guesses
 gamesman
 guernseys
