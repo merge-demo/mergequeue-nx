@@ -6033,7 +6033,7 @@ ambiversive
 animalcular
 anatomists
 arioso
-agility
+agility 1
 auxotrophic
 antemortal
 agilities
