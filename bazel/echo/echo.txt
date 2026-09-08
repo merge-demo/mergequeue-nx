@@ -3610,7 +3610,7 @@ embows
 exanimate
 enculturate
 entamoeba
-encyclopaediac 1
+encyclopaediac 2
 effusive
 equivalents
 enchainement
