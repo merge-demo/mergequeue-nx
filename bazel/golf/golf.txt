@@ -5554,7 +5554,7 @@ gourd
 glutition
 globigerinas 1
 gaminish
-greens
+greens 1
 gemutlichkeit
 gorses
 graysbies
