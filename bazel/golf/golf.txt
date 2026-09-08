@@ -3422,7 +3422,7 @@ gyromancy
 gentisate
 giggit
 geometrized
-glossolaryngeal
+glossolaryngeal 1
 globularia
 gourmets
 gerrymander
