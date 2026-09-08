@@ -11842,7 +11842,7 @@ eulogization
 extromit
 excalceate
 emasculatory
-excalceation
+excalceation 1
 excalibur
 esophagectasia 1
 erythrophore
