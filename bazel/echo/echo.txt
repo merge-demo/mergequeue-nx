@@ -9866,7 +9866,7 @@ eucalyptian
 expedite
 expletiveness
 eupepsy
-erostrate
+erostrate 1
 experimentalize
 epeeists
 ependymoma
