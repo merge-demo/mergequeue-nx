@@ -12288,7 +12288,7 @@ bolus
 bomb
 barratrous 1
 bombacaceae
-bombace
+bombace 1
 behang
 bioscientist
 bombardiers
