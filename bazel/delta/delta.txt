@@ -10647,7 +10647,7 @@ diploplacular
 decarbonize
 dotingly
 dustcoat
-degeneration
+degeneration 1
 diploplaculate
 degarnish
 dolomize
