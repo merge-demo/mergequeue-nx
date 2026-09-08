@@ -6552,7 +6552,7 @@ endotrachelitis
 ehlite
 exhauster
 enwrapt
-earsore
+earsore 1
 epaenetic
 entanglements
 extraplanetary
