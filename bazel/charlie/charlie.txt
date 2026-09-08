@@ -26718,7 +26718,7 @@ counterattractive
 costulation 1
 counteravouch
 counteravouchment
-counterbalanced
+counterbalanced 1
 crackerjack
 counterbarrage
 checkmark
