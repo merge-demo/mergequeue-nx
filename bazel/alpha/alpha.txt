@@ -3844,7 +3844,7 @@ amphithuron
 acetabuliform
 adipinic
 autotransplant
-adipocellulose
+adipocellulose 1
 adipocere
 adipoceriform
 adipoid
