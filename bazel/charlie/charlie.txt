@@ -28811,7 +28811,7 @@ carcinosarcomas
 cloyed
 concumbency
 cress
-cleanable
+cleanable 1
 cassena
 countertail
 cresselle
