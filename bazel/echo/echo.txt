@@ -12325,7 +12325,7 @@ etymologicon
 exercitation 1
 elecampane
 effortless
-equilin
+equilin 1
 elvanitic
 exercitorian
 effront
