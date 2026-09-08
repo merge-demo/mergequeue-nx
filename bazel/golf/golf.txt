@@ -4307,7 +4307,7 @@ gelidness
 gorgonia
 gyneolater 1
 guinfo
-gelsemia 1
+gelsemia 2
 germicide
 gynetype
 gymnadenia 1
