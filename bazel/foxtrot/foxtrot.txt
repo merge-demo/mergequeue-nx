@@ -6200,7 +6200,7 @@ fairgoing
 flaxes
 fulgurate
 foretops
-feebling
+feebling 1
 frequency
 flagmaker
 furbished
