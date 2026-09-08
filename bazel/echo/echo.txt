@@ -5671,7 +5671,7 @@ exhibitorial
 exquisitism
 enframed
 elaphebolion
-ethnarch
+ethnarch 1
 eagres
 ellipsonic
 enfranchisements
