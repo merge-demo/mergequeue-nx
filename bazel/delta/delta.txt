@@ -4835,7 +4835,7 @@ defenestrates 1
 demonetize
 derotrema
 dextrous
-dyscrasing
+dyscrasing 1
 dermatosis
 dustermen
 dilleniad
