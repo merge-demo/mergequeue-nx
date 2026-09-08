@@ -4739,7 +4739,7 @@ fricatrice
 fumers 1
 flacianist
 fife
-foresey 1
+foresey 2
 forerank
 faldfee
 forthink
