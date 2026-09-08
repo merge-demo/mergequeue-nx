@@ -2320,7 +2320,7 @@ evangelicalness
 electrizable 2
 electrization
 enterohepatitis
-excavated
+excavated 1
 epicotyl
 errorful
 escalate
