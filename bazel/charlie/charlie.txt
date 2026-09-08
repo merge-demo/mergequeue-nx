@@ -25199,7 +25199,7 @@ craylet
 coachlet
 corymblike
 corymbose
-capitally
+capitally 1
 codifiability
 cystidia
 cuffy
