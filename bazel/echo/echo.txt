@@ -9758,7 +9758,7 @@ erythronium
 elamp
 eurhythmy
 exitious
-enthusiast
+enthusiast 1
 expressure
 essentialization
 essentially
