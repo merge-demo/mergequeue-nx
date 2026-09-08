@@ -138,7 +138,7 @@ deviascope
 dekko
 dinar
 dyophone
-daddles
+daddles 1
 dowdyism
 daffodillies
 dropsicalness
