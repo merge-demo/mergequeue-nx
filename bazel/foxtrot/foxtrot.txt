@@ -2404,7 +2404,7 @@ fad
 fleshlessness 1
 flakelet
 fistularia
-flavous
+flavous 1
 filipuncture
 felanders
 frenchness
