@@ -14912,7 +14912,7 @@ aburagiri
 ankaratrite 1
 ambassadress
 afflictive
-anticlerical
+anticlerical 1
 anticlericalism
 acidophilous
 azygobranchia
