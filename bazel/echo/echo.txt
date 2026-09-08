@@ -9733,7 +9733,7 @@ embastardize
 extravertish 1
 esdragol
 eucommiaceae 1
-epimorphic
+epimorphic 1
 esselenian
 emotionable
 eomecon
