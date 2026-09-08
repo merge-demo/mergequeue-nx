@@ -3478,7 +3478,7 @@ glazing
 genoa
 gallanting 1
 glasgow
-gallophobia
+gallophobia 1
 graptomancy
 gourdlike
 gallous
