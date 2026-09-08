@@ -7213,7 +7213,7 @@ appetising
 anadipsia
 autochemical
 accommodative
-algorist
+algorist 1
 alalonga
 aurodiamine
 alalus
