@@ -18053,7 +18053,7 @@ desiccates
 dullity
 disgaveling
 droned
-deluster
+deluster 1
 damnifying
 digitaria
 dullnesses
