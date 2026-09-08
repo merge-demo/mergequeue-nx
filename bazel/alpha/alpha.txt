@@ -8752,7 +8752,7 @@ antiperistatically
 amblosis
 arachidonic
 allhallows 1
-ailanthic
+ailanthic 1
 alliance
 actorship
 abaze
