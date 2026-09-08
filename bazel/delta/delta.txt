@@ -3853,7 +3853,7 @@ discreate
 dimwit
 defoams 1
 diviningly
-deciduous
+deciduous 1
 dicellate
 deionizations
 dichroiscope
