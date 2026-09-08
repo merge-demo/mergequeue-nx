@@ -31123,7 +31123,7 @@ cuniforms
 cunila
 characterizable 1
 crystalliferous
-chumpy
+chumpy 1
 counternotice
 cunnilinctus
 cunnilinguism
