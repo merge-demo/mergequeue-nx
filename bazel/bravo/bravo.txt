@@ -5837,7 +5837,7 @@ bellyful
 bestrews
 boor 1
 beadier
-barbermonger
+barbermonger 1
 blacklisted
 boozily
 bellyland
