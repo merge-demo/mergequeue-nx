@@ -9583,7 +9583,7 @@ encephaloma
 enchasers 1
 esoethmoiditis
 exornation
-energiser
+energiser 1
 emplacing
 emulator
 epihippus
