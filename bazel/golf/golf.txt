@@ -2585,7 +2585,7 @@ granodiorite
 giltheads
 guillotined 1
 grassed
-gyrogonite
+gyrogonite 1
 guigne
 gargling
 gametogeny
