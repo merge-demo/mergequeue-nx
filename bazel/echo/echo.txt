@@ -12980,7 +12980,7 @@ expectingly
 enzym
 encephalopyosis
 erminette
-etheling
+etheling 1
 evicke
 exposals
 emotion
