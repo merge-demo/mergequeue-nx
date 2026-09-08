@@ -14337,7 +14337,7 @@ ditrochean
 dynastical
 deign
 deanship
-desoxyribose
+desoxyribose 1
 dishallucination
 decimestrial
 diuranate
