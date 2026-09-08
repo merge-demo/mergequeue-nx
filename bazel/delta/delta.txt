@@ -17971,7 +17971,7 @@ domanial
 decompensate
 deplumate
 dukedoms
-decongestive
+decongestive 1
 dukes 1
 deifical
 deseasonalize
