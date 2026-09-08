@@ -25111,7 +25111,7 @@ axilemmas
 adenological
 aotearoa
 axillae
-antiamylase
+antiamylase 1
 axillar
 axillaries
 absurdest
