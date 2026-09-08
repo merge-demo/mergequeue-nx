@@ -6634,7 +6634,7 @@ gaed
 goncalo
 gyrectomy
 geminating
-globulysis
+globulysis 1
 glycosuria 1
 gossans
 gurglingly
