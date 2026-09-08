@@ -14346,7 +14346,7 @@ circumstantiate
 circumstantiating
 circumstantiation
 circumstellar
-configurated
+configurated 1
 cullied
 cleopatra
 circumtonsillar
