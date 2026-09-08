@@ -9866,7 +9866,7 @@ draconically
 dextrality
 dimastigate
 deli
-divergences
+divergences 1
 damyankee
 delitescence
 diosphenol
