@@ -413,7 +413,7 @@ evangelist
 ebriose
 elumbated
 entrenching
-extruct
+extruct 1
 erythrinus
 espanol
 echowise
