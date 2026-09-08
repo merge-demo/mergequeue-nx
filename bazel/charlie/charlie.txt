@@ -3493,7 +3493,7 @@ capstone
 capsula
 cons
 capsular
-conceitedness
+conceitedness 1
 capsulation
 collegatary
 chainomatic
