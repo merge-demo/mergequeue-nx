@@ -12285,7 +12285,7 @@ bombinae
 backwardly
 boltwork
 bolus
-bomb
+bomb 1
 barratrous 1
 bombacaceae
 bombace
