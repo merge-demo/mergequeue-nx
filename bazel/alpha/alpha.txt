@@ -14732,7 +14732,7 @@ antidiffuser
 acushla
 actorish
 ambulacral
-attractableness
+attractableness 1
 antisex
 antiblastic
 adumbral
