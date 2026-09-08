@@ -8451,7 +8451,7 @@ diamagnet
 diamagnetic
 diamagnetism
 dredging
-diamant
+diamant 1
 ditrochee
 deflexed
 dooxidize
