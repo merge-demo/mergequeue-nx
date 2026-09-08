@@ -19919,7 +19919,7 @@ commandatory
 commanded
 confervaceae
 commandedness
-coelacanthine
+coelacanthine 1
 classicised
 commandeer
 centenarians
