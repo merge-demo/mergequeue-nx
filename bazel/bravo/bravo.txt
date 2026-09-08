@@ -12550,7 +12550,7 @@ brooklike
 boning
 bakemeat
 bonitary
-bistroic
+bistroic 1
 bonitarian
 bonity
 balsam
