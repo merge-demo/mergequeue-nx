@@ -3772,7 +3772,7 @@ crocine
 cyclammonium
 cuttlebone
 carbaryls
-captress
+captress 1
 ciconia
 chloroethylene
 carbazic
