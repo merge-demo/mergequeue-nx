@@ -18044,7 +18044,7 @@ alanins
 anhidrosis
 adminicle
 adular
-amphigenetic
+amphigenetic 1
 aim 1
 aporosa
 arthrosynovitis
