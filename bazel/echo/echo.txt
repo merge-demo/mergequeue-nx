@@ -6461,7 +6461,7 @@ ensnared
 ensnarer
 echinostoma
 eobionts
-edental
+edental 1
 evenmete
 euctical
 ectropionize
