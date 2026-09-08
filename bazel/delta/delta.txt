@@ -4165,7 +4165,7 @@ delitescent
 deliverer
 disincorporate
 deliveress
-dentirostrate
+dentirostrate 1
 dunkers
 damner
 desipience
