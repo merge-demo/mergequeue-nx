@@ -2071,7 +2071,7 @@ evilly 1
 eudialyte
 elanet
 elanus
-enantiopathia
+enantiopathia 1
 extravenate
 encampments
 enthusiasm 1
