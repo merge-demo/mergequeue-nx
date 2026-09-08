@@ -9715,7 +9715,7 @@ aduncated
 aquatints
 alveololabial
 achene
-ambries 1
+ambries 2
 alveololingual
 aggregatae
 alveolosubnasal
