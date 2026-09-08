@@ -16239,7 +16239,7 @@ clinoclasite
 citifies
 clinodiagonal
 clinodomatic
-canzonas
+canzonas 1
 cardiamorphia
 clinographic
 countryish
