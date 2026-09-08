@@ -2679,7 +2679,7 @@ allochiral
 amreetas
 amphisilidae
 ankylophobia
-acridity
+acridity 1
 aerobee
 acridities 1
 acrydium
