@@ -23052,7 +23052,7 @@ copatrons
 chekmak
 cowled
 consortial
-consortism
+consortism 1
 consortitia 1
 cornwallis
 consortship
