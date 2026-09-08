@@ -19027,7 +19027,7 @@ cokernut
 collembolous 1
 checkweighman
 collencyte
-collery
+collery 1
 candyh
 colleted
 colletes
