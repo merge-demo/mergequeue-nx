@@ -8555,7 +8555,7 @@ diaphanously
 douglas
 diaphyseal
 discommodious
-dermographia
+dermographia 1
 diaphysis
 dracontiasis
 druggists
