@@ -1631,7 +1631,7 @@ frolickers
 frankincense 1
 fresher
 faxes
-folkway
+folkway 1
 featishly
 fazes
 fiard
