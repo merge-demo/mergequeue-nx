@@ -20369,7 +20369,7 @@ antesignani
 arsenopyrite
 arsenostyracol
 aldermanlike
-amyous
+amyous 1
 admeasure
 austerities
 apostolicalness
