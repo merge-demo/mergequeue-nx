@@ -5589,7 +5589,7 @@ depends
 dallack
 dispersed
 dramatizable
-dukeship
+dukeship 1
 dothideaceous
 dieters
 depeopled
