@@ -5375,7 +5375,7 @@ endosteomata
 enwingly
 excarnate
 endeavoring
-enmagazine
+enmagazine 1
 epanody
 endothecal
 estrade
