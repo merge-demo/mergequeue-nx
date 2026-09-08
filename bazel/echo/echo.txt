@@ -3072,7 +3072,7 @@ ella
 exsuccous
 equipoises
 estriche
-enjoy
+enjoy 1
 expurgational
 ellenyard
 escribed
