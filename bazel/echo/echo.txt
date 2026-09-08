@@ -8276,7 +8276,7 @@ epigeic 1
 escapado
 epitoke
 erratums 2
-endolaryngeal
+endolaryngeal 1
 endplay
 epitheliomatous
 epitaphian
