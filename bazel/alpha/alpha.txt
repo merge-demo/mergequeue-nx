@@ -17421,7 +17421,7 @@ aeromedical
 apotome
 apyretic
 apotropaically
-asciferous
+asciferous 1
 autographism
 aftershave
 apotropous
