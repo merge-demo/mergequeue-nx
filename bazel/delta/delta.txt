@@ -316,7 +316,7 @@ dollfaced
 daybill
 downcomer
 disinteress
-dourine
+dourine 1
 dalasi 1
 daybooks
 deckman
