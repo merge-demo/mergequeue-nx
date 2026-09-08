@@ -2910,7 +2910,7 @@ gadwell
 grandnieces
 gerontocracy
 gigots
-glycollic
+glycollic 1
 glints 1
 gallipots
 glittering
