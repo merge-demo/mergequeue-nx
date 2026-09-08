@@ -12808,7 +12808,7 @@ elementary
 exostrae
 exoteric
 exoterica
-elementalistically 1
+elementalistically 2
 excitomotor
 embryology
 epicystotomy
