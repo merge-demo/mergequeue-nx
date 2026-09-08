@@ -2005,7 +2005,7 @@ denehole
 dentello
 dimble
 defaecate
-dysphasia
+dysphasia 1
 dictation
 dacryocele
 decadrachma
