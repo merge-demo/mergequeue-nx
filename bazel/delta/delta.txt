@@ -1864,7 +1864,7 @@ deblateration
 deblock
 disedification
 disappointer
-dijudicate
+dijudicate 1
 distensibilities
 dispunge
 dissimulation
