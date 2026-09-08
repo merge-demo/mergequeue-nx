@@ -10742,7 +10742,7 @@ electrical
 exanthemas
 ethylenically
 etrier
-excelled
+excelled 1
 eulimidae
 epicoela
 eulytine
