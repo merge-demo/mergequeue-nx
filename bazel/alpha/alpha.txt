@@ -14429,7 +14429,7 @@ antiprelatism
 abecedarium
 anthracosaurus
 anthracosis
-abox
+abox 1
 anthracothere
 anthracotherium
 anthracotic
