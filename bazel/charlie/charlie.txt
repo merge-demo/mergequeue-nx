@@ -10060,7 +10060,7 @@ cheselip
 coxocerite
 cyclogram
 cheskey
-campine
+campine 1
 cheslep
 coleochaete
 crestings
