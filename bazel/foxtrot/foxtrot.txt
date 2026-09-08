@@ -5738,7 +5738,7 @@ favorers
 fathoms
 furnage
 fungistatic
-frequentation
+frequentation 1
 fractuosity
 fels
 figureheadless
