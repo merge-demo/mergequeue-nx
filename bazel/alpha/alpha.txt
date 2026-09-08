@@ -9872,7 +9872,7 @@ amarity
 aplotomy
 armillas
 amaritude
-amarthritis
+amarthritis 1
 autosomatognosis
 aeciospore
 azotorrhoea
