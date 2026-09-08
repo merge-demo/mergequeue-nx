@@ -4609,7 +4609,7 @@ enchequer
 ethnopsychic
 euphemism
 endosarcode
-ethnolinguistics
+ethnolinguistics 1
 embryophagous
 eeriest
 epicerastic
