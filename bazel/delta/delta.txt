@@ -14188,7 +14188,7 @@ disusage
 dynamoscope
 dibbles
 defeater
-deathful
+deathful 1
 disuse
 desquamate
 disbranching
