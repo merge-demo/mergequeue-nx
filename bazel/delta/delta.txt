@@ -12368,7 +12368,7 @@ disharmonising
 deflexion
 demasculinized
 dwarfishly
-decolorised
+decolorised 1
 depone
 deepening
 decempartite
