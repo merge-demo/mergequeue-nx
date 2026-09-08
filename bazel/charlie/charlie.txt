@@ -4276,7 +4276,7 @@ caret
 caretake
 caretaker
 caretakers
-caretaking
+caretaking 1
 chastisers
 chondrosteous
 caretook
