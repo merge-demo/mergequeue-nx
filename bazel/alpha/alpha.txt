@@ -8429,7 +8429,7 @@ alkali
 alkalies
 aludel
 alkaligenous
-alkaline
+alkaline 1
 ankylostoma
 alkalinity
 alkalinities
