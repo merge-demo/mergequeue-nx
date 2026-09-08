@@ -7646,7 +7646,7 @@ figary
 fixed 1
 fritillaries
 floruits
-faeculence
+faeculence 1
 foreimagination
 flashlike
 foregift
