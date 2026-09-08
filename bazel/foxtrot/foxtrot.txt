@@ -1208,7 +1208,7 @@ feinted
 fash 1
 friborgh
 fasherie
-fusilier
+fusilier 1
 foolishness
 fashing
 fleeted
