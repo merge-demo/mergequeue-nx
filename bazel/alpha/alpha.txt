@@ -15571,7 +15571,7 @@ abseil
 antimoniuret
 anatine
 antethem
-acetabulum
+acetabulum 1
 antimoniuretted
 antimonopolistic
 allantoidian
