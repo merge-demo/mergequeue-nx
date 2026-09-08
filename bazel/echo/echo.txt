@@ -6167,7 +6167,7 @@ ethicizes 1
 enmove
 emusified
 ethnomusicological
-elans
+elans 1
 evolvent
 enneagonal
 etymologizable
