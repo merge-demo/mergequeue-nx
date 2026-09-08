@@ -10592,7 +10592,7 @@ doxographical
 dittology
 displants
 domestic
-dolorimeter
+dolorimeter 1
 documented
 decoctible
 diploidic
