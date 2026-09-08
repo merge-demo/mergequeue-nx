@@ -9127,7 +9127,7 @@ embouchment
 entotympanic
 ethnoses
 epitela 1
-enlargements
+enlargements 1
 entwining
 endosiphuncle
 eggbeaters
