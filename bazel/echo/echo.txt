@@ -5935,7 +5935,7 @@ especially
 eurytopicity
 exoenzymic
 embuskin
-ephemeron
+ephemeron 1
 excursive
 exclave
 eftest
