@@ -10697,7 +10697,7 @@ endopleural
 erebus
 euglenoid
 electrotypic
-evenworthy
+evenworthy 1
 ecossaise
 egosyntonic
 etiquet
