@@ -2018,7 +2018,7 @@ approbatory
 allegoristic
 aeneas
 achaean
-antiexpressionistic
+antiexpressionistic 1
 aperistalsis
 aequoreal
 actinogram
