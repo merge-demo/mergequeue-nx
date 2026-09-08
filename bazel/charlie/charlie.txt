@@ -28727,7 +28727,7 @@ casasia
 curran
 cole
 creosotes
-creosotic
+creosotic 1
 cocircularity
 clericity
 crepey
