@@ -834,7 +834,7 @@ absampere
 alalunga
 ashangos
 awanting
-ambiguities
+ambiguities 1
 agaves
 araeotic
 albright
