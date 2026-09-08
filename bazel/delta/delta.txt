@@ -3187,7 +3187,7 @@ depolarizes
 devotionalness 1
 dimitting
 defectless
-declaratives
+declaratives 1
 defectlessness
 delegatory
 dislevelment
