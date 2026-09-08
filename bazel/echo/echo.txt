@@ -1443,7 +1443,7 @@ efflux
 expressionlessly
 endoenteritis
 erythroclastic
-erythroscope
+erythroscope 1
 emblazons 1
 ejectivity
 etypical
