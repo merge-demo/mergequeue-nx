@@ -8491,7 +8491,7 @@ gibaro
 gibblegabbler
 graffias
 garum
-glisteningly
+glisteningly 1
 glossotype
 gurgle
 gelatinization
