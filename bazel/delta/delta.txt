@@ -10235,7 +10235,7 @@ decoys
 dissolutionist
 distresses
 dinophilea
-discontinuance
+discontinuance 1
 depute
 dealfishes
 donkeyish
