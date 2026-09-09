@@ -17736,7 +17736,7 @@ descried
 drachmal
 devaluing
 dubitate
-doyenne
+doyenne 1
 dubitatingly
 duboisin
 duboisine
