@@ -2443,7 +2443,7 @@ espinel
 euphausid
 epitaxial
 earthnut
-exciting
+exciting 1
 exciple
 ebonist
 electroencephalographical
