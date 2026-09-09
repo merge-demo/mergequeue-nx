@@ -12835,7 +12835,7 @@ exothecal
 emboss
 eccentrics
 exothermically
-eloignment
+eloignment 1
 erythrolysis
 eupomatia
 ern
