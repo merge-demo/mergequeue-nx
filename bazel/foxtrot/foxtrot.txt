@@ -10469,7 +10469,7 @@ fidged
 frostfish
 forcite
 frostbitten
-frosty 1
+frosty 2
 feuillet
 fantasticality
 frostily
