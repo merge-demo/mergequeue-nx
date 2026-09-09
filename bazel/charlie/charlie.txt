@@ -19934,7 +19934,7 @@ changeover
 corolitic
 commandingly
 commandingness
-commandite
+commandite 1
 commandless
 cruentate
 cyp
