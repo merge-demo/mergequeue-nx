@@ -1778,7 +1778,7 @@ enterocentesis
 echinital
 evitation 1
 everliving
-euphonous
+euphonous 1
 effractor
 escalloping
 eyesight
