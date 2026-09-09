@@ -8075,7 +8075,7 @@ gasconader
 grannam
 gybes
 grandfathership
-glandularly
+glandularly 1
 gasiform
 gribane
 gamone
