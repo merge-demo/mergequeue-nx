@@ -2141,7 +2141,7 @@ coniopterygidae
 channeler
 campers
 chiloma
-coadjacence
+coadjacence 1
 campesinos
 campestral
 campground
