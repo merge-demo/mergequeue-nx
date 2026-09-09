@@ -14806,7 +14806,7 @@ allogenically
 anadipsic
 antiscii
 abbreviations
-arricciatos
+arricciatos 1
 ascribes
 antichance
 animatograph
