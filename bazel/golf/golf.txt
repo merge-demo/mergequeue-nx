@@ -7324,7 +7324,7 @@ gymnasisiums
 gospels 1
 greatcoats
 gustative
-gossard
+gossard 1
 greyflies
 grievedly
 gonfalonier
