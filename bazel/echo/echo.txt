@@ -10059,7 +10059,7 @@ ethanedithiol
 enthalpy
 epicoeloma
 erythrophyllin
-encumbered
+encumbered 1
 export
 eyey
 envenoming
