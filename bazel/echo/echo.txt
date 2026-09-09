@@ -8545,7 +8545,7 @@ embezzling
 eastlin
 etherify 1
 existing
-enviable
+enviable 1
 entoglossal
 ethicism
 emblement
