@@ -1858,7 +1858,7 @@ declaratory 1
 douvecot 1
 dorsale
 deblai
-deblaterate
+deblaterate 1
 daubries
 deblateration
 deblock
