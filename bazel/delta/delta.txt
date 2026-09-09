@@ -16848,7 +16848,7 @@ diffidence 1
 demargarinate
 disturnpike
 drawspring 1
-dispersible
+dispersible 1
 divergingly
 debasers
 derrick
