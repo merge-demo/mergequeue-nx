@@ -13774,7 +13774,7 @@ alani 1
 acted
 arteriodialysis
 asfetida
-anopisthographically
+anopisthographically 1
 attenuates
 anopla
 anoplonemertean
