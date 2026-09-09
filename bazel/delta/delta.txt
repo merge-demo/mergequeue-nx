@@ -11171,7 +11171,7 @@ duraplasty
 distressful 1
 dichromic
 disbanded
-disoppilate
+disoppilate 1
 decanted
 deglaciation
 depopulate
