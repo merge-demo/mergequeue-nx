@@ -20904,7 +20904,7 @@ comprehensibility
 cherkess
 comprehensibly
 comprehensive
-comprehensively
+comprehensively 1
 comprehensiveness 1
 campership
 coleoptile
