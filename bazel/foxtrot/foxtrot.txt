@@ -8994,7 +8994,7 @@ fuster
 fourrier
 flagellates
 foelike 1
-feature
+feature 1
 foursquareness
 faustian
 fourteener
