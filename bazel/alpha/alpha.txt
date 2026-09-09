@@ -7846,7 +7846,7 @@ angler 1
 aeried
 aleconner
 aburst
-americomania
+americomania 1
 adenology
 antimonopolist
 affecter
