@@ -7549,7 +7549,7 @@ dolichocranic
 dilettanteism
 disciferous
 deuteronomic
-demotics
+demotics 1
 discriminational
 dividant
 doyly
