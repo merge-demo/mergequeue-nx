@@ -17527,7 +17527,7 @@ abeyancy
 anthracaemia
 afar
 apteroid
-apophthegmatist
+apophthegmatist 1
 amalings
 appeasements
 arrogantness
