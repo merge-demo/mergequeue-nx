@@ -7223,7 +7223,7 @@ cups
 centriscoid
 cappadine
 centriscus
-centrism
+centrism 1
 chalices
 clark
 cinemascope
