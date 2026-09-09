@@ -8990,7 +8990,7 @@ charismata
 chokecherry
 consuete 1
 charismatic
-collationer
+collationer 1
 cunabular
 ceriphs
 chalazia
