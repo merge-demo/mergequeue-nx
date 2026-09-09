@@ -5412,7 +5412,7 @@ fledgeling
 fiendhead
 foxfinger
 fetis
-fragmentize 1
+fragmentize 2
 forbled
 foremade
 frisado
