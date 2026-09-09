@@ -9189,7 +9189,7 @@ almon
 atheisms
 anga
 almonage
-angina
+angina 1
 almonership
 almonries
 angiochondroma
