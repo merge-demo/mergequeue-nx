@@ -773,7 +773,7 @@ gaulter
 glossolalist
 gutter 1
 gluck
-gutturize
+gutturize 1
 galvanothermometer
 ggr
 galliformes
