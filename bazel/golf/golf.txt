@@ -3228,7 +3228,7 @@ geraniums
 gebur
 galoping
 giron 1
-gluttons
+gluttons 1
 girtonian
 gap
 ghosty
