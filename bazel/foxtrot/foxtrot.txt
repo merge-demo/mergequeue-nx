@@ -7684,7 +7684,7 @@ foziest
 fruition
 foreturn
 flotter
-furriness
+furriness 1
 forspeak
 favourers
 forehoofs
