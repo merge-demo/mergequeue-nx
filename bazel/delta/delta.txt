@@ -7043,7 +7043,7 @@ degrees
 disjointed
 despumation
 dealing
-desquamating
+desquamating 1
 desquamatory
 decivilization
 dictum
