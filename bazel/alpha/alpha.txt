@@ -1447,7 +1447,7 @@ acclimatable
 autecologically
 acclimatement
 attires
-alewhap
+alewhap 1
 acclimates
 acclimatisation
 affixable
