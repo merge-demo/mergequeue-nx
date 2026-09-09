@@ -5248,7 +5248,7 @@ flavoriness
 falangist
 faveoli
 fitful
-fierceness 1
+fierceness 2
 fishmen
 filippi
 faugh
