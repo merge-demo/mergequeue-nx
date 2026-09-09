@@ -13495,7 +13495,7 @@ bangboard
 botulinus
 bottu
 billable
-botulinuses
+botulinuses 1
 boggles
 botulism
 bags
