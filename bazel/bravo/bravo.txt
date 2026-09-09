@@ -1482,7 +1482,7 @@ ballade
 bespottedness
 beglad
 bathyhyperesthesia
-bemadamed
+bemadamed 1
 boser
 bacteremia
 borstal
