@@ -13904,7 +13904,7 @@ etheria 1
 esthesio
 extrameridional
 extrametrical
-eccl
+eccl 1
 extramission
 erythrism
 expiscated
