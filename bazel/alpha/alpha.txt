@@ -13916,7 +13916,7 @@ arquifoux
 apprehends
 asservilize
 ansulate 1
-anglice
+anglice 1
 answerability
 answered
 answerers
