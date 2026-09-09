@@ -2177,7 +2177,7 @@ entrances
 epizoan
 eructate
 endocyclic
-evanescently
+evanescently 1
 elbowy
 elbowpiece
 elbows
