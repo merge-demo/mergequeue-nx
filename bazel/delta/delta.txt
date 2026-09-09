@@ -4811,7 +4811,7 @@ dishing
 distemperedness 1
 diffusively
 demolish
-detrained
+detrained 1
 dazzlingly
 dumbbeller
 deparliament

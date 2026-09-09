@@ -6109,7 +6109,7 @@ frettation
 filical
 folksinging
 fundmongering
-freebies
+freebies 1
 firestone 1
 fitchering
 flotson
