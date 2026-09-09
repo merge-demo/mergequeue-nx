@@ -2671,7 +2671,7 @@ begrimming
 bututs
 barmaster 1
 bergalith
-benzoic
+benzoic 1
 brutus
 barmcloth
 brither
