@@ -4174,7 +4174,7 @@ gouda
 guarapo
 globuloid
 gelinotte
-graphemic
+graphemic 1
 glycoproteid
 gastroarthritis
 goodly
