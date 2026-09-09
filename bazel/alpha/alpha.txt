@@ -6130,7 +6130,7 @@ autocytolytic
 alois
 aglypha
 analogal
-articular
+articular 1
 asymtotically
 aglyphodont
 algodonite
