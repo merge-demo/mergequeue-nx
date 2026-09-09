@@ -7250,7 +7250,7 @@ dyingly
 detente
 dicotyl
 dimetric
-detenue
+detenue 1
 decussorium
 desulfurize
 detenues
