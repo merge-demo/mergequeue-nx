@@ -3683,7 +3683,7 @@ decimalisation
 discalced
 denigrate 1
 dropworts
-degraduate
+degraduate 1
 digitinervate
 degravate
 demipike
