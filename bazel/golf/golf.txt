@@ -2677,7 +2677,7 @@ gabardines 1
 gravelous
 guaican
 glyconean
-goggled
+goggled 1
 gymnodont
 genic
 gradgrindian
