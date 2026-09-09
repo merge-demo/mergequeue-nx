@@ -4261,7 +4261,7 @@ fusarium
 flaxbird
 fax
 foreignize
-feverish
+feverish 1
 fungose
 flatterers
 frenzying
