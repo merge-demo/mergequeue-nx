@@ -16326,7 +16326,7 @@ capacitation
 cliquedom
 cliqueier
 cretinize
-cliqueyness
+cliqueyness 1
 cytome
 cliques
 collocalia
