@@ -10810,7 +10810,7 @@ acronomy
 alloantibody
 antirent
 abides
-apparentement
+apparentement 1
 activizing
 assized
 aits
