@@ -14577,7 +14577,7 @@ clockmutch
 cystigerous
 cystignathidae
 cystignathine
-criminology
+criminology 1
 cystis
 circulates
 cystitides
