@@ -22622,7 +22622,7 @@ chromochalcography
 connives
 captance
 caliper
-connivingly
+connivingly 1
 connochaetes
 counterpleading
 casuarinaceae
