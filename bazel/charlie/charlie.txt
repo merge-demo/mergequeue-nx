@@ -4971,7 +4971,7 @@ cartography
 cypseli
 cartographic 1
 cartographical
-cartographically
+cartographically 1
 carton
 cartoner 1
 cartonful
