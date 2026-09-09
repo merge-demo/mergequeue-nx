@@ -11005,7 +11005,7 @@ chirpy
 copyrighting
 cotingidae
 croker
-chirpiest
+chirpiest 1
 chirpily
 cakebox
 crenelling
