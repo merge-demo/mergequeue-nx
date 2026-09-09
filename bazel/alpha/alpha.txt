@@ -18617,7 +18617,7 @@ astrophil
 archaeolater
 audits
 alabamian
-authoritativeness
+authoritativeness 1
 amplified
 amberlike
 archaeolith
