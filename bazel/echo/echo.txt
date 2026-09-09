@@ -4982,7 +4982,7 @@ exigenter
 entoplastron
 endeavourer
 encouragement
-enstamp
+enstamp 1
 endeavouring
 egression
 endeictic
