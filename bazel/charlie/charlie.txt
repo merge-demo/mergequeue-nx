@@ -24687,7 +24687,7 @@ coppersidesman
 cambrics
 corimelaena
 copperskin
-ciderist
+ciderist 1
 coppersmith
 coppersmithing
 copperware
