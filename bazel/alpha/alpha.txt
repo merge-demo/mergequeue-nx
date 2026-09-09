@@ -11069,7 +11069,7 @@ amounter
 adduction
 amounters
 amouli
-anathematiser
+anathematiser 1
 apogeic
 ariki
 amovable
