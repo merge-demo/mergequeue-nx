@@ -8884,7 +8884,7 @@ characters
 chasmogamy
 companiable
 cycads
-charadrii
+charadrii 1
 compendiousness
 charadriiformes
 charadrine
