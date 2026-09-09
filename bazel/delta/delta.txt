@@ -3773,7 +3773,7 @@ dehorting 1
 digitoxin
 decompensation
 duckweed
-dehumanising
+dehumanising 1
 dehumanization
 draftswomanship
 diallers
