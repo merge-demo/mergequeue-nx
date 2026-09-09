@@ -2167,7 +2167,7 @@ gaudies
 graphostatics
 georgian
 gharris
-gerontine
+gerontine 1
 gdinfo
 gnomide
 golfings
