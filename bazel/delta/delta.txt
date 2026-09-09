@@ -9933,7 +9933,7 @@ dimidiate
 dispart
 deodorizers
 dissonancy
-dimidiation
+dimidiation 1
 dissinew
 downcourt
 dodecatoic
