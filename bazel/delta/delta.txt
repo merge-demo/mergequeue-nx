@@ -3399,7 +3399,7 @@ defleas
 downlinks
 deflect
 dichotomic
-disinhuming
+disinhuming 1
 darer
 deflecting
 deflectionize
