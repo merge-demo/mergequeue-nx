@@ -10603,7 +10603,7 @@ contract
 conservatoire
 corybantic
 cosmopolis
-campanology
+campanology 1
 colleterium
 chilomastix
 chylomicron
