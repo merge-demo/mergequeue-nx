@@ -4671,7 +4671,7 @@ gematrical
 galli
 gastroplenic
 gestes
-guttery 1
+guttery 2
 gyrovagues
 gloy
 gaatch
