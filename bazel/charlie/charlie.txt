@@ -10065,7 +10065,7 @@ cheslep
 coleochaete
 crestings
 clothesbrush
-chimney
+chimney 1
 chemise
 chesoun
 chessboards
