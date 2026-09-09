@@ -561,7 +561,7 @@ cadmia
 cadmic
 cateran
 convito
-cadmium
+cadmium 1
 crabsidle
 cadmiumize
 cadmiums
