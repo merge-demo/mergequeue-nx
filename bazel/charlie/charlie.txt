@@ -14614,7 +14614,7 @@ cystolithiasis 1
 cystoma
 cystomas
 corpusculum
-cystometer
+cystometer 1
 cystomyoma
 coadore
 cystomyxoma
