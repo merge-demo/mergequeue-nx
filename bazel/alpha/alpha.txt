@@ -24871,7 +24871,7 @@ antejuramentum
 archplutocrat
 anthropometrical
 avow
-avowably
+avowably 1
 adenographer
 alighting
 archrebel
