@@ -18373,7 +18373,7 @@ douches
 duodenoscopy
 denotate
 digmeat
-duodenostomy
+duodenostomy 1
 deceptiously
 deuteroconid 1
 dihalo
