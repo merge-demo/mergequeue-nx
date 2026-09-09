@@ -10273,7 +10273,7 @@ gutturalization
 groaningly
 galerie
 gry
-gurnards
+gurnards 1
 gratifies
 guise
 galv
