@@ -2836,7 +2836,7 @@ gentler
 guenon
 gutnish
 gingelly
-gilgulim 1
+gilgulim 2
 glassite
 gifture
 geolinguistics
