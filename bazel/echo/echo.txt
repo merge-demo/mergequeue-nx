@@ -11069,7 +11069,7 @@ enhusk
 expropriations
 episcopally
 estheria
-epileptically
+epileptically 1
 epicormic
 eusebian
 edifies
