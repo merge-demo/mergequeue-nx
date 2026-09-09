@@ -9085,7 +9085,7 @@ charpit
 canape
 charpoys
 costing
-cirmcumferential
+cirmcumferential 1
 charqui
 canelike
 christly
