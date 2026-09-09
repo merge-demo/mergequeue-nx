@@ -16095,7 +16095,7 @@ broodmare
 blackmailers
 bleacher
 bursera
-bertillonage
+bertillonage 1
 ballonets
 brook
 brooke
