@@ -21789,7 +21789,7 @@ conductometric
 conductor
 conductorial
 commoners
-crossbearer
+crossbearer 1
 conductus
 complementarily
 columbin
