@@ -12256,7 +12256,7 @@ amazonite
 arcades
 anchusas
 aselgeia
-amblypoda
+amblypoda 1
 arteriosympathectomy
 archcupbearer
 ancientest
