@@ -19468,7 +19468,7 @@ cubage
 colourfulness
 circuitmen
 congo
-cavated
+cavated 1
 chlamydeous
 calendering
 churchliest
