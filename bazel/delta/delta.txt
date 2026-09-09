@@ -1802,7 +1802,7 @@ debarkment
 doohickeys
 debarment
 debarrance
-duryl
+duryl 1
 debarring
 drummock
 delectible
