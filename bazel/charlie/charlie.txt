@@ -28114,7 +28114,7 @@ craniniums
 craniocele
 cachetic
 cordial
-caunus
+caunus 1
 craniocerebral
 calligraphist
 counteracquittance
