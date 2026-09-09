@@ -10816,7 +10816,7 @@ eunuchism 1
 endoprocta
 everlastingly
 euodic
-entrepots
+entrepots 1
 euonymy
 exochorda
 exsibilate
