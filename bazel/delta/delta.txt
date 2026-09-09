@@ -7673,7 +7673,7 @@ debell
 deviance
 dimples
 deviancy
-dogcatcher
+dogcatcher 1
 disquantity
 difform
 deviated 1
