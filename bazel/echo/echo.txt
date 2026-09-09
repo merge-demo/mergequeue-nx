@@ -13284,7 +13284,7 @@ englishable
 evict
 eponymize
 epignathous
-egregious
+egregious 1
 enflagellation
 extrorsely
 entozoarian
