@@ -9988,7 +9988,7 @@ antimerging
 autoregressive
 ambergris
 agrafe
-amberite
+amberite 1
 aduncous
 asellidae
 artiller
