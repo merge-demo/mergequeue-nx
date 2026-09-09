@@ -10692,7 +10692,7 @@ acidophilic
 autodiffusion
 aminobenzaldehyde
 anthrachrysone
-antichrome
+antichrome 1
 aminobenzoic
 appetency
 aminoglutaric
