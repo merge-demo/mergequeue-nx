@@ -19166,7 +19166,7 @@ arthropoda
 accessorized
 arctan
 attendances
-abusable
+abusable 1
 antepretonic
 antiparliamenteer
 alemannic
