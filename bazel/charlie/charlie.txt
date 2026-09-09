@@ -6265,7 +6265,7 @@ caulicole
 castrated
 caulicolous
 customed
-controversed
+controversed 1
 conche
 cameloid
 caulinar
