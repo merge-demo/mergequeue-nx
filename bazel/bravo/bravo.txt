@@ -8666,7 +8666,7 @@ bodysurf
 bournless
 bimanually
 breechloading
-basaltes
+basaltes 1
 buttermouth
 broom
 barbadoes
