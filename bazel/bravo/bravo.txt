@@ -3078,7 +3078,7 @@ barksome
 basale
 berascaling 1
 bathetic
-basalts
+basalts 1
 brecciating
 basaltware
 bombiccite
