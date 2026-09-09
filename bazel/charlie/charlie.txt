@@ -20618,7 +20618,7 @@ complacence
 chlorella
 complacency
 complacent
-cantor
+cantor 1
 citrate
 cosmosophy
 cahow
