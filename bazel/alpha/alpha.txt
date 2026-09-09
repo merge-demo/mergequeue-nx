@@ -16462,7 +16462,7 @@ anunder
 anesthetically
 aphelinus
 acrochordidae
-adulterize
+adulterize 1
 anuretic
 anury
 anuric
