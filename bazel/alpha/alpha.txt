@@ -5470,7 +5470,7 @@ antiputrid
 aerobiological
 afrormosia
 aft
-afteract
+afteract 1
 appetitive
 afterlife
 alepine
