@@ -2093,7 +2093,7 @@ gawk
 gratingly
 gozzard
 gerberia
-guerillaism
+guerillaism 1
 geobotanist
 galvanizer
 gerontes
