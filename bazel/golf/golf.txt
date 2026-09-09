@@ -2089,7 +2089,7 @@ gillian
 governments
 gubbertush
 graminological
-gawk
+gawk 1
 gratingly
 gozzard
 gerberia
