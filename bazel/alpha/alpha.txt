@@ -21154,7 +21154,7 @@ aseismic
 alkannin
 apocryphate
 arboriculturist
-affirmingly
+affirmingly 1
 aseity
 aselar
 associator
