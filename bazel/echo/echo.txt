@@ -8583,7 +8583,7 @@ equicohesive
 equicontinuous
 engagements
 eyebar
-endemial
+endemial 1
 electrotherapeutic
 encompassing
 epigrammatism
