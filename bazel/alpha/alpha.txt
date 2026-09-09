@@ -364,7 +364,7 @@ astrogonic
 arrival
 aberration
 aberrational
-aberrative
+aberrative 1
 acinose
 avoyer
 abetments
