@@ -1894,7 +1894,7 @@ bandogs
 bediademed
 barken
 bandoleer
-burlesquely 1
+burlesquely 2
 backhoes
 bandoleers
 bivalent
