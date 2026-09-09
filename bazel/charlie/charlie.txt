@@ -25904,7 +25904,7 @@ corsican
 chyak
 chokered
 circumscribes
-corsite
+corsite 1
 corsos
 cancrivorous
 corteges
