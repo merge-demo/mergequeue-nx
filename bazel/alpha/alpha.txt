@@ -15942,7 +15942,7 @@ armill
 accidia
 amici
 arnut
-angloman
+angloman 1
 appointor
 autorotate
 antiq
