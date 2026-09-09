@@ -14,7 +14,7 @@ grasswork
 gratuities 1
 gabelles
 greedsome
-gledy
+gledy 1
 genetous
 granitize
 goter
