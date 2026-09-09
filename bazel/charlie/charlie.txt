@@ -4221,7 +4221,7 @@ carabideous 1
 cardsharp
 chlorites
 cavaliered
-chinatown
+chinatown 1
 care
 citeable
 coerect
