@@ -5337,7 +5337,7 @@ focusses
 fldxt
 foolhardier
 frower
-frugalism
+frugalism 1
 featherweight
 flayflint
 fleabag
