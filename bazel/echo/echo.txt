@@ -7787,7 +7787,7 @@ epiproct
 eupatridae
 electrologists
 epifaunae
-expropriating
+expropriating 1
 excitative
 entassment
 enlighteningly
