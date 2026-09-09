@@ -5194,7 +5194,7 @@ gumboots 1
 gonystylaceous
 guativere
 gracility
-geognosist
+geognosist 1
 gleamily
 gabble
 gharial
