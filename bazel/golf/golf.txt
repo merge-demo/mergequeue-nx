@@ -4968,7 +4968,7 @@ groundwards
 glamors 1
 geldable
 granddada
-granita 1
+granita 2
 gainst
 growze 1
 gauziest
