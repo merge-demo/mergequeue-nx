@@ -6506,7 +6506,7 @@ goll
 gravelled
 guddling
 genetic
-glaikitness 1
+glaikitness 2
 gariba
 galvanocautery
 golly
