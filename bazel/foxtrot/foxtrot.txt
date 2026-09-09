@@ -1223,7 +1223,7 @@ firmitude
 frigidity
 fenders
 flexural
-flinched
+flinched 1
 fatuities
 feodatory
 freieslebenite
