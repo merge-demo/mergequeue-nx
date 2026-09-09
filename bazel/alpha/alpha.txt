@@ -6935,7 +6935,7 @@ assailment
 amende
 apostrophic 1
 aglyphous
-aptian
+aptian 1
 aventine
 airview
 agrypnias
