@@ -9094,7 +9094,7 @@ charras
 charre
 charred 1
 charrette
-consenescence
+consenescence 1
 charrier
 charriest
 charro
