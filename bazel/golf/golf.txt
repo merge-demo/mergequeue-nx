@@ -2723,7 +2723,7 @@ gravitons
 gusle
 grith
 gemmoid
-genit
+genit 1
 gnatho 1
 groundmass
 glozing
