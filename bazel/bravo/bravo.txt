@@ -17621,7 +17621,7 @@ belduque
 barricadoing
 burglarproofs
 burglars
-basote
+basote 1
 breath
 blay
 bunchflower
