@@ -5498,7 +5498,7 @@ gimmer
 goods
 gentlemen
 goodyera
-goldilocks
+goldilocks 1
 glisten
 guttering
 glimmery
