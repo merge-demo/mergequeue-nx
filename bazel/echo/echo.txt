@@ -4734,7 +4734,7 @@ estre
 emplaced
 exponentiating
 encircle
-embrowned
+embrowned 1
 emittent
 elocutive
 entryway 1
