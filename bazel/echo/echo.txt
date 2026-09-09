@@ -1954,7 +1954,7 @@ elementalist
 ejaculatory
 erdvark
 elishah
-ejectively
+ejectively 1
 enfierce
 encompany
 endarchy
