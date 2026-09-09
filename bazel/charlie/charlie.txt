@@ -12519,7 +12519,7 @@ ceasmic
 chromoptometrical
 coadjacency
 chromoscopy
-capacitances
+capacitances 1
 coobah
 chromosomally
 celoscope
