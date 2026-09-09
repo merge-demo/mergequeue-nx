@@ -7753,7 +7753,7 @@ devised
 decongests
 diphosphoric
 denicotinized
-devisees
+devisees 1
 deoxygenate
 disastimeter
 decoded
