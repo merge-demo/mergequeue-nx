@@ -8847,7 +8847,7 @@ girsle
 guanay
 gablelike 1
 graecized
-goldeye
+goldeye 1
 greyed
 grosser
 gainlier
