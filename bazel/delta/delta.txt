@@ -4412,7 +4412,7 @@ digenous
 demele
 dirled
 demembre
-dastur
+dastur 1
 disassembled 1
 dementation
 dementedly
