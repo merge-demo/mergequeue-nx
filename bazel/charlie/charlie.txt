@@ -9798,7 +9798,7 @@ crucialness
 cunit
 chemehuevi
 consence
-chemiatric
+chemiatric 1
 chemical
 chapeless
 chalybean
