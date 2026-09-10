@@ -2083,7 +2083,7 @@ expedites
 enjoyers
 encumberer
 euthyneural
-elapine
+elapine 1
 endysis
 eutectics
 edictal 1
