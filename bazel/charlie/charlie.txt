@@ -15080,7 +15080,7 @@ chlorogenine
 clack
 clackama
 circumtropical
-chinsed
+chinsed 1
 clacker
 clackety
 coexertion
