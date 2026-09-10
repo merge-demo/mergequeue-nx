@@ -166,7 +166,7 @@ campmaster
 copellidine
 carbonizable
 cabob
-countervails
+countervails 1
 caboceer
 cizar
 caboched
