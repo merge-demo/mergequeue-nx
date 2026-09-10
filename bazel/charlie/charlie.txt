@@ -3264,7 +3264,7 @@ cystenchyme 1
 capite 1
 christianized
 capitellate
-canteen
+canteen 1
 capitellum
 capitle
 cerebrum
