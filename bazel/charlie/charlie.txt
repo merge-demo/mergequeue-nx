@@ -27864,7 +27864,7 @@ crescendoed
 crabber
 crabbery
 carnivaler
-crabby
+crabby 1
 croqueted
 casa
 crabbiest
