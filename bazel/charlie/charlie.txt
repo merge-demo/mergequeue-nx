@@ -27302,7 +27302,7 @@ couping
 couple
 couplement
 coupler
-couples
+couples 1
 carling
 cleric
 couplings
