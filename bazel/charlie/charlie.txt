@@ -15960,7 +15960,7 @@ carpometacarpus
 clericature
 cointension
 colloquialize
-clericism
+clericism 1
 conglomerator
 centares
 clerid
