@@ -18193,7 +18193,7 @@ diereses
 duncical
 delamination 1
 dharani
-dispensary
+dispensary 1
 duncish
 dechlog
 duncishness
