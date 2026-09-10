@@ -14078,7 +14078,7 @@ blase
 burgul
 baring
 blusterously 1
-brachygnathia
+brachygnathia 1
 brachygnathism 1
 blackberries
 barytine
