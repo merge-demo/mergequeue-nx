@@ -3505,7 +3505,7 @@ escamotage
 effulges
 electromechanically
 evilnesses 1
-encarnalising
+encarnalising 1
 epineuria
 extrascientific
 eldress
