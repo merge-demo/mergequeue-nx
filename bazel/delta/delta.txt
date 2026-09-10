@@ -2987,7 +2987,7 @@ deductive
 deductory
 deducts
 deduplication
-despoliations
+despoliations 1
 deecodder
 demobilise
 deedfully
