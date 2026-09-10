@@ -10264,7 +10264,7 @@ arcticize
 anemious
 agricolite
 amelanchier
-avarice
+avarice 1
 argus
 auxoblast
 amelcorn
