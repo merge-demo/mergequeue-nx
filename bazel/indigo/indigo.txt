@@ -3460,7 +3460,7 @@ iesaagm
 iesasma
 iescfoqwow
 iescs
-iescw
+iescw 1
 iesd
 iesdbwdchr
 iesdmnkijapr
