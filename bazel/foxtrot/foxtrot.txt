@@ -11710,7 +11710,7 @@ fernsick
 frameless
 flaw 1
 fanfish
-fiancailles
+fiancailles 1
 frowns
 furriered
 forebitter
