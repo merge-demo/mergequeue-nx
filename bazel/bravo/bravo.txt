@@ -3577,7 +3577,7 @@ bathmism
 banker
 befathered
 boozer
-bathoflore
+bathoflore 1
 bibliomaniacal
 batholithic
 balaamite
