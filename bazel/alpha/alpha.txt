@@ -18789,7 +18789,7 @@ archeocyte
 acneform
 archeolithic
 ankhs
-archeopteryx
+archeopteryx 1
 anastomose
 archerfishes
 auctioneers
