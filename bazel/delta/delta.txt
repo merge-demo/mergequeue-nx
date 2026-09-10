@@ -6282,7 +6282,7 @@ diradiation
 didymolite
 daughters 1
 dermatopathic
-davoch
+davoch 1
 dodecanesian
 dermatophyte
 disarming 1
