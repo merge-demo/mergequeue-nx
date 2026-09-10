@@ -4397,7 +4397,7 @@ autocytolysis
 abrogative
 agalinis
 achieve
-artistess
+artistess 1
 adulteresses
 adultery
 autohypnotic
