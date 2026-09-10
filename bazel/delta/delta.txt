@@ -4700,7 +4700,7 @@ decking 1
 derealization
 declaration
 demiurgos
-dewaxed
+dewaxed 1
 drifting
 disheveling
 ducklar
