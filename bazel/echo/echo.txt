@@ -603,7 +603,7 @@ elitisms
 ebonise
 exobiological
 echt
-ecchymosed
+ecchymosed 1
 excommenge
 exostoses
 eciliate
