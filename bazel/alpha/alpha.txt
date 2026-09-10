@@ -12978,7 +12978,7 @@ argentinidae
 angulated
 angulately
 appearance
-adulterator
+adulterator 1
 astrer
 aquilinity
 assimilable
