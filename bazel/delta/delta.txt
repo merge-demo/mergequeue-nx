@@ -11885,7 +11885,7 @@ disdainfulness
 delations
 deflagrating
 drawknives
-dentel
+dentel 1
 dispermic
 daying
 dieri
