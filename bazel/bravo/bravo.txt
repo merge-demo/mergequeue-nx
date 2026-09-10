@@ -13555,7 +13555,7 @@ baizing
 bougainvilliidae
 bite
 bitangential
-bougar
+bougar 1
 bouge 1
 brogued
 brighella
