@@ -13592,7 +13592,7 @@ cymenes
 coproite
 crankest
 chiffer
-cimices
+cimices 1
 cimicide
 cene
 cimiciform
