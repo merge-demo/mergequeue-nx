@@ -23650,7 +23650,7 @@ contracyclical
 contractable
 contractant
 contractation
-contractedly
+contractedly 1
 contractedness
 carbolise
 contractility
