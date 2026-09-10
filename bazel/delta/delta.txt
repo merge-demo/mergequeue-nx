@@ -5220,7 +5220,7 @@ distortedness
 decursion
 denominate
 decadent
-deek
+deek 1
 desmosis
 declination
 declaimers
