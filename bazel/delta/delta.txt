@@ -15131,7 +15131,7 @@ diabetogenous 1
 delegare
 demographist
 dyaus
-doddering
+doddering 1
 dohickey
 diprotodont
 deduction
