@@ -1165,7 +1165,7 @@ ammoniacal
 azimuths
 advancing
 acana
-antilopine
+antilopine 1
 anemophily
 acanonical
 antisupernaturalistic 1
