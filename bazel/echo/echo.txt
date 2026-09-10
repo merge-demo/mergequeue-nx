@@ -8756,7 +8756,7 @@ encystment 1
 eulogising
 endangering
 equivocates
-encyrtid
+encyrtid 1
 emphractic
 enstrengthen 1
 equivoluminal
