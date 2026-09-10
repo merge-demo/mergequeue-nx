@@ -3407,7 +3407,7 @@ adaptorial
 allotransplant
 assemblywoman
 auxil
-abridgeable
+abridgeable 1
 adarme
 adatis
 afterpain
