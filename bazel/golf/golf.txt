@@ -8675,7 +8675,7 @@ gymnosoph
 galerum
 gawkishly
 geotactic
-goosing
+goosing 1
 gree
 glean
 gynaecoid
