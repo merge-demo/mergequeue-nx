@@ -2317,7 +2317,7 @@ chimeres
 caprone
 chylocyst
 cipher
-canalete
+canalete 1
 canali
 canalicular
 convenance
