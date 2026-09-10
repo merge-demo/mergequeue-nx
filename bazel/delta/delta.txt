@@ -16205,7 +16205,7 @@ doweress
 dingeys
 dunches
 dent
-dowery
+dowery 1
 derailer
 diethanolamine
 dichogamous
