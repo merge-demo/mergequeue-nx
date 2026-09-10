@@ -5300,7 +5300,7 @@ breathlessness
 biscuitmaker
 bezzants 1
 bipinnate
-bugbite
+bugbite 1
 beginning
 bemirement
 beginnings
