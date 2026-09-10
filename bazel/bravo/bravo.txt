@@ -5771,7 +5771,7 @@ biotechnologicaly
 boomlet
 backlogging 1
 brawlers
-bearably
+bearably 1
 ballhausplatz
 beblubbered 1
 behint
