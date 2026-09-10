@@ -8858,7 +8858,7 @@ flickers
 fatty 1
 ferrotypes
 forebye
-facioscapulohumeral
+facioscapulohumeral 1
 foreigners
 frenzily
 fot
