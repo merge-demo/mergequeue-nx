@@ -9295,7 +9295,7 @@ biquintile
 boles
 bastaard
 biracial
-bavenite
+bavenite 1
 bahaullah 1
 boldest
 bayldonite
