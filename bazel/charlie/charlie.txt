@@ -27565,7 +27565,7 @@ clairce
 coverslip
 covertly
 colloquialist
-cadency
+cadency 1
 cupmaker
 coves
 censured
