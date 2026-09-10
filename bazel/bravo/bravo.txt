@@ -1279,7 +1279,7 @@ bassarid
 blowsiest
 bloke
 bittocks
-burgomaster
+burgomaster 1
 bari
 boldoine
 brahmism
