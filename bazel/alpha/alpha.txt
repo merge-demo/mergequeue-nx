@@ -19894,7 +19894,7 @@ armistices
 atresia
 adelantados
 avenaceous
-anthropocentrism
+anthropocentrism 1
 antiliberalism
 anaphylactogen
 armyworms
