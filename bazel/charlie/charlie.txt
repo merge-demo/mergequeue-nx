@@ -10841,7 +10841,7 @@ chiolite
 chionablepsia
 chionaspis
 chionodoxa
-candlepower
+candlepower 1
 circumcising
 chiopin
 centropomus
