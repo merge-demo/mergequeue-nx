@@ -4586,7 +4586,7 @@ advisement
 atli
 abreacting
 arranger
-addax
+addax 1
 adviser
 autonomize
 apparatchiki
