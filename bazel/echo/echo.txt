@@ -11370,7 +11370,7 @@ evenforth
 eryopid
 edificator
 eruciform
-emanatively
+emanatively 1
 eathly
 epicureans
 equiparation
