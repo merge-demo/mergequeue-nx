@@ -14876,7 +14876,7 @@ disazo
 downbear 1
 documents
 demonism
-dowitcher
+dowitcher 1
 dolorifuge
 dependencies
 depurging
