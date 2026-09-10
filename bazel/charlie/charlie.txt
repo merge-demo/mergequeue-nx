@@ -13125,7 +13125,7 @@ carriage
 cyanochroic
 climbingfishes
 catchable
-cycases
+cycases 1
 cytogenies
 coverless
 cudgelled
