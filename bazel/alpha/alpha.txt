@@ -1627,7 +1627,7 @@ according
 assapanic
 amphoricity
 achate
-artificialize
+artificialize 1
 accriminate
 airier
 arthuriana
