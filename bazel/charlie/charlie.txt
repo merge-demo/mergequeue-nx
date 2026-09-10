@@ -15047,7 +15047,7 @@ crowing
 civism
 civisms
 chloralizing
-civitan
+civitan 1
 coxalgic
 civitas
 civite
