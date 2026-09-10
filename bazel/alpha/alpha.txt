@@ -24067,7 +24067,7 @@ aboard
 alexipyretic
 autoagglutination
 autodials
-astonishments
+astonishments 1
 autodidactic
 albumenised
 athrough
