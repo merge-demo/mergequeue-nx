@@ -7623,7 +7623,7 @@ devaul
 deoxygenating
 degaussed
 disbursements
-doctrinally
+doctrinally 1
 diathermaneity
 devel
 disassembling
