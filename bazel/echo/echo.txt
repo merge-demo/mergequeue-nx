@@ -3348,7 +3348,7 @@ euphroe 2
 equiangular
 emphemeralness
 expensefully
-endodermis
+endodermis 1
 ecdyses
 eyry
 entrep
