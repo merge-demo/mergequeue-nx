@@ -407,7 +407,7 @@ daintifying
 deoppilation
 desiccating
 diversity
-daintiness
+daintiness 1
 daiquiri
 dingle
 diriment
