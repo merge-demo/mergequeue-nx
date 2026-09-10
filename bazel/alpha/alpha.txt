@@ -13448,7 +13448,7 @@ anneal
 artlessly 1
 arraignments
 annealer
-anneals
+anneals 1
 annect
 adenohypophysis
 annelidan
