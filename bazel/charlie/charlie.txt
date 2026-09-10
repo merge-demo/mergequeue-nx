@@ -6960,7 +6960,7 @@ christmasberry
 crowdedness
 confects
 crystallizer
-cenesthetic
+cenesthetic 1
 cotyligerous
 cosinusoid
 cenizo
