@@ -1496,7 +1496,7 @@ callat
 conchologist
 callback
 closish
-conversus
+conversus 1
 cryptoxanthin
 coffeepot
 commise
