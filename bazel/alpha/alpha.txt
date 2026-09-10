@@ -10579,7 +10579,7 @@ ambulatoriums
 alcuinian
 archduchy
 aequian
-anophele
+anophele 1
 amygdalin
 antepenuit
 antiderivative
