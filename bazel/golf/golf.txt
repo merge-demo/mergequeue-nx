@@ -1161,7 +1161,7 @@ gastrogastrotomy
 genin
 genio
 gnawings
-galactometry
+galactometry 1
 gnetums
 guffin
 gaol
