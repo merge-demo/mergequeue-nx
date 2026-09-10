@@ -17974,7 +17974,7 @@ brachystochrone
 basilosauridae
 busied
 bagirmi
-betties
+betties 1
 brigued
 bulldust
 bedpan
