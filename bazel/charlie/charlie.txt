@@ -20547,7 +20547,7 @@ compendency
 compendia
 correlativity
 celtophobe 1
-compendious
+compendious 1
 compendium
 compendiums 1
 contenders
