@@ -3179,7 +3179,7 @@ fenceplay
 fisheries
 flowerier
 fatso
-fossate
+fossate 1
 freeloaders
 forthfare
 femurs
