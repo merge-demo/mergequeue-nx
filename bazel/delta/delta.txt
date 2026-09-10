@@ -16179,7 +16179,7 @@ dertra
 degas
 droplet
 desalinized
-deweylite 1
+deweylite 2
 dowdy
 distent
 downsliding
