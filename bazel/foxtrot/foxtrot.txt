@@ -7335,7 +7335,7 @@ fogs
 fidgetingly
 foible
 felting
-friendliest
+friendliest 1
 flourishy
 formularised
 foraminose
