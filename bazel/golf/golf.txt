@@ -117,7 +117,7 @@ goatfish
 gadroon
 giher
 ginete
-gastly
+gastly 1
 gastrostomy
 gazogene
 gypsyhood
