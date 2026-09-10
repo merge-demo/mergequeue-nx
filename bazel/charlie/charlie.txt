@@ -12140,7 +12140,7 @@ calibogus
 caraunda
 chrysalid
 coronet
-chrysalida
+chrysalida 1
 cascarilla
 chrysaline
 chromophilous
