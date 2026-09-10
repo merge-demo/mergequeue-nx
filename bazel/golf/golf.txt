@@ -6192,7 +6192,7 @@ graphoanalytical
 gonococcus
 gargarize 1
 glamorousness
-gladdening
+gladdening 1
 goalpost
 geopony 1
 gagster
