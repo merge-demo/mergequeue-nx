@@ -13469,7 +13469,7 @@ cilery 1
 corsetless
 cloying
 cilia
-cloakedly
+cloakedly 1
 ciliate 1
 ciliated
 ciliately
