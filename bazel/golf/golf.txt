@@ -9112,7 +9112,7 @@ guttation
 geophagist
 guillemet
 grindable
-gibbose
+gibbose 1
 grissel
 gingerol
 gadite
