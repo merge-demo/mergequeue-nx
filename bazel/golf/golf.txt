@@ -3749,7 +3749,7 @@ glinse
 goonie
 graveldiver
 geometdecrne
-getatable
+getatable 1
 ginnery
 goldfield
 generator
