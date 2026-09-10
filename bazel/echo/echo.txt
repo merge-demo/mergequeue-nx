@@ -9231,7 +9231,7 @@ eaters
 erythrozyme 1
 enweaved
 entrant
-extirpate
+extirpate 1
 epizzoa
 eloquential
 educationalist
