@@ -193,7 +193,7 @@ flimsies
 forcut
 finitary
 factoryship 1
-floatiness
+floatiness 1
 fraudulence
 fusinite
 flashily
