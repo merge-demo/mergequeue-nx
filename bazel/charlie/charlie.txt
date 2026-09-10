@@ -6684,7 +6684,7 @@ cursorial
 ceibo
 counterthrust
 ceil
-clamoring
+clamoring 1
 celestine
 ceilers
 ceilidhe
