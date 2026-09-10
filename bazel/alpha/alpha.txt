@@ -6172,7 +6172,7 @@ anthropocentrically
 antapoplectic
 antiinstitutionalists
 ataxiaphasia
-autodidact
+autodidact 1
 aurigation
 anions
 agnoite
