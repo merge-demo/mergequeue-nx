@@ -6784,7 +6784,7 @@ bin
 berserks
 barnumize
 berskin 1
-balize
+balize 1
 berhyme
 banjore
 bert
