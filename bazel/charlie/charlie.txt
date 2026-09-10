@@ -22560,7 +22560,7 @@ commotion
 connatural
 connaturality
 cultelli
-connectibility
+connectibility 1
 cryptanalysis
 connaturalize
 chg
