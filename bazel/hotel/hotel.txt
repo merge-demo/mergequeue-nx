@@ -916,7 +916,7 @@ hasjwygh
 hask
 haskfrgmhmbg
 haskhsu
-hasklruca
+hasklruca 1
 haskp
 hasl
 hasme
