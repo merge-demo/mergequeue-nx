@@ -12536,7 +12536,7 @@ chromotypography
 chromotypographic
 chromotropy
 chromotropic
-commonplaceness
+commonplaceness 1
 cradleboard
 concepts
 chromotropism
