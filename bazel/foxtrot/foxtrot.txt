@@ -31,7 +31,7 @@ floodlet 1
 fourchee
 fieldmen
 fibrolitic
-fibrocyst
+fibrocyst 1
 fabricates
 fabricator
 formularize
