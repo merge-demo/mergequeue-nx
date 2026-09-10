@@ -23172,7 +23172,7 @@ attentive
 antifundamentalism
 abiding
 altared
-attenuable
+attenuable 1
 automanipulative
 attenuator
 antitheistic
