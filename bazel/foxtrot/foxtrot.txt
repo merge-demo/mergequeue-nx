@@ -1583,7 +1583,7 @@ fourstrand
 falsettist 1
 fibrinogen
 filespec
-favorites 1
+favorites 2
 furstone 1
 fadges
 flavobacterium
