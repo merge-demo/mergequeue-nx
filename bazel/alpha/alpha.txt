@@ -18423,7 +18423,7 @@ arawakian
 anatomized
 anteriority
 antlion
-amboceptor
+amboceptor 1
 actinistia
 acidized
 archdeacons
