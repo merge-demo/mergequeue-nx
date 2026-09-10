@@ -19800,7 +19800,7 @@ auriculars
 adaptivity
 armariumaria
 armatoles
-arsphenamine
+arsphenamine 1
 armatures
 albation
 anarchal
