@@ -7742,7 +7742,7 @@ frankpledge
 furfuraceous
 foreknowingly
 frere
-foreshaft
+foreshaft 1
 forelook
 fauvist
 facer
