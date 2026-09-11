@@ -17834,7 +17834,7 @@ duculinae
 dictyosome
 decurve
 dermoblast
-definable
+definable 1
 dictatorship
 disenthrallment
 dunkirk
