@@ -6626,7 +6626,7 @@ enterocoela
 eructed
 execrate
 epaleaceous
-easterliness
+easterliness 1
 enteroepiplocele
 eudemonistical
 enterogastrone
