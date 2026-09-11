@@ -5144,7 +5144,7 @@ flasker
 furless
 foretooth 1
 floccular
-fellifluous
+fellifluous 1
 furbelows
 froom
 flatlands
