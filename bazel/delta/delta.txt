@@ -4327,7 +4327,7 @@ diamondiferous 1
 diacritical
 dods
 demagogical
-dura 1
+dura 2
 descriers
 demagogue
 diseducate
