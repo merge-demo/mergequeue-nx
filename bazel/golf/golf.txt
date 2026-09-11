@@ -1426,7 +1426,7 @@ gallinazo 1
 gnamma
 gothicism
 grapenuts
-golfs
+golfs 1
 gemologists
 gn
 gargle
