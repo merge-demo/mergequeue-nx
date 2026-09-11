@@ -11447,7 +11447,7 @@ entomostraca
 entheate
 embryotic
 expdt 1
-elided
+elided 1
 evetide
 extirpating
 encipherment
