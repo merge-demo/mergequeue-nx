@@ -13513,7 +13513,7 @@ athenian
 attributal
 annoyances
 anthropopathy
-antefact
+antefact 1
 appeasing
 avenin
 autostandardization
