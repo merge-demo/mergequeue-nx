@@ -29485,7 +29485,7 @@ crystallod
 crystallogeny
 crystallogenical
 cymbiform
-confliction
+confliction 1
 chawle
 cageot
 cloak
