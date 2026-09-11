@@ -13962,7 +13962,7 @@ daubed
 distomes
 distomidae
 dubby
-deturb
+deturb 1
 derrid
 dystonic 1
 dacha
