@@ -8719,7 +8719,7 @@ dorsonuchal
 diathermy
 decastere
 demonstrate
-decorousness
+decorousness 1
 demoting
 diathermies
 downhill
