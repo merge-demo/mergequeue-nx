@@ -1905,7 +1905,7 @@ delicateness
 debowel
 depravity
 debride
-dallas
+dallas 1
 deodorant
 deciphers
 debriefing
