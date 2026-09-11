@@ -16822,7 +16822,7 @@ citrul
 caprifoliaceous
 clofibrate
 chidra
-clubby
+clubby 1
 cuprate
 christlikeness
 circumcision
