@@ -18151,7 +18151,7 @@ controversion
 combust
 cobaltocyanide
 condylarth
-calendry
+calendry 1
 crowdweed
 coercers
 coercible
