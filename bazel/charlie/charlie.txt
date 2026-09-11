@@ -9262,7 +9262,7 @@ constructiveness
 chattelism
 chattelizing
 crassis
-chattels
+chattels 1
 calamities
 chatter
 chyme
