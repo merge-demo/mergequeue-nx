@@ -10572,7 +10572,7 @@ denote
 dislikes
 disequilibrium
 disslander
-duteously
+duteously 1
 discoblastula
 deafens
 diploe
