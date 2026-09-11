@@ -7853,7 +7853,7 @@ berinse
 bombs
 bibliofilm
 blepharosymphysis
-botaniser
+botaniser 1
 biocatalytic
 bibliographize
 burglarising
