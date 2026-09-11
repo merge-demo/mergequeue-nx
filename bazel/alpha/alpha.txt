@@ -7141,7 +7141,7 @@ abnormal
 amusements
 abarthrosis
 atopite
-akre
+akre 1
 akrochordite
 allophore
 akroter
