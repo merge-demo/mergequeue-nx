@@ -794,7 +794,7 @@ endosulfan
 earthmaking
 exodus
 epeira
-eurytopic
+eurytopic 1
 encephalography
 enter
 euplotid
