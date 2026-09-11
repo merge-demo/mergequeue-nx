@@ -9147,7 +9147,7 @@ agrising
 alman
 adenovirus
 almander
-aeginetic
+aeginetic 1
 almandines
 agalactous
 antiputrefaction
