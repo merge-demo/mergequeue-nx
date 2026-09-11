@@ -4085,7 +4085,7 @@ gambolling
 gerundively
 groining
 gletscher
-grifted
+grifted 1
 gastrectomies
 germanical
 gimcrack
