@@ -12313,7 +12313,7 @@ epanisognathous
 endotracheitis
 equimolecular
 epimerite 2
-erichtoid
+erichtoid 1
 eavesing
 enjambment
 eradicating
