@@ -12029,7 +12029,7 @@ cajolers
 chevreuil
 chorook
 cyclops
-choroti
+choroti 1
 chorous
 chort
 chortle
