@@ -26242,7 +26242,7 @@ costage
 costally
 costander
 costanoan
-costar
+costar 1
 costarred
 continentaler
 chuffiness
