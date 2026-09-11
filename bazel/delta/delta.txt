@@ -7945,7 +7945,7 @@ dyeable
 dexiotropic
 dishwashing
 dollarbird
-diaplex
+diaplex 1
 dashers
 dextrad
 dextral
