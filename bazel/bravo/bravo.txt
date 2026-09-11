@@ -13901,7 +13901,7 @@ baccalaurean
 bowshot
 bulbaceous 1
 brainish
-bowshots
+bowshots 1
 bombarder
 backstopped
 backhauled
