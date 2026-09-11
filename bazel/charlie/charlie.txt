@@ -30183,7 +30183,7 @@ crucificial
 crucifies
 compressor
 compursion
-cogue
+cogue 1
 carbonising
 ceramist
 cerotype
