@@ -15222,7 +15222,7 @@ clubmen
 clayton
 chinkers
 claiver
-crucigerous
+crucigerous 1
 ceromancy
 claywares
 caam
