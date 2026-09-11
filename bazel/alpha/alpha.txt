@@ -9525,7 +9525,7 @@ ablution
 ajutment
 asterikos
 aspidate
-anargyroi
+anargyroi 1
 ambassiate
 alonzo 1
 althorn
