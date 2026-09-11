@@ -26622,7 +26622,7 @@ councils
 cozener
 counite
 counsel
-counterpanes
+counterpanes 1
 counselable
 coronobasilar
 counseled

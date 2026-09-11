@@ -5428,7 +5428,7 @@ afray
 athrocytosis 1
 antisymmetrical
 anticensoriousness
-arcosolia
+arcosolia 1
 aspirator
 anguine
 aeonial
