@@ -11579,7 +11579,7 @@ cholecystitis
 cozies
 christophany
 cholecystnephrostomy
-cupellation
+cupellation 1
 cholecystocolostomy
 cognisability
 colonialization
