@@ -10900,7 +10900,7 @@ contiguousness
 chirapsia
 causson
 counteradvise
-chiriguano
+chiriguano 1
 chirimia
 cathedralwise
 chirino
