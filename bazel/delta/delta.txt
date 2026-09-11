@@ -12086,7 +12086,7 @@ denizened
 demerits
 disentitled
 didelphine
-disjune
+disjune 1
 disentitlement
 dudishly 1
 drepanaspis
