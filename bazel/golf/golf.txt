@@ -10220,7 +10220,7 @@ guzzled
 guile
 gyrectomies
 galluses
-groundsel
+groundsel 1
 gonk
 geotonus
 glamourously
