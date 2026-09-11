@@ -22511,7 +22511,7 @@ chorizontist
 clatty
 cinnamyls
 conjunctivas
-caslon
+caslon 1
 clings
 cupriferous
 conjunctively
