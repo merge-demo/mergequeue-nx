@@ -533,7 +533,7 @@ bafflingness
 barometrical
 backvelder
 blastodermic
-baufrey
+baufrey 1
 belch
 burnooses
 butyl
