@@ -4674,7 +4674,7 @@ freety 1
 fayettism
 filicinean
 fearsome
-flatnose
+flatnose 1
 figurante
 flaunched
 flections
