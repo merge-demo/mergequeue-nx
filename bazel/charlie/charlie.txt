@@ -20195,7 +20195,7 @@ carosella
 commodatum
 commode
 commodes
-cobias
+cobias 1
 cionotomy
 catastrophism
 chalcolite
