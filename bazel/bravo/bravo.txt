@@ -8207,7 +8207,7 @@ beginger
 bifluoride 1
 bifocal
 balanocele
-berith
+berith 1
 bb
 bobstay
 balagan
