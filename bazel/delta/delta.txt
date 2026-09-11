@@ -1342,7 +1342,7 @@ daundering 1
 daitya
 didappers
 daunt
-daunted
+daunted 1
 dhobies
 daunters
 decertified
