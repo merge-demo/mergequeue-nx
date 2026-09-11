@@ -16685,7 +16685,7 @@ befringed
 borosilicate
 bubblelike
 bucketmaking
-basketfuls
+basketfuls 1
 blithehearted
 besiege
 bishopship
