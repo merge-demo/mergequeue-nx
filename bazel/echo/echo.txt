@@ -3111,7 +3111,7 @@ embarrassment
 educing
 expiscatory
 epistolographist
-edgewise
+edgewise 1
 engrossers
 euectic
 eastermost
