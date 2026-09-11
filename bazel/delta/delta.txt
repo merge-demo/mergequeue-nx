@@ -7827,7 +7827,7 @@ dalecarlian
 decapitate
 dutchify
 delthyria
-delates
+delates 1
 dissertationist
 dinoceras
 dogsleds
