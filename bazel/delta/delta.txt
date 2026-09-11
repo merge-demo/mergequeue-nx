@@ -9615,7 +9615,7 @@ drayed
 differentiating
 deepmost
 dihedron
-dhootie
+dhootie 1
 dodecatemory 1
 discipleship
 dishumour
