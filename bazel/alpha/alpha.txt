@@ -13324,7 +13324,7 @@ anisophyllous
 afterchurch
 accompanied
 apace
-atmosphered
+atmosphered 1
 asbestus
 anisopod
 ataraxias
