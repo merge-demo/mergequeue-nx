@@ -10021,7 +10021,7 @@ cherrying
 cherrylike
 cherrystone
 canephors
-cephalotripsy
+cephalotripsy 1
 chersydridae
 chert
 childishness
