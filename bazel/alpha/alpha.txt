@@ -2223,7 +2223,7 @@ achromatope
 autodecrement
 achromatophile
 achromatophilia
-achromatopia
+achromatopia 1
 achromatopsy
 apologizes
 achromatopsia
