@@ -883,7 +883,7 @@ flyaways
 faventine
 flamfew
 fingerlet
-furfooz
+furfooz 1
 foundationlessness 1
 forestlike
 fatheads
