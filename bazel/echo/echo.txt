@@ -4113,7 +4113,7 @@ essenism
 eutheria
 ethological
 ecdysis
-energetistic
+energetistic 1
 epinicial
 excitant 1
 exogenous
