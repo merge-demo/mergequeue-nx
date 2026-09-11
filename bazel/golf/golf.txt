@@ -3964,7 +3964,7 @@ grubworms 1
 gigawatts
 glioma
 glossoscopia
-geoty
+geoty 1
 graphium
 gorgoneioneia
 gastrological
