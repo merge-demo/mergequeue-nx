@@ -7810,7 +7810,7 @@ clorinator
 cerussite
 centaurid
 cervantic
-chaffiest
+chaffiest 1
 choosing
 cervantite
 consternating
