@@ -2006,7 +2006,7 @@ dentello
 dimble
 defaecate
 dysphasia
-dictation
+dictation 1
 dacryocele
 decadrachma
 decadrachmae
