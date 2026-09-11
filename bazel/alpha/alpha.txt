@@ -12817,7 +12817,7 @@ asseize
 angiopressure
 acquaintance
 angiorrhaphy 1
-angiorrhea
+angiorrhea 1
 armorwise
 ammocoetid
 angioscope
