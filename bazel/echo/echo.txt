@@ -6111,7 +6111,7 @@ epifauna
 epirrhema
 electrocardiography
 enochic
-enlightenment
+enlightenment 1
 enticing
 eructates
 excommunion
