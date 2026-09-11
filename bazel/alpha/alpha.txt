@@ -22202,7 +22202,7 @@ astigmometer
 aglossa
 astigmometry
 alluviate
-algologist
+algologist 1
 aegritude
 atrophied
 astigmoscope
