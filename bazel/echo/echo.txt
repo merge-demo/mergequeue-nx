@@ -11777,7 +11777,7 @@ esquireship
 ericetum
 excorticating
 exappendiculate
-empover
+empover 1
 exarate
 egyptianization
 eremochaeta
