@@ -4668,7 +4668,7 @@ fulani
 faeroe 1
 fells
 ferrotungsten
-fulica
+fulica 1
 flewit
 freety 1
 fayettism
