@@ -5569,7 +5569,7 @@ basilican
 bekiss
 bekissed
 bekisses
-boletes
+boletes 1
 bouleuterion
 borons
 beknighted
