@@ -10039,7 +10039,7 @@ elegious
 extradural
 eternish
 elod
-editresses
+editresses 1
 energetical
 epitaphial
 esculetin
