@@ -7855,7 +7855,7 @@ glumpier 1
 grafship
 gingall
 gynaeocracy
-grovy
+grovy 1
 gudge
 grecomaniac
 gyrostachys
