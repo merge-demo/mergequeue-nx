@@ -3909,7 +3909,7 @@ clarity
 contradistinguish
 celibacies
 cowheel
-compleat
+compleat 1
 casquet
 carborundum
 conceptional
