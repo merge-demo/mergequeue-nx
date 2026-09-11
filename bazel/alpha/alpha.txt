@@ -13219,7 +13219,7 @@ anabatic
 accretionary
 apraxias
 animize
-amaltas
+amaltas 1
 anilidic
 allude
 animo
