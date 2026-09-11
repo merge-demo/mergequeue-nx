@@ -11722,7 +11722,7 @@ chondrinous
 crotalism
 cirrhotic 1
 chondrioma
-churlhood
+churlhood 1
 chondriomere
 chondriosphere
 connaturally
