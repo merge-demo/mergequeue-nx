@@ -15330,7 +15330,7 @@ clangouring
 cakewalks
 campings
 clangours
-clangs
+clangs 1
 conquests
 critter
 calluses
