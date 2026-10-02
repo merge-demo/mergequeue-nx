@@ -1243,7 +1243,7 @@ escalade
 externity
 eelboat
 eudendrium
-epicures 1
+epicures 2
 enjoyable
 enroot
 efficiently
