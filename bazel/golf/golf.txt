@@ -1607,7 +1607,7 @@ gunz
 goodeniaceous
 geulah
 galavant
-glottic
+glottic 1
 gasteromycetous
 geneat
 giraffine
