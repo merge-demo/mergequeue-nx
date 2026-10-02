@@ -10503,7 +10503,7 @@ acoelous
 adscript
 amidins
 arret
-amidism
+amidism 1
 acridid
 armenians
 astronautically

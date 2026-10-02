@@ -12729,7 +12729,7 @@ embus
 exopterygotism
 eurypygae
 epha
-extol
+extol 1
 espressivo
 englishman
 exorable
