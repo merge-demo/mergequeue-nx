@@ -19022,7 +19022,7 @@ amaryllis
 archmonarch
 amadavats
 arnebia
-astaticism
+astaticism 1
 adhering
 airmailed
 archon
