@@ -6386,7 +6386,7 @@ fragrantness
 floreal
 funiliform
 finick 1
-fetichic
+fetichic 1
 ferinely
 fluoroform
 fluorescigenous
