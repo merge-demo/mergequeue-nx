@@ -12882,7 +12882,7 @@ avenger
 asteraceous
 anglian
 apportionment
-anglicanisms
+anglicanisms 1
 antispiritual
 abscise
 arverni
