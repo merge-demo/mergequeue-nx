@@ -3725,7 +3725,7 @@ astigmatical
 adequacies 1
 adequate
 acclivity
-almuerzo
+almuerzo 1
 appenage
 annum
 adespoton
