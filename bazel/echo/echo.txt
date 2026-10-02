@@ -12817,7 +12817,7 @@ emajagua 1
 exoterical
 espials
 exotericism
-extenuated
+extenuated 1
 emboldener
 embossmen
 extraretinal
