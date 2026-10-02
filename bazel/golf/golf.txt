@@ -1406,7 +1406,7 @@ gearshift
 gcd
 gangplow
 grundyite
-galvanopsychic
+galvanopsychic 1
 gipsying
 guilloche
 genitals
