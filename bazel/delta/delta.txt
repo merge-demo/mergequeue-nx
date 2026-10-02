@@ -1798,7 +1798,7 @@ digamist
 dishpanful 1
 discede
 dwelled
-debarkment
+debarkment 1
 doohickeys
 debarment
 debarrance
