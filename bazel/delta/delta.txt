@@ -6527,7 +6527,7 @@ descent
 despert
 dekameter 1
 diffracting
-deschool
+deschool 1
 dirtbird
 dreggily
 distomiasis
