@@ -17185,7 +17185,7 @@ anatosaurus
 amoebiasis
 archgunner
 apomecometer 1
-apomictical
+apomictical 1
 animism
 aquilegia
 athletocracy
