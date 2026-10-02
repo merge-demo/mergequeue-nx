@@ -20405,7 +20405,7 @@ arsis
 arsle
 applewife
 acarus
-apothegmatize
+apothegmatize 1
 arson
 accommodating
 acesodynous
