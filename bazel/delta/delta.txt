@@ -6475,7 +6475,7 @@ desands
 desc
 descale
 downrightly
-descant
+descant 1
 dentinoblast
 disencumber
 diffusedly
