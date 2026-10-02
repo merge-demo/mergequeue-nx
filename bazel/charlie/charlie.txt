@@ -5718,7 +5718,7 @@ catchcry
 corinthian
 conceptus
 corey
-colocates
+colocates 1
 catched
 catcher
 coccidioides
