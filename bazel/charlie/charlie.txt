@@ -1949,7 +1949,7 @@ camembert
 conglobated
 coachwoman
 curdling
-colletic
+colletic 1
 camenes
 coveters
 confeder
