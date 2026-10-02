@@ -1161,7 +1161,7 @@ fascinator
 ferous
 flowerless 1
 flouters
-fantasied
+fantasied 1
 fistulize
 fibularia
 freelovism
