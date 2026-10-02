@@ -8874,7 +8874,7 @@ erewhile
 erewhiles
 ergane
 ethnohistorically
-extenuating
+extenuating 1
 embowel
 elfdom
 exp
