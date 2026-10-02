@@ -11221,7 +11221,7 @@ auroral
 acanthoid 1
 aircoaches
 amphidiscophoran
-antisyphilitic
+antisyphilitic 1
 aerophilia
 amphigam
 archpractice
