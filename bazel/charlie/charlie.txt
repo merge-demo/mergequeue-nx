@@ -18178,7 +18178,7 @@ coglorious
 commencements
 circumesophagal
 coptis
-coessentiality
+coessentiality 1
 centerless
 coessentially
 cervulus
