@@ -6571,7 +6571,7 @@ duckfooted
 duet
 dermol
 danburite 1
-desdemona
+desdemona 1
 disinvest 1
 desecrated
 dilemmatical
