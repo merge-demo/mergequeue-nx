@@ -7162,7 +7162,7 @@ exoner
 episterna
 effectuation
 envolume
-embarment
+embarment 1
 enwall
 epistemonic
 eucaryote
