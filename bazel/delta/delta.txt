@@ -9983,7 +9983,7 @@ demonstratability
 discographical
 dirigomotor
 dermohemia 1
-divinable
+divinable 1
 dinothere
 dimly
 dimmer
