@@ -8159,7 +8159,7 @@ expulsions
 entosphere
 elaidinic
 estacade
-episcopature
+episcopature 1
 eczemas
 emarcid
 emprosthotonus
