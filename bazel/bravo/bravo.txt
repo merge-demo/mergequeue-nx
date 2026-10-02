@@ -1916,7 +1916,7 @@ beatific
 befuddles
 bonniest
 bework
-boreus
+boreus 1
 bandsawn
 bandsman
 bandstand
