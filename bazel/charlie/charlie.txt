@@ -4543,7 +4543,7 @@ carnaubas
 carneau
 carnegie
 carnegiea
-carneyed
+carneyed 1
 cabiritic
 cosession
 convulsed
