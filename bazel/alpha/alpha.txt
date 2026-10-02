@@ -9309,7 +9309,7 @@ alouette
 androsphinxes
 alout 1
 acierate
-alliterations
+alliterations 1
 aloxite
 alpacas
 alpargata
