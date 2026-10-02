@@ -15144,7 +15144,7 @@ antiapoplectic
 aquilon
 antienthusiastic
 afterfame
-antienvironmentalism
+antienvironmentalism 1
 antienvironmentalists
 ataxonomic
 azimine
