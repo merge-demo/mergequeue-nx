@@ -15237,7 +15237,7 @@ benchers
 bridale
 basehearted
 bridally
-bridals
+bridals 1
 boneheads
 briarberry
 bellerophon
