@@ -6795,7 +6795,7 @@ cubhood 1
 cerianthoid
 clearway
 celioparacentesis
-cerinthian
+cerinthian 1
 cowshard
 capless
 celioscope
