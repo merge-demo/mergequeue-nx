@@ -12642,7 +12642,7 @@ equipped
 encincturing
 emeralds
 essancia
-ergotize
+ergotize 1
 elateroid
 egurgitating
 excussio
