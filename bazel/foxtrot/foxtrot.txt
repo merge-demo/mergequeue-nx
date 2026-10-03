@@ -4482,7 +4482,7 @@ footstool
 fishskin
 formidable 1
 frouzier
-frankenia
+frankenia 1
 flattercap
 fermal
 fashioned
