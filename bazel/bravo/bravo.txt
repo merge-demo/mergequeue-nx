@@ -866,7 +866,7 @@ benzidin
 benzalcohol
 beffroy
 baggala
-borderlight
+borderlight 1
 bagganet
 baggara
 bawcock
