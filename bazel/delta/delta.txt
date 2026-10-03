@@ -9658,7 +9658,7 @@ dowcet
 diverting
 diiodoform
 debiting
-debauching
+debauching 1
 dipteron
 dimidiating
 drinkables
