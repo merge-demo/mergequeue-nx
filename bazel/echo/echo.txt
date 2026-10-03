@@ -11899,7 +11899,7 @@ eppes
 encolure
 entomologise
 etheneldeli
-ennui
+ennui 1
 enunciatively
 epimenidean
 eucalyptic
