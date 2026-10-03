@@ -12528,7 +12528,7 @@ collophore
 chromospheric
 colytic
 committitur
-cadjan
+cadjan 1
 cranemen
 chromotypy
 cynegetics
