@@ -10409,7 +10409,7 @@ dotards
 djibouti
 demeritorious
 dioxime
-diverges
+diverges 1
 dioxindole
 decoyers
 dipartite
