@@ -12598,7 +12598,7 @@ ethion
 eunuchry
 exocoelar
 exocoele
-excusing
+excusing 1
 electrophoreses
 exocoelic
 explant
