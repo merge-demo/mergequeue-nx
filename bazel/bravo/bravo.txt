@@ -1612,7 +1612,7 @@ boyarism
 blier
 burletta
 butyrous
-balloted 1
+balloted 2
 ballotist
 ballots
 ballottement
