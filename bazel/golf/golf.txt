@@ -3695,7 +3695,7 @@ griphus 1
 groover
 gaslighted 1
 gelastic
-grapsus
+grapsus 1
 ghostfishes
 garrisonism
 gallinae
