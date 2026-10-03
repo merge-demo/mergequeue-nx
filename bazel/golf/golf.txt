@@ -358,7 +358,7 @@ gasogenic
 gorefish
 gangrenous
 gunsmith 1
-goniometrical 1
+goniometrical 2
 guyer
 galoped
 galactosis
