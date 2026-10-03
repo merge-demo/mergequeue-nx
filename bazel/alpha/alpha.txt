@@ -11472,7 +11472,7 @@ armaments
 aloemodin
 afterturn
 accoutring
-avengeress
+avengeress 1
 acrinyl
 aporrhea
 argolic
