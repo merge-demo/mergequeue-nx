@@ -14143,7 +14143,7 @@ anteorbital
 augustinian
 animalize
 antibodies
-amphivorous
+amphivorous 1
 auriga
 adjusts
 agglutinogenic
