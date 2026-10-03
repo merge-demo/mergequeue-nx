@@ -11903,7 +11903,7 @@ dephlegmate
 disbecome
 disdenominationalize
 dishonorableness
-disdiapason
+disdiapason 1
 disdodecahedroid
 delegatus
 doughtiness
