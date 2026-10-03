@@ -7015,7 +7015,7 @@ debrided
 dachshound
 despoilments
 dilapidating
-diabolepsy
+diabolepsy 1
 diatesseron
 diversiflorous
 decadence
