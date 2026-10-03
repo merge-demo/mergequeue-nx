@@ -328,7 +328,7 @@ abed
 acclimatizes
 anthophyte
 anguis
-avar
+avar 1
 appeals
 agnomical
 aziminobenzene
