@@ -6350,7 +6350,7 @@ dermoneurosis
 decent 1
 downtrod
 discordful
-doctrinal
+doctrinal 1
 dolus
 discontinuing
 dislimn
