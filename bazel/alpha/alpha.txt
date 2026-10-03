@@ -14053,7 +14053,7 @@ atypically
 attry
 antechinomys
 agitpropist
-altazimuth
+altazimuth 1
 autopilots
 anchorate
 autocatalytic
