@@ -2469,7 +2469,7 @@ genouillere 1
 glassing
 gourinae
 gemsbuck
-guardful
+guardful 1
 greasy
 gimble
 gonopodial
