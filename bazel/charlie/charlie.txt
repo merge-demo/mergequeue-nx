@@ -17700,7 +17700,7 @@ counternoise
 cockpit
 couched
 comaking
-chemosmoic
+chemosmoic 1
 catan
 cockroaches
 cozing
