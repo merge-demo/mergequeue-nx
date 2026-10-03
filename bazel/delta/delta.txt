@@ -10968,7 +10968,7 @@ dashnak
 dilutor
 disaffiliated
 duodrama
-disaffinity
+disaffinity 1
 disaffirmance
 dheri
 dictyosiphon
