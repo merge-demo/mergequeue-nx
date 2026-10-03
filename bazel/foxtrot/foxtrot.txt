@@ -2754,7 +2754,7 @@ faliscan
 frizer
 friedelite
 foreparts
-fights
+fights 1
 festerment 1
 footway
 feis
