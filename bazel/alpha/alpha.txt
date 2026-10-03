@@ -2493,7 +2493,7 @@ accuser
 attemperance
 alexin
 alabastrons
-amoebicidal 1
+amoebicidal 2
 acolyth
 aculei
 acolythate
