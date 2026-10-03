@@ -3139,7 +3139,7 @@ assoc
 avertin
 adalat
 airplays
-autokinetic
+autokinetic 1
 amphipyrenin
 actionary
 associableness
