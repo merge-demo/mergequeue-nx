@@ -991,7 +991,7 @@ bourdon
 bipalium
 blinger
 baycuru
-baidarka
+baidarka 1
 baidarkas
 binders
 baiera
