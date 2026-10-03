@@ -10045,7 +10045,7 @@ dubieties
 dissightly
 dynamically
 devisals
-debarkations
+debarkations 1
 deflate
 defailance
 diselectrify 1
