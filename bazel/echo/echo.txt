@@ -6071,7 +6071,7 @@ elastin
 evittate
 eddaic
 enlargeable
-eigenvectors
+eigenvectors 1
 echinorhinus
 eoanthropus
 enlargeableness
