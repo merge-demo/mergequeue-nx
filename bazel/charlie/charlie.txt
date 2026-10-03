@@ -25567,7 +25567,7 @@ commemorized
 coroutines
 clericum
 corp
-corpn
+corpn 1
 corpora
 corporacy
 corporacies
