@@ -10315,7 +10315,7 @@ guichet
 gnathions
 gujarati
 gametic
-girondin 1
+girondin 2
 gamodesmic
 gymnostomous 1
 gigantostraca
