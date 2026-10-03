@@ -10046,7 +10046,7 @@ dissightly
 dynamically
 devisals
 debarkations
-deflate
+deflate 1
 defailance
 diselectrify 1
 dozier
