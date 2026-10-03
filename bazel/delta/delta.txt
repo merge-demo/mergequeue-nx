@@ -10640,7 +10640,7 @@ dosology
 deviously
 dulias
 draying
-drey
+drey 1
 duncery
 demurrals
 diploplacular
