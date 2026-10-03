@@ -4128,7 +4128,7 @@ autobus
 antiphlogistin
 acylamino
 adnephrine
-anthracene
+anthracene 1
 annuent
 adnerval
 apparatchiks
