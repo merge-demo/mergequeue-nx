@@ -11046,7 +11046,7 @@ chiselly
 chisellike
 chiselling
 coevolvedcoevolves
-collectable
+collectable 1
 chiselmouth
 chisels 1
 chisled
