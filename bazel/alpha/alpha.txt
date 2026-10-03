@@ -17996,7 +17996,7 @@ approximativeness
 allods
 approximator
 appt
-arteriotomy
+arteriotomy 1
 aggrandise
 alemonger
 anchoritism
