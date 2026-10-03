@@ -31913,7 +31913,7 @@ cuvee
 cuvettes
 cuvy
 cuzceno
-cwierc
+cwierc 1
 comparators
 carbolineate
 coleopttera
