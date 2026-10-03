@@ -20263,7 +20263,7 @@ arrivistes
 assuager
 ardencies
 arrogant
-arrogated
+arrogated 1
 alaloi
 astonied
 acanthodii
