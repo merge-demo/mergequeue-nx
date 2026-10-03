@@ -25200,7 +25200,7 @@ coachlet
 corymblike
 corymbose
 capitally
-codifiability
+codifiability 1
 cystidia
 cuffy
 creakingly
