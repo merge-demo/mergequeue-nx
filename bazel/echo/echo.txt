@@ -466,7 +466,7 @@ enumerable
 eucommia
 ecclesiarchy 1
 extoll
-ecclesiast
+ecclesiast 1
 entrada
 expostulated
 empasm
