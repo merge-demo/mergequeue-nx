@@ -7111,7 +7111,7 @@ dorsocaudal 1
 desynchronizing
 demonstratable
 destroy
-divisionally
+divisionally 1
 dollops
 dietical
 dolthead
