@@ -4686,7 +4686,7 @@ euphoniad
 embezzled
 electrophonically
 encyclics
-extroversive
+extroversive 1
 eisodic
 eucrites
 elbowing
