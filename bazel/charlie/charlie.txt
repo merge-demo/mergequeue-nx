@@ -1634,7 +1634,7 @@ calmest
 calmier
 calmiest
 coeducationally
-calming
+calming 1
 calmness
 calmnesses
 coemployee
