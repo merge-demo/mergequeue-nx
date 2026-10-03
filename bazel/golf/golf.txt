@@ -150,7 +150,7 @@ graniteware
 gasthauser
 ghettoized
 glunimie
-galactosyl
+galactosyl 1
 galvanosurgery
 gybe 1
 glacialize
