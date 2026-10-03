@@ -10995,7 +10995,7 @@ comessation
 crocodilia
 counterinsurgencies
 crutcher
-catananche
+catananche 1
 clavises
 chirp
 chirped
