@@ -5698,7 +5698,7 @@ feodaries
 funiculi
 forkmen
 federalizing
-fleckiest
+fleckiest 1
 forfeitures
 fungitoxicity
 fubsiest
