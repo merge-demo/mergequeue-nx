@@ -1064,7 +1064,7 @@ dipterad
 darners
 darning
 dewooled
-dimeters
+dimeters 1
 decarch
 dorsodynia
 doling
