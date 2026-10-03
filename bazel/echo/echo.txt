@@ -4740,7 +4740,7 @@ elocutive
 entryway 1
 euripides
 electrowin
-erythrodegenerative
+erythrodegenerative 1
 eyelets
 erosional
 eelware
