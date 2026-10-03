@@ -15040,7 +15040,7 @@ binapthyl 1
 befetter
 betiding
 bicuspidal
-bandaka
+bandaka 1
 breenge
 breenger
 babushka
