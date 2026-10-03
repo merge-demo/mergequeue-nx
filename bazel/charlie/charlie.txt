@@ -10326,7 +10326,7 @@ chickhood
 coveting
 coprosterol
 coheir
-chickories
+chickories 1
 cowpoke
 chickpea
 conspirator
