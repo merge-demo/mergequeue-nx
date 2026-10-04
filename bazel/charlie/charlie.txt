@@ -31554,7 +31554,7 @@ curt
 curtailed
 curtailedly
 curtailing
-cursores
+cursores 1
 curtails
 cubistic
 curtain
