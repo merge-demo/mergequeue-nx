@@ -14793,7 +14793,7 @@ cytoclasis
 caluptra
 cytoclastic
 crioboly
-cytococci 1
+cytococci 2
 choroidal
 cytoderm
 cytodiagnosis
