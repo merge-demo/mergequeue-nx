@@ -23501,7 +23501,7 @@ abulias
 axiation
 avert
 augure
-augured
+augured 1
 abeigh
 anteroposteriorly
 anarcotin
