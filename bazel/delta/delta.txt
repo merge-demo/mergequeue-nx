@@ -3723,7 +3723,7 @@ dinumeration
 dowlas
 dehydrochlorinate
 doketism
-daytale
+daytale 1
 drabble
 drepanoid
 didact
