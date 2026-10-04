@@ -13457,7 +13457,7 @@ expropriator
 eringo
 epenthetic
 electrolyse
-equilibrize
+equilibrize 1
 ensuingly
 encopresis
 eatanswill
