@@ -5550,7 +5550,7 @@ favellae 1
 flexion
 foreclosable
 ferdiad 1
-fleecer
+fleecer 1
 fatal
 foraminiferous
 flirtish
