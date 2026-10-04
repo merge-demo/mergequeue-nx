@@ -25047,7 +25047,7 @@ corduroys
 chiliadic
 choppered
 cuprotungstite
-cordwainer
+cordwainer 1
 choleraic
 cloves
 core
