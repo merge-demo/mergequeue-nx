@@ -2554,7 +2554,7 @@ acorus
 acosmism
 assizing
 acosmist
-athecata
+athecata 1
 aircoach
 atrophy 1
 aftertrial
