@@ -18392,7 +18392,7 @@ cognises
 coarct 1
 countergambit
 cognised
-creepy
+creepy 1
 chatchkas
 chirimoya
 clypeal
