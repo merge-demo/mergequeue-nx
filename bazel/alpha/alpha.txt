@@ -22748,7 +22748,7 @@ arrondissement
 arthrodira
 aeronef
 athwartship
-athwartships
+athwartships 1
 actian
 ablating
 antichlor
