@@ -27769,7 +27769,7 @@ cupronickel
 craw
 coxae
 coeloscope
-coxalgy
+coxalgy 1
 crepusculum
 coxalgias
 cholents
