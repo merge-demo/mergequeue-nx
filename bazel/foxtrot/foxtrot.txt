@@ -8122,7 +8122,7 @@ falisci
 forewrought
 fractionate
 fanaticalness 1
-foretell
+foretell 1
 filmiest
 fillister 1
 fathogram
