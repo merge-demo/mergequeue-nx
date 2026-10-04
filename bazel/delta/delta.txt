@@ -3880,7 +3880,7 @@ doer
 deirid
 deis
 deisidaimonia
-disquieting 1
+disquieting 2
 deism
 decentred
 deistical
