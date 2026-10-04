@@ -1789,7 +1789,7 @@ erinose
 entericoid 1
 epigraphical 1
 engravers
-embankments
+embankments 1
 electrification
 encompasser
 enable
