@@ -25543,7 +25543,7 @@ coronagraphic
 coronilla
 cynocrambe
 coronion
-coronis
+coronis 1
 chese
 coronium
 cremocarp
