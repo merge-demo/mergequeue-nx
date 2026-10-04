@@ -8516,7 +8516,7 @@ alkylbenzenesulfonates 1
 alkylic
 antiphonetic
 alkylidene
-afterburners
+afterburners 1
 autocoids
 astronautics
 actinotrocha
