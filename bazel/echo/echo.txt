@@ -13923,7 +13923,7 @@ errordump
 euphoniousness
 emigrative
 extramusical
-encapsulates
+encapsulates 1
 evincingly
 extranational
 erective
