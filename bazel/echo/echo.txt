@@ -12149,7 +12149,7 @@ epural
 excursionist
 excursiveness
 enterate
-excurvated
+excurvated 1
 extrados
 emphysematous
 esclavage
