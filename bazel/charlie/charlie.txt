@@ -6168,7 +6168,7 @@ catur
 catvine
 cerebellospinal
 coordinated
-correlativeness
+correlativeness 1
 crosstied
 circumjacencies
 ceraunoscope
