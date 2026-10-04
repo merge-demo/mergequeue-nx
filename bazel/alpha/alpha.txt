@@ -12915,7 +12915,7 @@ abattoirs
 apyrase
 anglophobiac
 adoptees
-aire
+aire 1
 ango
 angoise
 angolese
