@@ -7261,7 +7261,7 @@ formiate
 fustet
 floorboards
 fameuse
-fancysick
+fancysick 1
 fortlet
 federalise
 footwalk
