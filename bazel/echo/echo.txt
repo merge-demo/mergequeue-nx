@@ -4805,7 +4805,7 @@ exitance
 ensnarements 1
 encoding
 effectivity
-embrocate
+embrocate 1
 ergasterion
 enbusshe
 epicrisis
