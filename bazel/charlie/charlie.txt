@@ -13652,7 +13652,7 @@ cymosely
 cervine
 casefied
 caleb
-consignatory
+consignatory 1
 cymraeg
 cymry
 consuetude
