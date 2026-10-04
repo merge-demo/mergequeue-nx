@@ -8089,7 +8089,7 @@ gnathostegite 1
 guglets
 gymnophobia 1
 glomming
-groaning
+groaning 1
 gamiest
 garau
 gratulating
