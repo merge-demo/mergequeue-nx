@@ -26818,7 +26818,7 @@ counterequivalent 1
 credited
 counterermine
 coninidia
-counterespionage
+counterespionage 1
 contumelies
 counterestablishment
 crystallise
