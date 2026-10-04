@@ -313,7 +313,7 @@ endark
 espousage
 exserting
 extortionate
-expedient
+expedient 1
 ebon
 eradicate
 esotericism
