@@ -5677,7 +5677,7 @@ depilating
 depilatory
 depilatories 1
 discos
-decerniture
+decerniture 1
 delineation
 depilitant
 deplace
