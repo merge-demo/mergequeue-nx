@@ -10269,7 +10269,7 @@ gumbos
 getid
 grotianism
 gempylid
-gutturalization
+gutturalization 1
 groaningly
 galerie
 gry
