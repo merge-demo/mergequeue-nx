@@ -15400,7 +15400,7 @@ antilithic
 antilitter
 antiliturgy
 aspiculous 1
-amla
+amla 1
 affixt
 adjutancy
 affirmed
