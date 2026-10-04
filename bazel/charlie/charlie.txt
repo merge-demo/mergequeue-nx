@@ -4254,7 +4254,7 @@ carelessly
 carelessness
 careme
 carene
-carer
+carer 1
 chyometer
 capsulotome
 caress
