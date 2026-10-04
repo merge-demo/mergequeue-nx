@@ -10129,7 +10129,7 @@ earphones
 euhyostyly 1
 epagomenic
 elegante
-eboe
+eboe 1
 epilation
 epinastic
 enunciating
