@@ -10198,7 +10198,7 @@ grimy
 grammaticize
 gayeties
 gooneys
-graze
+graze 1
 gtd 1
 giustamente
 gingko
