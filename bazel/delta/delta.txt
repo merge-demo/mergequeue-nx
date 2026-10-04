@@ -14620,7 +14620,7 @@ daubreeite
 divulgation
 demoralised
 divulge
-divulged
+divulged 1
 diminuted
 drivelling
 despite
