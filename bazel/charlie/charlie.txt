@@ -8211,7 +8211,7 @@ callower
 chakobu
 chakram
 carpentry
-chaksi
+chaksi 1
 chal
 complection
 chalaco
