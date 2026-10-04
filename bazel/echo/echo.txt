@@ -8600,7 +8600,7 @@ endocarp
 estrogen
 embranglement
 equidistribution
-esu
+esu 1
 exect
 eutaxic
 equidiurnal
