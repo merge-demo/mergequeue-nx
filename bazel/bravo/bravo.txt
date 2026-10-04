@@ -11066,7 +11066,7 @@ blocker
 brid
 bifoliolate 1
 bankruptlike
-beguines
+beguines 1
 blockheadish
 blockheads
 bedrip
