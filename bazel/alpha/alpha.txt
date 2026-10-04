@@ -1483,7 +1483,7 @@ acroceraunian
 apportionate
 aiguilles
 auricularias
-afoot
+afoot 1
 acclivous
 accolade
 accolades
