@@ -12435,7 +12435,7 @@ courtroom
 chromium
 chromiums
 chromize
-crocard
+crocard 1
 congoese 1
 chromizing
 caswellite
