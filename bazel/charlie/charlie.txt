@@ -21413,7 +21413,7 @@ correa
 cicadidae
 camerlingos
 concludingly
-clerkly
+clerkly 1
 corvinas
 conclusible
 conclusion
