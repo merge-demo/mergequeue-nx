@@ -1816,7 +1816,7 @@ berylloid
 bowlin
 bushranging
 bandala
-buggery
+buggery 1
 bandanaed
 battlepiece
 bollito
