@@ -2393,7 +2393,7 @@ bardlike
 barkiest
 bazar
 brinks
-bilaterality
+bilaterality 1
 bardocucullus
 betowel
 blinkering
