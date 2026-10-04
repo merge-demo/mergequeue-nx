@@ -16603,7 +16603,7 @@ clonos
 clonothrix
 carangus
 clonus
-cloof
+cloof 1
 chymaqueous 1
 chemicoluminescence
 cloot
