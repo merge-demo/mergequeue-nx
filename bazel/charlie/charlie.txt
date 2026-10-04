@@ -11949,7 +11949,7 @@ coaggregated
 confabulating
 confarreate
 choriambus
-choric
+choric 1
 chorines
 collunarium
 cachina
