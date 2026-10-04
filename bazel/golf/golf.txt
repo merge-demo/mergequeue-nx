@@ -7616,7 +7616,7 @@ gilbertite
 gubernacula
 glacialist
 gracefuller
-gallerying
+gallerying 1
 gracilariidae
 gravispheric
 grainy
