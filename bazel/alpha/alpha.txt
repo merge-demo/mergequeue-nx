@@ -2426,7 +2426,7 @@ algonquin
 aluminized
 antitartaric
 anoil
-autoriser
+autoriser 1
 atrochal
 arbitry
 archaizing
