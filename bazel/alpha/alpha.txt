@@ -22348,7 +22348,7 @@ autoreduction
 amplect
 atmologist
 astrocompass
-astrodiagnosis
+astrodiagnosis 1
 astrodynamic
 androphyll
 afterbodies
