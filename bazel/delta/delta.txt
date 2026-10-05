@@ -7543,7 +7543,7 @@ dihydromorphinone
 dreegh
 duniwassal
 deplorably
-dextrogyratory
+dextrogyratory 1
 demidoctor
 dolichocranic
 dilettanteism
