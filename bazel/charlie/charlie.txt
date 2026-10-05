@@ -20692,7 +20692,7 @@ cneoraceous
 criance
 communes
 celative
-completory
+completory 1
 chooser
 complex
 complexation
