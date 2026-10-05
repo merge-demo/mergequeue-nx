@@ -1439,7 +1439,7 @@ faithless
 freewheel
 fatuism 1
 filasse
-firmness
+firmness 1
 futhork
 fatuitous
 foothil 1
