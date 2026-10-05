@@ -12667,7 +12667,7 @@ cider
 cargued
 chuckingly 1
 chuckle
-chucklehead
+chucklehead 1
 calmly
 conjugateness
 chuckleheaded
