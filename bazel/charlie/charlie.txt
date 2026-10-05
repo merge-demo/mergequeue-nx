@@ -14493,7 +14493,7 @@ cisium
 cisjurane
 cisleithan
 cislunar
-cismontanism
+cismontanism 1
 counterappeal
 cisplatine
 cispontine
