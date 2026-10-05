@@ -7057,7 +7057,7 @@ brickbatted
 basset
 bezzant
 bennetweed
-bespattered
+bespattered 1
 batara
 barracks
 bannerette
