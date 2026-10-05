@@ -5247,7 +5247,7 @@ acosmic
 advertisements
 affied
 abjured
-applaudingly
+applaudingly 1
 affiliable
 airscape
 addio
