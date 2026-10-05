@@ -27619,7 +27619,7 @@ cowages
 cowardy
 cowardice
 chrobat
-cowardish
+cowardish 1
 cannibalistic
 chionophobia
 chuffiest
