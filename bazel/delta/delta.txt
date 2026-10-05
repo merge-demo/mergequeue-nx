@@ -10345,7 +10345,7 @@ dioptra
 depurative
 demove
 dioptric
-dioptrical
+dioptrical 1
 duhr
 diorama
 daroo
