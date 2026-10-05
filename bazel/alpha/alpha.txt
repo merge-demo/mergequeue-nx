@@ -12986,7 +12986,7 @@ athelings
 alkalisable
 angareeb
 apolitically
-apologist
+apologist 1
 angulous
 aporose
 antepone
