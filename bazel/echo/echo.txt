@@ -7256,7 +7256,7 @@ eradicably
 enterally
 eolian
 eolopiles
-enraptures
+enraptures 1
 emulsification
 exsector
 echoless
