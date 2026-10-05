@@ -13304,7 +13304,7 @@ directrix
 disproportional
 dossety
 disproportionately
-dynamism
+dynamism 1
 demographics
 demorphinization
 dispropriate
