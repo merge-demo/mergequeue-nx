@@ -10194,7 +10194,7 @@ filazer
 freudianism 1
 flopovers
 frogbit 1
-frogeyed
+frogeyed 1
 farewelling
 fissureless
 fibra
