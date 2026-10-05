@@ -8240,7 +8240,7 @@ diadoumenos
 dowly
 diaene
 diaeretic
-detoxicated
+detoxicated 1
 diageotropic
 diaglyphic
 desmopelmous
