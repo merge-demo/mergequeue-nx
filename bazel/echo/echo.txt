@@ -12319,7 +12319,7 @@ enjambment
 eradicating
 emusive
 earthlings
-ethic
+ethic 1
 enhydrous
 etymologicon
 exercitation 1
