@@ -4072,7 +4072,7 @@ frankest
 finitive
 felapton
 formants
-foppishness
+foppishness 1
 finitude
 flushable
 fluking
