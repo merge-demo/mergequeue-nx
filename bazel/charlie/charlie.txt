@@ -7922,7 +7922,7 @@ cetera 1
 ceterach
 ceti
 cetic
-cocytus
+cocytus 1
 chitinization
 cetyl
 cetylic
