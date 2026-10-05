@@ -5619,7 +5619,7 @@ desponded
 diplomatology
 depersonalized
 discipled
-deflated
+deflated 1
 dacelo
 discouraging
 deathwatches
