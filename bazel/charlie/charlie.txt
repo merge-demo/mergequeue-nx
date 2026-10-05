@@ -22729,7 +22729,7 @@ coinsured
 chevise
 consanguinean
 caballeros
-consanguineous
+consanguineous 1
 consanguineously
 caulocarpous
 coemptio
