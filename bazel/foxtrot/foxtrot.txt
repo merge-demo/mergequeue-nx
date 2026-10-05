@@ -563,7 +563,7 @@ fallectomy
 forebays
 fussbudgets
 fallen
-ferny
+ferny 1
 falling 1
 flichtering
 faradized
