@@ -6984,7 +6984,7 @@ eying
 epistolar
 endostylic
 ephectic
-erian
+erian 1
 ecthlipses
 eyebrows
 ensaint
