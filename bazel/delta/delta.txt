@@ -5547,7 +5547,7 @@ diversities
 diaminogene
 dx
 dimmock
-departmentalism
+departmentalism 1
 departmentalization
 departmentalized
 deuteronomy
