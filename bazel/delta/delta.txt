@@ -7650,7 +7650,7 @@ developmental
 developmentally
 decompressions
 decolouring
-disavowment
+disavowment 1
 dermatologist
 drabbles
 desalinating
