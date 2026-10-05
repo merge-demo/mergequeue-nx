@@ -2824,7 +2824,7 @@ deuteroglobulose
 decretorian 1
 dithymol
 duplicative
-defi
+defi 1
 deferred
 dossers
 declarator
