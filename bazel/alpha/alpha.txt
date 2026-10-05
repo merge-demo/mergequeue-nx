@@ -17802,7 +17802,7 @@ anthophoridae
 apportioning
 analphabetic
 agent
-assertory
+assertory 1
 anastatic
 apposability
 anthranone
