@@ -64,7 +64,7 @@ durham
 dacryosyrinx
 deglamorized
 down
-demonological
+demonological 1
 dactylar
 doggerelizer
 dactylically
