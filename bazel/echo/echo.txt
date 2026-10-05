@@ -12786,7 +12786,7 @@ endodontia
 exosmose
 exosmotic
 explicative
-erotize
+erotize 1
 edaphosaurid
 ensembles
 encounterable
