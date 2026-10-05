@@ -4322,7 +4322,7 @@ gentisein
 gustativeness
 gnocchetti
 gyrostabilizer
-girse
+girse 1
 grubless
 gravidity
 gymnic
