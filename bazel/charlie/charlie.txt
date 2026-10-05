@@ -10375,7 +10375,7 @@ chiefish
 chieftain
 chieftaincy 1
 chieftainess
-chieftainry
+chieftainry 1
 complexify
 chieftainries
 concludendi
