@@ -26082,7 +26082,7 @@ cosinage 1
 cosine
 culverineer
 cynognathus
-cosiness
+cosiness 1
 colder
 cosins
 chaja
