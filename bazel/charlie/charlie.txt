@@ -18812,7 +18812,7 @@ cenobian
 commend
 contemplated
 colessor
-colessors
+colessors 1
 conventionalization
 compliers
 colet 1
