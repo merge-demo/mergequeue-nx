@@ -8896,7 +8896,7 @@ cryptanalyst
 cremains
 cochylis
 charadrius
-charango
+charango 1
 chorioidal
 colibacillosis
 chuddars
