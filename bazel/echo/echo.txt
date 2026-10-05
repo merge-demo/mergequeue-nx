@@ -5353,7 +5353,7 @@ explicit
 enjewel 1
 emim
 everglades
-exsertion
+exsertion 1
 endospore
 evidentness
 encharm
