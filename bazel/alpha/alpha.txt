@@ -15438,7 +15438,7 @@ antimasquer
 attitude
 abba
 anhedonic
-afterstrain
+afterstrain 1
 adversa
 argenton
 adjurations
