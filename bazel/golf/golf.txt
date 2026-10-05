@@ -4247,7 +4247,7 @@ grovelling
 gumptionless 1
 gloats
 gunsling
-gasteralgia
+gasteralgia 1
 garrisoning
 gilty
 gluttonise
