@@ -1262,7 +1262,7 @@ encrinite
 emperors
 enrobe
 ecclesiarch
-eversive
+eversive 1
 eking
 electrocystoscope
 equalness
