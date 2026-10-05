@@ -17496,7 +17496,7 @@ apparitor
 as
 appassionata
 adaptitude
-adverbiality
+adverbiality 1
 appd 1
 antitrismus
 amblyacousia
