@@ -11406,7 +11406,7 @@ admire
 ampul
 admonitory
 anhydremia
-apodosis
+apodosis 1
 ampullary 1
 ampullate
 aqueoigneous
