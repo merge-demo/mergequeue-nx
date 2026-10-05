@@ -17869,7 +17869,7 @@ duelers
 duelist
 duelistic
 dolentissimo
-disinfest
+disinfest 1
 durgan
 dinks
 dayflowers
