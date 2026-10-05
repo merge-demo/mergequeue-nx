@@ -26467,7 +26467,7 @@ careenage
 cotrine
 cathodoluminescence
 cacoplastic
-corkiest
+corkiest 1
 curet
 catocalid
 cotripper
