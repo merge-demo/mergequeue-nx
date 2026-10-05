@@ -12842,7 +12842,7 @@ dribblets
 democratization
 dismasted 1
 denned
-disme
+disme 1
 decast
 dipteran
 dismembrator
