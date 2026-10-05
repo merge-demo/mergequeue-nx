@@ -1420,7 +1420,7 @@ enzymes
 efflorescing
 effluences
 endoral
-epitasis
+epitasis 1
 epithalamia
 etherified
 essenced
