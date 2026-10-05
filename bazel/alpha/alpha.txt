@@ -7822,7 +7822,7 @@ anomalonomy
 anglicism
 aldrovanda
 achromaturia 1
-adequative
+adequative 1
 alchemically
 aflow
 aortosclerosis
