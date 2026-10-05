@@ -2732,7 +2732,7 @@ fraternization
 forelimbs 1
 fyce
 fraela
-folklore
+folklore 1
 faunas
 framing
 feedy
