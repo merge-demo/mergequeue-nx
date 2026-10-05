@@ -1238,7 +1238,7 @@ grackles
 guana
 gaufre
 glittered
-generalizations 1
+generalizations 2
 groups
 goodship
 galligaskin
