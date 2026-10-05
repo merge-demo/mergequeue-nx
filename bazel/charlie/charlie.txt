@@ -154,7 +154,7 @@ cablelaid
 cableless
 cablelike
 cerberic
-chryseis 1
+chryseis 2
 casterless
 cables
 changeabout
