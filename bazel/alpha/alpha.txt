@@ -23751,7 +23751,7 @@ apism
 auscultation
 amphicyrtic
 anagnorises
-auscultatory
+auscultatory 1
 ausform
 amyotrophy 1
 ausforming
