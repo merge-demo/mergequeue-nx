@@ -11489,7 +11489,7 @@ firmity
 fiercened
 furtively
 furud
-flamboyant
+flamboyant 1
 flotant
 faddisms 1
 fructuousness
