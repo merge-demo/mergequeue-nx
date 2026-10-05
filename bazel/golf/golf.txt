@@ -10815,7 +10815,7 @@ gossipping
 geniolatry
 goldtail
 glaring
-gingellies
+gingellies 1
 gargety
 ghazis
 greenhide
