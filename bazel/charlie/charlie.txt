@@ -19609,7 +19609,7 @@ contralto
 cherimoya
 circumaction
 coitional
-columning
+columning 1
 cuttling
 columnist
 columnistic
