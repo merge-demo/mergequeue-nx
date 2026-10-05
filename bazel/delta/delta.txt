@@ -6803,7 +6803,7 @@ desirer
 drachma
 daira
 desires
-dihedrons
+dihedrons 1
 desirous
 desirousness
 drily
