@@ -5579,7 +5579,7 @@ amphibrach
 allomerism 1
 attentat
 apholate
-aftershaft
+aftershaft 1
 aftershafted
 acetylcholinic
 almagests
