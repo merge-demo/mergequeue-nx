@@ -2164,7 +2164,7 @@ camphoid
 choryos
 camphol
 campholic
-compilatory
+compilatory 1
 coleorhiza
 camphols
 contemnor
