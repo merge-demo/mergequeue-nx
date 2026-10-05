@@ -2632,7 +2632,7 @@ forecastles
 funnel
 fireless
 flusters
-foreshoulder
+foreshoulder 1
 figuratively
 fastidious
 frumentation
