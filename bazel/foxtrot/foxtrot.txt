@@ -10988,7 +10988,7 @@ fumbled
 farde 1
 forecatharping
 fausen
-frostiest
+frostiest 1
 flintiest
 foreproffer
 foreweep
