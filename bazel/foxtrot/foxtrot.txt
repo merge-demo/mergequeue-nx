@@ -4896,7 +4896,7 @@ fibrinate
 fellage
 forbears
 freedmen
-forwent
+forwent 1
 fraternalism
 fulvidness
 farina
