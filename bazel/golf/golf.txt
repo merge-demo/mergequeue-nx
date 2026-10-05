@@ -8828,7 +8828,7 @@ gauntleting
 germain
 generalize
 griddler 1
-galleys
+galleys 1
 gentianaceous
 gallus 1
 globate
