@@ -13293,7 +13293,7 @@ exploitatory 1
 endocrinopath
 episcopy
 expiscate
-effie
+effie 1
 exploiting
 exploiture
 entozoological
