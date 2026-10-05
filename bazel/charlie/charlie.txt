@@ -5063,7 +5063,7 @@ colat
 casanova
 casaques
 casas
-cojudge
+cojudge 1
 coevolve
 colisepsis
 cerianthus
