@@ -3502,7 +3502,7 @@ edwardian
 erose
 extraterrene 1
 escamotage
-effulges
+effulges 1
 electromechanically
 evilnesses 1
 encarnalising 1
