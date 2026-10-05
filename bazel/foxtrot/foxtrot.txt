@@ -3991,7 +3991,7 @@ fiscal
 fulmine
 figurehead 1
 flanque
-feminisation
+feminisation 1
 fictionally
 fibres
 fraulein
