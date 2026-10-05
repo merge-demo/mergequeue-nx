@@ -7099,7 +7099,7 @@ centiday
 cannikin
 copt
 confluences
-centigrams
+centigrams 1
 centile
 cendre
 caudatum
