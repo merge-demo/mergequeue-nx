@@ -9108,7 +9108,7 @@ bodysuit
 beauts
 biosome
 boodledom 1
-biospeleology
+biospeleology 1
 biosphere
 breakdown
 bionomical
