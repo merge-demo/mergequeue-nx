@@ -4930,7 +4930,7 @@ gorier
 gavotted
 glaiks
 gorse
-glauberite
+glauberite 1
 glair
 glaire 1
 glosses
