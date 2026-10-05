@@ -9965,7 +9965,7 @@ glegness
 glyptic
 googols
 gipsyfy 1
-galvayned
+galvayned 1
 goldi
 greisen
 gozell
