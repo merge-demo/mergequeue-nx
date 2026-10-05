@@ -824,7 +824,7 @@ bonelike
 bedene
 bouleversement
 baffs
-becomingly
+becomingly 1
 boltholes
 baft
 bigate
