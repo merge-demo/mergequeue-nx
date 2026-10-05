@@ -13970,7 +13970,7 @@ emceed
 embosked
 enwreathed
 endears
-exundance
+exundance 1
 exsuperance
 extraperiosteal
 engem
