@@ -5358,7 +5358,7 @@ affrayers
 affraying
 affrays
 admeasured
-affranchise
+affranchise 1
 adiadokokinesi
 affret
 acanthous
