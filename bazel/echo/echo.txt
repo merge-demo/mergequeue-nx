@@ -190,7 +190,7 @@ emeras
 exarticulation
 exclamatively
 earthquaken
-excurvature
+excurvature 1
 ethylthioether
 evicting
 expediting
