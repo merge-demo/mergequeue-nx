@@ -11534,7 +11534,7 @@ evincive
 excavationist
 echnida
 evite
-estrone
+estrone 1
 emissi
 epidotiferous
 epiphytical
