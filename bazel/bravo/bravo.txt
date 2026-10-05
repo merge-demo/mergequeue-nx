@@ -7567,7 +7567,7 @@ bastardize
 bloodripe
 begiggle
 barnacle
-bewhisker
+bewhisker 1
 biplicate
 bleater
 burele
