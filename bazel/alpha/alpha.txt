@@ -17208,7 +17208,7 @@ aphodus
 adeptship
 assistantship
 automatization
-aspired
+aspired 1
 androphagous
 althaeas
 almudes
