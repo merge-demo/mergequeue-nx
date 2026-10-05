@@ -13302,7 +13302,7 @@ colob
 chrysophyll
 cycloolefine
 cycloolefinic
-chintziest
+chintziest 1
 cyclop
 cyclopaedia
 cayleyan
