@@ -13232,7 +13232,7 @@ animosity
 aftosas
 ancestors
 aegithognathous
-animus
+animus 1
 administrationist
 animuses
 anionic 1
