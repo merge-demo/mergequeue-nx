@@ -5899,7 +5899,7 @@ acrogenous 1
 agglomerate
 anychia
 amblyoscope
-agglomerates
+agglomerates 1
 agglomeration
 agglomerative
 abscissions
