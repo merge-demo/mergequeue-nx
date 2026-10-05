@@ -2722,7 +2722,7 @@ acrimonious
 acrindoline
 allamonti
 asteriae
-arak
+arak 1
 anabasin
 acritan
 acrite
