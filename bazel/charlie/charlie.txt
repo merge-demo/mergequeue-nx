@@ -27371,7 +27371,7 @@ congee
 chartographer 1
 courteousness
 courtepy
-courter
+courter 1
 cozily
 chilblain
 courtesan
