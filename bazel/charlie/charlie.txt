@@ -16746,7 +16746,7 @@ cloudlike
 cloudology
 comptrollership
 clouds
-chanteuses
+chanteuses 1
 cloudship
 cursedest
 chalcophile
