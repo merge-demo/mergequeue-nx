@@ -4581,7 +4581,7 @@ fossilized
 fool
 feigned
 frenchily
-fingery
+fingery 1
 flippance
 forestwards
 fibrinokinase
