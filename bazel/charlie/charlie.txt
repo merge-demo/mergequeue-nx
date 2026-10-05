@@ -18414,7 +18414,7 @@ conveyancer
 cognized
 cognizes
 cognizing
-crescive
+crescive 1
 cognizor
 cognomens 1
 claught

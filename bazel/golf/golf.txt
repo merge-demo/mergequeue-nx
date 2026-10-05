@@ -2738,7 +2738,7 @@ gripeful
 gorlois
 geniture
 grenades
-geodesists 1
+geodesists 2
 gristmiller
 gliadins
 guillotine
