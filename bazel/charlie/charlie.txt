@@ -27583,7 +27583,7 @@ cerargyrite
 covetous
 choffer
 choucroute
-climacium
+climacium 1
 cheeriest
 covetously
 covibrate
