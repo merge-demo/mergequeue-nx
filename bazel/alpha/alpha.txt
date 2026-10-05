@@ -10185,7 +10185,7 @@ ambulatories
 ambulatorium
 ahepatokla
 avo
-acmaesthesia
+acmaesthesia 1
 amburbial
 airframe
 anxiolytic
