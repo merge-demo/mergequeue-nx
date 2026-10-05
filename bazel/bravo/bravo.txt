@@ -1517,7 +1517,7 @@ ballas
 baronetised
 blacktopping
 beeherd
-burger
+burger 1
 bersiamite
 bulbiform
 bdl
