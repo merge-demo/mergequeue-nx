@@ -7225,7 +7225,7 @@ antonomasia
 aren
 antiwhite
 allotting
-antirevolutionary
+antirevolutionary 1
 accresce
 alamode
 ascogonidia 1
