@@ -22788,7 +22788,7 @@ animikite
 acromastitis
 anchoritish
 antitemperance
-atlantid
+atlantid 1
 asaphid
 atlantides
 audibility
