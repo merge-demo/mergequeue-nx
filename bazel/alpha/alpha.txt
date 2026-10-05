@@ -11474,7 +11474,7 @@ afterturn
 accoutring
 avengeress
 acrinyl
-aporrhea
+aporrhea 1
 argolic
 antiphilosophism
 acaulose
