@@ -6029,7 +6029,7 @@ acknowledger
 agilawood
 asbestosis
 appomattox
-ambiversive
+ambiversive 1
 animalcular
 anatomists
 arioso
