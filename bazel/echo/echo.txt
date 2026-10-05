@@ -2722,7 +2722,7 @@ electrotype 1
 entosphenoid
 electrotypy
 enolase 1
-earwigged
+earwigged 1
 eightyfold
 esquamulose
 evaporated
