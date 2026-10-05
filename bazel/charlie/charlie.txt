@@ -25948,7 +25948,7 @@ choko
 chaffiness
 cortisol 1
 cortisols
-cortlandtite
+cortlandtite 1
 caulotaxy
 corton
 cacoeconomy
