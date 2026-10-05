@@ -4898,7 +4898,7 @@ discreditableness 1
 dishmonger 1
 discage
 diluting
-deigns
+deigns 1
 diminuendo
 dialogist
 demonologer
