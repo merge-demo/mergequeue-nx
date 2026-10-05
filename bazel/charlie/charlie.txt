@@ -3235,7 +3235,7 @@ capitalisable
 capitalised
 capitalising
 cynocrambaceae
-cit
+cit 1
 capitalistically
 capitalists
 capitalizable 1
