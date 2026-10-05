@@ -14957,7 +14957,7 @@ adenographic
 acale
 assassinates 1
 antozone
-arara
+arara 1
 anticonfederative
 anticonformity
 antiaristocracy
