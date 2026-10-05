@@ -8023,7 +8023,7 @@ exopterygota 1
 exocline
 epipactis
 elasticized
-enneateric
+enneateric 1
 enigmaticalness
 exscript
 epigonal
