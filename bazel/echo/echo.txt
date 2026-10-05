@@ -11204,7 +11204,7 @@ extrajudicial
 etuis
 elver
 extatic
-exportations 1
+exportations 2
 evanescible
 evanescing
 exorbitancy
