@@ -11057,7 +11057,7 @@ funambulatory 1
 funambule
 fondaco
 fedia
-flamenship 1
+flamenship 2
 frontality
 funambuloes
 filled
