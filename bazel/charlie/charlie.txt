@@ -31030,7 +31030,7 @@ classes
 cryoplankton
 chry 1
 cummerbund
-cummerbunds
+cummerbunds 1
 cummers
 cummingtonite
 cummock
