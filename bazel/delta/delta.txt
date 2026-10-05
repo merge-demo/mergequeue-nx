@@ -8264,7 +8264,7 @@ deathcup 1
 diploetic
 diagnostician
 diagnosticians
-dispopularize
+dispopularize 1
 dizzy
 draped
 disputableness
