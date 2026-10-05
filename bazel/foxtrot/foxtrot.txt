@@ -11542,7 +11542,7 @@ fictionize
 fards 1
 floeberg
 famulary
-fledgy
+fledgy 1
 folio
 fretfully
 ferociousness
