@@ -6282,7 +6282,7 @@ crustation
 callosomarginal
 caulks
 chymists
-conferrer
+conferrer 1
 capuchins
 catalases
 cofermentation
