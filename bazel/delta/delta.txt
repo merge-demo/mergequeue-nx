@@ -12882,7 +12882,7 @@ dismissed
 distemperate
 dismisses
 dismissing
-dismissory
+dismissory 1
 discographically
 dysmnesia
 dysmorphophobia
