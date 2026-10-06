@@ -6581,7 +6581,7 @@ arbalestre 1
 apocarpous
 anoraks
 acknowledgment
-asperge
+asperge 1
 asplanchnic
 acrasida
 aeolina
