@@ -10337,7 +10337,7 @@ boozers
 blame
 blamefully
 bicyclical
-betise
+betise 1
 blamefulness
 boston
 battlefield
