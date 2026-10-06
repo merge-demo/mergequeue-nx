@@ -6371,7 +6371,7 @@ glucosone
 granolithic 1
 grouty
 geotectology
-gunarchy
+gunarchy 1
 gossaniferous 1
 gog
 gamin 1
