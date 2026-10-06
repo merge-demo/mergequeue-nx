@@ -10154,7 +10154,7 @@ gloried 1
 glideness
 guardianly
 git
-gingely
+gingely 1
 grabby
 grown
 grandstands
