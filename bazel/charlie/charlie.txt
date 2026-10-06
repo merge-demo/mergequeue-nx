@@ -6221,7 +6221,7 @@ caudex
 caudices
 cassolette
 cystiferous
-concise
+concise 1
 calanthe
 caudle
 caudles
