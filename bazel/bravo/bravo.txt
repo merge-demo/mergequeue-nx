@@ -2737,7 +2737,7 @@ bubastite
 backward
 beltline
 bullbat
-bismutoplagionite
+bismutoplagionite 1
 barolo
 bm
 bicolored
