@@ -6836,7 +6836,7 @@ cognizance
 coadunative
 counterreconnaissance
 casketing
-cocoonery
+cocoonery 1
 cementers
 cellular
 caloris
