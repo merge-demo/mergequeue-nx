@@ -24700,7 +24700,7 @@ aerobiotic
 amusedly
 abevacuation
 acalephe
-averruncator
+averruncator 1
 arteriasis
 avers
 aversant
