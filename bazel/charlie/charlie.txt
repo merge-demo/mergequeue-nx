@@ -24232,7 +24232,7 @@ convolvulad
 courser
 cosonant
 convolvulic 1
-convolvulinic
+convolvulinic 1
 certiorari
 cholecystoduodenostomy
 constraining
