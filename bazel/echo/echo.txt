@@ -6323,7 +6323,7 @@ exteriorising
 endpapers
 echinosphaerites
 enharmonically
-earnful
+earnful 1
 emodin
 embrocation
 ejusd
