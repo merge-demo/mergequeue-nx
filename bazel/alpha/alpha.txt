@@ -12499,7 +12499,7 @@ anemias
 academian
 adelarthrosomata
 anemic 1
-anemically
+anemically 1
 adipogenic
 anemobiagraph
 anemochord
