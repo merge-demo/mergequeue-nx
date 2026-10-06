@@ -3013,7 +3013,7 @@ fricasseeing
 fiaroblast
 foreordained
 flirts
-flaggelation
+flaggelation 1
 forbs
 furiousness 1
 fossiform
