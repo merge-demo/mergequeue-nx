@@ -14168,7 +14168,7 @@ circumambulator
 circumanal
 circumantarctic
 circumarticular
-circumaviate
+circumaviate 1
 circumaviator
 cowlike 1
 circumaxial
