@@ -1491,7 +1491,7 @@ flutings 1
 furibund
 flunkeyish
 furanose
-foundering
+foundering 1
 fient
 forebodingness
 forestology
