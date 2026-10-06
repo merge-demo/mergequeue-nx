@@ -9183,7 +9183,7 @@ cauliculus
 chassed
 chromatopathic
 chasseing
-chassepot
+chassepot 1
 chassepots
 chiarooscurist 1
 chasseurs
