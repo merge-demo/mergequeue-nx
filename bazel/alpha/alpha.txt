@@ -16752,7 +16752,7 @@ accidentals
 amianthiform 1
 anteaters
 antiorthodox
-antikamnia
+antikamnia 1
 aphanitic
 aphetize
 armours
