@@ -497,7 +497,7 @@ gelatin
 gye
 gluteus
 grama
-gullably
+gullably 1
 ghostism
 geminations
 gnomes
