@@ -4530,7 +4530,7 @@ decussis
 dendrite 1
 decern
 dorsilumbar
-distraughted
+distraughted 1
 devocation
 drabbled
 demigroat
