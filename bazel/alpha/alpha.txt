@@ -7794,7 +7794,7 @@ aldazine
 antithrombic
 aldoheptose
 aldoketene
-analecta
+analecta 1
 antigalactic
 aldol
 assured
