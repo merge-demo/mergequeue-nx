@@ -12556,7 +12556,7 @@ exit
 encrypted
 exsects
 exite
-eranist
+eranist 1
 extinction
 envied
 enherit
