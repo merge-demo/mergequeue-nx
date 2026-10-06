@@ -15904,7 +15904,7 @@ disclaiming
 drench 1
 dossennus
 dressings
-decapodiform
+decapodiform 1
 dosser
 dosseret
 dulcian
