@@ -16322,7 +16322,7 @@ anthraphenone
 antitropy
 asonia
 arculite
-afros 1
+afros 2
 adfroze
 antitruster
 antituberculosis
