@@ -9953,7 +9953,7 @@ consumable
 chenopod
 colocasia
 catacombic
-criollo
+criollo 1
 chiro
 chenopods
 cajuputs
