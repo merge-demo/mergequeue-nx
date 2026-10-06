@@ -375,7 +375,7 @@ galangin
 golundauze 1
 gavot
 gaoled
-glaive 1
+glaive 2
 gentiles
 glossophagine
 goto
