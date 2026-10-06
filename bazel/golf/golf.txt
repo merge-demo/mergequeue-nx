@@ -8826,7 +8826,7 @@ grossularia
 grossest
 gauntleting
 germain
-generalize
+generalize 1
 griddler 1
 galleys
 gentianaceous
