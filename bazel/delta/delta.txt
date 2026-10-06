@@ -8666,7 +8666,7 @@ divulgate
 decoymen
 drumbling
 discoast
-diaspidine
+diaspidine 1
 diaspirin
 dots
 dwt
