@@ -10500,7 +10500,7 @@ aliofar
 amide
 amidide
 acoelous
-adscript
+adscript 1
 amidins
 arret
 amidism
