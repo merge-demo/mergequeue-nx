@@ -19513,7 +19513,7 @@ colporrhexis
 colportage
 colporter
 colporteurs
-colposcopy
+colposcopy 1
 crocodiles
 cornstook
 colstaff
