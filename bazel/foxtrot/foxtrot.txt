@@ -709,7 +709,7 @@ flair
 foziness 1
 frettier
 favourably
-fetichmonger
+fetichmonger 1
 foraminulose
 frapping
 fisherwoman
