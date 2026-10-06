@@ -10721,7 +10721,7 @@ faenus
 flam
 flotsams
 fideisms
-frumps
+frumps 1
 foldboat
 forcedly
 fimbria 1
