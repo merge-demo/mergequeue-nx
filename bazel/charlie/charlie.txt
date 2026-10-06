@@ -26939,7 +26939,7 @@ countfish
 columbotitanate
 colorable
 chevaux
-cunningaire
+cunningaire 1
 countermarching
 complexification
 caroches
