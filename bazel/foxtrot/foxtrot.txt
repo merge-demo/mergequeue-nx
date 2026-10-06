@@ -3210,7 +3210,7 @@ fixage
 fruits
 fiches
 findjan 1
-feracious
+feracious 1
 fusilade
 foredetermination
 flutterers
