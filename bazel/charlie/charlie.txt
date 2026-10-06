@@ -18354,7 +18354,7 @@ comparer
 curvle
 cogitator
 cogito
-coglorify
+coglorify 1
 cogman
 coralloid
 counterbuilding
