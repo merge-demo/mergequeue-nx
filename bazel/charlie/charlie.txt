@@ -29489,7 +29489,7 @@ confliction
 chawle
 cageot
 cloak
-chileanize
+chileanize 1
 crystallography
 crystalloid
 concretism
