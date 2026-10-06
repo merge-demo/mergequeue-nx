@@ -12339,7 +12339,7 @@ conjunction
 chromates
 cantred
 chrysomonadine
-chromatically
+chromatically 1
 carcinogen
 chromatician
 chromaticness
