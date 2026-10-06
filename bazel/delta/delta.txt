@@ -12056,7 +12056,7 @@ dismayedness 1
 dunderheaded
 discous
 discontinuity
-doorlike
+doorlike 1
 ditheist
 delirant
 demantoid
