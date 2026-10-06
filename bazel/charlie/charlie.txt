@@ -21629,7 +21629,7 @@ condescensively
 condescensiveness
 clearwater
 cancelli
-condescent 1
+condescent 2
 cocciform
 calcaneofibular 1
 condiction
