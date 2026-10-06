@@ -4465,7 +4465,7 @@ encarpa
 encarpium
 encarpus
 endrin 1
-enworthy
+enworthy 1
 entirely
 eudemonistically
 ectorganism
