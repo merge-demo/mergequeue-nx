@@ -2529,7 +2529,7 @@ chaldaical
 candlefishes
 collogued
 candleholder
-candlelight
+candlelight 1
 candlelighter
 chaloth
 confraternities
