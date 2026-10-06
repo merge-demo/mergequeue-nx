@@ -17193,7 +17193,7 @@ dictyonema
 director
 diaphoresis
 decursive
-depletory
+depletory 1
 drive
 diastrophism
 dehair 1
