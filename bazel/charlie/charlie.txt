@@ -9152,7 +9152,7 @@ coalface
 chartularies 1
 citrene
 chartulas
-charwoman
+charwoman 1
 centipedes
 conservatives
 charwomen
