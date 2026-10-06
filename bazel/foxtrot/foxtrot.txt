@@ -6104,7 +6104,7 @@ ferrer
 frondeur
 fortnights
 fervidity
-freighter
+freighter 1
 frettation
 filical
 folksinging
