@@ -9112,7 +9112,7 @@ frenetics
 formity 1
 follows
 formalins 1
-furtum
+furtum 1
 fortresses
 fribblish
 filters
