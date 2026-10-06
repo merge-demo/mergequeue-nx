@@ -10713,7 +10713,7 @@ chinaman
 chinamaniac
 chinamen
 chinaphthol
-condemnable
+condemnable 1
 confectionaries
 chinaware
 chinawoman
