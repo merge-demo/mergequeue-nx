@@ -129,7 +129,7 @@ gadroonage 1
 gadrooning
 gersum
 glacises
-granulize 1
+granulize 2
 gageable
 guerdonable
 geryonid
