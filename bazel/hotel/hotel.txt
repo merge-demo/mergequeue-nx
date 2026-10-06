@@ -2659,7 +2659,7 @@ hecklcoe
 heckm
 heclben 1
 heclclvgic
-heclz
+heclz 1
 hecmifiil
 hecmumqkmppc
 hecmxzl
