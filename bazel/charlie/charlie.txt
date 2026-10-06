@@ -5794,7 +5794,7 @@ cojoin
 cheveys
 callicarpa
 coeldership 1
-coyotillo
+coyotillo 1
 catechumenal
 catechumenism
 cutthroats
