@@ -4020,7 +4020,7 @@ beaked
 beakerman
 bellite
 beakermen
-bacitracin
+bacitracin 1
 bountiful
 bunraku
 birdseeds
