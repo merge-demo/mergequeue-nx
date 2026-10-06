@@ -10542,7 +10542,7 @@ flatus
 festivous
 fossilised
 fauchard
-featherier
+featherier 1
 fieldpiece
 frowziest
 frowzled
