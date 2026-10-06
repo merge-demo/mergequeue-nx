@@ -11872,7 +11872,7 @@ eucre
 econometric
 everwhich 1
 enteroparesis
-enfranchisement
+enfranchisement 1
 extbook
 embowing
 ergonomically
