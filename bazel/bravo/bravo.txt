@@ -11402,7 +11402,7 @@ browbands
 blued
 basisolute
 bluefin
-blaseness
+blaseness 1
 belonosphaerite 1
 barmkin
 bluegrass
