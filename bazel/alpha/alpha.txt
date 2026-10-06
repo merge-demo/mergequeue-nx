@@ -7178,7 +7178,7 @@ apogees
 acidness
 aminoxylol
 algodoncillo
-aethrioscope
+aethrioscope 1
 alack
 amole 1
 airworthiness
