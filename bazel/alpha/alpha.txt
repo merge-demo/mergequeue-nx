@@ -14865,7 +14865,7 @@ anticyclogenesis
 anticyclolysis
 aliquant
 ameliorate
-aphotic
+aphotic 1
 anticyclone
 arthroempyema
 ankylodactylia
