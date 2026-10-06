@@ -3813,7 +3813,7 @@ alcoranist
 arcticologist
 accipitrary
 acaridea
-adiathetic
+adiathetic 1
 adiating
 addends 1
 adiation
