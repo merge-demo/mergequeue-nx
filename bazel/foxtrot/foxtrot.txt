@@ -5815,7 +5815,7 @@ froggiest
 frivolize
 ferfet
 fluoridations
-fritted
+fritted 1
 firehouse 1
 furbishes
 froust
