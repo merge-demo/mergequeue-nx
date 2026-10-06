@@ -17665,7 +17665,7 @@ appreciably
 azotobacter
 aquarellist
 acidoid
-apparatuses
+apparatuses 1
 agrostis
 agathology
 apicial
