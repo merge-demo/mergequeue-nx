@@ -31644,7 +31644,7 @@ coconucan
 curvograph
 cancelier
 curvometer
-cheeker
+cheeker 1
 carduelis
 conscripttion
 curvulate
