@@ -31110,7 +31110,7 @@ choanite
 catharism
 cuneus
 calcedony 1
-curvets
+curvets 1
 copataine
 capitulation
 cacodylate
