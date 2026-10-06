@@ -2469,7 +2469,7 @@ contuse
 crystallitic
 cancrum
 cancrums
-cand
+cand 1
 candelabras
 candelabrum
 corelatively
