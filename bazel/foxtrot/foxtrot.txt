@@ -9552,7 +9552,7 @@ fishwives
 felicitate
 fotched
 fursemide
-floreated
+floreated 1
 filigraned
 forgone
 factabling
