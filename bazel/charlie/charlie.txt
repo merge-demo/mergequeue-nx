@@ -7841,7 +7841,7 @@ cholelithotripsy
 cribrous
 crotchy
 cervicothoracic
-cervicovesical
+cervicovesical 1
 cervinae
 cosignatory
 cervixes
