@@ -12206,7 +12206,7 @@ blizzardly 1
 bolo
 bicron
 bogberries
-baloo
+baloo 1
 bicarbide
 buckhound
 balustered
