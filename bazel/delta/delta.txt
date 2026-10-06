@@ -13813,7 +13813,7 @@ decapod
 diamondizing
 digram
 dindle
-distain 1
+distain 2
 distaining 1
 denumeration
 diatomic
