@@ -6878,7 +6878,7 @@ galeas
 genitival
 geed
 gaposises
-goniatitic
+goniatitic 1
 grainman
 goshen
 gynandroid
