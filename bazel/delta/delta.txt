@@ -744,7 +744,7 @@ drybrained
 dreaminess 1
 detachs
 dandify
-dimmit
+dimmit 1
 dispeopler
 denumerant
 douceness
