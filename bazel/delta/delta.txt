@@ -6410,7 +6410,7 @@ derotremata
 denization
 dewans 1
 doggones
-diglyphic
+diglyphic 1
 docquet
 druidic
 deewans
