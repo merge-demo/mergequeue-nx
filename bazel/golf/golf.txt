@@ -3708,7 +3708,7 @@ geodetically
 glumelike
 ghostish 1
 gelatigenous
-gracilescent
+gracilescent 1
 gussying
 guppy
 glossiphonia
