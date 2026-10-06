@@ -4448,7 +4448,7 @@ exhilarative 2
 encarnalised 1
 encarnalize
 enteropneust
-egghot
+egghot 1
 effervesces 1
 emicate
 echards
