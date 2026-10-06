@@ -9405,7 +9405,7 @@ forequoted 1
 finickiness 1
 fractionised
 flamboyer
-franticly
+franticly 1
 fossor
 freeloading
 fluoridate
