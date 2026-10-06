@@ -8052,7 +8052,7 @@ aer
 anapaest
 algesia
 alfaqui
-ataraxia
+ataraxia 1
 apatornis
 autonavigator
 antidotical
