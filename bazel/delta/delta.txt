@@ -10826,7 +10826,7 @@ desugared
 dysphrasia
 dapples
 deposable
-devex
+devex 1
 deificatory
 direful
 direfully
