@@ -2235,7 +2235,7 @@ eldritch
 enchased
 eulogy
 endocytic
-elecives
+elecives 1
 electant
 elect
 epitheliulia
