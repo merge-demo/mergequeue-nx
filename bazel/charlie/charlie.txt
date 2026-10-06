@@ -17630,7 +17630,7 @@ coccothraustine
 coccothrinax
 calabozo
 cocculiferous
-cost
+cost 1
 cocculus
 convertend
 corrivals
