@@ -5137,7 +5137,7 @@ frizzly
 foreadvise
 fellas
 flashover
-frivolous
+frivolous 1
 fawns
 fructure
 flasker
