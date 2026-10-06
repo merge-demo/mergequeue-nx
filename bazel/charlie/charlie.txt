@@ -22609,7 +22609,7 @@ chinles
 connies
 conning
 carpostome
-conniptions
+conniptions 1
 connivance
 connivancy
 connivantly
