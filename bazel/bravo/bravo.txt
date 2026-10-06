@@ -11608,7 +11608,7 @@ brachyural
 biunivocal
 barche 1
 boarspear 1
-balloter
+balloter 1
 burns 1
 bevels
 bacauan
