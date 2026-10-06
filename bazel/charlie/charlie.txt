@@ -25244,7 +25244,7 @@ corystoid
 corita
 calesa
 cephaldemae
-corium
+corium 1
 chiasmal
 chirurgic
 contradistinctively
