@@ -6065,7 +6065,7 @@ affiances
 aretalogy 1
 agists
 agit
-adjustors
+adjustors 1
 afore
 agitability
 archilowe
