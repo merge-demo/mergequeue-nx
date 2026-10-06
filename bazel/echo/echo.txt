@@ -178,7 +178,7 @@ ejidal
 enchantingness
 eugenetic
 ergogram 1
-exploration
+exploration 1
 elaps
 electromotion
 electrolier
