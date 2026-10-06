@@ -15149,7 +15149,7 @@ diaphragmed
 deerherd
 dislustre
 disallows
-dullpate
+dullpate 1
 decayable
 doing
 discopodous
