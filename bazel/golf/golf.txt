@@ -87,7 +87,7 @@ grutten
 gadabouts 1
 gualaca
 glauber
-gubernator
+gubernator 1
 gymnopaedes
 galabia
 glandulose
