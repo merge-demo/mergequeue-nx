@@ -24597,7 +24597,7 @@ ambergrease
 actinophryan
 avalanche
 azosulphine
-apotheosize
+apotheosize 1
 amantadine
 associateship 1
 avalanches
