@@ -10657,7 +10657,7 @@ amyloplastid
 antichronism 1
 adenase
 anteromedian
-arborolater
+arborolater 1
 amylose
 achree
 africans
