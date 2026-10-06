@@ -15494,7 +15494,7 @@ denunciant
 donator
 detergence
 discodactyl
-deceivableness
+deceivableness 1
 dispell
 desist
 deflagrated
