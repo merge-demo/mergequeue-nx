@@ -10501,7 +10501,7 @@ amide
 amidide
 acoelous
 adscript
-amidins
+amidins 1
 arret
 amidism
 acridid
