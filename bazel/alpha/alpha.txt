@@ -15564,7 +15564,7 @@ areopagist
 anthropophagi
 antiatheism
 aquaplanes
-antimonies
+antimonies 1
 antimonium
 aboves
 abseil
