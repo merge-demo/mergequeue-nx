@@ -9306,7 +9306,7 @@ bawdry
 baldricked
 buzuki
 birational 1
-butterwright
+butterwright 1
 birched
 besugo
 birchers
