@@ -13260,7 +13260,7 @@ bosniac
 bostanji
 bosthoon
 bostonian 1
-banderillas
+banderillas 1
 burglar
 branchstand
 barman
