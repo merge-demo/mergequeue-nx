@@ -8506,7 +8506,7 @@ alalia
 alkies
 assessable
 airplane
-accelerograph
+accelerograph 1
 alkylarylsulfonate
 anallergic
 agnate
