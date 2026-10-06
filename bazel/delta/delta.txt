@@ -11817,7 +11817,7 @@ dislodges
 discriminoid 1
 decemberly
 diacodion
-disgregate
+disgregate 1
 dyscrinism
 discrown
 dipchick
