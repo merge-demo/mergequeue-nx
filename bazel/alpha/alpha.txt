@@ -21668,7 +21668,7 @@ assassinations
 assassinative
 assassinist
 assate
-airstrips
+airstrips 1
 arriccio
 apophyeeal
 aminoacetophenone
