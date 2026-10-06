@@ -5854,7 +5854,7 @@ baronship
 bellmanship
 bellmouth 1
 briners
-braggingly 1
+braggingly 2
 buttstock
 batholith
 bidactyle
