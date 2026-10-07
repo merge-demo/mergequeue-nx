@@ -8456,7 +8456,7 @@ ditrochee
 deflexed
 dooxidize
 dextro
-decrowns 1
+decrowns 2
 daimonology
 decise
 deration
