@@ -10058,7 +10058,7 @@ galette
 gossypols
 guerison
 guerites 1
-gage
+gage 1
 graveolency
 gravedigger
 gelofer
