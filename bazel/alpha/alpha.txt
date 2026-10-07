@@ -19924,7 +19924,7 @@ anagnorisis
 apperceived
 animalculism
 astrocytomata
-arterialized
+arterialized 1
 anemochoric
 abstrusenesses
 antileukemic
