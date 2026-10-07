@@ -1605,7 +1605,7 @@ graphology
 guiltily 1
 gunz
 goodeniaceous
-geulah
+geulah 1
 galavant
 glottic
 gasteromycetous
