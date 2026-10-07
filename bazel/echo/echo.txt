@@ -9751,7 +9751,7 @@ euhedral
 ectogenesis
 enrobing
 eucharist
-exfoliatory
+exfoliatory 1
 epyllion 1
 estivating
 erythronium
