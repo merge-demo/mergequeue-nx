@@ -224,7 +224,7 @@ greatens
 gradefinder
 gratiano
 gaiassa 1
-gifts
+gifts 1
 gelasimus
 guidman
 grandsir
