@@ -11245,7 +11245,7 @@ exceptionably 1
 effulgently
 excisemanship
 enclothe
-evangelistary
+evangelistary 1
 enthronements
 earflower
 endostraca

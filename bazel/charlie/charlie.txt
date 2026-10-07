@@ -3759,7 +3759,7 @@ confusingly
 cephalomenia
 carbamyls
 carpodetus
-carbamine
+carbamine 1
 circumnutate
 cowquake
 circum
