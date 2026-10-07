@@ -18828,7 +18828,7 @@ archfiend
 apprize
 aroma
 archflamen
-archfoe
+archfoe 1
 ancestresses
 aedoeagus
 angloid
