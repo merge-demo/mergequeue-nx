@@ -10488,7 +10488,7 @@ anatinae
 amyclas
 alboranite
 arrythmical 1
-amicous
+amicous 1
 absolutistically
 amicronucleate
 aubaine
