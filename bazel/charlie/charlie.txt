@@ -18885,7 +18885,7 @@ colistin
 coypou
 colitic
 colitises
-colyum
+colyum 1
 climbs
 coliuria
 colla
