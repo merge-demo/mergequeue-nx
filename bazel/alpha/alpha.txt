@@ -8632,7 +8632,7 @@ applauded
 ampelosicyos
 adjudicatory
 avizandum
-asterias
+asterias 1
 accentuates
 antiexpressiveness
 antibishop
