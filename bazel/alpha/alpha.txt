@@ -1986,7 +1986,7 @@ ameers
 acetamido
 amidoaldehyde
 acetonitrile
-amortised
+amortised 1
 aberrancies
 apathistical
 ample
