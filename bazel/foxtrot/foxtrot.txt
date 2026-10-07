@@ -6770,7 +6770,7 @@ focal
 folacin
 falsidical
 foibles
-finder
+finder 1
 farls 1
 flukiest
 falciform
