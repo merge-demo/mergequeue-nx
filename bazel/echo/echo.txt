@@ -13492,7 +13492,7 @@ equianharmonic
 egocentricities
 edge
 erk
-epifolliculitis 1
+epifolliculitis 2
 ectocondyloid
 editing
 etruscologist
