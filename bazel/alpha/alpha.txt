@@ -820,7 +820,7 @@ apptd
 ambilogy
 algarot
 authoritatively
-additur
+additur 1
 anisogeny
 abstruse
 ammiral
