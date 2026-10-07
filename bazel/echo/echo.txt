@@ -12054,7 +12054,7 @@ egestions
 enlivenment
 excoriation
 enwwove
-excoriations
+excoriations 1
 epiclike
 electrostenolytic
 enforcible
