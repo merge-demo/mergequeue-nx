@@ -12330,7 +12330,7 @@ demagnetization
 disguises
 disgulf
 dionaeaceae
-decametre
+decametre 1
 daff
 dracontites
 disemployed
