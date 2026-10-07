@@ -12268,7 +12268,7 @@ emarginating
 ensignry
 evilwishing
 entrochus
-efflorescency
+efflorescency 1
 enteromegaly
 els
 elegises
