@@ -10418,7 +10418,7 @@ crackskull
 cored
 chondrotome
 chiffre
-chigetai
+chigetai 1
 chigga
 chiggers
 congession
