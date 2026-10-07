@@ -7334,7 +7334,7 @@ gosports
 grainless
 gossamered
 galega
-gossamers
+gossamers 1
 galloglass
 geochronometric
 gibby
