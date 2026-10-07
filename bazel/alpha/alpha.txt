@@ -5613,7 +5613,7 @@ anchoritically
 absorptivity
 aphototaxis
 aftervision
-actinomycoma
+actinomycoma 1
 afterwale
 amnesics
 afterward
