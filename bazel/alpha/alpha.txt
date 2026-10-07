@@ -9699,7 +9699,7 @@ alvar
 anecdotist
 asmack
 anaemic
-alveary
+alveary 1
 alvearies
 advent
 alvearium
