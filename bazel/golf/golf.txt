@@ -5717,7 +5717,7 @@ gerres
 gloveress
 gimmaled
 gpad
-ganglioneuron 1
+ganglioneuron 2
 gestning
 gelts
 guardeen
