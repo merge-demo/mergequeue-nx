@@ -4665,7 +4665,7 @@ futharcs
 filmgoer
 faust
 fulani
-faeroe 1
+faeroe 2
 fells
 ferrotungsten
 fulica
