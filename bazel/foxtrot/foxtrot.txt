@@ -6698,7 +6698,7 @@ formicariae
 foofaraws 1
 furrier
 freshwater
-flaughtbred
+flaughtbred 1
 frequent
 finableness
 forecontrive
