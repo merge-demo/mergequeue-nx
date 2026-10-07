@@ -21828,7 +21828,7 @@ circumnutatory
 cones
 conestoga
 counterpose
-confab
+confab 1
 constructionists
 cleaner
 confabs
