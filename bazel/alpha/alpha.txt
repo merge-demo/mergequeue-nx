@@ -2492,7 +2492,7 @@ apogean
 accuser
 attemperance
 alexin
-alabastrons
+alabastrons 1
 amoebicidal 1
 acolyth
 aculei
