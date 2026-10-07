@@ -3222,7 +3222,7 @@ genizah
 galban
 gerah
 goodwily
-gloppen
+gloppen 1
 grammies
 geraniums
 gebur
