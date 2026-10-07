@@ -2210,7 +2210,7 @@ achromaticity
 achromatisation
 acetophenine
 acrestaff
-archangel
+archangel 1
 achromatization
 achromatize
 achromatocyte
