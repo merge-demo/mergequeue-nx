@@ -15416,7 +15416,7 @@ afterschool
 angiocholitis
 asomatophyte
 accentor
-avaricious
+avaricious 1
 antilogic
 antilogistic
 amastia
