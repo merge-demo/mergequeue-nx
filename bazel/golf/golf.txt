@@ -1773,7 +1773,7 @@ gingery
 giaour
 guberla
 gynopara
-geminately
+geminately 1
 glycolipin
 gomerils
 germinance
