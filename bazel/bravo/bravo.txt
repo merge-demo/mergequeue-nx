@@ -4099,7 +4099,7 @@ beriberi
 betoil
 boyishness
 biassing
-ballistics
+ballistics 1
 baroclinicity
 blamableness
 bicompact
