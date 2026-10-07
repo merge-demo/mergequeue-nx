@@ -10020,7 +10020,7 @@ diplomas 1
 dimpled
 deputised
 dessertspoonfuls
-dimplement
+dimplement 1
 dorosoma
 derelictness
 dermatopnagic
