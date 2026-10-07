@@ -6167,7 +6167,7 @@ festivals
 fragmentized
 finality
 flowerage
-fluxation
+fluxation 1
 forever
 flowerers
 fumiferana
