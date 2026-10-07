@@ -9806,7 +9806,7 @@ firedamps
 fragmentary
 flowoff
 fattens
-foredooming
+foredooming 1
 fleck
 faddist
 foamy
