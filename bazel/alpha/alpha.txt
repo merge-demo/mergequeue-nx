@@ -15476,7 +15476,7 @@ aeschynite
 armed
 antimethodical
 apselaphesia
-antimetrical
+antimetrical 1
 autoeciousness
 antimetropia
 antimetropic
