@@ -15701,7 +15701,7 @@ botanophile
 breakfront
 broadsiding
 broadspread
-broadsword
+broadsword 1
 bamangwato
 bromethyl
 brob
