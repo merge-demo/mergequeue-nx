@@ -8984,7 +8984,7 @@ chalchihuitl
 conceivability
 cryptal
 countersignature
-compartment
+compartment 1
 charism
 charismata
 chokecherry
