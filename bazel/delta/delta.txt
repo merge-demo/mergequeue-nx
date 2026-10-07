@@ -11207,7 +11207,7 @@ dispauperize
 disbenching
 dribblet
 decarbonylation
-doxologically
+doxologically 1
 dispair
 digitigrada
 doubtlessness
