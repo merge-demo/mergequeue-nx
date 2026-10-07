@@ -24510,7 +24510,7 @@ chronodeik
 counterquarterly
 copassionate
 countermotion
-clampdown
+clampdown 1
 cerographist
 coradical
 copastor
