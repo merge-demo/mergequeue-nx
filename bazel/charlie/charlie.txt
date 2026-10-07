@@ -20360,7 +20360,7 @@ comoedus
 comolecule
 carbonite
 crassness
-cuirass
+cuirass 1
 comose
 comourn
 chaffcutter
