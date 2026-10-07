@@ -27974,7 +27974,7 @@ charactonym
 craftsmanship
 craftsmaster
 cistophori
-craftspeople
+craftspeople 1
 concubinaries
 cheeriness
 craftwork
