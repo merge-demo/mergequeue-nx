@@ -6255,7 +6255,7 @@ dermatodynia
 demisability
 disown
 distrainer
-dermatography 1
+dermatography 2
 dezincation
 diplonephridia
 dermatolysis
