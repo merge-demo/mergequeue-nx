@@ -4123,7 +4123,7 @@ bombazette
 bedrenched
 bras
 brachycera
-bearfoots
+bearfoots 1
 bearhug
 babirousa
 bilicyanin
