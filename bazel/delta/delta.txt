@@ -10907,7 +10907,7 @@ delusions
 denazify 1
 disabled
 doorplates
-defrayer
+defrayer 1
 deterges
 divulgement
 dioeciodimorphous
