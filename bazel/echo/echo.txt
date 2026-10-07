@@ -4742,7 +4742,7 @@ euripides
 electrowin
 erythrodegenerative
 eyelets
-erosional
+erosional 1
 eelware
 exalbuminose
 encist
