@@ -7303,7 +7303,7 @@ furled
 forelock
 fopperies
 fopperly
-fraternized
+fraternized 1
 formaldoxime
 foujdar
 facers
