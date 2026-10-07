@@ -1220,7 +1220,7 @@ bittersweetness
 buxbaumia
 becreep
 baldachined
-beeswaxes
+beeswaxes 1
 blackshirt
 bakshishes
 bediaper
