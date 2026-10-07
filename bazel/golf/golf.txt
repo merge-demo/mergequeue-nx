@@ -2102,7 +2102,7 @@ gnomist
 gelndesprung
 gawkhammer
 greasehorn
-gormandise
+gormandise 1
 guggles
 gimmicky
 giggledom 2
