@@ -25861,7 +25861,7 @@ corrupts
 corsac
 corsacs
 connarus
-corsages
+corsages 1
 corsairs
 chalcid
 corsak
