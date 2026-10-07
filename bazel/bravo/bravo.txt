@@ -9933,7 +9933,7 @@ bdellouridae
 belsire
 bipropellant
 bikes 1
-bituminosis
+bituminosis 1
 biologically
 bennettitaceae
 bravas
