@@ -30618,7 +30618,7 @@ cucoline
 cucuy
 chunnia
 cucujid 1
-chromotrope
+chromotrope 1
 cucujus
 callitype
 cucularis
