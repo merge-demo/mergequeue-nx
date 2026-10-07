@@ -4888,7 +4888,7 @@ factuality
 frightenedness 1
 fabricational
 funks
-foldedly
+foldedly 1
 foretasted
 frumpy
 fives
