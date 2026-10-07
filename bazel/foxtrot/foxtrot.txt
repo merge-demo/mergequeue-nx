@@ -5279,7 +5279,7 @@ feelinglessly
 fibrilation
 flawedness
 flats
-frontingly
+frontingly 1
 fishlike
 fourrag
 flawflower
