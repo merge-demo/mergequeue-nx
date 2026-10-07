@@ -11221,7 +11221,7 @@ disbosom
 disbowel
 developpe
 defendable
-disboweling
+disboweling 1
 dolomitization
 disbowelled
 disbranch
