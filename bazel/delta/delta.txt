@@ -16109,7 +16109,7 @@ deaning
 drimys
 deterration
 denaturisation
-disfrocked
+disfrocked 1
 deoppilative
 decayedness
 doulce
