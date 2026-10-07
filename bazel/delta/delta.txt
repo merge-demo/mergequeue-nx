@@ -15768,7 +15768,7 @@ deletive
 deterred
 dornick
 dornicks
-datival
+datival 1
 dornock
 dornocks
 desanded
