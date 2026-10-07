@@ -6759,7 +6759,7 @@ antemetic
 ardour
 agribusiness
 antiglare
-anaphorical
+anaphorical 1
 armlocks
 airable
 avenue
