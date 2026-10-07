@@ -25512,7 +25512,7 @@ crepidomata
 craniometer
 cavitates
 coronagraph
-cataphonics
+cataphonics 1
 controversionalism
 confervous
 coronaled
