@@ -9413,7 +9413,7 @@ floristics
 freewheeling
 flagpoles
 furacana
-flammed
+flammed 1
 faciendum
 franz
 felidae
