@@ -25367,7 +25367,7 @@ azotetrazole
 azothionium
 almoravides
 azotic
-azotize
+azotize 1
 adaptative
 azotoluene
 azotorrhea
