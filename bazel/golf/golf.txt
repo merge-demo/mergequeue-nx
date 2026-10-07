@@ -5948,7 +5948,7 @@ gibbers 1
 gauzier
 gutless 1
 gestapo
-grayness
+grayness 1
 goss
 glumosity
 gondang
