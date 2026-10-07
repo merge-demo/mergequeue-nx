@@ -17641,7 +17641,7 @@ duadic
 demilitarise
 difluence
 duads
-dentalmen
+dentalmen 1
 dygogram
 diversifies
 diffusimeter
