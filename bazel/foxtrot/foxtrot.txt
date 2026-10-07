@@ -2923,7 +2923,7 @@ flutiest
 fanciable
 fumigations 1
 fortressing
-footmark
+footmark 1
 frontogenesis
 flock
 frizzen
