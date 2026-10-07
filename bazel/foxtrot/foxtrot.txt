@@ -3019,7 +3019,7 @@ furiousness 1
 fossiform
 faintheartedness
 filmiform 1
-forma
+forma 1
 fiars
 fiascos
 ferricyanogen
