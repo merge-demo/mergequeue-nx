@@ -7274,7 +7274,7 @@ glomi
 gormandizes 1
 gundeck
 gangsa
-gleaming
+gleaming 1
 gwerziou
 gavelman
 glassblowing 1
