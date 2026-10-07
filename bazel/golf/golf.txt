@@ -8550,7 +8550,7 @@ gilo
 germaneness
 gasolene 1
 gemuti
-geonoma 1
+geonoma 2
 gravicembalos
 garrotter
 glutton
