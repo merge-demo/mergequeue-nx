@@ -18344,7 +18344,7 @@ duodedenums
 dinah
 dryerman
 doubleton
-duodenate
+duodenate 1
 duodenation
 depurge
 degelation
