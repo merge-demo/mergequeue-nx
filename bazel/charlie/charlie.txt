@@ -19136,7 +19136,7 @@ collocative
 collock
 cowfish 1
 compartmentalizes
-collocutor
+collocutor 1
 cogitations
 collodion
 crushproof
