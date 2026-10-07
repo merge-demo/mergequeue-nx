@@ -2892,7 +2892,7 @@ eleutherozoan
 ental 1
 elevable
 embraceor
-electrionic
+electrionic 1
 echoizing
 epergne
 engilds
