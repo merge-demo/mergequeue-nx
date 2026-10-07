@@ -4830,7 +4830,7 @@ embrangle 1
 encomiastically
 extols
 emulously
-encomic
+encomic 1
 executory
 excipient
 encomiumia
