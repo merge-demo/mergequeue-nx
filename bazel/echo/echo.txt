@@ -1491,7 +1491,7 @@ empathic
 etui
 epizootically 1
 effused
-extemporaneously
+extemporaneously 1
 elasmobranchii
 explanatorily
 exonarthex
