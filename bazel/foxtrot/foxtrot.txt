@@ -11571,7 +11571,7 @@ fluoric 1
 feu
 feuing
 fusilladed
-fluctigerous
+fluctigerous 1
 fusillading
 feuage
 furzechat
