@@ -14339,7 +14339,7 @@ deign
 deanship
 desoxyribose 1
 dishallucination
-decimestrial
+decimestrial 1
 diuranate
 dreadingly
 drawly
