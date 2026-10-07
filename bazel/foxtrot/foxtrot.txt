@@ -10563,7 +10563,7 @@ flumadiddle
 filmily
 framable
 formylate
-feracities
+feracities 1
 florins
 founds 1
 fertilizations
