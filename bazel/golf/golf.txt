@@ -2940,7 +2940,7 @@ glycol
 gaeldom
 geocyclic
 gnat
-gorsy 1
+gorsy 2
 glideless
 gynaecocracies
 gunfighters
