@@ -7089,7 +7089,7 @@ aperture
 abnerval
 acajous
 abantes
-akia
+akia 1
 acetylene
 antiplethoric
 amphiarthrodial
