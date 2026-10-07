@@ -3495,7 +3495,7 @@ additory
 augustin
 appointively
 additum
-aflaunt
+aflaunt 1
 acetimeter
 addle
 adenosis
