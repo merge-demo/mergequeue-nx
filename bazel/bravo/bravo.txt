@@ -1996,7 +1996,7 @@ banisher 1
 banishing
 banishment
 banyuls
-baniva 1
+baniva 2
 brittonic
 blepharohematidrosis
 begetting
