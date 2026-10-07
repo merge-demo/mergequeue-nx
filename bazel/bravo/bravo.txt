@@ -4158,7 +4158,7 @@ barkening
 brawled 1
 bartlemy
 beastlike
-bodywise
+bodywise 1
 bengalic
 bumpkinish
 buoyantness
