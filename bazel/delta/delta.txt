@@ -15955,7 +15955,7 @@ dipterist
 deglutination
 dl
 debacles
-dauntlessness
+dauntlessness 1
 dothideales
 denaturational
 desuete
