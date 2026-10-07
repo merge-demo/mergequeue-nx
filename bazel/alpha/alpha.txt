@@ -19584,7 +19584,7 @@ acyls
 aryanism
 askari
 arianist
-arianistic
+arianistic 1
 ampullaceous
 alas
 affirmer
