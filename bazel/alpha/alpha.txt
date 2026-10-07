@@ -21595,7 +21595,7 @@ aspises
 aloed
 anthesterion
 arthrosia
-adjudgment
+adjudgment 1
 automolite
 alkyl
 allegement
