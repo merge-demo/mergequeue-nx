@@ -15300,7 +15300,7 @@ diabolical
 delusory
 dwamish
 dolores
-dispenditure
+dispenditure 1
 dermatophytic 1
 dolorimetrically
 dochter
