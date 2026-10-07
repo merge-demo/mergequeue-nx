@@ -9660,7 +9660,7 @@ faunist
 freyalite
 frondent
 forfairn
-freibergite
+freibergite 1
 fulgorous
 fruit
 fowled

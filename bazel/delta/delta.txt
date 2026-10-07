@@ -6465,7 +6465,7 @@ dodecanoic 1
 desalinator
 disclaimer
 disperge
-departmentalising
+departmentalising 1
 diploes
 decadenza
 dactylioglyph
