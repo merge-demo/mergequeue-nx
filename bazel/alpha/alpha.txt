@@ -21706,7 +21706,7 @@ arcubos
 autofermentation
 assegais
 archnesses
-antiscion
+antiscion 1
 agistator
 antisi
 assentors
