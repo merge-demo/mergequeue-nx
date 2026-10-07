@@ -8210,7 +8210,7 @@ knopglr
 knot
 knouwvszg
 know
-knowdomsf
+knowdomsf 1
 knowledge
 known
 knowqzljxiwz
