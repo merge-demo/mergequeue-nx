@@ -14537,7 +14537,7 @@ alroot
 asheries
 anthropomorphically
 avowed
-amphrysian
+amphrysian 1
 anthropomorphidae
 armature
 anthropomorphised
