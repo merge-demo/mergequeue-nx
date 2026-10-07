@@ -12010,7 +12010,7 @@ cribrately
 cariyo
 cutes
 chorograph
-chorographer
+chorographer 1
 continuately
 chorographical
 criticizable
