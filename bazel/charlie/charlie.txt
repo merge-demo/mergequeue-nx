@@ -7916,7 +7916,7 @@ calpolli
 clericate
 collieshangie
 cetane
-cetanes
+cetanes 1
 cete
 cetera 1
 ceterach
