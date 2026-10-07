@@ -8133,7 +8133,7 @@ assassinator
 algesiometer
 algidity
 autocatharsis
-algidities
+algidities 1
 algidness
 agriologist
 aeronautics
