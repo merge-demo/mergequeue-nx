@@ -19267,7 +19267,7 @@ colonelcies
 colonelships
 conductorless
 coloner
-cupuliferae
+cupuliferae 1
 colones
 colonette
 colongitude
