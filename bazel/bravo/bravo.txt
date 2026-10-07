@@ -2552,7 +2552,7 @@ bardel
 barylalia
 beleaped
 blens
-bactrian
+bactrian 1
 backtalk
 barile
 barilla
