@@ -1598,7 +1598,7 @@ dorsum
 deaf
 dynamogenous
 deafened
-doorjambs
+doorjambs 1
 dummered
 dawe
 dicyanid
