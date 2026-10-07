@@ -10665,7 +10665,7 @@ cytoplasmic
 chimes
 chymes
 caseoses
-ctenophorous
+ctenophorous 1
 coprolite
 compassless
 chymia
