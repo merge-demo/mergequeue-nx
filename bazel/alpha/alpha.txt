@@ -4573,7 +4573,7 @@ autohypnotism
 antheridial
 alferez
 aune
-advisedly
+advisedly 1
 advisedness
 arianists
 alestake
