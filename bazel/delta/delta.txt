@@ -4654,7 +4654,7 @@ diploglossate
 delineable
 drysalter
 dislodging
-decem
+decem 1
 dualisms
 deliming
 demiss
