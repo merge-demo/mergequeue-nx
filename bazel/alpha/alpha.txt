@@ -5384,7 +5384,7 @@ atropism
 affusion
 afghan
 acroneurosis
-amylopectin
+amylopectin 1
 anapnea
 afghanistan
 arided
