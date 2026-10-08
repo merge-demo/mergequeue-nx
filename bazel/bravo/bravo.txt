@@ -18104,7 +18104,7 @@ bouderie
 butch
 butcha
 bedoyo
-bolbanac
+bolbanac 1
 butcher
 bupleurum
 boosts 1
