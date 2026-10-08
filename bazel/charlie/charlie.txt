@@ -1050,7 +1050,7 @@ calcaneum
 calcannea
 calcannei
 chloroplastid
-channellers
+channellers 1
 calcareous
 chironomidae
 calcareousness
