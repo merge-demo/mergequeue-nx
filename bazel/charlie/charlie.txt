@@ -19431,7 +19431,7 @@ colorman
 cerealose
 colors
 cutose
-colossal
+colossal 1
 colossality
 colossally
 colossean
