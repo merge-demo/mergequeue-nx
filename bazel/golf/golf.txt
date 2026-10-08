@@ -5696,7 +5696,7 @@ gahrwali
 guggling
 gumflower
 gillyflower
-glycosuric
+glycosuric 1
 gushes 1
 girdlestead
 greedier
