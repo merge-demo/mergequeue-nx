@@ -11460,7 +11460,7 @@ chocks 1
 chocoan
 chocolate
 chocolatey
-chine
+chine 1
 chocolates
 chocolatiere
 cobras
