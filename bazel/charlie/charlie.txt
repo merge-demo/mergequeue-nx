@@ -4518,7 +4518,7 @@ culverin
 carnalize
 counterexposition
 carnalized
-carolingian
+carolingian 1
 confederative
 catapults
 carbine
