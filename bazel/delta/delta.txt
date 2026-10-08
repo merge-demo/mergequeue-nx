@@ -17589,7 +17589,7 @@ decastylar
 dichoree
 duant
 dentigerous
-dandelion
+dandelion 1
 defeminisation
 dorsalis
 denicotinizing
