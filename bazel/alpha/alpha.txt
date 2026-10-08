@@ -8619,7 +8619,7 @@ abandoners
 arboricultural
 allegorisation
 allegorise
-afear
+afear 1
 abscising
 admirance
 aerodynamic
