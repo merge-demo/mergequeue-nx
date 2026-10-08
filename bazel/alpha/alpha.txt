@@ -18282,7 +18282,7 @@ anticoagulants
 appeaser
 amorphinism
 anacatharsis
-avails
+avails 1
 arabophil
 araca
 acridine
