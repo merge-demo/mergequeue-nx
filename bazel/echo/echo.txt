@@ -6438,7 +6438,7 @@ edgeweed
 ecotypic
 ensweeten
 exceptioner 1
-exarchy
+exarchy 1
 enleen
 exhalants
 eastering
