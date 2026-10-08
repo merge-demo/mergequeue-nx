@@ -1438,7 +1438,7 @@ deflationist
 dawkin
 diploidy
 digresses
-demiurgical
+demiurgical 1
 dawning
 desocialize
 dawnlike
