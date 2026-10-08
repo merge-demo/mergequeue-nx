@@ -16291,7 +16291,7 @@ cresses
 canterer
 clipboard
 clipboards
-clypeastridea
+clypeastridea 1
 chicky 1
 clypeastrina
 clypeastroid
