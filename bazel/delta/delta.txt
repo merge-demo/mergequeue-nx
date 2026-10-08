@@ -15060,7 +15060,7 @@ delightable
 dimply
 doggish
 doggishness
-doggle
+doggle 1
 drownings
 doggo
 distinguisher
