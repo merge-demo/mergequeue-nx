@@ -12065,7 +12065,7 @@ embalmed
 excortication
 eschewals
 enlightener
-eruptions
+eruptions 1
 epanaleptic
 expediate
 entrainer
