@@ -4372,7 +4372,7 @@ appointments
 abbes
 assertorial
 atelectatic
-ankylomerism
+ankylomerism 1
 anilidoxime
 adularias 1
 arterialise
