@@ -17636,7 +17636,7 @@ discourteously
 dtente
 diplococci 1
 disapprobation
-dreamed
+dreamed 1
 duadic
 demilitarise
 difluence
