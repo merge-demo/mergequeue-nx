@@ -6598,7 +6598,7 @@ aigialosaurus
 apothecaries
 archpriest
 antasthenic
-amber
+amber 1
 antiparliament
 aiglet
 altitudinous
