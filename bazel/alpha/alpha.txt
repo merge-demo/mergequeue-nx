@@ -7267,7 +7267,7 @@ alarm
 assumably
 alarmclock
 alexanders
-abamps
+abamps 1
 alarmedly
 audivise
 alarmingly
