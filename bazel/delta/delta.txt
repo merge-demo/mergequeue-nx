@@ -5578,7 +5578,7 @@ dependabilities
 donatistic
 dibber
 dustfall
-draftable
+draftable 1
 depended
 dolichopellic
 dependence
