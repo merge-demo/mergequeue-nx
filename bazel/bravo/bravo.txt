@@ -13628,7 +13628,7 @@ baxter
 burladero
 bhoots
 boundless
-bartizaned
+bartizaned 1
 bounds
 beggaress
 buttressless
