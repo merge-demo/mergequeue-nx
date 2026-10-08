@@ -2991,7 +2991,7 @@ galliardness
 geoids
 gloriole
 gendered
-galatine
+galatine 1
 ghetti
 gasifier
 geologically
