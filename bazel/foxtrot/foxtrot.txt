@@ -2088,7 +2088,7 @@ fudger
 frightened
 foredefine
 fainty
-fesapo 1
+fesapo 2
 filletlike
 fear
 firmers
