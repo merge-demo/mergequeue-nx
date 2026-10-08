@@ -6442,7 +6442,7 @@ drudgeries
 downwards
 disinfection
 desaccharification
-defalcation
+defalcation 1
 decarburisation
 dozened
 desacralization
