@@ -1145,7 +1145,7 @@ eupatrid
 easefulness
 editorship
 editorships 1
-elasticness
+elasticness 1
 encrown
 enthrill
 expilator
