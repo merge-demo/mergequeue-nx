@@ -21608,7 +21608,7 @@ annexes
 applicability
 aspredo
 antirickets
-akasha
+akasha 1
 asprout 1
 antihierarchist
 antu
