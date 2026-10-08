@@ -9964,7 +9964,7 @@ droner
 dodged
 diminution
 deeplier
-deaerates
+deaerates 1
 didactics
 dramaturgist
 diminutions
