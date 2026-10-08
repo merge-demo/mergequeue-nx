@@ -9723,7 +9723,7 @@ dilatatory
 dehydromucic
 disablers
 detin
-devolute
+devolute 1
 dilatedly
 demythologized
 dimethyl
