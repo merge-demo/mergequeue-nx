@@ -10177,7 +10177,7 @@ gerusia
 gastropathy
 granulated
 greed
-governable
+governable 1
 gloriana
 goosery
 genethliac
