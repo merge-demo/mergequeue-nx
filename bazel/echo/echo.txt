@@ -4454,7 +4454,7 @@ emicate
 echards
 edifices
 encarnalized 1
-exalts
+exalts 1
 epidermal
 embreach
 emanates
