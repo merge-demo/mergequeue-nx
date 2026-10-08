@@ -7873,7 +7873,7 @@ forepurpose 1
 fruitwomen
 fibrochondritis
 forbear
-foreran
+foreran 1
 fascination
 forereach
 forereading
