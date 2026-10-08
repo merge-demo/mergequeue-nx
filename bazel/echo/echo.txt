@@ -7619,7 +7619,7 @@ epicoele
 elkesaite
 extolment
 espinos 1
-euchymous
+euchymous 1
 epicoelous
 epicondyle
 excysted
