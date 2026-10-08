@@ -8828,7 +8828,7 @@ dibbing
 deliberates
 deterring
 drachmas
-dibbled
+dibbled 1
 degame
 dybbuk
 dominantly
