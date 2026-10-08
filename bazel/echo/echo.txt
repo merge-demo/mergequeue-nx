@@ -5699,7 +5699,7 @@ extrarenal
 endophasic
 erotism
 entrough
-expectorants
+expectorants 1
 eustacies
 emendator
 eflagelliferous
