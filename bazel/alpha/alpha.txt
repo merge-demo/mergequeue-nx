@@ -1235,7 +1235,7 @@ acarian
 apothece
 acarid
 accord
-addorsed
+addorsed 1
 anarthropod
 avian
 asexualizing
