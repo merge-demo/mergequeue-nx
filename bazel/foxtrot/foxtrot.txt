@@ -3261,7 +3261,7 @@ fable
 fortieths
 ftnerr
 frizziest
-freehearted
+freehearted 1
 fluorinate 1
 fittit
 fuzed
