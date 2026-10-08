@@ -12225,7 +12225,7 @@ anchimonomineral
 aetiogenic
 anchisaurus
 aegirite
-anchorages
+anchorages 1
 anchorlike
 archradical
 actinodermatitis
