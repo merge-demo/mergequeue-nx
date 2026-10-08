@@ -1151,7 +1151,7 @@ calcivorous
 chapmanship
 countermark
 calcography
-culturology
+culturology 1
 calcsinter
 chinnam
 cranioclasis
