@@ -624,7 +624,7 @@ falconelle 1
 falsifier
 foveolet
 floaty
-falsifying
+falsifying 1
 falunian
 fertilisation
 fanum
