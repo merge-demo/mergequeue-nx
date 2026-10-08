@@ -24745,7 +24745,7 @@ aviatic
 alumniate
 aniline
 appleberry
-approximated
+approximated 1
 axonost
 auscult
 aviations

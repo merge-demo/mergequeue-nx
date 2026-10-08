@@ -11286,7 +11286,7 @@ ectoplasy
 extraversive
 eutaxy
 eikonogen
-evaporates
+evaporates 1
 edp
 eimer 1
 enwiden
