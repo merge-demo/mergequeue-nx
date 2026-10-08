@@ -5376,7 +5376,7 @@ affronted
 affrontedness
 anidiomatic
 adenose
-affronts
+affronts 1
 affuse
 alkarsine
 amrita
