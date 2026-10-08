@@ -13916,7 +13916,7 @@ bowstrung
 behavior
 bowtell
 barographic
-backpointer
+backpointer 1
 byspell
 broadened
 bargelli
