@@ -6595,7 +6595,7 @@ desecrations
 devotary
 dhooti
 dubious
-delimits
+delimits 1
 desegmentation
 dynamiters
 denigratory
