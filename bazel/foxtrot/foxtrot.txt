@@ -3869,7 +3869,7 @@ forgiveable
 fungistat
 flavanthrene 1
 favous
-fimbriating
+fimbriating 1
 farcer
 frizette
 focalising
