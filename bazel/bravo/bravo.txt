@@ -11437,7 +11437,7 @@ blueprint
 blancmange
 blazingly
 bluesy
-bluesman
+bluesman 1
 bromisms
 beaverkill
 bluesmen
