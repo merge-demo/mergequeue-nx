@@ -4403,7 +4403,7 @@ adultery
 autohypnotic
 antifebrile
 accollee
-adulterine
+adulterine 1
 attractor
 ablactated 1
 aurae
