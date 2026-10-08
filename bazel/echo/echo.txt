@@ -10781,7 +10781,7 @@ epharmony
 eucharistizing
 establishmentarian
 erumpent
-enemying
+enemying 1
 eumenides
 emblema
 encrinus

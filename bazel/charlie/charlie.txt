@@ -5787,7 +5787,7 @@ circumspective
 catechistic
 catechistical
 catechists
-catechization
+catechization 1
 catechizer
 calamondin
 cojoin
