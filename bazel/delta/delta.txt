@@ -11170,7 +11170,7 @@ devicefulness
 duraplasty
 distressful 1
 dichromic
-disbanded
+disbanded 1
 disoppilate
 decanted
 deglaciation
