@@ -9432,7 +9432,7 @@ galliot
 gouramis
 gemmate
 garroted
-glandulation
+glandulation 1
 gluttingly 1
 geonic
 gabelle
