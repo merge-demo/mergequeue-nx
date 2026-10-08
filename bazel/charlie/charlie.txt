@@ -14560,7 +14560,7 @@ cystid
 consociationism 1
 cohogs
 cystidea
-cystinosis
+cystinosis 1
 cotehardie
 comburendo
 cystidean
