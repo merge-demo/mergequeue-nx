@@ -18988,7 +18988,7 @@ collection
 cinnamon
 collectivise
 collectivism
-collectivist
+collectivist 1
 circumcircle
 collectivistically
 cocainization
