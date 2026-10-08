@@ -7137,7 +7137,7 @@ employees
 electrophysiologically
 epithesis
 energic
-envious
+envious 1
 expelling
 embryomata
 ensophic
