@@ -31638,7 +31638,7 @@ curviserial
 curvital
 curvities
 cracidae
-columbae
+columbae 1
 circumambulating
 coconucan
 curvograph
