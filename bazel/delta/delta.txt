@@ -15600,7 +15600,7 @@ danakil 1
 decerning
 disconnections
 dissentaneousness
-digor
+digor 1
 doomsayer
 doomsday
 diols
