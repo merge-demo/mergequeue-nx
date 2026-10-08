@@ -15029,7 +15029,7 @@ achondroplasia
 antigyrous 1
 anticryptic
 aglossate
-airbus
+airbus 1
 anlage
 anosphresia
 archworker
