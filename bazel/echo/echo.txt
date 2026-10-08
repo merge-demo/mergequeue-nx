@@ -2119,7 +2119,7 @@ elastically
 eurycephalous
 edenite
 exudes
-emberiza
+emberiza 1
 effete
 eberthella
 electrography
