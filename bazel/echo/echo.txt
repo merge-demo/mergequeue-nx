@@ -10029,7 +10029,7 @@ embarking
 exempting
 equalist 1
 endocrinism
-endoperidial
+endoperidial 1
 endogamous
 eterne
 endangerment
