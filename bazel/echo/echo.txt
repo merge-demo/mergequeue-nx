@@ -5113,7 +5113,7 @@ eccentrically 1
 enslavers
 eremitic
 endochorion
-endochorionic
+endochorionic 1
 engrains
 elatha
 endocyst
