@@ -17498,7 +17498,7 @@ appassionata
 adaptitude
 adverbiality
 appd 1
-antitrismus
+antitrismus 1
 amblyacousia
 appeachment
 antiantienzyme
