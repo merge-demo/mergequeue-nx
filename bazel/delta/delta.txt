@@ -1587,7 +1587,7 @@ direfulness
 disenthralled
 deadness 1
 dairyman
-deadpanned
+deadpanned 1
 deadpans
 depayse
 daikering
