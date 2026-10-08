@@ -12449,7 +12449,7 @@ chromocollotype
 chromocratic
 capetonian
 chromoctye
-chromodermatosis
+chromodermatosis 1
 chromogen
 chromogene
 chromogenesis
