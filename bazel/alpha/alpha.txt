@@ -22396,7 +22396,7 @@ astrograph
 astrographer
 assemblywomen
 aldehydes
-augites
+augites 1
 ariolate
 aspidiotus
 acromegalic
