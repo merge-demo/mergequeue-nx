@@ -2033,7 +2033,7 @@ giggly
 gel
 gelatiniform
 gases
-gaveled
+gaveled 1
 gibbosities
 gnomologic
 greiges
