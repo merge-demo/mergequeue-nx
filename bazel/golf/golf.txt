@@ -4814,7 +4814,7 @@ gainfulness
 glaciered
 gages
 gonged
-gifted
+gifted 1
 gadi
 gein
 grapewort
