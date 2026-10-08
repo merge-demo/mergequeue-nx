@@ -19743,7 +19743,7 @@ ascriptive
 arithmocratic
 arithmograph
 arithmography
-azulejos
+azulejos 1
 aggressiveness 1
 arithmomancy
 arivaipa
