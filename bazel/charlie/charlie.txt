@@ -15541,7 +15541,7 @@ classfellow
 classy
 classicalism
 crossbolted
-classicalist
+classicalist 1
 classicality
 chaya
 classicise
