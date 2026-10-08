@@ -1211,7 +1211,7 @@ acanthophorous
 aboded
 acanthopodous
 aqueously
-acanthopteran
+acanthopteran 1
 ataunt
 airlike 1
 acanthopterygian
