@@ -1912,7 +1912,7 @@ curs
 cambridge
 catostomidae
 chaumer
-cambuca
+cambuca 1
 cambuscan
 came
 camel
