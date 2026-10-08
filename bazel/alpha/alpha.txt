@@ -3409,7 +3409,7 @@ assemblywoman
 auxil
 abridgeable
 adarme
-adatis
+adatis 1
 afterpain
 antiecclesiastical
 ascitical
