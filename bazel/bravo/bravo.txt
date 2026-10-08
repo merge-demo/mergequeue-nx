@@ -4257,7 +4257,7 @@ burman
 burgonet
 beaverism
 bistoury
-bitypic
+bitypic 1
 beriming
 blunderheadedness
 beaverize

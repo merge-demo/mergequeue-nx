@@ -2561,7 +2561,7 @@ diachrony
 declassifies
 diplophonic
 disequality
-dematerialize
+dematerialize 1
 discus
 dorsocephalic
 distiller
