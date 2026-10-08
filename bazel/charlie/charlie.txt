@@ -6994,7 +6994,7 @@ counterimitation
 censitaire
 champion
 curiosity
-chitchats
+chitchats 1
 cisalpine
 censored
 cytomorphosis
