@@ -19094,7 +19094,7 @@ compensates
 collins
 collinses
 circumterraneous
-cristate
+cristate 1
 chaptrel
 collinsite
 collinsonia
