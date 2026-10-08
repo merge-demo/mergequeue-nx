@@ -27112,7 +27112,7 @@ chasms
 clinologic
 configurable
 countershine 1
-chemosorptive
+chemosorptive 1
 copaiye
 countershock
 counterside 1
