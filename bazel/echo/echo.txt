@@ -14082,7 +14082,7 @@ extremis
 effeminate
 extraterritorials
 ethnologist
-esteem
+esteem 1
 evolutionistically
 episternum
 evils
