@@ -22013,7 +22013,7 @@ assurance
 angelina
 assurances
 astigmias
-arthropodan
+arthropodan 1
 assurer
 arthrotrauma
 arabesque
