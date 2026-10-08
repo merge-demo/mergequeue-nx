@@ -8223,7 +8223,7 @@ ergophobia
 enisling
 euthenic
 earlobe
-ethnomaniac
+ethnomaniac 1
 exodontic
 effaceable
 episcia
