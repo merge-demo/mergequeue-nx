@@ -15392,7 +15392,7 @@ domiciliated
 demineralizer 1
 detectivism
 domification
-distoma
+distoma 1
 dissemblance
 decempedate
 dendrochronological
