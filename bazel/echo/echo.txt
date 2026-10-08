@@ -2950,7 +2950,7 @@ embarrassments
 eyewinks 1
 elicitation
 elicitor
-equivalvular
+equivalvular 1
 enricher
 exploiters
 epagomenal
