@@ -12078,7 +12078,7 @@ daguerreotypy
 dysenterical
 disenthral
 dehisces
-disgorging
+disgorging 1
 discoplacentalia 1
 disenthrone
 dicalcic
