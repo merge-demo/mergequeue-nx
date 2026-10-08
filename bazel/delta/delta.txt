@@ -9395,7 +9395,7 @@ dely
 diadumenus
 decrete 1
 durabilities
-decadic
+decadic 1
 discontentive
 dissoluble
 diffusate

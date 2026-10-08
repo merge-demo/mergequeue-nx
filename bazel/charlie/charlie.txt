@@ -15584,7 +15584,7 @@ curdlers
 classwork
 clastics
 clathraceae
-clathraceous
+clathraceous 1
 clathraria
 cathidine
 clathrarian 1

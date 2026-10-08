@@ -5545,7 +5545,7 @@ exorcising
 experimenting
 evertors
 exoterics
-espiritual
+espiritual 1
 enfeebles 1
 enfeebling
 eucarida
