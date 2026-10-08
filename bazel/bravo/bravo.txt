@@ -3478,7 +3478,7 @@ biennium
 boyla
 batamote
 biosis
-batarde
+batarde 1
 bullaces
 batatas
 batavi
