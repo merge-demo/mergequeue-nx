@@ -21130,7 +21130,7 @@ corrupter
 conceal
 concealable
 cadger
-cowy
+cowy 1
 concealedly
 concealedness
 concealer
