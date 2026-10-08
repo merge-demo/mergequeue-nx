@@ -19207,7 +19207,7 @@ abenteric
 ascogonium
 anisopetalous
 acervative
-anchoritic
+anchoritic 1
 accidency
 arder
 angiofibroma
