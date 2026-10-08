@@ -21754,7 +21754,7 @@ assert
 asserta
 albanenses
 assertable 1
-antinganting
+antinganting 1
 assagaied
 awesomely
 amphitheater
