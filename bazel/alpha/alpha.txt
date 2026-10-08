@@ -5425,7 +5425,7 @@ afortiori
 apocatastasis
 afoul
 afray
-athrocytosis 1
+athrocytosis 2
 antisymmetrical
 anticensoriousness
 arcosolia

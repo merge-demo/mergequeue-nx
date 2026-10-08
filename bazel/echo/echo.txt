@@ -13895,7 +13895,7 @@ epilimnial
 empanada 1
 extirpates
 extramatrical
-exculpating
+exculpating 1
 elations
 eledoisin
 ephymnium
