@@ -6478,7 +6478,7 @@ downrightly
 descant
 dentinoblast
 disencumber
-diffusedly
+diffusedly 1
 deranged
 descanted
 descants
