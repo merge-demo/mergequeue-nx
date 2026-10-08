@@ -2470,7 +2470,7 @@ bigram
 baresthesia
 bottom
 busies
-bifunctional
+bifunctional 1
 benzoiodohydrin 1
 bechalked 1
 bultow
