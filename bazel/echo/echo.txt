@@ -2447,7 +2447,7 @@ exciting
 exciple
 ebonist
 electroencephalographical
-essentialize
+essentialize 1
 evoker
 electroendosmosis
 encipher
