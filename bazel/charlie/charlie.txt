@@ -3006,7 +3006,7 @@ clairschach
 cantles
 cantlet
 cantline
-cantling
+cantling 1
 canto
 confederatism
 cortege
