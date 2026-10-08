@@ -18,7 +18,7 @@ bistratose
 babaylanes 1
 branch
 beringite
-babasu
+babasu 1
 bureaucratist
 bangy
 brachial
