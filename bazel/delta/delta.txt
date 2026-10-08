@@ -12864,7 +12864,7 @@ devitrify
 diacoele
 darklier
 decalcify
-dubhe
+dubhe 1
 drywalls
 diodia
 descensory
