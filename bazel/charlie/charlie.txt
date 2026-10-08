@@ -14134,7 +14134,7 @@ canioned
 colanders
 connexion
 circularization
-chartology
+chartology 1
 conversably 1
 circularizes
 choriambs
