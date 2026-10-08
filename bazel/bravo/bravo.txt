@@ -2140,7 +2140,7 @@ blahlaut
 baptisias 2
 bonehead
 bricksetter
-burnishes
+burnishes 1
 bediapered
 brutism
 baptising
