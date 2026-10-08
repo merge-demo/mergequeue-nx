@@ -584,7 +584,7 @@ agrania
 alphameric
 abnegates
 anthropomancy
-abrotanum
+abrotanum 1
 amanitins
 aesthophysiology
 acriflavine
