@@ -9115,7 +9115,7 @@ formalins 1
 furtum
 fortresses
 fribblish
-filters
+filters 1
 fantasias
 fortifies
 fielded
