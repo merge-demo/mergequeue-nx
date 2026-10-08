@@ -7221,7 +7221,7 @@ detaining
 disinfecter 1
 detar
 detassel
-detat
+detat 1
 defoliating
 dimethylamino
 darns
