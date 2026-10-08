@@ -6086,7 +6086,7 @@ figurial
 foxhounds
 filchery
 florisugent
-fanfare
+fanfare 1
 flauntingly
 forsook
 feak
