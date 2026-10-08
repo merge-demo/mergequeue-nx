@@ -7380,7 +7380,7 @@ cleansing
 cephalomere
 cyclostylar
 cephalometric
-clysis
+clysis 1
 cephalonasal
 cephalopathy
 cephalopharyngeal
