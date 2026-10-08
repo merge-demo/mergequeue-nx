@@ -866,7 +866,7 @@ eigenfunction
 erythrocytolysin 1
 electrocution
 encomiastical
-endophyte
+endophyte 1
 entailed
 ectomorph
 ectoparasite
