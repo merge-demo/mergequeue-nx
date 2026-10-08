@@ -7253,7 +7253,7 @@ eoith 1
 eoiths 1
 entamebae
 eradicably
-enterally
+enterally 1
 eolian
 eolopiles
 enraptures
