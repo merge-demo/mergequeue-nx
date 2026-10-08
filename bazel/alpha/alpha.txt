@@ -24566,7 +24566,7 @@ auxospore
 anachorism
 auxotonic
 annihilator
-auxotox
+auxotox 1
 auxotroph
 auxotrophy
 avadana
