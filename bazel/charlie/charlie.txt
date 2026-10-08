@@ -9713,7 +9713,7 @@ cheilodipteridae
 cheilodipterus
 cheiloplasty
 cheilostomata
-cheilostomatous 1
+cheilostomatous 2
 censer
 cheyneys
 cankeredly
