@@ -9689,7 +9689,7 @@ cheezit
 chef
 chefs
 coenamoring
-collocate
+collocate 1
 chego
 coruscated
 caretakes
