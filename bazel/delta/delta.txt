@@ -10407,7 +10407,7 @@ donald
 dd
 dotards
 djibouti
-demeritorious
+demeritorious 1
 dioxime
 diverges
 dioxindole
