@@ -24283,7 +24283,7 @@ abnormalising
 autopelagic
 abulomania
 autopepsia
-astrophysical
+astrophysical 1
 autophagous
 autophyte
 autophytic
