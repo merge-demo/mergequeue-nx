@@ -14104,7 +14104,7 @@ eustatically
 enzymically
 extendedness 1
 epiphyses
-exterraneous
+exterraneous 1
 entrancements
 extrinsically
 extrinsicalness
