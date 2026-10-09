@@ -730,7 +730,7 @@ galvanizers 1
 gujar
 gripple
 galvanizing
-gemmiferousness
+gemmiferousness 1
 gunner
 giantlikeness
 gollywog
