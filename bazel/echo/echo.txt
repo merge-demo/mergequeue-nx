@@ -7846,7 +7846,7 @@ eddish
 epigoni
 entomotaxy
 epigonic
-expletive
+expletive 1
 excardination
 encrinoid
 extirpationist
