@@ -25403,7 +25403,7 @@ centrifuged
 coarsish
 crotcheted
 cornicles
-corniculer
+corniculer 1
 corniferous
 cornific
 circumlocutions
