@@ -2223,7 +2223,7 @@ bridgebote
 barbarianizing
 bandog
 bevesselled
-barbarically
+barbarically 1
 blandiloquous
 barbequing
 bourage
