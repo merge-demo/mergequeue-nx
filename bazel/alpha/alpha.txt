@@ -1246,7 +1246,7 @@ ambitus
 acarina
 acrasy
 acarine
-awaiters
+awaiters 1
 acarines
 achromasia
 alacritous
