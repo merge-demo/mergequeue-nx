@@ -6716,7 +6716,7 @@ desiderated
 demikindred
 diacoustics
 desideration
-deoxidant
+deoxidant 1
 desiderative
 drunkard
 disorderliness
