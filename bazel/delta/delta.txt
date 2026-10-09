@@ -11800,7 +11800,7 @@ delabialize
 demot
 duny
 dosserets
-deinodon
+deinodon 1
 discriminating
 dacryuria
 drawbridges
