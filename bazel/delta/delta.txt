@@ -12006,7 +12006,7 @@ differen
 disenchant
 dowd
 disenchantments
-disenchantress
+disenchantress 1
 depluming
 difforme 2
 disencharm
