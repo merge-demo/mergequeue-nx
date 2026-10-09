@@ -427,7 +427,7 @@ exposits
 ebulliometer
 exacerbation
 ebullioscopic
-ethenic
+ethenic 1
 epaxially
 excuse
 exarchies
