@@ -6370,7 +6370,7 @@ glimmered
 glucosone
 granolithic 1
 grouty
-geotectology
+geotectology 1
 gunarchy
 gossaniferous 1
 gog
