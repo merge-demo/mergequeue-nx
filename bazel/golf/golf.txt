@@ -7220,7 +7220,7 @@ gloze
 grater
 gonial
 gratin 1
-globosite
+globosite 1
 gymnocarpous
 gizzen
 galahad
