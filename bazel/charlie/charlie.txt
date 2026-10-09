@@ -2184,7 +2184,7 @@ campi 1
 campy
 campier
 campiest
-campignian
+campignian 1
 campylite
 campylometer
 cynicist
