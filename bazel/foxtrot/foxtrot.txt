@@ -113,7 +113,7 @@ fingertips
 faciends
 featheredges
 fluidization
-facient
+facient 1
 furaldehyde 1
 facilitate
 forthcome
