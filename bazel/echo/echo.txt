@@ -6660,7 +6660,7 @@ electronarcosis
 eurocentric
 easygoing
 epichil
-eradicates
+eradicates 1
 eccrine
 endermically
 enuring
