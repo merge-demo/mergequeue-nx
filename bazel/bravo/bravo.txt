@@ -8830,7 +8830,7 @@ blunthead
 bractlets
 bikinied
 bombycids 1
-bedchamber
+bedchamber 1
 bible
 binotonous
 bedeck
