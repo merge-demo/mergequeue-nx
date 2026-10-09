@@ -9960,7 +9960,7 @@ cajuputs
 chequebook
 croup
 chequer
-chequered
+chequered 1
 chequers
 creosoted
 chalukya
