@@ -4807,7 +4807,7 @@ galgal 1
 gweducks
 gargoylishly
 gobiiform
-glucogenic
+glucogenic 1
 glassware
 gravidly
 gainfulness
