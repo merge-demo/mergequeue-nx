@@ -19324,7 +19324,7 @@ adjutor
 alaite
 astacus 1
 amplexation
-areostyle
+areostyle 1
 areotectonics
 ambrein
 aminodiphenyl
