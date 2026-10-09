@@ -9537,7 +9537,7 @@ basidium
 belays
 bisayan
 buccaro
-bettered
+bettered 1
 bught 1
 biblist
 bodewash
