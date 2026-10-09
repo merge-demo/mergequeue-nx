@@ -23107,7 +23107,7 @@ cephidae
 constantinopolitan
 catechumenate
 canvassed
-constantly
+constantly 1
 constantness
 camorrista
 constat
