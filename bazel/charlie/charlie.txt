@@ -31535,7 +31535,7 @@ chorused
 chromosomes
 cursorary
 cundite
-cursory
+cursory 1
 cratered
 cuproid
 cursorily
