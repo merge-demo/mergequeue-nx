@@ -27983,7 +27983,7 @@ craftworker
 crag
 craggan
 craggy
-chromoscopic
+chromoscopic 1
 cataphylla 1
 craglike
 crags
