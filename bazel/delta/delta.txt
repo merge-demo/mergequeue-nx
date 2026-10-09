@@ -10410,7 +10410,7 @@ djibouti
 demeritorious
 dioxime
 diverges
-dioxindole
+dioxindole 1
 decoyers
 dipartite
 dipartition
