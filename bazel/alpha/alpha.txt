@@ -647,7 +647,7 @@ aboma
 abomasum
 abomasus
 alkylize
-abominably
+abominably 1
 abominate
 avifaunal
 adulates
