@@ -15925,7 +15925,7 @@ bullhide
 bromomania
 bopper
 barbeyaceae
-biose
+biose 1
 beekeeper
 bucrania
 bromoprotein
