@@ -9449,7 +9449,7 @@ cheare
 cheat
 comprehensor
 cheatableness
-cheated
+cheated 1
 cubits
 characterisation
 cheater
