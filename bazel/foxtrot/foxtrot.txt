@@ -6838,7 +6838,7 @@ flipjack
 fourhanded
 fabled
 furomonazole
-foliary
+foliary 1
 frescoers
 format
 favoringly
