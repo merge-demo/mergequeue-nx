@@ -23687,7 +23687,7 @@ auriculocranial
 apios
 amphisile
 auriculoparietal
-auriculotemporal
+auriculotemporal 1
 auriferous
 appreciational
 axlike
