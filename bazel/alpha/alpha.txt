@@ -10123,7 +10123,7 @@ azedarach
 anthropogeny
 absinthe
 amorphous
-amboynas
+amboynas 1
 ambomalleal
 antenatus
 acrologue
