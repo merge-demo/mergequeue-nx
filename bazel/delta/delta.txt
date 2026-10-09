@@ -4932,7 +4932,7 @@ derotreme
 decrescence
 daktylon
 duskily
-demophilism
+demophilism 1
 disqualified 1
 demophobia
 decolonise
