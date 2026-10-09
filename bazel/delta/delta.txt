@@ -3615,7 +3615,7 @@ diodont
 docosane
 deprecatorily
 dragonhead
-degenerately
+degenerately 1
 degenerateness
 degenerescence
 diammonium
