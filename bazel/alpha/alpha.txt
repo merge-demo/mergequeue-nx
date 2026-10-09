@@ -10506,7 +10506,7 @@ arret
 amidism
 acridid
 armenians
-astronautically
+astronautically 1
 adfrozen
 antisensuous
 amidoazo
