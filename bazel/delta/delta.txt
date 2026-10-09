@@ -16439,7 +16439,7 @@ dwaible
 delirate
 diachyma 1
 drabbler
-datum
+datum 1
 difflugia 1
 downtimes
 dunnesses
