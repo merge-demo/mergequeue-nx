@@ -7652,7 +7652,7 @@ alcyonium
 abreaction
 amplidyne
 airplaned
-antefurca
+antefurca 1
 actual
 alectorides
 alcmene
