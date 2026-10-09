@@ -8624,7 +8624,7 @@ abscising
 admirance
 aerodynamic
 absentment
-allegoriser
+allegoriser 1
 anotto
 aeolomelodicon
 austenite
