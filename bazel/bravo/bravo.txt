@@ -2616,7 +2616,7 @@ batman
 blastoderm
 balistarii
 belostoma
-bumpkinly
+bumpkinly 1
 broncs
 barkier
 buttonhook
