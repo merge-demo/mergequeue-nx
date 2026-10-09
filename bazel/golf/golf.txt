@@ -2691,7 +2691,7 @@ gigantocyte
 genioglossal
 gastroenterologists
 globoids
-geoteuthis
+geoteuthis 1
 genioglossus
 gelling
 genitocrural
