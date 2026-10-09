@@ -9924,7 +9924,7 @@ bituminising
 bituminized
 burnbeat 1
 bucktail
-bedivere
+bedivere 1
 babblative
 bana
 bedrivelling
