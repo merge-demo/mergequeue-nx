@@ -13535,7 +13535,7 @@ conundrum
 compliance
 contours
 cyma
-companionable
+companionable 1
 cymae
 cymagraph
 cimaise
