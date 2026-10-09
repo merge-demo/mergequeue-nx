@@ -384,7 +384,7 @@ dreadness
 daimios
 dadap
 daimyos
-drinkers
+drinkers 1
 daimiote
 defension
 deployable
