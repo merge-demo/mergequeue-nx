@@ -8825,7 +8825,7 @@ chara
 charabanc
 compensativeness
 clitoridectomies
-characeae
+characeae 1
 clabbered
 characids
 cataria
