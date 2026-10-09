@@ -1654,7 +1654,7 @@ chelatable
 cloaked
 circumnutating
 convoluta
-calipash
+calipash 1
 caloyer
 calomels
 calomorphic
