@@ -16394,7 +16394,7 @@ drawtube
 doeuvre
 downwind
 droukit
-dowp
+dowp 1
 dowse
 defibrillative
 dihydric
