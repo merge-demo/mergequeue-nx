@@ -10860,7 +10860,7 @@ coleopteroid
 cordwain
 chippendale
 chemiatrist
-chippered
+chippered 1
 cardosanto
 carpetbaggers
 counterinsult
