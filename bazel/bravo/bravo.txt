@@ -6112,7 +6112,7 @@ buntline
 blepharodyschroia
 benedictinism
 brickfield 1
-benedictionary
+benedictionary 1
 bucolical
 briolet
 benedictions
