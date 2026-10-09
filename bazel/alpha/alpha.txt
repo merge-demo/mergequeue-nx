@@ -9070,7 +9070,7 @@ acylamido
 antisoporific
 actinomycetaceae
 alcahest
-alloxan
+alloxan 1
 absterged
 alloxans
 arsenicalism
