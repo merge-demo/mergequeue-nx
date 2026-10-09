@@ -7014,7 +7014,7 @@ entrelac 1
 emetically
 epilogued
 escalops
-eburnation
+eburnation 1
 enwood
 eneas
 eustyle
