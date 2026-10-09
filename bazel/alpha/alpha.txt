@@ -6088,7 +6088,7 @@ aminopeptidase
 aminocaproic
 airproofed
 apothegmatic 1
-anostosis
+anostosis 1
 axumite
 availment
 apogeny
