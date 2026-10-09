@@ -12269,7 +12269,7 @@ bunga
 blee
 bombaster
 bodock
-bowfront
+bowfront 1
 biquartz
 brogans
 biflected
