@@ -8566,7 +8566,7 @@ equatorwards
 excessmen
 ectomeric
 ecalcarate
-equestrian
+equestrian 1
 epigeous
 exceptant
 eskimauan
