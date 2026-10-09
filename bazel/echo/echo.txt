@@ -5479,7 +5479,7 @@ enthralment
 excrescential
 enemata
 enemyship
-energeia
+energeia 1
 emblematicalness
 energesis
 energetic
