@@ -2594,7 +2594,7 @@ brittlely
 barytophyllite
 blawed
 bridgelike
-barkary
+barkary 1
 bluestocking
 barkbound
 bamoth
