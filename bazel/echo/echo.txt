@@ -14170,7 +14170,7 @@ exuding
 ethane
 equalled
 envenomization
-exulcerating
+exulcerating 1
 euciliate
 exulding
 electrifies
