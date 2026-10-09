@@ -7235,7 +7235,7 @@ gestalts
 grayouts
 guerickian
 gambeering
-gesticulative 1
+gesticulative 2
 gratuitousness
 guarani
 gimblet
