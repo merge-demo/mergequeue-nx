@@ -4117,7 +4117,7 @@ energetistic
 epinicial
 excitant 1
 exogenous
-enfoulder 2
+enfoulder 3
 eellike
 eire
 emplectic
