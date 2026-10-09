@@ -6244,7 +6244,7 @@ enorn
 eumeromorph
 enos 1
 eradiating
-egophony
+egophony 1
 epitapher
 eradiation
 enostosis
