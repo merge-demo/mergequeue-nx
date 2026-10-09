@@ -8350,7 +8350,7 @@ disruptable
 dioestrum
 disincline
 duchies
-dialed
+dialed 1
 depredation
 disvouch
 decalobate
