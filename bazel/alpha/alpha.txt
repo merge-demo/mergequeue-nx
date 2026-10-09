@@ -10159,7 +10159,7 @@ ambrosine
 ambsace
 ambsaces
 ambulacriform
-acuation
+acuation 1
 ambulance
 apnoeal
 amoeboidism
