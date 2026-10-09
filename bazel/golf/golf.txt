@@ -10012,7 +10012,7 @@ gorgonised
 geomys
 gamba 2
 garlandwise
-gorgonacean
+gorgonacean 1
 geochrony
 gudewife
 galopade
