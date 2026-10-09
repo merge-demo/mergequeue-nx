@@ -1307,7 +1307,7 @@ effacers
 ellipsis
 exhilarated
 exumbrellar
-effect 1
+effect 2
 endocardiac
 exopeptidase
 effective

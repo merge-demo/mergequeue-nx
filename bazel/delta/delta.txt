@@ -12951,7 +12951,7 @@ dosimetrician
 differers
 demihague
 doddard
-dyschromatoptic
+dyschromatoptic 1
 demivoice
 discriminability
 decentralist
