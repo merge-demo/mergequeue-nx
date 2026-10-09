@@ -18204,7 +18204,7 @@ didascalar
 downfallen
 depersonalize
 delights
-ditetragonal
+ditetragonal 1
 dentatocostate
 diamagnetometer
 disfellowship
