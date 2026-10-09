@@ -8844,7 +8844,7 @@ depilator
 detriments
 dialyzable 1
 deg
-dichotomal
+dichotomal 1
 dentatocillitate
 desirelessness
 dibenzophenazine
