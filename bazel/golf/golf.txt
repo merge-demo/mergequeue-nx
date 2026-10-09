@@ -8824,7 +8824,7 @@ grazed 1
 geranomorphae
 grossularia
 grossest
-gauntleting
+gauntleting 1
 germain
 generalize
 griddler 1
