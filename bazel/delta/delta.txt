@@ -2150,7 +2150,7 @@ disturbs
 diosmosis
 decantist
 decaffeinated
-decapitates
+decapitates 1
 decapitation
 deterrable
 decapitations
