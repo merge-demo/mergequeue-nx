@@ -12637,7 +12637,7 @@ arithmetician
 anfract
 ameliorating
 anfractuose
-anchusin
+anchusin 1
 absorbable
 antitraditionalist
 anfractuosity
