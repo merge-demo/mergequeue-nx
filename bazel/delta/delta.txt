@@ -14360,7 +14360,7 @@ diurn
 depraved
 dhaman
 diurna
-diurnal
+diurnal 1
 deuterogenic
 diurnally
 drug
