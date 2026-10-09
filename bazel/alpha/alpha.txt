@@ -19511,7 +19511,7 @@ archaizes
 acanthuses
 antimediaeval
 argots
-allianced
+allianced 1
 arguable 1
 arguably
 avoiders
