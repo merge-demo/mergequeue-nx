@@ -2177,7 +2177,7 @@ fraudproof
 fligger
 femorocele
 fallibilism
-foretypified
+foretypified 1
 fogyisms
 formulae
 fadme
