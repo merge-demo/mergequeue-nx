@@ -10083,7 +10083,7 @@ barytic
 bewhiskered
 blabbering
 blabbermouths
-blabbing
+blabbing 1
 blabmouth 1
 bravadoism
 bludgeoneer
