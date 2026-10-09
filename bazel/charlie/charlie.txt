@@ -12458,7 +12458,7 @@ chamaecrista
 cranemanship
 chromoisomer
 chromoisomeric
-chamaenerion
+chamaenerion 1
 candelabra
 cerebralize
 chromoleucite
