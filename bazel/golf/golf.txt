@@ -4945,7 +4945,7 @@ gallimatia
 gradational
 grasping
 gynecocentric
-gapingly
+gapingly 1
 gladdened
 grouter
 greenbottle
