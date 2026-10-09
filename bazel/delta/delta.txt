@@ -3048,7 +3048,7 @@ diluent
 deerfly
 diazoate
 deerfood
-deservings
+deservings 1
 dragonfish
 disestablishment
 deerhound
