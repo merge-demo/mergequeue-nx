@@ -7489,7 +7489,7 @@ gymnotidae
 gordon 1
 gerful
 globulousness
-geostrategic
+geostrategic 1
 gaet
 galilean
 gelatinizable
