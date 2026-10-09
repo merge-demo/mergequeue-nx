@@ -1329,7 +1329,7 @@ defial
 deoxidizers
 disjunctions 1
 deludingly
-delftware
+delftware 1
 draconism
 dauke
 dorsigerous
