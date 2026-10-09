@@ -21949,7 +21949,7 @@ autochthones
 articulating
 anathemata
 apodictical
-addicted
+addicted 1
 aportoise
 anoxias
 anisomyodi
