@@ -6474,7 +6474,7 @@ elvira
 ensober
 ensorceled 1
 encephalometer
-earfuls
+earfuls 1
 encheck
 exercisable
 ensorcellment
