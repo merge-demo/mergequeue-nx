@@ -156,7 +156,7 @@ gybe 1
 glacialize
 graphorrhea
 guesthouse
-gingerroot
+gingerroot 1
 guaiaretic
 gardenmaker
 geophagy
