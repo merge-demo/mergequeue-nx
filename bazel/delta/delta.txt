@@ -9437,7 +9437,7 @@ disfranchise
 displume
 destructively
 digamma
-demilegato
+demilegato 1
 downfeed
 digammated
 dodgier
