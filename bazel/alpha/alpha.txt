@@ -11323,7 +11323,7 @@ abjures
 alterant
 avowries
 amphithyra
-ana
+ana 1
 amphithyron
 apetalies
 amphithura
