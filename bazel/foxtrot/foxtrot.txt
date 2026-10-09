@@ -3768,7 +3768,7 @@ flippantness
 faultlessly 1
 fortressed
 frizettes
-furoate
+furoate 1
 failure
 fibula
 fellmonger
