@@ -11151,7 +11151,7 @@ chizzel
 chladnite
 chondrite
 churlishly
-chlamyd
+chlamyd 1
 chlamydate
 chlamydobacteriaceous
 cantion
