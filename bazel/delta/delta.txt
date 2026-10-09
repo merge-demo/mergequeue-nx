@@ -2276,7 +2276,7 @@ decemplex 1
 dissocialize
 decempunctate
 doused
-decemstriate
+decemstriate 1
 dowsers
 disceptator
 dithioglycol
