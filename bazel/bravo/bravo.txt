@@ -1252,7 +1252,7 @@ baldheaded
 balalaika
 birdberry
 batrachiate
-balan
+balan 1
 bedstead
 behindhand
 bardie
