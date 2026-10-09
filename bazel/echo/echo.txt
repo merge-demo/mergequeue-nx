@@ -12122,7 +12122,7 @@ excruciating
 enascent
 excruciator
 ennomic
-excubitoria
+excubitoria 1
 eradicator
 entwisting
 excud
