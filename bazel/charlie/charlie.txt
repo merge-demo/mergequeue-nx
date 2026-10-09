@@ -26009,7 +26009,7 @@ curator
 choreography
 calamagrostis
 cardioclasis
-cosecs
+cosecs 1
 chancelleries
 cosectarian
 cardcase
