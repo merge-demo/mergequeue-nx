@@ -3166,7 +3166,7 @@ dryness
 defeats
 deathroot
 defeature 1
-debted
+debted 1
 daribah
 discharges
 dunnock
