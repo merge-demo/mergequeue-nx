@@ -5273,7 +5273,7 @@ fabricable
 fomenter
 foresightedness
 ferricyanate
-flavours
+flavours 1
 fimbriate
 feelinglessly
 fibrilation
