@@ -6725,7 +6725,7 @@ diatribes 1
 desiderta
 diptycas
 desidiose
-duckmole
+duckmole 1
 designable
 doughfoot
 dhutis
