@@ -18404,7 +18404,7 @@ bvt
 berginize 1
 bowfins
 bagwash
-buttonweed
+buttonweed 1
 bwanas
 bombardmen
 banned
