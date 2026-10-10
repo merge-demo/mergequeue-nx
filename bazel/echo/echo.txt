@@ -4566,7 +4566,7 @@ euphony 1
 epagoge
 echinodermal
 emberizidae
-electing
+electing 1
 embeggar
 earthmove
 erica
