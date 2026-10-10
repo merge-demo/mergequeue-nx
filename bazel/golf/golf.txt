@@ -8750,7 +8750,7 @@ gladless
 gagged
 gralloch
 graminaceous
-gerenuks
+gerenuks 1
 greenish
 gluhwein
 grisgris
