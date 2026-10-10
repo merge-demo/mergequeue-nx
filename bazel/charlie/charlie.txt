@@ -16510,7 +16510,7 @@ cloghead
 carboxyl
 cowsharn
 cosmos
-calendar
+calendar 1
 coinheritance 1
 correlative
 clogmaking
