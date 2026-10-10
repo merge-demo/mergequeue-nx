@@ -10902,7 +10902,7 @@ affronter
 allamoth
 antiphilosophy
 amerindic
-allegorical 1
+allegorical 2
 amniocentesis
 amniochorial
 arado
