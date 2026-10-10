@@ -14598,7 +14598,7 @@ diminue
 dropheads
 demosthenic 1
 developmentary
-decupling
+decupling 1
 divorcive
 dietal
 devs
