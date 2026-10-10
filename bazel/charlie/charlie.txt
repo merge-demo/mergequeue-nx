@@ -15685,7 +15685,7 @@ controllingly
 clavered
 clavi
 cerithioid
-chirres
+chirres 1
 clavy
 clavicembalist
 clavicembalo
