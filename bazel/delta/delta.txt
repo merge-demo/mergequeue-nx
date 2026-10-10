@@ -3007,7 +3007,7 @@ diabolos
 deeding
 directorates
 deedless
-depreciant
+depreciant 1
 discants
 deejay
 dromaeognathism
