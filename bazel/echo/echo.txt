@@ -4869,7 +4869,7 @@ embusy
 eucatropine
 escapable
 exorciser
-epidermatoid
+epidermatoid 1
 encoder
 episcopable
 embryogenetic
