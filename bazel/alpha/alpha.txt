@@ -1059,7 +1059,7 @@ averager
 accolent
 apt
 aggression
-ayudante
+ayudante 1
 acetylenediurein
 assortments
 arghool
