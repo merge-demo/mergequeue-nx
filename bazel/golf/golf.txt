@@ -6825,7 +6825,7 @@ gregarinida
 gonococcocci
 gonopore
 gonocoele 1
-gerontologist
+gerontologist 1
 gt
 gonof
 gudesire
