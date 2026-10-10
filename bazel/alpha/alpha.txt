@@ -10169,7 +10169,7 @@ antennata
 acotyledonous
 ambulancer
 ambulated
-atropinism
+atropinism 1
 alkalimetrically
 anisogamy
 aminded
