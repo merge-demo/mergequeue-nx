@@ -11731,7 +11731,7 @@ enregistry
 exurban
 elasticizing
 exobiology
-entreat
+entreat 1
 examinable
 eglateres
 examinant
