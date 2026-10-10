@@ -4347,7 +4347,7 @@ becheck 1
 befool
 bechic
 bechignoned
-bacchanalize
+bacchanalize 1
 balzacian
 bemercy
 bushwalking
