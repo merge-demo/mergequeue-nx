@@ -10685,7 +10685,7 @@ chytridial
 cantharidated
 chalk
 chimneyless
-counterdefender
+counterdefender 1
 chimneylike
 chastisement
 chimneyman
