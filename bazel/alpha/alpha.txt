@@ -15367,7 +15367,7 @@ akalimba
 astraeiform
 anemoses 1
 antisabbatarian
-avadhuta
+avadhuta 1
 antilaborist
 antilacrosser
 antiserumsera
