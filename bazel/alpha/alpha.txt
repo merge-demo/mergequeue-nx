@@ -15185,7 +15185,7 @@ archontic
 amphimictical
 aberrometer
 amil
-arctocephalus
+arctocephalus 1
 aerostat 1
 aseptically
 antifatigue
