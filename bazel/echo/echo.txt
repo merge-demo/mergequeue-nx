@@ -4860,7 +4860,7 @@ equitable
 encouraged
 estrous
 excellences 1
-epigne
+epigne 1
 ephydriad
 expertise
 emblematizing
