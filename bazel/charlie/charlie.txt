@@ -2454,7 +2454,7 @@ canciones
 cancri
 charivaried
 coacervation
-cancrid
+cancrid 1
 cruzeiro
 capelline
 cancrine
