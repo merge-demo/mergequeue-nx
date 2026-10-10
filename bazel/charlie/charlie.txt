@@ -25213,7 +25213,7 @@ corineus
 candelabrums
 caucussed
 corynid
-corynine
+corynine 1
 corinna
 corinne
 corynocarpaceous
