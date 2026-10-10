@@ -11765,7 +11765,7 @@ dedendum
 discrepancries
 deterger
 disbrain
-determinating
+determinating 1
 discrepantly
 decaudation
 demasts
