@@ -17133,7 +17133,7 @@ discrediting
 dullish
 dematerialise
 divvers
-drunkenness
+drunkenness 1
 dero
 decuries
 decine
