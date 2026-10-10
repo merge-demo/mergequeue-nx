@@ -3516,7 +3516,7 @@ gallimaufries
 griff
 goalers
 grosbeak
-gerontology 1
+gerontology 2
 greatening
 gelignite
 gnomical
