@@ -6317,7 +6317,7 @@ eche 1
 excitants
 examined
 etang
-exorcised
+exorcised 1
 eugenolate
 exteriorising
 endpapers
