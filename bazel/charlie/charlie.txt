@@ -23238,7 +23238,7 @@ cyamus
 cardiatomy
 coalitionist
 cohobation
-construes
+construes 1
 ciceroning
 constuctor
 circumstantiated
