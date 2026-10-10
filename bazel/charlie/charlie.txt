@@ -20373,7 +20373,7 @@ compact
 coutures
 compactability
 communisteries
-compactable
+compactable 1
 compacted
 ca
 coolants
