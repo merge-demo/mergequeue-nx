@@ -11790,7 +11790,7 @@ euripidean 1
 ekphore
 epimerise
 extrospective
-exorcises
+exorcises 1
 epirot
 elusion
 ensignship 1
