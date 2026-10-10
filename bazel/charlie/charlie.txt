@@ -24780,7 +24780,7 @@ coroscopy 1
 copulae
 copular
 copularium
-conceivable 1
+conceivable 2
 carnel
 carolinas
 copulation
