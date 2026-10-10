@@ -7492,7 +7492,7 @@ fourbagger
 fluellin 1
 frolicful
 fogou
-forgivably
+forgivably 1
 freenesses
 foreassurance
 forecabin
