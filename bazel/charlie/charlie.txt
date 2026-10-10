@@ -19711,7 +19711,7 @@ combination
 coredeem
 combinational 1
 corrigent
-cloots
+cloots 1
 combinations
 cells
 combinative
