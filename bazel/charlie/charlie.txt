@@ -18079,7 +18079,7 @@ chaffered
 coenoby
 concludency
 choirs
-coenobiar
+coenobiar 1
 catostomoid
 cissoid
 cognizers
