@@ -24022,7 +24022,7 @@ acetobacter
 autoclave
 allemands
 autoclaving
-aspheric
+aspheric 1
 autocollimators
 autocombustion
 autoconduction
