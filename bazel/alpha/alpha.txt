@@ -18079,7 +18079,7 @@ aptest
 anticonvulsive
 aureity
 amazonian
-anschauung
+anschauung 1
 agromyza
 anconeal
 aptiana
