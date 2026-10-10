@@ -849,7 +849,7 @@ abscond
 absconded
 apperceptive
 absconder
-agonizes
+agonizes 1
 archegoniate
 agha
 accurse
