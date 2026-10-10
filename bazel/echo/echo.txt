@@ -10160,7 +10160,7 @@ earlyish
 exhausts
 encroaching
 embroideress 1
-emeraldine
+emeraldine 1
 etherially
 extravagances
 eyedropper
