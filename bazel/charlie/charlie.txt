@@ -17322,7 +17322,7 @@ circumsail
 coarseness
 canonizations
 chickory
-coarsening
+coarsening 1
 coarsens
 coarticulate
 coarticulation
