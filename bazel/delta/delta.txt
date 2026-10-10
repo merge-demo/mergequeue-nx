@@ -7377,7 +7377,7 @@ dissymmetrical
 derogatoriness
 detn
 defibrillating 1
-dowagerism
+dowagerism 1
 dwine
 dadayag
 demilunes
