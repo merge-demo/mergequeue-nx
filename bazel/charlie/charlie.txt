@@ -19931,7 +19931,7 @@ coenenchyme
 commandery
 commanding
 changeover
-corolitic
+corolitic 1
 commandingly
 commandingness
 commandite
