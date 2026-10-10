@@ -4340,7 +4340,7 @@ demanded
 dissyllabized
 dilos
 dewlap
-descrier
+descrier 1
 disburden
 defatigable
 demandingly 1
