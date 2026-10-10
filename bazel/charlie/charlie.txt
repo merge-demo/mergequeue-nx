@@ -20550,7 +20550,7 @@ celtophobe 1
 compendious
 compendium
 compendiums 1
-contenders
+contenders 1
 counterterror
 coremia
 chalah
