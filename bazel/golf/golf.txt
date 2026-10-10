@@ -7520,7 +7520,7 @@ gloomfully
 glossopharyngeal
 glitch
 guessable
-glottalized 1
+glottalized 2
 gat 1
 governed
 gotten
