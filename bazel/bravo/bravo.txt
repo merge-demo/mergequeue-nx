@@ -665,7 +665,7 @@ barren
 brioche 1
 bicorne
 bombo
-bungey
+bungey 1
 biannual
 begall
 bronchiolitis
