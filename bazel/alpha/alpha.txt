@@ -13867,7 +13867,7 @@ anovulant
 anovulatory
 anoxemias
 ashrams
-allophane
+allophane 1
 appellate
 araphostic
 androgenetic
