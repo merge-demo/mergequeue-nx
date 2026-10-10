@@ -2780,7 +2780,7 @@ cannier
 canning
 cannings
 chiccories
-cannister
+cannister 1
 cannisters
 crystallographically
 convally
