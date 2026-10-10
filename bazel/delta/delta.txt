@@ -1719,7 +1719,7 @@ devastate
 dumetose
 deasil
 dearness
-deaspirate
+deaspirate 1
 dispensations
 decostate
 defensibility
