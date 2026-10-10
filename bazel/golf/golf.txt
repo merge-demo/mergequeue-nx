@@ -3863,7 +3863,7 @@ gigelira
 gaolerness
 gold
 granthi 1
-gell
+gell 1
 galanas
 giftwrapping 1
 gazeless
