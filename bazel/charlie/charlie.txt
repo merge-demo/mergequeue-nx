@@ -19285,7 +19285,7 @@ colonializing
 crystic
 colonially
 cowinners
-colonialness
+colonialness 1
 carshop 1
 caryatic
 colonials
