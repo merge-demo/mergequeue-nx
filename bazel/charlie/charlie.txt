@@ -12950,7 +12950,7 @@ contrail
 cubs
 counterspying
 cyanformate
-chockful
+chockful 1
 chloropal
 consecution
 cyanhydric
