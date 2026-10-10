@@ -2700,7 +2700,7 @@ fishify
 flamant
 frenzies
 flambe
-faithing
+faithing 1
 fungused
 firebird
 feigher
