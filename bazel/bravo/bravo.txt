@@ -5715,7 +5715,7 @@ belies
 braziery
 believers 1
 beamful
-bloomery
+bloomery 1
 blankite
 budge
 bencite
