@@ -3097,7 +3097,7 @@ defacing
 defacto
 defade
 dichlamydeous
-defaillance
+defaillance 1
 defaitiste
 defalcated
 diethyltryptamine
