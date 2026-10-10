@@ -4315,7 +4315,7 @@ caryatidal
 cigaresque
 caryatids 1
 caribal
-conserving
+conserving 1
 cariban
 caribbean
 caribbeans
