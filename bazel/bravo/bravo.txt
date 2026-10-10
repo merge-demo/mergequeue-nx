@@ -9834,7 +9834,7 @@ bathyl
 bitheism 1
 beaten
 blendes
-bullnecked
+bullnecked 1
 blandest
 brucins
 bromals
