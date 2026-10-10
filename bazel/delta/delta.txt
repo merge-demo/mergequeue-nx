@@ -17152,7 +17152,7 @@ disomaty 1
 decade 1
 decius
 dimwittedness
-disgaveled
+disgaveled 1
 damselfly
 diaphaneity
 diswont
