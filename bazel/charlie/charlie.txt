@@ -13948,7 +13948,7 @@ cinque
 cinquecentist
 coquetries
 crowl
-commemoratory
+commemoratory 1
 cinquefoil
 corporature
 crackle
