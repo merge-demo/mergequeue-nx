@@ -4851,7 +4851,7 @@ detickers
 demonical
 decadal
 deathcups
-dimmedness
+dimmedness 1
 diestrum
 dognapers
 durableness
