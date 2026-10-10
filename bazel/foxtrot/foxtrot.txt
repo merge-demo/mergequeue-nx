@@ -9579,7 +9579,7 @@ forestiera 1
 freebooting
 freed
 feltwork
-facete
+facete 1
 forensic
 floreta
 frontopontine
