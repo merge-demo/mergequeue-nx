@@ -11665,7 +11665,7 @@ endopolyploid 1
 exactness
 edeology
 exactors
-enterophthisis
+enterophthisis 1
 erotics
 electrophone
 equimomental
