@@ -3905,7 +3905,7 @@ foregrounds
 frequencies
 fortyfive 1
 fits
-fortuitously
+fortuitously 1
 fecundating
 fluidness
 ferocactus
