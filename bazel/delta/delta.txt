@@ -11056,7 +11056,7 @@ diagnosticating
 disapostle
 disapparel
 descriptive 1
-disappear
+disappear 1
 divorcees
 disbowelling
 distended
