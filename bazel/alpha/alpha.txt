@@ -24467,7 +24467,7 @@ astragals
 autotoxic
 autotractor 1
 autotransformer
-archeologically
+archeologically 1
 attemperately
 aetheric
 anglo
