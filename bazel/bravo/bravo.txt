@@ -10171,7 +10171,7 @@ bufferrers
 beroida
 begrime
 badgering
-binghi
+binghi 1
 broomy
 bassing
 bitreadle
