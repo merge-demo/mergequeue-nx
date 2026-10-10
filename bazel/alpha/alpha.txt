@@ -12842,7 +12842,7 @@ arrangements 1
 antihysteric
 anatomisation
 anagram 1
-athenaea
+athenaea 1
 aquarter
 anathematizes
 asemia
