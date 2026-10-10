@@ -6096,7 +6096,7 @@ gramineous
 gneiss
 grotesquely
 glengarries
-goosebeak
+goosebeak 1
 gullibly
 gryphosaurus
 gigahertz
