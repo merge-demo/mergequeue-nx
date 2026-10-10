@@ -6001,7 +6001,7 @@ fireproof
 foliole
 fictioneering
 feldsher
-fez
+fez 1
 floorwise 1
 featishness
 fusty
