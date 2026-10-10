@@ -6855,7 +6855,7 @@ bioluminescent
 bescourge
 baboos
 buckeroos
-bust
+bust 1
 bescramble
 bescreen
 barit
