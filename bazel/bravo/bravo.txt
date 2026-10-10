@@ -14925,7 +14925,7 @@ bignonia
 begulfing
 breasthook 1
 bumpee
-boozify
+boozify 1
 breastie
 breasting
 breastmark
