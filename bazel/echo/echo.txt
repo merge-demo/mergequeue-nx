@@ -13570,7 +13570,7 @@ ectadenia
 egeria
 emulation
 epikeia
-esoteric
+esoteric 1
 exsufflate
 exsufflation
 epithymetical
