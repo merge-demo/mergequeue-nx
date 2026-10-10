@@ -12174,7 +12174,7 @@ cynodon
 calescent
 chrysippus 1
 chrysis
-chebulinic
+chebulinic 1
 conjuncted
 cottidae
 choregrapher
