@@ -15485,7 +15485,7 @@ coapostate
 crocker
 confraternization
 claro
-claroes
+claroes 1
 collegian
 claromontane
 claros
