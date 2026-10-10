@@ -21169,7 +21169,7 @@ ambroids
 accommodates
 assimilativeness
 aerily
-ascertainableness
+ascertainableness 1
 asem
 anticar
 alphabetics
