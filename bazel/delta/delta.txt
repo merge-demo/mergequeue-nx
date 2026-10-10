@@ -3433,7 +3433,7 @@ dermatoptera
 decreasing
 doubting
 diffractive
-defloration
+defloration 1
 dumbwaiters
 deliberandum
 deuteroalbumose
