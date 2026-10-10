@@ -18387,7 +18387,7 @@ denter
 dimorphite
 damsons
 deepfreezing
-dorrs
+dorrs 1
 divulgers
 detracting
 duogravure
