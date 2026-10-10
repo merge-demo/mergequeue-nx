@@ -16648,7 +16648,7 @@ archelaus
 apraxic
 aigremore
 asyndeta
-alternipinnate
+alternipinnate 1
 assizement
 araby
 apertness
