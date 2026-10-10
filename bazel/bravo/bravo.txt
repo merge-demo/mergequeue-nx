@@ -5376,7 +5376,7 @@ branchi
 begrimes
 begriming
 begrimmed
-bot
+bot 1
 baileys
 brachycardia
 biweekly
