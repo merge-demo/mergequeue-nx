@@ -16531,7 +16531,7 @@ diesinker
 disinterred
 dallop 1
 dendrodont
-dacryops
+dacryops 1
 disarchbishop
 draftsman
 drupaceous
