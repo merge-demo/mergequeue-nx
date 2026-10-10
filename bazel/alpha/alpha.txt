@@ -677,7 +677,7 @@ abort
 alderfly 1
 aborted
 abortient
-anacardic
+anacardic 1
 assuring
 aphroditidae
 abortin
