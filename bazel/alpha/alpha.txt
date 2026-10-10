@@ -24183,7 +24183,7 @@ awakens 1
 autokinesy
 allentiacan
 autokinesis
-arythmia
+arythmia 1
 apteryxes
 assuage
 ampalea
