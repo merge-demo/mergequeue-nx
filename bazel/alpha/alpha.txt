@@ -3950,7 +3950,7 @@ astre
 armozeen
 adjusting
 akindle
-adjustment
+adjustment 1
 adjustmental
 adapts
 adjustores
