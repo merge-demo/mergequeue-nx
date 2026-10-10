@@ -2321,7 +2321,7 @@ canalete
 canali
 canalicular
 convenance
-curatial
+curatial 1
 canaliculate
 ceremoniously
 canaliculated
