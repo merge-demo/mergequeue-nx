@@ -3779,7 +3779,7 @@ giantsize
 gaub
 gonging
 genoblastic 1
-gobbets
+gobbets 1
 gouvernantes
 giarra 1
 gherao
