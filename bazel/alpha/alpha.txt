@@ -2578,7 +2578,7 @@ acousticon
 allotriognathi
 assist
 acoustoelectric
-acpt
+acpt 1
 acridinic
 acquaint
 acquaintanceship
