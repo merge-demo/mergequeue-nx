@@ -8661,7 +8661,7 @@ askeses
 australoid
 alleys
 alephzero
-afrasian 1
+afrasian 2
 automatonlike
 alleyway 1
 alchitran
