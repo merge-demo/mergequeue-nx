@@ -15058,7 +15058,7 @@ bolling 1
 biseptate
 blastophore
 bregma
-bordel
+bordel 1
 bregmate
 brachypinacoidal
 biophyte
