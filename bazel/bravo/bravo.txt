@@ -1520,7 +1520,7 @@ beeherd
 burger
 bersiamite
 bulbiform
-bdl
+bdl 1
 bouton
 backsword
 ballastic
