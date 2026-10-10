@@ -6081,7 +6081,7 @@ fizzling
 frecken
 faculty 1
 fingerhook
-forgeman
+forgeman 1
 figurial
 foxhounds
 filchery
