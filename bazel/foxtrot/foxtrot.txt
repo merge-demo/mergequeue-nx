@@ -10694,7 +10694,7 @@ fatherliness
 figent
 fitfully
 flary
-fleckered
+fleckered 1
 faradays
 fartlek 1
 fortran
