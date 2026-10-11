@@ -14822,7 +14822,7 @@ cyclope
 checkbird
 cytokinesis
 cytokinetic
-captan
+captan 1
 cytokinin
 cytol
 coziest
