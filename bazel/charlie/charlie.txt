@@ -11670,7 +11670,7 @@ chollas
 choller
 chameleonize
 claries
-corruptness
+corruptness 1
 cholo
 chaver
 cholocyanine
