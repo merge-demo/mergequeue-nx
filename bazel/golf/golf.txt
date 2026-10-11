@@ -4335,7 +4335,7 @@ gingered
 gaugeable 1
 guss
 guilds
-garrulity
+garrulity 1
 gingerline
 glomerular
 gingerness
