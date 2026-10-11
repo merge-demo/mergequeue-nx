@@ -2178,7 +2178,7 @@ epizoan
 eructate
 endocyclic
 evanescently
-elbowy
+elbowy 1
 elbowpiece
 elbows
 explores
