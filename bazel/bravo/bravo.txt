@@ -1822,7 +1822,7 @@ battlepiece
 bollito
 bescribble
 besotter
-bandeau
+bandeau 1
 betula
 bancus
 backstabber
