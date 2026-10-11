@@ -4503,7 +4503,7 @@ gynocardic
 gypsyism
 gowk
 glossokinesthetic
-gypsywise
+gypsywise 1
 guzzling
 grufted
 gyromele
