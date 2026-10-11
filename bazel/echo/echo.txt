@@ -2798,7 +2798,7 @@ essang
 encoronate
 eluded
 embelic
-evasive
+evasive 1
 exclamations
 enjeopard
 elementish
