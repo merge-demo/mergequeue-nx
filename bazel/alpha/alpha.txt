@@ -12832,7 +12832,7 @@ angiotasis
 aramaic 1
 angiotelectasia
 administerd
-angiotenosis
+angiotenosis 1
 acetopyrin
 angiotensinase
 agrogeologically
