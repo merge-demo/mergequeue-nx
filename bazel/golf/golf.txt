@@ -3978,7 +3978,7 @@ guano 1
 guardage
 grassnut
 grex
-gluttonousness
+gluttonousness 1
 graphometrical
 grillework
 groaner
