@@ -22804,7 +22804,7 @@ continently
 consecutives
 cabinetwork
 corso
-claimsman
+claimsman 1
 cambers
 cassette
 cuirassing
