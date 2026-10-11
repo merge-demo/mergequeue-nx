@@ -1760,7 +1760,7 @@ basswood
 bamban
 bambochade
 bosuns
-bamboozles
+bamboozles 1
 bamboozling
 bilanders
 brachman
