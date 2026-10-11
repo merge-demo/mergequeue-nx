@@ -1618,7 +1618,7 @@ alliably
 arsinoitherium
 argyrosis
 arilliform
-arricci
+arricci 1
 accrescendo
 accretal
 accretions
