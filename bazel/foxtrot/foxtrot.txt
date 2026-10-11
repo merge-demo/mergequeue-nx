@@ -4327,7 +4327,7 @@ funditor
 fructiferousness
 fretworked
 foddering
-fauces
+fauces 1
 frailty
 fluorins
 fellnesses
