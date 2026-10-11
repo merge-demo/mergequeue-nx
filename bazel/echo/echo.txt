@@ -1015,7 +1015,7 @@ electropolar
 escargot 1
 edemas
 exinite
-exclaimingly
+exclaimingly 1
 eldership
 epilabra
 edemata 1
