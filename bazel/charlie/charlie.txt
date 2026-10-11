@@ -1995,7 +1995,7 @@ condescendent
 curvey
 cervicoscapular
 cabineted
-convulses
+convulses 1
 centralia
 caloyers
 corniplume
