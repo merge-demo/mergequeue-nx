@@ -28976,7 +28976,7 @@ cricoid
 cricoids
 couper
 cricopharyngeal
-cricothyreotomy
+cricothyreotomy 1
 choosey
 cojuror
 cricothyroidean
