@@ -5500,7 +5500,7 @@ fratching
 foraged
 fleshy 1
 fillet
-ferally
+ferally 1
 fleshing
 fettuccine
 formatters
