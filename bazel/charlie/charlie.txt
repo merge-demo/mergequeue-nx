@@ -24521,7 +24521,7 @@ copatriot
 copatroness
 cathectic
 crankum
-connascent
+connascent 1
 chromatodysopia 1
 cope
 cappers
