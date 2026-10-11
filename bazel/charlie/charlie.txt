@@ -3875,7 +3875,7 @@ courie
 carbonylene
 chalukyan
 carbonimeter
-carbonimide 1
+carbonimide 2
 choultries
 contrastimulant
 costaea
