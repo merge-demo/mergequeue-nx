@@ -29873,7 +29873,7 @@ crossbelt
 collectability
 crossbill
 crossbite
-capiatur
+capiatur 1
 curriculums
 crossbow
 crossbows
