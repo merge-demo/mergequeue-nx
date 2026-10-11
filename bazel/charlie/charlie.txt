@@ -31539,7 +31539,7 @@ cursory
 cratered
 cuproid
 cursorily
-crystallizability
+crystallizability 1
 cursoriness
 cursorious
 coffeecake
