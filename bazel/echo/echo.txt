@@ -2063,7 +2063,7 @@ encouragingly
 elaic
 enteroplegia
 elaioplast 1
-elamite
+elamite 1
 elamitish
 episcope
 electrophorese
