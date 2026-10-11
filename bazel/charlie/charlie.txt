@@ -1884,7 +1884,7 @@ cordwains
 chickling
 cyanophil
 conjugative
-civvies
+civvies 1
 cuttoe
 cambium
 croupier
