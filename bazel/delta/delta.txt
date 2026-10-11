@@ -458,7 +458,7 @@ direst
 disthrall
 daswen
 daytimes
-disburthen
+disburthen 1
 disaccharide
 daywrit
 dakerhen
