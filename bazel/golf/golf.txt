@@ -2718,7 +2718,7 @@ globularness
 glandule
 grainering
 germanomania
-goofier
+goofier 1
 gravitons 1
 gusle
 grith
