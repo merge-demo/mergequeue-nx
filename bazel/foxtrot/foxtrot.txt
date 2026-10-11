@@ -11343,7 +11343,7 @@ foldure
 fellic
 footsores
 fluoroid
-ferfel
+ferfel 1
 fustinella
 forewind
 fraxinus
