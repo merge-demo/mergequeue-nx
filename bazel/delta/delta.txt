@@ -18586,7 +18586,7 @@ dogtrotting
 didrachm
 dewool 1
 duskness
-dust
+dust 1
 delphian
 dustbins
 dustcart
