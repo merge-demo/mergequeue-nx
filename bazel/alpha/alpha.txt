@@ -17574,7 +17574,7 @@ aquacultural
 appendicalgia
 ausonian
 antipodist
-ascii
+ascii 1
 alienees
 antioptimistical
 appendiceal
