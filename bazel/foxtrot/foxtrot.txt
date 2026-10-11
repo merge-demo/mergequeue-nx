@@ -9349,7 +9349,7 @@ filibustrous
 fellowly
 futurize 1
 frankenstein
-franker
+franker 1
 fastidiousness
 fireguard
 foreschool
