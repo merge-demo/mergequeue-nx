@@ -10247,7 +10247,7 @@ anemophile
 acidifying
 ameerates
 analgesia
-ameiosis
+ameiosis 1
 angiolymphitis
 alloying
 analcitite
