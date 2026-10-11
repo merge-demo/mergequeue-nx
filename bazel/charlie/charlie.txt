@@ -26990,7 +26990,7 @@ cranium
 concordist
 counterpane
 chiropractic
-counterinsurgency
+counterinsurgency 1
 critteria
 cartilaginean
 compartmentize
