@@ -5896,7 +5896,7 @@ grantha
 gestening
 gynephobia
 gluttonize
-gomerels
+gomerels 1
 gunneries
 glucosidically
 goback
