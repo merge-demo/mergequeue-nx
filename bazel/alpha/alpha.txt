@@ -8451,7 +8451,7 @@ apotheosizing 1
 aristolochiaceae
 amebous
 alkalise
-alkalised
+alkalised 1
 affrayed
 alkaliser
 adjoint
