@@ -10887,7 +10887,7 @@ foreteller
 fractural
 ferris
 fulled
-feeing
+feeing 1
 fieldwort
 fliskier
 forsworn
