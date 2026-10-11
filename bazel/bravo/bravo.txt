@@ -9304,7 +9304,7 @@ bloviating 1
 beany
 bawdry
 baldricked
-buzuki
+buzuki 1
 birational 1
 butterwright
 birched
