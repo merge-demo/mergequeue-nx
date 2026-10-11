@@ -2816,7 +2816,7 @@ despumating
 debility
 desalinization
 deedbote
-donatory 1
+donatory 2
 decretively
 dictionary 1
 discind
