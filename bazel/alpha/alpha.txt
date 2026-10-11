@@ -13087,7 +13087,7 @@ actinobacillosis
 anigh
 apprenticeship
 ablach
-alienize
+alienize 1
 autognosis
 acronical
 ascus
