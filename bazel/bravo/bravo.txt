@@ -10255,7 +10255,7 @@ biochemy
 beastdom
 botargo
 boyang
-biflorous
+biflorous 1
 beehead
 beforehandedness
 brutalising
