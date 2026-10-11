@@ -21727,7 +21727,7 @@ cruiserweight
 cuna
 condoler
 coaxers
-coleuses
+coleuses 1
 clumproot
 casteism
 chimarikan
