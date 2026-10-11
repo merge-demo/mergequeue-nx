@@ -7830,7 +7830,7 @@ grallae
 gaj
 geophone
 gegg 1
-groaners
+groaners 1
 glutter
 guillotines
 globs
