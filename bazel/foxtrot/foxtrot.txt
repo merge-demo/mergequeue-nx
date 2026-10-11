@@ -10122,7 +10122,7 @@ fulciform
 fortuitus
 fissiparously
 frittering
-fuchi
+fuchi 1
 frivolity
 freakier
 frivolities
