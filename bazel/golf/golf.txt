@@ -2689,7 +2689,7 @@ granule 1
 gemarist
 gigantocyte
 genioglossal
-gastroenterologists
+gastroenterologists 1
 globoids
 geoteuthis
 genioglossus
