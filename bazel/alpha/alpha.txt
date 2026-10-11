@@ -3626,7 +3626,7 @@ antepectoral
 adenocystomatous
 apollos
 adenodynia
-apotheces
+apotheces 1
 antral 1
 arcade
 aggelation
