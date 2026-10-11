@@ -2386,7 +2386,7 @@ exocone 1
 egoistic
 exergonic
 eurytomidae
-electrocutional
+electrocutional 1
 enfleurage
 excathedral
 ectromelia
