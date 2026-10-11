@@ -19184,7 +19184,7 @@ arctoidean 1
 arctos
 arctosis
 ager
-acetylasalicylic
+acetylasalicylic 1
 allituric
 arctostaphylos
 alick
