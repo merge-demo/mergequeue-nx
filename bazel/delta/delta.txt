@@ -5703,7 +5703,7 @@ deplenish
 dialup
 depleteable
 decapodan
-ducape
+ducape 1
 dichroite
 daftlike
 depletions
