@@ -20718,7 +20718,7 @@ anteroventrally
 alody 1
 agrostographic
 alwise
-agrosteral
+agrosteral 1
 aeroscopy
 articulators
 adfiliate
