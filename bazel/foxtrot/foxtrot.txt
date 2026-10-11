@@ -2606,7 +2606,7 @@ ferromanganese
 ferrometer
 filagreed
 ferronatrite
-follis
+follis 1
 fluorouracil 1
 financiere
 filmed
