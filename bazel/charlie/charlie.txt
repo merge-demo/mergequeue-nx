@@ -10372,7 +10372,7 @@ chiefest
 cervalet
 conveyorizer
 chiefish
-chieftain
+chieftain 1
 chieftaincy 1
 chieftainess
 chieftainry
