@@ -9300,7 +9300,7 @@ diethylstilboestrol
 dekaliters
 disploded 1
 deobstruent
-dietic
+dietic 1
 decolorant
 dietitians
 dtset
