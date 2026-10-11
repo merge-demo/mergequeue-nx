@@ -6335,7 +6335,7 @@ dendrologist
 diaplasis
 dejectory
 dermobranchiate
-dangles
+dangles 1
 diagrammatical
 dermogastric
 dean
