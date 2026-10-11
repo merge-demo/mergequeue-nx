@@ -9289,7 +9289,7 @@ chattier
 cuspidors
 chairmending
 confragose
-chatties
+chatties 1
 chattiest
 chattiness
 colorably
