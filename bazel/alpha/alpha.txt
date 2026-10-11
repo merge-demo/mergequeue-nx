@@ -13098,7 +13098,7 @@ almucantar
 ayahs
 anilines
 armlessly
-athabascan
+athabascan 1
 acantholimon
 anilinism
 ajar
