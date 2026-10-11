@@ -15244,7 +15244,7 @@ adarticulation
 antifowl
 arthrolite
 adapa
-amalgamates
+amalgamates 1
 antifreeze
 antifriction
 antifrost
