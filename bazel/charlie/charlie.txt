@@ -20125,7 +20125,7 @@ cuspids 1
 commingler
 commingles
 commingling
-comminuted
+comminuted 1
 cybercultural
 comminution
 corroborate
