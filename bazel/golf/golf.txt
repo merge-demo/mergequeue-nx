@@ -4662,7 +4662,7 @@ gironny 1
 graphophobia
 gyronny
 gamophyllous
-gyrophoraceous
+gyrophoraceous 1
 glance
 gringophobia
 ghafir
