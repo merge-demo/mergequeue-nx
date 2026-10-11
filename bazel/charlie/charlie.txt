@@ -18082,7 +18082,7 @@ choirs
 coenobiar
 catostomoid
 cissoid
-cognizers
+cognizers 1
 coenobioid
 conicoid
 contentless

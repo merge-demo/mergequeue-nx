@@ -11875,7 +11875,7 @@ decurrence
 discussions
 dioptomiter
 delicat
-disdained
+disdained 1
 disdainer
 dongon
 distrouble
