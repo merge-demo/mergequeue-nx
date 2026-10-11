@@ -224,7 +224,7 @@ dripless
 drukpa
 daftberry
 dusty
-denticate 1
+denticate 2
 dojos
 dorstenia
 daftest
