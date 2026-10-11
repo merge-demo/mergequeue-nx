@@ -12198,7 +12198,7 @@ excogitation
 enflame
 entrechats
 emanated
-elementalism
+elementalism 1
 emerized
 excelse
 execratively
