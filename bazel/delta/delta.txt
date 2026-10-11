@@ -11914,7 +11914,7 @@ dropsical
 defrosters
 dramm
 dhunchi
-decalescence
+decalescence 1
 discuses
 disease
 dentalisation
