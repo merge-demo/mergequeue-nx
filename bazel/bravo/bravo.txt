@@ -1666,7 +1666,7 @@ bathless
 blusher
 byganging
 barchan
-buqsha
+buqsha 1
 brilliantness
 bawdyhouse
 bagnios
