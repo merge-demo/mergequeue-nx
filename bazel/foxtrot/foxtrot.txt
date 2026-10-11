@@ -9874,7 +9874,7 @@ fibroneuroma 1
 felinophobe
 frickle
 ferrel
-frontager
+frontager 1
 furilic
 frozenly
 fibropericarditis
