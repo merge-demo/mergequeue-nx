@@ -24660,7 +24660,7 @@ avenida
 aveniform
 astatic
 australians
-anacamptic
+anacamptic 1
 avenolith
 avshar
 aventails
