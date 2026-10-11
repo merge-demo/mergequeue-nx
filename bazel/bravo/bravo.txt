@@ -4018,7 +4018,7 @@ butcheries
 brevier
 beaked
 beakerman
-bellite
+bellite 1
 beakermen
 bacitracin
 bountiful
