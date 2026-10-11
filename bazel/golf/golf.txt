@@ -4134,7 +4134,7 @@ gemological
 geggee
 gimmickery
 gendering
-gangrenate
+gangrenate 1
 guiltful
 gymnasic
 galeidae
