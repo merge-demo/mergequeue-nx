@@ -12303,7 +12303,7 @@ dappleness
 disincrustion
 decousu 1
 disgrading
-discreating
+discreating 1
 disgruntlement
 driblet
 denitration
