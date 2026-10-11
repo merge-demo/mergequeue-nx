@@ -11356,7 +11356,7 @@ algors
 alohas
 apiator
 abuzz
-amphore 1
+amphore 2
 admedian
 aquifers
 antiplatelet
