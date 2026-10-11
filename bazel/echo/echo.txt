@@ -13896,7 +13896,7 @@ empanada 1
 extirpates
 extramatrical
 exculpating
-elations
+elations 1
 eledoisin
 ephymnium
 engineer
