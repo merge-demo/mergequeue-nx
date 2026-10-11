@@ -24992,7 +24992,7 @@ cordax
 carnivora
 castoff
 cordeau
-cordel
+cordel 1
 comae
 chumble 1
 cordelia
