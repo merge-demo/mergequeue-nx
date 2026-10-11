@@ -7307,7 +7307,7 @@ excheat
 encharnel
 emigres
 eristics
-etherealize
+etherealize 1
 emulous
 eimeria
 enterpillar
