@@ -133,7 +133,7 @@ granulize 1
 gageable
 guerdonable
 geryonid
-guelf
+guelf 1
 gadwalls
 girth
 gigantology
