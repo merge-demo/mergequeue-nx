@@ -212,7 +212,7 @@ bioassays
 bigwigged
 bradyesthesia
 banditries
-brainpower
+brainpower 1
 biofog
 bandicoot
 baccy
