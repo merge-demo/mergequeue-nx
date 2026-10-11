@@ -6338,7 +6338,7 @@ emmenagogue
 elenchtic
 ensanguine
 eloquent
-enlargingly
+enlargingly 1
 emporium
 ergotin
 eschar
