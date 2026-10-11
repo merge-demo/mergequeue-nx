@@ -15991,7 +15991,7 @@ albumenise
 asterwort
 autophonous
 aromatiser
-advisable
+advisable 1
 arariba
 atreus
 antiradiating
