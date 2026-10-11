@@ -9545,7 +9545,7 @@ feudalizing
 frist
 findfault 1
 fullers
-forche
+forche 1
 foliated
 fyrd
 fishwives
