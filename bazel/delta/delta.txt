@@ -162,7 +162,7 @@ dissatisfying
 dado 2
 drugstore
 doltishly
-dareall
+dareall 1
 dadoes
 deiparous
 dadoxylon
