@@ -23150,7 +23150,7 @@ aurochs
 alstroemeria
 aneurysmal
 attenders
-artaba
+artaba 1
 amus
 antisensitivity
 apatan
