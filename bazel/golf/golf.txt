@@ -1703,7 +1703,7 @@ gelatination
 gastightness
 grudgefulness
 gryposis
-glyptodont
+glyptodont 1
 gentries
 gastrophilite
 grandly
