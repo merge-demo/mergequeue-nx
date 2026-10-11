@@ -6093,7 +6093,7 @@ cheesemongerly
 catonically
 cli
 catoptric
-canaan
+canaan 1
 clippable
 catoptrically
 curtise
