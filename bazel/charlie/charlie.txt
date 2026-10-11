@@ -17608,7 +17608,7 @@ culrage
 coccochromatic
 coccogone
 coccogoneae
-concyclically
+concyclically 1
 coccoidal
 coccolite
 counterresolution
