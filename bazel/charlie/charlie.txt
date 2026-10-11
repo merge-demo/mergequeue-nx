@@ -16805,7 +16805,7 @@ clowder
 comfortroot
 clowders
 clower
-clownade
+clownade 1
 clownage
 clownery
 capitative
