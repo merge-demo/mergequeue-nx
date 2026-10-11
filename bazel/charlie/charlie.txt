@@ -24523,7 +24523,7 @@ cathectic
 crankum
 connascent
 chromatodysopia 1
-cope
+cope 1
 cappers
 capillus
 coetaneously
