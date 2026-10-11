@@ -6083,7 +6083,7 @@ faculty 1
 fingerhook
 forgeman
 figurial
-foxhounds
+foxhounds 1
 filchery
 florisugent
 fanfare
