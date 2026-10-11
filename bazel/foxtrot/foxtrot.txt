@@ -3672,7 +3672,7 @@ flagella
 foredate
 flawier
 forelooper
-floorings 1
+floorings 2
 fuzzing
 followeth
 funnelling
