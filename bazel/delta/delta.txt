@@ -8271,7 +8271,7 @@ disputableness
 diagonal
 diagonalizable
 diagonalization
-diagnosing
+diagnosing 1
 duel
 diagonals 1
 deducting
