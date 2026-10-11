@@ -2588,7 +2588,7 @@ barytocelestite
 barytone
 barytons
 busing
-bowable
+bowable 1
 bears
 brittlely
 barytophyllite
