@@ -11981,7 +11981,7 @@ disparition 1
 dismission
 denominated
 disembowels
-droving
+droving 1
 depucel
 deputizes
 descry
