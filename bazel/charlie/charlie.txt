@@ -2871,7 +2871,7 @@ canopies
 clarigate
 corticated
 canopying
-cours
+cours 1
 cyeses
 canopus
 canos
