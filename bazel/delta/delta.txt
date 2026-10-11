@@ -7019,7 +7019,7 @@ diabolepsy
 diatesseron
 diversiflorous
 decadence
-deterrents
+deterrents 1
 deface
 despondence
 despondencies
