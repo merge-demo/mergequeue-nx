@@ -3390,7 +3390,7 @@ ethanethiol
 electrotechnics
 embarge
 espier
-enteropneustal 1
+enteropneustal 2
 estimator
 equivocally
 epinephelus
