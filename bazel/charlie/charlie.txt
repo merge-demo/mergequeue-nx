@@ -3185,7 +3185,7 @@ cacochymic
 capeweed
 coverlet
 crystallogy
-craked
+craked 1
 citruses
 capewise
 capework
