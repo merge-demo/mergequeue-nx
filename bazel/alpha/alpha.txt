@@ -922,7 +922,7 @@ absolutory
 acanthopteri
 absolvatory
 aestuary
-absolves
+absolves 1
 absolving
 abstort
 astriction
