@@ -16096,7 +16096,7 @@ antipool
 atomises
 antiscientific
 ande
-auto
+auto 1
 antiscolic
 antiscorbutical
 acrosphacelus
