@@ -2799,7 +2799,7 @@ dorsalward
 disharmonize
 decremeter
 dicyemida
-demarches
+demarches 1
 deftnesses
 duodecahedral
 dint
