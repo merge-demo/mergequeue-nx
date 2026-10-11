@@ -9690,7 +9690,7 @@ espouses 1
 espousing
 esprit
 enterorrhexis
-esq
+esq 1
 esquires
 existence
 exurbs
