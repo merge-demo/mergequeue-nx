@@ -11508,7 +11508,7 @@ demimondaines
 dullhead
 dwarfy
 discomedusae
-dentiphone
+dentiphone 1
 dynasties 1
 discomfiter
 deputation
