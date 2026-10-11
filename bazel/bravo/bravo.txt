@@ -3101,7 +3101,7 @@ benzedrine
 baculite
 bemixes 1
 blabby
-baseballer
+baseballer 1
 betraying
 bucrnia
 bloodcurdler
