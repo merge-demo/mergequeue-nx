@@ -20201,7 +20201,7 @@ aiglette
 anisalcohol
 autooxidation
 arrestingly
-arrestive
+arrestive 1
 assuagements
 autodigestive
 anomalistically
