@@ -3448,7 +3448,7 @@ flerried 1
 frontals 1
 feminising
 fulmines
-forewarmer
+forewarmer 1
 forepointer
 furfurans
 forthward
