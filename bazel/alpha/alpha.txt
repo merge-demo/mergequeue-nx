@@ -22312,7 +22312,7 @@ autosoteric
 abraders
 appair
 assorts
-astringed
+astringed 1
 agete
 apostolici
 antipoints
