@@ -1006,7 +1006,7 @@ epoxide
 endearments
 equisetales 1
 emblazing
-esophageal
+esophageal 1
 edder
 epiphora
 euphonism

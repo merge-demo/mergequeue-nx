@@ -5114,7 +5114,7 @@ grainsmen 1
 grenadine
 goldeneye
 greesagh 1
-gte
+gte 1
 glathsheimr
 ginnel
 gourmander
