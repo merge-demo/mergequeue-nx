@@ -9797,7 +9797,7 @@ denumerable
 deicer
 digesters
 dillydally
-dejectile
+dejectile 1
 diapaused
 discanonize
 debcle
