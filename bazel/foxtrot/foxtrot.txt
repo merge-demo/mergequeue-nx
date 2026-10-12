@@ -2225,7 +2225,7 @@ feminineness
 feudee
 freshmanhood
 fikie
-fiscus
+fiscus 1
 firebombs
 fuliguline
 flatcars
