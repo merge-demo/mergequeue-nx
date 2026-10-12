@@ -14539,7 +14539,7 @@ baktun
 bonding
 belugite 1
 bowelling
-bedumbed
+bedumbed 1
 branchiostoma
 biosociology
 branchiostomid
