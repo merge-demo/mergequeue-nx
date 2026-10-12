@@ -8639,7 +8639,7 @@ dephysicalize
 diarrhoetic
 diarthric
 dorsocervical
-disfavored 2
+disfavored 3
 diarticular
 dias
 depertible
