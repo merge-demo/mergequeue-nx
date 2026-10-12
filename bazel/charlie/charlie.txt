@@ -3794,7 +3794,7 @@ clouters
 carbineer
 carbines
 carbinols
-commensality
+commensality 1
 carboazotine
 conrail
 carbodynamite
