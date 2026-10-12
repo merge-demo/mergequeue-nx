@@ -13098,7 +13098,7 @@ expergefacient
 expergefaction
 embedding
 epistolographic
-eyeshine
+eyeshine 1
 effeminatize 1
 expediency
 ecoclimate
