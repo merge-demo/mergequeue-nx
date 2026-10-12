@@ -818,7 +818,7 @@ granose
 ginney
 gnarring
 gramp
-gamblesomeness
+gamblesomeness 1
 greenback
 genseng
 gambogian
