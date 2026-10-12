@@ -5397,7 +5397,7 @@ geoplana
 glossily
 giusto 1
 girdle
-gynandromorphic
+gynandromorphic 1
 goodtemperedness
 glimmer
 graphometry
