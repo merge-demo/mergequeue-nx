@@ -2560,7 +2560,7 @@ atrophy 1
 aftertrial
 acouchi
 antisubmarine
-antagonisms
+antagonisms 1
 accoutering
 allylene
 alumins
