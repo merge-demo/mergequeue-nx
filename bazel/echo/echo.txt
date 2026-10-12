@@ -636,7 +636,7 @@ eozoonal
 earful
 excruciatingness
 empiricist
-ecphorable
+ecphorable 1
 embryogeny
 epizoite
 eluviating
