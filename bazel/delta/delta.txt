@@ -2580,7 +2580,7 @@ declinatory
 disentwined
 declines
 declining
-directrices 1
+directrices 2
 declivent
 derive
 dreamlike
