@@ -12359,7 +12359,7 @@ dutchess
 detracted
 dactyl
 dromaeognathous
-dielectrics
+dielectrics 1
 discharged 1
 decolorimeter
 differentiates
