@@ -4277,7 +4277,7 @@ eptatretus
 emulsion 1
 exemplifiable
 etherene
-esotrope
+esotrope 1
 excruciatingly
 earjewel
 eremital
