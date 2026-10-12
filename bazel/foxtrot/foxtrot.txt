@@ -3185,7 +3185,7 @@ forthfare
 femurs
 freelanced
 fibrovascular
-frigostable
+frigostable 1
 federalese
 frithwork
 feazings
