@@ -24535,7 +24535,7 @@ copemate
 copending
 colonialist
 calorizes
-copenetrate
+copenetrate 1
 copenhagen
 copepod
 copepoda
