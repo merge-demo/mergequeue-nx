@@ -417,7 +417,7 @@ extruct
 erythrinus
 espanol
 echowise
-ebulliate
+ebulliate 1
 essera
 exomphalus
 entocondyle
