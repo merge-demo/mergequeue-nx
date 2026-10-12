@@ -610,7 +610,7 @@ bastiment 1
 bacteriodiagnosis
 bromates
 benomyls
-behearse
+behearse 1
 bacterid
 birdcages
 baraka
