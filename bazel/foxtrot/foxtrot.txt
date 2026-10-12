@@ -3062,7 +3062,7 @@ foursquare
 fishier
 fibreless
 flatcar
-foregone
+foregone 1
 fractionalization
 fibril
 fuzing
