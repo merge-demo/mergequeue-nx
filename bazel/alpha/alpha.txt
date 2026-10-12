@@ -5455,7 +5455,7 @@ amalgams
 atharvan
 arrange
 abstractionism
-assegai
+assegai 1
 afrikanderdom
 ascher
 afrit
