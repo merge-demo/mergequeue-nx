@@ -9468,7 +9468,7 @@ despondently
 digenite
 digerent
 dereistically
-doedicurus
+doedicurus 1
 dustiest
 detester
 disparateness
