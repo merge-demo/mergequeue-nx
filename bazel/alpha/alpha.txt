@@ -11910,7 +11910,7 @@ anelace
 aplanospore
 anankastic
 aqueomercurial
-allergen
+allergen 1
 ananta
 astraea
 antimasquerade
