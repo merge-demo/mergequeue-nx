@@ -10608,7 +10608,7 @@ dolven 1
 diplomaing
 datapunch
 doleritic
-drudger
+drudger 1
 deben
 decolorizing
 diplomates
