@@ -19580,7 +19580,7 @@ coextensiveness
 capanne
 coregence
 counteraffirmation
-columellia
+columellia 1
 columelliaceae
 columels
 columna
