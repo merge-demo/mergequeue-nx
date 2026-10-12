@@ -16961,7 +16961,7 @@ areally
 antifermentative
 aplenty
 alveolars
-affreight
+affreight 1
 aplite
 alfione
 aplites
