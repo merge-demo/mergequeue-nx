@@ -2487,7 +2487,7 @@ eleve
 exegete 1
 ellipsoids
 eurythmical
-enstatite
+enstatite 1
 electrogasdynamics 1
 embryographer
 electroharmonic
