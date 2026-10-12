@@ -16096,7 +16096,7 @@ clithridiate
 chainon
 cryptographical
 collada
-corosif
+corosif 1
 croakiest
 cliffhanger
 cliffhangers
