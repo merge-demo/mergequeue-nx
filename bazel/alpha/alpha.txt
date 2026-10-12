@@ -9985,7 +9985,7 @@ amphicarpous
 anciency
 analogues
 antimerging
-autoregressive
+autoregressive 1
 ambergris
 agrafe
 amberite 1
