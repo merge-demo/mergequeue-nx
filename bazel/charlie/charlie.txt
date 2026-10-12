@@ -10598,7 +10598,7 @@ catamounts 1
 chilodon
 chilognathous
 chilogrammo
-cubic
+cubic 1
 contract
 conservatoire
 corybantic
