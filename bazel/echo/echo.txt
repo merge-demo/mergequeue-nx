@@ -13387,7 +13387,7 @@ empodium
 expostulative
 entobranchiate
 expostulatively
-euscaro
+euscaro 1
 escapeway
 exemplify
 exposture
