@@ -7638,7 +7638,7 @@ diuretically
 deceptious
 dealer
 deflocculation
-digamous
+digamous 1
 didinium
 developer
 developes
