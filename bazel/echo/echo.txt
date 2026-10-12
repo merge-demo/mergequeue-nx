@@ -10063,7 +10063,7 @@ encumbered
 export
 eyey
 envenoming
-enchainment
+enchainment 1
 exoneretur
 ebonies
 encephalographically
