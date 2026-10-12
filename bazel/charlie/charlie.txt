@@ -16514,7 +16514,7 @@ calendar
 coinheritance 1
 correlative
 clogmaking
-clogwheel
+clogwheel 1
 canners
 clogwyn
 clogwood
