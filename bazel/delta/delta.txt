@@ -7352,7 +7352,7 @@ detersiveness
 disunions
 detestation
 decomponent 1
-detestations 1
+detestations 2
 dethronement
 diminute
 dethronements
