@@ -9350,7 +9350,7 @@ fellowly
 futurize 1
 frankenstein
 franker
-fastidiousness
+fastidiousness 1
 fireguard
 foreschool
 flocci
