@@ -5962,7 +5962,7 @@ exudence
 erethismic
 ettled
 eczema
-enhypostatize
+enhypostatize 1
 encrinoidea
 encoffin
 elains
