@@ -16841,7 +16841,7 @@ cenotaph
 clubfoot
 clubfooted
 clubhand
-clubhands
+clubhands 1
 cerebralgia
 clubhaul
 correctant
