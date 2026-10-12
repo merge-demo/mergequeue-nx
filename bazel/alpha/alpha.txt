@@ -12846,7 +12846,7 @@ athenaea 1
 aquarter
 anathematizes
 asemia
-awardable
+awardable 1
 antefuture
 angiotonic
 almoravide
