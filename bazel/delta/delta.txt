@@ -12090,7 +12090,7 @@ disjune
 disentitlement
 dudishly 1
 drepanaspis
-disentombment
+disentombment 1
 disclaimers 1
 deplaceable
 disentrail
