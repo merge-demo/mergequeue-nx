@@ -8220,7 +8220,7 @@ fruticulose
 florence
 forfending
 fundulinae
-fringes
+fringes 1
 fairyologist
 furlanas
 flaskets
