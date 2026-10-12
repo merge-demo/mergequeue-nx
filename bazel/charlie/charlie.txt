@@ -12648,7 +12648,7 @@ colorless
 condores
 cteninidia
 chubbiest
-chubs
+chubs 1
 chuckawalla
 chucked
 childkind
