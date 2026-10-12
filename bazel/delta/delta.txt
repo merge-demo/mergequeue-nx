@@ -15065,7 +15065,7 @@ drownings
 doggo
 distinguisher
 dehors
-determinable
+determinable 1
 doggonest
 doggoning
 detant
