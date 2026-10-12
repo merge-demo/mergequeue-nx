@@ -12824,7 +12824,7 @@ deliquiesce
 demiparadise 1
 dismals
 dithalous
-disman
+disman 1
 dismantles
 darksome
 dishevelment
