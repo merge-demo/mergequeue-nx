@@ -1199,7 +1199,7 @@ fluoroscopy
 fleech
 fears
 fascistization
-foxproof
+foxproof 1
 fountainlike
 fleckled
 fleckiness
