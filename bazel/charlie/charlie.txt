@@ -11498,7 +11498,7 @@ choirmasters
 cornaceous
 charthouse
 classmen
-calumnies
+calumnies 1
 costless
 chokage
 chairer
