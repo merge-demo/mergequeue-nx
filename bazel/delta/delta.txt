@@ -3175,7 +3175,7 @@ dipsas
 defecator
 daneflower
 defect
-degusting
+degusting 1
 divots
 draughtily
 defectible
