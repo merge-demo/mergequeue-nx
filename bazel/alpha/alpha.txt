@@ -6368,7 +6368,7 @@ amoeba
 akhund
 anamorphote
 anecdotists
-ametrometer
+ametrometer 1
 agriculturist
 aftergood
 anticreep
