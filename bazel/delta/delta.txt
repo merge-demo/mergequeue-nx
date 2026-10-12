@@ -13072,7 +13072,7 @@ dory
 dital
 decampment
 decliners
-drollingly
+drollingly 1
 decurrencies
 dulcimers
 drippiest
