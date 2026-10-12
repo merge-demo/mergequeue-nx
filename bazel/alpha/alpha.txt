@@ -22505,7 +22505,7 @@ adjudge
 atacamenan
 ataigal
 ataiyal
-ataman
+ataman 1
 atamasco
 aberrate
 alw
