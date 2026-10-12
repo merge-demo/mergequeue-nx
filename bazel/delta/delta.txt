@@ -8677,7 +8677,7 @@ defeminised
 diaspore
 diaspores
 diastalses
-dum
+dum 1
 dovekey 1
 diastalsis
 diglossia
