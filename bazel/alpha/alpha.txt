@@ -8179,7 +8179,7 @@ algophilist
 albuminolysis
 acetonylacetone 1
 algophobia
-algor
+algor 1
 attar
 alienor
 adynamias
