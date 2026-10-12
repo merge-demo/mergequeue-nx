@@ -7303,7 +7303,7 @@ donnie
 dress
 diphthongia
 diphthongization
-determinated
+determinated 1
 driftwood
 determinately
 dirtiness

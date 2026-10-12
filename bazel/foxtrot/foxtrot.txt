@@ -5963,7 +5963,7 @@ frailly
 floodlilit
 fivepins
 futileness 1
-frightening
+frightening 1
 fallibility
 floodlit
 fibromembrane
