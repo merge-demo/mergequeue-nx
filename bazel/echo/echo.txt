@@ -8676,7 +8676,7 @@ encharge
 episcleritis
 earth
 epiglottides
-evangelists
+evangelists 1
 equiperiodic
 emendations
 equipoise
