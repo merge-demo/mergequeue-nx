@@ -2584,7 +2584,7 @@ evaporator
 enhaloed
 eliasite
 embryonate
-epitomising
+epitomising 1
 electronically
 exclaimed
 ecad
