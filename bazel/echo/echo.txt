@@ -12147,7 +12147,7 @@ eg
 eyelike
 epural
 excursionist
-excursiveness 1
+excursiveness 2
 enterate
 excurvated
 extrados
