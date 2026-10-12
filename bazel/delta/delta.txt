@@ -3375,7 +3375,7 @@ deflagrable
 desophistication
 dialling
 decolor
-disrestore
+disrestore 1
 dynagraph
 dithionate
 deflagrator
