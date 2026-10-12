@@ -2120,7 +2120,7 @@ digraph
 decamethonium
 decametric
 decanal
-decancellate
+decancellate 1
 dominator
 decancellated
 disciplinarian
