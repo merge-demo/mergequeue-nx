@@ -11552,7 +11552,7 @@ detective
 dcolletage 1
 denationalised
 downland
-desorbs
+desorbs 1
 discompanied
 disavowing
 deepmouthed
