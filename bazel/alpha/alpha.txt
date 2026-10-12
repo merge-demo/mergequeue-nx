@@ -23829,7 +23829,7 @@ austrogaea
 ampules
 atheriogaea
 accouplement
-aphonic
+aphonic 1
 aphorising
 anthozoan
 arthrolithiasis
