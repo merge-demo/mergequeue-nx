@@ -10652,7 +10652,7 @@ bewash
 brunissure
 belt
 bouleuteria
-blearyeyedness
+blearyeyedness 1
 bevel
 blindly
 brotulid 1
