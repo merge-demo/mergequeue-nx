@@ -8152,7 +8152,7 @@ alcapton
 algiomuscular
 algoesthesiometer
 anteing
-avoidances
+avoidances 1
 abiogenetic
 artisanship
 algoid
