@@ -18175,7 +18175,7 @@ blastopore
 biog 1
 behead
 biodegradation
-bricky
+bricky 1
 bitterwort
 bechern
 butlery
