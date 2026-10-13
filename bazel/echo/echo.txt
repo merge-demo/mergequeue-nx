@@ -1087,7 +1087,7 @@ edification
 evaluators
 exfigure
 earock
-equipoised
+equipoised 1
 evaluates
 envined
 edificatory
