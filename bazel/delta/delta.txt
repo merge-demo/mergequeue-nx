@@ -14594,7 +14594,7 @@ disastrousness
 dysfunction
 damourite
 divorcible
-diminue
+diminue 1
 dropheads
 demosthenic 1
 developmentary
