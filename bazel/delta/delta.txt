@@ -17981,7 +17981,7 @@ dukuma
 dulat
 dulcamara
 diverticulum
-dispersedly
+dispersedly 1
 dulce
 disquietedly
 desulphurising
