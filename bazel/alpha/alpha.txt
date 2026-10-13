@@ -553,7 +553,7 @@ acetolysis
 ataraxies
 amidophosphoric
 amyotrophia
-actualize
+actualize 1
 anba
 aciliated
 ablude
