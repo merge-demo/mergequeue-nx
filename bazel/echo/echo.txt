@@ -8340,7 +8340,7 @@ eagling
 epitheme
 evangelise
 enscrolls
-eternizing
+eternizing 1
 eland
 eucarpic
 enslaved
