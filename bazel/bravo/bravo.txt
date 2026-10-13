@@ -18124,7 +18124,7 @@ boll
 ballyrag
 bistouries
 birchism 1
-butcheress
+butcheress 1
 butchery
 beachmaster
 backstabbing
