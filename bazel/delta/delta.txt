@@ -17396,7 +17396,7 @@ diffraction
 decennia
 didascaly
 direction
-disjoinable
+disjoinable 1
 decream
 dropsies
 distomatidae
