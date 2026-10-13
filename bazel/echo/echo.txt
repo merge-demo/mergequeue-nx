@@ -5977,7 +5977,7 @@ expectorates
 enframing 1
 enigma
 egotism
-enigmas
+enigmas 1
 enjambements
 enigmata
 eluvial
