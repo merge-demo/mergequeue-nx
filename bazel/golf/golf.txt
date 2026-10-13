@@ -4721,7 +4721,7 @@ giraffes 1
 generis
 gastraeas
 guzmania
-guanacos
+guanacos 1
 gallinula
 gynodioecism
 gymnasiast
