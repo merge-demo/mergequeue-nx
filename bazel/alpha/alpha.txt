@@ -22152,7 +22152,7 @@ anarchically
 abampere
 acreak
 audiograms
-asthenical
+asthenical 1
 arpeggiando
 arrowstone
 apetalousness
