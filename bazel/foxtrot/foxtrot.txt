@@ -7710,7 +7710,7 @@ fleawort
 fossa
 fidessa
 flinchingly
-foreignly
+foreignly 1
 flory
 fishy
 foreignness
