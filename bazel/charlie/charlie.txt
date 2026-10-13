@@ -24925,7 +24925,7 @@ cocaigne
 caulophyllum
 componentwise
 combfishes
-corantoes
+corantoes 1
 centesimi
 chan
 crowbill
