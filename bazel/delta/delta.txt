@@ -8660,7 +8660,7 @@ distracted
 didactyl
 dissection
 dyassic
-delousing
+delousing 1
 demagogies
 divulgate
 decoymen
