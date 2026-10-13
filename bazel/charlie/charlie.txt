@@ -11521,7 +11521,7 @@ congelifraction
 chokerman
 chalones
 chokers
-chokes
+chokes 1
 counteraccusation
 carnaubyl
 compels
