@@ -8255,7 +8255,7 @@ compotatory
 christianomastix
 chalcogen
 chalcogenide
-coenaculum
+coenaculum 1
 comas
 chalcography
 caucho
