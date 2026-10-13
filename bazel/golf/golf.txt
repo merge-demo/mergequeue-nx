@@ -8487,7 +8487,7 @@ glands
 golfing 1
 graveclod
 genl
-gibaro
+gibaro 1
 gibblegabbler
 graffias
 garum
