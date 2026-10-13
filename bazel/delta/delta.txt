@@ -14214,7 +14214,7 @@ disvoice
 depopulated
 dangerous
 diswashing
-dur
+dur 1
 diswere
 decurions
 diswit
