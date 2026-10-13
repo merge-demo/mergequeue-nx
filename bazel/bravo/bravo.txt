@@ -398,7 +398,7 @@ bummed
 bixbyite
 blarneying
 burgles
-belook
+belook 1
 bacteriorhodopsin
 bwana
 backlit
