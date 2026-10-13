@@ -4774,7 +4774,7 @@ grouseless 1
 gosther
 giveable
 gederite 1
-gelidly
+gelidly 1
 gametophyll
 glene
 gaullist
