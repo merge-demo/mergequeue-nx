@@ -1102,7 +1102,7 @@ automat
 alablaster
 asymptotic
 abutilon
-apomorphine
+apomorphine 1
 abutment
 articulant
 accusal
