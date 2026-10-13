@@ -570,7 +570,7 @@ baubee
 balisaur
 baconian
 benzalacetone
-bishopric
+bishopric 1
 breaths
 bistro
 baconianism
