@@ -15682,7 +15682,7 @@ blowzy
 bands
 bonbonniere
 bogglebo
-barycentric
+barycentric 1
 barbering
 battarism
 brunonia
