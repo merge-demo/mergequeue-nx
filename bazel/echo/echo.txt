@@ -12635,7 +12635,7 @@ eranthemum
 extramurally
 emeus
 elephantidae
-equiaxial
+equiaxial 1
 epexegeses
 exodic
 equipped
