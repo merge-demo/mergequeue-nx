@@ -15387,7 +15387,7 @@ dissipator
 dearn 1
 dragginess
 domiciles
-domiciliate
+domiciliate 1
 domiciliated
 demineralizer 1
 detectivism
