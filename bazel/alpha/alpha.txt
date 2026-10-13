@@ -1871,7 +1871,7 @@ acceleration
 adstrict 1
 anthropomorphological
 advanced
-acetable
+acetable 1
 azodisulphonic
 antipopularization
 antifaction
