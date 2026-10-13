@@ -8624,7 +8624,7 @@ grappled
 guti
 glucosin
 gulfed
-gingerleaf 1
+gingerleaf 2
 grapline
 guideposts
 goldfielder
