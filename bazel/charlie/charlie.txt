@@ -1255,7 +1255,7 @@ cambrel
 cameo
 calendarial
 chusite
-cicadid
+cicadid 1
 counterpoise
 calendaring
 cyprine
