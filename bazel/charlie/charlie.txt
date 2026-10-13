@@ -25515,7 +25515,7 @@ coronagraph
 cataphonics
 controversionalism
 confervous
-coronaled
+coronaled 1
 coronalled
 coronals
 coronamen
