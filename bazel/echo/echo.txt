@@ -5638,7 +5638,7 @@ epistemology
 enteroscopy
 elysium
 esophoria
-enforceable
+enforceable 1
 ectocarpous
 encitadel
 enlisters
