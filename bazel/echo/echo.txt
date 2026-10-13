@@ -3334,7 +3334,7 @@ ellipsometer
 edison
 euharmonic
 endamages
-epileptic
+epileptic 1
 emancipator
 eelback
 emarginated
