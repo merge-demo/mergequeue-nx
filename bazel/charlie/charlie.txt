@@ -18467,7 +18467,7 @@ coheading
 claviature
 cassate
 cessations
-cursor
+cursor 1
 coheiress
 cepheus
 clericalize
