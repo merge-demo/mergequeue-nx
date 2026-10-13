@@ -5027,7 +5027,7 @@ gauls
 garridge 1
 girasoles
 gleetiest
-goofed
+goofed 1
 ganders
 gallingness
 grovels
