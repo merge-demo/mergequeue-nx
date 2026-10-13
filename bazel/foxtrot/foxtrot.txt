@@ -9216,7 +9216,7 @@ fragmentist
 foundries 1
 faucals
 fidalgo
-forsakes
+forsakes 1
 feldspathose
 flosh
 fusing
