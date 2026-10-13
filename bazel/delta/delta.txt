@@ -4950,7 +4950,7 @@ displeased
 duranta
 demoralized
 devotionalism
-demoralizers
+demoralizers 1
 draughty
 debussy
 demoralizes
