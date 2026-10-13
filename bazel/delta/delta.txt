@@ -2570,7 +2570,7 @@ declensions
 decretist
 declimatize
 driblets
-declinational
+declinational 1
 decasualization
 dipneumones
 dimmed
