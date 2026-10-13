@@ -14930,7 +14930,7 @@ dracontine 1
 dumbbells
 defendants
 deridingly
-dispensible
+dispensible 1
 dodgily
 defraud
 destroyingly 1
