@@ -15372,7 +15372,7 @@ bapistery
 blondine
 bevomited
 bother
-brachypterous
+brachypterous 1
 brigandine
 bandhu
 brigantia
