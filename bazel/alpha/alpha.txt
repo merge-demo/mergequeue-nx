@@ -12165,7 +12165,7 @@ agaonidae
 aneretic
 algebrization
 anatropal
-antiquers
+antiquers 1
 ambitiousness 1
 andesinite
 agremens
