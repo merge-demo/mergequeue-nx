@@ -18191,7 +18191,7 @@ dinucleotide
 dorsulum
 diereses
 duncical
-delamination 1
+delamination 2
 dharani
 dispensary
 duncish
