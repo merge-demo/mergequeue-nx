@@ -11607,7 +11607,7 @@ bolis
 brachyural
 biunivocal
 barche 1
-boarspear 1
+boarspear 2
 balloter
 burns 1
 bevels
