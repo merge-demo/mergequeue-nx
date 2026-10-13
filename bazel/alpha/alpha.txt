@@ -22299,7 +22299,7 @@ astrictively
 axialities
 autodynamic
 antal 1
-antifundamentalist
+antifundamentalist 1
 astride
 averah
 antefixal
