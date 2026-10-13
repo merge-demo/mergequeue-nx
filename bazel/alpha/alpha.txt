@@ -21714,7 +21714,7 @@ acarocecidia
 asself
 ayyubid
 amphoric
-assembl
+assembl 1
 assemblable
 assemblance
 aphthous
