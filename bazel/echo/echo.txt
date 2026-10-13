@@ -3041,7 +3041,7 @@ epistolatory
 elixir
 ecblastesis
 enraging
-exhortatory
+exhortatory 1
 elixiviate
 excerptor
 ensheathes
