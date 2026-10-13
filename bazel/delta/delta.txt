@@ -11517,7 +11517,7 @@ discomfort
 dewaterer
 diaphragmatic
 demarch
-delies
+delies 1
 dismounts
 derivationist
 deuteropathic
