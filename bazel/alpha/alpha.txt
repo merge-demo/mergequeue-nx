@@ -9904,7 +9904,7 @@ algine
 acromiosternal
 acetonization
 acceptive
-amateur
+amateur 1
 antidotal
 arietid
 amateurishness
