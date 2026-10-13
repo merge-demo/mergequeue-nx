@@ -15,7 +15,7 @@ gratuities 1
 gabelles
 greedsome
 gledy
-genetous
+genetous 1
 granitize
 goter
 gastroadynamic
