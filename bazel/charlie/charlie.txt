@@ -29480,7 +29480,7 @@ crystallochemical
 calvinist
 chaldaism
 chati
-cannoning
+cannoning 1
 crystallod
 crystallogeny
 crystallogenical
