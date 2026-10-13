@@ -3022,7 +3022,7 @@ filmiform 1
 forma
 fiars
 fiascos
-ferricyanogen
+ferricyanogen 1
 ferrotype
 fulgurantly
 fortepiano
