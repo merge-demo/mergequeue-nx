@@ -6541,7 +6541,7 @@ ay
 ayah
 animateness
 ayahuasca
-ampliative
+ampliative 1
 admedial
 ariste
 ayapana
