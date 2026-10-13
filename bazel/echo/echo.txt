@@ -12512,7 +12512,7 @@ exies
 extraviolet
 errantia
 electicism
-everyway
+everyway 1
 embarrel
 enchiridia
 exinguinal
