@@ -19289,7 +19289,7 @@ colonialness
 carshop 1
 caryatic
 colonials
-colonical
+colonical 1
 critically
 colonies
 colonisability
