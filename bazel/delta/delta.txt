@@ -11534,7 +11534,7 @@ discommendation 1
 dheneb
 dedanim
 deaner
-dallyingly
+dallyingly 1
 discommode
 discommoding
 defervesced
