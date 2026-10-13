@@ -11636,7 +11636,7 @@ cholerine
 choleroid
 cholerophobia 1
 camphylene
-cyanamids
+cyanamids 1
 cholesteatoma
 concorrezanes
 cholesteatomatous
