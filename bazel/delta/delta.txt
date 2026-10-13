@@ -14259,7 +14259,7 @@ dyspnoeic
 diffiding
 deporter
 depravers
-deisms
+deisms 1
 downcrying
 defoliator
 deviationist
