@@ -12592,7 +12592,7 @@ chronologies
 coalternative
 chantecler
 cercle
-cafetiere
+cafetiere 1
 chronologizing
 chronomantic
 chronomastix
