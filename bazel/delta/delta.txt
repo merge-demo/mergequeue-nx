@@ -16410,7 +16410,7 @@ doxastic
 doxasticon
 dghaisa
 doxie
-distad
+distad 1
 dhoora
 doxography
 decolourise
