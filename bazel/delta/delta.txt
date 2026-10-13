@@ -8200,7 +8200,7 @@ deputable
 dactylic
 drabbets
 diacranterian
-diffractions
+diffractions 1
 dicyema
 diacromyodi
 defrosted
