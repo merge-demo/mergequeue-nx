@@ -10917,7 +10917,7 @@ dignitas
 disabuse
 disbursement
 diapir 1
-disabuses
+disabuses 1
 dispondaic
 dazzlement
 disacceptance
