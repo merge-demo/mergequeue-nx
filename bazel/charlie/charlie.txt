@@ -1274,7 +1274,7 @@ confessionist
 calenders
 calendric
 calendrical
-calendula
+calendula 1
 calendulas
 calendulin
 calentural
