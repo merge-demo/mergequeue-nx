@@ -23167,7 +23167,7 @@ constitutionals
 constitutionary 1
 constitutions
 chromatoid
-cowpath
+cowpath 1
 constitutiveness
 constitutor
 cassiri
