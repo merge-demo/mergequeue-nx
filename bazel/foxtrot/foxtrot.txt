@@ -11552,7 +11552,7 @@ fusiform
 fusil
 frictionized
 fowage
-figurations
+figurations 1
 feedback
 friskful
 fusile
