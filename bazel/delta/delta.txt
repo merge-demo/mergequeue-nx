@@ -2598,7 +2598,7 @@ duad
 discouragements
 docetist
 desistence
-diplocephalous
+diplocephalous 1
 decoat
 decoct 1
 demiquaver
