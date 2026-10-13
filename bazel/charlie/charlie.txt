@@ -15184,7 +15184,7 @@ claims
 covenable
 claypans
 clair 1
-clairaudience
+clairaudience 1
 countertug
 claire
 coloristic
