@@ -7112,7 +7112,7 @@ extemporizing
 envaye
 explainability
 episcenia
-excerpting
+excerpting 1
 envelope
 exurbanites
 envelopments
