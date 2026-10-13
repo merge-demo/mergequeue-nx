@@ -979,7 +979,7 @@ bukidnon
 becompliment
 brogueful
 boohooed
-burnous
+burnous 1
 boat 1
 bayamos
 brownier
