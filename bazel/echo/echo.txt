@@ -6225,7 +6225,7 @@ exclusioner
 encelia
 enlivened
 enolic
-enolizable
+enolizable 1
 explicableness
 etiologic
 enological
