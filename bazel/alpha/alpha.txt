@@ -24581,7 +24581,7 @@ aciliate
 arthrodynia
 antineutrality 1
 availed
-automania
+automania 1
 aquarian
 availer
 antimachine
