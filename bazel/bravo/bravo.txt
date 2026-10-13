@@ -16479,7 +16479,7 @@ burdock 1
 beecher
 brusker
 brushlet
-bendayed
+bendayed 1
 burrhel
 biscacha
 brushproof
