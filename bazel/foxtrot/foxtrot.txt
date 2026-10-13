@@ -728,7 +728,7 @@ frustrater 1
 fana
 feoffment
 fluxion
-feministics
+feministics 1
 fragmentate
 fertilizes
 fogscoffer
