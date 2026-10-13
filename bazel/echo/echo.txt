@@ -4376,7 +4376,7 @@ embody
 emphlysis
 eritrean
 esoenteritis
-exotically
+exotically 1
 embrasure
 enantiomorph
 encratic
