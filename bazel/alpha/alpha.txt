@@ -16295,7 +16295,7 @@ apiararies 1
 antiroyal
 aspire
 anthropophuism
-anthropologists
+anthropologists 1
 anticipatorily
 absurdism
 antitoxic
