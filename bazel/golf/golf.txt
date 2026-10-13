@@ -6091,7 +6091,7 @@ grisset
 gadroons
 grume
 gonococcoid
-gnaws
+gnaws 1
 gramineous
 gneiss
 grotesquely
