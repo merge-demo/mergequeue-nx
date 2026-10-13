@@ -24620,7 +24620,7 @@ copyreading
 curiosos
 copyrightable
 copyrighter
-copis
+copis 1
 cowling
 chicnesses
 coattended
