@@ -16614,7 +16614,7 @@ dwellers
 decorates
 dragonish
 drunkeness 1
-dragonroot
+dragonroot 1
 dilutant
 detesting
 dragonwort
