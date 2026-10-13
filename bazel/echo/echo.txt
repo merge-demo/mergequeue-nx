@@ -1244,7 +1244,7 @@ externity
 eelboat
 eudendrium
 epicures 1
-enjoyable
+enjoyable 1
 enroot
 efficiently
 earthshock
