@@ -1671,7 +1671,7 @@ electromerism
 electrotaxis
 emigr
 ejusdem
-eyeish
+eyeish 1
 eisteddfodic
 eyeballed
 eyeballing
