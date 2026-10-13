@@ -16026,7 +16026,7 @@ androclclinia
 aparaphysate
 acidification
 anaeroplasty
-astor
+astor 1
 antireducer
 acetones
 authoritative
