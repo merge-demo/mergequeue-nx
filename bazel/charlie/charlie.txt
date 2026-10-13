@@ -4317,7 +4317,7 @@ caryatids 1
 caribal
 conserving
 cariban
-caribbean
+caribbean 1
 caribbeans
 chelation
 caribbee
