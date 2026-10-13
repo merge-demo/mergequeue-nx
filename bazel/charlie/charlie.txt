@@ -11388,7 +11388,7 @@ commences
 chiastic
 conscienceless
 chloroplatinous
-chloroprene
+chloroprene 1
 creature
 chloroquine
 coronas 1
