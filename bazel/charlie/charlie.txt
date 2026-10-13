@@ -16518,7 +16518,7 @@ clogwheel 1
 canners
 clogwyn
 clogwood
-calvinian
+calvinian 1
 cloy
 cloyedness
 chloralization
