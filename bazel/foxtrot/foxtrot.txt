@@ -9264,7 +9264,7 @@ fresnel
 foresentence
 fetishist
 fixtures
-fleuret
+fleuret 1
 fourchet
 friesic
 fayalites
