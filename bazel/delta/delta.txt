@@ -3478,7 +3478,7 @@ dehydroffrozen
 defoedation
 defogged
 disyllable
-dormered
+dormered 1
 drogh
 didelphous
 dorism 1
