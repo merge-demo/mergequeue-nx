@@ -22145,7 +22145,7 @@ argute
 acromegalies
 antebrachium
 alcavala
-asthenia
+asthenia 1
 amours
 amoeboid
 anarchically
