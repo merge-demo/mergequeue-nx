@@ -9043,7 +9043,7 @@ charmed
 camogie
 charmedly
 coax
-charmel
+charmel 1
 cothe
 copycatted
 charmfully
