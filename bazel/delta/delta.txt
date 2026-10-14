@@ -8085,7 +8085,7 @@ dhootis
 denaturant
 domesticated
 dysgenetic
-disendowment 1
+disendowment 2
 desugar
 durzi
 dhourras
