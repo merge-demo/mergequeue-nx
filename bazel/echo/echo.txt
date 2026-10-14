@@ -10565,7 +10565,7 @@ endboard
 eclectical
 ensurers
 equational
-elevates
+elevates 1
 excursionary
 encoffinment
 ethylenic
