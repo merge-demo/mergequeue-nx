@@ -2898,7 +2898,7 @@ decurion
 dispensatories 1
 demented
 diorthosis
-deathling
+deathling 1
 decurrences
 defeminising
 dihysteria
