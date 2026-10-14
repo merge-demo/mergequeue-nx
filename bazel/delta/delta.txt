@@ -17093,7 +17093,7 @@ drift
 driftage
 deficient
 decatyl
-diaboleptic
+diaboleptic 1
 detenebrate
 dispensated
 driftbolt
