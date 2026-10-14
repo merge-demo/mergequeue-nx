@@ -2454,7 +2454,7 @@ asparagus
 amphisbaenidae
 acme 1
 acquiring
-articulata
+articulata 1
 americana
 adipic
 acnemia
