@@ -8650,7 +8650,7 @@ gazetteership
 greatness
 greave 1
 gapers
-gavelet
+gavelet 1
 gisel
 greaved
 garlopa
