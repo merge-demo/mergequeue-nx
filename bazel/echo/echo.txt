@@ -8190,7 +8190,7 @@ electrolysis
 extracollegiate
 exulting
 enmarbling
-entomophthoraceae
+entomophthoraceae 1
 eons
 exergual
 empowered
