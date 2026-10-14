@@ -123,7 +123,7 @@ denticule
 determinableness
 diddered
 detonated 1
-dialectologically
+dialectologically 1
 diazeuctic
 dioecism
 debilitations
