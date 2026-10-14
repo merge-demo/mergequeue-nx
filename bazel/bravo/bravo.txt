@@ -2583,7 +2583,7 @@ baritenor
 barberry
 bucerotinae
 bulletined
-bedevils
+bedevils 1
 barytocelestite
 barytone
 barytons
