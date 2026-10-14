@@ -11012,7 +11012,7 @@ fabliaux
 fusuma 1
 farmery
 fumet
-forcipate
+forcipate 1
 falafel
 fumets 1
 fumiest
