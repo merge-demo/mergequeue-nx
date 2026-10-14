@@ -7736,7 +7736,7 @@ capromys
 ceroplasty
 ceroplastic
 ceroplastics
-cyanocrystallin
+cyanocrystallin 1
 cerosin
 cerote
 chastises
