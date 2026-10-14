@@ -2547,7 +2547,7 @@ candlenut
 candlepins
 chemist
 cerevis
-candler
+candler 1
 candlerent
 concealed
 candlers
