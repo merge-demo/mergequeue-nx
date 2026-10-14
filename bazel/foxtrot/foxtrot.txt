@@ -7043,7 +7043,7 @@ foreganger
 feinting
 fontinas 1
 forepromise
-figura
+figura 1
 fonts
 fusula
 fists
