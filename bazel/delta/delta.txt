@@ -1452,7 +1452,7 @@ dawnward
 dud
 drooliest
 dipropyl
-dawpate
+dawpate 1
 diminished 1
 dandruffy
 dawsonia
