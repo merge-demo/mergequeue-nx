@@ -27016,7 +27016,7 @@ conformance
 counterplotter
 curatage
 conjure
-contoid
+contoid 1
 chimneypot
 counterpoints
 cataleptiform
