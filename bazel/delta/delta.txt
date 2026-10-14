@@ -1040,7 +1040,7 @@ daggly
 darkskin
 disseises
 dispensers
-darksum
+darksum 1
 domineers
 danalite
 decimeter 1
