@@ -8654,7 +8654,7 @@ allegrettos
 apasttra
 adobes
 annulosan
-africanization
+africanization 1
 alienee
 archigenesis
 askeses
