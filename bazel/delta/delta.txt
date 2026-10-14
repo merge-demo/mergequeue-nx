@@ -4999,7 +4999,7 @@ diphyletic
 dunne
 dueness
 diversionary
-distinguish
+distinguish 1
 derk
 demultiplexer
 deurbanize
