@@ -5014,7 +5014,7 @@ eco
 eightscore
 endenization
 excusator
-ecarte
+ecarte 1
 escritorial
 equipollentness
 eumoirous
