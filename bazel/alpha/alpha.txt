@@ -3818,7 +3818,7 @@ adiating
 addends 1
 adiation
 arugolas 1
-adib
+adib 1
 allanite
 adiel
 adrenalectomized
