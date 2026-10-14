@@ -6789,7 +6789,7 @@ galiot
 gavyuti
 ganglioside
 gossiping
-geront
+geront 1
 gymnogyps
 gentilitial
 gyrostatics
