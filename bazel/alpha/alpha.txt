@@ -10295,7 +10295,7 @@ amenability
 atoll
 allocaffeine
 amenably
-assess
+assess 1
 amenance
 amydon
 amendatory
