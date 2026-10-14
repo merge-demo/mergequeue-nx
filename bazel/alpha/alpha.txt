@@ -11921,7 +11921,7 @@ achterveld
 anantherous
 ananthous
 aftersend
-aupaka
+aupaka 1
 anchylosis
 anapaestically
 ancientness
