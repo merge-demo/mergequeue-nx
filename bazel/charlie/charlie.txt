@@ -8331,7 +8331,7 @@ challah
 centriciput
 challas
 contraponend
-chamicuro
+chamicuro 1
 calcifuge
 challenger
 challengers
