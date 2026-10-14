@@ -3551,7 +3551,7 @@ exothermic
 exanthematous
 ergographic
 entozoon 1
-emboweled
+emboweled 1
 epithecial
 ethanamide
 electrosurgically
