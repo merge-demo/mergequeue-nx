@@ -9478,7 +9478,7 @@ gladiate
 glossy
 ganser
 glossographical 1
-gleeishly
+gleeishly 1
 gauffering
 grilled
 gossamery
