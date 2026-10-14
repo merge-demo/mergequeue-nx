@@ -1771,7 +1771,7 @@ eyeseed
 entophytically
 eyeservant
 eyeshade
-exolve
+exolve 1
 enticingness
 euglenales
 enterocentesis
