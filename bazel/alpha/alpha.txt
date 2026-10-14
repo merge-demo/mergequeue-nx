@@ -11554,7 +11554,7 @@ aper
 appositions 1
 adenophyllous
 aulas
-anabolism
+anabolism 1
 ammophilous
 accinging
 amethysts
