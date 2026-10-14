@@ -30552,7 +30552,7 @@ cubing
 cytogamy
 captaining
 cymographic
-cubisms
+cubisms 1
 crucibulum
 crankery
 contraprops
