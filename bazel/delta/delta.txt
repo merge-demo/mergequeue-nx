@@ -1817,7 +1817,7 @@ doggoned
 daggerlike
 debate
 disemboguing
-delusterant
+delusterant 1
 distortionist
 demology
 deassimilation
