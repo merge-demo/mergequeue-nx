@@ -12999,7 +12999,7 @@ admirator
 angustifolious
 angustisellate
 antispectroscopic 1
-angustiseptal
+angustiseptal 1
 accommodable
 alfridaric
 angustura
