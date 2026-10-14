@@ -3127,7 +3127,7 @@ ecdysones 1
 echinorhinidae
 etheriidae
 entombed
-epitomised
+epitomised 1
 elodeas
 enfaced
 esthetically
