@@ -11297,7 +11297,7 @@ discarding
 discardment
 discards
 dentals
-discarnate
+discarnate 1
 duskier
 dimit
 discusser
