@@ -2839,7 +2839,7 @@ congealer
 cremor
 cadesse
 canonicals
-condiddled
+condiddled 1
 countercharge
 canonisation
 contermine
