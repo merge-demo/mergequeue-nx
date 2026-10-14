@@ -2873,7 +2873,7 @@ elytriferous
 enterotoxin
 ectosteally
 ecbasis
-expt
+expt 1
 endomorphic
 elder
 epitympa

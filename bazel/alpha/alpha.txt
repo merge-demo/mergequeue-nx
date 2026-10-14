@@ -11707,7 +11707,7 @@ artal
 anaesthetize
 apodidae
 anaesthetized
-anaesthetizer
+anaesthetizer 1
 arthralgic
 adsum
 arbalester
