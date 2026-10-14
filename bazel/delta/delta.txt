@@ -16717,7 +16717,7 @@ dioecious
 debridement
 dorrbeetle
 downlinking
-distributedly
+distributedly 1
 drammock
 drypoint
 disadvised
