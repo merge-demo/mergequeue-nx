@@ -2808,7 +2808,7 @@ garblings
 grandisonous
 gathers
 gazettal
-grigris
+grigris 1
 gormless
 glottalite
 gloiopeltis
