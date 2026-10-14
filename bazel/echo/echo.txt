@@ -6205,7 +6205,7 @@ eccrinology
 episememe
 entrappingly 1
 entocondyloid
-elision
+elision 1
 ennoblement
 estuant
 ennoblements
