@@ -3573,7 +3573,7 @@ deformalize
 dingles
 dermatotome
 drawbeam
-dissheathe
+dissheathe 1
 dehwar
 defuze
 dolman
