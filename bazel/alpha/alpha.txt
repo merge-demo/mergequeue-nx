@@ -17027,7 +17027,7 @@ anthropomorphic
 apoquinine
 acroscleroderma
 apocha
-automorphic
+automorphic 1
 apochromatism
 archimorula
 astrophotometry
