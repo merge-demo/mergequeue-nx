@@ -10439,7 +10439,7 @@ adstipulation
 almah 1
 amethodically
 absurdum
-aculeolus
+aculeolus 1
 ametrope
 antshrike
 ametropia
