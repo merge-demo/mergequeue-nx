@@ -28659,7 +28659,7 @@ catlin
 cavetto
 crenallation
 cuchulainn
-crenate
+crenate 1
 crenated
 chalcosiderite
 crenately
