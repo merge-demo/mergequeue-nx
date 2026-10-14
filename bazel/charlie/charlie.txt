@@ -25088,7 +25088,7 @@ calcspar
 corelational
 corelative
 consolation
-caimakam
+caimakam 1
 cottoid
 coreligionist
 cooperancy
