@@ -3864,7 +3864,7 @@ gaolerness
 gold
 granthi 1
 gell
-galanas
+galanas 1
 giftwrapping 1
 gazeless
 gorgonesque
