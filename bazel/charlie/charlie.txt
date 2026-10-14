@@ -3684,7 +3684,7 @@ carangids
 coenaesthesis
 cooking
 coleopterological
-carangin
+carangin 1
 chunderous
 chromicize
 coemptive
