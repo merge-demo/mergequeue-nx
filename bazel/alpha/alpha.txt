@@ -13135,7 +13135,7 @@ alemannish
 anisidino
 arrace
 antidynastical
-anabolite
+anabolite 1
 animala
 animalic
 avunculize
