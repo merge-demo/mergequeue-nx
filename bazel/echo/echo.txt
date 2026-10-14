@@ -11506,7 +11506,7 @@ exsecant
 exoergic
 echinopanax
 exhibited
-expended
+expended 1
 electromyogram
 emendate
 engouled
