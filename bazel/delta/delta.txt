@@ -5410,7 +5410,7 @@ dish
 disappointingness
 diamonds
 drown
-duodecimality
+duodecimality 1
 denuclearized
 desegregating
 deyhouse
