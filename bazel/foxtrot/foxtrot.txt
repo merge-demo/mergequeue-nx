@@ -2856,7 +2856,7 @@ furunculosis
 flatwares
 formol
 faddish
-feltyfare
+feltyfare 1
 fisty 1
 finable
 foresails
