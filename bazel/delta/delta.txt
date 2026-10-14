@@ -9279,7 +9279,7 @@ drupaceae
 disambiguations
 daikering
 diurne
-daguerreotyper
+daguerreotyper 1
 dietaries
 deosculate
 disploding
