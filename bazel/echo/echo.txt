@@ -5526,7 +5526,7 @@ encake
 electroscope
 elritch
 ectocarpic
-excitate
+excitate 1
 equiformity
 enzymosis
 enervation 1
