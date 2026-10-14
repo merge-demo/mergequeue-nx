@@ -3116,7 +3116,7 @@ cyclopes
 capacitor
 chalker
 catercornerways
-clone
+clone 1
 capanna
 cystolithectomy
 caparison
