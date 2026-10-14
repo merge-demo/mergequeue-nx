@@ -12172,7 +12172,7 @@ blandiloquence
 baklawas
 benzodiazine 1
 bridgeboard
-bijugular
+bijugular 1
 bolide
 bolivar
 befamine
