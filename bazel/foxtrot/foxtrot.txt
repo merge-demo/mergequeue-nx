@@ -3866,7 +3866,7 @@ fiberglas
 formicary
 fiberscope
 forgiveable
-fungistat
+fungistat 1
 flavanthrene 1
 favous
 fimbriating
