@@ -9829,7 +9829,7 @@ gibbets
 guayabi
 guaiac
 goitcho
-gymnotid 1
+gymnotid 2
 guaiaconic
 glebous
 guesstimated
