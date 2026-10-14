@@ -16461,7 +16461,7 @@ damaskin
 dollhouse
 darken 1
 degradations
-detinuit
+detinuit 1
 doubtance
 disjointness
 dasyprocta
