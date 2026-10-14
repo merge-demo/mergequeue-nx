@@ -7106,7 +7106,7 @@ destrer 1
 destressed
 decalescent
 degras
-diseasing
+diseasing 1
 dorsocaudal 1
 desynchronizing
 demonstratable
