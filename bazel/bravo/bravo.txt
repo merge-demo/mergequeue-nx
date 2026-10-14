@@ -3135,7 +3135,7 @@ bifurcates
 basihyal
 biuniquely
 basenesses
-bunda
+bunda 1
 blurrer
 brevet
 bleakest
