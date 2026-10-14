@@ -11169,7 +11169,7 @@ fideists
 fungicidal
 fungicidally
 fungicides 1
-fungicolous
+fungicolous 1
 frampler
 fridila
 fraughted
