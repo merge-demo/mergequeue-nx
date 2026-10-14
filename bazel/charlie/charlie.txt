@@ -18322,7 +18322,7 @@ cogger
 cogging
 coggledy
 cogitate 1
-combed
+combed 1
 campal
 cogglety
 culdee
