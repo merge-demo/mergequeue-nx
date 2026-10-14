@@ -14412,7 +14412,7 @@ amplexicauline
 anthracitic
 apprehensively
 acclaims
-anthracic
+anthracic 1
 amoyese
 anthracitious
 angiospastic
