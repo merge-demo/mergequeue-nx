@@ -2965,7 +2965,7 @@ fingerparted
 formicina
 finches
 floodlike
-feverous
+feverous 1
 fallostomy
 fz
 flagship
