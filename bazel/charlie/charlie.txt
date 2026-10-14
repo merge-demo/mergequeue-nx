@@ -5239,7 +5239,7 @@ colemouse
 cassabas
 cassabully
 customs
-cultist
+cultist 1
 carthorse
 custodiam
 crwth
