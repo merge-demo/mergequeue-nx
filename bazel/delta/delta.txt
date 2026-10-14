@@ -5853,7 +5853,7 @@ dragonfly
 dewaxing
 deadtongue
 dags
-dentaries
+dentaries 1
 dermatocoptic
 deprecable
 deprecating
