@@ -6044,7 +6044,7 @@ enumerates
 enkidu
 ekatantalum
 enterospasm
-excursus
+excursus 1
 empaler
 enhydrinae
 evenminded
