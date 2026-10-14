@@ -18819,7 +18819,7 @@ colet 1
 cobego
 coleur
 chromizes
-clammily
+clammily 1
 corylet
 chatterbag
 colubriform
