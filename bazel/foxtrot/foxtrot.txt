@@ -1073,7 +1073,7 @@ farrago
 franchisement
 frizer
 flichters
-foreswear
+foreswear 1
 feriae
 farreachingly
 fernleaf
