@@ -9687,7 +9687,7 @@ coagent
 cheewink
 cheezit
 chef
-chefs
+chefs 1
 coenamoring
 collocate 1
 chego
