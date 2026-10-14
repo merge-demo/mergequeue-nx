@@ -2275,7 +2275,7 @@ compassionable
 catchwords
 counterlathing
 centaurus
-canadine
+canadine 1
 corresponds
 canadite
 conferva
