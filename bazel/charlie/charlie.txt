@@ -12605,7 +12605,7 @@ chronometric
 chronometrically
 chronon
 choppily
-chronons
+chronons 1
 chefrinia
 chronophotography
 chronoscopic
