@@ -7937,7 +7937,7 @@ epizootiology
 epinikion
 epilogical
 entomophaga
-eurystomatous
+eurystomatous 1
 emitter
 eatery
 extrastapedial
