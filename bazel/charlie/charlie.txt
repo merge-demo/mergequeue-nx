@@ -1670,7 +1670,7 @@ chettik
 colport
 consuetitude 1
 conferees
-caloreceptor
+caloreceptor 1
 cochairs
 calorescence
 calory
