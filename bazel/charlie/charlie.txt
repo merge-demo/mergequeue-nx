@@ -16264,7 +16264,7 @@ canisters
 clinometrical
 calendal
 carvol
-clinopinacoid
+clinopinacoid 1
 cephalin
 chayaroot
 convector
