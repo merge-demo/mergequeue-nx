@@ -2966,7 +2966,7 @@ appendages 2
 ashless 1
 antiheroism
 actinias
-actinic
+actinic 1
 akene
 antitropical
 archenteron
