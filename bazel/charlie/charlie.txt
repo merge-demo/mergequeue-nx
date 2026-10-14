@@ -4421,7 +4421,7 @@ cytogenetics
 caryophyllus
 cares
 curite
-cartisane
+cartisane 1
 cheeks
 concettist
 caryopilite
