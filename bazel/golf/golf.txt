@@ -1082,7 +1082,7 @@ gangrened
 gloiosiphoniaceae
 genoas 1
 granddaddy
-ghostliness
+ghostliness 1
 groundway
 gypsums
 gegenion

@@ -17597,7 +17597,7 @@ drupa
 dysthyroidism
 dispunishable
 drupelets
-drupeole
+drupeole 1
 detoxification
 during
 driftwind
