@@ -12457,7 +12457,7 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
-chromoisomeric
+chromoisomeric 1
 chamaenerion
 candelabra
 cerebralize
