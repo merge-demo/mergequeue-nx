@@ -16036,7 +16036,7 @@ antireligion
 alkalising
 arctian 1
 antireligiously
-absolvable
+absolvable 1
 archprince
 antipot
 architectonica
