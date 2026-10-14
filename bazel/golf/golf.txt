@@ -2305,7 +2305,7 @@ galidictis
 ganofs 1
 gelant
 glyceric
-ganta
+ganta 1
 granulation
 gelatinating
 greyfish
