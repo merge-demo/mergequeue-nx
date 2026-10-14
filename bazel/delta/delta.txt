@@ -18441,7 +18441,7 @@ diamondbacks
 dactylograph 1
 demichamfron
 diagometer
-disulphuret
+disulphuret 1
 degreased
 disodic
 debordment
