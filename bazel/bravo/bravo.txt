@@ -1667,7 +1667,7 @@ blusher
 byganging
 barchan
 buqsha
-brilliantness
+brilliantness 1
 bawdyhouse
 bagnios
 babbishly
