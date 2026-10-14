@@ -4415,7 +4415,7 @@ demembre
 dastur
 disassembled 1
 dementation
-dementedly
+dementedly 1
 dementholize
 disseated
 demiatheism
