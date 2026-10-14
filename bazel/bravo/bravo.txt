@@ -2507,7 +2507,7 @@ blueblack
 beslash
 bassetite
 bottonhook
-barguest
+barguest 1
 barguests
 buzylene
 baria
