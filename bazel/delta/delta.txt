@@ -8081,7 +8081,7 @@ dafter
 dhooras
 dhooties
 distinctively 1
-dhootis
+dhootis 1
 denaturant
 domesticated
 dysgenetic
