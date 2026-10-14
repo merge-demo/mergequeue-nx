@@ -23253,7 +23253,7 @@ charrs
 counteractor
 coplotted
 corncockle 1
-cavaliere
+cavaliere 1
 cockadoodledoo
 consubstantiate
 consubstantiated
