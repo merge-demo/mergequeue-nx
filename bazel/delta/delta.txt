@@ -10461,7 +10461,7 @@ demibath
 diphonia
 dismiss
 drowsy
-duumvirs
+duumvirs 1
 deglutitive
 distortion
 dister
