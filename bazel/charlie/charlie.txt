@@ -19300,7 +19300,7 @@ consumingness
 colonisationist
 colonised
 colonising
-colonist
+colonist 1
 colonizable
 colonize 1
 comminating
