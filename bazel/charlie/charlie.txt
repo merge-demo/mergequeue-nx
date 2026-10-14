@@ -4047,7 +4047,7 @@ covido
 cicada
 cowpox
 catechism
-cardamom
+cardamom 1
 cicatrise
 cardamon
 centenary
