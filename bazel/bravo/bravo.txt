@@ -12328,7 +12328,7 @@ bombes
 babaylan
 buckpot
 bombesins
-brightsomeness
+brightsomeness 1
 beeregar
 brandle
 bantered
