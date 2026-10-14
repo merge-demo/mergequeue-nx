@@ -10852,7 +10852,7 @@ forwore 1
 frondosely
 franciscan 1
 frousy
-fabledom
+fabledom 1
 faddism
 fulgidity
 flaite
