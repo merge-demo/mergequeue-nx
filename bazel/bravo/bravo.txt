@@ -4267,7 +4267,7 @@ bosnian
 beaverskin
 bishophood
 branded
-beaverteen
+beaverteen 1
 braidings
 bebay
 bogotana
