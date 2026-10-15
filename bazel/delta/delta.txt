@@ -17730,7 +17730,7 @@ deportees
 delegative
 dubitable
 dichondra
-dubitably
+dubitably 1
 deflagrates
 descried
 drachmal
