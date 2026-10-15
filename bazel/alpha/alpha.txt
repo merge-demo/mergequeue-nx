@@ -5142,7 +5142,7 @@ astragalectomy
 aether
 aromacity
 ahrimanian
-affrication
+affrication 1
 audition
 aethionema
 arsenides
