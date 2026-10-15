@@ -15234,7 +15234,7 @@ cabriolet
 clamant
 circumnavigatory
 clamantly
-clamaroo
+clamaroo 1
 ceraunophone
 cywydd
 clamatory
