@@ -4974,7 +4974,7 @@ agenizes
 aeronat
 aeronaut
 aeronautic
-argentose
+argentose 1
 agama
 anticipations
 aeronautical
