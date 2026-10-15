@@ -18393,7 +18393,7 @@ coarct 1
 countergambit
 cognised
 creepy
-chatchkas
+chatchkas 1
 chirimoya
 clypeal
 compactedness
