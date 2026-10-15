@@ -10910,7 +10910,7 @@ aboardage
 amniomancy 1
 amnionata
 acclamation
-absolution
+absolution 1
 amosite
 anhydric
 availably
