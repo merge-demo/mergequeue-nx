@@ -6326,7 +6326,7 @@ debit
 disseminating
 defensorship
 dermic
-delint
+delint 1
 diagonial
 daltonism
 dermis
