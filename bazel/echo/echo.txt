@@ -7878,7 +7878,7 @@ epigrams
 entozoan
 epiguanine
 elementate
-enablement
+enablement 1
 eireannach
 extincts
 executioner
