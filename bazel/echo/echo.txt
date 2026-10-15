@@ -9323,7 +9323,7 @@ estrangedness
 ensilaged
 estop
 erudition
-erinys
+erinys 1
 eurythmic
 endosiphon
 erugo
