@@ -2644,7 +2644,7 @@ decolors
 duopsonies
 decolouration
 daedalean
-denunciated
+denunciated 1
 dogmatism
 decempeda
 dryasdust
