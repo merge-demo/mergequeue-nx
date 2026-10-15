@@ -7614,7 +7614,7 @@ endamoebic
 edelweiss
 epiclinal
 ecstaticize
-enteric
+enteric 1
 epicoele
 elkesaite
 extolment
