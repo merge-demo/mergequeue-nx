@@ -13085,7 +13085,7 @@ beryls
 bobbling
 bassarisk
 basifixed
-batteling
+batteling 1
 backfurrow
 baalath
 buggering
