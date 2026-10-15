@@ -5868,7 +5868,7 @@ catenative
 capomo
 compositorial
 catenoid 1
-catenulate
+catenulate 1
 cacozyme
 capuli
 conveyances
