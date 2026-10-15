@@ -8444,7 +8444,7 @@ extensure
 exsuction
 eurytropic
 electroanalytic
-electroencephalography
+electroencephalography 1
 eponym
 etiolate
 eponymus
