@@ -12666,7 +12666,7 @@ dextrorse
 doleful
 divining
 dehorts
-diatrymiformes
+diatrymiformes 1
 dridder
 disdiplomatize
 dendrobates
