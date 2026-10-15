@@ -3881,7 +3881,7 @@ adital
 aporrhoea
 aquacades
 ansae
-arthrosyrinx
+arthrosyrinx 1
 arbovirus
 analcite
 alphorns
