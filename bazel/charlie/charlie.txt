@@ -19000,7 +19000,7 @@ charonic
 crenele
 caloricity
 collectivize
-collectivized 1
+collectivized 2
 collectivizes
 collectivizing
 collectivum
