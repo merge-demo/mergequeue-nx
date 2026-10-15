@@ -8173,7 +8173,7 @@ diacid
 detachment
 duellists
 duple
-deprecate
+deprecate 1
 diacipiperazine
 disload
 drapeability
