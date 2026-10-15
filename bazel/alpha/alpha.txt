@@ -7121,7 +7121,7 @@ aftershock
 aetheogam
 acumble
 arthroderm
-amanitas
+amanitas 1
 aerocartograph
 actuator
 anointers 1
