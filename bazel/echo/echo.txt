@@ -10174,7 +10174,7 @@ emerant
 exegetic
 eponymies
 eunuchoid
-empestic
+empestic 1
 esteemer
 engraphically
 elisabeth
