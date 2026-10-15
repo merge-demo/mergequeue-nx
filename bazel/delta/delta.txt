@@ -17226,7 +17226,7 @@ decrepitation 1
 dingoes
 deferrizing
 distanced
-driftweed
+driftweed 1
 degged 1
 drivewell
 driving
