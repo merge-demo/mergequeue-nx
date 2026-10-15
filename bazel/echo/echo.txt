@@ -10639,7 +10639,7 @@ evilproof
 enmoss
 excavate
 endozoa
-eques
+eques 1
 enchilada
 eudemonistic
 eudemonics
