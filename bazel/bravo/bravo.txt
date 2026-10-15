@@ -10096,7 +10096,7 @@ befrets
 blackback
 beadles
 blackballed 1
-beinked
+beinked 1
 blanching
 blackballs
 byss
