@@ -8459,7 +8459,7 @@ etym
 exocannibalism
 epigrammatical
 eryops
-embroidering
+embroidering 1
 epos
 elianic
 encinas
