@@ -9730,7 +9730,7 @@ gandurah
 gambades
 greyhounds 1
 grocerwise
-glossaries
+glossaries 1
 gelants
 gratiosolin
 googolplex
