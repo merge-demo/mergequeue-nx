@@ -13667,7 +13667,7 @@ avitaminoses
 amherstite
 anogra
 affronte
-askings
+askings 1
 anoint
 arthritism
 aerialist
