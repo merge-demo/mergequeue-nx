@@ -31282,7 +31282,7 @@ curbable
 curber
 curbers
 cadastrally
-cribbled
+cribbled 1
 churchill
 concussing
 catatonias
