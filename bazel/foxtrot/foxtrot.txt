@@ -3493,7 +3493,7 @@ fumaroid
 fibbed
 figshell
 foe
-flankard
+flankard 1
 fury
 ficins
 fordays
