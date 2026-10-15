@@ -26883,7 +26883,7 @@ circumambience
 counterimagination 1
 cuitled
 counterimpulse
-counterindented
+counterindented 1
 counterindication 1
 countermining
 counterinfluence
