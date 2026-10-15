@@ -1766,7 +1766,7 @@ arabis 1
 anemia
 apochromatic
 acedy
-acedias
+acedias 1
 abbreviature
 agalloch
 astigmia
