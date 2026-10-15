@@ -6655,7 +6655,7 @@ faulted
 fulgurating
 flossing
 forenotice
-foemanship
+foemanship 1
 fripperer
 fecifork
 foemen
