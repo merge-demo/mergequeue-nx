@@ -9988,7 +9988,7 @@ dinothere
 dimly
 dimmer
 defensor 1
-dasyatidae
+dasyatidae 1
 dimness
 decisiveness
 dermatographism
