@@ -1122,7 +1122,7 @@ dicentra
 dipnoid
 dermopathy
 dumpfile
-dryfist
+dryfist 1
 dashee
 dasheen
 destructional 1
