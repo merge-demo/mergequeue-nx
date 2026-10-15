@@ -4347,7 +4347,7 @@ gurgulio
 graphy
 gingersnaps
 gingerspice
-greenable
+greenable 1
 gleefulness
 girthed
 gingivae
