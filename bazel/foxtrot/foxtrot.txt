@@ -10524,7 +10524,7 @@ fierily
 frowners
 faciend 1
 freq
-forstand
+forstand 1
 frowsily 1
 footslogging
 famishment
