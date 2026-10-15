@@ -21530,7 +21530,7 @@ anticlassically
 auxoaction
 antiphase
 amarantite
-asphyxiating
+asphyxiating 1
 athapaskan
 asphyxiation
 avenging
