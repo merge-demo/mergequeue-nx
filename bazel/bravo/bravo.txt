@@ -12482,7 +12482,7 @@ bagpiped
 buphthalmos
 bone
 bejaundice
-bumpily
+bumpily 1
 bonebreaker
 boned
 bonedry
