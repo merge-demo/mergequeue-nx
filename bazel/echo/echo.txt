@@ -6526,7 +6526,7 @@ ephemeris 1
 egomaniacal
 enrollment
 ectosphenoid
-essayists
+essayists 1
 entrenchments
 entails
 eaglet
