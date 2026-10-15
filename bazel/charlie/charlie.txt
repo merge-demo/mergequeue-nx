@@ -28233,7 +28233,7 @@ crapper
 chrysopoetic
 crappie
 compoundness
-capreolus
+capreolus 1
 cyclometries
 counteragitation
 crapshooters
