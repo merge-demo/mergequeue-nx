@@ -5610,7 +5610,7 @@ carking
 choiceless
 carnality
 catalogist
-catalogistic
+catalogistic 1
 conquinamine
 catalogize
 coleplant
