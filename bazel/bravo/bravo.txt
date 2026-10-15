@@ -17041,7 +17041,7 @@ bishoping
 bulkage
 boldfaces 1
 burt
-bulkhead
+bulkhead 1
 bulkheading
 bulky
 bulkier 1
