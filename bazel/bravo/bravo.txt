@@ -13487,7 +13487,7 @@ becomes
 bookshelves
 boulter
 bottstick
-botulins
+botulins 1
 bashaw
 breastful
 berlinize
