@@ -12057,7 +12057,7 @@ enwwove
 excoriations
 epiclike
 electrostenolytic
-enforcible
+enforcible 1
 elflike
 exotoxins
 expurgatorial
