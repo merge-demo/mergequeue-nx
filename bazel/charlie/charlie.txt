@@ -19590,7 +19590,7 @@ columnarian
 calamaries
 columnate
 centimolar
-cupseed
+cupseed 1
 columnates
 columnation
 crinkleroot
