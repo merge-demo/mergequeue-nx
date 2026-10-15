@@ -14850,7 +14850,7 @@ doctrinate
 doctrines
 delinition
 disgraces
-decumbently
+decumbently 1
 docudramas
 document
 documentable
