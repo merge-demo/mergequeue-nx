@@ -5697,7 +5697,7 @@ cystoepiplocele
 catastrophic
 catastrophist
 catathymic
-catatony
+catatony 1
 catatonic 1
 coeloglossum
 countersignal
