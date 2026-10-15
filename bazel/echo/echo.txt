@@ -9919,7 +9919,7 @@ electromagnetics
 exude 1
 exoculated
 enskies
-extravertive
+extravertive 1
 effemination
 epidermatic
 expiatoriness
