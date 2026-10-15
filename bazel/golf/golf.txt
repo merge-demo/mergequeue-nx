@@ -85,7 +85,7 @@ groupoid 1
 gallops
 grutten
 gadabouts 1
-gualaca
+gualaca 1
 glauber
 gubernator
 gymnopaedes
