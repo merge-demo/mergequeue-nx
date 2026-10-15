@@ -12929,7 +12929,7 @@ angraecum
 angriness
 angstroms
 arrivers
-angsts
+angsts 1
 attackers
 anguillaria
 autogamies
