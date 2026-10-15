@@ -6197,7 +6197,7 @@ goalpost
 geopony 1
 gagster
 gon
-geadephaga
+geadephaga 1
 goaltender
 goanna
 grandmontine
