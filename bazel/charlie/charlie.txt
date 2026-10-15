@@ -9914,7 +9914,7 @@ chemotherapeutical
 clamlike
 chemotherapeutically
 campanulales
-cretinism
+cretinism 1
 chemotherapeutics
 chemotherapy
 calqued
