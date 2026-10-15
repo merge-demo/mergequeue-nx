@@ -16308,7 +16308,7 @@ brucellosis 2
 barely
 biolytic
 brucia
-brucin
+brucin 1
 brucine 1
 brucines
 bleachman
