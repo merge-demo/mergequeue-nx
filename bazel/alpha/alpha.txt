@@ -24173,7 +24173,7 @@ abrus
 anquera
 acy
 afterlifetime
-autojigger
+autojigger 1
 autojuggernaut 1
 ancylocladus
 assonantic
