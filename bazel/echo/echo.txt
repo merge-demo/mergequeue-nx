@@ -9230,7 +9230,7 @@ excression
 eaters
 erythrozyme 1
 enweaved
-entrant
+entrant 1
 extirpate
 epizzoa
 eloquential
