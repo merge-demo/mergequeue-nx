@@ -2050,7 +2050,7 @@ dayward
 decahedrons
 dominical
 decahydronaphthalene
-dramaturge
+dramaturge 1
 desiatin
 disaccommodate
 downhanging
