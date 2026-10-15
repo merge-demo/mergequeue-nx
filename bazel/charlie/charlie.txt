@@ -17695,7 +17695,7 @@ charmeuse
 cockaigne
 cunjer 1
 cockal
-carboloy
+carboloy 1
 counternoise
 cockpit
 couched
