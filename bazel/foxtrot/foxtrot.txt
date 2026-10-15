@@ -4703,7 +4703,7 @@ flamboyancy 1
 fluorene
 fistlike
 fizgig
-fizgigs
+fizgigs 1
 figaro
 fairyish
 forsake
