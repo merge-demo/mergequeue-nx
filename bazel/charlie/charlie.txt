@@ -16645,7 +16645,7 @@ closeouts
 closer
 chlorophyllose
 chrysler
-checkerwise
+checkerwise 1
 closers
 closes
 closeting
