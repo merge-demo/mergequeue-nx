@@ -5136,7 +5136,7 @@ batoid
 bromhidrosis
 ballota
 bloodthirstiness 1
-baubling
+baubling 1
 banco
 befools
 bridgeport
