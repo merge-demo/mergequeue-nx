@@ -5378,7 +5378,7 @@ anidiomatic
 adenose
 affronts
 affuse
-alkarsine
+alkarsine 1
 amrita
 atropism
 affusion
