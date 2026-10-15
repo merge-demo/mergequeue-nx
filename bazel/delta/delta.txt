@@ -4945,7 +4945,7 @@ demoralising
 defecter
 diacrisis
 dicrostonyx
-defailment
+defailment 1
 displeased
 duranta
 demoralized
