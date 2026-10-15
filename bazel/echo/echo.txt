@@ -10051,7 +10051,7 @@ ethambutol
 ethmovomerine
 exitial
 entamoebiasis 1
-epopoeist
+epopoeist 1
 etceteras
 ethanediol
 erianthus
