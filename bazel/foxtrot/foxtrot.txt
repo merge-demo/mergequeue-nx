@@ -10480,7 +10480,7 @@ flegm
 fluitant
 fatness
 frutescent
-frostings
+frostings 1
 fanzine 1
 finises
 fervencies
