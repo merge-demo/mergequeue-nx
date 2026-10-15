@@ -12337,7 +12337,7 @@ effusiometer
 emanators
 exerted
 encumbrous
-excepable
+excepable 1
 eaning
 eviscerations
 evectant
