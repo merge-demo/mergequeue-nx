@@ -12197,7 +12197,7 @@ enserfs
 excogitation
 enflame
 entrechats
-emanated
+emanated 1
 elementalism
 emerized
 excelse
