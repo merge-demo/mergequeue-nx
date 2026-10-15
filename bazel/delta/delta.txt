@@ -915,7 +915,7 @@ dokimastic
 dudman
 daphni
 daphnia
-detractors
+detractors 1
 devaporate
 descendentalistic
 duplicities
