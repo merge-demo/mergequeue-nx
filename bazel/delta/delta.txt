@@ -9061,7 +9061,7 @@ dictature
 dihexahedral
 dorsals
 dictyodromous
-deafest
+deafest 1
 dictyogen
 diction
 disparage
