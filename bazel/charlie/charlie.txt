@@ -158,7 +158,7 @@ chryseis 1
 casterless
 cables
 changeabout
-cablese
+cablese 1
 cablet
 cabling
 contentiousness
