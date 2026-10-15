@@ -10645,7 +10645,7 @@ duncery
 demurrals
 diploplacular
 decarbonize
-dotingly
+dotingly 1
 dustcoat
 degeneration
 diploplaculate
