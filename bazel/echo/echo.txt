@@ -10459,7 +10459,7 @@ emplume
 electrodialytic
 erstwhile
 etypic 1
-ensheath
+ensheath 1
 equiponderation
 elytrtra
 enoplan
