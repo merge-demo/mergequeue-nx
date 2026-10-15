@@ -2522,7 +2522,7 @@ dubonnet
 deactivating
 declarations
 declarative
-deligation
+deligation 1
 demieagle
 discomorula
 druith
