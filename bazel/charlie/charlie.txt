@@ -23668,7 +23668,7 @@ calpul
 ceratodontidae
 contradictable
 cuckooing
-cerusite
+cerusite 1
 contradictedness
 contradicter
 chylocaulously
