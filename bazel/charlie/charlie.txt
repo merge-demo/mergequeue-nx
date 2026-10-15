@@ -26162,7 +26162,7 @@ cosmonauts
 cosmoplastic
 cosmopoietic
 cosmopolises
-cosmopolitan
+cosmopolitan 1
 cosmopolitanisation
 coastline
 cosmopolitanise
