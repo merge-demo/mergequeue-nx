@@ -5662,7 +5662,7 @@ glasses 1
 glassrope
 glorifications
 garefowls
-gentlefolks
+gentlefolks 1
 gnatlike
 glissando 1
 ginglymodian
