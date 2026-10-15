@@ -9826,7 +9826,7 @@ antihormone
 agst
 assubjugate
 amapa
-approvably
+approvably 1
 ainsell
 amarantaceae
 aestuous
