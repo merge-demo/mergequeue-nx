@@ -2096,7 +2096,7 @@ colloquiquiums
 cyclist
 campaniliform
 chicayote
-campanini
+campanini 1
 casseroled
 campanistic
 cuecas
