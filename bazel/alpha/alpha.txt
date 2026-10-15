@@ -16742,7 +16742,7 @@ athenaeum
 aphemic
 aphengoscope
 apheresis
-apheses
+apheses 1
 asclepius
 antiphoner
 aggresses
