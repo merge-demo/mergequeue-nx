@@ -3377,7 +3377,7 @@ capped
 cappelletti
 capper
 ciseleurs
-cappiest
+cappiest 1
 capping
 cervelas
 cyclopite
