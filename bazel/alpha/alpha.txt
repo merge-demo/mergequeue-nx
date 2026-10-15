@@ -17197,7 +17197,7 @@ artillerymen
 apomixes
 anthropomorphotheist
 acescent
-ankylosing
+ankylosing 1
 almira
 apomixis
 apomorphia
