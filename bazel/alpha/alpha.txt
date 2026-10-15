@@ -16769,7 +16769,7 @@ adultoid
 aphydrotropic
 adepts
 aphydrotropism
-aphilanthropy
+aphilanthropy 1
 aphylly
 abidi
 awarding
