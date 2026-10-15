@@ -12453,7 +12453,7 @@ evacuative
 eighteen
 enlimn
 effectuate
-exhumatory
+exhumatory 1
 emancipations
 explorate
 exfiltrate
