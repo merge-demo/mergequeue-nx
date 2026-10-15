@@ -3126,7 +3126,7 @@ encomiums
 ecdysones 1
 echinorhinidae
 etheriidae
-entombed
+entombed 1
 epitomised 1
 elodeas
 enfaced
