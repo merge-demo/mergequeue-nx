@@ -13633,7 +13633,7 @@ cymophane
 cymophanous
 cymophenol
 confabulations
-coherency
+coherency 1
 cercopithecoid
 cymophobia
 cymoscope
