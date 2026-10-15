@@ -25678,7 +25678,7 @@ committals
 cobra
 correctress
 conoid
-centupled
+centupled 1
 corregimientos
 chaucerianism
 correl
