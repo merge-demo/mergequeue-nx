@@ -17270,7 +17270,7 @@ aporhyolite
 allanites
 autobiographal
 asserting
-aporias
+aporias 1
 adherant
 androsace
 antifederal
