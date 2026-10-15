@@ -17812,7 +17812,7 @@ appose
 appeasable
 amplex
 alex
-alisphenoid
+alisphenoid 1
 amphiarthrosis
 asterales
 archiblast
