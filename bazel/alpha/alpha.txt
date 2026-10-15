@@ -9608,7 +9608,7 @@ anthogenesis
 alumel
 amarna
 agrom
-alumic
+alumic 1
 abesse
 alumiferous
 acroamatics
