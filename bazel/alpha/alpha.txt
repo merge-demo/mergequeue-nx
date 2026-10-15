@@ -8546,7 +8546,7 @@ availabile
 aphoristically
 allabuta
 antiphonal
-archaeologically
+archaeologically 1
 allagite
 ailuroid
 allagostemonous
