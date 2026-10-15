@@ -3897,7 +3897,7 @@ damone
 deityship
 dinobryon
 deixis
-decreases
+decreases 1
 diduce
 daphnite
 desilicated
