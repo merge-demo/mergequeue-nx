@@ -4723,7 +4723,7 @@ fictation
 fruitfuller
 frumentarious
 flabbergast
-forkfuls
+forkfuls 1
 fougue
 feathermonger
 fobbing
