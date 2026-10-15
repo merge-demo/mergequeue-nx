@@ -10184,7 +10184,7 @@ apanage
 ambulatories
 ambulatorium
 ahepatokla
-avo
+avo 1
 acmaesthesia
 amburbial
 airframe
