@@ -2883,7 +2883,7 @@ antiendowment 1
 acropoleis
 acuminated
 acropolitan
-asthenope
+asthenope 1
 archpontiff
 acarologist
 aureocasidium
