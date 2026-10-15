@@ -15039,7 +15039,7 @@ anticritic
 anaglyptics
 anticritical
 astrose
-anasarcas
+anasarcas 1
 attestant
 anticrochet
 antipewism
