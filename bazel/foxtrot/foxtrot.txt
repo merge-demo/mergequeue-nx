@@ -2816,7 +2816,7 @@ falcial
 folacins
 finlander
 flattops
-fumigatories
+fumigatories 1
 fcomp 1
 fretted
 faunae
