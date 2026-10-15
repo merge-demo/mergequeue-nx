@@ -16517,7 +16517,7 @@ clogmaking
 clogwheel 1
 canners
 clogwyn
-clogwood
+clogwood 1
 calvinian
 cloy
 cloyedness
