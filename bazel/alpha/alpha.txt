@@ -11310,7 +11310,7 @@ asyllabic
 apriori
 aguador
 amphitene
-amphitheatre
+amphitheatre 1
 arrivance
 aglycons
 anilin
