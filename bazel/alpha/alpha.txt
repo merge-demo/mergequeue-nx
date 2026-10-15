@@ -10310,7 +10310,7 @@ amenorrheic
 amenorrho
 aprosexia
 arabicism
-amenorrhoea
+amenorrhoea 1
 adeem
 aeronauts
 atlantodidymus 1
