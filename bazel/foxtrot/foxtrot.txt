@@ -8174,7 +8174,7 @@ foreview 1
 foregoes
 foederatus
 franzy
-funmaker
+funmaker 1
 fingerprinted 1
 florulent
 fruitfullest
