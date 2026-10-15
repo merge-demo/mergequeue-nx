@@ -3123,7 +3123,7 @@ caparison
 caparisoned
 caparisoning
 caparisons
-capataz
+capataz 1
 capcase
 celotomy
 craterid
