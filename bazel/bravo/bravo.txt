@@ -3201,7 +3201,7 @@ beadily
 basidia
 bangash
 basidigital 1
-bouteselle
+bouteselle 1
 bangwaketsi
 barotactic
 breadth
