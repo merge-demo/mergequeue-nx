@@ -2469,7 +2469,7 @@ deciphering
 dunghill
 destrudo
 decipium
-diphase
+diphase 1
 diplodocus
 dipyre
 decision
