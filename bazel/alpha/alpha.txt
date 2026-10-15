@@ -4805,7 +4805,7 @@ aeriness
 aero
 ausones
 aspermatism
-aeroballistic
+aeroballistic 1
 aerobate
 aerobatic
 arsenism
