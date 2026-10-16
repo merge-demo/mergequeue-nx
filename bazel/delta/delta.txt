@@ -6464,7 +6464,7 @@ deafeningly
 dodecanoic 1
 desalinator
 disclaimer
-disperge
+disperge 1
 departmentalising
 diploes
 decadenza
