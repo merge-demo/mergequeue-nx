@@ -10841,7 +10841,7 @@ fontanels
 flamefish
 furoin
 fishpool
-forficate
+forficate 1
 flaminian
 fortified
 fumblingly
