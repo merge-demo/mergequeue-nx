@@ -1711,7 +1711,7 @@ faviform
 feasibly
 fashionmonger
 flighted
-fascio 1
+fascio 2
 floats
 filicin
 fomites
