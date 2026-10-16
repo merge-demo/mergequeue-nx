@@ -4799,7 +4799,7 @@ aeriform
 abasement
 autographically
 aberdevine
-azygous
+azygous 1
 aspide
 aeriness
 aero
