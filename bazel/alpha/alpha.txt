@@ -5791,7 +5791,7 @@ antismog
 ashmen
 aggregational
 agastric
-awacs
+awacs 1
 apickaback
 ancestor
 agate
