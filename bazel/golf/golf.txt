@@ -4935,7 +4935,7 @@ glair
 glaire 1
 glosses
 gigger
-gradual
+gradual 1
 growliness
 glaired
 geomaly
