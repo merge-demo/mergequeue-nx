@@ -6389,7 +6389,7 @@ doronicum
 despond
 derogate
 denuclearization
-derogates
+derogates 1
 diglyceride
 dixie
 derogating
