@@ -3510,7 +3510,7 @@ capsuliform
 coverup
 capsuling
 clamer
-capsulitis
+capsulitis 1
 capsulizing
 cabman
 capsulogenous
