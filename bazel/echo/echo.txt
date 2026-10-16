@@ -6475,7 +6475,7 @@ ensober
 ensorceled 1
 encephalometer
 earfuls
-encheck
+encheck 1
 exercisable
 ensorcellment
 ensorrow
