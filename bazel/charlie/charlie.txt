@@ -14994,7 +14994,7 @@ cosmesis
 carpetless
 carbonado
 civet
-coadjutrice
+coadjutrice 1
 carcasing
 curiomaniac
 converses
