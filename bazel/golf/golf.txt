@@ -3678,7 +3678,7 @@ gigantine
 ghizite
 glops
 gurgly
-governorships 1
+governorships 2
 gadgeteers
 glyptician
 gnomoniaceae
