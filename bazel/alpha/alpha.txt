@@ -12472,7 +12472,7 @@ astart
 ajowan
 anecdote
 anecdotes
-anecdotic
+anecdotic 1
 anova
 aluminiform
 aegagropile
