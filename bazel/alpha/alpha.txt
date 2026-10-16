@@ -1182,7 +1182,7 @@ acanthocephalous
 acanthocladous
 acanthodean
 abbots
-alabastoi
+alabastoi 1
 agalmatolite
 agonothetic
 acanthodei
