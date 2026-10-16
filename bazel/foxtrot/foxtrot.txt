@@ -8980,7 +8980,7 @@ fernless
 fableist
 fabricate 1
 flabellarium
-fourragere
+fourragere 1
 flutter
 fermila
 fiefdoms 1
