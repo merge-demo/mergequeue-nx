@@ -8746,7 +8746,7 @@ duetted
 downright 1
 dinting
 defocusses
-deescalations
+deescalations 1
 diatomist
 dover
 dot
