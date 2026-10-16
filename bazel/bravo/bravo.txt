@@ -12322,7 +12322,7 @@ bombed
 beseemed
 bomber
 bedirty
-begroaning
+begroaning 1
 balatronic
 bombes
 babaylan
