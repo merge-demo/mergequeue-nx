@@ -10155,7 +10155,7 @@ argine
 ambrosiate
 affords
 altarwise
-ambrosine
+ambrosine 1
 ambsace
 ambsaces
 ambulacriform
