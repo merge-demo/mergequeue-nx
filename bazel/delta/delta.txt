@@ -3612,7 +3612,7 @@ degenerate 1
 desulphurizer
 diagrammatize
 diodont
-docosane
+docosane 1
 deprecatorily
 dragonhead
 degenerately
