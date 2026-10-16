@@ -14704,7 +14704,7 @@ dorsoposterior
 devilling
 dismarketing
 dendroceratine
-dimensionality
+dimensionality 1
 diphylleia
 dotlike
 discarnation
