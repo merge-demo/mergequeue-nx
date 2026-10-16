@@ -6356,7 +6356,7 @@ goety
 gummage
 gymnolaemata
 gloriosa
-gippo
+gippo 1
 gollywobbler 1
 gambelli
 ganoblast
