@@ -1495,7 +1495,7 @@ citigrade
 callat
 conchologist
 callback
-closish
+closish 1
 conversus
 cryptoxanthin
 coffeepot
