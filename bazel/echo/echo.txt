@@ -12977,7 +12977,7 @@ equanimously
 expecter
 expecting
 expectingly
-enzym
+enzym 1
 encephalopyosis
 erminette
 etheling
