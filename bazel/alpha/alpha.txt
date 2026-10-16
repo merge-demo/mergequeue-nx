@@ -17687,7 +17687,7 @@ autogeneses 1
 angia
 alborak
 applausively
-acquirability
+acquirability 1
 arced
 averages
 appleblossom
