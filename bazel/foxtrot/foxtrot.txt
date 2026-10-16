@@ -11305,7 +11305,7 @@ firedog
 formatted 1
 feverfew
 firesides
-fraternize
+fraternize 1
 fleabite
 faultfinding
 fossilogist
