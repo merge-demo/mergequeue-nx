@@ -9411,7 +9411,7 @@ chazanut
 chazy
 circularwise
 curtly
-chazzans
+chazzans 1
 causativity
 coignes
 ctenophoral
