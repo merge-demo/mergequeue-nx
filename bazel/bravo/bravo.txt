@@ -6230,7 +6230,7 @@ bootlace
 bookism
 bissextus 1
 battalions
-barndoor
+barndoor 1
 biuret
 bosporus
 blastogenesis
