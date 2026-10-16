@@ -3400,7 +3400,7 @@ frameableness
 floramour
 fuller
 flyweights 1
-feignedly
+feignedly 1
 filtre
 faculative
 finmarks
