@@ -8156,7 +8156,7 @@ descenders
 diaplexal
 dromiacea
 decennially
-dakotans
+dakotans 1
 doutous
 deciduae
 decasualize
