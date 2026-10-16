@@ -17463,7 +17463,7 @@ cobblestoned 1
 corollated
 chokeweed
 cobbling
-cobbra
+cobbra 1
 cobbs
 carabins
 characterize
