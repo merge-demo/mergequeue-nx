@@ -5036,7 +5036,7 @@ anecdotically
 aeroplanes
 archboutefeu 1
 aeroscepsy
-achromatizing
+achromatizing 1
 archaeology
 anciennete
 aurum
