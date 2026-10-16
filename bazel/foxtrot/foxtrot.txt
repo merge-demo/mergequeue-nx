@@ -5175,7 +5175,7 @@ fetalization
 federarie
 favour
 farsakh
-flatulency
+flatulency 1
 flatfeet
 flatulencies
 fictions
