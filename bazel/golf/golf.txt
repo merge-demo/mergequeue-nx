@@ -6408,7 +6408,7 @@ glommed
 gastroduodenoscopy 1
 gemmules
 gematria
-gymnoblastea
+gymnoblastea 1
 gymnodiniidae
 gongorist
 geostationary
