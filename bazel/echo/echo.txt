@@ -7941,7 +7941,7 @@ eurystomatous
 emitter
 eatery
 extrastapedial
-endosmosis
+endosmosis 1
 exudates
 exptl
 exordia
