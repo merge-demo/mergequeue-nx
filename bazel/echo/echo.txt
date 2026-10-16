@@ -308,7 +308,7 @@ encamps
 epitheliums
 enterolobium
 enantiosis
-ealderman
+ealderman 1
 endark
 espousage
 exserting
