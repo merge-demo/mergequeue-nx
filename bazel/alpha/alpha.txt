@@ -13531,7 +13531,7 @@ amaurotic
 accuses
 annotatively
 ablate
-adaptability
+adaptability 1
 albuminization
 annotator
 alasas
