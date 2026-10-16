@@ -3559,7 +3559,7 @@ defunct
 descendence
 discredence
 derivably
-dawcock
+dawcock 1
 drumlin
 defunction
 deul
