@@ -1685,7 +1685,7 @@ balneotherapy
 balneotherapia
 berdaches
 bates
-bahera
+bahera 1
 bunty 1
 bedumbing
 benzalphthalide
