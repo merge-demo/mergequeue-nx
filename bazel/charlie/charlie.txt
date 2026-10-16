@@ -29793,7 +29793,7 @@ compoing
 cradlelike
 carbanil
 crooners
-crooningly
+crooningly 1
 callus
 croons
 croose
