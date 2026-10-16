@@ -3241,7 +3241,7 @@ extroversively
 exaltedly
 eludible
 enswathes
-enfollow
+enfollow 1
 eluents
 elul
 epidemic
