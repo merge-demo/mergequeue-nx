@@ -8907,7 +8907,7 @@ electrophori
 eyers
 ergostat
 eddie
-entelam
+entelam 1
 experimentally
 eleutheromaniac
 ergoted
