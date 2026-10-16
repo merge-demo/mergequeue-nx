@@ -10606,7 +10606,7 @@ gillion
 glandaceous
 gowned
 goldenmouth
-glossologist
+glossologist 1
 greenockite
 gallow
 glumose
