@@ -21028,7 +21028,7 @@ crofterize
 considerer
 carouser
 cyclian
-compupil
+compupil 1
 cauponate
 crassier
 civical 1
