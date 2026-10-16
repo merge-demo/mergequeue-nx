@@ -11005,7 +11005,7 @@ disrelation
 disagreing
 dethronable 1
 dredges
-dioptroscopy
+dioptroscopy 1
 demonlike
 disseizure
 dayblush
