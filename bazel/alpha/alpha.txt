@@ -24468,7 +24468,7 @@ autotoxic
 autotractor 1
 autotransformer
 archeologically
-attemperately
+attemperately 1
 aetheric
 anglo
 axlesmith
