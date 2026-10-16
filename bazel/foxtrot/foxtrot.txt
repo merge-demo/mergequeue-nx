@@ -941,7 +941,7 @@ faxing 1
 fosterer
 fleecers
 flueric
-fumidity
+fumidity 1
 findal
 forcat
 filmized
