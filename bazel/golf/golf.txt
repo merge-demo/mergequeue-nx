@@ -9727,7 +9727,7 @@ gargantuan
 guidonian
 georgiana
 gandurah
-gambades
+gambades 1
 greyhounds 1
 grocerwise
 glossaries
