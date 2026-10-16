@@ -10846,7 +10846,7 @@ circumcising
 chiopin
 centropomus
 cinnoline
-chip
+chip 1
 chipchop
 chipewyan
 chiplet
