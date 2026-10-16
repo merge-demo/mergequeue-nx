@@ -2863,7 +2863,7 @@ expatiative
 eleusinia
 explicantia
 emasculator
-eventognath
+eventognath 1
 exsuscitate 1
 eleutherian
 epidemicalness
