@@ -18372,7 +18372,7 @@ dillue
 douches
 duodenoscopy
 denotate
-digmeat
+digmeat 1
 duodenostomy
 deceptiously
 deuteroconid 1
