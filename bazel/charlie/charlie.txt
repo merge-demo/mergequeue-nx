@@ -10536,7 +10536,7 @@ ceratozamia
 competitions
 chyliform 1
 chilina
-cordonazo
+cordonazo 1
 citizenhood
 cardon
 cirsocele
