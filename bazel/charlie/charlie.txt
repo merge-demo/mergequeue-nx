@@ -18200,7 +18200,7 @@ coexerted
 cheeked
 coexerting
 condescends
-coexerts
+coexerts 1
 coexistence
 coexisting 1
 coexpand
