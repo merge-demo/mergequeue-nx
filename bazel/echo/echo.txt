@@ -1922,7 +1922,7 @@ ernst
 emptional
 electropneumatically
 eisteddfod
-eluting
+eluting 1
 exemplary
 endearance
 euhemerized
