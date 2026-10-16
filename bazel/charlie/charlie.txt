@@ -116,7 +116,7 @@ cabiai
 canephorus
 cronish
 cabildo
-cabildos
+cabildos 1
 cabin
 cabinet
 cladophyllum
