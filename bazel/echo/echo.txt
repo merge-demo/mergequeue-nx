@@ -4261,7 +4261,7 @@ escarping
 escambio
 emulousness
 eaux
-eumeristic
+eumeristic 1
 expolish
 expendible
 expressways
