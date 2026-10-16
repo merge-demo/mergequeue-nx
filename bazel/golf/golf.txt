@@ -700,7 +700,7 @@ goldney
 genteelness
 gowlan
 grass
-gals
+gals 1
 galtrap
 gianthood
 gastroenterologically
