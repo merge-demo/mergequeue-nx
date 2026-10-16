@@ -13859,7 +13859,7 @@ athletics
 anotta
 anotus
 anounou
-ambivalency
+ambivalency 1
 affix 1
 anour
 asher
