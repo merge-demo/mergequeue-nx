@@ -12174,7 +12174,7 @@ benzodiazine 1
 bridgeboard
 bijugular
 bolide
-bolivar
+bolivar 1
 befamine
 brose
 bradyphemia
