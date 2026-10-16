@@ -12438,7 +12438,7 @@ encasserole
 endite
 easting 1
 epifaunas
-exhortations
+exhortations 1
 elatery
 eisegeses
 entomostracan
