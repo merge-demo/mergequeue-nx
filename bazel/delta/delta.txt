@@ -15508,7 +15508,7 @@ doncella
 debut
 doncy
 dondaine
-desertedly
+desertedly 1
 done
 diaries
 dacryostenosis
