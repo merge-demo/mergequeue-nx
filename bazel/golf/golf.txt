@@ -5085,7 +5085,7 @@ gillied
 grasni
 guddler
 glassines
-galloping
+galloping 1
 glassiness
 glasslikeness
 goosefoots
