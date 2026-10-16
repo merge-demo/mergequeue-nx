@@ -4033,7 +4033,7 @@ funerally
 fallible
 feudatorial 1
 foredawn
-fissural
+fissural 1
 frettiest
 feudalise
 fingram
