@@ -5977,7 +5977,7 @@ fanwright
 ferguson
 favism 1
 firkin
-fawn
+fawn 1
 forecasters
 footscald
 floodwood
