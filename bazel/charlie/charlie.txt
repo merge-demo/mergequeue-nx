@@ -8197,7 +8197,7 @@ conjunctivae
 chairwarmer
 chairwomen
 cyanocitta
-chaiseless
+chaiseless 1
 chaises
 comfortabilities
 circumbendibuses
