@@ -1019,7 +1019,7 @@ flatlong
 fumosity
 feverweed
 fretful
-federalese
+federalese 1
 filicornia
 fragmentalize
 flatboats
