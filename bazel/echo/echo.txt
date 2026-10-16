@@ -13591,7 +13591,7 @@ electropotential
 elkanah
 eisegesis
 edriophthalmian
-exarteritis
+exarteritis 1
 electropyrometer
 expulsory
 ectad
