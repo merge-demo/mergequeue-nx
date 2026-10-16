@@ -6614,7 +6614,7 @@ brangler
 berets
 berewick
 biunity
-banquettes
+banquettes 1
 bergall
 bergamasche
 bergamask
