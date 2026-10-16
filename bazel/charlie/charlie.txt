@@ -27372,7 +27372,7 @@ chartographer 1
 courteousness
 courtepy
 courter
-cozily
+cozily 1
 chilblain
 courtesan
 citriculturist
