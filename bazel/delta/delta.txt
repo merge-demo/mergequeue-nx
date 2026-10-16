@@ -1061,7 +1061,7 @@ disobliging
 dutra
 darner 1
 dipterad
-darners
+darners 1
 darning
 dewooled
 dimeters
