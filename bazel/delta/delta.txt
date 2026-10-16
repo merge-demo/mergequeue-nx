@@ -2158,7 +2158,7 @@ disassemble
 downfall
 dicecup
 decalcomanias
-decapodal
+decapodal 1
 dawn
 draggletailedly
 del 1
