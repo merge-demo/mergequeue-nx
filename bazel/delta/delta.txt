@@ -1990,7 +1990,7 @@ desirable
 diced
 dermatoma
 drover
-demyelinate
+demyelinate 1
 dominated 1
 deflection
 descloizite
