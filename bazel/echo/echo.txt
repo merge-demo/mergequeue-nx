@@ -12437,7 +12437,7 @@ exhilaratingly
 encasserole
 endite
 easting 1
-epifaunas
+epifaunas 1
 exhortations
 elatery
 eisegeses
