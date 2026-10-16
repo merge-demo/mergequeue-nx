@@ -21506,7 +21506,7 @@ calycle
 climacterical
 celestialize
 concresce
-concrescence
+concrescence 1
 cephalohumeral
 concrescive
 colocentesis
