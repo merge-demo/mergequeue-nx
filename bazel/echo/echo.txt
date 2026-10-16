@@ -5054,7 +5054,7 @@ econometer
 entreasure
 encaenia 1
 evens
-endophragmal 1
+endophragmal 2
 equimolal
 entomb
 enqueued
