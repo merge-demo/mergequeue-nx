@@ -12555,7 +12555,7 @@ appositionally
 anthribid
 anencephalic
 angka
-alulae
+alulae 1
 archpatriarch
 arithmocracy
 arvo
