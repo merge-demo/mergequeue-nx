@@ -5785,7 +5785,7 @@ bradyseismal 1
 boxers
 bromocyanide
 blueprinted
-beflatter
+beflatter 1
 brassworker
 becrawling 1
 bromization
