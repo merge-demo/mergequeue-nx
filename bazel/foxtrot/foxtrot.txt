@@ -3323,7 +3323,7 @@ facewise
 ferrohydrocyanic 1
 fossilologist
 folklorist
-featherlessness
+featherlessness 1
 frustrates
 fioritura
 fairings
