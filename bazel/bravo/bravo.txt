@@ -18157,7 +18157,7 @@ bashless
 bacillicide
 basters
 byzant 1
-butyryls
+butyryls 1
 boldfacedly
 butyrin
 besonnet
