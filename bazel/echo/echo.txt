@@ -4889,7 +4889,7 @@ encrinic
 encrinidae
 encrinital
 elegance
-encroacher
+encroacher 1
 equalizing
 exponentiations
 elemental
