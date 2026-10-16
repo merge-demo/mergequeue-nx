@@ -5559,7 +5559,7 @@ encourage
 etherlike
 enfeoffing
 episcopant
-enfeoffment
+enfeoffment 1
 exestuate
 exhaustedly
 ethions
