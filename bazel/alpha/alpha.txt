@@ -9418,7 +9418,7 @@ avoir
 alsmekill
 alsophila
 allusory
-adamitic
+adamitic 1
 alstonia
 alstonite
 amphiphloic
