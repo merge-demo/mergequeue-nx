@@ -8452,7 +8452,7 @@ diamagnetic
 diamagnetism
 dredging
 diamant
-ditrochee
+ditrochee 1
 deflexed
 dooxidize
 dextro
