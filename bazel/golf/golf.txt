@@ -8430,7 +8430,7 @@ ghetchoo
 girondism 1
 ganderteeth
 gratified
-gaseous
+gaseous 1
 gratis
 gunflint
 grad
