@@ -3183,7 +3183,7 @@ aid
 aleger
 athapascan
 alagao
-alliterativeness
+alliterativeness 1
 actress
 ancylose
 ahs
