@@ -9119,7 +9119,7 @@ egoistically
 exacerbescent
 erythrosis
 eriglossa
-ephemeras
+ephemeras 1
 erythroxylaceous
 eulogizer
 erythroxylon
