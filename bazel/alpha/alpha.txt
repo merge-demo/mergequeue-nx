@@ -7702,7 +7702,7 @@ apterygial
 averroistic
 actualise
 arthrolith
-administrants
+administrants 1
 albumenize
 aquilino
 alcoholometric
