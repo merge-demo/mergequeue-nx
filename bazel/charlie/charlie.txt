@@ -11467,7 +11467,7 @@ cobras
 concentred
 choctaw
 choga
-chogset
+chogset 1
 cussed
 choy
 choiceful
