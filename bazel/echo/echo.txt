@@ -144,7 +144,7 @@ epiphysial
 elisha
 epididymides
 episcopizing
-entrept
+entrept 1
 empight
 expurgations
 etymons
