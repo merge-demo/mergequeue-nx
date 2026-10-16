@@ -5449,7 +5449,7 @@ ecderonic
 endseal 1
 endshake
 elfishly
-egretta
+egretta 1
 easterly
 enfirm
 eaglelike
