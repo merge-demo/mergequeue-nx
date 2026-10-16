@@ -1767,7 +1767,7 @@ ductility
 docent
 downlier
 dispersonify
-deminudity
+deminudity 1
 dicta
 desmidiologist
 diversions
