@@ -6917,7 +6917,7 @@ exarchal
 elasticize
 escudos
 embonpoint 1
-ephoric
+ephoric 1
 eighteenths
 exuviable 1
 ebullitive
