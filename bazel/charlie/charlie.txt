@@ -24166,7 +24166,7 @@ castanets
 claw
 crestless
 collocutory
-counterrecoil
+counterrecoil 1
 cruddy
 crepeiest
 comedial
