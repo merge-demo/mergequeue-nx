@@ -11772,7 +11772,7 @@ chondropharyngeus
 carpale
 chondroplast
 chondroplasty
-crystall
+crystall 1
 consonantally
 chondroprotein
 cult
