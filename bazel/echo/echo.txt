@@ -12499,7 +12499,7 @@ eximious
 ense
 etiogenic
 eluviates
-exaggeration
+exaggeration 1
 enteropneusta
 erythrophage
 envisages 1
