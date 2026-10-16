@@ -4767,7 +4767,7 @@ aerating
 adroop
 astrometeorological
 aerations
-abbreviator
+abbreviator 1
 avaunt 1
 anthologizing
 aftermath
