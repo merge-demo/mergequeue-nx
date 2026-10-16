@@ -10196,7 +10196,7 @@ chamomilla
 chorisepalous
 chiarooscuro
 chiaroscuros
-chuvash
+chuvash 1
 coulis
 chias
 cheesecakes
