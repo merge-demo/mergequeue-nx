@@ -6044,7 +6044,7 @@ denunciative 1
 disillusion
 dammit
 dolesomeness
-desmotrope
+desmotrope 1
 deflates
 dicephalism
 doug
