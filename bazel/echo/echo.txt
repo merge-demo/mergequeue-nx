@@ -8650,7 +8650,7 @@ exceptionable
 expels
 emphyteuta
 elutriating
-emergently
+emergently 1
 equinate
 enameller
 emerging
