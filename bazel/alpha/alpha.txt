@@ -10283,7 +10283,7 @@ adhort
 amomales
 ameliorations
 animality
-abessive
+abessive 1
 amellus
 anthozooid
 amelus
