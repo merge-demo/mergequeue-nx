@@ -31428,7 +31428,7 @@ crouton 1
 cycladic
 curlike
 cantharidal
-curlylocks
+curlylocks 1
 cadew
 colback
 concinnated
