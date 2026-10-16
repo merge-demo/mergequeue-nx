@@ -7820,7 +7820,7 @@ fashes
 frounces 1
 forenote
 fastness
-feltyflier
+feltyflier 1
 fleamy 1
 fashionableness
 fowlerite
