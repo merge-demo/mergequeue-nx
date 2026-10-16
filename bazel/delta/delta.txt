@@ -7020,7 +7020,7 @@ diatesseron
 diversiflorous
 decadence
 deterrents
-deface
+deface 1
 despondence
 despondencies
 despondentness
