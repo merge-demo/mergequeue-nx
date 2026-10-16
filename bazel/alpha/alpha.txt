@@ -17732,7 +17732,7 @@ ambilaterality
 ambosexous
 archdespot
 applications
-anecdotalist
+anecdotalist 1
 appositely
 applicative
 ammunition
