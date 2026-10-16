@@ -9096,7 +9096,7 @@ charred 1
 charrette 1
 consenescence
 charrier
-charriest
+charriest 1
 charro
 concional
 cicatrize
