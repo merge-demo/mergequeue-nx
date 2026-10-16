@@ -508,7 +508,7 @@ cadences
 cadencies
 cadencing
 casitas
-cadenette
+cadenette 1
 corregidores
 cellobiose 1
 crapple
