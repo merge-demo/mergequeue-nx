@@ -10777,7 +10777,7 @@ dartingly
 dipterocarpaceous
 deportee
 dipterocarpous
-dipterocarpus
+dipterocarpus 1
 delay
 divas
 dependent
