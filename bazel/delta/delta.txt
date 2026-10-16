@@ -241,7 +241,7 @@ distrest
 dottore
 devourable
 demonstratively
-daggar
+daggar 1
 dualities
 dyssynergia
 daggerproof
