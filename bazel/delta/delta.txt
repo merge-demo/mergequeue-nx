@@ -5595,7 +5595,7 @@ dieters
 depeopled
 deperdit
 duffel
-determiners
+determiners 1
 discussive
 dictyosiphonaceae
 dedecoration
