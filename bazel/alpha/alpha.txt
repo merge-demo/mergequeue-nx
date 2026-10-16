@@ -22117,7 +22117,7 @@ archmessenger
 asteroid
 asteroids
 andamanese
-arithromania
+arithromania 1
 assorting
 asterope
 amnestic
