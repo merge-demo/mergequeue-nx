@@ -20706,7 +20706,7 @@ consonantise
 complexest
 chylify
 commulative
-cyanopsia
+cyanopsia 1
 commutating
 chelidonate
 cheloid
