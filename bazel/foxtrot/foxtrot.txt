@@ -9403,7 +9403,7 @@ frenum
 ficaria
 forequoted 1
 finickiness 1
-fractionised
+fractionised 1
 flamboyer
 franticly
 fossor
