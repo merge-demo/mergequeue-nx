@@ -6258,7 +6258,7 @@ gormandizing
 gregorianizer
 gob
 goban
-greediness
+greediness 1
 gadslid
 gobber
 gazettes
