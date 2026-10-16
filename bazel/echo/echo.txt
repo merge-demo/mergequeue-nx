@@ -3651,7 +3651,7 @@ edna
 egads
 epilatory 1
 eleutherism
-electrocuted
+electrocuted 1
 ennoic 1
 epichilium
 enwheeled
