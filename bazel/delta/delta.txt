@@ -2610,7 +2610,7 @@ demishirt
 decoctum
 drudgery
 decode
-dartars
+dartars 1
 distributional
 ducture
 deignous
