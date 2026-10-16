@@ -24294,7 +24294,7 @@ aluminographic 1
 apparent
 autophytograph
 aeroporotomy
-abacinate
+abacinate 1
 achafe
 autophon
 aftertaste
