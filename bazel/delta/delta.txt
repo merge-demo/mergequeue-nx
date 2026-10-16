@@ -15263,7 +15263,7 @@ dolliness
 depainting
 dollishly
 dollishness 1
-dolcian
+dolcian 1
 dipleiodoscope
 damnonii
 dassies
