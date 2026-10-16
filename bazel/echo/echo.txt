@@ -1527,7 +1527,7 @@ etch
 extracalendar 1
 ettarre
 emmetropism
-egesta
+egesta 1
 eggberries
 enfranchising
 eurythermal
