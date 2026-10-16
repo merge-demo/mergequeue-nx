@@ -15114,7 +15114,7 @@ adjectivitis
 axofugal
 atrocious
 advential
-antispeculation
+antispeculation 1
 aggrandisement
 athena
 admonish
