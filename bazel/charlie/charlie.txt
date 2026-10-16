@@ -6279,7 +6279,7 @@ caulk
 casbahs
 caulkers
 crustation
-callosomarginal
+callosomarginal 1
 caulks
 chymists
 conferrer
