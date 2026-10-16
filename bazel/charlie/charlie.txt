@@ -22017,7 +22017,7 @@ crois
 chookies
 count
 confiscates
-confiscation
+confiscation 1
 confiscations
 confiscators
 churnable
