@@ -707,7 +707,7 @@ farcial
 flapperhood
 flair
 foziness 1
-frettier
+frettier 1
 favourably
 fetichmonger
 foraminulose
