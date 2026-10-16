@@ -3289,7 +3289,7 @@ equitist
 etymologising
 expectations
 esophagismus
-endoproct
+endoproct 1
 eugenols 1
 eperlan
 embattlement
