@@ -14773,7 +14773,7 @@ cascan
 citizens
 cytoanalyzer
 catharsis
-cis
+cis 1
 copremia
 cytoarchitectural
 cytoblast
