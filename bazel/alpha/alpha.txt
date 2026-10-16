@@ -16251,7 +16251,7 @@ antitarnishing
 actuarian
 anaplasm
 amasser
-altininck
+altininck 1
 apophthegm
 antithalian
 antitheism
