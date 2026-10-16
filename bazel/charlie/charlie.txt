@@ -6997,7 +6997,7 @@ curiosity
 chitchats 1
 cisalpine
 censored
-cytomorphosis
+cytomorphosis 1
 censorian
 censoring
 censoriously
