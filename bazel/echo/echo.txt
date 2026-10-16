@@ -137,7 +137,7 @@ excellency
 epoxidize 1
 evaporativity
 economizes
-extravasating
+extravasating 1
 elon
 enchasten
 epiphysial
