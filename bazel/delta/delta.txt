@@ -4639,7 +4639,7 @@ dulcite
 demisangue
 douzaines
 dereliction
-demipectinate
+demipectinate 1
 denarius
 diswench
 demiscible
