@@ -11336,7 +11336,7 @@ eneid
 erudite
 encephalomeric
 eventual
-eozoic
+eozoic 1
 emusifying
 eve
 exorcistical
