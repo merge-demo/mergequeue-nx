@@ -5069,7 +5069,7 @@ emphaticalness
 ectoproct
 endmost
 enrage
-enamellar
+enamellar 1
 exemplum
 eyelid
 editorialized
