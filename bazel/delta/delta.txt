@@ -7175,7 +7175,7 @@ depullulation 1
 diplospondylism
 doves
 dubbeltje
-disgusts
+disgusts 1
 deedbox
 desume
 dindles
