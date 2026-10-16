@@ -10433,7 +10433,7 @@ groundsill
 gilia
 goudy
 gesneraceous
-gomphodont
+gomphodont 1
 geobiologic
 gumdigging
 gumdrop
