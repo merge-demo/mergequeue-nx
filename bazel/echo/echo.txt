@@ -4602,7 +4602,7 @@ emplore
 effigies
 ectochondral
 ectomesoblast
-expede
+expede 1
 enfettered
 encheason
 enchequer
