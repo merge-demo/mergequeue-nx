@@ -13355,7 +13355,7 @@ batons
 bellicosity
 bunder
 bothnian
-bothnic
+bothnic 1
 batteled
 bawn 1
 bulletproofs
