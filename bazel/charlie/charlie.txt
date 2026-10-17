@@ -5773,7 +5773,7 @@ criminalistician
 cylindrophis
 chumming
 chevesne
-calibred
+calibred 1
 codicillary
 colasciones
 catechising
