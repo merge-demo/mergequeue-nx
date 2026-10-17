@@ -2328,7 +2328,7 @@ delectations
 denizens
 didna
 disseizin
-dilapidate
+dilapidate 1
 determinists
 decke
 diethylstilbestrol
