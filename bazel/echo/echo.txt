@@ -5359,7 +5359,7 @@ evidentness
 encharm
 epiphyte
 epituberculous
-exasperation
+exasperation 1
 endosteoma
 essentialism
 exerts
