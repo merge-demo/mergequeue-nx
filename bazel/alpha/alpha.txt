@@ -589,7 +589,7 @@ amanitins
 aesthophysiology
 acriflavine
 arytenoidal
-ampleness
+ampleness 1
 abnormalcies
 adrenalectomies
 adjure
