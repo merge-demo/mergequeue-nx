@@ -5990,7 +5990,7 @@ bitterbark
 bemean
 biphenyls
 bementite
-bemete
+bemete 1
 bimillennia 1
 busybodies
 bemadden
