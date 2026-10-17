@@ -1961,7 +1961,7 @@ capitols
 counterwill
 cumulose
 cyprinodont
-camerae
+camerae 1
 curbless
 cameral
 citizenship
