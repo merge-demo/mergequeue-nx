@@ -24150,7 +24150,7 @@ cantinier
 conviction
 convictional
 civilizatory
-cibarium
+cibarium 1
 convictions
 convictism
 cresolin
