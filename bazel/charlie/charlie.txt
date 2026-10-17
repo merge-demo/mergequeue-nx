@@ -807,7 +807,7 @@ cahuilla
 cay
 caquetoires
 cayapo
-criticisable
+criticisable 1
 caid
 caids
 cayenne
