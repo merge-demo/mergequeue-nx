@@ -16286,7 +16286,7 @@ dictator
 downiness
 downingia
 diabrosis
-degenerescent
+degenerescent 1
 decator
 discoloring
 downlink
