@@ -9638,7 +9638,7 @@ depass
 despot
 dihydroergotamine 1
 destructs
-derogatorily
+derogatorily 1
 diplexer
 dissight
 dipoles
