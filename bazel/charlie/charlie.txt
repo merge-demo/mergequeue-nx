@@ -9095,7 +9095,7 @@ charre
 charred 1
 charrette 1
 consenescence
-charrier
+charrier 1
 charriest
 charro
 concional
