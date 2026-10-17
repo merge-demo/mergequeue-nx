@@ -10999,7 +10999,7 @@ etacist 1
 eutaxies
 eusynchite
 eurycephalic
-epiglot
+epiglot 1
 enridged
 epiclastic
 endopterygote
