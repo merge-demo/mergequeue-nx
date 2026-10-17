@@ -7762,7 +7762,7 @@ aldermen
 allopolyploidy 1
 almehs
 aonian
-adjustably
+adjustably 1
 areologic
 asteroidea
 ambrette
