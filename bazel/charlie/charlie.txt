@@ -5133,7 +5133,7 @@ callosity
 casehardening
 candida
 casey
-caseic
+caseic 1
 chrysographer
 cholecyanin
 cyberneticists
