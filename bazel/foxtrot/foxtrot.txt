@@ -10278,7 +10278,7 @@ falernian
 folkmot
 faultless
 fromenty
-fromenties
+fromenties 1
 fogyishness
 fluorated
 floscularian
