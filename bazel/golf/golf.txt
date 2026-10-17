@@ -8817,7 +8817,7 @@ gablock
 glaiket
 gasterophilus
 glycins
-gonogenesis 1
+gonogenesis 2
 gregariously
 glaciologic
 grazed 1
