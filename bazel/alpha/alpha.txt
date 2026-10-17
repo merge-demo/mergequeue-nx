@@ -4495,7 +4495,7 @@ adventured
 adventuresome
 agyrate
 aprocta
-adventuresomes
+adventuresomes 1
 adventuress 1
 adventuresses
 avidiously
