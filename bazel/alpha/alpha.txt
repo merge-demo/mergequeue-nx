@@ -1674,7 +1674,7 @@ astr
 anorganic 1
 alkalimeter
 arank
-ambiguously
+ambiguously 1
 aphidid
 acculturation
 acculturize
