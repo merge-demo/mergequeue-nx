@@ -27170,7 +27170,7 @@ countertally
 countertaste
 camarine
 countertechnicality
-countertendency
+countertendency 1
 cavalry
 carcasses
 cataspilite
