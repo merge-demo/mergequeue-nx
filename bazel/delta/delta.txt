@@ -1733,7 +1733,7 @@ drouthy
 dyad
 dishwiping
 deathify
-diobol
+diobol 1
 deathiness
 dasewe
 discantus
