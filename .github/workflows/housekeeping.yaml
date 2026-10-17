@@ -5,7 +5,7 @@ on:
 jobs:
   housekeeping:
     name: Cleanup old branches
-    runs-on: "trunk-kiln=${{ github.run_id }}-${{ github.run_attempt }}..size=medium"
+    runs-on: "trunk-kiln=${{ github.run_id }}-${{ github.run_attempt }}..size=xsmall"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
