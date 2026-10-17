@@ -9285,7 +9285,7 @@ errors
 estramazone
 ecrustaceous
 electroethereal
-erse
+erse 1
 effusiveness
 escribiente
 erection
