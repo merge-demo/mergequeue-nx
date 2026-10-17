@@ -24105,7 +24105,7 @@ armament
 afreets
 autolaryngoscopic
 approvedness
-adjuncts
+adjuncts 1
 anomalopteryx
 autogenetically
 autocephalia
