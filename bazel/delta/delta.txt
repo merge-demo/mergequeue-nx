@@ -16178,7 +16178,7 @@ dispersions 1
 dertra
 degas
 droplet
-desalinized
+desalinized 1
 deweylite 1
 dowdy
 distent
