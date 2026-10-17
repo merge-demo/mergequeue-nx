@@ -17668,7 +17668,7 @@ demonomancy
 disanimal
 dimerisms
 dualizes 1
-demarcate
+demarcate 1
 dualmutef
 dualogue 1
 disparaged 1
