@@ -11439,7 +11439,7 @@ firebase
 fiducially
 fluviose 1
 falteringly 1
-furrily
+furrily 1
 firefly
 frae
 flushingly
