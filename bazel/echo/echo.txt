@@ -10869,7 +10869,7 @@ emblazonment
 examinationism
 euphemisation
 euphemise
-elected
+elected 1
 euphemising
 enshroud
 euphemistically
