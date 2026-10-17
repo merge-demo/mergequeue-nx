@@ -8968,7 +8968,7 @@ eon
 extraspherical
 evenings
 encephalin
-eleaticism
+eleaticism 1
 endopleurite
 erratics
 erythrocytes
