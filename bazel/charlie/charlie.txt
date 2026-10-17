@@ -11948,7 +11948,7 @@ chorometry
 coaggregated
 confabulating
 confarreate
-choriambus
+choriambus 1
 choric
 chorines
 collunarium
