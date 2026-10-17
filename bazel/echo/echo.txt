@@ -13269,7 +13269,7 @@ explicitness
 ectocuneiform
 epitheliomata
 elapids 1
-eglantine
+eglantine 1
 etches
 electrohomeopathy
 earner
