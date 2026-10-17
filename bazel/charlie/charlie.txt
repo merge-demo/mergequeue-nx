@@ -4991,7 +4991,7 @@ canalman
 cryptovolcanic
 conceptuality
 crystallizing
-chevrony
+chevrony 1
 cartulary
 cartularies
 carapache
