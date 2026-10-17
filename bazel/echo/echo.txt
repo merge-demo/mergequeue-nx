@@ -589,7 +589,7 @@ elocutionize
 egomanias
 electrodynamics
 endophyllaceae
-estancia
+estancia 1
 emblematize
 echoing
 exfiltration
