@@ -4070,7 +4070,7 @@ enamelers
 ecstasize
 exterminated
 empiricalness
-epibolism
+epibolism 1
 engorgement
 esquimau
 expositorily
