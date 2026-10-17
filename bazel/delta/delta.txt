@@ -7759,7 +7759,7 @@ disastimeter
 decoded
 dogmatization
 deadweight
-deviser
+deviser 1
 devising
 direption
 detailism
