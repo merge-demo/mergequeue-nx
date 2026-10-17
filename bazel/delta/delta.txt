@@ -1961,7 +1961,7 @@ disedify 1
 divinatory
 dermohumeral
 disyllabism
-deburr
+deburr 1
 divulgatory
 debus
 decanally
