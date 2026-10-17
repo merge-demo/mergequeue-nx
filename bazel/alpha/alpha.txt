@@ -14709,7 +14709,7 @@ amphitricha
 antibacterial
 anaglyptograph
 antiballooner
-artisanry
+artisanry 1
 antibasilican
 antibenzaldoxime
 appealer
