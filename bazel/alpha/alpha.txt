@@ -14552,7 +14552,7 @@ anthropomorphology
 atta
 anthropomorphously
 arthrozoan
-abner
+abner 1
 anthroponomics
 anthroponomist
 antipathies
