@@ -12553,7 +12553,7 @@ chronic
 chronica
 chronically
 chronicle
-chronicled
+chronicled 1
 clattertrap
 chronicling
 chronicon
