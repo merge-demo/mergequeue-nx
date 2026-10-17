@@ -10544,7 +10544,7 @@ amidoxyl
 australopithecinae
 anagrammatize
 amids
-apolarity
+apolarity 1
 aphids
 ascaris
 anotia
