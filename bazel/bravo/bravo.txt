@@ -3799,7 +3799,7 @@ bazzite
 browsing
 bescorched
 balancer
-bristlecone
+bristlecone 1
 bauckie
 beerish
 benzole
