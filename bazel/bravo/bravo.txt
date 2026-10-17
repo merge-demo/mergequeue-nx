@@ -4517,7 +4517,7 @@ brigadiership
 barricaded
 burnsides
 batata
-balushai
+balushai 1
 becudgels
 bosons
 bilixanthin
