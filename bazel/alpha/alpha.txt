@@ -795,7 +795,7 @@ abristle
 alabandine
 abroach
 airdock
-abrogate
+abrogate 1
 allergies
 antagonisation
 archilithic
