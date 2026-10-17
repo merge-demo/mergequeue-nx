@@ -1777,7 +1777,7 @@ euglenales
 enterocentesis
 echinital
 evitation 1
-everliving
+everliving 1
 euphonous
 effractor
 escalloping
