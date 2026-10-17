@@ -14877,7 +14877,7 @@ downbear 1
 documents
 demonism
 dowitcher
-dolorifuge
+dolorifuge 1
 dependencies
 depurging
 deglute
