@@ -6135,7 +6135,7 @@ asymtotically
 aglyphodont
 algodonite
 awaken
-alcyones
+alcyones 1
 adversaria
 aglitter 1
 aspartokinase
