@@ -152,7 +152,7 @@ apocrustic
 abater
 alanyl
 alcumy
-abating
+abating 1
 abatis
 asbolin
 atoms
