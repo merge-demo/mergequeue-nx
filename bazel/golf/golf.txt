@@ -9308,7 +9308,7 @@ grudgingness
 generale
 ghosted
 grogshop 1
-gigmaness
+gigmaness 1
 geosyncline
 gnathalgia
 guignol
