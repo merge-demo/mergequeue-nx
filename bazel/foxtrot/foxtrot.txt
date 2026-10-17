@@ -10975,7 +10975,7 @@ focaloid
 foremilk
 firstborn
 finland
-firebolt
+firebolt 1
 fleshlier
 furmities
 fumatory
