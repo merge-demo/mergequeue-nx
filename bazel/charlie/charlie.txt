@@ -8768,7 +8768,7 @@ chapiter
 chloranaemia
 chapitral
 chaplain
-chaplaincies
+chaplaincies 1
 chaplains
 curiboca
 crackup
