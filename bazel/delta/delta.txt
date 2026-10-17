@@ -5248,7 +5248,7 @@ deeping
 denouement
 denouements
 denounce
-disputativeness
+disputativeness 1
 dynamogenously
 devalued
 denouncement
