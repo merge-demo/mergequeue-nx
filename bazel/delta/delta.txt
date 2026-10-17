@@ -8185,7 +8185,7 @@ disconvenient
 dedentition
 dicotylous
 damocles
-disposer
+disposer 1
 decalcified
 disbind
 deywoman
