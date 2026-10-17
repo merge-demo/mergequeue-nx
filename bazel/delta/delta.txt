@@ -10994,7 +10994,7 @@ dizzying
 dunderheads
 discrive
 dithiobenzoic
-duoliteral
+duoliteral 1
 discongruity
 durindana
 dutifulness
