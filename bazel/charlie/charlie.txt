@@ -2761,7 +2761,7 @@ clatsop
 compete
 cannequin
 colts
-cancerphobia
+cancerphobia 1
 cannetille
 claviers
 cereless
