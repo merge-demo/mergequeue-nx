@@ -3229,7 +3229,7 @@ basilary
 basilateral
 bowker 1
 balak
-basilect
+basilect 1
 bloodwit
 begunk
 beautifying
