@@ -18365,7 +18365,7 @@ chenevixite
 conterminant
 cognac
 curdier
-crookeries
+crookeries 1
 centime
 cognacs
 cognate
