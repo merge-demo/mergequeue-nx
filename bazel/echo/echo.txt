@@ -7627,7 +7627,7 @@ epicondylian
 exspuition
 engraulidae
 exintine
-eupatory
+eupatory 1
 ensient
 effectless
 entocnemial
