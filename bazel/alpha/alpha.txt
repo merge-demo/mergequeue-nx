@@ -63,7 +63,7 @@ abacus
 alcheringa
 abaddon
 abadengo
-aerially
+aerially 1
 argusfish
 arcadian
 abaiser
