@@ -6117,7 +6117,7 @@ girja
 gigliato
 gardinol
 gallimaufry 2
-gyrous
+gyrous 1
 gurniad
 genuflections
 gliosis
