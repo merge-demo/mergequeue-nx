@@ -6596,7 +6596,7 @@ devotary
 dhooti
 dubious
 delimits
-desegmentation
+desegmentation 1
 dynamiters
 denigratory
 damoiselle
