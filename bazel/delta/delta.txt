@@ -1685,7 +1685,7 @@ dearest
 derides
 dyne
 deposition
-deadeners
+deadeners 1
 dottel
 dephysicalization
 decrementless
