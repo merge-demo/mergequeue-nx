@@ -12384,7 +12384,7 @@ disparkle
 dupable 1
 dishclout
 disassembly
-disheartenedly
+disheartenedly 1
 doubles
 disheartener
 doveflower
