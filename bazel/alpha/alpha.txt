@@ -9531,7 +9531,7 @@ alonzo 1
 althorn
 alticamelus
 apagoge
-altify
+altify 1
 aprosopous
 antiparasitical
 altiloquence
