@@ -21210,7 +21210,7 @@ albatas
 amelia
 afterthoughted
 asherah
-ashery
+ashery 1
 antichronical
 albicore
 agnean
