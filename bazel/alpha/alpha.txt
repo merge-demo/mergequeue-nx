@@ -5267,7 +5267,7 @@ anteporch
 amidist
 antiatheistically
 affined
-affinely
+affinely 1
 acromiodeltoid
 affines
 arthron 1
