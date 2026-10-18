@@ -9404,7 +9404,7 @@ ficaria
 forequoted 1
 finickiness 1
 fractionised
-flamboyer
+flamboyer 1
 franticly
 fossor
 freeloading
