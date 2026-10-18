@@ -9779,7 +9779,7 @@ chelydroid
 condignness
 chrematistics
 ceylon
-caudate
+caudate 1
 cheliform 1
 crajuru
 curua
