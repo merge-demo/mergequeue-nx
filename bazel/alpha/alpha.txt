@@ -11367,7 +11367,7 @@ ampyxes
 abies
 amphigaean
 amigas
-asperite
+asperite 1
 answerably
 amplectant
 argyrocephalous
