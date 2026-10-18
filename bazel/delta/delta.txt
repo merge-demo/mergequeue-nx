@@ -12490,7 +12490,7 @@ disdeceive
 decimalize
 disillusionments
 diaphanousness
-disgorge
+disgorge 1
 decinormal
 discomycetes
 dana
