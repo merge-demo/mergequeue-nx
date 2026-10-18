@@ -4310,7 +4310,7 @@ barly
 becalm
 becalming
 biaural 1
-beakiest
+beakiest 1
 bulkheaded
 braquemard
 bdrm
