@@ -1060,7 +1060,7 @@ deas
 disobliging
 dutra
 darner 1
-dipterad
+dipterad 1
 darners
 darning
 dewooled
