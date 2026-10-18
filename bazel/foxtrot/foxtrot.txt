@@ -4842,7 +4842,7 @@ festinately
 fructiparous
 feasting
 fascicular
-furnishing
+furnishing 1
 fodder
 foliums
 froebelism
