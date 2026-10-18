@@ -3399,7 +3399,7 @@ commotional
 capreolar
 clamper
 canonizant
-capreolary
+capreolary 1
 capreolate
 chimericalness
 crossbarring
