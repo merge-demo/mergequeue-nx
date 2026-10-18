@@ -918,7 +918,7 @@ antiopium
 apostrophi
 absolutist
 absolutize
-absolutory
+absolutory 1
 acanthopteri
 absolvatory
 aestuary
