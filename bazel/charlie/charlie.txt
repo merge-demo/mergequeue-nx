@@ -3629,7 +3629,7 @@ crustate
 caracolite 1
 caracolled
 caracoller
-cosmopolitanize
+cosmopolitanize 1
 colarin
 coosify
 chivied
