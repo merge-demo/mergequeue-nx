@@ -129,7 +129,7 @@ dioecism
 debilitations
 dyspathetic
 demiurgus
-descendental
+descendental 1
 dingier
 deadcenter
 drumsticks
