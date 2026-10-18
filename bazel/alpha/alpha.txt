@@ -12422,7 +12422,7 @@ androgynies
 angiostomy
 androgone
 andrographis
-acrotomous
+acrotomous 1
 adamsite
 andromache
 arbusterol
