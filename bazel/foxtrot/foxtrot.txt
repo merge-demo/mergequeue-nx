@@ -9406,7 +9406,7 @@ finickiness 1
 fractionised
 flamboyer
 franticly
-fossor
+fossor 1
 freeloading
 fluoridate
 floristics
