@@ -12437,7 +12437,7 @@ chromiums
 chromize
 crocard
 congoese 1
-chromizing
+chromizing 1
 caswellite
 chromoblast
 chromocyte
