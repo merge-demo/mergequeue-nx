@@ -16819,7 +16819,7 @@ brachycephaly
 buffa
 brumbee 1
 bacterioid
-bicolligate
+bicolligate 1
 buffable
 buffalo
 buffalofish
