@@ -4432,7 +4432,7 @@ effectively
 encapsuling
 encaptivate
 essence
-expectorate
+expectorate 1
 eternized
 electrophysiologic
 excentrical
