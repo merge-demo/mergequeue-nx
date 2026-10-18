@@ -8327,7 +8327,7 @@ greenslade
 gracefulness 1
 greyer
 gau
-glucuronidase
+glucuronidase 1
 giansar
 geegaws
 geanticlinal
