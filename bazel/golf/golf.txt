@@ -1670,7 +1670,7 @@ gardeen
 gryphon
 grungiest
 gastrocoel
-gamuts
+gamuts 1
 gamelion
 gorkiesque
 gif
