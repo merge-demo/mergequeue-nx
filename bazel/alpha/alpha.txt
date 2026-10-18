@@ -22652,7 +22652,7 @@ anthropoteleological
 athenaeums
 anisopia
 atheneum
-atheneums
+atheneums 1
 ait
 arteriotome
 aerates
