@@ -11615,7 +11615,7 @@ debuts
 dishabit
 defeminize
 discontinuee
-disprepare
+disprepare 1
 daggletail
 discover
 dieselizing
