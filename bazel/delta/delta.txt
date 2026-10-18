@@ -2292,7 +2292,7 @@ depurator
 decennial
 dingdongs
 decennium
-diagraphical
+diagraphical 1
 denouncing
 dohter
 decennoval
