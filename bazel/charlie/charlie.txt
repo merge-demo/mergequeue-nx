@@ -14323,7 +14323,7 @@ circumsession
 circumsinous
 circumsolar
 collow
-cocciferous
+cocciferous 1
 circumspangle
 crambid
 crystalwort
