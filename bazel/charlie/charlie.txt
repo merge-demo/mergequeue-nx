@@ -12879,7 +12879,7 @@ cyclized
 cupidity
 churinga
 churingas
-churl
+churl 1
 convoys
 curmurring
 churlier
