@@ -1771,7 +1771,7 @@ boswellized
 bowmen
 balanops
 balloonet
-bedsprings
+bedsprings 1
 bambute
 blackheart
 becombed
