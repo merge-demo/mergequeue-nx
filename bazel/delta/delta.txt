@@ -2893,7 +2893,7 @@ dinoceratid
 draper
 didunculidae
 detainers 1
-deerlike
+deerlike 1
 decurion
 dispensatories 1
 demented
