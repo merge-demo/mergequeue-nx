@@ -12995,7 +12995,7 @@ exculpate
 endosecretory
 etatisms
 endocondensation
-evanescenrly
+evanescenrly 1
 equivale
 elderbrotherish
 estoppage
