@@ -4714,7 +4714,7 @@ friand
 fluidram
 forefeels
 forlese
-fucales
+fucales 1
 fathomless
 firesideship
 fantasticate
