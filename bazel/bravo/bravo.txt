@@ -9305,7 +9305,7 @@ beany
 bawdry
 baldricked
 buzuki
-birational 1
+birational 2
 butterwright
 birched
 besugo
