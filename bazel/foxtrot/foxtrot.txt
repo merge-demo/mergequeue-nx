@@ -10382,7 +10382,7 @@ fucate
 fronting
 fizzle
 focus
-furoid
+furoid 1
 feedable
 feared
 frangipanis
