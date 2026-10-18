@@ -1004,7 +1004,7 @@ biparental
 brichen 1
 bronchiocrisis
 barbarizes
-bitangent
+bitangent 1
 blain
 baigneuses
 beshrewed
