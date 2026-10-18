@@ -4720,7 +4720,7 @@ ecstrophy
 esthematology
 epanaphora
 electroencephalographs
-enmuffle
+enmuffle 1
 entrammel
 ensuance
 englishism
