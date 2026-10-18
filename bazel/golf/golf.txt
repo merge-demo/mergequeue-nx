@@ -727,7 +727,7 @@ gluteal 1
 gypsydom
 gugglet
 galvanizers 1
-gujar
+gujar 1
 gripple
 galvanizing
 gemmiferousness
