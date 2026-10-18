@@ -4514,7 +4514,7 @@ demidistance
 diaphane
 diabetogenic
 downtrend
-deputies
+deputies 1
 discircumspection
 demies
 dosimetric
