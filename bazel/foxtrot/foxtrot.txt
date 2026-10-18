@@ -6765,7 +6765,7 @@ frayed
 fried
 formative
 fronded
-fissate
+fissate 1
 focal
 folacin
 falsidical
