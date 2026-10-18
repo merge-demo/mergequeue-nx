@@ -26633,7 +26633,7 @@ curer
 counsellor
 chilopodan
 counselor
-countability
+countability 1
 cellos
 corbels
 curtlax
