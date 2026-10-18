@@ -8534,7 +8534,7 @@ estheriidae
 esoterically
 eupnea
 exsufflicate
-esophagotome
+esophagotome 1
 enteromere
 equatable
 eudaemons
