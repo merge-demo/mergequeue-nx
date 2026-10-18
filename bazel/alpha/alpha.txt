@@ -16858,7 +16858,7 @@ apiarians
 apiarists
 adolescently
 antidemocratic
-apically
+apically 1
 apices
 aphislion
 arrearages
