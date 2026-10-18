@@ -2469,7 +2469,7 @@ antiperthite
 apprehendingly
 acoasm
 acetin
-almogavar
+almogavar 1
 agregation
 aforethought
 avile
