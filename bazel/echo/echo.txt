@@ -312,7 +312,7 @@ ealderman
 endark
 espousage
 exserting
-extortionate
+extortionate 1
 expedient
 ebon
 eradicate
