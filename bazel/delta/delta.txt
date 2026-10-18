@@ -1571,7 +1571,7 @@ deadheartedly
 deadheartedness 1
 deady
 dominancy
-defilades
+defilades 1
 deadish
 dysgenesic
 dhanush
