@@ -9725,7 +9725,7 @@ aux
 alvissmal
 antirabic
 actinical
-alwite
+alwite 1
 arrogator
 amaas
 apocalypticism
