@@ -3676,7 +3676,7 @@ floorings 1
 fuzzing
 followeth
 funnelling 1
-friskers
+friskers 1
 fertilised
 foreglow
 finedrawing
