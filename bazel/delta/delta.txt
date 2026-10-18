@@ -17324,7 +17324,7 @@ dodecanal
 doa
 dignifying
 drooled
-drooly
+drooly 1
 doorstep
 dilatational
 derivational
