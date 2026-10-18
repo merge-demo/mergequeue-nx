@@ -3157,7 +3157,7 @@ dingey
 doorbell
 dinnery
 defeated
-downs
+downs 1
 diluviate
 disgout
 dissimulated
