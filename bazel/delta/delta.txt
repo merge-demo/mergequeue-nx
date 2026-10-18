@@ -14178,7 +14178,7 @@ disunity
 disprofess
 deteriorism
 demobilizing
-deeds
+deeds 1
 delegation
 disuniting
 dysuria
