@@ -6577,7 +6577,7 @@ ficula
 futurism
 firebrand 1
 forebitten
-firming
+firming 1
 filiated
 fluorhydric
 finfishes
