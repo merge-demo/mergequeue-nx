@@ -5152,7 +5152,7 @@ casemaking
 casemates
 casemented
 casements
-copolar
+copolar 1
 caseolysis
 caseose
 caseous
