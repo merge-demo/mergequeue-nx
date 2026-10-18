@@ -19088,7 +19088,7 @@ alit
 ascophorous
 aristocraticness
 allocute
-absorbant
+absorbant 1
 alkylamino
 alphanumeric
 agritos
