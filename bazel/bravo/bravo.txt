@@ -6734,7 +6734,7 @@ bonneter
 bondman
 becripple
 bernice
-begaze
+begaze 1
 berninesque
 bootprint
 bunnymouth
