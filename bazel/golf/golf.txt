@@ -304,7 +304,7 @@ gaudful
 glanderous
 gourami
 gadolinium
-gauzily
+gauzily 1
 gangrels
 grundsil
 gelatins
