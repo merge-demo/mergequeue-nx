@@ -18659,7 +18659,7 @@ acroanesthesia
 architraval
 archaises
 archaising
-archaism
+archaism 1
 algebraically 1
 ati
 asporulate
