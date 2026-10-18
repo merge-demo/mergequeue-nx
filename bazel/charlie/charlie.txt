@@ -3259,7 +3259,7 @@ cputime
 capitation
 casimere
 capitations
-cyclotomy
+cyclotomy 1
 cystenchyme 1
 capite 1
 christianized
