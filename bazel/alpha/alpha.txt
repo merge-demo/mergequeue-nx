@@ -15027,7 +15027,7 @@ anticreeping
 anametadromous
 achondroplasia
 antigyrous 1
-anticryptic
+anticryptic 1
 aglossate
 airbus
 anlage
