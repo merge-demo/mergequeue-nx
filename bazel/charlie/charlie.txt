@@ -26714,7 +26714,7 @@ cheepy
 counterattraction
 carvacrol
 countercompany
-counterattractive
+counterattractive 1
 costulation 1
 counteravouch
 counteravouchment
