@@ -4319,7 +4319,7 @@ grads
 gluttonous
 garganeys
 gentisein
-gustativeness
+gustativeness 1
 gnocchetti
 gyrostabilizer
 girse
