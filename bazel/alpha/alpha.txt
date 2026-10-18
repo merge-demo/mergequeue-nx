@@ -6428,7 +6428,7 @@ agrostologic
 antiresonance
 amorado
 attempering
-alnascharism 1
+alnascharism 2
 antefixa
 agrotype
 aurochloride
