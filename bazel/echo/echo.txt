@@ -5571,7 +5571,7 @@ ecphrasis
 endoergic
 enfevering
 emitters 1
-edwardeanism
+edwardeanism 1
 enzootic
 epicardial
 enfilade
