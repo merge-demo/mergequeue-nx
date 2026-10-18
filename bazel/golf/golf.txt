@@ -9100,7 +9100,7 @@ galactidrosis
 giraffa 1
 glairiness
 garishness
-gherkin
+gherkin 1
 gentlehood
 grinch
 goldwork
