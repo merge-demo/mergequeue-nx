@@ -4941,7 +4941,7 @@ disbursed
 dissentious
 dictators
 demoraliser
-demoralising
+demoralising 1
 defecter
 diacrisis
 dicrostonyx
