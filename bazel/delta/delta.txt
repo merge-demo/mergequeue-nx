@@ -9304,7 +9304,7 @@ dietic
 decolorant
 dietitians
 dtset
-diplomat 1
+diplomat 2
 dietotherapy
 dietotoxic
 detersive
