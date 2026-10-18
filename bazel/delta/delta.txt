@@ -18007,7 +18007,7 @@ dehydrogenizer
 dulciloquent 1
 delouses
 dungon
-diplex
+diplex 1
 denitrated
 disgallant
 doroscentral
