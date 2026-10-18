@@ -2240,7 +2240,7 @@ barbarization
 boucle
 begoggled
 brigid
-bijective
+bijective 1
 bioecology
 birdclapper
 bannerwise
