@@ -22196,7 +22196,7 @@ accruals
 arthrosporous
 astigmatoscope
 astigmatoscopy
-astigmic
+astigmic 1
 antiphon
 astigmometer
 aglossa
