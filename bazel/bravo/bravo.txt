@@ -14054,7 +14054,7 @@ bakehouse
 bathhouses
 bicuspidate
 brachydactylism
-bebusy
+bebusy 1
 bottlebird
 brachydodromous
 boc
