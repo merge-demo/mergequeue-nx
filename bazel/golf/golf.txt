@@ -3581,7 +3581,7 @@ ghanaian
 glimpsing
 greekling
 glumella
-gourmandize
+gourmandize 1
 galvanisation
 gausses
 gharnao
