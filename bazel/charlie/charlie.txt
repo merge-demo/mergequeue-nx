@@ -31341,7 +31341,7 @@ canales
 cawk
 consolitorily
 cruziero
-curfew
+curfew 1
 curfewed
 clerete
 curfews
