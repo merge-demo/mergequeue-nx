@@ -10345,7 +10345,7 @@ fezziwig
 fidding
 formicaries
 fibreware
-forswore
+forswore 1
 flatmate
 flamiest
 footgeld
