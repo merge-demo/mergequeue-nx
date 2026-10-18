@@ -15221,7 +15221,7 @@ claith
 clubmen
 clayton
 chinkers
-claiver
+claiver 1
 crucigerous
 ceromancy
 claywares
