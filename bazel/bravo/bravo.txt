@@ -10192,7 +10192,7 @@ brachia
 blateroon 1
 badawi
 brollies
-boars
+boars 1
 beaverlike
 blackies
 bottomlessness
