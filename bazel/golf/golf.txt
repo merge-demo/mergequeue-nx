@@ -10658,7 +10658,7 @@ gametogony 1
 gladius
 gyric
 goatsbane
-galp
+galp 1
 gurgoyle
 glaiketness
 genuflexion
