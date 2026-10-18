@@ -26255,7 +26255,7 @@ confectionery
 coindication
 costectomy
 costectomies
-costed
+costed 1
 coinmaker
 consultatory
 condylopod
