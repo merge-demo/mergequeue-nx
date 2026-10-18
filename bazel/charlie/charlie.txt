@@ -9780,7 +9780,7 @@ condignness
 chrematistics
 ceylon
 caudate
-cheliform 1
+cheliform 2
 crajuru
 curua
 chelingas
