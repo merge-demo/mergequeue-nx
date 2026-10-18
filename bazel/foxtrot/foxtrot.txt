@@ -8634,7 +8634,7 @@ fulup 1
 fringilloid
 forsakenness
 fermentarian
-forsythia
+forsythia 1
 fontinalis
 findon
 flamberge
