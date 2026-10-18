@@ -8307,7 +8307,7 @@ corallet
 choyroot
 chalinitis
 chalkboard
-chalked
+chalked 1
 chalky
 chalkiest
 commissions
