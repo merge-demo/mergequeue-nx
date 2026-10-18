@@ -10979,7 +10979,7 @@ eupsychics 1
 eurafric
 epigastric
 eurasianism
-eremites
+eremites 1
 endocervicitis
 excludes
 electrizing
