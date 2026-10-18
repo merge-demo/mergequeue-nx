@@ -9489,7 +9489,7 @@ acadian
 alternater
 alternatingly
 aphrodite 1
-animals
+animals 1
 acinarious
 attemperate
 antivenins
