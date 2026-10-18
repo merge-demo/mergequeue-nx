@@ -7004,7 +7004,7 @@ enfuddle 1
 eager
 entreats
 esophagopathy
-entrec
+entrec 1
 escalin
 exiting
 effecting
