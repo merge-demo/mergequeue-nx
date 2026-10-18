@@ -10871,6 +10871,6 @@ gyrophora
 goggan 1
 goaltending
 graperoot
-geniculated
+geniculated 1
 goonies
 gouache
