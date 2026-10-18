@@ -9197,7 +9197,7 @@ donk
 dehydrogenation
 diecious
 diectasis
-dead
+dead 1
 damascenes
 discase
 dermomuscular
