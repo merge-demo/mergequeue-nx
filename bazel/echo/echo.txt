@@ -1984,7 +1984,7 @@ euthamia
 earthen 1
 etherialize
 exteriorate
-elastics
+elastics 1
 exothermal 1
 eagle
 economizing
