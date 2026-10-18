@@ -5045,7 +5045,7 @@ epidendron
 endia 1
 equerry
 endings
-elapsing
+elapsing 1
 emplace
 elaeomargaric
 enrolled
