@@ -7924,7 +7924,7 @@ greases
 glecoma
 gorst
 gaberloonie
-gliriform
+gliriform 1
 gooseberries
 grandad
 goggling
