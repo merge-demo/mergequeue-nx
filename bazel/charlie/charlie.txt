@@ -9514,7 +9514,7 @@ checkers
 cabbalah
 cardanic
 capos
-checky
+checky 1
 cityful
 circularising
 crowncapping
