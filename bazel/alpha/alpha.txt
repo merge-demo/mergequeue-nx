@@ -10608,7 +10608,7 @@ anthropozoic 1
 agnations
 amildar
 achordal
-angelicas
+angelicas 1
 arccosine
 avoider
 amylemia
