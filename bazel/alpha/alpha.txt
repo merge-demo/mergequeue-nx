@@ -9103,7 +9103,7 @@ accendibility
 asterolepis
 afternight
 allurement
-aerosat
+aerosat 1
 anemonin
 antitheologian
 abdicator
