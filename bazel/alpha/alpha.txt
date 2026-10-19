@@ -19313,7 +19313,7 @@ awm
 areometrical
 adventurers
 arbutus 1
-ankylos
+ankylos 1
 anthologizer
 areopagite
 areopagitica
