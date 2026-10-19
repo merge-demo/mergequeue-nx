@@ -10768,7 +10768,7 @@ endogalvanism
 eucnemidae
 excursions
 exercitant
-extemporaneity
+extemporaneity 1
 elasticate
 euchloric
 examiners
