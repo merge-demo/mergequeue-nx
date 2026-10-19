@@ -7792,7 +7792,7 @@ aphidicide
 albolith
 aldazine
 antithrombic
-aldoheptose
+aldoheptose 1
 aldoketene
 analecta
 antigalactic
