@@ -5379,7 +5379,7 @@ begrimmed
 bot
 baileys
 brachycardia
-biweekly
+biweekly 1
 berglet
 begrown
 begrudge
