@@ -26664,7 +26664,7 @@ compilation
 counteraction
 calcaneotibial 1
 calamumi
-compatibly
+compatibly 1
 contendere
 chilognatha
 churly
