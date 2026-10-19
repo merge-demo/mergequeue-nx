@@ -4366,7 +4366,7 @@ feebler
 foraramina
 foreacquaint
 fencer
-fuliginously
+fuliginously 1
 fise
 forb
 furosemide
