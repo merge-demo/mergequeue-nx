@@ -11730,7 +11730,7 @@ anaglyphs
 anaglypta
 aldim
 azomethine
-armorbearer
+armorbearer 1
 acacatechin
 ablator
 acnodes
