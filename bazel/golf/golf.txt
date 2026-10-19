@@ -2138,7 +2138,7 @@ gaudete
 graced
 glycoluric
 gazellelike 1
-gaviae
+gaviae 1
 gentianaceae
 goodyism
 grazie
