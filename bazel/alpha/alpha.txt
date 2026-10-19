@@ -7097,7 +7097,7 @@ akin 1
 anoxaemic
 azury
 anre
-akinesic
+akinesic 1
 avicenniaceae
 arctation
 akinete
