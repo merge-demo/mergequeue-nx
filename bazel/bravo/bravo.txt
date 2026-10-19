@@ -8794,7 +8794,7 @@ binitarianism
 beworm
 bubonic
 buffaloed
-bink
+bink 1
 binna
 bowering
 brilliants
