@@ -6243,7 +6243,7 @@ codeword
 conically 1
 cauking
 cyrtoceracone
-cutinises
+cutinises 1
 cfs
 chloralism
 caul
