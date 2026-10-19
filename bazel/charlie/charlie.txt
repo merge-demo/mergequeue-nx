@@ -31527,7 +31527,7 @@ cursing
 coelenteron
 cursitate
 creirgist
-coadjute
+coadjute 1
 cursive
 conveyal
 cursives
