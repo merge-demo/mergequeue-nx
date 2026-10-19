@@ -9654,7 +9654,7 @@ digitise
 dalasis
 decretals
 disasterly 1
-dowcet
+dowcet 1
 diverting
 diiodoform
 debiting
