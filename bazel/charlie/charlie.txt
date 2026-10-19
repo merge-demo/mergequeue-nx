@@ -23066,7 +23066,7 @@ cotula
 conspecific
 conspection
 coccosphere 1
-conspectus
+conspectus 1
 cullying
 colias
 conspectuses
