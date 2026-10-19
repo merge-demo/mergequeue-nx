@@ -10491,7 +10491,7 @@ floe
 freshment
 frillery
 favouringly
-frot
+frot 1
 froth 1
 formulatory
 fanman
