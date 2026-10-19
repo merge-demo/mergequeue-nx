@@ -4826,7 +4826,7 @@ eccoproticophoric
 escape
 erugate
 estrogenicity
-embrangle 1
+embrangle 2
 encomiastically
 extols
 emulously
