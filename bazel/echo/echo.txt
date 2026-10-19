@@ -12849,7 +12849,7 @@ evangelistship
 efecks 1
 exoticist
 eudipleural
-encircled
+encircled 1
 exoterically
 erythremomelalgia
 episcopal
