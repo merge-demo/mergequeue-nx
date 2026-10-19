@@ -25604,7 +25604,7 @@ concetti
 corporativism
 corporealization 1
 coagule
-corporeally
+corporeally 1
 cravenhearted
 corporeals
 cob
