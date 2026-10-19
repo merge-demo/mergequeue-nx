@@ -742,7 +742,7 @@ badiaga
 breathy
 boneshaw
 bannerman
-bushmanship
+bushmanship 1
 badigeon
 beadsman
 bechatter
