@@ -11825,7 +11825,7 @@ exists
 exauthorate
 exauthorizeexc
 exceptio
-epileptics
+epileptics 1
 eplot
 externization
 enviably
