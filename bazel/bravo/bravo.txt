@@ -2900,7 +2900,7 @@ biverbal
 beclatter
 bestride
 badinage
-barrater
+barrater 1
 barratries
 blabbermouth
 becrawls
