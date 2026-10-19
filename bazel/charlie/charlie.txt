@@ -28521,7 +28521,7 @@ creddock
 chavicine
 carapaced
 credences
-coring
+coring 1
 credencive
 conditioning
 credenda
