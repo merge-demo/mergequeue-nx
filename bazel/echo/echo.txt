@@ -961,7 +961,7 @@ embalming
 entailments
 emanator
 euchrone
-effronteries
+effronteries 1
 epencephalic
 erythroblastotic
 enhearse
