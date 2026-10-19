@@ -2461,7 +2461,7 @@ dooryards
 dand
 doctrinarily
 deucing
-disintegrative
+disintegrative 1
 decipherably
 damgalnunna
 drepane 1
