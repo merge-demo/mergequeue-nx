@@ -7472,7 +7472,7 @@ detumescence
 dynasticism 1
 deposal
 detune
-detuning
+detuning 1
 diastrophic
 dragooned
 diosma
