@@ -13068,7 +13068,7 @@ autologist
 abreacted
 antipoles
 authenticity
-affronty
+affronty 1
 allmouths
 arsonous
 acidimetry
