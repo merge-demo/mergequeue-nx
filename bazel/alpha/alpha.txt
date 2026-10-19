@@ -2977,7 +2977,7 @@ addisoniana
 actinisms
 arginine
 actinium
-anopias
+anopias 1
 actiniums
 antiacid
 austerest
