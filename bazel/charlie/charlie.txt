@@ -3553,7 +3553,7 @@ captivates
 captivatingly
 clowre
 classier
-captivative
+captivative 1
 captive
 caucus
 calvarias
