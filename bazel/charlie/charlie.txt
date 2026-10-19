@@ -23540,7 +23540,7 @@ contignate
 cloky
 corycavidin
 californite
-contignation
+contignation 1
 contiguity
 circumferent
 continentalize
