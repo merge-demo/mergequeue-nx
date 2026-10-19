@@ -9348,7 +9348,7 @@ dunces
 differentiability
 differentiae
 deliquescing
-darkle
+darkle 1
 dismembering
 differentiant
 daggy
