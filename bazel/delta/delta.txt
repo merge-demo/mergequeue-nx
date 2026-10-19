@@ -5720,7 +5720,7 @@ deltoids
 disusance
 dispansive
 dermoossification
-dictyoid 1
+dictyoid 2
 dried
 dipneumonous
 decastich
