@@ -18820,7 +18820,7 @@ archetypes
 attributive 1
 asymmetrically
 archettos
-auroauric
+auroauric 1
 assever
 assumptiveness
 adhibit
