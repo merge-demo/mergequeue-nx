@@ -10252,7 +10252,7 @@ goglets
 gomontia
 geechee
 gonophore
-glacier
+glacier 1
 gustiness
 galvanometry
 galvanoplastically
