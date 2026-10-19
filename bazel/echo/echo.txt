@@ -7569,7 +7569,7 @@ enddamage
 ebenaceous 1
 endoscopically
 exucontian
-exponence
+exponence 1
 eructing
 explanitory
 epicheiremata
