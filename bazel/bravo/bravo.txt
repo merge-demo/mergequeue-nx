@@ -15013,7 +15013,7 @@ bemusedly
 brimfull
 basenji
 buro
-balefully
+balefully 1
 barelegged
 breechcloths
 biosatellite
