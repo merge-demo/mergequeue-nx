@@ -13402,7 +13402,7 @@ aminase
 assimilatory
 ameban
 awny
-ankush
+ankush 1
 astringe
 aristulate
 archphylarch
@@ -13484,7 +13484,7 @@ annicut
 annidalin
 amphierotic
 accomplish
-antagonisable
+antagonisable 1
 apicifixed
 apse
 abanic
