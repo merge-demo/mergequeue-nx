@@ -6849,7 +6849,7 @@ airlift
 airlifting
 airlifts
 antiparliamentary
-adjectival
+adjectival 1
 airline
 acridophagus
 airlines
