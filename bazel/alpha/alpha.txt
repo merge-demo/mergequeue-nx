@@ -15869,7 +15869,7 @@ acanthus
 antipolygamy
 antipolitical
 assureds
-azureous
+azureous 1
 acridian
 antipollution
 ade
