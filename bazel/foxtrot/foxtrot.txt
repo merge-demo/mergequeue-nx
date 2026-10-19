@@ -5797,7 +5797,7 @@ fussiest 1
 forebear
 fossiliferous
 flitterbat
-fructicultural
+fructicultural 1
 fumeroot
 fallage
 fastigium
