@@ -10674,7 +10674,7 @@ grove
 glyphographic
 generalty
 glycerols
-gurnard
+gurnard 1
 gib
 gastroenteroptosis
 glaucomatous 1
