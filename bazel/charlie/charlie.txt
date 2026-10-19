@@ -21878,7 +21878,7 @@ cataclasm
 chaetosema
 conventionalist
 cuspated 1
-crescentwise
+crescentwise 1
 conferences
 conferential
 conferral
