@@ -2441,7 +2441,7 @@ decimetre
 decimolar
 drainpipe 1
 diplacusis
-daker
+daker 1
 decimole
 dangling
 diparentum
