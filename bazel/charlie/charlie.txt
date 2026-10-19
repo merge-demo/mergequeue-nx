@@ -8484,7 +8484,7 @@ champerties
 chalaze
 champertor
 carbolxylol
-champertous
+champertous 1
 cephalomotor 1
 champy
 conjoint
