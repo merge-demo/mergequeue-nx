@@ -18500,7 +18500,7 @@ akroasis
 antimusical 1
 azoturias
 assassinating
-arborer
+arborer 1
 adventitious
 adulteress
 arbores
