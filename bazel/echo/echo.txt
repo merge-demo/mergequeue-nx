@@ -5273,7 +5273,7 @@ extrascriptural
 escartelly
 euphuizing
 esphresis
-expenseless
+expenseless 1
 euphonium
 endopods
 epistolarily
