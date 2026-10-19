@@ -9029,7 +9029,7 @@ dicots
 dicoumarin
 disembed
 dissemilative
-depravate
+depravate 1
 deaconhood
 dermatoplast
 dicoumarol
