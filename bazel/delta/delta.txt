@@ -2453,7 +2453,7 @@ dissipable
 dietetist
 dolently
 designs
-decyne
+decyne 1
 drydenian
 diaeresis
 decipherability
