@@ -15340,7 +15340,7 @@ bandylegged
 blisterwort
 bohorok
 boisterously
-brieflessly
+brieflessly 1
 besieges
 briefness
 bleeds
