@@ -11215,7 +11215,7 @@ iszjpysr
 iszlxbaa 1
 iszmbx
 isznvysk
-iszpd
+iszpd 1
 iszqeeg
 iszqgvs
 iszrfzmoowk
