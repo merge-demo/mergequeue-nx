@@ -23207,7 +23207,7 @@ architecturesque
 attestator
 antiseption
 attested
-apyrexy
+apyrexy 1
 attester
 antwerp
 akemboll
