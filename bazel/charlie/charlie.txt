@@ -20886,7 +20886,7 @@ comprachicos
 comprador
 chirologist
 chives
-compaginate
+compaginate 1
 compradore
 comprecation
 compregnate
