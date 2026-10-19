@@ -30502,7 +30502,7 @@ cub
 chilblains
 cuba
 cubages
-cubicovariant 1
+cubicovariant 2
 corozos
 cubane
 cubangle
