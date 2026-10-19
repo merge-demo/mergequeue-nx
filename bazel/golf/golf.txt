@@ -5017,7 +5017,7 @@ giulio
 gunhouse
 gynandrosporous
 goiabada
-glykopectic
+glykopectic 1
 galleypot
 governesshood
 glaucousness
