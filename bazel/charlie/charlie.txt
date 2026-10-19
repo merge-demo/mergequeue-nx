@@ -9939,7 +9939,7 @@ conspurcate
 cambists
 crescographic
 caseconv
-chaoses
+chaoses 1
 comedians
 chenet 1
 chirotony
