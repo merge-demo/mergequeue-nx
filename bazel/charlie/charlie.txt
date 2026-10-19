@@ -31246,7 +31246,7 @@ classification
 curace
 cabriolets
 curacoa
-curacoas
+curacoas 1
 curage
 chisellers
 curaghs
