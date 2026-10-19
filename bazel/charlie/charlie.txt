@@ -3452,7 +3452,7 @@ cytosporina
 caducecaducean
 cobhouse
 chiastolite
-capris
+capris 1
 convoking
 caprizant 1
 caldron
