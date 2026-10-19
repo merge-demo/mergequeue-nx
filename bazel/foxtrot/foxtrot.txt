@@ -7040,7 +7040,7 @@ forehandedly
 fonticulus
 flapmouthed
 foreganger
-feinting
+feinting 1
 fontinas 1
 forepromise
 figura
