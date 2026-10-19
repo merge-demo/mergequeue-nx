@@ -10522,7 +10522,7 @@ dipyridyl
 dichter
 duper 1
 daughter
-denominationalize
+denominationalize 1
 diplantidian
 drynaria
 diplarthrism
