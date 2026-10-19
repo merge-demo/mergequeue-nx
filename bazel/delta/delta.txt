@@ -2963,7 +2963,7 @@ dotingness
 diegesis
 diplasiasmus
 deduces
-droil
+droil 1
 dolt
 deducibility
 drawstop 1
