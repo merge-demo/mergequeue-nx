@@ -5264,7 +5264,7 @@ dalapon
 densely
 daviely
 dioptase
-dialogistic
+dialogistic 1
 demarcations
 denseness
 dorsel
@@ -10251,7 +10251,7 @@ dinotherian
 dins
 defenestrate
 dinted
-dintless
+dintless 1
 ducal
 degradedly
 dinus
