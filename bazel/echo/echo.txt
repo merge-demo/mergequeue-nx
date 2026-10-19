@@ -155,7 +155,7 @@ earthkin
 emargination
 envoys
 exorcise
-expired
+expired 1
 effervescent 1
 erotopath
 enunciations
