@@ -3741,7 +3741,7 @@ companeros
 caravel
 confuse
 caravels
-cosen
+cosen 1
 caraway
 caraways
 carbachol
