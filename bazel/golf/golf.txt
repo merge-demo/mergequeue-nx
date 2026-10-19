@@ -2971,7 +2971,7 @@ geomant
 gasaliers
 goluptious
 graben 1
-glutinousness
+glutinousness 1
 geyseric
 gastrotheca
 glitterance
