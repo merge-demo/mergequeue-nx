@@ -3555,7 +3555,7 @@ daybeam
 demoniast
 deoxygenizing
 developedness
-defunct
+defunct 1
 descendence
 discredence
 derivably
