@@ -16713,7 +16713,7 @@ bankbooks 1
 bleached
 bodycheck
 bucko
-buckoes
+buckoes 1
 baronetise
 biguanide
 balaam
