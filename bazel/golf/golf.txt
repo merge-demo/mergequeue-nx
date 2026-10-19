@@ -10770,7 +10770,7 @@ gimbals
 gallium
 glamourie
 geranyl
-gibblegable
+gibblegable 1
 glycyl
 gutt 1
 gunny 1
