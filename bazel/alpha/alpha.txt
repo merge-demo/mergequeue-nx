@@ -12326,7 +12326,7 @@ autotoxicity
 argentum
 ambay
 amiranha
-andamenta
+andamenta 1
 allopatric
 andantino
 annunciate
