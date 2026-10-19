@@ -10136,7 +10136,7 @@ chevetaine
 commodores
 changed
 capitalistic
-copurchaser
+copurchaser 1
 chevin
 cheviots
 chevres
