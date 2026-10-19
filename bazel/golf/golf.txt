@@ -4181,7 +4181,7 @@ goodly
 guaranin
 gemmule
 gaslit
-gainful
+gainful 1
 gyrocompass
 geographical
 gaggles
