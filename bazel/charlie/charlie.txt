@@ -20504,7 +20504,7 @@ compatibility
 compatibilities
 cainism
 condors
-compatible
+compatible 1
 clouts
 compatibleness
 chlorider
