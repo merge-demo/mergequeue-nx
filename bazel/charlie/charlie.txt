@@ -11810,7 +11810,7 @@ coaster
 copaljocote
 choosers
 choosier
-cryotherapy
+cryotherapy 1
 choosiness
 chadar
 chop
