@@ -12712,7 +12712,7 @@ ceratomania
 crinite
 catakinesis
 concede
-catafalques
+catafalques 1
 cobaltous
 cataloguize
 cratch
