@@ -7906,7 +7906,7 @@ fetticus
 forewarned
 feiseanna
 featherworker
-foresee
+foresee 1
 faitor
 feeblehearted
 frakturs
