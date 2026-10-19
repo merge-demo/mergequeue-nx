@@ -12954,7 +12954,7 @@ addictively
 archdiocesan
 anguineal
 anguiped 1
-anginiform
+anginiform 1
 afterhatch
 acutes
 arbitrations
