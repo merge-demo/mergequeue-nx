@@ -149,7 +149,7 @@ acronychally
 abated
 adenocarcinomatous
 apocrustic
-abater
+abater 1
 alanyl
 alcumy
 abating
