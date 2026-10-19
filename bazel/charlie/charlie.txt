@@ -6852,7 +6852,7 @@ clamor
 cellulin
 contangoes
 cuddly
-cryptesthesia
+cryptesthesia 1
 conscientiousness
 curares
 cytologist
