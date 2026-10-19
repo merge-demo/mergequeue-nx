@@ -18647,7 +18647,7 @@ denunciatively
 decury
 disforest
 drowsily
-disinflationary
+disinflationary 1
 disubstitution
 discountenanced
 disseisor
