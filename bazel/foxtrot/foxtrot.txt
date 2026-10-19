@@ -6649,7 +6649,7 @@ formaldehydesulphoxylate
 footpath
 fillip
 forevouched
-foehnlike
+foehnlike 1
 foeless
 faulted
 fulgurating
