@@ -8914,7 +8914,7 @@ ergoted
 explosible
 encephalomalaxis
 ergotism
-ergotizing
+ergotizing 1
 erichthoid
 ewder
 ergotoxine
