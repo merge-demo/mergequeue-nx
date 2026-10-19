@@ -123,7 +123,7 @@ gazogene
 gypsyhood
 girdled
 guerdoned
-gyros
+gyros 1
 gangrening 1
 gadroonage 1
 gadrooning
