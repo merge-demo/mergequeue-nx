@@ -13484,7 +13484,7 @@ annicut
 annidalin
 amphierotic
 accomplish
-antagonisable
+antagonisable 1
 apicifixed
 apse
 abanic
@@ -16900,7 +16900,7 @@ apprehender
 alluringness
 apimanias
 acocanthera
-apina
+apina 1
 alcoran
 aciculated
 armillated
