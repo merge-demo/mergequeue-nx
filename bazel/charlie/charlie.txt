@@ -661,7 +661,7 @@ caesaropapist
 caesarotomy 1
 choice
 caesious 1
-caespitose
+caespitose 1
 caespitosely
 cinemize
 crownal
