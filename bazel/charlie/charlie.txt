@@ -2869,7 +2869,7 @@ canopid
 canalised
 canopies
 clarigate
-corticated
+corticated 1
 canopying
 cours
 cyeses
