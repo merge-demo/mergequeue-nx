@@ -12949,7 +12949,7 @@ actaeonidae
 ahsan
 ardors
 argillitic
-approaches
+approaches 1
 addictively
 archdiocesan
 anguineal
