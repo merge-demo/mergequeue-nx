@@ -13004,7 +13004,7 @@ enjoins
 edictally
 expectorative
 eurycerous
-ephebos
+ephebos 1
 equipollently
 extubate
 exhaustingly
