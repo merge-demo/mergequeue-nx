@@ -1214,7 +1214,7 @@ garrisonian
 glossectomies
 guatusan
 galegine 1
-gratulate
+gratulate 1
 guilelessness
 garage 2
 guatemaltecan
