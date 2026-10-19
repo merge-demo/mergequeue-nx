@@ -2531,7 +2531,7 @@ bereaving
 burgus 1
 barye
 burglarise
-bois
+bois 1
 barcolongo
 breadearner
 blepharocoloboma
