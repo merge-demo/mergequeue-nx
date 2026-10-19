@@ -8243,7 +8243,7 @@ chalcedony
 cusconine
 calabrasella
 chalcedonyx
-chalchuite
+chalchuite 1
 chalcidian
 chalcidicum
 caird 1
