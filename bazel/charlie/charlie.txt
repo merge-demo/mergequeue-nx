@@ -7134,7 +7134,7 @@ centones
 centonism
 capitals
 centonization
-centos
+centos 1
 cerebropathy
 centra
 centrad
