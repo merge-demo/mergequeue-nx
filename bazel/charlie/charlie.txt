@@ -15970,7 +15970,7 @@ comfrey
 clerihews
 clerisies
 certifiably
-coinventor
+coinventor 1
 carryovers
 cobstone
 clerkdom
