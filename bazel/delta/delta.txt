@@ -14356,7 +14356,7 @@ dialyzed
 dodger
 dislaurel
 deadheaded
-diurn
+diurn 1
 depraved
 dhaman
 diurna
