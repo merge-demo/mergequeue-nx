@@ -4570,7 +4570,7 @@ carnificial
 carnifies
 colonel
 cnidocell 1
-carniform
+carniform 1
 consummatory
 chukar
 carnitine
