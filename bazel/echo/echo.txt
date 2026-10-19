@@ -10769,7 +10769,7 @@ eucnemidae
 excursions
 exercitant
 extemporaneity
-elasticate
+elasticate 1
 euchloric
 examiners
 enchodontoid
