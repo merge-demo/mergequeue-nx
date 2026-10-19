@@ -255,7 +255,7 @@ dassie
 dochmiasis
 duckweeds
 daggling
-daghesh
+daghesh 1
 deoxyribonuclease
 dappling
 denitrate
