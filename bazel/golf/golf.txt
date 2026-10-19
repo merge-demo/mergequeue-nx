@@ -1573,7 +1573,7 @@ glutelin
 gripe
 glassless
 ghegish
-gregarinoidea 1
+gregarinoidea 2
 gluelikeness
 gout
 gassing
