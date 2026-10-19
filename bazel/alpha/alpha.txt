@@ -4265,7 +4265,7 @@ appoint
 azophosphore
 aromatophore
 assertative
-adrenalcortical
+adrenalcortical 1
 appoggiature
 archesporium
 anchoretish
