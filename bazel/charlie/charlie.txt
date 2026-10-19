@@ -8029,7 +8029,7 @@ codirectional
 chacte
 chad
 chadarim
-chadelle
+chadelle 1
 colloquy
 catsup
 civilianization
