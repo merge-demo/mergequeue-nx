@@ -19305,7 +19305,7 @@ colonizable
 colonize 1
 comminating
 courted
-colonnade
+colonnade 1
 coughwort
 colonnaded
 cavatinas
