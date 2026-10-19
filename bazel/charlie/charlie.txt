@@ -6190,7 +6190,7 @@ caucasians
 carcan
 caucasic
 colombo
-chinantecan
+chinantecan 1
 cauch
 cauchillo
 chester
