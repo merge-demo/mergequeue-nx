@@ -25088,7 +25088,7 @@ ausforms
 advanceable
 antiastronomical
 atwirl
-accusativeness
+accusativeness 1
 autochronograph
 afflictively
 anthyllis
