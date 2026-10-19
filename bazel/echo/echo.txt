@@ -12293,7 +12293,7 @@ exemption
 essenhout
 entremess
 errorless
-exemptions
+exemptions 1
 ephemerist
 eviternal
 excerp
