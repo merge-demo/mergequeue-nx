@@ -580,7 +580,7 @@ brutishly
 blessers
 birdie
 bibliolatry
-baconize
+baconize 1
 baconweed
 bierkeller
 bonjour
