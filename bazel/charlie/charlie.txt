@@ -20512,7 +20512,7 @@ compatriotic
 chilicote
 chays
 compatriots
-compd
+compd 1
 cusparia
 carnose
 codon
