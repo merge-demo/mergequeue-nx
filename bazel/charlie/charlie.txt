@@ -24742,7 +24742,7 @@ coprolith
 coprolitic
 coprophagy
 couril
-coprophagist
+coprophagist 1
 corroboree
 complying
 coprophagous
