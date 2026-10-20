@@ -635,7 +635,7 @@ bacteriophagy
 bacteriopsonin
 butting
 bendable
-barfing
+barfing 1
 bellwethers
 butchering
 boozed
