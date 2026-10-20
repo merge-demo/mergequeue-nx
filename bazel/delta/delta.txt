@@ -10355,7 +10355,7 @@ dowsing
 dentata
 derelictly
 degeneracy
-dioramic 1
+dioramic 2
 diordinal
 duplet
 disgregation
