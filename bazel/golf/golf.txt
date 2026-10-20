@@ -10743,7 +10743,7 @@ gournard
 gagers
 groggy
 gustiest
-geocentrically
+geocentrically 1
 galewort
 gymnosophical
 gypsyry
