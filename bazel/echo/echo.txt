@@ -13351,7 +13351,7 @@ ethicist
 extortionately
 enlength
 embog
-enfonce
+enfonce 1
 excretive
 estating
 emotionalising
