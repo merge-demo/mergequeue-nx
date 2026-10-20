@@ -288,7 +288,7 @@ globins
 geet
 gummier
 glossophora
-gaintwist
+gaintwist 1
 giglot
 geobotany
 ganjas
