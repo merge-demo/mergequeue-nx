@@ -9180,7 +9180,7 @@ defensing
 duelled
 desoxycinchonine 1
 decalog
-diptych
+diptych 1
 dialyse
 doors
 delobranchiata
