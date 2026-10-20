@@ -29197,7 +29197,7 @@ cymbaler
 constipate
 cryosel
 cryospheric
-criosphinx
+criosphinx 1
 chromatospheric
 criosphinxes
 catrigged
