@@ -12193,7 +12193,7 @@ didactician
 diasper
 depositure
 degausser
-despiciency
+despiciency 1
 demander
 depurates
 duply
