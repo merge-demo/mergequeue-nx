@@ -11052,7 +11052,7 @@ enlevement
 elargement
 equanimous
 eyeletter 1
-envoyship
+envoyship 1
 estoc
 encomimia
 exuberating
