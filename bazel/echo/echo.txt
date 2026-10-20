@@ -9761,7 +9761,7 @@ exitious
 enthusiast
 expressure 1
 essentialization
-essentially
+essentially 1
 easterner
 exigencies
 expeditation
