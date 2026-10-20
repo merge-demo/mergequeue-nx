@@ -17956,7 +17956,7 @@ coelenterate
 catharses
 crotin
 coelenterates
-coelenteric
+coelenteric 1
 copyman
 coelestial
 coelestine
