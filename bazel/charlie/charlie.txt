@@ -26469,7 +26469,7 @@ cathodoluminescence
 cacoplastic
 corkiest
 curet
-catocalid
+catocalid 1
 cotripper
 cotrustee 1
 cottiform
