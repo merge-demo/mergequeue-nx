@@ -13949,7 +13949,7 @@ anticrepuscular
 antagonistical
 airedale
 awestricken
-antagonistically
+antagonistically 1
 aboudikro
 amblyrhynchus
 algist 1
