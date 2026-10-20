@@ -801,7 +801,7 @@ circulating
 circumvent
 chesboil
 calidity
-cahot
+cahot 1
 cahows
 cahuilla
 cay
