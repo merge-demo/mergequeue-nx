@@ -1949,7 +1949,7 @@ epinette
 empathically 1
 enthelmintha 1
 endict
-exarchateship
+exarchateship 1
 elementalist
 ejaculatory
 erdvark
