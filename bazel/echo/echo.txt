@@ -9340,7 +9340,7 @@ extortioner
 essoinee
 eruptiveness
 endear 1
-earable
+earable 1
 eruptivity
 echinuliform
 effierce
