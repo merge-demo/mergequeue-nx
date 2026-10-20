@@ -2740,7 +2740,7 @@ fedity
 fascis
 foliolate 1
 fiercer
-fragmentarily
+fragmentarily 1
 fellinic
 fesses
 flaunche
