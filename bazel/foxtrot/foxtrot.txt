@@ -5776,7 +5776,7 @@ fpsps
 fictile
 flutteration
 farmage 1
-furyl
+furyl 1
 fulfilling
 flurriedly
 faailk
