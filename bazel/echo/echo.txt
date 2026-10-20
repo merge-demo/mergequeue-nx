@@ -7622,7 +7622,7 @@ espinos 1
 euchymous
 epicoelous
 epicondyle
-excysted
+excysted 1
 epicondylian
 exspuition
 engraulidae
