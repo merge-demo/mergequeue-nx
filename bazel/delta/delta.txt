@@ -15590,7 +15590,7 @@ deconcatenate
 drying
 determinedly
 dool
-duumviri
+duumviri 1
 deviable
 doolfu
 dooly
