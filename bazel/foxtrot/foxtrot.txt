@@ -7588,7 +7588,7 @@ flightworthy
 fatuity
 footslogs 1
 forestaller
-flacherie
+flacherie 1
 forjudgment
 fatimid
 foredoomer
