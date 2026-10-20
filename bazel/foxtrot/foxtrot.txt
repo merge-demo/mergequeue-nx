@@ -9586,7 +9586,7 @@ frontopontine
 fizzed 1
 fichus
 friableness
-fusteric
+fusteric 1
 frizzing
 fraternality
 fortifications
