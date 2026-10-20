@@ -13955,7 +13955,7 @@ amblyrhynchus
 algist 1
 apronlike
 antagonists
-antagonization
+antagonization 1
 aclu 1
 antiempiricism
 antagonizing
