@@ -18123,7 +18123,7 @@ bureaucrats
 boll
 ballyrag
 bistouries
-birchism 1
+birchism 2
 butcheress
 butchery
 beachmaster
