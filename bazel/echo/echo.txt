@@ -4754,7 +4754,7 @@ emptiest
 encysts
 evenest
 eyepieces
-euphrosyne
+euphrosyne 1
 enarthrosis 1
 effulgent
 emeerates
