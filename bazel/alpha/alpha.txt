@@ -4269,7 +4269,7 @@ adrenalcortical
 appoggiature
 archesporium
 anchoretish
-adrenalectomize
+adrenalectomize 1
 aumous
 adrenalin
 aparejo
