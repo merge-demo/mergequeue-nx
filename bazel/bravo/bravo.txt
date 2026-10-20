@@ -2330,7 +2330,7 @@ bloodworm
 bhutani
 barbituism
 barbituric
-bluetick
+bluetick 1
 barbiturism
 barreler
 benzoperoxide
