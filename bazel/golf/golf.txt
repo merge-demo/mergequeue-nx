@@ -4432,7 +4432,7 @@ griffinage
 gynodioecious
 gophers 1
 giglet
-goosishness
+goosishness 1
 gascoyne
 gynogenesis
 glidingly
