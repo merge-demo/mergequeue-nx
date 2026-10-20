@@ -15096,7 +15096,7 @@ clanger
 conducta
 chlorophyceous
 conidia
-clade
+clade 1
 cornucopia
 casabas
 cladocarpous
