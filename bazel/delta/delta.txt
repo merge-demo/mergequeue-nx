@@ -18091,7 +18091,7 @@ dumbest
 draftage
 dumbfounderment
 dumbfounding
-denatures
+denatures 1
 discourageable
 despisers
 dumby
