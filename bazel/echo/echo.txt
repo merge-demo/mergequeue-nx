@@ -1309,7 +1309,7 @@ exhilarated
 exumbrellar
 effect 1
 endocardiac
-exopeptidase
+exopeptidase 1
 effective
 euryphagous
 epimachinae
