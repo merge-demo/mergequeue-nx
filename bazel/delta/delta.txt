@@ -2061,7 +2061,7 @@ dessiatine
 disagreeability
 dreidls
 delictum
-dermatotomy
+dermatotomy 1
 daikered
 devotion
 dimedon
