@@ -17735,7 +17735,7 @@ coconuts
 cocoon
 cocooneries
 crockard
-charterable
+charterable 1
 crimeless
 creagh
 caved
