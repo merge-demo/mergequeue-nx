@@ -18607,7 +18607,7 @@ agropyron
 automats
 alethiology
 antisepsis
-acarophilous
+acarophilous 1
 acini
 archaeographical
 asterisking
