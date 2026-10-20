@@ -1763,7 +1763,7 @@ coyer
 calumniators
 calumnious
 calumniously
-canephor
+canephor 1
 calusa
 calutron
 comporting
