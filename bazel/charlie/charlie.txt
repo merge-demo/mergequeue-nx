@@ -3029,7 +3029,7 @@ crystallographic
 cantoris
 cantors
 cerebrational
-centauri
+centauri 1
 confronts
 cantraip
 cantraps
