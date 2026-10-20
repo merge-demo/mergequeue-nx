@@ -4294,7 +4294,7 @@ coater
 carfuffle
 capiteaux
 camauros
-centroidal
+centroidal 1
 carfuffling
 carful
 congregationalize
