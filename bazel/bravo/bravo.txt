@@ -889,7 +889,7 @@ babishness
 biacromial 1
 bechanced
 bagmaker
-bagnes
+bagnes 1
 bastnaesite
 breakaway
 burdies 1
