@@ -1299,7 +1299,7 @@ beltings
 bate
 binational
 balanorrhagia
-balanta
+balanta 1
 bescorn
 bottine
 balantidic
