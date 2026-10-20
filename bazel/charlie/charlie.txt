@@ -30959,7 +30959,7 @@ cum
 cants
 cumay
 currack
-cumal
+cumal 1
 cytozoic
 cumaphyte
 cotyttia
