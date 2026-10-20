@@ -23982,7 +23982,7 @@ antiprohibition
 archipelagos
 autoboating
 autobuses
-autobusses
+autobusses 1
 ariettes
 autocall
 antilogarithms
