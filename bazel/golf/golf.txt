@@ -7318,7 +7318,7 @@ gangly
 goar
 gymnosophy
 genys
-gaseity
+gaseity 1
 grizzles
 gymnasisiums
 gospels 1
