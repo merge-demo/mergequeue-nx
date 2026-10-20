@@ -9040,7 +9040,7 @@ dicrotal
 dicrotous
 dicruridae 1
 delia
-dehort
+dehort 1
 disillusioniser
 dictaen
 diplomatist
