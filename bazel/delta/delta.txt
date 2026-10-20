@@ -9042,7 +9042,7 @@ dicruridae 1
 delia
 dehort
 disillusioniser
-dictaen
+dictaen 1
 diplomatist
 dictamina
 dernier
