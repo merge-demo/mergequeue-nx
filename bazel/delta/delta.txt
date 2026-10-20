@@ -12896,7 +12896,7 @@ dismortgaging
 divisionism 1
 drawls
 dryope
-disnaturalization
+disnaturalization 1
 deviator
 dermaptera
 disnew
