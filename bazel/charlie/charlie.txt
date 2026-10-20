@@ -9274,7 +9274,7 @@ cocceianism
 chatterboxes
 chattered
 chincapin 1
-chatterers
+chatterers 1
 circuitously
 cassidoine 1
 chattererz
