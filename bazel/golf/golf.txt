@@ -4982,7 +4982,7 @@ goodwilled 1
 gigantic
 grafters 2
 goldhead
-genealogists
+genealogists 1
 goofballs 1
 growled
 guilty

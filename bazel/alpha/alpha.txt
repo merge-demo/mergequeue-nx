@@ -10348,7 +10348,7 @@ athetized
 ataxic 1
 aristocratically
 alkalic
-amerces
+amerces 1
 amerciable
 amerciament
 agao
