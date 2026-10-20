@@ -10491,7 +10491,7 @@ disordeine
 diphthonging
 diphthongisation
 deisticalness
-dozent
+dozent 1
 dalar
 daglock
 disembodies
