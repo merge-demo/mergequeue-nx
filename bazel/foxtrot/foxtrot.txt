@@ -2365,7 +2365,7 @@ feres
 floatstone
 flytings
 fegs
-frolicky
+frolicky 1
 favoritism 1
 ferforth
 frapped
