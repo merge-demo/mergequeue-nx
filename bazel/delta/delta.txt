@@ -8033,7 +8033,7 @@ dietician
 duomi
 dispersion
 dumbhead
-dhal
+dhal 1
 dimension
 dorsointestinal
 dhamnoo
