@@ -13584,7 +13584,7 @@ anthems
 annullate
 autophagy
 annuller
-apprizes
+apprizes 1
 aquafortis
 annulment
 annuloid
