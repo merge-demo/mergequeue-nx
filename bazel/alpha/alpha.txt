@@ -20999,7 +20999,7 @@ arthropterous
 ascescency
 ascescent
 asceses
-ascetic
+ascetic 1
 appendent 1
 asceticism
 ascetta
