@@ -4157,7 +4157,7 @@ dishonourable
 divagate
 disherit
 delisk
-delists
+delists 1
 delit
 demonstratorship
 dob
