@@ -2503,7 +2503,7 @@ electroing
 electrokinetic
 eluviate
 ecosphere
-epicanthic
+epicanthic 1
 exterminative
 electrokinetics
 elasticum
