@@ -12554,7 +12554,7 @@ droitural
 doping
 dropsically
 depend
-defies
+defies 1
 divertible
 disingenuousness
 dicaryophase
