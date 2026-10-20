@@ -10446,7 +10446,7 @@ equalities
 etiolated
 etiology 1
 europeanism
-enlacing
+enlacing 1
 etiologist
 entocoelic
 emetology
