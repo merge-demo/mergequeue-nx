@@ -3892,7 +3892,7 @@ fig
 flowerlet
 forfit
 flabbergastingly
-flashlamps
+flashlamps 1
 finaglers
 finalization
 futile
