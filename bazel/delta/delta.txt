@@ -17713,7 +17713,7 @@ demipauldron
 discriminable
 durables 1
 dedifferentiation
-decanonization
+decanonization 1
 dubbins
 dicarbonate
 dubiety
