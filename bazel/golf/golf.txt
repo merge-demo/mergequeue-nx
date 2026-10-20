@@ -8175,7 +8175,7 @@ grapeless
 gumlah
 guillem
 geloscopy
-geotaxy 1
+geotaxy 2
 groomsmen
 grapeflower
 grapefruit
