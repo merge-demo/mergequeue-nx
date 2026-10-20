@@ -12333,7 +12333,7 @@ corticopeduncular
 chromaphore
 chromas
 coffeeweed
-cenote
+cenote 1
 chromate
 conjunction
 chromates
