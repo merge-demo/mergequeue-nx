@@ -17939,7 +17939,7 @@ dys
 duftite
 disamenity
 deve
-durras
+durras 1
 dugento
 devouress
 dactylous
