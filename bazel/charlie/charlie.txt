@@ -7832,7 +7832,7 @@ cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
-cervicolabial
+cervicolabial 1
 cooeyed
 croh
 cervicomuscular
