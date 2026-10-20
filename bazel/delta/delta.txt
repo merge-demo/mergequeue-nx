@@ -12792,7 +12792,7 @@ derepression
 dysluite
 delicto 1
 dislustered
-delectate
+delectate 1
 drollish
 desertions
 decafid
