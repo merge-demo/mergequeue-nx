@@ -10397,7 +10397,7 @@ eruct
 edmond
 embrase
 exhance
-earwigging
+earwigging 1
 epiphanize
 electropositive
 enfranchisable
