@@ -19806,7 +19806,7 @@ cuchan
 catacumbal
 cassareep
 comely
-coursings
+coursings 1
 comelier
 comeling
 comendite
