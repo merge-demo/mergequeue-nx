@@ -3494,7 +3494,7 @@ emblazonments
 elastic 1
 etherialising
 escandalize
-expansible
+expansible 1
 euchologies
 epirotic
 evergreenery
