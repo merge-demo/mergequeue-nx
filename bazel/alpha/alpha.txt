@@ -5770,7 +5770,7 @@ aciculate
 atoning 1
 autocoder
 adawn 1
-awl 1
+awl 2
 agaricaceous
 agaricoid
 agarics
