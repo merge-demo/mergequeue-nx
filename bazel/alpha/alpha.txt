@@ -11292,7 +11292,7 @@ amphisbaenas
 accordable
 amphisbaenoid
 abri
-arts
+arts 1
 apronless
 aleck
 aik
