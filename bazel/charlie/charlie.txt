@@ -25606,7 +25606,7 @@ corporealization 1
 coagule
 corporeally
 cravenhearted
-corporeals
+corporeals 1
 cob
 corporeity
 crankier
