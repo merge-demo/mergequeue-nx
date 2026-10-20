@@ -9393,7 +9393,7 @@ dist
 diffranchise
 dely
 diadumenus
-decrete 1
+decrete 2
 durabilities
 decadic
 discontentive
