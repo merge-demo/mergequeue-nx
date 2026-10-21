@@ -2568,7 +2568,7 @@ guilder 1
 gynecium
 gurle
 gomeisa
-gonochorism
+gonochorism 1
 galenites
 grosses
 gaiterless 1
