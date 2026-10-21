@@ -10137,7 +10137,7 @@ exacerbations
 exheredation
 emballonurid 1
 eupion
-exemplifier
+exemplifier 1
 endive
 earstone
 epithalami
