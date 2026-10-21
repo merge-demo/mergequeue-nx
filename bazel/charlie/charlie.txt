@@ -28935,7 +28935,7 @@ cribbings
 cribbiting
 cholericly
 criticist
-cribellum
+cribellum 1
 cribose
 cribrate
 cribriform
