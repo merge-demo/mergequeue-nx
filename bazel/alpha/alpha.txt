@@ -13026,7 +13026,7 @@ anhelation
 anhelose
 anhemitonic
 aborting
-amulla
+amulla 1
 anhyd
 allodially
 anhydraemia
