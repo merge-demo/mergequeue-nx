@@ -867,7 +867,7 @@ absentees
 absenters
 antisensuousness
 aflatus
-amurcosity
+amurcosity 1
 absentminded
 aerobics
 absentness
