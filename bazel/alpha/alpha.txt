@@ -14610,7 +14610,7 @@ anthropurgic
 anthroxanic
 arrogative
 antipolemist
-amenorrhoeic
+amenorrhoeic 1
 anththeridia
 andragogy
 achar
