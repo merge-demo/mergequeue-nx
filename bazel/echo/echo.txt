@@ -13119,7 +13119,7 @@ excruciation
 engages
 esophagorrhagia
 eulogize
-enslaver
+enslaver 1
 etymologists
 exhalation
 encroaches
