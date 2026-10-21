@@ -7922,7 +7922,7 @@ graphitoidal
 granary
 greases
 glecoma
-gorst
+gorst 1
 gaberloonie
 gliriform
 gooseberries
