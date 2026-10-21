@@ -4709,7 +4709,7 @@ gynomonecious
 gise
 granges
 gooder 1
-gibbsite
+gibbsite 1
 gauping
 geisothermal
 glycerate
