@@ -26254,7 +26254,7 @@ cedron
 confectionery
 coindication
 costectomy
-costectomies
+costectomies 1
 costed
 coinmaker
 consultatory
