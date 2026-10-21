@@ -9779,7 +9779,7 @@ dilettanti
 decriminalizing
 dilettantism
 diligence
-diligences
+diligences 1
 diligent
 dilis
 dillenia
