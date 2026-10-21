@@ -17870,7 +17870,7 @@ andamento
 apiculus
 amblers
 acquired
-apprehending
+apprehending 1
 antonomasy
 algraphy 1
 awan
