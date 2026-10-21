@@ -7573,7 +7573,7 @@ alcalde
 anthropocentricity
 alcaldes
 alcaldeship
-aristoi
+aristoi 1
 affectingly
 alcaldia
 altaite
