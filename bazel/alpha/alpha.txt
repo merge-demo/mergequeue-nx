@@ -21870,7 +21870,7 @@ assyriological
 amowt
 aspergilla
 astrobiology
-assyroid
+assyroid 1
 agly
 abutted
 assish
