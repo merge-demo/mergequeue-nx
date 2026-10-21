@@ -13583,7 +13583,7 @@ barite
 boulangism
 bouldered
 bevatrons
-byssi
+byssi 1
 boulderhead
 bandanna
 bilskirnir
