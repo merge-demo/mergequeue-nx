@@ -9031,7 +9031,7 @@ komnno
 komnrz
 komocb
 komon
-komotv
+komotv 1
 kompnralyr
 komqa
 komr
