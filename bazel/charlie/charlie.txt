@@ -21561,7 +21561,7 @@ calyceraceous
 coercer
 cofinal 1
 concurring
-concurs
+concurs 1
 christologist
 concursion
 copesmate
