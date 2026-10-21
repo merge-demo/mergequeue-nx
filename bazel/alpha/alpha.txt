@@ -1055,7 +1055,7 @@ abulia
 atticizing
 acustom
 axhammered
-averager
+averager 1
 accolent
 apt
 aggression
