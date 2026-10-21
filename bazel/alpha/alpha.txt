@@ -20505,7 +20505,7 @@ arteriomalacia
 autoagglutinin
 ascertainment
 actinobacilli 1
-actuaryship
+actuaryship 1
 accomplishment
 autotoxemia
 aerophilatelic
