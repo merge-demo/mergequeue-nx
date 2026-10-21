@@ -10004,7 +10004,7 @@ dimorph
 dimorphism
 dukker
 dissatisfactorily
-dally
+dally 1
 disparted
 desophisticate
 deforests
