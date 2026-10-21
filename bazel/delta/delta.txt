@@ -3856,7 +3856,7 @@ diviningly
 deciduous
 dicellate 1
 deionizations
-dichroiscope
+dichroiscope 1
 diatropic
 dyspnoea
 deionize
