@@ -4282,7 +4282,7 @@ fingerling 1
 footrill
 freudism
 fatiguability
-fulsomely
+fulsomely 1
 ferdwit
 foreshortens
 foiblesse
