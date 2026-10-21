@@ -10423,7 +10423,7 @@ folks
 foraminifera
 flodge
 fumous
-fetterer
+fetterer 1
 forfex
 feetage
 finnesko
