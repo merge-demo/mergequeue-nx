@@ -2293,7 +2293,7 @@ avgasses
 almagest
 allogamous
 axminster
-aurigid
+aurigid 1
 adustiosis
 adjournments
 azerbaijanese
