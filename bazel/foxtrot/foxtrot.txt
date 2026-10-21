@@ -4605,7 +4605,7 @@ fistula 1
 fistulina 1
 forbbore
 fighter
-footnoting
+footnoting 1
 fistwise
 fit
 fontally
