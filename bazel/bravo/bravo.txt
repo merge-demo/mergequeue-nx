@@ -264,7 +264,7 @@ buckwasher 1
 beroe
 bacilli
 bothros
-bacillian
+bacillian 1
 bacillicidal
 bacillicidic
 bacilliform
