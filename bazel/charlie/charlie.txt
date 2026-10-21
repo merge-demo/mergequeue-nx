@@ -31275,7 +31275,7 @@ curatrices
 carabid
 coagula
 curatrix
-curb
+curb 1
 citronellal
 calycanthine
 curbable
