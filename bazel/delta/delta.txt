@@ -12684,7 +12684,7 @@ dentalize
 demiheavenly
 dogger
 desexualize
-diviners
+diviners 1
 diacids
 duane
 derogations
