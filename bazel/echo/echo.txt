@@ -6506,7 +6506,7 @@ enswathement
 elementariness
 embowered
 evidently
-ephelis
+ephelis 1
 envisaging
 epistropheal
 erythrochroism
