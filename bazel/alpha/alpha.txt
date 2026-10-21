@@ -23595,7 +23595,7 @@ amply
 adventuring
 andaqui
 antignostic
-arcsin
+arcsin 1
 altimetry
 aunthood
 arawakan
