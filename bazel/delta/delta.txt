@@ -1924,7 +1924,7 @@ dacryd
 dinophilus
 deferments
 desire
-decennal
+decennal 1
 durocs
 dawsonite
 deaccession
