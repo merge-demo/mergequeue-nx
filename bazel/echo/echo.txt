@@ -3903,7 +3903,7 @@ entomotomy
 electrotonus
 extraboldface 1
 eminencies
-evendown
+evendown 1
 exterminating
 eminent
 easternized
