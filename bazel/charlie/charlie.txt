@@ -4220,7 +4220,7 @@ coloboma
 carabideous 1
 cardsharp
 chlorites
-cavaliered
+cavaliered 1
 chinatown
 care
 citeable
