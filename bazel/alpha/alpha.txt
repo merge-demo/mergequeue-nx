@@ -3563,7 +3563,7 @@ autodidacts
 aranea
 afaced
 adead
-amniac
+amniac 1
 anthropologically
 asitia
 adeemed
