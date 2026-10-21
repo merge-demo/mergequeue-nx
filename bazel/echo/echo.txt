@@ -13297,7 +13297,7 @@ effie
 exploiting
 exploiture
 entozoological
-exploratively
+exploratively 1
 ectrogeny
 eupterotidae
 egency
