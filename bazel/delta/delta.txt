@@ -9191,7 +9191,7 @@ devilman
 ditriglyph
 dieb 1
 dusterman
-delaine
+delaine 1
 diebacks 1
 donk
 dehydrogenation
