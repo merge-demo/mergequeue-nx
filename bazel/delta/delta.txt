@@ -6727,7 +6727,7 @@ diptycas
 desidiose
 duckmole
 designable
-doughfoot
+doughfoot 1
 dhutis
 dissolutions
 designates 1
