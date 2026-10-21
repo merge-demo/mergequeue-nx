@@ -10040,7 +10040,7 @@ extradural
 eternish
 elod 1
 editresses
-energetical
+energetical 1
 epitaphial
 esculetin
 evolutions
