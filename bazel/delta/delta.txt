@@ -15035,7 +15035,7 @@ durnedest
 decided
 deformer
 doggerelling
-deposals
+deposals 1
 disbutton
 decnet
 drysalteries
