@@ -10755,7 +10755,7 @@ extrasystolic
 elderbush
 euphonic
 enid
-ephemerae
+ephemerae 1
 enclaret 1
 endorsee
 extort
