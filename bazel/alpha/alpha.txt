@@ -11528,7 +11528,7 @@ anabases
 archaeopteryx
 ageists
 alfakis
-anabasine
+anabasine 1
 anabasse
 atwo
 alunites
