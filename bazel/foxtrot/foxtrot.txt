@@ -10173,7 +10173,7 @@ friulian 1
 fibroadenia
 frizzy
 fizzwater
-foresightedly
+foresightedly 1
 fastings
 fleishig
 formalism
