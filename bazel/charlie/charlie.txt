@@ -23814,7 +23814,7 @@ contredanses
 contreface
 coryphees
 contrefort
-contrepartie
+contrepartie 1
 catalyzed
 charpoy
 chewink
