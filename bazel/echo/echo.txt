@@ -4493,7 +4493,7 @@ erth
 enceinte
 entozoology
 entozoal
-endolabyrinthitis
+endolabyrinthitis 1
 encephalomyelopathy
 encenter
 ensilage 1
