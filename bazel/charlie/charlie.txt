@@ -24560,7 +24560,7 @@ copes
 chelidon
 cantate
 cophosis
-copia
+copia 1
 clapped
 copiapite
 copyboy
