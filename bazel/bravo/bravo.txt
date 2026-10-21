@@ -15480,7 +15480,7 @@ barbitalism
 bromo
 beignet
 bihai
-bans
+bans 1
 bondless
 bolshevistically
 brindlish
