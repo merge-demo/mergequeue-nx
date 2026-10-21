@@ -10552,7 +10552,7 @@ diceratidae
 diazotate
 deipotent
 dimpling
-demiking
+demiking 1
 dauw
 diplocardiac
 diplocarpon
