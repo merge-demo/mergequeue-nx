@@ -12302,7 +12302,7 @@ bootee
 bungfull
 bacteriophagic
 bathycurrent 1
-bullwhacker
+bullwhacker 1
 betrayer
 bombardments
 bombline
