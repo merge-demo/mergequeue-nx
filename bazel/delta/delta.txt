@@ -2990,7 +2990,7 @@ deduplication
 despoliations
 deecodder
 demobilise
-deedfully
+deedfully 1
 decannulation
 dyadically
 democratist
