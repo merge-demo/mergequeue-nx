@@ -24422,7 +24422,7 @@ argenter
 ampullated
 alimentum
 autosporic
-autostarter
+autostarter 1
 airmanship
 autostylism
 autostradas
