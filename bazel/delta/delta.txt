@@ -13023,7 +13023,7 @@ dopiness
 disparity
 disruptability
 dithecous
-dispeed
+dispeed 1
 dispark
 declarer
 discommoning
