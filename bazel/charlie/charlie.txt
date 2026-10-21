@@ -28846,7 +28846,7 @@ cretefaction
 callisection
 creticism
 coturnix
-cretics
+cretics 1
 cinematographically
 cretify
 cavalla
