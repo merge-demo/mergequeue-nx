@@ -6117,7 +6117,7 @@ defalcate
 duplexs 1
 december
 derays
-deranges
+deranges 1
 dualin
 detrimental
 dropout
