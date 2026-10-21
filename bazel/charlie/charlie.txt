@@ -22196,7 +22196,7 @@ connusable
 characterizer
 campanularian
 choicer
-cloxacillin
+cloxacillin 1
 collarman
 clunker
 congeed
