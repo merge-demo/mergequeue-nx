@@ -25701,7 +25701,7 @@ convertibly
 cytolysis
 correllations
 corrente
-centigrado
+centigrado 1
 crumblingness
 cleanhandedness
 cistophoric
