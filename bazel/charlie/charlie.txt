@@ -26327,7 +26327,7 @@ costraight
 cloudberries
 chasteness
 choleromania
-costs
+costs 1
 caddices
 chevrone
 costumed
