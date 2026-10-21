@@ -6949,7 +6949,7 @@ desperado
 darky
 dioptre
 digits 1
-desperados
+desperados 1
 dorsointercostal
 dichasial
 didgeridoo
