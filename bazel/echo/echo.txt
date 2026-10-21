@@ -4971,7 +4971,7 @@ endamaging
 estreated
 ericeticolous
 exilable
-emulsifiable
+emulsifiable 1
 embole
 endowed
 expertly
