@@ -2290,7 +2290,7 @@ enchantments
 exormia
 enbloc 1
 endolymph
-excretal
+excretal 1
 eger
 encased
 egest
