@@ -5844,7 +5844,7 @@ agelessness
 aphicidal
 adradial
 agen
-asperness
+asperness 1
 achiote
 acculturizing
 archfelon
