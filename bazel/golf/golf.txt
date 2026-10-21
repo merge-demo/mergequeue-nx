@@ -1015,7 +1015,7 @@ gynobase
 ghassanid
 gilse
 gurnetty
-granitizing
+granitizing 1
 gnomons
 geophilous
 gymnure
