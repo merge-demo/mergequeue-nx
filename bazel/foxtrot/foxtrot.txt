@@ -10069,7 +10069,7 @@ fellowed
 friskin
 friskiness
 frisking
-frisch
+frisch 1
 friskingly
 frisks
 frondiform
