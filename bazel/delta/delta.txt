@@ -15382,7 +15382,7 @@ deipara
 dorical
 demoralisation
 digestif
-domiciled
+domiciled 1
 dissipator
 dearn 1
 dragginess
