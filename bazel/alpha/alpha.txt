@@ -12909,7 +12909,7 @@ awkward
 acinetaria
 anglophilic
 autotype
-adenine
+adenine 1
 anglophobia
 abattoirs
 apyrase
