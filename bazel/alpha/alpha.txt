@@ -12419,7 +12419,7 @@ arillode
 androgyne
 androgynia
 androgynies
-angiostomy
+angiostomy 1
 androgone
 andrographis
 acrotomous
