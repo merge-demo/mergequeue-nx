@@ -8094,7 +8094,7 @@ dhritarashtra
 disables
 disembowelled
 drawable
-dhurra
+dhurra 1
 detrimentalness
 definienda
 di
