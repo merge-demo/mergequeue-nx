@@ -12574,7 +12574,7 @@ anepigraphous
 algae
 amorists
 anepithymia
-awnlike
+awnlike 1
 ardennite
 antidoron
 appenditious
