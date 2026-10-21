@@ -8286,7 +8286,7 @@ ectoplasmic
 ellagate
 exemplification
 epitaxies
-epitaxis
+epitaxis 1
 ebonizes
 epidemicity
 epigrammatized
