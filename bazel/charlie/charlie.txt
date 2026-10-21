@@ -1166,7 +1166,7 @@ calculably
 cosing
 confabular
 calculatedly
-contango
+contango 1
 calculatedness
 chromophilic
 calculates
