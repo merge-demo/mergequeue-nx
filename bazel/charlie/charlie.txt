@@ -27877,7 +27877,7 @@ crabeating
 canchas
 craber
 crablet
-crablike
+crablike 1
 chromidial
 crabman
 crabs 1
