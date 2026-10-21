@@ -13245,7 +13245,7 @@ edacity
 endocranium
 ephebeum
 envisioned
-explicably 1
+explicably 2
 explosionist
 expensive
 explicanda
