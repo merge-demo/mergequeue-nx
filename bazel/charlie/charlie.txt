@@ -20474,7 +20474,7 @@ compartmentalization
 celliferous
 chappaul
 chrysenic
-compartmented
+compartmented 1
 centenionalis 1
 corundum
 composition
