@@ -14080,7 +14080,7 @@ etymography
 extremeness
 extremis
 effeminate
-extraterritorials
+extraterritorials 1
 ethnologist
 esteem
 evolutionistically
