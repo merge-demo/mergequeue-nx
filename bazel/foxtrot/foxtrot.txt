@@ -1532,7 +1532,7 @@ foodless
 fanfaron
 foulish
 foreshift
-foetuses
+foetuses 1
 fauterer
 fauteuil
 fussy
