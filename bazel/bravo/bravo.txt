@@ -11022,7 +11022,7 @@ bottleholder
 blk
 birri
 bhoosa
-bakwiri
+bakwiri 1
 bromin
 buckshot
 blo
