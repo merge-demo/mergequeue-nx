@@ -1596,7 +1596,7 @@ conductimetric
 calloused
 callouses
 contraprogressist
-chronostichon
+chronostichon 1
 cyanidine
 castor
 callousness
