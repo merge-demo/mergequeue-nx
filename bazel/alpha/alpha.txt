@@ -11216,7 +11216,7 @@ amphophile 1
 amphidiarthrosis
 aryans
 amphidisc
-acridan
+acridan 1
 auroral
 acanthoid 1
 aircoaches
