@@ -5873,7 +5873,7 @@ deoxidised
 desensitization
 deota
 degradingness
-dregless
+dregless 1
 dirk
 depreciable
 dysspermatism
