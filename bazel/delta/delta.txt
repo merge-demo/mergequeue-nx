@@ -8628,7 +8628,7 @@ dialyses
 diary
 diaglyph
 disimprove
-diarist
+diarist 1
 dibbuk
 denatured
 diarrhea
