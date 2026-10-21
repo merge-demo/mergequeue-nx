@@ -8902,7 +8902,7 @@ ghostfish
 grizzle
 gressorial
 grieving 1
-glauconitic
+glauconitic 1
 ghostified 1
 griquaite
 glomerella
