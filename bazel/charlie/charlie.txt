@@ -10351,7 +10351,7 @@ chicqued
 chicquer
 chicquest
 cooperite 1
-chicquing
+chicquing 1
 colly
 cystinuria
 chics
