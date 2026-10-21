@@ -6768,7 +6768,7 @@ boteler 1
 bumpier
 busulfan
 busying
-berrichonne
+berrichonne 1
 bosquet
 berrier
 berries
