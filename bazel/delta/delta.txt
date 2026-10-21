@@ -6932,7 +6932,7 @@ delphinid
 deaconize
 despairing
 desparple
-disturber
+disturber 1
 downsinking
 decadation
 despatches
