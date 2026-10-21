@@ -8321,7 +8321,7 @@ duskly
 diapausing
 dyakish
 dg
-dialcohol 1
+dialcohol 2
 dialect
 doomsman
 decolourized
