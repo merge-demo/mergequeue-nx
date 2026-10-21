@@ -5633,7 +5633,7 @@ catamites
 chickenhearted
 catamiting
 cordaitean
-catamount
+catamount 1
 catapasm
 caducity
 comprizable
