@@ -24323,7 +24323,7 @@ cooker
 cookeries
 cookhouse
 currawang
-cookhouses
+cookhouses 1
 cooky
 cookie
 cookishly
