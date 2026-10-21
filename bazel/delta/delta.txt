@@ -634,7 +634,7 @@ dacryopyosis
 declassed
 damnedest
 derbukka
-dioptoscopy
+dioptoscopy 1
 decoyman
 dextroversion
 dinoflagellata
