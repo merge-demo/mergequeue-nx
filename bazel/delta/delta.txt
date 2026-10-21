@@ -14955,7 +14955,7 @@ dodonaeaceae
 duali
 decoloriser
 dermatoid
-disarmer
+disarmer 1
 displodes
 dialoger
 defrauders
