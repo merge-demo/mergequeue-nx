@@ -18059,7 +18059,7 @@ ambidexter
 abatises
 adsorptive
 alcoholics
-aeonic
+aeonic 1
 adlet
 arrenotokous 1
 areolate
