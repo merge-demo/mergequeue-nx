@@ -17892,7 +17892,7 @@ bourse
 bookman
 beauship
 bivium
-boundable
+boundable 1
 bushelers
 bescurvy
 bushelfuls
