@@ -1297,7 +1297,7 @@ fatalists
 fop
 fleeced
 former
-foxtails
+foxtails 1
 fructivorous
 fatbird
 fatefully
