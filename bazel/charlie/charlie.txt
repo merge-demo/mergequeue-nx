@@ -15637,7 +15637,7 @@ cappadochio
 cyanoacetic
 claughts
 confisticating
-claus
+claus 1
 catholically
 clausal
 clause
