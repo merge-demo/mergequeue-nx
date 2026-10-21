@@ -1410,7 +1410,7 @@ bombastically
 boun
 balestra
 batoneer
-bouffants
+bouffants 1
 bops
 bedazzled
 bureaucratical
