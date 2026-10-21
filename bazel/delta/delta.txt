@@ -12513,7 +12513,7 @@ discorporate
 disincarceration
 delphinoid
 disincarnate
-dudes
+dudes 1
 defiled
 disinclination
 disinclined 1
