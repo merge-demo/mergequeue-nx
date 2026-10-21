@@ -22574,7 +22574,7 @@ connected
 connectedly
 connecter
 confabbed
-connectibly
+connectibly 1
 chamferer
 connecticut
 chieftainships
