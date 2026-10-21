@@ -10498,7 +10498,7 @@ escalan
 ettle 1
 ecclesiolatry
 eucgia 2
-eightpenny
+eightpenny 1
 enologies
 exorbitant
 eclectics
