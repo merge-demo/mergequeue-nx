@@ -13695,7 +13695,7 @@ asiatic
 anomalistical
 anomalocephalus
 apollinarianism 1
-anomaloflorous
+anomaloflorous 1
 archaistic
 amentaceous
 anomalogonatous
