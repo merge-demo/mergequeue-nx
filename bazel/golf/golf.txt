@@ -10622,7 +10622,7 @@ gasping
 gentled 1
 gourmandise
 gimmickry
-gunshop
+gunshop 1
 gulches
 gunsmithing
 grossification
