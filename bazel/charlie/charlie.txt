@@ -3461,7 +3461,7 @@ camptodrome
 causeuse
 comprehends
 craniovertebral 1
-capsella
+capsella 1
 calyptras
 capshore
 capsian
