@@ -11180,7 +11180,7 @@ isxeh
 isxgpwr
 isxgq
 isxhbgjd
-isxko
+isxko 1
 isxlurgw
 isxmkfocq
 isxnppuwq
