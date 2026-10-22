@@ -1682,7 +1682,7 @@ gastroduodenitis 1
 guadua
 gastroduodenostomy 1
 gastritis
-ganodont
+ganodont 1
 gottfried
 gamed
 gommier
