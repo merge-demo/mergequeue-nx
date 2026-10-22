@@ -12382,7 +12382,7 @@ dishcloth
 dishcloths
 disparkle
 dupable 1
-dishclout
+dishclout 1
 disassembly
 disheartenedly
 doubles
