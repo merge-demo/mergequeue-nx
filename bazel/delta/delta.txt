@@ -16987,7 +16987,7 @@ doorcheek
 demipillar
 dendrocoela
 disjoined
-diacritically
+diacritically 1
 displenish
 dregs 1
 defrication
