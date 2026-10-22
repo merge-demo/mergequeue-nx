@@ -1485,7 +1485,7 @@ fungillus
 faucre
 faultiest
 fishmeal
-fairgoer
+fairgoer 1
 fila
 flutings 1
 furibund
