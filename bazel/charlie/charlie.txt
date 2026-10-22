@@ -1734,7 +1734,7 @@ contrafocal 1
 caltrop
 coenosite
 caltrops
-cornification
+cornification 1
 conceptualised
 cortes
 copperah
