@@ -10400,7 +10400,7 @@ generalisable
 graciousness
 glyptological 1
 greenstuff
-gyracanthus
+gyracanthus 1
 gourdhead
 gambreled
 granitelike
