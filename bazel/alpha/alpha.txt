@@ -22638,7 +22638,7 @@ antisyndicalism
 antiseptics
 anticipating
 atheisticness
-allow
+allow 1
 abraham
 atheize
 atheizer 1
