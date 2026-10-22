@@ -6459,7 +6459,7 @@ deodara
 digitization 1
 dragomanic
 desalinated
-diaereses
+diaereses 1
 deafeningly
 dodecanoic 1
 desalinator
