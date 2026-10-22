@@ -1916,7 +1916,7 @@ declassicize
 dissenterism
 dances
 debriefings
-debris
+debris 1
 debrominate
 diandrian 1
 disapprobations
