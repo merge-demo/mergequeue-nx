@@ -11831,7 +11831,7 @@ defiler 1
 discruciate 1
 dived
 dislimning
-damascenine
+damascenine 1
 devonport
 detoxicate
 doylies
