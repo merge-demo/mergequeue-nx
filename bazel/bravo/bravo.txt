@@ -2325,7 +2325,7 @@ briber
 barbita
 barbital
 brighteners
-barbiton
+barbiton 1
 bloodworm
 bhutani
 barbituism
