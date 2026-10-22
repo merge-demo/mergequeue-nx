@@ -22383,7 +22383,7 @@ conicle
 chessman
 conidae
 champlainic
-conidioid 1
+conidioid 2
 conidiophorous
 conidiospore
 copy
