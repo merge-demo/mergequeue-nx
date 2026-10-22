@@ -6070,7 +6070,7 @@ frayn
 floridity
 floriscope 1
 fetterbush
-faba
+faba 1
 funicule
 flavoring
 floristically
