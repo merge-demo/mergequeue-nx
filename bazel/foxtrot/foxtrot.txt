@@ -6071,7 +6071,7 @@ floridity
 floriscope 1
 fetterbush
 faba
-funicule
+funicule 1
 flavoring
 floristically
 feringhee
