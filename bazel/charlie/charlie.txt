@@ -2866,7 +2866,7 @@ canoodles
 counsinhood
 canopy
 canopid
-canalised
+canalised 1
 canopies
 clarigate
 corticated
