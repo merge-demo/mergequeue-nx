@@ -8658,7 +8658,7 @@ excretions
 equinumerally
 equinus 1
 ethrogs 1
-elfishness
+elfishness 1
 equipages
 etherialism
 expositions
