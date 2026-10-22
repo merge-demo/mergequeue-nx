@@ -18541,7 +18541,7 @@ durity
 diphthonged
 dekalitre
 durmast
-dirging
+dirging 1
 durndest
 deraignment
 disharmonizing
