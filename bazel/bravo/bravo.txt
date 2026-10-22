@@ -5092,7 +5092,7 @@ bitubercular
 baselines
 bowellike
 bejuco
-blazoning
+blazoning 1
 befittingness
 behoof
 boundedness
