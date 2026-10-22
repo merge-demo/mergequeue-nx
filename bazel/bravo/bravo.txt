@@ -6662,7 +6662,7 @@ berycomorphi
 bunsenite
 berigora 1
 beryl
-beryllonate
+beryllonate 1
 berimed
 beseemly
 berimes
