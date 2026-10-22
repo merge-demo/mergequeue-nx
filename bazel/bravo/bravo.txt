@@ -7723,7 +7723,7 @@ bullan
 breakover
 brocard
 bhindi
-bowstave
+bowstave 1
 bhishti
 bhistie
 bhisties
