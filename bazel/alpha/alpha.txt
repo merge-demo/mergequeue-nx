@@ -15856,7 +15856,7 @@ animalness
 antipleion
 advocation
 antiplurality
-antipodal
+antipodal 1
 antipode
 antipodic
 autocoprophagous
