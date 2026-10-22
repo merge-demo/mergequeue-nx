@@ -26626,7 +26626,7 @@ counterpanes
 counselable
 coronobasilar
 counseled
-champagned
+champagned 1
 counselee
 counsellable
 curer
