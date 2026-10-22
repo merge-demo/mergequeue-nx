@@ -7887,7 +7887,7 @@ exogonium
 exanthema
 entogastric
 egis
-excitor
+excitor 1
 epihydric
 elaeagnaceae
 eunuchised
