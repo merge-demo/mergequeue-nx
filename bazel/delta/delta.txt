@@ -14453,7 +14453,7 @@ diverticulitis
 diverticulosis
 dacyorrhea
 decarbonizer
-discomforting
+discomforting 1
 divertimenti
 divertimento
 denarcotize
