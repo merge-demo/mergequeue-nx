@@ -8999,7 +8999,7 @@ allotelluric
 allothigenetically
 antimonarchal
 anthropomorphising
-anticivil
+anticivil 1
 amiably
 allothimorph 1
 abalone
