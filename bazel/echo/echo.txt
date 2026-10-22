@@ -12405,7 +12405,7 @@ echinidea
 encephalopathy
 epistyles 1
 enameled
-echeloned
+echeloned 1
 exauguration
 elaphoglossum
 exhibitionist
