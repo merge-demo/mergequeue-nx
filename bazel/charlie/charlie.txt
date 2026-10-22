@@ -14388,7 +14388,7 @@ circumvolve
 circumvolved
 circumzenithal
 circus
-circusy
+circusy 1
 correspondents
 consolableness
 customizable
