@@ -1871,7 +1871,7 @@ gawain
 ghibellinism
 gallonage
 gill 1
-gawkihood
+gawkihood 1
 grecizing
 gossip
 gyrostabilized
