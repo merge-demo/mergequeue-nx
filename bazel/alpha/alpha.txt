@@ -4273,7 +4273,7 @@ adrenalectomize
 aumous
 adrenalin
 aparejo
-adrenalize
+adrenalize 1
 alnoite
 amianth
 archconspirator
