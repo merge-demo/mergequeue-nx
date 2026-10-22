@@ -22867,7 +22867,7 @@ conservativeness
 commoves
 chittering
 choisya
-collapsable
+collapsable 1
 conservatoires
 conservator
 conservatory
