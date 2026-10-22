@@ -10632,7 +10632,7 @@ deuteric
 detritus
 dunnaged
 diplont
-delisting
+delisting 1
 diplonts
 diplophase 1
 difficultness
