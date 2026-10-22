@@ -7463,7 +7463,7 @@ doctoral
 dubhgall 1
 distalia
 detruding
-disulphid
+disulphid 1
 detruncation 1
 damneder
 dodgery
