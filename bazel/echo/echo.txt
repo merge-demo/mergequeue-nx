@@ -8174,7 +8174,7 @@ ecospecies
 emballonurine
 ethmosphenoid
 episcopized
-equanimity
+equanimity 1
 euchromatin
 extemporalness
 expedientist
