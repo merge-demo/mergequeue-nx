@@ -7689,7 +7689,7 @@ antepyretic
 ambigenous
 abelicea
 adaw
-alcoholize
+alcoholize 1
 alcoholmeter
 airmass
 anemogram
