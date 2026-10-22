@@ -1185,7 +1185,7 @@ engrainedly
 egrimony
 entitule
 education
-edulcorating
+edulcorating 1
 enscroll
 ensweep
 educational
