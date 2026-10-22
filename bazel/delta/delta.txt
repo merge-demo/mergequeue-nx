@@ -7444,7 +7444,7 @@ disequilibriums
 densitometry
 disseised
 detrivorous
-dervish
+dervish 1
 damn
 doggereled
 doebird
