@@ -1187,7 +1187,7 @@ gig
 gothic
 gonorrheic
 glabrescent
-grinned
+grinned 1
 gezerah
 guejarite
 gunja
