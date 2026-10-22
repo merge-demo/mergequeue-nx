@@ -7960,7 +7960,7 @@ epimerism
 enterolithiasis
 evangels
 epitomate
-encephalonarcosis
+encephalonarcosis 1
 equisetic 1
 explainingly
 evaniidae
