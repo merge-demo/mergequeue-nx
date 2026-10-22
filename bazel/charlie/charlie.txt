@@ -29217,7 +29217,7 @@ crippied
 cripple
 cogboat
 characid
-crippleness
+crippleness 1
 crippler
 cripples
 creaser 1
