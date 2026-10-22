@@ -1396,7 +1396,7 @@ effigurate
 eubranchipus 1
 efflagitate
 epitympanic
-eugubium
+eugubium 1
 embellishes
 emissions
 encycl
