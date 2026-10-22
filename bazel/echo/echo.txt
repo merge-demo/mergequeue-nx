@@ -365,7 +365,7 @@ ephthianure
 endevil
 embouchement
 excentral
-eyestone
+eyestone 1
 erethistic
 eeler
 enthroned
