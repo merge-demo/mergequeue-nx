@@ -208,7 +208,7 @@ epidermolysis
 erinaceous
 elaphure
 earthshaker
-earthman
+earthman 1
 erythritic
 earthslide
 endosalpingitis
