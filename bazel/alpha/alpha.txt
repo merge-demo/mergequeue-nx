@@ -12248,7 +12248,7 @@ anchormen
 asthmatically
 anchoveta
 anchusa
-aphroditous
+aphroditous 1
 aerogenesis
 archididascalian
 argumentatively
