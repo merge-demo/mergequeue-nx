@@ -11112,7 +11112,7 @@ amper
 amatory
 assientist
 ascots
-analects
+analects 1
 achromatized
 arca
 amperian
