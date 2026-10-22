@@ -980,7 +980,7 @@ gagmen
 ganched
 gonotokont
 goner
-gerodontology
+gerodontology 1
 granddads
 gundi
 gramercy
