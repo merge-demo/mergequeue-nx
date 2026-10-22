@@ -3766,7 +3766,7 @@ edificial
 exceeding
 embruing
 enfranchises
-edulcorate
+edulcorate 1
 enamellist
 elegiacs
 embruting
