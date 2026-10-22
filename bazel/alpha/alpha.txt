@@ -8210,7 +8210,7 @@ amora
 alibied
 ambiverts
 anhemolytic
-autocatalepsy
+autocatalepsy 1
 adermia
 arpeggioed
 anthropogenist 1
