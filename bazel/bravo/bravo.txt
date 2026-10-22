@@ -15684,7 +15684,7 @@ bonbonniere
 bogglebo
 barycentric
 barbering
-battarism
+battarism 1
 brunonia
 broadlooms
 bourrides
