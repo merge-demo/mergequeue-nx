@@ -17384,7 +17384,7 @@ bimorphemic
 bijection
 bunghole 1
 biathlons
-brachistochronic
+brachistochronic 1
 beignets
 bottles
 bejeled
