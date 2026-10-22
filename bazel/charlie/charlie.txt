@@ -30097,7 +30097,7 @@ confecture
 crowding
 crowdle
 chromatrope
-cingulated
+cingulated 1
 crowed
 crower
 crowers
