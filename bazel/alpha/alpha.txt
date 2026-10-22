@@ -14448,7 +14448,7 @@ anthranyl
 afterswarming
 adrue
 anthranilic
-anthranol
+anthranol 1
 atechny
 acuminulate
 anthraquinone
