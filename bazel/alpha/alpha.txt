@@ -16753,7 +16753,7 @@ amianthiform 1
 anteaters
 antiorthodox
 antikamnia
-aphanitic
+aphanitic 1
 aphetize
 armours
 adiposity
