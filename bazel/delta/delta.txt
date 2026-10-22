@@ -7852,7 +7852,7 @@ diprotodon
 divertise
 donnered
 duomos 1
-dukery
+dukery 1
 disproving
 devove
 discombobulates
