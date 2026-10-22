@@ -26066,7 +26066,7 @@ cosignatories
 centralist
 complaisantness
 cosigned
-cretin
+cretin 1
 cosigners
 cubbies
 chowderheadedness
