@@ -4951,7 +4951,7 @@ emusify
 euhemerize
 entropy
 exencephalic 1
-ectocoelic
+ectocoelic 1
 eyelight
 emporetic
 eurytomid
