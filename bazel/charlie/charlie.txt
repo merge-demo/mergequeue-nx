@@ -15930,7 +15930,7 @@ contorniate
 clepsine
 condemnatory
 cleptobioses
-conics
+conics 1
 coadministration
 coryphylly
 cobelligerent
