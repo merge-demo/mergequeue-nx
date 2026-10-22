@@ -17728,7 +17728,7 @@ debugs
 dubiousness
 deportees
 delegative
-dubitable
+dubitable 1
 dichondra
 dubitably
 deflagrates
