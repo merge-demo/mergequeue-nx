@@ -1419,7 +1419,7 @@ encashable
 enzymes
 efflorescing
 effluences
-endoral
+endoral 1
 epitasis
 epithalamia
 etherified
