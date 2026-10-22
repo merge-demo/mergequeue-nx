@@ -1259,7 +1259,7 @@ devotement
 dating
 disaffirmative
 dothienenteritis
-devitalizing
+devitalizing 1
 diarrheal
 discovert
 datiscosid
