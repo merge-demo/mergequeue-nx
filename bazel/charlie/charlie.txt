@@ -16193,7 +16193,7 @@ checkroom
 cavus
 clinchers
 clinches
-charmingly
+charmingly 1
 clinchingly
 capkin
 chargeability
