@@ -14138,7 +14138,7 @@ adrostal
 antenuptial
 aplasias
 anteoccupation
-anteocular
+anteocular 1
 anteorbital
 augustinian
 animalize
