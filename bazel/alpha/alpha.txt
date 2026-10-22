@@ -15958,7 +15958,7 @@ antiquarianize
 anachronism
 antiquaries
 antiquartan
-americas
+americas 1
 amylase
 aromatise
 acquital
