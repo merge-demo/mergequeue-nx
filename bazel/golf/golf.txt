@@ -8452,7 +8452,7 @@ gratuitant
 glossograph
 grenatite
 guaguanche
-globulariaceous
+globulariaceous 1
 gnathopodous
 guinea
 galinsoga
