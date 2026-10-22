@@ -27431,7 +27431,7 @@ corral
 coffeehoused
 clake
 chivalrousness
-cousiness
+cousiness 1
 cacesthesis
 cozier
 capillament
