@@ -9975,7 +9975,7 @@ binodous
 brahmic
 berbery
 barrenness
-bivector
+bivector 1
 biventer
 backseat
 bayonetting
