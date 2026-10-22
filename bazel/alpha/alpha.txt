@@ -13047,7 +13047,7 @@ anhydridization
 asocial
 almight
 allokurtic
-afterroll
+afterroll 1
 anhydroglocose 1
 anhidrotic
 accompt
