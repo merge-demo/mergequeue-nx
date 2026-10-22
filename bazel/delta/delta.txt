@@ -18102,7 +18102,7 @@ dumbstricken
 demisemiquaver
 demagnetize
 dumbwaiter
-dumdum
+dumdum 1
 dumdums
 dadu
 drab
