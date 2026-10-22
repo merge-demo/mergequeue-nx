@@ -1562,7 +1562,7 @@ frustulent
 ferr
 favelidium
 fourteenth
-funning
+funning 1
 fortyfold
 flights
 farcelike
