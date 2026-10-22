@@ -492,7 +492,7 @@ attriting
 aueto
 abjections
 abjective
-actinosoma
+actinosoma 1
 aweless
 arquebuses
 amornings
