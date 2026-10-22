@@ -10475,7 +10475,7 @@ exalate
 encroachingly
 elance
 etiquette
-entocranial
+entocranial 1
 erectilities
 etiquettical
 explicable
