@@ -24649,7 +24649,7 @@ acreable
 avenant
 avenary
 avenge
-abnegated
+abnegated 1
 actinomycin
 absurdness
 avengeful
