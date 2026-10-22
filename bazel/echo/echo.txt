@@ -10709,7 +10709,7 @@ epithecicia
 embrangled
 eugubine
 entoderm 1
-epiphanised
+epiphanised 1
 euhemerising
 emeerate
 epitomizer
