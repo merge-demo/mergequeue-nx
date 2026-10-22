@@ -243,7 +243,7 @@ absorptiometric
 abbott
 adenomyxoma
 actable 1
-aselline
+aselline 1
 apostate
 abraded
 acantholysis 1
