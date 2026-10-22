@@ -15751,7 +15751,7 @@ abkary
 adventure
 alya
 antipatriotically
-aneuria
+aneuria 1
 antipatriotism
 agada
 autoinhibited
