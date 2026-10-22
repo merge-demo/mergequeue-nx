@@ -11369,7 +11369,7 @@ electrodesiccation 1
 evenforth
 eryopid
 edificator
-eruciform
+eruciform 1
 emanatively
 eathly
 epicureans
