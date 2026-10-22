@@ -6227,7 +6227,7 @@ gregor
 garrisoned
 gastrimargy
 guillotinade 1
-gamopetalae
+gamopetalae 1
 gp 1
 galactophagist
 glucosamine 1
