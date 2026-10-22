@@ -6659,7 +6659,7 @@ aboon
 arakanese
 anatolian
 aporetical
-anointer
+anointer 1
 amidoketone
 albedos
 audible
