@@ -4806,7 +4806,7 @@ governorship
 galgal 1
 gweducks
 gargoylishly
-gobiiform
+gobiiform 1
 glucogenic
 glassware
 gravidly
