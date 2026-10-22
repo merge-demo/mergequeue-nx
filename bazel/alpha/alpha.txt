@@ -7064,7 +7064,7 @@ alkahestical
 acalephes 1
 adhibited 1
 asporogenous
-arthropathy
+arthropathy 1
 ameiotic
 allocation
 anthramin
