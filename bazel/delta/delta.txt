@@ -1341,7 +1341,7 @@ departure
 daundering 1
 daitya
 didappers
-daunt
+daunt 1
 daunted
 dhobies
 daunters
