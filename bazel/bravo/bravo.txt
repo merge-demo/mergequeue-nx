@@ -4821,7 +4821,7 @@ bollix
 brazenface
 bikh
 beshrouded
-bolometer 1
+bolometer 2
 bedstraw
 bedstraws
 bedstring
