@@ -3531,7 +3531,7 @@ deforse
 diplomatic
 dinitrotoluene
 disapproving
-defrayable
+defrayable 1
 disembarrassment
 dismissable
 doom
