@@ -2906,7 +2906,7 @@ degratia
 doughs
 decurvature
 duello
-decus
+decus 1
 doblones
 decarbonizing
 decuss
