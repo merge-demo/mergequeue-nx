@@ -22478,7 +22478,7 @@ astrut
 agronomical
 aprendiz
 astutious
-apsis
+apsis 1
 achime
 asudden
 acetotoluide
