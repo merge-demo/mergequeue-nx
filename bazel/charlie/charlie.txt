@@ -7065,7 +7065,7 @@ centerboard
 centerer
 centerfold
 compania
-coofs
+coofs 1
 chelators
 colonus
 centerfolds
