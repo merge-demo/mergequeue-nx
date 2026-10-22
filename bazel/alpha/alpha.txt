@@ -6091,7 +6091,7 @@ apothegmatic 1
 anostosis
 axumite
 availment
-apogeny
+apogeny 1
 agitatorial
 aromaticness
 astrosphere
