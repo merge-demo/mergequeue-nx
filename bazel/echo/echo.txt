@@ -1950,7 +1950,7 @@ empathically 1
 enthelmintha 1
 endict
 exarchateship
-elementalist
+elementalist 1
 ejaculatory
 erdvark
 elishah
