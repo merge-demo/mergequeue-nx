@@ -30092,7 +30092,7 @@ chordoid
 crowder
 cmdg
 crowdy
-crowdies
+crowdies 1
 confecture
 crowding
 crowdle
