@@ -6075,7 +6075,7 @@ catmints
 catnap
 cheilotomies
 catnaper
-catnapping 1
+catnapping 2
 caddle
 catnaps
 catnep
