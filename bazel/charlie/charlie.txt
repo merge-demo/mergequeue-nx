@@ -3602,7 +3602,7 @@ carabine
 carabiner
 carabineros
 claik
-carabines
+carabines 1
 coprahs
 calefaction
 carabinier
