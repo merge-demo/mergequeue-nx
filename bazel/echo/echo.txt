@@ -455,7 +455,7 @@ embiodea
 explicated 1
 engager
 escapements
-erf
+erf 1
 eunuchal
 eveners
 enanthesis
