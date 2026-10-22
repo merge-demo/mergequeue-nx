@@ -10982,7 +10982,7 @@ dissyllabising
 deepwaterman
 decapoda
 dulcinea
-disafforestment
+disafforestment 1
 dispiece
 disaggregative
 duly
