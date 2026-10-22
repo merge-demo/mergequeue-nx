@@ -30628,7 +30628,7 @@ cachila
 cucule
 credensive
 caryocar
-cerigerous
+cerigerous 1
 choregraphic
 cuculiformes
 cephaloclasia
