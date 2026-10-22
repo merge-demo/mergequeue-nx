@@ -7147,7 +7147,7 @@ dunging
 desulfurisation
 diplopiaphobia
 diipolia
-deamidase
+deamidase 1
 desulfurising
 dinotheriidae
 desulfurizer
