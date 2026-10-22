@@ -1114,7 +1114,7 @@ gallants
 guillotining
 gwyniad
 grivet
-granet
+granet 1
 giddier
 gesith
 grotesco
