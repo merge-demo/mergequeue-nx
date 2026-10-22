@@ -5688,7 +5688,7 @@ dipl
 disrobe
 dentelliere
 dawdled
-dolorousness 1
+dolorousness 2
 drumler
 deplant
 disvertebrate
