@@ -8611,7 +8611,7 @@ equidivision
 epigrammatising
 embouchures
 electrovital
-espavel
+espavel 1
 equielliptical
 equigranular
 equilateral
