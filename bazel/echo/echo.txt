@@ -12406,7 +12406,7 @@ encephalopathy
 epistyles 1
 enameled
 echeloned
-exauguration
+exauguration 1
 elaphoglossum
 exhibitionist
 electroengraving
