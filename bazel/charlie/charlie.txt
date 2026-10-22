@@ -25017,7 +25017,7 @@ cordyceps
 communicator
 cordicole
 cordillera
-carbonizes
+carbonizes 1
 cordilleran
 cordilleras
 cordinar 1
