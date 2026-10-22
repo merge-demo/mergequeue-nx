@@ -10030,7 +10030,7 @@ gesneriaceous
 grissens
 genetoid
 geomancies
-gangliac
+gangliac 1
 gastronomes
 gleans
 gazebos
