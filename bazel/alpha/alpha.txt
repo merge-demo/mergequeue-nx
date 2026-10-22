@@ -1862,7 +1862,7 @@ antiphysic
 acervate
 acervation
 acervulus
-abiezer
+abiezer 1
 anadyomene
 anacoluthia
 athlothete
