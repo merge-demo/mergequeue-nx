@@ -10967,7 +10967,7 @@ echiurid
 erythematous
 embrittlement
 echinus
-embosk
+embosk 1
 eperva
 euproctis
 endophasia
