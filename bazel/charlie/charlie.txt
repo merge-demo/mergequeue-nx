@@ -9511,7 +9511,7 @@ checkerist
 collet
 clavola
 checkers
-cabbalah
+cabbalah 1
 cardanic
 capos
 checky
