@@ -12109,7 +12109,7 @@ chroatol
 chows
 causer
 crambo
-chancellorate
+chancellorate 1
 cursiveness
 chowses
 chowtime
