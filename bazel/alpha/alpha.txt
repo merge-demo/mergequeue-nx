@@ -7110,7 +7110,7 @@ ajonjoli
 alist
 apoxesis
 aphoriser
-arthresthesia 1
+arthresthesia 2
 albuminized
 androides
 amissness
