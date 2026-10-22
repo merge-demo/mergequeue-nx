@@ -9731,7 +9731,7 @@ fideicommissioner
 frigorifical
 factful
 forgathered
-frenetically
+frenetically 1
 forlorner
 frenula
 frenular
