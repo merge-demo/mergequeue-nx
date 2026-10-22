@@ -5972,7 +5972,7 @@ catheterise
 clienteles
 coiffes
 catheterised
-crabgrass
+crabgrass 1
 catheterism
 catheterization
 cense
