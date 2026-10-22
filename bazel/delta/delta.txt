@@ -10360,7 +10360,7 @@ diordinal
 duplet
 disgregation
 dipotassic
-disassimilate
+disassimilate 1
 dioscurian
 disenfranchised
 diurons
