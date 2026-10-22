@@ -24810,7 +24810,7 @@ ambagitory
 augitite
 atractaspis
 almas
-aeluroid
+aeluroid 1
 avisos
 avital
 avitaminosis
