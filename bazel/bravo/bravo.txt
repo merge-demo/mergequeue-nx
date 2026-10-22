@@ -17834,7 +17834,7 @@ bursitos
 burst 1
 booksellers 1
 breezeful
-burster
+burster 1
 blutwurst
 bastardizing
 bitterhead 1
