@@ -17573,7 +17573,7 @@ appendency
 aquacultural
 appendicalgia
 ausonian
-antipodist
+antipodist 1
 ascii
 alienees
 antioptimistical
