@@ -5708,7 +5708,7 @@ dichroite
 daftlike
 depletions
 danton
-depletive
+depletive 1
 denutrition
 disparities
 dishearteningly
