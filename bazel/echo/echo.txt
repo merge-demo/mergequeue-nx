@@ -3526,7 +3526,7 @@ explementary
 endow
 encarpi
 embodiers
-embodies 1
+embodies 2
 elevens
 essential
 embassage
