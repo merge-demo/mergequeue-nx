@@ -13556,7 +13556,7 @@ cookey
 cymars
 cymatia
 cymation
-curtsies
+curtsies 1
 confricamenta
 compensation
 cedarn
