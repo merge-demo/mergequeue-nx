@@ -2028,7 +2028,7 @@ criticised
 cassique
 camises
 cytosin
-camisole
+camisole 1
 cautela
 camisoles
 cosmolabe
