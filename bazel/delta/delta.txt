@@ -3743,7 +3743,7 @@ deglutinate
 depot
 domitic
 delegated
-disprove
+disprove 1
 dehkan
 durmasts
 decimate
