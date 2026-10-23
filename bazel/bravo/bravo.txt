@@ -10516,7 +10516,7 @@ bashlik
 blastoporal
 blastosphere
 balanus
-bromal
+bromal 1
 buttonhold
 belligerent 1
 badasses
