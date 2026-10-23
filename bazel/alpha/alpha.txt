@@ -4824,7 +4824,7 @@ awakener
 autocross
 aerobiosis
 addleheaded
-absorbability
+absorbability 1
 aerobious
 allotypy
 allophylic
