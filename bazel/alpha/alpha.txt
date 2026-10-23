@@ -24719,7 +24719,7 @@ aristida 1
 artisans
 amalfian
 aveugle
-avg
+avg 1
 assenting
 avians
 abreactions
