@@ -16078,7 +16078,7 @@ antiscabious
 aquatint
 aortectasia
 amphichromy
-adminiculum
+adminiculum 1
 antiscale
 arteritis
 autocoenobium
