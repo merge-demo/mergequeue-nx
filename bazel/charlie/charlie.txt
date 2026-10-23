@@ -27191,7 +27191,7 @@ countertouch
 chait
 cacotrophic
 circumgyration
-countertraction
+countertraction 1
 countertransference
 cystonectous
 collen
