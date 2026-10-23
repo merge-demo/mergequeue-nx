@@ -10422,7 +10422,7 @@ dipcoat
 disreputable
 dipetto
 dismayingness
-diphasic
+diphasic 1
 diphenhydramine
 diacidic
 diphenylamine
