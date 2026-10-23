@@ -10592,7 +10592,7 @@ coruscating
 camoca
 carburise
 choledochotomy
-convivial
+convivial 1
 chillingly
 catamounts 1
 chilodon
