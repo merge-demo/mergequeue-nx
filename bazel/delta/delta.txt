@@ -8183,7 +8183,7 @@ digitalism
 desertful 1
 disconvenient
 dedentition
-dicotylous
+dicotylous 1
 damocles
 disposer
 decalcified
