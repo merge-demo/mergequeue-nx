@@ -18162,7 +18162,7 @@ coerciveness
 coercivity
 coerebidae
 coerected
-coerecting
+coerecting 1
 coeruleolactite
 cohost
 cancerin
