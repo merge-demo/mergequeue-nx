@@ -3763,7 +3763,7 @@ abbozzo
 aerophilately
 aeroscepsis
 accessorial
-anticipatively
+anticipatively 1
 archivolt
 adhesion
 adhesive
