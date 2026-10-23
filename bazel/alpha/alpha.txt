@@ -791,7 +791,7 @@ argles 1
 abridging
 anourous
 abris
-abristle
+abristle 1
 alabandine
 abroach
 airdock
