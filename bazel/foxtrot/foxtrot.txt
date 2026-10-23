@@ -4081,7 +4081,7 @@ finitudes
 frontage 1
 fondish
 fanaticised
-fusibly
+fusibly 1
 flophouses
 formulist
 foetiparous
