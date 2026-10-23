@@ -8053,7 +8053,7 @@ anapaest
 algesia
 alfaqui
 ataraxia
-apatornis
+apatornis 1
 autonavigator
 antidotical
 archcity
