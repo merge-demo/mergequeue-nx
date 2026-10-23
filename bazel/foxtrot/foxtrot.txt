@@ -11137,7 +11137,7 @@ fanega
 freeings
 faiences
 fiats
-frumperies
+frumperies 1
 flocculence
 fernlike
 foederal
