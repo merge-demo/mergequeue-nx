@@ -8767,7 +8767,7 @@ clinicians
 chapiter
 chloranaemia
 chapitral
-chaplain
+chaplain 1
 chaplaincies
 chaplains
 curiboca
