@@ -2259,7 +2259,7 @@ antinoise
 acyanoblepsia
 assessee
 apsid
-anabas
+anabas 1
 arsenicate
 areographer
 acichloride
