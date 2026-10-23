@@ -9278,7 +9278,7 @@ chatterers
 circuitously
 cassidoine 1
 chattererz
-chattery
+chattery 1
 chattermag
 caprification
 chattermagging
