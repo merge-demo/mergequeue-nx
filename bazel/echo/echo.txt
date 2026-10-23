@@ -625,7 +625,7 @@ epipaleolithic
 evincement
 eclamptic
 efficacious
-extuberate
+extuberate 1
 epizoites
 ecstatics
 eclating
