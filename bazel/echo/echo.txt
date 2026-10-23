@@ -7708,7 +7708,7 @@ effluxion
 estrus
 esprise 1
 extruder
-ellipticalness
+ellipticalness 1
 epidemically
 exalt
 escurialize
