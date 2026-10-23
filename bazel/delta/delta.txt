@@ -16186,7 +16186,7 @@ downsliding
 doughnuts
 davyum
 deflorate
-dowdier
+dowdier 1
 demophon
 doblas
 dowdily
