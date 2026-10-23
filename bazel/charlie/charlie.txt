@@ -25288,7 +25288,7 @@ circulin
 cormogen
 cormophyta
 cardiotherapy 1
-cormous 1
+cormous 2
 challa
 corn
 cornaceae
