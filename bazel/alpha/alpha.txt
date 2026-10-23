@@ -9470,7 +9470,7 @@ advoke
 alternacy
 asynchronously
 alternamente
-aframerican
+aframerican 1
 antilocapridae
 ambilateral
 annotatory
