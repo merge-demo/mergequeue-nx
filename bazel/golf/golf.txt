@@ -9667,7 +9667,7 @@ gamogony
 gibuses
 gowdie
 gastroscopy
-gascons
+gascons 1
 gowaned
 gorgonaceous 1
 globalist
