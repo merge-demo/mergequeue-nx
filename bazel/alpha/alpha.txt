@@ -1544,7 +1544,7 @@ autacoids
 accomplisht
 accordance
 atomity
-accordancy
+accordancy 1
 agglutinoid
 adventureful
 australene

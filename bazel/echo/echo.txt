@@ -2426,7 +2426,7 @@ ecraseur
 emplection
 electrodialyze
 essayical
-excoriates
+excoriates 1
 epistle
 eumenidean
 empiristic
