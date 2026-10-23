@@ -3647,7 +3647,7 @@ frictionlessly
 flashing
 faintishness
 fielder
-floatsman
+floatsman 1
 froglets
 figurate
 facticide
