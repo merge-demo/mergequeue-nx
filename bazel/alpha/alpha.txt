@@ -10190,7 +10190,7 @@ amburbial
 airframe
 anxiolytic
 aughtlins
-ambury
+ambury 1
 ambuscaded
 atmogenic
 ambuscader
