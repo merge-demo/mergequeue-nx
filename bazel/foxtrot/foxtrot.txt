@@ -8120,7 +8120,7 @@ foretasting
 fretsaw
 falisci
 forewrought
-fractionate
+fractionate 1
 fanaticalness 1
 foretell
 filmiest
