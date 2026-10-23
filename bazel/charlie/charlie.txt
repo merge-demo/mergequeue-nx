@@ -16442,7 +16442,7 @@ cloakroom
 cloakrooms
 conquer 1
 caterwaul
-cloakwise
+cloakwise 1
 condominiiums
 creamcup
 cloamen
