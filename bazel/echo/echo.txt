@@ -4552,7 +4552,7 @@ empales
 encephalospinal
 ecclesiastic
 elevatedness
-externize
+externize 1
 euphyllopoda
 enureses
 epitheliogenetic
