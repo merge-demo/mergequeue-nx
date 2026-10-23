@@ -5141,7 +5141,7 @@ glomera
 goblinesque 1
 gutturine
 gentlehearted
-goldylocks
+goldylocks 1
 gyps
 glaucophanite
 goldcrest
