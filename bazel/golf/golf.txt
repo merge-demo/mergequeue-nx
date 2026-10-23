@@ -3736,7 +3736,7 @@ gastrocystis
 gyse 1
 galvanoplastics
 granaries
-guttur
+guttur 1
 guayacan
 graduations
 gurdy
