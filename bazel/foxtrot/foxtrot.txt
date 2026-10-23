@@ -9467,7 +9467,7 @@ fantasm
 featish 1
 farming
 fortuitousness
-femininism
+femininism 1
 frameable
 frequenting
 fraudfully 1
