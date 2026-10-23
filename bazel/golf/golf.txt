@@ -6046,7 +6046,7 @@ gigantical
 graymalkin 1
 grindal
 gyppers
-gnathitis
+gnathitis 1
 gragers
 ganevs
 gastradenitis
