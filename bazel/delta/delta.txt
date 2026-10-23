@@ -10894,7 +10894,7 @@ designlessly
 diathermometer
 demonologic
 doddart
-debaters
+debaters 1
 desalting
 disculpate
 decerebrize
