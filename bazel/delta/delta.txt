@@ -3485,7 +3485,7 @@ dorism 1
 defoil
 dorsobranchiata
 defoliants
-defoliate
+defoliate 1
 defoliations
 descending
 disjunct
