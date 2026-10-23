@@ -10798,7 +10798,7 @@ geochronologic 1
 gareth
 gynomonoecious
 gilbert
-glyptography
+glyptography 1
 gewgawy
 granolite
 gestonie
