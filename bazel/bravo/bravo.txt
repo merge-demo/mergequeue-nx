@@ -15329,7 +15329,7 @@ bridle
 bridled
 blackpot
 bridlers
-boredom
+boredom 1
 bridoons
 blurt
 boomier
