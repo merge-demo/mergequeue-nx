@@ -1058,7 +1058,7 @@ ganglionated
 gymnoconia
 glyceridic
 gift 1
-gymnospermism
+gymnospermism 1
 gruffish
 glaceing
 guck
