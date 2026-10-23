@@ -22075,7 +22075,7 @@ conformability
 cyprinoid
 cashierer
 councilor
-conformably
+conformably 1
 conformal
 complexed
 crosstalk
