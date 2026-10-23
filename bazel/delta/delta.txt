@@ -14586,7 +14586,7 @@ dentalman
 duckeries
 deoxyribonucleoprotein
 dismemberment 1
-dwells
+dwells 1
 demureness
 denotive 1
 demiurgically
