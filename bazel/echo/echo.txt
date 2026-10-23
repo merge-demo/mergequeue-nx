@@ -2893,7 +2893,7 @@ ental 1
 elevable
 embraceor
 electrionic
-echoizing
+echoizing 1
 epergne
 engilds
 escalators 1
