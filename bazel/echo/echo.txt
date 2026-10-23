@@ -8236,7 +8236,7 @@ epistasies
 energy
 enhancers
 epibenthos
-enrapturedly
+enrapturedly 1
 estreating
 electromagnetist
 elephantiasic
