@@ -16911,7 +16911,7 @@ capitano
 clumpishness
 cohere
 clumps
-canavalin
+canavalin 1
 curst
 clumpst
 clumse
