@@ -2775,7 +2775,7 @@ dineric
 daddies
 drawhorse
 dearies
-dives
+dives 1
 dihydrate
 dahomeyan
 decrassified
