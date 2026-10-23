@@ -8079,7 +8079,7 @@ glandularly 1
 gasiform
 gribane
 gamone
-gaiters
+gaiters 1
 geomorphogeny
 giblets
 grimily
