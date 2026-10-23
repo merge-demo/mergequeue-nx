@@ -6781,7 +6781,7 @@ electrocutions
 estatesman
 enemied
 ergon
-educator
+educator 1
 extramural
 entire
 epithumetic
