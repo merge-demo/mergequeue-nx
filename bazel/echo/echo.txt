@@ -468,7 +468,7 @@ ecclesiarchy 1
 extoll
 ecclesiast
 entrada
-expostulated
+expostulated 1
 empasm
 envelopers
 exody
