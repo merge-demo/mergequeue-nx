@@ -1962,7 +1962,7 @@ forbite
 formalistically
 forecaster
 fothergilla
-fancy
+fancy 1
 feebless
 filatory
 fillock
