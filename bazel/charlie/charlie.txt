@@ -12512,7 +12512,7 @@ coachmaking
 cassino
 chrysorin
 corimelaenidae
-chromopsia
+chromopsia 1
 chromoptometer
 colourationally
 ceasmic
