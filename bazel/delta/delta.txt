@@ -12008,7 +12008,7 @@ dowd
 disenchantments
 disenchantress
 depluming
-difforme 2
+difforme 3
 disencharm
 doctrix
 disenclose 1
