@@ -22042,7 +22042,7 @@ anaphylaxis
 astare
 anaplerosis
 acetbromamide
-ammonitoid
+ammonitoid 1
 auteurism
 automanipulation
 alveolotomy
