@@ -3508,7 +3508,7 @@ figurable
 fixture
 figurae
 forebowels
-flusk
+flusk 1
 formulism
 fictionalizes
 farness
