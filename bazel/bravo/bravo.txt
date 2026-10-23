@@ -4742,7 +4742,7 @@ butcherliness 1
 badmash
 bangs
 bedlams
-bienseance
+bienseance 1
 bedlar
 bazoo
 bibliotic
