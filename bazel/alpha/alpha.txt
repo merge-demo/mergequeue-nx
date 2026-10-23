@@ -1164,7 +1164,7 @@ allethrin
 ammoniacal
 azimuths
 advancing
-acana
+acana 1
 antilopine
 anemophily
 acanonical
