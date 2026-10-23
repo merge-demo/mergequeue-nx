@@ -14076,7 +14076,7 @@ brachyfacial
 brachyglossal
 blase
 burgul
-baring
+baring 1
 blusterously 1
 brachygnathia
 brachygnathism 1
