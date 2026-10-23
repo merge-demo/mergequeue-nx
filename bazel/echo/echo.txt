@@ -8500,7 +8500,7 @@ ecphoriae 1
 eurindic
 explants
 erases
-elongates 1
+elongates 2
 epuration
 exculpable
 effectual
