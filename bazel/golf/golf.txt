@@ -1463,7 +1463,7 @@ glamouring 1
 gasalier
 gaoler
 gowks
-gamma
+gamma 1
 gerousia
 gynocardia
 gradualness
