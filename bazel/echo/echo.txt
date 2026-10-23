@@ -11419,7 +11419,7 @@ everydayness
 everyhow
 ectethmoidal
 everyman
-everywhen
+everywhen 1
 euahlayi
 escorting
 eicosane
