@@ -6787,7 +6787,7 @@ entire
 epithumetic
 engluts
 enjoys
-entireness
+entireness 1
 ethologic
 evading
 echoized
