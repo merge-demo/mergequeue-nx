@@ -10725,7 +10725,7 @@ anacrusis
 aminta
 amyotonia
 appendicious
-averting
+averting 1
 archivists
 arthropomatous
 adsorptively
