@@ -7761,7 +7761,7 @@ dogmatization
 deadweight
 deviser
 devising
-direption
+direption 1
 detailism
 diglyph
 devisor
