@@ -1325,7 +1325,7 @@ accel
 accelerable
 animalizing
 accelerando
-analgize
+analgize 1
 argentojarosite
 amnesias
 affiliated
