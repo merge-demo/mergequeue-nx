@@ -10440,7 +10440,7 @@ almah 1
 amethodically
 absurdum
 aculeolus 1
-ametrope
+ametrope 1
 antshrike
 ametropia
 ametrous
