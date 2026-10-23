@@ -14987,7 +14987,7 @@ dubbeh
 dogboat
 dolomites
 diathermacy
-defogs
+defogs 1
 dogdoms
 deprogram
 dissolving
