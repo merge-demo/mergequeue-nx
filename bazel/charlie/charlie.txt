@@ -15595,7 +15595,7 @@ clathroid
 clathrose
 cranes
 camelkeeper
-clathrulate
+clathrulate 1
 clatter
 cartographers
 clattered
