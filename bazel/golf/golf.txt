@@ -9305,7 +9305,7 @@ gallowglass
 gaure
 guttera
 grudgingness
-generale
+generale 1
 ghosted 1
 grogshop 1
 gigmaness 1
