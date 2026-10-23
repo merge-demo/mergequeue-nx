@@ -9524,7 +9524,7 @@ flitches
 farcinoma
 flawn
 freaks
-fatiguingly
+fatiguingly 1
 forested
 forfear
 founts
