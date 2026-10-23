@@ -8455,7 +8455,7 @@ guaguanche
 globulariaceous
 gnathopodous
 guinea
-galinsoga
+galinsoga 1
 glottises
 gastaldite
 gadzooks
