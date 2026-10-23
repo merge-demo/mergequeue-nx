@@ -18490,7 +18490,7 @@ dissentiently
 discussants
 dementi
 driftlet
-declamator
+declamator 1
 dyslogistically
 duramater
 duramens
