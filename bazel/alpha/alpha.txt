@@ -4441,7 +4441,7 @@ anacard
 aerobus
 adure
 andia
-allergia
+allergia 1
 acetylacetone
 australic
 antipuritan
