@@ -15628,7 +15628,7 @@ allentando
 antiliberalistic
 antinihilist
 attacked
-allegorister
+allegorister 1
 arcus
 awfulness
 anandrous
