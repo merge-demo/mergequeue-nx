@@ -11887,7 +11887,7 @@ anamorphoscope
 apophlegmatism
 arrears
 ankylenteron
-anamorphosis
+anamorphosis 1
 accurre
 acetarious
 archvagabond
