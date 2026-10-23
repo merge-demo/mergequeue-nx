@@ -2409,7 +2409,7 @@ adfix
 anthrapyridine
 antilipase
 aphrite
-apantesis
+apantesis 1
 accus
 ackees
 apprehensibility
