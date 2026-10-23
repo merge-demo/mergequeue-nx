@@ -9562,7 +9562,7 @@ diglottist
 duumvir
 diallists
 demasculinised
-disgruntled
+disgruntled 1
 dischargers
 dignifiedly
 decoying
