@@ -8933,7 +8933,7 @@ globy
 galvanising
 gnaw 1
 glycosidic
-geranomorphic
+geranomorphic 1
 gothicize
 gringole
 gras
