@@ -11352,7 +11352,7 @@ discerption
 difficulties
 diggers
 dischargeable 1
-dispirited
+dispirited 1
 dilacerating
 deodands
 dowhacky
