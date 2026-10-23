@@ -27315,7 +27315,7 @@ cowal
 concatenating
 couponless 1
 coupons
-coups
+coups 1
 chemicking
 comodo
 circumciser
