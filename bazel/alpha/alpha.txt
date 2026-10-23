@@ -15283,7 +15283,7 @@ anisotropal
 arar
 acetimetry
 afterdinner
-antigravitate
+antigravitate 1
 annale
 alleviator
 agamically
