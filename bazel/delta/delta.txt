@@ -10536,7 +10536,7 @@ diple 1
 dacryocystotome
 dipleural
 docetically
-defected
+defected 1
 dionysian
 dimeric
 decalcomaniac
