@@ -1011,7 +1011,7 @@ aquitanian
 affluxes
 abstractitious
 abstractive
-athenianly
+athenianly 1
 antimethodic
 anablepses
 amyloidal
