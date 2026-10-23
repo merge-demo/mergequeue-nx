@@ -30854,7 +30854,7 @@ caryopteris
 covalence
 culming
 culms
-coolidge
+coolidge 1
 corneocalcareous
 cranioclasm
 cleithrum
