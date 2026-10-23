@@ -17915,7 +17915,7 @@ coeditors
 cocoanuts
 coedits
 coeducationalism
-coeducationalize
+coeducationalize 1
 crude
 coef
 chromosphere
