@@ -7156,7 +7156,7 @@ demolitions
 dynamometric
 depictor
 deambulate
-desulfurs
+desulfurs 1
 daphnetin
 desulphur
 desulphurate
