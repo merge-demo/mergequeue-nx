@@ -11140,7 +11140,7 @@ fiats
 frumperies 1
 flocculence
 fernlike
-foederal
+foederal 1
 fruitiest
 frumple
 francas
