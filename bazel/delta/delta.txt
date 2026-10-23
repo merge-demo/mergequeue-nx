@@ -14201,7 +14201,7 @@ dramatists
 dicer
 damage
 daboia
-defenselessly
+defenselessly 1
 derotrematous
 disvisage
 disyoked
