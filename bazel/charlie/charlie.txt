@@ -7902,7 +7902,7 @@ copatron
 coronize
 capitulary
 carouses
-cestoidean
+cestoidean 1
 cestoids
 cestraction
 colessees
