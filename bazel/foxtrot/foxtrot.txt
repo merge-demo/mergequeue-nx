@@ -7596,7 +7596,7 @@ fgn
 fructuarius
 funiculus
 flintworker
-flays
+flays 1
 forespeak
 fecundative
 faradising
