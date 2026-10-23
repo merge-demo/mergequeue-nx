@@ -284,7 +284,7 @@ fourierite
 foreshortening 1
 ford
 febrifacient
-footpounds
+footpounds 1
 firbolg
 flagarie
 fideism
