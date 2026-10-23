@@ -1825,7 +1825,7 @@ furrows
 figureheadship
 fellahin
 firebreaks
-feudalize 1
+feudalize 2
 fractured
 flabellum
 fating
