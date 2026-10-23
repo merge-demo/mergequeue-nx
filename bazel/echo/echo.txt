@@ -9687,7 +9687,7 @@ ectoblast
 enshielded
 espouser
 espouses 1
-espousing
+espousing 1
 esprit
 enterorrhexis
 esq
