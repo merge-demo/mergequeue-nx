@@ -3172,7 +3172,7 @@ cystectomy
 capernoited
 capernutie
 cenesthesia
-carapace
+carapace 1
 clusters
 capersome
 capersomeness
