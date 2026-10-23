@@ -9483,7 +9483,7 @@ emperor
 enghosted 1
 excurved
 eupneas
-essayistic
+essayistic 1
 esca
 earthquaking
 eulogia
