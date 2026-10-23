@@ -8483,7 +8483,7 @@ barkle
 bannerer
 bilingually 1
 bilinguar
-balks
+balks 1
 berycine
 bijoux
 brushet
