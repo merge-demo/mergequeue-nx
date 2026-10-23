@@ -2136,7 +2136,7 @@ decanery 1
 decanes
 diabolify
 decangular
-daedalus
+daedalus 1
 decently
 decanonize 1
 dynamitish
