@@ -6958,7 +6958,7 @@ election
 entourage 1
 empt
 enounces
-entozoologically 1
+entozoologically 2
 entrain
 enantiomorphy
 elicitate
