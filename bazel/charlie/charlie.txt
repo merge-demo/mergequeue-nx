@@ -22084,7 +22084,7 @@ consistence
 corcass
 cataclasmic 1
 chowders
-conformationally
+conformationally 1
 couvert
 conformations
 canoe
