@@ -29148,7 +29148,7 @@ cryobiological
 cryobiologist
 criobolium
 courtman
-credit 1
+credit 2
 coelacanthini
 cacodorous
 crioceras
