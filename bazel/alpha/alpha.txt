@@ -10563,7 +10563,7 @@ algaesthesia
 amyelic
 amyelous
 agt
-aposematically
+aposematically 1
 alphamerical
 amygdal
 aludels
