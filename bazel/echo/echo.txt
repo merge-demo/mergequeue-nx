@@ -329,7 +329,7 @@ enameling
 elfship
 euboic 1
 eastling
-escapee
+escapee 1
 eruditionist
 escots
 engaze
