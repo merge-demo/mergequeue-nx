@@ -1782,7 +1782,7 @@ antilepton
 allocthonous
 ahaaina
 affixing
-acromioscapular
+acromioscapular 1
 acenaphthylene
 adiphenine
 argilloferruginous
