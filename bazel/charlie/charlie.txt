@@ -4574,7 +4574,7 @@ carniform
 consummatory
 chukar
 carnitine
-collie
+collie 1
 carpologically
 carnival
 carnivalesque
