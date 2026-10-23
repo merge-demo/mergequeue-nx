@@ -8856,7 +8856,7 @@ figeter
 fluidities
 flickers
 fatty 1
-ferrotypes
+ferrotypes 1
 forebye
 facioscapulohumeral
 foreigners
