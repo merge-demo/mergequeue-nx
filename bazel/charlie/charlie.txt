@@ -17858,7 +17858,7 @@ codiaceae
 codiales
 codical
 chlamys
-camas
+camas 1
 codicils
 codicology
 codifications
