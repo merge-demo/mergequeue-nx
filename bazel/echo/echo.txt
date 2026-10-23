@@ -10595,7 +10595,7 @@ eucone
 eucopepoda
 electrotechnic
 eucosmidae
-ecstasis
+ecstasis 1
 expensing 1
 englobing 1
 evernioid
