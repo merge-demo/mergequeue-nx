@@ -6376,7 +6376,7 @@ gossaniferous 1
 gog
 gamin 1
 graymill
-gugal
+gugal 1
 gospelwards
 germanophile
 greenwort
