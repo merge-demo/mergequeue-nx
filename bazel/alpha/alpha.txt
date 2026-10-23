@@ -7795,7 +7795,7 @@ antithrombic
 aldoheptose
 aldoketene
 analecta
-antigalactic
+antigalactic 1
 aldol
 assured
 afterfall
