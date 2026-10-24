@@ -5830,7 +5830,7 @@ gorgeable
 gaupus
 glissades 1
 greggle
-gather
+gather 1
 gedrite
 golliwog
 geocarpic
