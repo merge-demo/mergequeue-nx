@@ -2826,7 +2826,7 @@ athonite
 acromiocoracoid
 amateurishly
 alite
-abominability
+abominability 1
 antenniform
 areometer
 arianrhod 1
