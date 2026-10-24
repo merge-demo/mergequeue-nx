@@ -4743,7 +4743,7 @@ garshuni
 gytling 1
 goniale
 gitonin 1
-graphitizable
+graphitizable 1
 gratinate
 greenfishes 1
 grandiflora
