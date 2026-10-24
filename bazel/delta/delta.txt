@@ -1548,7 +1548,7 @@ dartman
 deactivates
 delphinium
 disciplinarity
-dextrously
+dextrously 1
 dicranoid
 doubtfulness
 deactivation
