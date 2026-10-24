@@ -14295,7 +14295,7 @@ delating
 dragropes
 duotones
 desireable
-dict
+dict 1
 decolorized
 disbelievingly
 ditt
