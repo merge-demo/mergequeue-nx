@@ -3405,7 +3405,7 @@ glaciable
 gyroscopic
 gainor
 guttulate 1
-gymnoceratous
+gymnoceratous 1
 geosid
 gerontocrat
 gigglish
