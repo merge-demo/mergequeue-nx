@@ -17763,7 +17763,7 @@ archiepiscopally
 albuminaturia
 alluringly 1
 applosion
-applosive
+applosive 1
 ataxia
 antiguan
 aortorrhaphy
