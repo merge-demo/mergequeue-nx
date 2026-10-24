@@ -9128,7 +9128,7 @@ chartless
 caricatured
 chartography
 chartographic
-crystalline
+crystalline 1
 crossfall
 confluxibleness
 chartophylacia
