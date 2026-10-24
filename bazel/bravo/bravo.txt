@@ -9451,7 +9451,7 @@ bronchodilatation
 bathymeter
 basaltine 1
 bemedaled 1
-bashes
+bashes 1
 birma
 busted
 biggins
