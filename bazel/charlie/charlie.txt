@@ -14961,7 +14961,7 @@ crossjack
 citreous
 citric
 citril
-confabulates
+confabulates 1
 citrination
 congressmen
 currachs
