@@ -17068,7 +17068,7 @@ dismally
 diclinies
 diaplexus
 datacell
-dimensional
+dimensional 1
 disaffected
 driddle
 dysplastic
