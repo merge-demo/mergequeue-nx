@@ -14399,7 +14399,7 @@ andries
 analgetic
 assortatively
 anisocycle
-abnegate
+abnegate 1
 apselaphesis
 anthozoon
 anthracia
