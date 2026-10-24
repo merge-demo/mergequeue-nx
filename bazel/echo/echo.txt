@@ -7673,7 +7673,7 @@ enterostasis
 earworms
 eton
 epicrasis
-equinal
+equinal 1
 eumenid
 enemylike
 epithalamus
