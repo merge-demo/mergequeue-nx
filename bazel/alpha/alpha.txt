@@ -10898,7 +10898,7 @@ amnesia
 amnestied
 aimer
 alf
-affronter
+affronter 1
 allamoth
 antiphilosophy
 amerindic
