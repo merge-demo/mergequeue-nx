@@ -13139,7 +13139,7 @@ anabolite
 animala
 animalic
 avunculize
-amusgo
+amusgo 1
 animalier
 acetosalicylic
 animalillio
