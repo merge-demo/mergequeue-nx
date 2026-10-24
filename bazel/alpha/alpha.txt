@@ -5328,7 +5328,7 @@ afflicting
 afflictingly
 afflictionless
 abranchian
-ambulante
+ambulante 1
 archoplasm
 agranulocytosis
 acceder
