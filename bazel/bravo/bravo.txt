@@ -10031,7 +10031,7 @@ bummock
 blenders
 bairntime
 byzantine
-byzantinize
+byzantinize 1
 barmecide
 bottlemaking
 brasser
