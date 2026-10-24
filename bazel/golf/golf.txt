@@ -10615,7 +10615,7 @@ gotraja 1
 goy
 guildite
 gunpoints
-gloomiest
+gloomiest 1
 ghoul
 gunpower
 gasping
