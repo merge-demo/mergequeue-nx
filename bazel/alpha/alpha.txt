@@ -12644,7 +12644,7 @@ anfractuosity
 authentications
 addleheadedly
 aperies
-allocators
+allocators 1
 amixia
 aporrhaidae
 antistrumous
