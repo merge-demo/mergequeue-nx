@@ -20259,7 +20259,7 @@ anauxite
 adjacence
 avicide
 androecium
-arrivistes
+arrivistes 1
 assuager
 ardencies
 arrogant
