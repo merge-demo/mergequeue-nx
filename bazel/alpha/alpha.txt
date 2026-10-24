@@ -16954,7 +16954,7 @@ amphorette
 aplanatic
 aplanatism
 ately
-airways
+airways 1
 abortus
 aplanogamete
 areally 1
