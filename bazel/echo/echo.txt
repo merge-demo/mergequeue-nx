@@ -9918,7 +9918,7 @@ extensionist
 electromagnetics
 exude 1
 exoculated
-enskies
+enskies 1
 extravertive
 effemination
 epidermatic
