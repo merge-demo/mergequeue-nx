@@ -23750,7 +23750,7 @@ contraption
 contraptions
 contraptious
 capacitator
-compressional
+compressional 1
 coadmires
 contrapuntally
 contrapuntist
