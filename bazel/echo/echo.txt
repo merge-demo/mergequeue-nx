@@ -271,7 +271,7 @@ expressivism
 eucalyptole
 eightsmen
 electrostatic 1
-encashed
+encashed 1
 electroplated
 expiries
 easterling
