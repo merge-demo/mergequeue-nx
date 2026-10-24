@@ -12659,7 +12659,7 @@ didy
 dyskeratosis
 diskette
 discernibleness
-diskindness
+diskindness 1
 diskography
 dvandva
 dextrorse
