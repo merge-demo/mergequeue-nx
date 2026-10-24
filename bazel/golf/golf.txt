@@ -420,7 +420,7 @@ gabion
 glomeration
 greatened
 greatcoated 1
-gegger
+gegger 1
 galbanums
 genophobia
 groomishly
