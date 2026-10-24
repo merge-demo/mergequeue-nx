@@ -2060,7 +2060,7 @@ dramas
 dessiatine
 disagreeability
 dreidls
-delictum
+delictum 1
 dermatotomy
 daikered
 devotion
