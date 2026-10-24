@@ -438,7 +438,7 @@ gamosepalous
 gardenable
 gammexane
 grapefruits 1
-garrote
+garrote 1
 gallantness
 goldless
 gibbetted
