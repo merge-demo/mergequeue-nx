@@ -1858,7 +1858,7 @@ fringefoot 1
 fencibles
 fielden
 fiveling
-fiances
+fiances 1
 flabellation
 frutify
 fatuously
