@@ -7547,7 +7547,7 @@ employs
 exstemporaneous 1
 epauliere
 ectoprocta
-electroforming
+electroforming 1
 exocarp
 experienceable
 epicede
