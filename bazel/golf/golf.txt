@@ -7967,7 +7967,7 @@ glossina
 goniatitid
 gynecologic
 getups
-grippy
+grippy 1
 glandiform
 grandiosity
 gudok
