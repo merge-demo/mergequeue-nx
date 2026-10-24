@@ -1948,7 +1948,7 @@ eupatorine
 epinette
 empathically 1
 enthelmintha 1
-endict
+endict 1
 exarchateship
 elementalist
 ejaculatory
