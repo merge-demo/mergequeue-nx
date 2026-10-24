@@ -9335,7 +9335,7 @@ dactylography
 diffame
 dietted
 detracts
-dipso
+dipso 1
 diffarreation
 doited
 despouse
