@@ -1356,7 +1356,7 @@ forfars
 frock 1
 fidac
 flaggish
-fanning
+fanning 1
 fatigue
 fossicks
 fatiguesome
