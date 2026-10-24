@@ -10002,7 +10002,7 @@ efford
 ethnotechnography
 etching
 electrotest
-eteostic
+eteostic 1
 elemicin
 edgrew
 eterminable
