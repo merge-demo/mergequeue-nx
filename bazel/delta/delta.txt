@@ -18594,7 +18594,7 @@ devocalisation
 distance 1
 dustcover
 diatonicism
-dustee
+dustee 1
 dusters
 desperadoism
 dustheap
