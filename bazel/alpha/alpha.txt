@@ -16326,7 +16326,7 @@ afros 1
 adfroze
 antitruster
 antituberculosis
-artophoria
+artophoria 1
 antituberculotic
 anticholagogue
 antitumoral
