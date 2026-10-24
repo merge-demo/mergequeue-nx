@@ -8537,7 +8537,7 @@ exsufflicate
 esophagotome
 enteromere
 equatable
-eudaemons
+eudaemons 1
 ecclesiasticize
 essentializing
 echinated 1
