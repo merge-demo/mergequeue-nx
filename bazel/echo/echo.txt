@@ -13669,7 +13669,7 @@ eject
 enphytotic
 endorsors
 erratum
-epistolizable
+epistolizable 1
 exteriorness
 espec 1
 emotionlessness
