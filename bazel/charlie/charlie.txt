@@ -12078,7 +12078,7 @@ compluvium
 chounce
 coalesced 1
 cholorrhea
-choupic
+choupic 1
 chouquette
 chous
 chouse
