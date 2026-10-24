@@ -9029,7 +9029,7 @@ boldface
 brev
 biophagism
 biophilous 1
-biophysic
+biophysic 1
 biophysiography
 balibuntal 1
 biophysiology
