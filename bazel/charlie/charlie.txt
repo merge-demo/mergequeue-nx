@@ -17577,7 +17577,7 @@ coccygean
 cornify
 coccygectomy
 chiropterophilous
-cyanurate
+cyanurate 1
 couvade
 coruscates
 coccygerector
