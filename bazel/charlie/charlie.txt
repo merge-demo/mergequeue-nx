@@ -19976,7 +19976,7 @@ cofeoffee
 commatic
 cubbish
 conductive
-cheerily
+cheerily 1
 commeasurable
 commeasure
 commeasured
