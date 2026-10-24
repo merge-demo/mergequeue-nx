@@ -6405,7 +6405,7 @@ goidelic
 goldeyes
 gingivalgia
 glommed
-gastroduodenoscopy 1
+gastroduodenoscopy 2
 gemmules
 gematria
 gymnoblastea
