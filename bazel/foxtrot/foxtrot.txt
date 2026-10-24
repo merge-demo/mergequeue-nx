@@ -6764,7 +6764,7 @@ felloe
 frayed
 fried
 formative
-fronded
+fronded 1
 fissate
 focal
 folacin
