@@ -4745,7 +4745,7 @@ eyelets
 erosional
 eelware
 exalbuminose 1
-encist
+encist 1
 electralize
 exponentially
 encysting
