@@ -4821,7 +4821,7 @@ arrivederci
 aerobiologist
 acrotrophoneurosis
 awakener
-autocross
+autocross 1
 aerobiosis
 addleheaded
 absorbability
