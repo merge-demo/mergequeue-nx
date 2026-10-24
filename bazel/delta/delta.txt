@@ -1375,7 +1375,7 @@ diminishableness
 decurionate
 duodecillion
 denierage
-diatomin
+diatomin 1
 doyennes
 derry
 deworm
