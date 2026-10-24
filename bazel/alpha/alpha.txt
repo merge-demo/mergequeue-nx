@@ -6459,7 +6459,7 @@ antimeter
 axanthopsia 1
 antignostical
 ameliorant
-auxanology
+auxanology 1
 aphroditic
 adams
 acidaemia
