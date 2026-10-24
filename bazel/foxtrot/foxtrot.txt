@@ -9070,7 +9070,7 @@ friesish 1
 funnellike
 fenter
 forbruise
-foxfires
+foxfires 1
 foederis
 falsettos
 folksinger
