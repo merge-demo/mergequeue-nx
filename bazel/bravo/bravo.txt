@@ -8718,7 +8718,7 @@ bimodule
 bimong 1
 buckeroo
 bimonthlies
-berendo
+berendo 1
 bended
 bemixt
 bimotors
