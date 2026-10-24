@@ -7592,7 +7592,7 @@ deutzia
 deuzan
 discernible
 drou
-doublewidth
+doublewidth 1
 diddikai
 darking
 darwinistic
