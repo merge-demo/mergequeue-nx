@@ -4527,7 +4527,7 @@ demigauntlet
 doting
 disclosing
 decussis
-dendrite 1
+dendrite 2
 decern
 dorsilumbar
 distraughted
