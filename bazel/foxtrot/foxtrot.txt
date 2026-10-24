@@ -1737,7 +1737,7 @@ freedman
 foveal 1
 feeded
 forecastlemen
-foresaddle 1
+foresaddle 2
 fluphenazine
 fossildom
 fibropsammoma
