@@ -12395,7 +12395,7 @@ brontothere
 bonapartism
 bigotries 1
 brothy
-betterly
+betterly 1
 brum
 bassariscus
 buckram
