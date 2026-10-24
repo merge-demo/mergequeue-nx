@@ -10080,7 +10080,7 @@ glore
 gudgeon 1
 grobianism 1
 gauntest
-graecize
+graecize 1
 gainings
 gramophonically
 gymnoglossate
