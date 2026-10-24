@@ -1348,7 +1348,7 @@ daunters
 decertified
 daffy
 dipentine
-demissive
+demissive 1
 diploid
 draftsperson
 dompt
