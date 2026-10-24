@@ -1280,7 +1280,7 @@ gyrator
 galium
 glyphographer 1
 gumpus
-grallina
+grallina 1
 gnatsnapper 1
 ganges
 granch
