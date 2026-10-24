@@ -13701,7 +13701,7 @@ chambul
 colan
 cinchonization
 crunodal
-cinchonize
+cinchonize 1
 cinchonized
 communiqu
 cinchophen
