@@ -4269,7 +4269,7 @@ costively
 caressingly
 cachinnation
 chainwork
-caressively
+caressively 1
 carest
 clerked
 caret
