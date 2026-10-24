@@ -6924,7 +6924,7 @@ curvirostres
 charros
 cementer
 cementification
-cyborgs
+cyborgs 1
 cementin
 catapuce
 carane
