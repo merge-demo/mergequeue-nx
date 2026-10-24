@@ -16819,7 +16819,7 @@ decapitable
 dissuited
 drawgate
 dividers 1
-deuteride
+deuteride 1
 dishonorary
 drawings
 duplicando
