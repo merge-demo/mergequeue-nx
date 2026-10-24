@@ -36,7 +36,7 @@ caball
 caballer
 corrosiving
 cranebill
-cineols
+cineols 1
 causable
 cherrystones
 cocozelle
