@@ -27571,7 +27571,7 @@ coves
 censured 1
 covet
 cerealin
-covetable
+covetable 1
 coveted
 coveter
 covetise
