@@ -3211,7 +3211,7 @@ fruits
 fiches
 findjan 1
 feracious
-fusilade
+fusilade 1
 foredetermination
 flutterers
 flavourer 1
