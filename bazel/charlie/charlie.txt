@@ -18891,7 +18891,7 @@ coliuria
 colla
 csnet
 countermoving
-cornulite
+cornulite 1
 collabent
 collaborates
 collaborating
