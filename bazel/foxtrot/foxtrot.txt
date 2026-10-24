@@ -10422,7 +10422,7 @@ fidibus
 folks
 foraminifera
 flodge
-fumous
+fumous 1
 fetterer
 forfex
 feetage
