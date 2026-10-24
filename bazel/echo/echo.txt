@@ -558,7 +558,7 @@ echinoid
 exequial
 ethiopians
 eavesdropper 1
-equatorially
+equatorially 1
 excommunicatory
 encrimson
 echinomys
