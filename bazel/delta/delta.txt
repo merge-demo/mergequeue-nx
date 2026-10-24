@@ -4672,7 +4672,7 @@ dumminess
 dithyrambos
 diphthongous
 dimissory
-disproved
+disproved 1
 dapple
 dreamsiness
 disintoxicate
