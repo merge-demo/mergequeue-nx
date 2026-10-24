@@ -12147,7 +12147,7 @@ chromophilous
 chrysalis
 chrysalises
 cardiaplegia
-chrysaloid
+chrysaloid 1
 chrysammic
 constances 1
 clonk
