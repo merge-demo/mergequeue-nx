@@ -17332,7 +17332,7 @@ decennaries
 droolier
 drollery
 dorts
-deynt
+deynt 1
 drooper
 dismays 1
 doggerels
