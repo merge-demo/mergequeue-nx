@@ -7027,7 +7027,7 @@ forebodings
 fucation
 fons 1
 fauxbourdon
-folkloristic
+folkloristic 1
 ferrum
 forgiveness
 fontal
