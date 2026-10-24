@@ -24826,7 +24826,7 @@ avocations
 avocative
 airing
 antipragmatic
-avocet
+avocet 1
 autoed
 aventail
 appendicial 1
