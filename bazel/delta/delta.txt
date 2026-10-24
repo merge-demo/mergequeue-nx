@@ -1210,7 +1210,7 @@ discounting
 denasalizing
 disordination
 datapac
-decrepitated
+decrepitated 1
 deleterious
 developoid
 disinvolve
