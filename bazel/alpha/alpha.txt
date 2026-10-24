@@ -21258,7 +21258,7 @@ ashrama
 alloxanate
 ashtoreth
 anorchus
-aspartic
+aspartic 1
 anchat
 ashvamedha
 aperispermic
