@@ -10230,7 +10230,7 @@ couteaux
 caracore
 cringed
 chiaus
-conoidical
+conoidical 1
 chiauses
 comprehension
 chyazic
