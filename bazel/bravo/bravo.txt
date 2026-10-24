@@ -10597,7 +10597,7 @@ blaunner
 bein
 blawing
 bidery
-blawn
+blawn 1
 bronchiole
 brigittine
 bajulate
