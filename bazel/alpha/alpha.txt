@@ -14521,7 +14521,7 @@ apostrophised
 adapis 1
 anthropometry
 anuloma
-anthropometric
+anthropometric 1
 acrocarpi
 allan
 anthropometrist
