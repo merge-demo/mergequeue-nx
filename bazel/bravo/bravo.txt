@@ -2870,7 +2870,7 @@ bashawism
 buddage
 barrage
 barnmen
-banger
+banger 1
 brushland
 barraging
 battologist
