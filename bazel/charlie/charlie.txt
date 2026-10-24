@@ -10433,7 +10433,7 @@ chihfu
 cephalograph
 chihuahuas
 comephorous
-chikara
+chikara 1
 couchmaking
 chikee
 chiliomb
