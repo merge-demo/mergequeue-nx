@@ -8244,7 +8244,7 @@ forgather
 fossulet
 falsifications
 fossulate
-foresweat
+foresweat 1
 fabraea
 fesse
 forgeable
