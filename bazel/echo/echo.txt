@@ -2839,7 +2839,7 @@ eucharistized
 essayistical
 eleostearic
 endoubt
-enseat
+enseat 1
 electroluminescent
 explicans
 evenhanded
