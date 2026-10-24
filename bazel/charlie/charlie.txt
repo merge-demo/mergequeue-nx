@@ -9461,7 +9461,7 @@ cheatry
 collumelliaceous
 chirayta
 cheats
-confract
+confract 1
 chebec
 counterinsurgent
 chebecs
