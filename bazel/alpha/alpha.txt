@@ -19322,7 +19322,7 @@ anoxemia
 autoreinfusion
 adjutor
 alaite
-astacus 1
+astacus 2
 amplexation
 areostyle
 areotectonics
