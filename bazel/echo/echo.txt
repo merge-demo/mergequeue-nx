@@ -7095,7 +7095,7 @@ embowelled
 escalloniaceous 1
 electroanalytical
 ectropionization
-egotisms
+egotisms 1
 ectocinereal
 epapophysial
 evejar
