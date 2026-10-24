@@ -30762,7 +30762,7 @@ composing
 cuitlateco
 correctional
 chloroauric
-crs
+crs 1
 colonaded
 creoleize
 cuitling
