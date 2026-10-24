@@ -3343,7 +3343,7 @@ gaetulian
 gaging
 gildhalls 1
 gonydial
-gahnite
+gahnite 1
 globed 1
 gasogen
 groovelike
