@@ -4778,7 +4778,7 @@ gelidly
 gametophyll
 glene
 gaullist
-gotta 1
+gotta 2
 gomeril
 galleta
 genarch
