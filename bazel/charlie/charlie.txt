@@ -22069,7 +22069,7 @@ coempt
 champert
 conormal
 cardia
-cheateries
+cheateries 1
 caroach
 conformability
 cyprinoid
