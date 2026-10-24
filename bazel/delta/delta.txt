@@ -4283,7 +4283,7 @@ dramatize
 differentials
 delusionary
 dumpish
-delusively
+delusively 1
 deporting
 dichotomous 1
 digallate
