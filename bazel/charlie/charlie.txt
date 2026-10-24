@@ -28008,7 +28008,7 @@ craniopuncture
 cachexia
 craigmontite
 colossi
-craik
+craik 1
 cinnamoyl
 crayon
 crayoning
