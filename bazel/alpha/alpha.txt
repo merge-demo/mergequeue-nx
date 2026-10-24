@@ -16095,7 +16095,7 @@ aerenchyma
 antipool
 atomises
 antiscientific
-ande
+ande 1
 auto
 antiscolic
 antiscorbutical
