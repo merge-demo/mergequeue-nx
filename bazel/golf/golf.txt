@@ -1733,7 +1733,7 @@ gambado
 gangwayman
 glossoscopy
 gadoids
-glycerinate
+glycerinate 1
 gynocracy
 gympie 1
 goldstone
