@@ -6079,7 +6079,7 @@ gonzo
 gallature
 grinding 1
 gnathostomata
-gastrocnemial
+gastrocnemial 1
 gypsography
 gph
 gnats
