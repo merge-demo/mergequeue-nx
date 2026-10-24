@@ -13690,7 +13690,7 @@ cinchonic
 cinchonicine 1
 cinchonidia
 cinchonidine
-cinchonin
+cinchonin 1
 cowleech
 cinchoninic
 coronation
