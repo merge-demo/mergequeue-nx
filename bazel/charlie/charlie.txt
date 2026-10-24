@@ -9719,7 +9719,7 @@ cheyneys
 cankeredly
 cimex
 chromotype 1
-cheiranthus
+cheiranthus 1
 cheirogaleus
 cheirography
 cheirolin
