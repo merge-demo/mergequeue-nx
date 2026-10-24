@@ -3630,7 +3630,7 @@ gogos
 grewhound
 ghees
 garaged 1
-gladen
+gladen 1
 guanylic
 granilla 1
 glottalize
