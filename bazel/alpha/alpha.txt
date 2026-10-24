@@ -14416,7 +14416,7 @@ anthracic
 amoyese
 anthracitious
 angiospastic
-awunctive
+awunctive 1
 anode
 achromacyte
 anthracomancy
