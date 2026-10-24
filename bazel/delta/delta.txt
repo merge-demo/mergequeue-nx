@@ -620,7 +620,7 @@ disintegrating
 deadhand
 derelinquendi
 disgracefulness
-definientia
+definientia 1
 disinhumed
 determinantal
 dextrorotatory
