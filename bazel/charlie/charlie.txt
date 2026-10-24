@@ -8001,7 +8001,7 @@ chabuk
 chabuks
 chac 1
 chacate
-complainable
+complainable 1
 chimin
 caravansaries
 camphoraceous
