@@ -4156,7 +4156,7 @@ fenchyl
 feezed
 fireboy
 flying 1
-fiendishly
+fiendishly 1
 fraticelli
 firebomb
 fakiness
