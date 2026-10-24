@@ -9272,7 +9272,7 @@ cryonic
 carol
 cocceianism
 chatterboxes
-chattered
+chattered 1
 chincapin 1
 chatterers
 circuitously
