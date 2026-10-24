@@ -9326,7 +9326,7 @@ erudition
 erinys
 eurythmic
 endosiphon
-erugo
+erugo 1
 encrusted
 erugos
 escapage
