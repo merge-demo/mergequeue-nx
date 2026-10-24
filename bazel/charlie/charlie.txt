@@ -26281,7 +26281,7 @@ costiveness
 changeableness
 calliper
 costlessness
-charivari
+charivari 1
 csk
 ceston
 cervicicardiac

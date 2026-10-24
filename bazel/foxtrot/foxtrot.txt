@@ -11494,7 +11494,7 @@ flotant
 faddisms 1
 fructuousness
 fashery
-furunculous
+furunculous 1
 furzeling
 furzy
 fastest
