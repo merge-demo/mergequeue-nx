@@ -624,7 +624,7 @@ definientia
 disinhumed
 determinantal
 dextrorotatory
-dimorphisms
+dimorphisms 1
 duvetyn
 decantate
 damnably
