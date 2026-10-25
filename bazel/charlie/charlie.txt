@@ -29189,7 +29189,7 @@ colloblast
 candock
 comparator
 cityless
-chanfron
+chanfron 1
 colicolitis
 cryoscopic
 cryoscopies
