@@ -9708,7 +9708,7 @@ dilatably
 deters
 desiderate
 dilatants
-dilatate
+dilatate 1
 decremented
 discutient
 dilatative
