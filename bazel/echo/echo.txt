@@ -9650,7 +9650,7 @@ enclosing
 emissaries
 epicycles
 espy
-espial
+espial 1
 electrocoagulation
 escrows
 espinal
