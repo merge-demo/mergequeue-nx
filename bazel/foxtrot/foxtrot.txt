@@ -5619,7 +5619,7 @@ funicular
 faddiest
 florescent
 flightier
-foster
+foster 1
 facund
 foetor
 fernery
