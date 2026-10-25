@@ -2026,7 +2026,7 @@ elixate
 elabrate
 endocrinotherapy
 epigaea
-erythrosine
+erythrosine 1
 epitrophy
 encurl
 exophasia
