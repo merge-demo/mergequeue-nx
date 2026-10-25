@@ -7495,7 +7495,7 @@ blubbered
 beurre
 benamidar
 bestowage
-beveil
+beveil 1
 bevelled
 bardism
 belayer
