@@ -12994,7 +12994,7 @@ cyanoaurate
 characeous
 cyanoauric
 cyanobenzene
-crepitating
+crepitating 1
 clothify
 clough
 curpel
