@@ -5104,7 +5104,7 @@ fidejussion
 fecundated 1
 flavaniline
 fluidacetextract
-freighting
+freighting 1
 falasha 1
 forebespeak
 fatherling
