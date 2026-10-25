@@ -9538,7 +9538,7 @@ disemboweled
 disinfestation
 digitising
 desulphurise
-digitizes
+digitizes 1
 digitizing
 desorbed
 decimosexto
