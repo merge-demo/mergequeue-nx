@@ -1092,7 +1092,7 @@ gainfully
 graphicness
 gowdy
 goularo
-gormandizers 1
+gormandizers 2
 genitives
 ganister
 goriest
