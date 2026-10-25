@@ -7678,7 +7678,7 @@ appendicocaecostomy
 antonymic
 autoprothesis
 autoconverter
-asterin
+asterin 1
 alcoholysis
 albatrosses
 aguinaldos
