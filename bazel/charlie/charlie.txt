@@ -25490,7 +25490,7 @@ contradictions
 corollarial
 corollarially
 callionymus 1
-corollaries
+corollaries 1
 corollet
 cholecystonephrostomy
 corolliferous
