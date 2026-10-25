@@ -9484,7 +9484,7 @@ fideicommissumissa
 friseur
 financed
 fishwoman
-facinorous
+facinorous 1
 ffa
 frauleins
 formaliter
