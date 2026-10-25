@@ -5319,7 +5319,7 @@ endorsed
 enchantress
 emendating 2
 effector
-endorsees
+endorsees 1
 emeriti
 epicoracoidal
 eustachium
