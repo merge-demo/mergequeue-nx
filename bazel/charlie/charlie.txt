@@ -2308,7 +2308,7 @@ cromorne
 canalboat
 charales
 canale 1
-canaled
+canaled 1
 cobs
 cithrens
 carthaginian
