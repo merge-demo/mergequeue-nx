@@ -6935,7 +6935,7 @@ carinaria
 claudicate
 cementmaker
 catapan
-candidly
+candidly 1
 cementoblast
 cementoma
 cements
