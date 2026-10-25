@@ -8312,7 +8312,7 @@ archiepiscopacy 1
 alight
 adipopectic
 anomoeanism
-aligned
+aligned 1
 atropamine
 archived
 aligning
