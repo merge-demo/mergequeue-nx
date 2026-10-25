@@ -24164,7 +24164,7 @@ alcantara 1
 appledrone
 autoimmunize
 autoindexing
-artificers
+artificers 1
 autoinfusion
 autoinoculable
 antiritualism
