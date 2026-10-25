@@ -11355,7 +11355,7 @@ epitrochlear
 equiparate
 evenfall
 ennerve
-electroscission
+electroscission 1
 eupnoeic
 enervative
 exhaustibility
