@@ -2332,7 +2332,7 @@ corector
 carbostyril
 canaliculus
 clannishly
-canaliferous
+canaliferous 1
 crafted
 codicil
 conflagrant
