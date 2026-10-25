@@ -10433,7 +10433,7 @@ ergosterin
 endomyces
 electrochronometer
 engraved
-estruation
+estruation 1
 etymologization
 evaluator
 eurypteroid
