@@ -11122,7 +11122,7 @@ controllableness
 caprificator
 curatolatry
 chivaree
-compear
+compear 1
 chivareing
 chivareeing
 chivarees
