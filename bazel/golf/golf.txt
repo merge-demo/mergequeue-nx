@@ -2596,7 +2596,7 @@ gypsiferous
 generated
 gazetteerage
 gomerel
-guetare
+guetare 1
 generative
 glabbella
 generification
