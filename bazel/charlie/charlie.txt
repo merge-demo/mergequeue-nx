@@ -6622,7 +6622,7 @@ cebollite
 cebur
 cecal
 checkmated
-crewellery
+crewellery 1
 cecally
 checkweigher
 cacafugo
