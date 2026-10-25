@@ -18958,7 +18958,7 @@ canzone
 cohobating
 corved
 cham
-collates
+collates 1
 collation
 collations
 cesti
