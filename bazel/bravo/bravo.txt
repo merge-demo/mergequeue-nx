@@ -9766,7 +9766,7 @@ borg
 bewitching
 barleymow
 beja
-bistriate
+bistriate 1
 bombardment
 beddable
 breeze
