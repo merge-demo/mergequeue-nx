@@ -957,7 +957,7 @@ fruitling
 farceuses 1
 flenched
 facetiousness
-fluorids
+fluorids 1
 frape
 fastigiums
 forkers
