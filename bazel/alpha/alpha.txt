@@ -4547,7 +4547,7 @@ axotomous
 advertence
 advertently
 adverting
-appertise
+appertise 1
 advertisers
 attunes
 albication
