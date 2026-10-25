@@ -56,7 +56,7 @@ flams
 frab
 fetwa 1
 flavonoid
-flauntier
+flauntier 1
 forebless
 foresight
 friskily
