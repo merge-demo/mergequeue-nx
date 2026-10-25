@@ -1835,7 +1835,7 @@ gaggling
 gouts 1
 gemmiparity
 guinean
-gullah
+gullah 1
 gingiva
 gatekeeper
 grizel
