@@ -10415,7 +10415,7 @@ comitadji
 cop
 clear
 crackskull
-cored
+cored 1
 chondrotome
 chiffre
 chigetai
