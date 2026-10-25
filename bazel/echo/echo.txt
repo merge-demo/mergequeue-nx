@@ -10042,7 +10042,7 @@ elod 1
 editresses
 energetical
 epitaphial
-esculetin
+esculetin 1
 evolutions
 emergent
 encastered
