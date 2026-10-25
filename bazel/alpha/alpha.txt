@@ -944,7 +944,7 @@ azoflavine
 absorbing
 absorpt
 absorptiometer
-allegeable
+allegeable 1
 alive 1
 analcites
 absorptional
