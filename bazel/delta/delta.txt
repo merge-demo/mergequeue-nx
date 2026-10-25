@@ -7978,7 +7978,7 @@ drunkometer
 dextroglucose
 distensive
 dextrolactic
-despotes 1
+despotes 2
 diphenylthiourea
 dorosternal
 dextrolimonene
