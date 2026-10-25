@@ -2132,7 +2132,7 @@ floruit
 frigate
 fletch
 faujdar
-fuchsite
+fuchsite 1
 fosterling
 flagstone
 fluer
