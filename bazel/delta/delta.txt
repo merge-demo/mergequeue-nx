@@ -3261,7 +3261,7 @@ drakefly
 dudder
 deferrable
 deferrer
-deferrize
+deferrize 1
 disturbative
 densen
 deferrized 2
