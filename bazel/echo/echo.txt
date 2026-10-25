@@ -2243,7 +2243,7 @@ electary
 engrailing
 enthraldom
 emotionist 1
-elysee
+elysee 1
 electic
 ethnal
 electioneer
