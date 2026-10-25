@@ -28868,7 +28868,7 @@ classmate
 coney
 circumarctic
 calsouns
-crevasses
+crevasses 1
 chubasco
 crumblement
 catharization
