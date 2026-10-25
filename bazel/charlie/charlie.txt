@@ -8000,7 +8000,7 @@ crankshaft
 chabuk
 chabuks
 chac 1
-chacate
+chacate 1
 complainable
 chimin
 caravansaries
