@@ -11013,7 +11013,7 @@ fusuma 1
 farmery
 fumet
 forcipate
-falafel
+falafel 1
 fumets 1
 fumiest
 fluoroscope
