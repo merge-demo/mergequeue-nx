@@ -4695,7 +4695,7 @@ eryhtrism
 encyclopaedically 1
 extraterritorially
 encyclopedia
-enwoman
+enwoman 1
 encyclopediacal 1
 equestrianship
 exceptionability
