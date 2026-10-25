@@ -19583,7 +19583,7 @@ counteraffirmation
 columellia
 columelliaceae
 columels
-columna
+columna 1
 columnal
 camphors
 columnarian
