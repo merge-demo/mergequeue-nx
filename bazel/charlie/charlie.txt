@@ -19339,7 +19339,7 @@ coloproctitis
 coloptosis
 colopuncture
 coloquintid 1
-craniotabes
+craniotabes 1
 carousing
 cerotic
 checkstone
