@@ -9235,7 +9235,7 @@ bow
 bipinnatisect
 bobsledding
 brighter
-bipyramid
+bipyramid 1
 bring
 bipyridyl
 biangulated
