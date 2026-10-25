@@ -28467,7 +28467,7 @@ creates
 creatic 1
 codlin
 creatin
-critiques
+critiques 1
 catelectrotonic
 creatinephosphoric
 condensedly
