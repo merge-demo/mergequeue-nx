@@ -19982,7 +19982,7 @@ commeasure
 commeasured
 commeddle
 commelina
-capers
+capers 1
 commem
 commemorate
 caules

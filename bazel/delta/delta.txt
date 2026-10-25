@@ -16317,7 +16317,7 @@ dragonism
 dainteth
 deplored
 dedolency
-decanate
+decanate 1
 diarchy
 drubs
 duratives
