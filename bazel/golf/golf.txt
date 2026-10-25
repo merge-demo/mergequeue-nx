@@ -1380,7 +1380,7 @@ garnetlike
 grabbles
 gaulin
 gorb
-gastrostegal
+gastrostegal 1
 gravitometer
 garnetter
 glyconeogenetic
