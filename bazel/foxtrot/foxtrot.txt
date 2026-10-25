@@ -11696,7 +11696,7 @@ furil
 fasinite 1
 filmmaker
 foredispose
-flagellums
+flagellums 1
 filets
 fracas
 fas
