@@ -5338,7 +5338,7 @@ greener
 galiongee
 glycollate
 glomerulose
-geometricist
+geometricist 1
 generalised
 glaucus
 grammatology 1
