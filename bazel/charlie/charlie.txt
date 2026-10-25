@@ -20705,7 +20705,7 @@ convolvuli
 consonantise
 complexest
 chylify
-commulative
+commulative 1
 cyanopsia
 commutating
 chelidonate
