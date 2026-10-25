@@ -4988,7 +4988,7 @@ anthropopathia
 armrest
 amphisbaenid
 argentate 1
-auriculate
+auriculate 1
 admissibleness
 aeropathy
 arthritides
