@@ -9996,7 +9996,7 @@ dysacousma
 debriefs
 disopinion
 dimoric
-demigoddess
+demigoddess 1
 dotardism
 derv
 disconnectiveness
