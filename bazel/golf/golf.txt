@@ -6055,7 +6055,7 @@ gallocyanin
 gymnocarpic
 giesel
 gunate
-geyerite 1
+geyerite 2
 grungy
 grislier
 glovemen
