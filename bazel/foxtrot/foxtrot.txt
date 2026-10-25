@@ -9067,7 +9067,7 @@ forenent
 folding
 fiant
 friesish 1
-funnellike
+funnellike 1
 fenter
 forbruise
 foxfires
