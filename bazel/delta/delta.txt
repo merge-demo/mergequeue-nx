@@ -18660,7 +18660,7 @@ deflagrability
 daishikis
 dvigu
 dwayberry
-descendance
+descendance 1
 diligently
 dioptral
 danaide
