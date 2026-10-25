@@ -13474,7 +13474,7 @@ ciliate 1
 ciliated
 ciliately
 coolish
-ciliates
+ciliates 1
 canoness
 contemptful
 catalogued
