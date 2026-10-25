@@ -5586,7 +5586,7 @@ blimpishly
 bel
 bemedalled
 behoovingly
-basinasal
+basinasal 1
 boulanger
 bela
 beluchi
