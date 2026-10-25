@@ -9067,7 +9067,7 @@ diction
 disparage
 defang
 diss
-dermatophobia
+dermatophobia 1
 defigure
 dictionarian
 dorsoabdominal
