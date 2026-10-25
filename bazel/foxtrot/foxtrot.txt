@@ -4721,7 +4721,7 @@ fantasticate
 frettage
 fictation
 fruitfuller
-frumentarious 1
+frumentarious 2
 flabbergast
 forkfuls
 fougue
