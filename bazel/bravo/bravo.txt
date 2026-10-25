@@ -9902,7 +9902,7 @@ beggarly
 bitternut
 benzoated
 buhl
-biotite
+biotite 1
 bitterroot
 backfall
 berrying
