@@ -3961,7 +3961,7 @@ estella
 escapologist
 emirate
 euxanthin
-euskara
+euskara 1
 extremistic
 encephalic
 emotioned
