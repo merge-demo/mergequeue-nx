@@ -9861,7 +9861,7 @@ curiological
 chemokinetic
 chemolysis
 cicero
-chemolyze
+chemolyze 1
 correspondentially
 clamp
 chemophysiology
