@@ -449,7 +449,7 @@ gynecotelic
 glandlike
 garliclike
 gloating 1
-graphologic
+graphologic 1
 gaping
 galeid
 genny
