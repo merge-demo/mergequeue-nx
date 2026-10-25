@@ -15568,7 +15568,7 @@ antimonies
 antimonium
 aboves
 abseil
-antimoniuret
+antimoniuret 1
 anatine
 antethem
 acetabulum
