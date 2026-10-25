@@ -11612,7 +11612,7 @@ cholelith
 conchotome
 cholelithic
 cholelithotomy
-chastising
+chastising 1
 counterbore
 choriambuses
 cholelithotrity
