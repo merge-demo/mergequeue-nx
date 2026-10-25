@@ -10688,7 +10688,7 @@ fungals
 footband
 fastidiously 1
 forecar
-finnier
+finnier 1
 fantasizes
 fatherliness
 figent
