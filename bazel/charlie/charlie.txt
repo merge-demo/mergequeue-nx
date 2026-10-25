@@ -3424,7 +3424,7 @@ centon
 cedarware 1
 caprificate
 canyon
-caprifig
+caprifig 1
 constructionally
 caprifole
 caprifoliaceae
