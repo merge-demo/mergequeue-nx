@@ -2423,7 +2423,7 @@ glaury
 gazel
 goaled
 guiac
-gummose
+gummose 1
 gratification 2
 guardship
 gemmological 1
