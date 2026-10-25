@@ -9483,7 +9483,7 @@ communizing
 checkage
 capsulized
 checkback
-checkbite
+checkbite 1
 checkbits
 checkbook
 counterbuff
