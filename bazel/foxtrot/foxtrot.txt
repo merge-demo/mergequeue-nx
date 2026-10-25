@@ -11635,7 +11635,7 @@ ferren
 flyability
 fustiness
 frontless
-fustoc 1
+fustoc 2
 fussily
 friscal
 fusulae
