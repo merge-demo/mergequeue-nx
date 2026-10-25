@@ -6715,7 +6715,7 @@ danaid
 desiderated
 demikindred
 diacoustics
-desideration
+desideration 1
 deoxidant
 desiderative
 drunkard
