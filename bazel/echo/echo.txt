@@ -12169,7 +12169,7 @@ enswathing 1
 entertainments
 ethaldehyde
 estrado
-electric
+electric 1
 excusefully
 exostome
 embergoose
