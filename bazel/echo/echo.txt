@@ -12459,7 +12459,7 @@ explorate
 exfiltrate
 equilibrial
 electrolysing
-exhuming
+exhuming 1
 epifaunal
 enthronization
 elegiac
