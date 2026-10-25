@@ -10698,7 +10698,7 @@ fleckered 1
 faradays
 fartlek 1
 fortran
-flunkeyistic
+flunkeyistic 1
 flashtubes
 forelaid
 fil
