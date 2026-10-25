@@ -8504,7 +8504,7 @@ elongates 1
 epuration
 exculpable
 effectual
-englisher
+englisher 1
 enwombs
 equableness
 eugeosyncline
