@@ -12850,7 +12850,7 @@ efecks 1
 exoticist
 eudipleural
 encircled
-exoterically
+exoterically 1
 erythremomelalgia
 episcopal
 exoticness 1
