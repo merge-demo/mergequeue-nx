@@ -12589,7 +12589,7 @@ bonnocks
 bonnwis
 bionomist 1
 bonorum
-bisector
+bisector 1
 bagatelle
 bills
 brainchild
