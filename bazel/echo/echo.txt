@@ -13396,7 +13396,7 @@ exter
 expounder
 eulogised
 ems
-enthrong
+enthrong 1
 evaluative
 express
 extralinguistic
