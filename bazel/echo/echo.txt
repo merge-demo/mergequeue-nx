@@ -10865,7 +10865,7 @@ enologist
 excised
 exanthematic
 encalendar
-emblazonment
+emblazonment 1
 examinationism
 euphemisation
 euphemise
