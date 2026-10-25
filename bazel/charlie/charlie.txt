@@ -1277,7 +1277,7 @@ calendrical
 calendula 1
 calendulas
 calendulin
-calentural
+calentural 1
 chivalries
 coolabah
 calenture

@@ -14389,7 +14389,7 @@ durian
 dehydrocorydaline
 desolative
 detainable
-dephlogisticated
+dephlogisticated 1
 dolicholus
 divaricator
 divast
