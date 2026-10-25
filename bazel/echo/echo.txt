@@ -9168,7 +9168,7 @@ erodes
 edgeless
 exterminatory
 extradition
-enslavement
+enslavement 1
 enginelike
 everts
 exhorted
