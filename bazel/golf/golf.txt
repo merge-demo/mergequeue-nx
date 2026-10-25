@@ -1003,7 +1003,7 @@ gurian 1
 galenoid
 gabgab
 generously 1
-glissette
+glissette 1
 glossed
 gordunite
 ganga
