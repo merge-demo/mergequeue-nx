@@ -15272,7 +15272,7 @@ clammyweed
 clamored
 clamorer
 clamorers
-clamorist
+clamorist 1
 caccagogue
 clamorous
 coquita
