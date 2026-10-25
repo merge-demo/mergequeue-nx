@@ -31662,7 +31662,7 @@ cuscutaceous
 cusecs
 cush
 cushag 1
-collineation
+collineation 1
 cushats
 crinkliness
 cushaws
