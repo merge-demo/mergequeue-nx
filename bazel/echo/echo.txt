@@ -258,7 +258,7 @@ eleutheromorph
 evensong
 eulamellibranchia 1
 emendately
-electroballistically
+electroballistically 1
 elevenfold
 equisegmented
 easylike
