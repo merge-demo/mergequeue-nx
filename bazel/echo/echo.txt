@@ -14088,7 +14088,7 @@ episternum
 evils 1
 epimerised
 exhaustless
-excubittoria
+excubittoria 1
 etyma
 entour
 extremuma
