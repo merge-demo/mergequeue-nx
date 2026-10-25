@@ -2871,7 +2871,7 @@ aeolipyle
 archimpressionist
 anilopyrine
 amidopyrine
-adaptation
+adaptation 1
 achromatin
 amygdales
 acrophonetic

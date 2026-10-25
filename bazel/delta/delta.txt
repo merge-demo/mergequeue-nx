@@ -10141,7 +10141,7 @@ decertification 1
 dawson
 disaffiliations
 dynes
-desentimentalize
+desentimentalize 1
 deminatured
 dinetic
 dinette
