@@ -230,7 +230,7 @@ enmew 1
 esophagal
 earwigginess
 exsiccation
-emmetrope
+emmetrope 1
 environs
 enhaulse
 exceptively 1
