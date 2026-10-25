@@ -10784,7 +10784,7 @@ dependent
 dipterus
 dotterel
 diptychs
-differencing
+differencing 1
 dipware
 diver
 disposal
