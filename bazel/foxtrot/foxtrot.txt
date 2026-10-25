@@ -8003,7 +8003,7 @@ fixgig
 feminises
 fumeless
 forespeaking 1
-flavorer
+flavorer 1
 feuter
 farfugium
 fletton
