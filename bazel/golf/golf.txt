@@ -10129,7 +10129,7 @@ gipsyhead
 guffer
 glaziers
 guggle
-glottologic
+glottologic 1
 gaby
 guglet
 goldenhair
