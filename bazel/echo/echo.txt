@@ -3044,7 +3044,7 @@ enraging
 exhortatory
 elixiviate
 excerptor
-ensheathes
+ensheathes 1
 epiphenomenal
 esophagoscope
 epigram
