@@ -1566,7 +1566,7 @@ dyssodia
 deadfalls
 deviler
 dim
-denominant
+denominant 1
 deadheartedly
 deadheartedness 1
 deady
