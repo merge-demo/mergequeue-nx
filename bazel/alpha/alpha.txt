@@ -9530,7 +9530,7 @@ ambassiate
 alonzo 1
 althorn
 alticamelus
-apagoge
+apagoge 1
 altify
 aprosopous
 antiparasitical
