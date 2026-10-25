@@ -13107,7 +13107,7 @@ daresay
 deprivative
 declivities
 diversifying
-doozer
+doozer 1
 directionless
 dispergate
 doraskean
