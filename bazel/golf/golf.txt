@@ -9714,7 +9714,7 @@ gasoliery 1
 goodish
 gruyere
 gasterosteidae
-glutinant
+glutinant 1
 gratefully
 gorfly
 gascromh
