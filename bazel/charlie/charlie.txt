@@ -28733,7 +28733,7 @@ clericity
 crepey
 chiru
 constringe
-coincides
+coincides 1
 crepy
 crepiest
 crepine
