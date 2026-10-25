@@ -10519,7 +10519,7 @@ flite
 foldstool
 floristry
 firemen
-frowl 1
+frowl 2
 fierily
 frowners
 faciend 1
