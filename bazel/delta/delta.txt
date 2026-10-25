@@ -4833,7 +4833,7 @@ delightsomely
 demonetise
 defenestrates 1
 demonetize
-derotrema
+derotrema 1
 dextrous
 dyscrasing
 dermatosis
