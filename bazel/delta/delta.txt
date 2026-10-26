@@ -17290,7 +17290,7 @@ drome
 dromedarian
 decciares
 dzo
-decapitator
+decapitator 1
 deducible
 dromoi
 digitoxigenin
