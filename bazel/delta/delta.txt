@@ -15243,7 +15243,7 @@ dryest
 dosiology 1
 disrupts
 dialogized 1
-dolled
+dolled 1
 departmentalizing
 dehull
 dollia
