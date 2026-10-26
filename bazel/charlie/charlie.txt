@@ -7585,7 +7585,7 @@ coneighboring
 cerebrals 1
 cardiopericarditis
 cerebrated
-cosmopolite
+cosmopolite 1
 cycloparaffin
 chivaried
 chiasmodontidae
