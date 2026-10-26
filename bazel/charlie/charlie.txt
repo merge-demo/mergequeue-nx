@@ -4011,7 +4011,7 @@ cycadiform
 carcinological
 carcinoma
 carbocyclic
-curtesy
+curtesy 1
 carcinomata
 corroborees
 cutcheries
