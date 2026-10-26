@@ -12236,7 +12236,7 @@ altruism
 almach
 anchorite
 arraignable
-archinfamy
+archinfamy 1
 arbalests
 acetoveratrone
 alignment
