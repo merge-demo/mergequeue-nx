@@ -7565,7 +7565,7 @@ gypsywort
 grinagog
 gowked
 grein
-gambet
+gambet 1
 ghastfulness
 glucolysis
 gruntle
