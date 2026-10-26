@@ -25679,7 +25679,7 @@ cobra
 correctress
 conoid
 centupled 1
-corregimientos
+corregimientos 1
 chaucerianism
 correl
 coolaman
