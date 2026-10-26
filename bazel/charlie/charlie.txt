@@ -14312,7 +14312,7 @@ conamed
 circumrotate
 cuneonavicular
 circumrotatory
-calochortus
+calochortus 1
 cask
 connectivity
 circumscribable
