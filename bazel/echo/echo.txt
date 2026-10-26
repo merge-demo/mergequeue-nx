@@ -12800,7 +12800,7 @@ epomophorus
 exines
 extensional
 exostosis
-exarchist
+exarchist 1
 exostra
 ebullition
 engraves
