@@ -1300,7 +1300,7 @@ former
 foxtails
 fructivorous
 fatbird
-fatefully
+fatefully 1
 fanaticise
 findability
 fernambuck
