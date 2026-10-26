@@ -23791,7 +23791,7 @@ antimallein
 austereness
 afterguns
 asks
-apposite
+apposite 1
 astraeid
 auxetical
 avianization
