@@ -764,7 +764,7 @@ emotive
 enabling 1
 embryoctony
 equilibrist
-easternizing
+easternizing 1
 ecoute
 exscinding
 ecphonema
