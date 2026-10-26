@@ -6929,7 +6929,7 @@ dunamis
 dehydrogenating
 despairfully
 delphinid
-deaconize
+deaconize 1
 despairing
 desparple
 disturber
