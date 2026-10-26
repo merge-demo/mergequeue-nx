@@ -17907,7 +17907,7 @@ bushfighting
 bushfires
 backslider
 blamed
-blackfellow
+blackfellow 1
 bushgrass
 bubbled
 bushy
