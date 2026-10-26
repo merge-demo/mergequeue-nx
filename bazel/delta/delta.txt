@@ -16161,7 +16161,7 @@ desecrate 1
 dovened
 deoxygenize
 drewite
-devisal
+devisal 1
 dovening
 demicanton
 desireless
