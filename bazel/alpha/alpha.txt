@@ -6456,7 +6456,7 @@ antiweed
 aguirage
 aguise
 antimeter
-axanthopsia 1
+axanthopsia 2
 antignostical
 ameliorant
 auxanology
