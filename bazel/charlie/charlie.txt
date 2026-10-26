@@ -2181,7 +2181,7 @@ camphorweed
 camphorwood
 cotan
 campi 1
-campy
+campy 1
 campier
 campiest
 campignian
