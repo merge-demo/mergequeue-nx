@@ -13571,7 +13571,7 @@ algy
 annulary
 annularia
 arrowing
-annulately
+annulately 1
 adjourning
 annulation
 aquarist
