@@ -14282,7 +14282,7 @@ anthelia 1
 aramaean
 amphibolies
 autochthonous
-anhedonia
+anhedonia 1
 anthelix
 archaeomagnetism
 anthem

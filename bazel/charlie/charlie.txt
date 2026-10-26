@@ -29458,7 +29458,7 @@ crystalligerous
 civilizade
 crystallin
 crystalling
-crystallisability
+crystallisability 1
 caramel 1
 correctedness
 cueist
