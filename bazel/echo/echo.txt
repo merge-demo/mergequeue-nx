@@ -9481,7 +9481,7 @@ escot
 endbrain
 emperor
 enghosted 1
-excurved
+excurved 1
 eupneas
 essayistic
 esca
