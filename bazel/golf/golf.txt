@@ -5886,7 +5886,7 @@ guadalcazarite
 goldfinch
 glycosidase
 gawney 1
-gipsyweed
+gipsyweed 1
 glucoses
 glances
 glucoside
