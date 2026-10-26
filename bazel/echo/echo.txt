@@ -9446,7 +9446,7 @@ embowering
 eschew
 exteriorizing
 eschewed
-expand
+expand 1
 ecbolics
 embedment
 erysiphe
