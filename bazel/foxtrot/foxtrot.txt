@@ -8342,7 +8342,7 @@ fair
 foundling
 fils
 furriner
-flagellata
+flagellata 1
 forkedness
 folderol
 feastful
