@@ -24592,7 +24592,7 @@ copies
 copyfitter
 comvia
 copyfitting
-copygraph
+copygraph 1
 choring
 contemporised
 cosmati
