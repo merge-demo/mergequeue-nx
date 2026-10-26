@@ -10341,7 +10341,7 @@ gules
 gown
 gonoph
 grot
-glebal
+glebal 1
 guarana
 gaums
 gulfweeds
