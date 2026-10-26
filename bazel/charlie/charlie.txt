@@ -26016,7 +26016,7 @@ cardcase
 cosectional 1
 cosed
 clipei
-citadels
+citadels 1
 cosegment
 cosey
 chimesmaster
