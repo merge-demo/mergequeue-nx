@@ -6691,7 +6691,7 @@ garce
 guarnieri
 gumboils
 gastropancreatic
-gymnoglossa
+gymnoglossa 1
 genuflected
 goniatites
 garterless
