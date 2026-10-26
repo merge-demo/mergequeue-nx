@@ -1801,7 +1801,7 @@ dwelled
 debarkment 1
 doohickeys
 debarment
-debarrance
+debarrance 1
 duryl
 debarring
 drummock
