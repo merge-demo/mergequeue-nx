@@ -13637,7 +13637,7 @@ anodized
 abaisance
 anodizes
 acoelomous
-artefacts
+artefacts 1
 ampollosity
 antituberculous
 anticum
