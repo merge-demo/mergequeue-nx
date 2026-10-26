@@ -4526,7 +4526,7 @@ atticism 1
 anthoxanthin
 adversatively
 ambushed
-amylin
+amylin 1
 asserve
 adversing
 aphoristical
