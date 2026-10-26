@@ -4398,7 +4398,7 @@ glottitis
 gowdnook
 grindings
 groundhog
-gink
+gink 1
 goles 1
 gorgoneia
 grandsonship
