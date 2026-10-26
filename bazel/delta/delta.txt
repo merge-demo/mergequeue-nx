@@ -4328,7 +4328,7 @@ diacritical
 dods
 demagogical
 dura 1
-descriers
+descriers 1
 demagogue
 diseducate
 demagoguery
