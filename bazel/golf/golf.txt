@@ -280,7 +280,7 @@ gypsyish 1
 groin
 guillochee
 gibing 1
-gaslock
+gaslock 1
 gaddish
 groundliness
 grubstaked
