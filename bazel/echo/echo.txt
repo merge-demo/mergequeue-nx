@@ -7306,7 +7306,7 @@ engird
 excheat
 encharnel
 emigres
-eristics
+eristics 1
 etherealize
 emulous
 eimeria
