@@ -4893,7 +4893,7 @@ encroacher
 equalizing
 exponentiations
 elemental
-effeminateness
+effeminateness 1
 excludible 1
 explete
 enjamb
