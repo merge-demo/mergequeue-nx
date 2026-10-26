@@ -28445,7 +28445,7 @@ carpintero
 creant
 creased
 countertenors
-chromotypic
+chromotypic 1
 creaseless
 creasers
 creases
