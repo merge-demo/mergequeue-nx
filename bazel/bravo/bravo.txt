@@ -7855,7 +7855,7 @@ bibliofilm
 blepharosymphysis
 botaniser
 biocatalytic
-bibliographize
+bibliographize 1
 burglarising
 billyo
 backstitched
