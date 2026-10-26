@@ -18085,7 +18085,7 @@ duke
 dumbbell 1
 dimenhydrinate
 denominating
-discontinuer
+discontinuer 1
 dandriffs
 dumbest
 draftage
