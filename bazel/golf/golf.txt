@@ -6146,7 +6146,7 @@ guttulous
 gns
 geese
 gatefolds
-globical
+globical 1
 glavered
 gardy
 grumpish
