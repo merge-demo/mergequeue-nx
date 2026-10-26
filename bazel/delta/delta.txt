@@ -4708,7 +4708,7 @@ demivambrace
 dorsicollar
 darkling
 drusean
-diminutivize
+diminutivize 1
 defoliates
 dermonecrotic
 designingly
