@@ -3130,7 +3130,7 @@ ascendance
 antimonous
 action
 albiflorous
-antagonizer
+antagonizer 1
 allotrophic
 antispirochetic
 antisupernaturalist
