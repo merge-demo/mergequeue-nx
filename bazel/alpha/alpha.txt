@@ -140,7 +140,7 @@ amused
 afterwitted
 amyotrophic
 amoebid
-amphibiotic
+amphibiotic 1
 abatage
 abate
 alienisms
