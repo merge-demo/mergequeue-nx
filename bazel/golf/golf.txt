@@ -9565,7 +9565,7 @@ geodynamical
 guidage
 groveller 1
 gauteite
-gruels
+gruels 1
 girgasite
 gesticularious
 gymnostomata
