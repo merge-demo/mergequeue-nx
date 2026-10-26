@@ -1712,7 +1712,7 @@ decidendi
 dearworthily
 dearworthiness
 dextrinate 1
-deformedness
+deformedness 1
 deluged
 dornecks
 devastate
