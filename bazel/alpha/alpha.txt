@@ -19035,7 +19035,7 @@ archorrhagia
 aerohydropathy
 aerobes
 antipersonnel
-archostegnosis
+archostegnosis 1
 availingly
 athetizing
 ammocoete
