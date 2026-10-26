@@ -12173,7 +12173,7 @@ electric 1
 excusefully
 exostome
 embergoose
-excuser
+excuser 1
 elytron
 endpoint
 exposure
