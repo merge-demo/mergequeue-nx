@@ -8661,7 +8661,7 @@ boras
 bimanal
 binoxalate
 bimanous
-bradsot
+bradsot 1
 bodysurf
 bournless
 bimanually
