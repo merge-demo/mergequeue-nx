@@ -23019,7 +23019,7 @@ consommes
 consonance
 consonancy
 consonant
-consonantal
+consonantal 1
 consonantalize
 consonantic
 cavalcade
