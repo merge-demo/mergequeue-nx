@@ -6985,7 +6985,7 @@ goofah 1
 guaniferous
 greystone 1
 gebanga
-guirlande
+guirlande 1
 gauntries
 gushiest
 genevoise
