@@ -30503,7 +30503,7 @@ chilblains
 cuba
 cubages
 cubicovariant 1
-corozos
+corozos 1
 cubane
 cubangle
 cubanite
