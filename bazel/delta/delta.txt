@@ -1311,7 +1311,7 @@ dobsons
 dinitro
 densified
 dryermen
-declinate
+declinate 1
 disfranchisements
 dauding
 dicotyledones
