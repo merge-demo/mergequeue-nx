@@ -7414,7 +7414,7 @@ annexe
 actinomyxidia
 albyn
 albinal
-amvis
+amvis 1
 apteryx
 albines
 autobahn
