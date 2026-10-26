@@ -21408,7 +21408,7 @@ almswoman
 acrogenously
 agueproof
 alamoth
-ambulantes
+ambulantes 1
 apartheid
 asoka
 anthracitism
