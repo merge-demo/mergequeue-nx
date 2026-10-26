@@ -7431,7 +7431,7 @@ buboes
 bashalick
 betterment
 bepewed 1
-bulbocavernous
+bulbocavernous 1
 bivouacks
 brabblingly
 bushelled
