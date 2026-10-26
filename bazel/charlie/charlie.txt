@@ -28576,7 +28576,7 @@ creedsman
 criticizes
 creeker
 creekfish
-creekfishes
+creekfishes 1
 cothurnni
 catoptrical
 cheliferous
