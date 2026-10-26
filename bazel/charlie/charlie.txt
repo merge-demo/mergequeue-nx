@@ -1892,7 +1892,7 @@ cessionee
 crimble
 corbinas
 camblet
-confectory
+confectory 1
 cambodian
 calotte
 camboge
