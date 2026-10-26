@@ -7149,7 +7149,7 @@ forebroads
 forgottenness
 fredaine 1
 foosterer
-footfarer
+footfarer 1
 falsework
 footfault
 fricassees
