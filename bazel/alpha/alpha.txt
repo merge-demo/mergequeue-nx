@@ -3417,7 +3417,7 @@ adaxial
 adazzle
 afforded
 adcons
-autopticity
+autopticity 1
 admires
 aesculus
 add
