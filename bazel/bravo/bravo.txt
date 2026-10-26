@@ -17692,7 +17692,7 @@ boviculture
 burlesquing
 burlet
 butterfly
-biotically
+biotically 1
 bidiurnal
 blarney
 brachioganoid
