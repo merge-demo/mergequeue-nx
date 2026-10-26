@@ -7803,7 +7803,7 @@ dishelmed
 discographies 1
 devolves
 dactyloid
-decile
+decile 1
 daylighted
 diathetic
 diplospondylic
