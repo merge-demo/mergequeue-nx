@@ -4226,7 +4226,7 @@ disillude
 drilled
 diddest
 delphinic
-defeasibleness
+defeasibleness 1
 delphiniums
 dossal
 delphinoidine
