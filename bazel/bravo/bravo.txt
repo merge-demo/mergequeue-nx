@@ -9453,7 +9453,7 @@ basaltine 1
 bemedaled 1
 bashes
 birma
-busted
+busted 1
 biggins
 blepharophryplasty
 banya
