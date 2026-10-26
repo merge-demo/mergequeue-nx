@@ -18158,7 +18158,7 @@ bacillicide
 basters
 byzant 1
 butyryls
-boldfacedly
+boldfacedly 1
 butyrin
 besonnet
 begets
