@@ -13163,7 +13163,7 @@ ereptase
 ethnicize 1
 euryalus
 escapisms
-espiegleries
+espiegleries 1
 earclip
 epigynous
 enhancive
