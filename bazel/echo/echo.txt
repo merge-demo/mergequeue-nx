@@ -5585,7 +5585,7 @@ encasement
 enucleator 1
 erroneousness
 essentiality
-endostome
+endostome 1
 evocators
 eugenists
 enfants
