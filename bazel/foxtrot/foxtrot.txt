@@ -4205,7 +4205,7 @@ felonries
 featherstitch
 foothold
 flittermmice
-featurish
+featurish 1
 froe
 fidicinales
 fetus
