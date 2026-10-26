@@ -54,7 +54,7 @@ excursion
 escarped
 eremite
 endothelium
-exhibiter
+exhibiter 1
 evenblush
 earldoms
 earless
