@@ -255,7 +255,7 @@ eyeshots
 embrighten
 easiest
 eleutheromorph
-evensong
+evensong 1
 eulamellibranchia 1
 emendately
 electroballistically
