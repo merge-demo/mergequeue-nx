@@ -9354,7 +9354,7 @@ differentiant
 daggy
 differentiate
 dioscoreaceous
-differentiator
+differentiator 1
 defalcates
 deneb
 dewax
