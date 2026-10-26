@@ -6824,7 +6824,7 @@ destined
 deslime
 dissoconch
 desmachyme
-daubery
+daubery 1
 dockworker
 decidingly
 dictyoceratina
