@@ -7487,7 +7487,7 @@ florally
 faultlessness
 faltered
 flatuses
-fluor
+fluor 1
 fourbagger
 fluellin 1
 frolicful
