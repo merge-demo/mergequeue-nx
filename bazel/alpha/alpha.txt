@@ -25174,7 +25174,7 @@ agist
 acidifiable
 aetheogamic
 anthropomantist
-asynartetic
+asynartetic 1
 avera
 amnionic
 angrite
