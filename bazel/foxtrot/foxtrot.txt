@@ -6685,7 +6685,7 @@ frippery
 fairways
 fogdom 1
 fogfruit
-fibrins
+fibrins 1
 fruiteress
 flatterable
 flintlock
