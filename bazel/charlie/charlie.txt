@@ -3324,7 +3324,7 @@ capoche
 chrysomelidae
 cogware
 chelates
-caponata
+caponata 1
 chloroacetic 1
 capone
 caponette
