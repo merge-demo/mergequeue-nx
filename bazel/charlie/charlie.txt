@@ -7092,7 +7092,7 @@ centesm
 centetid
 centiar
 centiares
-copita
+copita 1
 curvidentate
 coquetoon
 centiday
