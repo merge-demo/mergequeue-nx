@@ -3935,7 +3935,7 @@ bombardier
 bocstaff
 brickbats
 bdelloura
-bisected
+bisected 1
 bassette
 bunch 1
 bristols
