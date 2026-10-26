@@ -2215,7 +2215,7 @@ cheiropodist
 camponotus
 counterhammering
 campos
-conuropsis
+conuropsis 1
 circumfusile
 capotes
 campshed
