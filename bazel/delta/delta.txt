@@ -10593,7 +10593,7 @@ dittology
 displants
 domestic
 dolorimeter
-documented
+documented 1
 decoctible
 diploidic
 dunderbolt
