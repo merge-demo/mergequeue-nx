@@ -103,7 +103,7 @@ annominate 1
 auditories
 abarticulation
 agyieus
-abase
+abase 1
 antedate
 asap
 abasedly
