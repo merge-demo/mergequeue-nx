@@ -10808,7 +10808,7 @@ confusers
 ceorls
 chinoleine
 chinoline
-clowring
+clowring 1
 chinologist
 chinone
 chinook
