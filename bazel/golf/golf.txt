@@ -10516,7 +10516,7 @@ goalee
 gypsous
 grayishness
 garn
-goblinry
+goblinry 1
 gundie
 graspingness
 galipots
