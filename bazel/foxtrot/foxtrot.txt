@@ -10961,7 +10961,7 @@ fouling
 fallfish
 firmless 1
 freesias
-frigidaire
+frigidaire 1
 furors
 forgettable
 fink
