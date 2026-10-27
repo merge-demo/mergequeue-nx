@@ -31645,7 +31645,7 @@ curvograph
 cancelier
 curvometer
 cheeker
-carduelis
+carduelis 1
 conscripttion
 curvulate
 cuscohygrin
