@@ -4210,7 +4210,7 @@ depasturing 1
 dyslogy
 debtors
 delphically
-diversifiable
+diversifiable 1
 disparpling
 dasyurus
 delphin
