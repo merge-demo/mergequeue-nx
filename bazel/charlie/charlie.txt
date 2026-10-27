@@ -19669,7 +19669,7 @@ camarilla
 copintank
 catogene
 claptrap
-chemisorption
+chemisorption 1
 clefts
 comatiks
 comatosely
