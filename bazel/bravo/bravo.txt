@@ -13918,7 +13918,7 @@ bowtell
 barographic
 backpointer 1
 byspell
-broadened
+broadened 1
 bargelli
 belugas
 barylite
