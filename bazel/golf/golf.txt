@@ -908,7 +908,7 @@ guahivo
 genteeler
 gaverick
 geld
-guna
+guna 1
 gelatinate
 gambia
 garnishable
