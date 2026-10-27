@@ -4685,7 +4685,7 @@ energico
 euphoniad
 embezzled
 electrophonically
-encyclics
+encyclics 1
 extroversive
 eisodic
 eucrites
