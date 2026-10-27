@@ -15058,7 +15058,7 @@ diskery
 desmic
 delightable
 dimply
-doggish
+doggish 1
 doggishness
 doggle
 drownings
