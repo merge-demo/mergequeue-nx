@@ -269,7 +269,7 @@ dry
 dizzard
 dagomba
 dagswain
-daguerreotype
+daguerreotype 1
 downspout
 dolichopodous
 dhotee
