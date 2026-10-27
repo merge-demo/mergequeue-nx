@@ -9666,7 +9666,7 @@ bankrupcy
 bismuthal
 bumblefoot
 bismuthate
-burhinus
+burhinus 1
 birchbark
 bismuthide
 bethanked
