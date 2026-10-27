@@ -2067,7 +2067,7 @@ guideboard
 gibbously
 gunbuilder 1
 gutlessness
-glutted
+glutted 1
 gherkins
 gavots
 glycerophosphoric
