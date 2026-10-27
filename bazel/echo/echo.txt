@@ -9914,7 +9914,7 @@ executes
 eduskunta
 ectrodactylous 1
 epideictical
-extensionist
+extensionist 1
 electromagnetics
 exude 1
 exoculated
