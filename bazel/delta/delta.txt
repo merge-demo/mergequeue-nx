@@ -61,7 +61,7 @@ dioptograph
 dichotomise
 dacryorrhea
 durham
-dacryosyrinx
+dacryosyrinx 1
 deglamorized
 down
 demonological
