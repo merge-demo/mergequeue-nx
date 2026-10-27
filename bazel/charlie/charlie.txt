@@ -27616,7 +27616,7 @@ cyanidin
 clientry
 caesuras
 cowages
-cowardy
+cowardy 1
 cowardice
 chrobat
 cowardish
