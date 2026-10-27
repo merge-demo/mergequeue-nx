@@ -18513,7 +18513,7 @@ achromate
 axiology
 arboresque
 aardwolf
-apprizement
+apprizement 1
 anyplace
 arborical
 arboricole
