@@ -11382,7 +11382,7 @@ chloropicrin
 chloroplast
 chloroplastic
 chloroplasts
-cosmonautics
+cosmonautics 1
 coenamorment
 commences
 chiastic
