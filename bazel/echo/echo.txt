@@ -3004,7 +3004,7 @@ epitomes
 enallage
 elinguate
 enfield
-eleatic
+eleatic 1
 eleoblast
 evaluate
 extine
