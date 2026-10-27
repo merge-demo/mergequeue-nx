@@ -10098,7 +10098,7 @@ fenetre
 fluviometer
 fiberizing
 flyover
-flintifying
+flintifying 1
 forefatherly
 franion 1
 foretopman
