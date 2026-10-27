@@ -8423,7 +8423,7 @@ aspidosperma
 alkahestica
 arabana
 arcadia
-annoys
+annoys 1
 alcoholometrical
 alkali
 alkalies
