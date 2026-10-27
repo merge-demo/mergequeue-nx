@@ -9662,7 +9662,7 @@ bristleless
 bipartisanism 1
 bourette
 bismite
-bankrupcy
+bankrupcy 1
 bismuthal
 bumblefoot
 bismuthate
