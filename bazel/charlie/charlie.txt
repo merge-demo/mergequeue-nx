@@ -16606,7 +16606,7 @@ clonus
 cloof
 chymaqueous 1
 chemicoluminescence
-cloot
+cloot 1
 clootie
 chargeling
 clop
