@@ -11829,7 +11829,7 @@ devitalised
 dogma
 defiler 1
 discruciate 1
-dived
+dived 1
 dislimning
 damascenine
 devonport
