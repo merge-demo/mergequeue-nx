@@ -2258,7 +2258,7 @@ exhume 1
 elks
 encyclopedian
 encell
-epauletted
+epauletted 1
 electragy
 electress
 excessive
