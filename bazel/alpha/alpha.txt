@@ -2309,7 +2309,7 @@ afflation 1
 anacardium
 acidometry 1
 antinationalization
-asmear
+asmear 1
 anacamptically
 acidoses
 antiradically
