@@ -10221,7 +10221,7 @@ dinkiest 1
 defrauded
 dinking
 defatting
-dinkum
+dinkum 1
 detractory
 duroc
 dinnerly
