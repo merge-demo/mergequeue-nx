@@ -3349,7 +3349,7 @@ dilatant
 deliriate
 diastem
 demitting
-desisted
+desisted 1
 duddery
 destiny
 domesticable
