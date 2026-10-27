@@ -832,7 +832,7 @@ absalom
 ambisinistrous
 absampere
 alalunga
-ashangos
+ashangos 1
 awanting
 ambiguities
 agaves
