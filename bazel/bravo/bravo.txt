@@ -6232,7 +6232,7 @@ bissextus 1
 battalions
 barndoor
 biuret
-bosporus
+bosporus 1
 blastogenesis
 bubas
 blatantly
