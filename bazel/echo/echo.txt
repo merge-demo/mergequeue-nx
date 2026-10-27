@@ -12407,7 +12407,7 @@ epistyles 1
 enameled
 echeloned
 exauguration
-elaphoglossum
+elaphoglossum 1
 exhibitionist
 electroengraving
 enthrones
