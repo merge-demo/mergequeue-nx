@@ -11898,7 +11898,7 @@ dragoonade
 daguerreotypic 1
 disdein
 dardani
-doubleheader
+doubleheader 1
 dephlegmate
 disbecome
 disdenominationalize
