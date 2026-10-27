@@ -1158,7 +1158,7 @@ enterobiasis
 edomitish
 expective
 eutomous
-exorbitate
+exorbitate 1
 enterograph
 edoni
 excisemen
