@@ -10584,7 +10584,7 @@ euphroes
 enteria
 escallops
 eocarboniferous
-elixation
+elixation 1
 earthiness
 expectance
 euchrome
