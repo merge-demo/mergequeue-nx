@@ -3238,7 +3238,7 @@ equant 1
 eludes
 educive
 extroversively
-exaltedly
+exaltedly 1
 eludible
 enswathes
 enfollow
