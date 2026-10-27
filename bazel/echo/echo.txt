@@ -600,7 +600,7 @@ echometer
 echopractic
 examinate
 elitisms
-ebonise
+ebonise 1
 exobiological
 echt
 ecchymosed
