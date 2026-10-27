@@ -5289,7 +5289,7 @@ dewey
 deligated
 drammer
 density
-defat
+defat 1
 degasifier
 dispositioned
 diatomaceoid
