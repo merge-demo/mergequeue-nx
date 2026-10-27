@@ -30557,7 +30557,7 @@ crucibulum
 crankery
 contraprops
 cubitale
-caninal
+caninal 1
 cubitalia
 cubiti
 cubitiere
