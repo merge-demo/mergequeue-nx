@@ -201,7 +201,7 @@ dak
 deemstership
 dysgenic
 disciplinarianism 1
-daffadilly
+daffadilly 1
 dicatalectic
 dione
 didascalos
