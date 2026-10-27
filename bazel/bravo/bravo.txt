@@ -8523,7 +8523,7 @@ baar
 bandos
 bennis
 barih
-bejeweling
+bejeweling 1
 barabra 1
 baptism
 bo
