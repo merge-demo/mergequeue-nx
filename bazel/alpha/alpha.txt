@@ -18280,7 +18280,7 @@ animaters
 arabitol
 anticoagulants
 appeaser
-amorphinism
+amorphinism 1
 anacatharsis
 avails
 arabophil
