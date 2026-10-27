@@ -21727,7 +21727,7 @@ altitude
 anthropophaginian
 anniv
 antrocele
-assembler
+assembler 1
 antienthusiastically
 assemblyman
 aerohydrotherapy
