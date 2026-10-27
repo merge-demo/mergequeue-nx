@@ -9037,7 +9037,7 @@ epiphyll
 entria
 ephesine
 emlen
-endothermic
+endothermic 1
 exocyclic
 equiglacial
 episcenium
