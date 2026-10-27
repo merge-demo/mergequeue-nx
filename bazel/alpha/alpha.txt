@@ -18152,7 +18152,7 @@ adenosclerosis 1
 aeolid
 allowably
 anticontagiousness
-autolytic
+autolytic 1
 aquarius
 astint 1
 anacusia
