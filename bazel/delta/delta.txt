@@ -1065,7 +1065,7 @@ darners
 darning
 dewooled
 dimeters
-decarch
+decarch 1
 dorsodynia
 doling
 darraign
