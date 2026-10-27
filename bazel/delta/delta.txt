@@ -5960,7 +5960,7 @@ destalinize
 discussible
 dayfly
 diplodus
-deprogrammed
+deprogrammed 1
 drillstock
 dottling
 devonic
