@@ -27292,7 +27292,7 @@ chymification
 countship
 coupage
 coupe
-couped
+couped 1
 cicrumspections
 cocus
 calked
