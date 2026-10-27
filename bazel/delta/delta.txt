@@ -8195,7 +8195,7 @@ disenorm
 dauby
 diaconica 1
 depotentiation
-dragooning
+dragooning 1
 deputable
 dactylic
 drabbets
