@@ -4144,7 +4144,7 @@ eslabon
 entangler
 envisaged
 endives
-exedral
+exedral 1
 epirote 1
 eiffel
 ensheathed
