@@ -4994,7 +4994,7 @@ endellionite
 eucephalous
 emigates
 electrocorticogram
-envy
+envy 1
 extirpative
 equinia
 engraphic
