@@ -9479,7 +9479,7 @@ glossy
 ganser
 glossographical 1
 gleeishly
-gauffering
+gauffering 1
 grilled
 gossamery
 gae
