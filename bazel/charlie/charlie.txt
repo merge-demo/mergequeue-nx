@@ -27053,7 +27053,7 @@ cyclitis
 counterpronunciamento
 cetylene 1
 counterpropaganda
-checklaton
+checklaton 1
 chalcotrichite
 counterpropagandize
 counterprophet
