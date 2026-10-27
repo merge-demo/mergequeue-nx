@@ -18502,7 +18502,7 @@ cleidoscapular
 cohesively
 cribber
 collat
-cohibit
+cohibit 1
 cohibition
 cohibitor
 cohitre
