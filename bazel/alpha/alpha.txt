@@ -12956,7 +12956,7 @@ anguineal
 anguiped 1
 anginiform
 afterhatch
-acutes
+acutes 1
 arbitrations
 achromatising 1
 adjuvants
