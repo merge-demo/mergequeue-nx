@@ -10962,7 +10962,7 @@ fallfish
 firmless 1
 freesias
 frigidaire
-furors
+furors 1
 forgettable
 fink
 fumaroidal
