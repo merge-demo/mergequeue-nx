@@ -10873,7 +10873,7 @@ elected
 euphemising
 enshroud
 euphemistically
-euphemize
+euphemize 1
 eyebeam
 enneapetalous
 euxine
