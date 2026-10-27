@@ -9928,7 +9928,7 @@ fiercely
 frig
 fossilated
 fantoms
-fumatorium
+fumatorium 1
 freckled
 fa
 frigage
