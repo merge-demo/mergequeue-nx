@@ -9609,7 +9609,7 @@ alumel
 amarna
 agrom
 alumic 1
-abesse
+abesse 1
 alumiferous
 acroamatics
 autoinoculation
