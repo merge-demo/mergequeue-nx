@@ -26546,7 +26546,7 @@ cheverons
 coucal
 couchancy
 couchant
-couths
+couths 1
 clothesmen
 coadequate
 cargos
