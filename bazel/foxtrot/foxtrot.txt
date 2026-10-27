@@ -10492,7 +10492,7 @@ freshment
 frillery
 favouringly
 frot
-froth 1
+froth 2
 formulatory
 fanman
 fittingly
