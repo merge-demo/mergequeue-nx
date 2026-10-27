@@ -3351,7 +3351,7 @@ expensefully
 endodermis
 ecdyses 1
 eyry
-entrep
+entrep 1
 eulogic
 expresses
 environed 2
