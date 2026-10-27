@@ -11147,7 +11147,7 @@ chivw
 chiwere
 clumper
 chizz 2
-chizzel
+chizzel 1
 chladnite
 chondrite
 churlishly
