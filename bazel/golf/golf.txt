@@ -2909,7 +2909,7 @@ geocentric
 gadwell
 grandnieces
 gerontocracy 1
-gigots
+gigots 1
 glycollic
 glints 1
 gallipots
