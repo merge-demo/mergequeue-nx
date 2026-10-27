@@ -14230,7 +14230,7 @@ brassware
 bombycinous
 briskets
 bradyseismical
-bradysphygmia
+bradysphygmia 1
 badrans
 bolsheviks
 bit
