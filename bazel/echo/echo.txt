@@ -8559,7 +8559,7 @@ electre
 eburneous
 etherial
 erase
-eumorphic
+eumorphic 1
 equatorward
 etheriform
 equatorwards
