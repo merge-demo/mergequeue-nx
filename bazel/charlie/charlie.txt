@@ -13705,7 +13705,7 @@ cinchonize
 cinchonized
 communiqu
 cinchophen
-cretinoid
+cretinoid 1
 cinchotine
 cullions
 cincinnal
