@@ -531,7 +531,7 @@ germproof
 geeldikkop
 galipoidin
 guzzles
-galleins 1
+galleins 2
 gomphocarpus
 getters
 gnetaceous
