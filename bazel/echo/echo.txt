@@ -11840,7 +11840,7 @@ equiproducing
 elecive
 eulogization
 extromit 1
-excalceate
+excalceate 1
 emasculatory
 excalceation
 excalibur
