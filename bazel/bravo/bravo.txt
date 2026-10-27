@@ -16023,7 +16023,7 @@ braggardism
 bysacki
 bestrewing
 bloodstains
-bowess
+bowess 1
 bronchotyphus
 bronchotome 1
 belucki
