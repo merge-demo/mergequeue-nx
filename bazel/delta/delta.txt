@@ -12018,7 +12018,7 @@ decimus
 domicella
 distichous
 disendow
-dagoes
+dagoes 1
 demideity
 desmodus 1
 disenfranchisement
