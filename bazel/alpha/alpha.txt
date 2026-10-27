@@ -18515,7 +18515,7 @@ arboresque
 aardwolf
 apprizement
 anyplace
-arborical
+arborical 1
 arboricole
 addresses
 acceptees
