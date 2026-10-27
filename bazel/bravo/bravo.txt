@@ -16921,7 +16921,7 @@ buggy
 bakshi
 bluestockingish
 buggier 1
-bushboy
+bushboy 1
 bombardon
 beeve
 bussu 1
