@@ -3561,7 +3561,7 @@ eponyms
 extreme
 epigonus
 entrefer
-embolize
+embolize 1
 eupeptic
 epididymal
 entocone
