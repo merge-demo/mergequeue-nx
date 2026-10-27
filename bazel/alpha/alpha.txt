@@ -13200,7 +13200,7 @@ alienship
 animi 1
 anabiosis
 alchymy
-acoustical
+acoustical 1
 archbeacon
 animikean
 animis
