@@ -8902,7 +8902,7 @@ daunomycin
 disbud
 dicentras
 dipyramid
-dyads
+dyads 1
 defiatory
 diceras
 dmod
