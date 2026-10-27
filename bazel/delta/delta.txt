@@ -17743,7 +17743,7 @@ duboisine
 duc
 dibutyrin
 disconsolate
-dispelling
+dispelling 1
 ducally
 drunt 1
 discriminous
