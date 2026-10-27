@@ -2690,7 +2690,7 @@ birdland
 boraxes
 beakhead
 burnouses
-bewaitered
+bewaitered 1
 barnard
 benightment
 barnbrack
