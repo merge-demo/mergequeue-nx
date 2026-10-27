@@ -19627,7 +19627,7 @@ anthracomartus
 aplastic
 alternativity
 annotate
-ark
+ark 1
 arillate
 affricative
 abwatts 1
