@@ -8201,7 +8201,7 @@ eequinoctium
 enroots
 ethnicity 1
 expirant
-episodical
+episodical 1
 earsh
 episodically
 eviscerates
