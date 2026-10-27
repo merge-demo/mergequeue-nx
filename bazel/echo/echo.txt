@@ -2756,7 +2756,7 @@ emblematicize
 elegiacally
 eighthly 1
 exprobate
-encoil
+encoil 1
 excrescently
 ergastic
 erythropoiesis
