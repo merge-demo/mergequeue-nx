@@ -10078,7 +10078,7 @@ cabinda
 chesses
 chessylite
 chessist
-chirimen
+chirimen 1
 chessner
 chessom
 claves
