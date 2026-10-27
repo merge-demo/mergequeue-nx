@@ -9312,7 +9312,7 @@ civy
 carcoon
 cerris
 custos
-chauk
+chauk 1
 calodaemon
 catagmatic
 chaukidari
