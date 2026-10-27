@@ -21648,7 +21648,7 @@ alphabetising
 assailer
 adopters 1
 assailers
-axiform
+axiform 1
 assays
 assam
 assamites 1
