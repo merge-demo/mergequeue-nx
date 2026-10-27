@@ -10672,7 +10672,7 @@ dyspeptic
 danainae
 dinornithoid
 dawties
-dissipating
+dissipating 1
 durned
 draws
 derivable
