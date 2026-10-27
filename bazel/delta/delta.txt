@@ -12446,7 +12446,7 @@ desulfurate
 dishorn
 discontinue
 douching
-dislocable
+dislocable 1
 diastematic
 dishrags
 dishtowels
