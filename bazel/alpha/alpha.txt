@@ -22582,7 +22582,7 @@ atelomyelia
 ateloprosopia
 acoenaesthesia
 axifera
-acquisitiveness 1
+acquisitiveness 2
 apoaconitine
 adoptative
 atelostomia
