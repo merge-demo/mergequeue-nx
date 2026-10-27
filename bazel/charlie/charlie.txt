@@ -7959,7 +7959,7 @@ celeriacs
 cetrarin
 coenoecial
 cacotrichia
-cetus
+cetus 1
 coattailed
 cevenol
 cyclohexylamine
