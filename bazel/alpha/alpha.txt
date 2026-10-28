@@ -57,7 +57,7 @@ arguitively
 acanthotic
 alkylene
 aridly
-acineta
+acineta 1
 acrocephalous
 abacus
 alcheringa
