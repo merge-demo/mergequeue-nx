@@ -6987,7 +6987,7 @@ championless
 cenotaphy
 contorsive
 craighle
-cenotes
+cenotes 1
 ceremonially
 cuerda
 counterimitation
