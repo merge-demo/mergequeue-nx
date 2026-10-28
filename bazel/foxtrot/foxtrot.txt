@@ -8679,7 +8679,7 @@ forth
 freesia
 flatfooted
 flaunters
-fryers
+fryers 1
 funiculate
 furicane
 flapless
