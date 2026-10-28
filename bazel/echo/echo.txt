@@ -9141,7 +9141,7 @@ episplenitis
 exumbrella
 esrog
 ermanrich
-endotheca
+endotheca 1
 entailer
 epizoarian
 equiponderancy
