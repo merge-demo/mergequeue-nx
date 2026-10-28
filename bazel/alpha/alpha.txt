@@ -21944,7 +21944,7 @@ associativeness
 amplify 1
 armoring
 associativity
-adicity
+adicity 1
 autochthones
 articulating
 anathemata
