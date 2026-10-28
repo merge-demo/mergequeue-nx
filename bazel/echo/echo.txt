@@ -7703,7 +7703,7 @@ electrotautomerism
 expoundable 1
 epideistic
 enthymematical
-eriocaulaceous
+eriocaulaceous 1
 effluxion
 estrus
 esprise 1
