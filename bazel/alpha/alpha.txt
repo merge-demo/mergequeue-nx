@@ -22199,7 +22199,7 @@ astigmatoscopy
 astigmic
 antiphon
 astigmometer
-aglossa
+aglossa 1
 astigmometry
 alluviate
 algologist
