@@ -4756,7 +4756,7 @@ fulldo
 flag
 forestalment
 flammiferous
-furloughing
+furloughing 1
 flagellariaceous
 fleecily
 fasibitikite
