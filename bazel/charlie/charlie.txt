@@ -9486,7 +9486,7 @@ checkback
 checkbite
 checkbits
 checkbook
-counterbuff
+counterbuff 1
 chachalaca
 cableways
 cirrigerous
