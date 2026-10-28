@@ -11088,7 +11088,7 @@ flagellated
 flockless 1
 functionnaire
 functors
-formational
+formational 1
 foulard
 functus
 furivae
