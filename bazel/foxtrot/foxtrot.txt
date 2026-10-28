@@ -1389,7 +1389,7 @@ formose
 fortuneteller 1
 foreshower
 fibrocaseose 1
-ferkin
+ferkin 1
 filmy
 fabronia 1
 fermatas
