@@ -770,7 +770,7 @@ exscinding
 ecphonema
 emotes
 echinal
-euomphalid
+euomphalid 1
 egger
 ecrase
 enclitic
