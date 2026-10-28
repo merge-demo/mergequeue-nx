@@ -11001,7 +11001,7 @@ eusynchite
 eurycephalic
 epiglot
 enridged
-epiclastic
+epiclastic 1
 endopterygote
 electrodialitically
 editorializations
