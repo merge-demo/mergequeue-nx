@@ -15670,7 +15670,7 @@ centres
 claval
 clavariaceous
 custroun
-chromascope
+chromascope 1
 clavated
 carrie
 cytoryctes
