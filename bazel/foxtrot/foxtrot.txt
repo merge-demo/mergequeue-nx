@@ -9180,7 +9180,7 @@ filmize
 fashionmonging
 fenagles
 fusses
-fracturing
+fracturing 1
 filicide
 frenchiness
 foolify
