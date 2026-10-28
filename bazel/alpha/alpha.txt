@@ -11483,7 +11483,7 @@ adenophore
 appetites
 algoristic
 alderman
-astely
+astely 1
 amusement
 artificership
 anagennesis
