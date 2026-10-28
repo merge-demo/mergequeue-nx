@@ -5537,7 +5537,7 @@ fleurettee
 fluemen
 floating
 fleshful
-favourite
+favourite 1
 furunculus
 favouredly
 foamily
