@@ -561,7 +561,7 @@ atweel
 acquit
 asperifoliate
 aventurine
-agla
+agla 1
 astatically
 amens
 accompaniments
