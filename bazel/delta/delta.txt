@@ -15666,7 +15666,7 @@ demobilisation
 determine 1
 dopchick
 dopebook 1
-demonstrator
+demonstrator 1
 discased
 distemperance 1
 dopey
