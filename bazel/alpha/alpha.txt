@@ -2895,7 +2895,7 @@ areographically
 acrosomes
 autolimnetic
 aneurysms
-anapsid
+anapsid 1
 ammoniureted
 awkwardest
 alienist
