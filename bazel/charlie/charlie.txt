@@ -28963,7 +28963,7 @@ chuckler
 cicindelid
 countervengeance
 cigaret
-cricketlike
+cricketlike 1
 coercibility
 crickle
 chandrakanta
