@@ -8644,7 +8644,7 @@ erineum
 enzymotic
 ethanols 1
 erelong 1
-extractor
+extractor 1
 enervous
 exceptionable
 expels
