@@ -8255,7 +8255,7 @@ episternal
 entoloma
 emaceration
 ecclesiologic
-erucic
+erucic 1
 enjoying 1
 entozoa
 epigenist
