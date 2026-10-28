@@ -12170,7 +12170,7 @@ dichloromethane
 daystreak
 dilker
 disproven
-declinations
+declinations 1
 dehusk
 depthometer
 diacetine
