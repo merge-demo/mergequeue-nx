@@ -13208,7 +13208,7 @@ earthworms
 esteemable
 expressivity
 eastertide 1
-encephala
+encephala 1
 echinite
 empyreal
 expressibility
