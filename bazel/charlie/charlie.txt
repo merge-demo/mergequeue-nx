@@ -17112,7 +17112,7 @@ coemptional
 champ
 coadjutor
 coadjutors
-carduus
+carduus 1
 coadjutorship
 coadjutress
 coadjutrix
