@@ -11214,7 +11214,7 @@ anisospore
 amphid
 amphophile 1
 amphidiarthrosis
-aryans
+aryans 1
 amphidisc
 acridan
 auroral
