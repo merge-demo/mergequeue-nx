@@ -22900,7 +22900,7 @@ compreg
 coalizing
 considerate
 codiaeum
-cephalometer
+cephalometer 1
 consideration
 considerations
 considerator
