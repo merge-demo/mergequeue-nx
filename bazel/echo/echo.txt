@@ -13556,7 +13556,7 @@ evadable
 exsiccant
 exsiccatae
 elucidate 1
-exsiccating
+exsiccating 1
 embowment
 ergusia
 exsolving
