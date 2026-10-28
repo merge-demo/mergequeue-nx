@@ -8070,7 +8070,7 @@ forestful
 freezes
 frigger
 forestial
-forepost
+forepost 1
 fessing
 falbala
 forestral
