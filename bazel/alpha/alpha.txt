@@ -661,7 +661,7 @@ affably
 attrist
 abominators
 abomine
-abondance
+abondance 1
 alluvials
 aimara
 apostrophation
