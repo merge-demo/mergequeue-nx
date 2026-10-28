@@ -26821,7 +26821,7 @@ coninidia
 counterespionage
 contumelies
 counterestablishment
-crystallise
+crystallise 1
 correctingly
 conspiring
 counterexcitement
