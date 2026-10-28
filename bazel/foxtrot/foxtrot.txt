@@ -8883,7 +8883,7 @@ foul
 fogger
 finesse
 foulder
-fiberizer
+fiberizer 1
 flatteners
 fouled
 fling
