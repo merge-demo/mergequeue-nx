@@ -4513,7 +4513,7 @@ gays
 grubbers
 galactemia 1
 gawcey
-gorry
+gorry 1
 graveless
 gypsology
 gymnotokous

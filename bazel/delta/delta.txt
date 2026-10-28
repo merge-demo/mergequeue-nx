@@ -14111,7 +14111,7 @@ dubbers
 disturb
 disturbance
 dominican
-divestitive
+divestitive 1
 demipronation
 dendroid
 desmans
