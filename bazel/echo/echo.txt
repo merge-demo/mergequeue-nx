@@ -5145,7 +5145,7 @@ exploiter
 effaced
 expositoriness
 evanishment 1
-endoconidia
+endoconidia 1
 edificate
 epiplanktonic
 ejectives
