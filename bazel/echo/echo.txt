@@ -11794,7 +11794,7 @@ exorcises
 epirot
 elusion
 ensignship 2
-eurymus
+eurymus 1
 endorsingly
 exasperatedly
 eversion 1
