@@ -15023,7 +15023,7 @@ disarrangements
 dolcissimo
 distrains
 distinctify
-determ
+determ 1
 doggerel
 doggerelism
 doggerelist
