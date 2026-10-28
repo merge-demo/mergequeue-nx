@@ -6453,7 +6453,7 @@ grandmaternal
 galleine
 gasification
 gynecomania
-generalizable
+generalizable 1
 goodyear
 goldeney
 gradationately
