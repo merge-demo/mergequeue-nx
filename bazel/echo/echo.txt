@@ -13001,7 +13001,7 @@ elderbrotherish
 estoppage
 embitterer
 enjoins
-edictally
+edictally 1
 expectorative
 eurycerous
 ephebos
