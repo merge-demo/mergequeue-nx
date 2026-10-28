@@ -14302,7 +14302,7 @@ clavierist
 circumpose
 condite
 circumquaque
-circumradius
+circumradius 1
 circumradiuses
 charitable
 claver 1
