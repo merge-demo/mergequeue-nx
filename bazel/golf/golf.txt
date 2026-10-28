@@ -2639,7 +2639,7 @@ glims
 gymnosophist
 genethlic
 glossopetra
-goatee 1
+goatee 2
 glossosteresis
 geniality
 genetics
