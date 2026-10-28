@@ -6722,7 +6722,7 @@ drunkard
 disorderliness
 darnex
 diatribes 1
-desiderta
+desiderta 1
 diptycas
 desidiose
 duckmole
