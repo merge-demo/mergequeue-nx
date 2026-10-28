@@ -3522,7 +3522,7 @@ acknowledgements
 addr
 allotheistic
 actinography
-azores
+azores 1
 addressable
 antics
 avestan
