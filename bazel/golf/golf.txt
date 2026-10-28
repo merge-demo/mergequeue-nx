@@ -10075,7 +10075,7 @@ guerrillas
 guesdism
 groomish
 gigman
-galivanting
+galivanting 1
 glore
 gudgeon 1
 grobianism 1
