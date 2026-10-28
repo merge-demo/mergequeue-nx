@@ -1481,7 +1481,7 @@ beflounce
 ballade 1
 bespottedness
 beglad
-bathyhyperesthesia
+bathyhyperesthesia 1
 bemadamed
 boser
 bacteremia
