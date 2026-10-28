@@ -3665,7 +3665,7 @@ frangula
 franchisee
 fannier
 foregoneness
-fanes
+fanes 1
 frayn
 fulfilment
 flagella
