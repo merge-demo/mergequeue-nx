@@ -1538,7 +1538,7 @@ dupondius
 dedoggerelize
 deacons 1
 demobilizes
-diphygenic
+diphygenic 1
 deactivate
 discoglossid
 distractedly
