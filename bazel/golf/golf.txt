@@ -1791,7 +1791,7 @@ gambados
 guiba
 guaycuruan 1
 galliambic
-gastrorrhea
+gastrorrhea 1
 graecizes
 goutiest
 gonadial
