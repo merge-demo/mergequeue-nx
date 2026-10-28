@@ -5171,7 +5171,7 @@ amphierotism
 aeviternal
 anatomicomedical
 af
-avernal
+avernal 1
 arbalos
 anelastic
 amourist
