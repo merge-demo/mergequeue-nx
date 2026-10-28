@@ -3072,7 +3072,7 @@ diester
 downward
 diuretic
 deewan
-deary
+deary 1
 dehydrogenising
 durzada
 disinvolvement
