@@ -4494,7 +4494,7 @@ carmaker
 circumscriptions
 call
 carmalum
-carmanians
+carmanians 1
 combing
 coldheartedness
 carmelitess
