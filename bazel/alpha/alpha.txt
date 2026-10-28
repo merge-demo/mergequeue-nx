@@ -7716,7 +7716,7 @@ antifungin
 artsy
 apposiopestic
 amplifier
-alcoranic
+alcoranic 1
 aff
 alcosol
 armozine
