@@ -23,7 +23,7 @@ cabaletta
 cestas
 cardplaying
 chertiest
-cabalisms
+cabalisms 1
 crackerberries
 cereus
 caragheen
