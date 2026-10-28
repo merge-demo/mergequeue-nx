@@ -8481,7 +8481,7 @@ diamides
 descanter
 deesis
 dapperest
-diaminogen
+diaminogen 1
 downset
 directionize
 dodecyl
