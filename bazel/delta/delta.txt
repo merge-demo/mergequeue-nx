@@ -4559,7 +4559,7 @@ demilitarizes
 demiliterate
 deflectional
 despotical
-demilustre
+demilustre 1
 diaskeuasis
 demiman
 dali
