@@ -4930,7 +4930,7 @@ aerographical
 aerohydrodynamic
 angakoks 1
 ambodexter
-akaroa
+akaroa 1
 archdapifership
 auncel
 asexuals
