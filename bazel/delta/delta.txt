@@ -10699,7 +10699,7 @@ danelaw
 doublewords
 dipodic
 dipodid
-deleble
+deleble 1
 destained
 depastured
 dawting
