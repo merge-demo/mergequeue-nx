@@ -4254,7 +4254,7 @@ gluttonise
 gynantherous
 gonadectomized
 goliath
-gammoned
+gammoned 1
 gynarchic
 gazella
 geumatophobia
