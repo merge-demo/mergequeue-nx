@@ -766,7 +766,7 @@ dominicale
 drapeable
 diapnotic
 dermoidal
-dispiteously
+dispiteously 1
 dandis
 discursory
 dandisette
