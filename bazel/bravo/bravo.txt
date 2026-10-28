@@ -1336,7 +1336,7 @@ botrylle
 backdrops
 borderlands
 balbusard
-beggarliness
+beggarliness 1
 burlap
 brayed
 butterbump
