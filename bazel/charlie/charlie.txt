@@ -11718,7 +11718,7 @@ chondrify 1
 chondrification
 cygnine
 chondrilla
-chondrinous
+chondrinous 1
 crotalism
 cirrhotic 1
 chondrioma
