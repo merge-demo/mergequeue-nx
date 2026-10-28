@@ -22670,7 +22670,7 @@ calmato
 conoidic
 chessboard
 contributor
-conoidically
+conoidically 1
 camphanyl
 conciser
 camletine
