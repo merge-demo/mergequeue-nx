@@ -15373,7 +15373,7 @@ blondine
 bevomited
 bother
 brachypterous
-brigandine
+brigandine 1
 bandhu
 brigantia
 brigantines
