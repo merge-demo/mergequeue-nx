@@ -3534,7 +3534,7 @@ disapproving
 defrayable
 disembarrassment
 dismissable
-doom
+doom 1
 defrayers
 defraying
 desaturate
