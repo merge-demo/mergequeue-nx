@@ -5067,7 +5067,7 @@ denaturise
 disfigures
 dextrogyrate
 denaturization
-disparaging
+disparaging 1
 desensitizers
 dendraspis
 doomwatcher
