@@ -8153,7 +8153,7 @@ beloeilite
 busybodied
 ballonet
 beardie
-brontophobia
+brontophobia 1
 bash
 banishes
 buffalos
