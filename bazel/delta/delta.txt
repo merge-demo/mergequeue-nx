@@ -2086,7 +2086,7 @@ drip
 demonologies
 digressingly
 decaliters
-dichopodial
+dichopodial 1
 decalitre
 dunlop
 dinornithid
