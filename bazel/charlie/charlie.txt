@@ -13089,7 +13089,7 @@ cybernetics
 cybernion
 cibol
 conjugacy
-cibola
+cibola 1
 cibolero
 cibols
 columnea
