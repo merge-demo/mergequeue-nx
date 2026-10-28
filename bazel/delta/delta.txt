@@ -7906,7 +7906,7 @@ disrump
 decongested
 diffidently
 desecration
-delphinite
+delphinite 1
 draconianism
 desperadoes
 defrock
