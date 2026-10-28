@@ -5976,7 +5976,7 @@ epicondylitis 1
 expectorates
 enframing 1
 enigma
-egotism
+egotism 1
 enigmas
 enjambements
 enigmata
