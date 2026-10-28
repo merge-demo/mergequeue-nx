@@ -1544,7 +1544,7 @@ encarnadine
 engloom
 emarginately
 epistolographer
-eggfruit
+eggfruit 1
 easies
 exhale
 emportment
