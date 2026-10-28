@@ -6473,7 +6473,7 @@ asterism
 aha
 ahamkara
 autoclaves
-affeir
+affeir 1
 antienthusiasm
 angiosperms
 ahantchuyuk
