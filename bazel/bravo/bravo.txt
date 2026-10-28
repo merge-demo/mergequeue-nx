@@ -13580,7 +13580,7 @@ bougie 1
 botry
 boodlers
 barite
-boulangism
+boulangism 1
 bouldered
 bevatrons
 byssi
