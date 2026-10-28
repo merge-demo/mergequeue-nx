@@ -1240,7 +1240,7 @@ anarthropod
 avian
 asexualizing
 acaridean
-angelical
+angelical 1
 amazedly
 ambitus
 acarina
