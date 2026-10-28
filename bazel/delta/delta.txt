@@ -6413,7 +6413,7 @@ doggones
 diglyphic
 docquet
 druidic
-deewans
+deewans 1
 deportment
 disadvanced
 derride
