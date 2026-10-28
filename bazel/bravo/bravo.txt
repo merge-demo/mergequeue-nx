@@ -2766,7 +2766,7 @@ brownstone
 bailouts
 becapping 1
 boose
-buboed
+buboed 1
 boatloading
 bookies
 bookit
