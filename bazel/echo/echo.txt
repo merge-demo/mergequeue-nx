@@ -653,7 +653,7 @@ estonians
 engravings
 establishmentism
 ebriety 1
-ennoble
+ennoble 1
 evilness
 exprobration
 extimulate
