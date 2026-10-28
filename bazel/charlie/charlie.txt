@@ -26934,7 +26934,7 @@ creedalist
 calibres
 countermanding
 countermaneuver
-countermanifestoes
+countermanifestoes 1
 countfish
 columbotitanate
 colorable
