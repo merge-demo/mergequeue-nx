@@ -889,7 +889,7 @@ absinthole
 amphivasal
 angiohypertonia
 amphineurous
-aeronomy
+aeronomy 1
 alachah
 akroterion
 anabong
