@@ -470,7 +470,7 @@ benzoates 1
 backspaces
 blepharocera
 backspacing
-butteries
+butteries 1
 beestings
 brubu
 broomier

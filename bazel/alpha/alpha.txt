@@ -7002,7 +7002,7 @@ adenodiastasis
 aiwan
 annamitic
 adobo
-aspirata
+aspirata 1
 aywhere
 aizoon
 antitryptic
