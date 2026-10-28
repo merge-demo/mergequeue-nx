@@ -5628,7 +5628,7 @@ fireboot 1
 fuci 1
 flyless
 forbearingly
-fuddle
+fuddle 1
 fulgurata
 foxite 1
 firetop
