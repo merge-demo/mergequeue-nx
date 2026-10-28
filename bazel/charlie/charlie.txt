@@ -31291,7 +31291,7 @@ crumblier
 curbings
 cotonam
 curbline
-curbs
+curbs 1
 curbside
 curbstone
 curbstoner

@@ -11930,7 +11930,7 @@ anew
 amenism
 aricin
 anapaite
-aenean
+aenean 1
 acquiesence
 arboreta
 athetoids
