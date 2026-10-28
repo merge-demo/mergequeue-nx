@@ -12292,7 +12292,7 @@ exempted
 exemption
 essenhout
 entremess
-errorless
+errorless 1
 exemptions
 ephemerist
 eviternal
