@@ -5323,7 +5323,7 @@ faitery
 flb 1
 fantasque
 flutey
-foregather
+foregather 1
 fifteen
 fumarole
 feasts
