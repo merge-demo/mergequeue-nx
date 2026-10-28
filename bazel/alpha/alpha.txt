@@ -5755,7 +5755,7 @@ agapemone
 analysis
 agapemonist 1
 agapetae
-aptenodytes
+aptenodytes 1
 aguacate
 abapical
 adduceable
