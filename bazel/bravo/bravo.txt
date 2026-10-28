@@ -733,7 +733,7 @@ bending
 befoul
 babiches
 bandsawing
-badges
+badges 1
 badging
 buddhism
 banksman
