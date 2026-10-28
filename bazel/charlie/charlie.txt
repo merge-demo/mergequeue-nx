@@ -1916,7 +1916,7 @@ cambuca
 cambuscan
 came
 camel
-comforted
+comforted 1
 cameleer
 culverins
 camelia
