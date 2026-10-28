@@ -2717,7 +2717,7 @@ funnier
 figpecker
 ficche
 fathomer
-fantasts 1
+fantasts 2
 fiefs
 farcicalness
 flagitate
