@@ -6524,7 +6524,7 @@ ephemeric
 englishes
 ephemeris 1
 egomaniacal
-enrollment
+enrollment 1
 ectosphenoid
 essayists
 entrenchments
