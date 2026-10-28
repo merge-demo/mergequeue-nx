@@ -3629,7 +3629,7 @@ batlet
 batlike
 bifanged
 buyides
-biosterol
+biosterol 1
 baculiform
 bedighting
 bipinnately 1
