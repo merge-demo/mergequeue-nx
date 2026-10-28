@@ -2002,7 +2002,7 @@ feere
 flipper 1
 fautor
 fours
-feeze
+feeze 1
 fimicolous 1
 furmity
 funnelled
