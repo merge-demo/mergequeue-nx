@@ -6067,7 +6067,7 @@ agists
 agit 1
 adjustors
 afore
-agitability
+agitability 1
 archilowe
 accouters
 agitant
