@@ -14887,7 +14887,7 @@ andvari
 abe
 attendancy
 austrian
-antilogs 1
+antilogs 2
 anticipative
 attensity
 activeness
