@@ -10475,7 +10475,7 @@ dotty
 diphtheric
 denticeti
 diphtheritically
-disarraying
+disarraying 1
 dourly
 dishonesties
 diphthongally
