@@ -21980,7 +21980,7 @@ confiners
 confines
 confining
 confinity
-chivying
+chivying 1
 californicus
 clitoromaniac
 croak
