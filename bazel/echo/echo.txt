@@ -8606,7 +8606,7 @@ eutaxic
 equidiurnal
 eelpouts
 executor
-eleutheromania
+eleutheromania 1
 equidivision
 epigrammatising
 embouchures
