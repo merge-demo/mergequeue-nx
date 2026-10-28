@@ -6882,7 +6882,7 @@ failing
 frustratingly
 flaggings 1
 figurist
-feline
+feline 1
 fatuous
 fornacic
 forebackwardly

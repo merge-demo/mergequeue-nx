@@ -7404,7 +7404,7 @@ diadoche
 daric
 detoxicant
 dehorter 1
-dicyclist
+dicyclist 1
 diadochian
 domesday
 discussed
