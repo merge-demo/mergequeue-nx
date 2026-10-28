@@ -18580,7 +18580,7 @@ arcading
 aggravate
 atomical
 arctogaean
-antipatriarchally
+antipatriarchally 1
 allurer
 antitragi
 aperch
