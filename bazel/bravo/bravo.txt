@@ -6821,7 +6821,7 @@ baroi
 bes
 bushpig
 boaedon
-bivouac
+bivouac 1
 busboy
 battalia
 bitulithic
