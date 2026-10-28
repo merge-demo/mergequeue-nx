@@ -4698,7 +4698,7 @@ furca
 flopwing
 fangs 2
 fummel
-furtherer
+furtherer 1
 flamboyancy 1
 fluorene
 fistlike
