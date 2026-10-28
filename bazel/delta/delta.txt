@@ -9811,7 +9811,7 @@ diggings
 dills
 delusiveness
 dillseed
-deputations
+deputations 1
 dimetria
 decarbonised
 distends
