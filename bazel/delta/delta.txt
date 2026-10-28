@@ -187,7 +187,7 @@ daedaloid
 diel
 diaplasma
 daedalous
-divulgated
+divulgated 1
 defilable
 decontamination
 daemony
