@@ -2675,7 +2675,7 @@ canine
 consuetudinary
 canines
 caning
-caniniform
+caniniform 1
 choledochoenterostomy
 confidantes
 caninities
