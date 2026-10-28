@@ -7665,7 +7665,7 @@ fittywise
 fiefdom
 forsteal
 forecasting
-freeze
+freeze 1
 foxskin
 fano
 fiesta 1
