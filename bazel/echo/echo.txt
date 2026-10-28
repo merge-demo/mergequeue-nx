@@ -433,7 +433,7 @@ excuse
 exarchies
 eburin
 exobiologists
-ec
+ec 1
 ecardines 1
 extravagate
 ernest
