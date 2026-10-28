@@ -31032,7 +31032,7 @@ chry 1
 cummerbund
 cummerbunds
 cummers
-cummingtonite
+cummingtonite 1
 cummock
 crewe
 cohob
