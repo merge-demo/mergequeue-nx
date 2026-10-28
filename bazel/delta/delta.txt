@@ -8510,7 +8510,7 @@ deathworm
 dilate
 dianilide
 disheritor
-dianite
+dianite 1
 dianoetically
 decanormal
 dianoia
