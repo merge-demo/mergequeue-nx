@@ -8833,7 +8833,7 @@ gentianaceous
 gallus 1
 globate
 griege
-gm
+gm 1
 gunne
 gadabout
 greegrees
