@@ -16991,7 +16991,7 @@ diacritically
 displenish
 dregs 1
 defrication
-dampeners
+dampeners 1
 disemplaned
 dreidels
 dreikanter
