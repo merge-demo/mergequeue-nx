@@ -12876,7 +12876,7 @@ churchwomen
 churel
 churidars
 cyclized
-cupidity
+cupidity 1
 churinga
 churingas
 churl
