@@ -3907,7 +3907,7 @@ evendown
 exterminating
 eminent
 easternized
-esperance 1
+esperance 2
 eminently
 enamored
 expressionless
