@@ -15357,7 +15357,7 @@ antikenotoxin
 abwatt
 antiking
 aposematic
-araneology
+araneology 1
 alcaic
 antikings
 arachnoidal
