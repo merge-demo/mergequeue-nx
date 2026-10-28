@@ -25230,7 +25230,7 @@ cladode
 covenant
 coryphaei
 coryphaenoididae
-compearance
+compearance 1
 costlier
 cpt
 confucians
