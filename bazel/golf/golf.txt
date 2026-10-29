@@ -1454,7 +1454,7 @@ garnishee
 glovemaker
 guidebookish
 geophagous
-glossagra 1
+glossagra 2
 ghenting
 grossart
 generical
