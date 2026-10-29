@@ -7040,7 +7040,7 @@ dissentiate
 destress
 dorje
 degrees
-disjointed
+disjointed 1
 despumation
 dealing
 desquamating
