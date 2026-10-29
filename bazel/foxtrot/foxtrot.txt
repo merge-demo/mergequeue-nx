@@ -6327,7 +6327,7 @@ fissipeda
 frags
 fluidity 1
 fuzzy
-flack
+flack 1
 futural
 fullback
 floyd
