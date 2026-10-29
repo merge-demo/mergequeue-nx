@@ -14613,7 +14613,7 @@ caduca
 cystolithiasis 1
 cystoma
 cystomas
-corpusculum
+corpusculum 1
 cystometer
 cystomyoma
 coadore
