@@ -5918,7 +5918,7 @@ cannibalic 1
 catha 1
 capillatus
 convolutionary
-cathay
+cathay 1
 cathayan
 cathar
 cathari
