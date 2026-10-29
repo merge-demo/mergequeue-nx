@@ -6260,7 +6260,7 @@ cottar
 caulds
 camize
 caulescent
-caulicle
+caulicle 1
 caulicole
 castrated
 caulicolous
