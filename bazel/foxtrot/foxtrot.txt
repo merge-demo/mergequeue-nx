@@ -7774,7 +7774,7 @@ fabliau
 fogyish
 fondouk
 financial 1
-forejudging
+forejudging 1
 florentines
 funfairs
 feudalized
