@@ -19295,7 +19295,7 @@ areographical
 areolae
 anteriors
 aluminothermics
-areolas
+areolas 1
 areocentric
 areolated
 antiritualistic
