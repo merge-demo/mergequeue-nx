@@ -7486,7 +7486,7 @@ detur
 deturpate
 decomposability
 demurity
-dopster
+dopster 1
 downtowner
 deuced
 dizenment
