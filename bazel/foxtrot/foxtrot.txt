@@ -5687,7 +5687,7 @@ flinkite
 flint
 fluffer
 ferratin
-footpound
+footpound 1
 folioliferous
 fresnels
 factional
