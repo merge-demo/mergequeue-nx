@@ -8457,7 +8457,7 @@ epopoeias
 eveweed
 etym
 exocannibalism
-epigrammatical
+epigrammatical 1
 eryops
 embroidering
 epos
