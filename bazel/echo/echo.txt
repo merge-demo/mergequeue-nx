@@ -13227,7 +13227,7 @@ epiphytism
 eldred
 exheredate 1
 excluders
-exoarteritis
+exoarteritis 1
 exanthalose
 enlightenedness
 explanted
