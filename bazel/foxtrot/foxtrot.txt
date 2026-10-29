@@ -11636,7 +11636,7 @@ flyability
 fustiness
 frontless
 fustoc 1
-fussily
+fussily 1
 friscal
 fusulae
 feathery
