@@ -25405,7 +25405,7 @@ crotcheted
 cornicles
 corniculer
 corniferous
-cornific
+cornific 1
 circumlocutions
 centesimally
 corniform
