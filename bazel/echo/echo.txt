@@ -5448,7 +5448,7 @@ extrabulbar
 ecderonic
 endseal 1
 endshake
-elfishly
+elfishly 1
 egretta
 easterly
 enfirm
