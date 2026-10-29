@@ -1384,7 +1384,7 @@ flecnodal 1
 facto
 furmenties
 fiche
-fornicates
+fornicates 1
 formose
 fortuneteller 1
 foreshower
