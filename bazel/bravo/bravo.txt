@@ -12883,7 +12883,7 @@ banyoro
 bacciform
 boorishness 1
 bulldog
-bertrandite
+bertrandite 1
 blondes
 beauticians
 boost
