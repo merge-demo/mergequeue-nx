@@ -21975,7 +21975,7 @@ confine
 comports 1
 confined
 cadging
-confinedly
+confinedly 1
 confiners
 confines
 confining
