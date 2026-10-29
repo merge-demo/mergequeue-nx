@@ -14119,7 +14119,7 @@ circulant
 circular
 colistins
 chuffing
-coffers
+coffers 1
 cryalgesia
 circularisation
 cronus
