@@ -8927,7 +8927,7 @@ disheartening
 detailers
 distantness
 dully
-divinyl
+divinyl 1
 dichloramine
 dichloride
 dichloroacetic
