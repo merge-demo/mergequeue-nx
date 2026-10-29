@@ -9845,7 +9845,7 @@ gallivant
 gospellike
 gnathopoda
 grousers
-gorillas
+gorillas 1
 geckotidae
 guajillo
 gallicism
