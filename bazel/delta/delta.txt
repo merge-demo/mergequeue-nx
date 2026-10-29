@@ -12600,7 +12600,7 @@ dimyary
 depersonize
 disinters
 deditician
-deodorants
+deodorants 1
 defoamers
 diapiric
 downmost
