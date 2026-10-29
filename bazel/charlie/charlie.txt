@@ -26247,7 +26247,7 @@ costarred
 continentaler
 chuffiness
 costata
-costated
+costated 1
 cloacas
 congrio
 cedron
