@@ -12376,7 +12376,7 @@ acclimating
 antecommunion
 andrena
 anopluriform
-andrewartha
+andrewartha 1
 albitophyre
 appropre
 adenomeningeal
