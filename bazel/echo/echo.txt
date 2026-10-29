@@ -9073,7 +9073,7 @@ erythrocytosis
 embryogony
 ectasia 1
 epistropheus
-equivocations
+equivocations 1
 educe
 erythrolein
 enteromorpha
