@@ -6288,7 +6288,7 @@ catalases
 cofermentation
 colourize 1
 crescence
-cravingly
+cravingly 1
 cecchine
 cabbaged
 caulocarpic
