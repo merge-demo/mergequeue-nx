@@ -3568,7 +3568,7 @@ boliviano
 bathythermograph
 bathkol
 bipartite
-bathmat
+bathmat 1
 bathmats
 broodsac
 bereaven
