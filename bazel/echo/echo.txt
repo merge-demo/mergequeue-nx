@@ -4842,7 +4842,7 @@ echard
 embosks
 encores
 enemas 1
-excitive
+excitive 1
 engrail
 epicranium
 equivocality
