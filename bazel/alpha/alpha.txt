@@ -3268,7 +3268,7 @@ acetanion
 army
 azimin
 ambassadeur
-algebraize
+algebraize 1
 acutance
 amyloids
 acutances
