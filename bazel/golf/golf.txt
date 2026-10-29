@@ -964,7 +964,7 @@ glomeruli 1
 graptolite
 gunshot
 glist
-genomic
+genomic 1
 gamostele
 gallinule
 glottogony
