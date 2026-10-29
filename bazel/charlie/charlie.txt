@@ -24042,7 +24042,7 @@ coiling 1
 convergences
 comps
 convergency
-columbary
+columbary 1
 convergent
 cytogeny
 chemoceptor
