@@ -24098,7 +24098,7 @@ abrine
 apogenous
 arrtez
 autoette
-antigenicity
+antigenicity 1
 autofrettage
 autogamic
 armament
