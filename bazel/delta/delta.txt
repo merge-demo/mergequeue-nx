@@ -17929,7 +17929,7 @@ disenchanting
 dissembled 1
 displeasurement
 dufrenoysite
-dufter
+dufter 1
 dosage 1
 dactyliography
 delimitate
