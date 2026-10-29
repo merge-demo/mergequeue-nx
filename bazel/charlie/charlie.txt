@@ -2216,7 +2216,7 @@ camponotus
 counterhammering
 campos
 conuropsis
-circumfusile
+circumfusile 1
 capotes
 campshed
 campsheeting
