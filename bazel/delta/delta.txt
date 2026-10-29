@@ -2597,7 +2597,7 @@ divise
 duad
 discouragements
 docetist
-desistence
+desistence 1
 diplocephalous 1
 decoat
 decoct 1
