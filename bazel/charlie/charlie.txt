@@ -23080,7 +23080,7 @@ cyanochlorous
 conspicuously
 cabalic
 conspiracy
-conspirant
+conspirant 1
 conspiration
 confocal
 conspirative 1
