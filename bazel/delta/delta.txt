@@ -10342,7 +10342,7 @@ downtrends
 delightsomeness
 discophore
 dioptra
-depurative
+depurative 1
 demove
 dioptric
 dioptrical
