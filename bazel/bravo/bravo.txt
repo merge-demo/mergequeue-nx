@@ -9031,7 +9031,7 @@ biophagism
 biophilous 1
 biophysic
 biophysiography
-balibuntal 1
+balibuntal 2
 biophysiology
 barky
 butterier
