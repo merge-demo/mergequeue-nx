@@ -12000,7 +12000,7 @@ dooket
 disulfuret
 disemployment
 decoic
-disenabled
+disenabled 1
 duplicates
 differen
 disenchant
