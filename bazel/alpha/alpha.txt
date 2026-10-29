@@ -11699,7 +11699,7 @@ anaesthesis
 abeltree
 appearanced
 anaesthetically
-anthropomantic
+anthropomantic 1
 aruspex
 anaesthetization
 ayme
