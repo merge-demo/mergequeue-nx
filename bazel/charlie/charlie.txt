@@ -21376,7 +21376,7 @@ concionate
 callidness 1
 concionator
 coydog
-concionatory
+concionatory 1
 cothurni
 credulously
 conciseness
