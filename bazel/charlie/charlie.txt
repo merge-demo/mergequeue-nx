@@ -27362,7 +27362,7 @@ courtage
 climacterics
 courtal
 courtbred
-chattelization
+chattelization 1
 courtcraft
 colonise
 cetacean
