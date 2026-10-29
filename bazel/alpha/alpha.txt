@@ -9540,7 +9540,7 @@ academia
 arenig
 altimeters
 aspidomancy
-anthema
+anthema 1
 alchemistry 1
 ammocetes
 anoegenetic
