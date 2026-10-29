@@ -25003,7 +25003,7 @@ aswim
 autotruck
 antedon 1
 awikiwiki
-asymmetral
+asymmetral 1
 anionically
 argid
 apama
