@@ -7640,7 +7640,7 @@ extratelluric 1
 epicondylic
 erected
 epoptist
-equichangeable
+equichangeable 1
 enviousness
 encephalous
 ensconce
