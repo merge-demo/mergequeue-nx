@@ -4103,7 +4103,7 @@ finny 1
 fabulosity
 fylgjur
 foolship
-finnicize
+finnicize 1
 fluctisonant
 fenestellid
 finitely
