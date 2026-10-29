@@ -7859,7 +7859,7 @@ epigonous
 enlaces
 eosines 1
 endopsychic
-electrion
+electrion 1
 emancipating 1
 epigrammatic
 electrifiable
