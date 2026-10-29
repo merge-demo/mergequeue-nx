@@ -3698,7 +3698,7 @@ dactylopterus
 daunting
 dictamnus
 degust
-dasnt 1
+dasnt 2
 degusted
 dregginess
 dewlaps
