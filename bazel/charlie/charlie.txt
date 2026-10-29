@@ -11450,7 +11450,7 @@ county
 chronicler
 chocking
 cockpaddle
-cyrenaicism
+cyrenaicism 1
 chytridium
 cre
 chylified
