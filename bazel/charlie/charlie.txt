@@ -25497,7 +25497,7 @@ corolliferous
 corollifloral
 chincona
 capsidae
-corollitic
+corollitic 1
 cespitose
 cochlitis
 coromell
