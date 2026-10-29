@@ -3919,7 +3919,7 @@ apocarps
 autarkik
 adjudicated
 apostrophied
-adjudication
+adjudication 1
 agglutinin
 adjudicative
 aerostats
