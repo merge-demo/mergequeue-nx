@@ -8858,7 +8858,7 @@ eremuri
 ethnoflora 1
 enerve
 escharoid
-englue
+englue 1
 euorthoptera
 exiler
 epilegomenon
