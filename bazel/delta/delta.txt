@@ -4349,7 +4349,7 @@ denay
 desyl
 dendrodic
 dysphagic
-delead
+delead 1
 demersal
 demanganization
 deliberator
