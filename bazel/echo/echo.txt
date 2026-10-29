@@ -12811,7 +12811,7 @@ exoterica
 elementalistically 1
 excitomotor
 embryology
-epicystotomy
+epicystotomy 1
 equine
 emajagua 1
 exoterical
