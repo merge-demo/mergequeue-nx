@@ -9116,7 +9116,7 @@ gibbose
 grissel
 gingerol
 gadite
-gelseminic
+gelseminic 1
 gummers
 grinders
 gobonated
