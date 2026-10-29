@@ -1832,7 +1832,7 @@ grushie
 granat
 gratility
 gaggling
-gouts 1
+gouts 2
 gemmiparity
 guinean
 gullah
