@@ -16967,7 +16967,7 @@ clusterfist
 catechu
 caprifigs
 coerceable
-circumviate
+circumviate 1
 cashibo
 characin
 confervales
