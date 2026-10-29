@@ -4752,7 +4752,7 @@ encysting
 eugenol
 emptiest
 encysts
-evenest
+evenest 1
 eyepieces
 euphrosyne
 enarthrosis 1
