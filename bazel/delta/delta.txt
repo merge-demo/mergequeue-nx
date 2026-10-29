@@ -12403,7 +12403,7 @@ dong
 disheir
 dicynodon
 diplophyte
-dominate
+dominate 1
 dishelms
 disher
 durability
