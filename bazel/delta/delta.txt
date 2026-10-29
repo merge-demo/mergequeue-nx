@@ -7168,7 +7168,7 @@ decompose
 dispersement
 diductor 1
 drawboring
-deerkill
+deerkill 1
 desulphurize
 depauperate
 depullulation 1
