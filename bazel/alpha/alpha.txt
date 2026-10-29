@@ -8090,7 +8090,7 @@ advisory 1
 aldolase 1
 acronycally
 antiholiday
-algal
+algal 1
 algalia
 anolytes
 algarroba
