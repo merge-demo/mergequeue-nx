@@ -18416,7 +18416,7 @@ cognizes
 cognizing
 crescive
 cognizor
-cognomens 1
+cognomens 2
 claught
 carnally
 cathedral
