@@ -19579,7 +19579,7 @@ chromaticism
 coextensiveness
 capanne
 coregence
-counteraffirmation
+counteraffirmation 1
 columellia
 columelliaceae
 columels
