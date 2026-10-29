@@ -3179,7 +3179,7 @@ degusting 1
 divots
 draughtily
 defectible
-defecting
+defecting 1
 dezincified
 distaff
 doltishness
