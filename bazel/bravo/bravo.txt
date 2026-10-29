@@ -13083,7 +13083,7 @@ buffeting
 bicorporal
 beryls
 bobbling
-bassarisk
+bassarisk 1
 basifixed
 batteling
 backfurrow
