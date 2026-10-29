@@ -1436,7 +1436,7 @@ fattishness
 fother
 frimitts
 faithless
-freewheel
+freewheel 1
 fatuism 1
 filasse
 firmness
