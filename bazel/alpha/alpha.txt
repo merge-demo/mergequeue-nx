@@ -22477,7 +22477,7 @@ anisostemonous
 astrut
 agronomical
 aprendiz
-astutious
+astutious 1
 apsis
 achime
 asudden
