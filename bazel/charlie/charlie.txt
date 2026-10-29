@@ -2648,7 +2648,7 @@ canfields
 cantillating
 canfuls
 cangan 1
-charterist
+charterist 1
 cruelhearted
 clumsiness
 cangy
