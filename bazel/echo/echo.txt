@@ -7009,7 +7009,7 @@ escalin
 exiting
 effecting
 excisor
-encauma
+encauma 1
 entrelac 1
 emetically
 epilogued
