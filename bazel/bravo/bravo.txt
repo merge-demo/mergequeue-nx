@@ -12099,7 +12099,7 @@ bostrychoid
 brujeria
 banefully
 bagpudding
-barristress
+barristress 1
 boldfaced
 boldfacedness
 boldfacing
