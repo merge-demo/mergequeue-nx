@@ -11851,7 +11851,7 @@ decentralism
 diamines
 discurre 1
 dislikable
-discursify
+discursify 1
 deplumed
 donatively
 domineered
