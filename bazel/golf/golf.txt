@@ -1808,7 +1808,7 @@ glutinate
 gestalten 2
 granodioritic
 gangwaymen
-gastrostenosis 1
+gastrostenosis 2
 gatehouses
 grueler
 gastrotomic
