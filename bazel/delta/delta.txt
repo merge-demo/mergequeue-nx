@@ -1666,7 +1666,7 @@ digitize
 daws
 daw
 dextraural 1
-deamination
+deamination 1
 deaminize
 deammonation
 deashing
