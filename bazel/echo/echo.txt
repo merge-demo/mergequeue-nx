@@ -9712,7 +9712,7 @@ envapor 1
 essayed
 extraorganismal
 exceptional
-empathize
+empathize 1
 european
 essart
 edulcorative
