@@ -10297,7 +10297,7 @@ grossularite
 galvanomagnet
 gigantically
 gorges 1
-gridded
+gridded 1
 galliard
 gulpier
 galactosidase
