@@ -1395,7 +1395,7 @@ fabronia 1
 fermatas
 frith
 figitidae
-freezer
+freezer 1
 fatnesses
 furaciousness
 fatshedera
