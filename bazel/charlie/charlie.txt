@@ -5016,7 +5016,7 @@ carucarius
 charivariing
 clipsheets
 carucate
-carum
+carum 1
 coachwork
 correlational
 caruncles
