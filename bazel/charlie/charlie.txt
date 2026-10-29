@@ -27676,7 +27676,7 @@ cowhides
 caravanning
 cancellability
 cowhiding
-cowhorn
+cowhorn 1
 chillers
 camiscia
 copartnery
