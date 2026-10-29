@@ -3052,7 +3052,7 @@ deservings
 dragonfish
 disestablishment
 deerhound
-diphthongs
+diphthongs 1
 deucedly
 dowress
 decarbonized
