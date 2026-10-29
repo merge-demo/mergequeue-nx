@@ -4451,7 +4451,7 @@ enteropneust
 egghot
 effervesces 1
 emicate
-echards
+echards 1
 edifices
 encarnalized 1
 exalts
