@@ -8124,7 +8124,7 @@ cudgeller
 chagan
 chagga
 chagigah
-chagoma
+chagoma 1
 concubitant 1
 commiphora
 chagrining
