@@ -11289,7 +11289,7 @@ dimethyldiketone
 deadeyes
 dimmable
 discarded
-dulceness
+dulceness 1
 dalliers 1
 drainageway
 difluoride
