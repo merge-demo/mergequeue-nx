@@ -4089,7 +4089,7 @@ ecthymata
 euthymy
 esthetophore
 emboil
-equitant
+equitant 1
 enjambement
 erotophobia
 exteriorize
