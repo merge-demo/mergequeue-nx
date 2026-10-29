@@ -25043,7 +25043,7 @@ crosscourt
 costiferous
 celotex
 corduroying
-corduroys
+corduroys 1
 chiliadic
 choppered
 cuprotungstite
