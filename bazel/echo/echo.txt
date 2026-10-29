@@ -1822,7 +1822,7 @@ egotheism
 epithalamy
 ergatogyny
 ectepicondylar 1
-elbow
+elbow 1
 exopodite 1
 eigenvalues
 eudemony
