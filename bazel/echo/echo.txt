@@ -140,7 +140,7 @@ economizes
 extravasating 1
 elon
 enchasten
-epiphysial
+epiphysial 1
 elisha
 epididymides
 episcopizing
