@@ -1948,7 +1948,7 @@ downby
 dominoes
 disobeys
 dreader
-depressant
+depressant 1
 dobla
 deckload
 doze
