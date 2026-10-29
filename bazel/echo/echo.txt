@@ -13044,7 +13044,7 @@ ebauchoir
 euhemerised
 ebonites
 epiperipheral
-elocutionary
+elocutionary 1
 expediter
 enunciates
 eulogistically
