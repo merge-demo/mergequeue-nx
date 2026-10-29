@@ -12598,7 +12598,7 @@ depilous
 disheaven
 dimyary
 depersonize
-disinters
+disinters 1
 deditician
 deodorants
 defoamers
