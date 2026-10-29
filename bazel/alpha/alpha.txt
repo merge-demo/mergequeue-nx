@@ -20084,7 +20084,7 @@ argiope
 auscultate
 agitating
 astroblast
-abash
+abash 1
 arose
 athold
 adeliza
