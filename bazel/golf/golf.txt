@@ -3326,7 +3326,7 @@ glycerine
 gipsyesque
 geepounds
 germfree
-geostrophically
+geostrophically 1
 gobio
 gullion
 genethliacism
