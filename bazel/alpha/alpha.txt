@@ -25082,7 +25082,7 @@ arsine
 axenic
 axenically
 abbreviators
-annual
+annual 1
 antisolar
 ausforms
 advanceable
