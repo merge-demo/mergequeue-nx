@@ -19505,7 +19505,7 @@ arsonic
 anecdotal
 argonautid
 argonne
-argons
+argons 1
 argosy
 archaizes
 acanthuses
