@@ -4955,7 +4955,7 @@ bosher
 bassos
 beelzebul
 beennut
-bimedial 1
+bimedial 2
 bonework
 blesse
 belgae
