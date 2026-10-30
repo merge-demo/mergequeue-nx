@@ -44,7 +44,7 @@ caballero
 caballo
 ceratopteridaceous
 caballos
-cardiae
+cardiae 1
 centillions
 chondroadenoma
 cabanas
