@@ -6307,7 +6307,7 @@ flummer 1
 flickerproof
 flintlocks
 fistnote
-funori
+funori 1
 fettling
 fusionism
 futurable
