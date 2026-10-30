@@ -3827,7 +3827,7 @@ argufier
 ariel
 anchorwise
 acetonyl
-ametabole
+ametabole 1
 adieu
 attame
 altin
