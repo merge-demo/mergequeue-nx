@@ -14537,7 +14537,7 @@ branchiopoda
 branner
 baktun
 bonding
-belugite 1
+belugite 2
 bowelling
 bedumbed
 branchiostoma
