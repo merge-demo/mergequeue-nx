@@ -23161,7 +23161,7 @@ cabalistic
 constitutionalist
 cushie
 constitutionalization
-constitutionalize
+constitutionalize 1
 constitutionally
 constitutionals
 constitutionary 1
