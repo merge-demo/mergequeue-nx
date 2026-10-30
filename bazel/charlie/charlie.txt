@@ -24456,7 +24456,7 @@ coos
 counterpractice
 coosers
 coltskin
-coost
+coost 1
 curves
 coosuc
 coot
