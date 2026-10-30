@@ -26497,7 +26497,7 @@ cahuy
 cottas
 cotte
 cotted
-cotter
+cotter 1
 cottered
 cottid
 capitulating
