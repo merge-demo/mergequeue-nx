@@ -7318,7 +7318,7 @@ ferromolybdenum
 fixation
 foraying
 frognose
-foralite
+foralite 1
 foram 1
 franchisers
 fronds
