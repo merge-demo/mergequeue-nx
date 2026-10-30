@@ -3813,7 +3813,7 @@ fizzer
 fraterniser 1
 fillingly
 fingerboard
-flyflap
+flyflap 1
 freon
 ferritization
 frizzliest
