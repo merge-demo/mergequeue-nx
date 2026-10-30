@@ -16544,7 +16544,7 @@ acutorsion
 apache
 attained
 apadana
-astronautic
+astronautic 1
 apaesthetize
 articulatory
 anophthalmus
