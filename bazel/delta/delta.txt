@@ -18654,7 +18654,7 @@ disseisor
 devitrification
 decolorize
 duvetynes
-devaporation
+devaporation 1
 dereign
 deflagrability
 daishikis
