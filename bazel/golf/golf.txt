@@ -3038,7 +3038,7 @@ geminate
 guiding
 geomantically
 garnerage
-geoponics
+geoponics 1
 galvayning
 grammatical
 graspable
