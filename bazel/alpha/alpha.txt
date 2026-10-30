@@ -19325,7 +19325,7 @@ alaite
 astacus 1
 amplexation
 areostyle
-areotectonics
+areotectonics 1
 ambrein
 aminodiphenyl
 anaspidacea
