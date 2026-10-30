@@ -4218,7 +4218,7 @@ fragmentally
 flagrant
 fibrilliform
 finnish
-firefighting
+firefighting 1
 flute
 feelingful
 frenal 1
