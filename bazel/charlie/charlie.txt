@@ -31125,7 +31125,7 @@ characterizable 1
 crystalliferous
 chumpy
 counternotice
-cunnilinctus
+cunnilinctus 1
 cunnilinguism
 cavalries
 cunninger
