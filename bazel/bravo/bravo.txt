@@ -4638,7 +4638,7 @@ bens
 barry 1
 buxus
 bedevilling
-barbershops
+barbershops 1
 borities
 bargee
 bedevilment
