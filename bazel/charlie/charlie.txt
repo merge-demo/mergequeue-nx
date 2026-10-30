@@ -23433,7 +23433,7 @@ contemporaneous
 constancy
 chez
 crannoges 1
-contemporaneousness
+contemporaneousness 1
 contemporary 1
 coalfishes
 calombo
