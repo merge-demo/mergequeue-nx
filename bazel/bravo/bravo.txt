@@ -16897,7 +16897,7 @@ barvell
 bufotalin
 bufotoxin
 biconcavity
-buzukia
+buzukia 1
 bugaboo
 bugan
 brahm
