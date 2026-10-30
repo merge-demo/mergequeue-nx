@@ -10969,7 +10969,7 @@ apulse
 abolitionary
 amyridaceae
 amoebobacterieae
-amoebocyte
+amoebocyte 1
 amoebogeniae
 amoebula
 amoy
