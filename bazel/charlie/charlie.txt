@@ -8813,7 +8813,7 @@ chapter
 canonries
 chapteral
 chapterhouse
-cardinalates
+cardinalates 1
 chapwoman
 circumradii
 chaqueta
