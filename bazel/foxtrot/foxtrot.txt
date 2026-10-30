@@ -10160,7 +10160,7 @@ frizing
 frizzante
 fishyback
 finch
-fantad
+fantad 1
 fragmentise
 fractionalism
 frisked
