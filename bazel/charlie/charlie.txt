@@ -21544,7 +21544,7 @@ concubitancy
 concubitous
 conculcate
 concupy
-concupiscence
+concupiscence 1
 colin
 concupiscible
 concupiscibleness
