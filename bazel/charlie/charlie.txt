@@ -20099,7 +20099,7 @@ creedal
 ctenocephalus
 clarabella
 commerge
-cryoscope
+cryoscope 1
 centifolious
 cristispira
 cribella
