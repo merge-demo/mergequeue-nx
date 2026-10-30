@@ -18629,7 +18629,7 @@ dutchmen
 debagging
 dagbane
 dedicatorial
-degreeless
+degreeless 1
 duty
 dutiability
 disdains
