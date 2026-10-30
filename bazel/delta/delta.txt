@@ -14421,7 +14421,7 @@ desmotomy
 diversisporous
 dhoul
 deindividuate
-doctus
+doctus 1
 datedness
 depreciatory
 demeter
