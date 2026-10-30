@@ -13968,7 +13968,7 @@ antaios
 antaiva
 antalgesic
 antalgics
-antalgol 1
+antalgol 2
 acraspeda
 allothigenetic
 adelea
