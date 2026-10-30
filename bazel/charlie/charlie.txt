@@ -2322,7 +2322,7 @@ canali
 canalicular
 convenance
 curatial
-canaliculate
+canaliculate 1
 ceremoniously
 canaliculated
 capricorns
