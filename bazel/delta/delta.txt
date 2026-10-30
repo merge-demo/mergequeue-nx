@@ -6558,7 +6558,7 @@ dangleberry
 distensile 1
 dysnomy
 designator
-diota
+diota 1
 daedal
 deity
 descriptivism
