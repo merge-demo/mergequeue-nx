@@ -2266,7 +2266,7 @@ gospeller
 gangrel
 grandpaternal
 glamoury
-gigantoblast
+gigantoblast 1
 gunroom
 gammoning
 giust
