@@ -4747,7 +4747,7 @@ eelware
 exalbuminose 1
 encist
 electralize
-exponentially
+exponentially 1
 encysting
 eugenol
 emptiest
