@@ -12874,7 +12874,7 @@ climb
 churchwoman
 churchwomen
 churel
-churidars
+churidars 1
 cyclized
 cupidity
 churinga
