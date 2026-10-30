@@ -24037,7 +24037,7 @@ autocopist
 acrophonies
 archaeography
 azoblack
-adversaries
+adversaries 1
 anjou
 antic
 autocorrosion
