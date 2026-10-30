@@ -9348,7 +9348,7 @@ horv 1
 horvop
 horvyogeb
 horwhbhbnidt
-horx
+horx 1
 horxuetiibv 1
 horxupc
 hory
