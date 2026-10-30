@@ -15977,7 +15977,7 @@ clerkdom
 clerkery
 clerkess
 caligated
-cypraeid
+cypraeid 1
 comprint
 carcinosis
 clerkless
