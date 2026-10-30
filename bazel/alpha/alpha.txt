@@ -20808,7 +20808,7 @@ artophagous 1
 archheresy
 artotype
 annotation
-asqueal
+asqueal 1
 acolhua
 applicate
 aligners 1
