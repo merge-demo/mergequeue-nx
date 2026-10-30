@@ -29735,7 +29735,7 @@ crony
 collaboration
 chinar 1
 compactify
-cuartillo
+cuartillo 1
 communicated
 coachway
 cronies
