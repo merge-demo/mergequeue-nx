@@ -4934,7 +4934,7 @@ glauberite
 glair
 glaire 2
 glosses
-gigger
+gigger 1
 gradual
 growliness
 glaired
