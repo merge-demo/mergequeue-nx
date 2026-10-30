@@ -14349,7 +14349,7 @@ anticreation 1
 anthoid
 anthokyan
 autographic
-amasesis
+amasesis 1
 antinovels
 anthol
 anodes
