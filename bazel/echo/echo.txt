@@ -11342,7 +11342,7 @@ eve
 exorcistical
 epixylous
 evea
-enolization
+enolization 1
 eunuch
 eugenics
 eolienne
