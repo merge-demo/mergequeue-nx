@@ -259,7 +259,7 @@ gambrelled
 glamorous
 guao
 gemless
-glaires
+glaires 1
 gizmo
 glyph
 gumminess
