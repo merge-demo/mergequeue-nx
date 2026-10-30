@@ -7980,7 +7980,7 @@ distensive
 dextrolactic
 despotes 1
 diphenylthiourea
-dorosternal
+dorosternal 1
 dextrolimonene
 dichlorobenzene
 dimethylaniline
