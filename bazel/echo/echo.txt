@@ -2956,7 +2956,7 @@ exploiters
 epagomenal
 endoplast
 etrogim
-encamped
+encamped 1
 eliminant
 ennoblers
 ethid
