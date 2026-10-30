@@ -14116,7 +14116,7 @@ beaujolais
 barquantine
 brachyrrhinia
 battleward
-brachystegia
+brachystegia 1
 bequeathing
 benzaminic
 budged
