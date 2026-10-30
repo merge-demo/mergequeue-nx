@@ -7915,7 +7915,7 @@ cetaceum
 calpolli
 clericate
 collieshangie
-cetane
+cetane 1
 cetanes
 cete
 cetera 1
