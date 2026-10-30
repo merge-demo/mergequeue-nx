@@ -23814,7 +23814,7 @@ austrianize
 arsenoferratin
 aldermanry
 austrians
-austric
+austric 1
 acromyodic
 anglophile
 autarkical
