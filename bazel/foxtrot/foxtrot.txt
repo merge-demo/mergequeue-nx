@@ -11129,7 +11129,7 @@ fishtail 1
 farle
 footmarks 1
 furuncular
-flaggery 1
+flaggery 2
 formylated
 forumize
 foreallot
