@@ -1294,7 +1294,7 @@ acategorical
 amiray
 adolescing
 acrocomia
-adephagia
+adephagia 1
 argentinize
 autodrainage
 acates
