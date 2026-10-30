@@ -12389,7 +12389,7 @@ aortolith
 absistos
 antiecclesiasticism
 andriana
-auk
+auk 1
 abnormally
 aloofe
 andrias
