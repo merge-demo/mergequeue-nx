@@ -6012,7 +6012,7 @@ expanding
 epilated
 enjoinders
 expatiatingly
-enjoiner
+enjoiner 1
 excubant
 euonym
 endotheliulia
