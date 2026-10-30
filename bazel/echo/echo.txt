@@ -4816,7 +4816,7 @@ etymologize
 executioners
 eventides 1
 encolour
-excrementitiousness
+excrementitiousness 1
 encolpia
 equilibrator
 entypies
