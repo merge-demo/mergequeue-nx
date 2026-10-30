@@ -2091,7 +2091,7 @@ boguing
 bulker
 billbeetle
 botoyan
-bloodbeat
+bloodbeat 1
 banshies
 bornan
 bronchostomy
