@@ -12594,7 +12594,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
-chronomantic
+chronomantic 1
 chronomastix
 chronometer
 crom
