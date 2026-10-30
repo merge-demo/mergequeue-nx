@@ -579,7 +579,7 @@ ashlers 1
 adpromissor
 aerobioscope
 antiquarian
-abn
+abn 1
 agrania
 alphameric
 abnegates 1

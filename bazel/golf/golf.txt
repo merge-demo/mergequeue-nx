@@ -292,7 +292,7 @@ gaintwist
 giglot
 geobotany
 ganjas
-gynaecian
+gynaecian 1
 gargoylism
 gaminesque
 gaist
