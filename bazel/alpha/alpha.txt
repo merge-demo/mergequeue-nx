@@ -3601,7 +3601,7 @@ adelphian
 adelphic
 adelphous
 adipsous
-azole
+azole 1
 assedat
 arabicize
 agora
