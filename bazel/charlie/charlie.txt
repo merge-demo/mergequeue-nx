@@ -9377,7 +9377,7 @@ chomp
 chiot
 chavicol
 cautelousness
-cowedly
+cowedly 1
 chaw
 chawbacon
 chawbuck
