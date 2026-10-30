@@ -24557,7 +24557,7 @@ aneurismally
 auxochrome
 antistimulation
 auxochromous
-attitudinise
+attitudinise 1
 abamperes
 auxology
 ammonea
