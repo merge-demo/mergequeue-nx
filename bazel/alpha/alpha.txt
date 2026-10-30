@@ -11096,7 +11096,7 @@ apter
 airer
 abnegations
 ampelographist
-ascensional
+ascensional 1
 ampelograpny
 aquincubitalism
 azoimide
