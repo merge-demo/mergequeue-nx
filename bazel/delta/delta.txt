@@ -17084,7 +17084,7 @@ dries
 diphtheriaphor
 disrespectfully
 dingwall
-devastative
+devastative 1
 drierman
 decennials
 deconcentrated

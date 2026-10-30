@@ -937,7 +937,7 @@ ectropion
 epilogues
 ectropium
 eluvia
-elects
+elects 1
 effatum
 ectrosyndactyly
 earring
