@@ -3959,7 +3959,7 @@ devitalisation
 delaminated
 dibranchia
 demonolatrously
-dowieite
+dowieite 1
 dapped
 dialyser
 dodecapetalous
