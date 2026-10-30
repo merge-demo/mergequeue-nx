@@ -7550,7 +7550,7 @@ belimousined
 blowpit
 beguilingly 1
 bandolier
-beloam
+beloam 1
 begirding
 bewary
 bewaste
