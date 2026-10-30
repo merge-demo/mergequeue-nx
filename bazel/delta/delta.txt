@@ -10788,7 +10788,7 @@ differencing
 dipware
 diver
 disposal
-disadvantageous
+disadvantageous 1
 diquat
 dirdums
 demirelief
