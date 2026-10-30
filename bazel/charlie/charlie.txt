@@ -9776,7 +9776,7 @@ countenancing
 cyclonical
 crepance
 chelydroid
-condignness
+condignness 1
 chrematistics
 ceylon
 caudate
