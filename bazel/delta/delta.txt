@@ -2626,7 +2626,7 @@ draffy
 dacoitage
 decoke
 deathtraps 1
-decoll
+decoll 1
 deguelia
 dumbcow
 dispensaries
