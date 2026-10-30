@@ -5451,7 +5451,7 @@ endshake
 elfishly
 egretta
 easterly
-enfirm
+enfirm 1
 eaglelike
 esthetology
 endure
