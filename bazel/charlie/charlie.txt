@@ -29696,7 +29696,7 @@ croises
 croisette
 cambiform 1
 croissant
-croissante
+croissante 1
 crojack
 carousingly
 complimented
