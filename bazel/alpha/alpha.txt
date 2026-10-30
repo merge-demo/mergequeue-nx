@@ -14801,7 +14801,7 @@ arthrocele
 anticeremoniously
 anticeremoniousness 1
 aristocratic
-antichamber
+antichamber 1
 allogenically
 anadipsic
 antiscii
