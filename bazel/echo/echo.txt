@@ -136,7 +136,7 @@ enderonic
 excellency
 epoxidize 1
 evaporativity
-economizes
+economizes 1
 extravasating 1
 elon
 enchasten
