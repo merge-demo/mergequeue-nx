@@ -123,7 +123,7 @@ cladophyllum
 cabineting 1
 codshead
 cabinetmaking
-capacitated
+capacitated 1
 cabinetted
 coumalic
 chordophone
