@@ -5132,7 +5132,7 @@ capsaicin
 callosity
 casehardening
 candida
-casey
+casey 1
 caseic
 chrysographer
 cholecyanin
