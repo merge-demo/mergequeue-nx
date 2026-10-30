@@ -21872,7 +21872,7 @@ cheddars
 congiary
 coziness
 cancellarian
-confelicity
+confelicity 1
 confer
 cataclasm
 chaetosema
