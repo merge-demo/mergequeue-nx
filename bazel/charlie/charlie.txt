@@ -5692,7 +5692,7 @@ catastate
 catasterism
 catastrophal
 cryptologist
-catastrophes
+catastrophes 1
 cystoepiplocele
 catastrophic
 catastrophist
