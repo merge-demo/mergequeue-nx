@@ -8021,7 +8021,7 @@ fellmongered
 forestage
 frivolled
 fae
-ferie
+ferie 1
 froebelian 1
 flashbulb
 fungaceous
