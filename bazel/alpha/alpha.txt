@@ -1156,7 +1156,7 @@ anaclastic
 arow
 acalyculate
 apheliotropic
-acalyptratae
+acalyptratae 1
 anonymities
 acamar
 allocrotonic
