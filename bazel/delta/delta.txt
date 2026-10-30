@@ -9192,7 +9192,7 @@ ditriglyph
 dieb 1
 dusterman
 delaine
-diebacks 1
+diebacks 2
 donk
 dehydrogenation
 diecious
