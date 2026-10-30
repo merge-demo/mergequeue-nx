@@ -25535,7 +25535,7 @@ crutchlike
 cordeliere
 coronets
 coronetted
-crushability
+crushability 1
 coronettee
 confronte
 coronetty
