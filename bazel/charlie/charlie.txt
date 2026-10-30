@@ -2923,7 +2923,7 @@ cantatrice
 coverts
 chestily
 chorioids
-condylos
+condylos 1
 crappy
 cantdog
 compensatively
