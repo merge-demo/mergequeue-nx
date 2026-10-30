@@ -14140,7 +14140,7 @@ circularizes
 choriambs
 circularly
 circularness
-circulars
+circulars 1
 circulatable
 cabbalize
 chaetosomatidae
