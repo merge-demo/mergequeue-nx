@@ -4948,7 +4948,7 @@ endaspidean
 endbrains
 epipodite
 emusify
-euhemerize
+euhemerize 1
 entropy
 exencephalic 1
 ectocoelic
