@@ -1579,7 +1579,7 @@ favorer
 foresty
 ferrash
 fleecelike 1
-fourstrand
+fourstrand 1
 falsettist 1
 fibrinogen
 filespec
