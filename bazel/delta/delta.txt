@@ -2766,7 +2766,7 @@ decorticator
 determinants
 decorticosis
 disoperation
-decortization
+decortization 1
 decorum 1
 dactylorhiza
 diamber
