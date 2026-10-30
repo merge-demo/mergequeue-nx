@@ -9060,7 +9060,7 @@ charmonium
 charms
 charneco
 charnockite
-covarecan
+covarecan 1
 charnockites
 charnu
 conglomeratic
