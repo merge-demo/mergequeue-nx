@@ -25629,7 +25629,7 @@ cecity
 corpsy
 cleverness
 corpsman
-corpulences
+corpulences 1
 coprah
 corpulencies
 consolamentum
