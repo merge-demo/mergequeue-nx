@@ -3631,7 +3631,7 @@ degerms
 discerptive 1
 douzeper
 disked
-deontological
+deontological 1
 degging
 devices
 deglamorizing
