@@ -5054,7 +5054,7 @@ aerostatic
 aerostatical
 argas
 appertain
-advancements
+advancements 1
 androgyneity
 aerosteam
 aerotaxis
