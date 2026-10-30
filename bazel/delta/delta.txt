@@ -562,7 +562,7 @@ devocate
 doesnt
 delivers
 dromon
-disbursable
+disbursable 1
 disfranchiser
 damaskeen
 dod
