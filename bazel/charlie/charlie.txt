@@ -11117,7 +11117,7 @@ confirmand
 chivalresque
 caddis
 compulsatively
-cosovereign
+cosovereign 1
 controllableness
 caprificator
 curatolatry
