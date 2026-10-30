@@ -16024,7 +16024,7 @@ bysacki
 bestrewing
 bloodstains
 bowess
-bronchotyphus
+bronchotyphus 1
 bronchotome 1
 belucki
 bronchotracheal
