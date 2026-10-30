@@ -910,7 +910,7 @@ episedia
 encomiastic
 excommunicators 1
 endosporous
-eriodictyon
+eriodictyon 1
 ectotoxin
 exampled
 exegesist
