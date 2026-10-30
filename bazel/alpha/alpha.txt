@@ -9040,7 +9040,7 @@ allotropically
 allotropies 1
 allots
 ashamedly
-adrostral
+adrostral 1
 anurans
 allotted
 ague 1
