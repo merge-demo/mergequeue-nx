@@ -4684,7 +4684,7 @@ discretionally
 dees 1
 delectableness
 denationalizing 1
-demitint
+demitint 1
 demitoilet
 deteriorated
 demitranslucence
