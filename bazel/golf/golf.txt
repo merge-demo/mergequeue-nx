@@ -654,7 +654,7 @@ gallophilism 1
 givey
 gravimetry
 glower
-gantryman
+gantryman 1
 genecologically
 galeated
 gunkhole
