@@ -16256,7 +16256,7 @@ contraindicate
 clinoid
 clinology
 clinometer
-clinometry
+clinometry 1
 clinometric
 cantos
 condylura
