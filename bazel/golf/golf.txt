@@ -376,7 +376,7 @@ golundauze 1
 gavot
 gaoled 1
 glaive 1
-gentiles
+gentiles 1
 glossophagine
 goto
 gansy
