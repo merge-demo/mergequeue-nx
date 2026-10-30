@@ -4433,7 +4433,7 @@ bulkiness
 bludging
 beclogs
 bretonian
-bilabials
+bilabials 1
 beclothe
 banting
 bonasus
