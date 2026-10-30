@@ -19394,7 +19394,7 @@ aerobacter
 autochrome
 anacrisis
 arsacid
-affies
+affies 1
 albespine
 avouchment
 assortedness
