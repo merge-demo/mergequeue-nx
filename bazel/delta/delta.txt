@@ -7948,7 +7948,7 @@ dollarbird
 diaplex
 dashers
 dextrad
-dextral 1
+dextral 2
 directed
 dextran
 dextranase
