@@ -6911,7 +6911,7 @@ betail
 baselessness 1
 betta
 becoward
-bargoose
+bargoose 1
 badder
 bismuths
 bagheli
