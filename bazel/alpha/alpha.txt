@@ -8585,7 +8585,7 @@ anisogenous 1
 ademption
 allasch
 anticus
-ammanite
+ammanite 1
 anecdota
 agnoites
 aegagropiles
