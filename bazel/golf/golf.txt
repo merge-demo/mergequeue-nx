@@ -2265,7 +2265,7 @@ glarry
 gospeller
 gangrel
 grandpaternal
-glamoury
+glamoury 1
 gigantoblast
 gunroom
 gammoning
