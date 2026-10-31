@@ -16728,7 +16728,7 @@ bucksaw
 bids 1
 bistorta
 bedfoot
-bariatrics
+bariatrics 1
 bucktooth
 bronchovesicular
 bucktoothed
