@@ -14875,7 +14875,7 @@ abaculi
 anticynical
 asway
 anticipant
-alveolary
+alveolary 1
 anticipatable
 anodic
 anomorhomboidal
