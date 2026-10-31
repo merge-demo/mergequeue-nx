@@ -2281,7 +2281,7 @@ acetamid
 acidiferous
 argil
 aneurin
-arbtrn
+arbtrn 1
 adderfish
 alaric
 agreer
