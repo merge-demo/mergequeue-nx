@@ -8469,7 +8469,7 @@ epoxies
 employed
 evangelistaries
 easterlies
-eprise
+eprise 1
 epimorpha
 endures 1
 epsilons
