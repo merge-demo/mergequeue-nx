@@ -13473,7 +13473,7 @@ destroys
 disrobing
 disroost
 demiurgism
-disponed
+disponed 1
 disrooted
 dissertated
 dialectologer
