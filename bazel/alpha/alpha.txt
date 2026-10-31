@@ -12988,7 +12988,7 @@ angareeb
 apolitically
 apologist
 angulous
-aporose
+aporose 1
 antepone
 anticomplementary
 angust
