@@ -4758,7 +4758,7 @@ forestalment
 flammiferous
 furloughing 1
 flagellariaceous
-fleecily
+fleecily 1
 fasibitikite
 flagellatae
 footlike
