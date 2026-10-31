@@ -17613,7 +17613,7 @@ disgraced
 druses
 dishevels 1
 delimitize
-drusy
+drusy 1
 dreamfulness
 druther
 discolichen
