@@ -4610,7 +4610,7 @@ guarantees
 glycerizin 2
 griotte
 gufought
-gloggs
+gloggs 1
 galbulae
 galipoipin
 gamboge
