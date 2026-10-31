@@ -10177,7 +10177,7 @@ avulsion
 artotyrite
 ambulator
 ambulatory
-additiment
+additiment 1
 aluminas 1
 affluent
 apanage
