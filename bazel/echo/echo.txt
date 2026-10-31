@@ -8231,7 +8231,7 @@ extracting
 ermani 1
 elydoric
 exaltee
-epistases
+epistases 1
 epistasies
 energy
 enhancers

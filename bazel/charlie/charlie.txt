@@ -1541,7 +1541,7 @@ chutes
 callipash
 coorieing
 callipees
-callipering
+callipering 1
 callipers
 copopoda
 conduciveness
