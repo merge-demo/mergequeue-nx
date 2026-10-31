@@ -1416,7 +1416,7 @@ ericoid
 entosterna
 excoct
 encashable
-enzymes
+enzymes 1
 efflorescing
 effluences
 endoral
