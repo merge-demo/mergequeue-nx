@@ -10422,7 +10422,7 @@ baritone 1
 boviform 1
 bemadam
 bribetaking
-biune
+biune 1
 beachboy
 bastion
 boghole
