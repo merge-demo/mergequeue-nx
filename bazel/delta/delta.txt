@@ -2787,7 +2787,7 @@ druggist
 docudrama
 decreasingly
 dairymen
-deltoideus
+deltoideus 1
 decreer
 decurrently
 diamondized
