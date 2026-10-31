@@ -13151,7 +13151,7 @@ anthelions
 anticomment
 admissions
 animalist
-animalistic
+animalistic 1
 attemperator
 androgynous
 animalivora
