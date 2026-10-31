@@ -1409,7 +1409,7 @@ electrometrically
 expandedness
 emetins
 epidote
-exterous
+exterous 1
 endowing
 erasions
 ericoid
