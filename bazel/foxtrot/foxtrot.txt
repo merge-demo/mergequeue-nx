@@ -3240,7 +3240,7 @@ flexionless
 fango 1
 fuchsone
 forefend
-flunkies
+flunkies 1
 falern
 forewarnings
 flinthearted 1
