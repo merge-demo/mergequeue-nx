@@ -429,7 +429,7 @@ daunder
 descanting
 dayrooms
 deities
-dodrantal
+dodrantal 1
 dhourra
 discoursers
 dairous
