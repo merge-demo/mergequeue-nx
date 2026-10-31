@@ -3584,7 +3584,7 @@ cooping
 caqueterie
 corniest 1
 caqueteuse
-caquetoire
+caquetoire 1
 cioppino
 chagrinned
 carabaos
