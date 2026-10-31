@@ -2513,7 +2513,7 @@ acomia
 anglicize
 allozooid
 acomous
-acroasis
+acroasis 1
 albumean
 abolitionists
 anchoretic
