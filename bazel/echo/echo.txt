@@ -3512,7 +3512,7 @@ eldress
 emblements
 earmuffs
 expellee
-endemically
+endemically 1
 erraticism
 emblemist
 exon
