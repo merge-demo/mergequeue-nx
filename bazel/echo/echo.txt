@@ -4597,7 +4597,7 @@ expel 1
 expatiations
 equalised
 endpleasure
-enam
+enam 1
 emplore
 effigies
 ectochondral
