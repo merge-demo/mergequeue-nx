@@ -9570,7 +9570,7 @@ figureless
 final
 fluter
 freebie 2
-frescos
+frescos 1
 farsi
 fleeciest 1
 freebooter 1
