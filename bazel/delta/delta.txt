@@ -15868,7 +15868,7 @@ dismalize
 devilship
 deiced
 disrating
-defecated
+defecated 1
 daft 1
 demonesses
 deoxidizer
