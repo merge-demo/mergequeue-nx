@@ -22569,7 +22569,7 @@ connaturalness 1
 connature
 calumniatory
 connaught
-connectable
+connectable 1
 connected
 connectedly
 connecter
