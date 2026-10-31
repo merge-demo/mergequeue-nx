@@ -30761,7 +30761,7 @@ canonical
 composing
 cuitlateco
 correctional
-chloroauric
+chloroauric 1
 crs
 colonaded
 creoleize
