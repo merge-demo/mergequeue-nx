@@ -12306,7 +12306,7 @@ disgrading
 discreating
 disgruntlement
 driblet
-denitration
+denitration 1
 demigrate
 desynchronize
 diphosphate
