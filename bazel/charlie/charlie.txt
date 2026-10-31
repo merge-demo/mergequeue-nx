@@ -5796,7 +5796,7 @@ callicarpa
 coeldership 1
 coyotillo
 catechumenal 1
-catechumenism
+catechumenism 1
 cutthroats
 concourses
 catechumens
