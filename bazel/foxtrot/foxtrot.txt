@@ -3238,7 +3238,7 @@ friers
 frostwort
 flexionless
 fango 1
-fuchsone
+fuchsone 1
 forefend
 flunkies
 falern
