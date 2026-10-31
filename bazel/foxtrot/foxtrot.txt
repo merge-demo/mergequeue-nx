@@ -732,7 +732,7 @@ feministics
 fragmentate
 fertilizes
 fogscoffer
-flittiness
+flittiness 1
 falcation
 featherweed
 fluorination
