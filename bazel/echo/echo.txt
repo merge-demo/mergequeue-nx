@@ -7464,7 +7464,7 @@ eunuchizing
 extinguishant
 ephemeralities
 effluvial
-embattling
+embattling 1
 ellerian
 eavesdroppers
 ephemerid
