@@ -253,7 +253,7 @@ bacillariaceae
 baldric
 buried
 blotless
-balancedness
+balancedness 1
 brontosaur
 beamily
 bacillariaceous
