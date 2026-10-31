@@ -4510,7 +4510,7 @@ embryophyta
 encephalographic
 ekphorize
 episematic
-earlock
+earlock 1
 enamelling
 euchysiderite 1
 esthesiophysiology
