@@ -24489,7 +24489,7 @@ circovarian
 clavis
 copaivic 1
 copaliferous
-copalite
+copalite 1
 copalm
 coparcenar
 coparcenary
