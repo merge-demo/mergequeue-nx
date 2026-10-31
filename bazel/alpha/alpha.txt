@@ -25000,7 +25000,7 @@ atlatls
 awhir
 awhirl
 aswim
-autotruck
+autotruck 1
 antedon 1
 awikiwiki
 asymmetral
