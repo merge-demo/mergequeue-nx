@@ -14508,7 +14508,7 @@ chateaubriand
 clefs
 chang
 cissus
-cist
+cist 1
 cankerwort
 culver
 chamoised
