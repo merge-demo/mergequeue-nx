@@ -15982,7 +15982,7 @@ comprint
 carcinosis
 clerkless
 cerecloths
-clerkliness
+clerkliness 1
 chlorocarbon
 clerkship
 clerkships
