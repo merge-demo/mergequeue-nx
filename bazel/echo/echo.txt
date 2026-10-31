@@ -4068,7 +4068,7 @@ embroils
 epitheca
 enamelers
 ecstasize
-exterminated
+exterminated 1
 empiricalness
 epibolism
 engorgement
