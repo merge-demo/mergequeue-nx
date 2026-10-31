@@ -7298,7 +7298,7 @@ equiatomic
 efferous
 explodent
 exoascaceae
-ejicient
+ejicient 1
 enclitics
 exlex
 elechi
