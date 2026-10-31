@@ -14414,7 +14414,7 @@ compounds
 cirratulidae
 cortian
 costmary
-cirrhose 1
+cirrhose 2
 cipolins
 cirri
 cogit
