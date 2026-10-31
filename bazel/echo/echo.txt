@@ -5781,7 +5781,7 @@ expose
 embossments
 esophagomalacia
 emaciation 1
-eddying
+eddying 1
 endozoic
 endues
 ensalada
