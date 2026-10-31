@@ -8671,7 +8671,7 @@ foederati
 fanlike
 freelance 1
 funariaceous
-flexuous
+flexuous 1
 fistuliform
 floured
 ferroprint
