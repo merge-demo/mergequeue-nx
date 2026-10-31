@@ -16276,7 +16276,7 @@ achropsia
 antithyroid
 anilid
 antitintinnabularian
-antitypal
+antitypal 1
 antityphoid
 amaroid
 adeeming
