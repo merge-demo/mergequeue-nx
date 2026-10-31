@@ -6808,7 +6808,7 @@ ferme
 fiendliness
 frontal
 flaccidity
-footbeat
+footbeat 1
 forfalt
 faithfuls
 finmark
