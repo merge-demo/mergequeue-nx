@@ -14659,7 +14659,7 @@ doter
 diagnose
 djagoong
 disemboguement
-djave
+djave 1
 doubtfully
 drill
 djebels
