@@ -24,7 +24,7 @@ geotropic
 gabbro
 gabelleman 1
 grouchy
-gainers
+gainers 1
 glycic
 grossularious
 gieaways 1
