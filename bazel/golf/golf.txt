@@ -1088,7 +1088,7 @@ gypsums
 gegenion
 glares
 guarding
-gainfully
+gainfully 1
 graphicness
 gowdy
 goularo
