@@ -7607,7 +7607,7 @@ alcestis
 asop
 antisteapsin
 atrocity
-arabite
+arabite 1
 agau
 asylum
 arrhythmical
