@@ -15426,7 +15426,7 @@ decalomania
 demurer 1
 denis
 downtowns
-dishwares
+dishwares 1
 dijudication
 demibarrel
 damoisel
