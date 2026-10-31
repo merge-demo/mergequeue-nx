@@ -14281,7 +14281,7 @@ canalside
 circumnutated
 circumnutation 1
 cooperatively
-circumorbital
+circumorbital 1
 circumpacific
 circulet
 ciliectomy
