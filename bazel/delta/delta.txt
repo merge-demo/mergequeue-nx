@@ -381,7 +381,7 @@ daimyo
 dawdlers
 dihydrated
 dreadness
-daimios
+daimios 1
 dadap
 daimyos
 drinkers
