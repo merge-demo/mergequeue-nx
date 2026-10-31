@@ -18170,7 +18170,7 @@ counterleague
 careeners
 cutset
 coesites 1
-coessential
+coessential 1
 conversional
 convivialist
 carburize
