@@ -2003,7 +2003,7 @@ flipper 1
 fautor
 fours
 feeze
-fimicolous 1
+fimicolous 2
 furmity
 funnelled
 feezes
