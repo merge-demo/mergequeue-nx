@@ -26748,7 +26748,7 @@ counterclaim
 cirriform
 counterclaims
 counterclassifications
-cricketer
+cricketer 1
 countercolored
 cliff
 countercompetition
