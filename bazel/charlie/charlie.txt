@@ -31237,7 +31237,7 @@ cura
 correctness
 chetah
 curable
-curableness
+curableness 1
 cotyloidal
 coverlid
 curacaos
