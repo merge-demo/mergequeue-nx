@@ -4764,7 +4764,7 @@ countersinking
 cimier 1
 convecting
 choriocarcinoma
-cubicalness
+cubicalness 1
 carpocephala
 canicular
 carpocephalum
