@@ -3630,7 +3630,7 @@ degerming
 degerms
 discerptive 1
 douzeper
-disked
+disked 1
 deontological
 degging
 devices
