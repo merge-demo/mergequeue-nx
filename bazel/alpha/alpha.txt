@@ -18050,7 +18050,7 @@ aporosa
 arthrosynovitis
 anteoperculum
 amazona
-aproterodont
+aproterodont 1
 aroused
 amsterdamer
 apsidiole
