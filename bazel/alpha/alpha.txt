@@ -19720,7 +19720,7 @@ aristotype
 aristotle
 arytenoepiglottic
 amphiblestritis
-alfuro
+alfuro 1
 ambatch
 antinihilistic
 arithmancy
