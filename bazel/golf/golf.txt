@@ -2029,7 +2029,7 @@ groof
 gainsayers
 glacon
 gonna
-giggly
+giggly 1
 gel
 gelatiniform
 gases
