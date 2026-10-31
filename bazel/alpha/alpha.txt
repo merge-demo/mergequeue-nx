@@ -14578,7 +14578,7 @@ accoutred
 anthropophagite
 abirritated
 allophonic
-auric
+auric 1
 amandine
 anthropoidean
 anthropophilous
