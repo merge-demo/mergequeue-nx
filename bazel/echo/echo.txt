@@ -13842,7 +13842,7 @@ extracosmical
 ethnozoological
 equipotentiality
 eelpot
-equivocation
+equivocation 1
 evaporize
 ethionic
 ellasar
