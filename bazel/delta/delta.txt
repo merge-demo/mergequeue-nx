@@ -18054,7 +18054,7 @@ dullity
 disgaveling
 droned
 deluster
-damnifying
+damnifying 1
 digitaria
 dullnesses
 disgavelled
