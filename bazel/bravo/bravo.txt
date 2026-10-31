@@ -6310,7 +6310,7 @@ backswept
 benzalethylamine
 benzalphenylhydrazone
 beaconwise
-benzamide
+benzamide 1
 benzoxate
 badgerbrush
 benzamine
