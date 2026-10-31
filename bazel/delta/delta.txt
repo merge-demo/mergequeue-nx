@@ -9409,7 +9409,7 @@ diffuses
 danaidean
 dechlore
 demilitarizing
-diamin 1
+diamin 2
 diffusible
 demagoguism
 diffusibleness
