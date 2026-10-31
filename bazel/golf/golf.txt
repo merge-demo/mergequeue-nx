@@ -3706,7 +3706,7 @@ ghostier
 galah
 geodetically
 glumelike
-ghostish 1
+ghostish 2
 gelatigenous
 gracilescent
 gussying
