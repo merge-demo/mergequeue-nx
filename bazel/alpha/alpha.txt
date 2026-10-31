@@ -21186,7 +21186,7 @@ asexualisation
 acicularity
 approachableness 1
 azinphosmethyl
-angelology
+angelology 1
 asexualised
 asexuality
 acetonaphthone
