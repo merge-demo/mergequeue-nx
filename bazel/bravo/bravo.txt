@@ -11233,7 +11233,7 @@ bibliophilistic
 bridgeable
 bescouring
 bullfight
-bewail
+bewail 1
 burez
 blasts
 brightening
