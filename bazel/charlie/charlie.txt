@@ -24606,7 +24606,7 @@ carbonate
 chiggak
 cypripedium 1
 copingstone
-chaplainry
+chaplainry 1
 copiosity
 chanteyman
 copious
