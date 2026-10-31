@@ -17731,7 +17731,7 @@ delegative
 dubitable
 dichondra
 dubitably
-deflagrates
+deflagrates 1
 descried
 drachmal
 devaluing
