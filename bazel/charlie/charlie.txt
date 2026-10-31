@@ -6946,7 +6946,7 @@ copesettic
 cemeterial
 catchpenny
 concours
-ceratinous
+ceratinous 1
 culm
 cenaculum
 cloglike
