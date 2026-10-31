@@ -4921,7 +4921,7 @@ candlestickward
 cowherbs
 carte 1
 carted
-curtalax
+curtalax 1
 cartel
 chobdar
 chondriosomes
