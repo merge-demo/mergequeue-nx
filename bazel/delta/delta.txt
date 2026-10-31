@@ -1238,7 +1238,7 @@ doucine
 dibstones
 drivehead
 disembarkation
-defecating
+defecating 1
 disemplane
 disobligation
 dateless
