@@ -2896,7 +2896,7 @@ detainers 1
 deerlike
 decurion
 dispensatories 1
-demented
+demented 1
 diorthosis
 deathling
 decurrences
