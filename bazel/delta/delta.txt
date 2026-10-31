@@ -7177,7 +7177,7 @@ doves
 dubbeltje
 disgusts
 deedbox
-desume
+desume 1
 dindles
 desuvre
 devoutful
