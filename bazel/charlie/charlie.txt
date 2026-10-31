@@ -19536,7 +19536,7 @@ colubrine
 clarsach
 choanocytal
 colugo
-canaliculi
+canaliculi 1
 cheerfullest
 cannelated
 columbaceous
