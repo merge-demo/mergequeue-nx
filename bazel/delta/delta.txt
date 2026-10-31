@@ -10306,7 +10306,7 @@ dighting
 deans
 draughting
 dames
-dionysia
+dionysia 1
 dionysiac
 dionysiacally
 dionysus
