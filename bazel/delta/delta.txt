@@ -8220,7 +8220,7 @@ decouples
 dyadics
 diadkokinesia
 diadochi
-ductible
+ductible 1
 depigment
 deossify
 dados
