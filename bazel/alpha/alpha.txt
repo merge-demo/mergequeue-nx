@@ -8618,7 +8618,7 @@ aqueduct
 abandoners
 arboricultural
 allegorisation
-allegorise
+allegorise 1
 afear
 abscising
 admirance

@@ -1449,7 +1449,7 @@ ejectivity
 etypical 1
 entoparasite
 extensile
-existential
+existential 1
 engineeringly
 euphuisms
 enarbour
