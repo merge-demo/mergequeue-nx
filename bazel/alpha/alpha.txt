@@ -1078,7 +1078,7 @@ abundantly
 agnatically
 abune
 acromimia
-ausubo
+ausubo 1
 aburton
 artemisia
 atestine
