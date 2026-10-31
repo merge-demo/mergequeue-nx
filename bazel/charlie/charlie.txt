@@ -2182,7 +2182,7 @@ camphorwood
 cotan
 campi 1
 campy
-campier
+campier 1
 campiest
 campignian
 campylite
