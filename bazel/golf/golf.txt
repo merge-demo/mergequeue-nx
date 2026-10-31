@@ -2561,7 +2561,7 @@ gastrula
 gobangs
 ganch
 generalities
-grig
+grig 1
 grubbies 1
 gain
 guilder 1
