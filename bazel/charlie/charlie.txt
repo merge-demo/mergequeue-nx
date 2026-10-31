@@ -2760,7 +2760,7 @@ cannelure
 clatsop
 compete
 cannequin
-colts
+colts 1
 cancerphobia
 cannetille
 claviers
