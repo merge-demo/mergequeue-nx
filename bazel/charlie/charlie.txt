@@ -5159,7 +5159,7 @@ caseous
 caserios
 cyphering
 caserne
-casernes
+casernes 1
 costumery
 caserns
 cases
