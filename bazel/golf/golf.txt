@@ -8211,7 +8211,7 @@ gigabit
 glycerolyses
 gelatinise
 geometricize
-grandfatherless
+grandfatherless 1
 gestative
 gooseneck
 graphemically
