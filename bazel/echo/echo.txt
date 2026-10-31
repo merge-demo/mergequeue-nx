@@ -1147,7 +1147,7 @@ editorship
 editorships 1
 elasticness
 encrown
-enthrill
+enthrill 1
 expilator
 emanationism
 exploitationist
