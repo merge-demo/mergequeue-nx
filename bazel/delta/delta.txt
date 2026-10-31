@@ -14087,7 +14087,7 @@ doree
 divoto
 deltarium
 districtly
-dsr
+dsr 1
 diisatogen
 descendents 1
 decarhinus
