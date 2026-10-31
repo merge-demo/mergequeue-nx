@@ -5854,7 +5854,7 @@ agendas
 aponeurosis 1
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 aerogram
