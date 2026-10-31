@@ -6119,7 +6119,7 @@ benedictions
 billa
 blenniiform
 barograph
-bulimoid
+bulimoid 1
 betide
 barquette 1
 badaxe
