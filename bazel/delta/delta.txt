@@ -7115,7 +7115,7 @@ divisionally
 dollops
 dietical
 dolthead
-diagnostic
+diagnostic 1
 dicoccous
 destructions
 discouple
