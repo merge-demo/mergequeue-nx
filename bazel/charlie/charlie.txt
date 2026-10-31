@@ -29894,7 +29894,7 @@ crosse
 crossed 1
 crossers
 crossest
-catalpas
+catalpas 1
 crossette
 crossfertilizable
 crossfired
