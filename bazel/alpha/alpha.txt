@@ -13760,7 +13760,7 @@ anopheles
 anophelinae
 anophoria
 anaptyctic
-anophthalmos
+anophthalmos 1
 acoumeter
 allobroges
 approved
