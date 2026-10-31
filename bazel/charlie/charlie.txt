@@ -10038,7 +10038,7 @@ cherubic
 chowder
 cabernet
 cherubical
-caribisi
+caribisi 1
 chord
 composers
 cherubim
