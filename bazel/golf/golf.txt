@@ -7783,7 +7783,7 @@ gray
 getaway
 greasily
 goosishly
-gemmative
+gemmative 1
 grudgeful
 greasiest
 graying
