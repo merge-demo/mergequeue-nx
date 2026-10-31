@@ -2272,7 +2272,7 @@ firebombed
 fumaria
 forshape
 full 1
-flavones
+flavones 1
 filamentiferous
 fantails
 folktale
