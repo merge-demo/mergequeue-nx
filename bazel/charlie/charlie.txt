@@ -26240,7 +26240,7 @@ contemn
 citydom
 costage
 costally
-costander
+costander 1
 costanoan
 costar
 costarred
