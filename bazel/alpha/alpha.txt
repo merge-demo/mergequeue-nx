@@ -246,7 +246,7 @@ actable 1
 aselline
 apostate
 abraded
-acantholysis 1
+acantholysis 2
 adenomata
 abbreviates
 achariaceous
