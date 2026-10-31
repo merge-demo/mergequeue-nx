@@ -367,7 +367,7 @@ desalters
 dayman
 droughtiness
 detruss
-daymares 1
+daymares 2
 disseizes
 diarists
 discoloured
