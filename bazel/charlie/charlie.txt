@@ -23678,7 +23678,7 @@ classwise
 colliquament 1
 contradiction
 coruscative
-contradictional
+contradictional 1
 contradictious
 cairene
 contradictiously
