@@ -920,7 +920,7 @@ gametophoric
 gorbet 1
 gated 1
 gnashes
-glycaemia
+glycaemia 1
 grumousness
 glucosemia
 gawkishness
