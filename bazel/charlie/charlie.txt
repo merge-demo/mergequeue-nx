@@ -7377,7 +7377,7 @@ cephalomant
 cephalomeningitis
 compute
 cleansing
-cephalomere
+cephalomere 1
 cyclostylar
 cephalometric
 clysis
