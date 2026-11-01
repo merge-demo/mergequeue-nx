@@ -6429,7 +6429,7 @@ antiresonance
 amorado
 attempering
 alnascharism 1
-antefixa
+antefixa 1
 agrotype
 aurochloride
 anthotaxy
