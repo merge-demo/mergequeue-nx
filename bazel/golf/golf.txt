@@ -10323,7 +10323,7 @@ geographized
 gastroenterology 1
 gridder
 gloomed
-gul
+gul 1
 gaming
 gladiest
 goldfishes
