@@ -10222,7 +10222,7 @@ eavesdropped
 equisized
 eclair
 emotionalistic
-euphausia
+euphausia 1
 elzevirian
 elaborates
 extruders
