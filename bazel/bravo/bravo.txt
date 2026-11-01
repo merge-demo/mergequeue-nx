@@ -8155,7 +8155,7 @@ ballonet
 beardie
 brontophobia
 bash
-banishes
+banishes 1
 buffalos
 baldpate
 byeman
