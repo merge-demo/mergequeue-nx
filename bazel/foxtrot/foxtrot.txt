@@ -7678,7 +7678,7 @@ fishergirl
 fideist
 fixedness
 franchised
-flustrate
+flustrate 1
 flourishment
 foziest
 fruition
