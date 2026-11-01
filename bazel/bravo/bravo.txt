@@ -10817,7 +10817,7 @@ behooved 1
 blesboks
 blessedness
 blesser
-bowered
+bowered 1
 blurb
 befriz
 bromate
