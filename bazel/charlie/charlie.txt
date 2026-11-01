@@ -12713,7 +12713,7 @@ crinite
 catakinesis
 concede
 catafalques
-cobaltous
+cobaltous 1
 cataloguize
 cratch
 chuff
