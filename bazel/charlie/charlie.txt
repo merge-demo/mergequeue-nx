@@ -17971,7 +17971,7 @@ coeligenous
 coelin
 cantharellus
 coelioscopy
-cooperativeness
+cooperativeness 1
 czechic
 carcinology
 chipboard
