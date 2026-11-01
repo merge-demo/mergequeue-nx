@@ -29509,7 +29509,7 @@ crystallose 1
 checkerboard
 coevality
 crystallurgy
-ceruminiferous
+ceruminiferous 1
 companion
 coroniform
 crushed
