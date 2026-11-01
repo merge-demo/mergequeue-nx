@@ -7379,7 +7379,7 @@ forbiddenly
 fuage
 florideae 1
 fulling
-fenestellae
+fenestellae 1
 festiveness
 floodlighting
 forbiddingly
