@@ -14305,7 +14305,7 @@ circumquaque
 circumradius
 circumradiuses
 charitable
-claver 1
+claver 2
 conferring
 cevadilla
 conamed
