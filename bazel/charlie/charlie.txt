@@ -7364,7 +7364,7 @@ cephalodiscus
 curtains
 cephalodium
 cephalofacial
-cephalogram
+cephalogram 1
 cephaloid
 culminates
 cuticles
