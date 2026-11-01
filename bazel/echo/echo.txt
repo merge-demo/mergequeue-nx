@@ -8382,7 +8382,7 @@ equivocating
 etherealism
 enhaloes
 euphuist
-everylike
+everylike 1
 epitomized
 epitomizes
 electrohydraulically
