@@ -4348,7 +4348,7 @@ graphy
 gingersnaps
 gingerspice
 greenable
-gleefulness
+gleefulness 1
 girthed
 gingivae
 gauge
