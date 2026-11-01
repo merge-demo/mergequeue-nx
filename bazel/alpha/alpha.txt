@@ -11178,7 +11178,7 @@ amia
 amphibrachic
 amphicarpaea
 amphicarpia
-autallotriomorphic
+autallotriomorphic 1
 abrin
 acold
 ascaricide
