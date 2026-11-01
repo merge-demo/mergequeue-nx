@@ -9063,7 +9063,7 @@ dorsals
 dictyodromous
 deafest
 dictyogen
-diction
+diction 1
 disparage
 defang
 diss
