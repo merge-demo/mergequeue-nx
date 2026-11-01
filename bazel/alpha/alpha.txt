@@ -6165,7 +6165,7 @@ anthosiderite
 acetobenzoic
 agnification
 antiatheistic
-agnize
+agnize 1
 abmodality
 affranchised
 anthropocentrically
