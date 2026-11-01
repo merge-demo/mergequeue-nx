@@ -13863,7 +13863,7 @@ equitably
 extraparental 1
 extroverts
 encyst
-endgame
+endgame 1
 extraneity
 ethiop
 executancy
