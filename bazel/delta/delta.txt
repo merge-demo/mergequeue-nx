@@ -1165,7 +1165,7 @@ dasypus
 defencelessly
 duxelles
 dispersively
-dezinced
+dezinced 1
 diploconical
 dimera
 dianoetical
