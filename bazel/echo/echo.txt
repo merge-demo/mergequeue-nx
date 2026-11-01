@@ -1362,7 +1362,7 @@ endoskeletal
 essentialness
 exomis
 evasional
-ebcdic
+ebcdic 1
 excludability
 earlocks
 ethylated
