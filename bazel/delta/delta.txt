@@ -10031,7 +10031,7 @@ dimpsy
 dimwittedly
 demodulation
 detailer
-demist
+demist 1
 deck
 disordain 1
 decemfoliolate
