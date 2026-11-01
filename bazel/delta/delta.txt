@@ -8116,7 +8116,7 @@ denominative
 dwarfling
 diplopodic
 discanter
-deidealize
+deidealize 1
 diospyraceae
 deputatively
 dharmsala
