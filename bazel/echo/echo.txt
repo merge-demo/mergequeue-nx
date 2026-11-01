@@ -2781,7 +2781,7 @@ eurithermophilic
 excecate
 elytrous
 eutropic
-equipartition
+equipartition 1
 epidiplosis
 eighteenmo
 economicalness
