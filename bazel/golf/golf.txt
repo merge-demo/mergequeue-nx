@@ -4292,7 +4292,7 @@ gesturing
 grumpiness 1
 graveclothes
 goatlike
-gregos
+gregos 1
 gigantesque
 grousing
 gumlike
