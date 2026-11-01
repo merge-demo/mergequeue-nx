@@ -29314,7 +29314,7 @@ carbazin
 cryptogame
 cryptogamy
 cryptogamic
-cryptogamical
+cryptogamical 1
 cryptogamist
 cryptogenic
 cryptoglioma
