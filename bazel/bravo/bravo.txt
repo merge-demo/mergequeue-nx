@@ -13119,7 +13119,7 @@ borneols
 belaced
 bovids
 borning
-bornite
+bornite 1
 baksheesh
 bestirs
 bornites
