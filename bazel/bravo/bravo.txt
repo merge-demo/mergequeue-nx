@@ -12471,7 +12471,7 @@ braeman
 bromgelatin
 bulbose
 bondsmen
-bonify
+bonify 1
 bdls
 betaines
 brawniness
