@@ -16745,7 +16745,7 @@ apheresis
 apheses
 asclepius
 antiphoner
-aggresses
+aggresses 1
 admirer
 aftermast
 accidentals
