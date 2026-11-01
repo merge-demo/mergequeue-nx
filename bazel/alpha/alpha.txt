@@ -7066,7 +7066,7 @@ adhibited 1
 asporogenous
 arthropathy
 ameiotic
-allocation
+allocation 1
 anthramin
 akenobeite
 atavus
