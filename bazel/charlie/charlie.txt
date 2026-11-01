@@ -26019,7 +26019,7 @@ clipei
 citadels
 cosegment
 cosey
-chimesmaster
+chimesmaster 1
 coseiest
 coadjutive
 catharine

@@ -6745,7 +6745,7 @@ exungulate
 effume
 ectosomal
 extratarsal
-esthesioneurosis
+esthesioneurosis 1
 exsuperate
 exhilarate
 enthral
