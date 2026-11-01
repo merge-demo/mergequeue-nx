@@ -14812,7 +14812,7 @@ cytoglobin 1
 corselette
 concitizen
 cytoid
-citoyenne
+citoyenne 1
 confiscated
 conscious
 coadmiring
