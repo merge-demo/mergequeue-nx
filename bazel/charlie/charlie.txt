@@ -9671,7 +9671,7 @@ cheesemongering
 cheeseparer
 canaster
 cerebrasthenic
-caravaning
+caravaning 1
 counseling
 cheeseparing
 cheesewood
