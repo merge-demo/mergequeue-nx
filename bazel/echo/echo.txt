@@ -9482,7 +9482,7 @@ endbrain
 emperor
 enghosted 1
 excurved
-eupneas
+eupneas 1
 essayistic
 esca
 earthquaking
