@@ -430,7 +430,7 @@ fairship
 feal
 flitting
 fogmen 1
-fairway 1
+fairway 2
 fulminate
 fragilariaceae
 fieldbird
