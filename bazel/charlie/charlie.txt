@@ -25757,7 +25757,7 @@ corrivate
 corrivation
 corrive
 counterswing
-continuate
+continuate 1
 corroboration
 canterburianism
 cancellated
