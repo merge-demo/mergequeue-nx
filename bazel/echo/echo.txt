@@ -6325,7 +6325,7 @@ echinosphaerites
 enharmonically 1
 earnful
 emodin
-embrocation
+embrocation 1
 ejusd
 enrolls
 eumycetes 1
