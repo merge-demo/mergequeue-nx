@@ -14532,7 +14532,7 @@ bibliogony
 bottomless
 branchiopod
 barbarians
-belozenged
+belozenged 1
 branchiopoda
 branner
 baktun
