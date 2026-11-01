@@ -4343,7 +4343,7 @@ caricaceous
 cotemporaneous
 cattleya
 caricatura
-caricatural
+caricatural 1
 caricature
 chud
 caricaturing
