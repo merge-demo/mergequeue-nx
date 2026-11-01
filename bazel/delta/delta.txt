@@ -3987,7 +3987,7 @@ delatinize
 delation
 dichocarpous
 delators
-delaware
+delaware 1
 deleaded
 delectability
 dampang
