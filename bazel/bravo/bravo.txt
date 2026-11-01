@@ -9634,7 +9634,7 @@ bisyllabic
 benefactions
 burao
 braize
-bulleting 1
+bulleting 2
 bisimine
 breaches
 bullish
