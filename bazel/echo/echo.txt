@@ -11747,7 +11747,7 @@ echopraxia
 ethoxyls
 explanations
 envision
-esc
+esc 1
 eveque
 episcopise
 ensurer
