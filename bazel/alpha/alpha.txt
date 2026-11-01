@@ -1371,7 +1371,7 @@ absorbent
 athalline
 achylia
 aguish
-acropetally
+acropetally 1
 antiprotozoal
 azygospore
 armonica
