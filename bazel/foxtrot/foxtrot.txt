@@ -2746,7 +2746,7 @@ fesses
 flaunche 1
 facetiation
 friendlily
-festally
+festally 1
 festellae
 ficary
 festered
