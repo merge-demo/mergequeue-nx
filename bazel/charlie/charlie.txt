@@ -4209,7 +4209,7 @@ chapbooks
 cardo
 cardona
 colorum
-cardoon
+cardoon 1
 cardoons
 cardophagus
 clearwing
