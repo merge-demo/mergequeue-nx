@@ -11266,7 +11266,7 @@ extracts 1
 entomologically
 endanger
 epichlorohydrin
-economies
+economies 1
 emblematical
 ergometrine 1
 expirable
