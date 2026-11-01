@@ -25219,7 +25219,7 @@ aurivorous
 aeon
 antecessor
 axwort
-acquirable
+acquirable 1
 antiliturgical
 ascogonidium
 azadrachta
