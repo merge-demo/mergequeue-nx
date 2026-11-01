@@ -8471,7 +8471,7 @@ evangelistaries
 easterlies
 eprise
 epimorpha
-endures 1
+endures 2
 epsilons
 expressionistic
 entryways
