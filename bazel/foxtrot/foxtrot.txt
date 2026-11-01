@@ -617,7 +617,7 @@ folly
 farrantly
 forebemoan
 forelimb
-funnies
+funnies 1
 frame
 facesaving
 falconelle 1
