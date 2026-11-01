@@ -15647,7 +15647,7 @@ diodes
 desensitizer
 downheartedly
 dennis
-departmentalise
+departmentalise 1
 detacher
 doorward
 doorweed
