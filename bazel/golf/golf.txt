@@ -3418,7 +3418,7 @@ gynaeolatry
 gerontotherapy
 gibraltar
 galleting
-gyromancy
+gyromancy 1
 gentisate
 giggit
 geometrized
