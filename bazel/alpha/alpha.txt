@@ -19571,7 +19571,7 @@ argutely
 affluency
 arhauaco
 asphaltic
-aphanitism
+aphanitism 1
 adiadochokinesia
 awatch
 aliptteria
