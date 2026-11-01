@@ -5355,7 +5355,7 @@ glycopeptide
 galivant
 gynecomastism
 grandevity
-globuliferous
+globuliferous 1
 gombeenism
 goofer
 gonopod
