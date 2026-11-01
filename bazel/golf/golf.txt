@@ -52,7 +52,7 @@ guemal
 geometrine
 gelatinousness
 glucosidic
-goofball
+goofball 1
 gatherum
 gibbon
 glauconia
