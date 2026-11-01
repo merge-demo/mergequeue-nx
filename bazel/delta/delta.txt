@@ -12024,7 +12024,7 @@ desmodus 1
 disenfranchisement
 devanagari 1
 demonkind
-disenfranchises
+disenfranchises 1
 disintertwine
 divinest
 diapsid
