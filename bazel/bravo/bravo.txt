@@ -8244,7 +8244,7 @@ bluebills
 benzophosphinic
 brakehead
 bedsteads
-bovarysm
+bovarysm 1
 bigamies
 bigamist 1
 boyars 1
