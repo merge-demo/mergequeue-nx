@@ -25257,7 +25257,7 @@ antimonopolization
 actuaries
 amenity
 auriform
-adulatress
+adulatress 1
 althorns
 amnestying
 azimene
