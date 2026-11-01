@@ -5142,7 +5142,7 @@ exsanguinous
 endocoele
 enaliosaurian
 exploiter
-effaced
+effaced 1
 expositoriness
 evanishment 1
 endoconidia
