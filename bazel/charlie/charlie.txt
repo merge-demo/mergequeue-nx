@@ -27176,7 +27176,7 @@ carcasses
 cataspilite
 counterterrorism
 clasping
-counterterrorist
+counterterrorist 1
 countertheme
 counterthought
 counterthreat
