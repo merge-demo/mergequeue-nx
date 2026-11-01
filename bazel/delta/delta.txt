@@ -5856,7 +5856,7 @@ dags
 dentaries
 dermatocoptic
 deprecable
-deprecating
+deprecating 1
 doorbrand
 desolations
 diachoresis
