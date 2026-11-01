@@ -2829,7 +2829,7 @@ epipolic
 equivalencing
 externalness
 eater
-epiclesis 2
+epiclesis 3
 eleoptene
 embden
 endomastoiditis
