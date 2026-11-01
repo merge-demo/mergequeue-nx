@@ -10791,7 +10791,7 @@ chalkcutter
 chorisos
 castigatories
 cheeter
-chinners
+chinners 1
 chinny
 creedist
 conditionals
