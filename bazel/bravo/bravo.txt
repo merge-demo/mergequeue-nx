@@ -12769,7 +12769,7 @@ boloney
 bookshop
 betoyan
 bonanza
-bakutu
+bakutu 1
 bobotee
 brutifying
 bookstall
