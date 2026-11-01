@@ -6063,7 +6063,7 @@ farting
 flavorfulness 1
 fungiform
 firmarius
-freebooted
+freebooted 1
 fraternate
 flocculating
 frayn
