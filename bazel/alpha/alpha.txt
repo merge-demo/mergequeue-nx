@@ -11572,7 +11572,7 @@ araquaju
 antiperistasis
 anacanthine
 avourneen
-anacanthous
+anacanthous 1
 arshin
 anacathartic
 algazel
