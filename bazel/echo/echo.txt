@@ -12944,7 +12944,7 @@ epipsychidion
 egotistical
 emblematized
 electrolysation
-enhaunt
+enhaunt 1
 eulogiae
 expectancy
 endotherm
