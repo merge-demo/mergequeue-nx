@@ -10173,7 +10173,7 @@ genres
 guidepost
 glossophobia
 geostrategist
-gerusia
+gerusia 1
 gastropathy
 granulated
 greed 1
