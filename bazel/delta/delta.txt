@@ -4406,7 +4406,7 @@ demeanored
 dissidents
 diphtheritis
 douper
-delegable
+delegable 1
 dualizing
 digenous
 demele
