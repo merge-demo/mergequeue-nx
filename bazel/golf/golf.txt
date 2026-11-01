@@ -10063,7 +10063,7 @@ graveolency
 gravedigger
 gelofer
 gimmal
-gyneconitis
+gyneconitis 1
 grabens
 goblinize
 gumshoed
