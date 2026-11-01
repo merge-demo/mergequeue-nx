@@ -9468,7 +9468,7 @@ featish 1
 farming
 fortuitousness 1
 femininism
-frameable
+frameable 1
 frequenting
 fraudfully 1
 fasciculated
