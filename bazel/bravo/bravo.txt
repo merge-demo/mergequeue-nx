@@ -12080,7 +12080,7 @@ bolag
 bosey
 bolas
 bedell
-bartsia
+bartsia 1
 balmacaan
 biglenoid
 bolboxalis
