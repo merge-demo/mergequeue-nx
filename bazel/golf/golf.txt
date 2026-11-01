@@ -5479,7 +5479,7 @@ germiculture
 gandhism
 grazings 1
 glaciating
-galet
+galet 1
 gemellus
 guipure
 groundskeep
