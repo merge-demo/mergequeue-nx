@@ -6245,7 +6245,7 @@ eumeromorph
 enos 1
 eradiating
 egophony
-epitapher
+epitapher 1
 eradiation
 enostosis
 elisions
