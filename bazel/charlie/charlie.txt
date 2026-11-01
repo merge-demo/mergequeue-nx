@@ -27304,7 +27304,7 @@ couplement
 coupler
 couples
 carling
-cleric
+cleric 1
 couplings 1
 chelifer
 cremates
