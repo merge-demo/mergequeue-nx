@@ -447,7 +447,7 @@ defiance
 dangleberries
 discept
 dogbanes
-debates
+debates 1
 defensative
 disseats
 daysides
