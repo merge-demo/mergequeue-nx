@@ -3595,7 +3595,7 @@ excelsin
 emydes 1
 eventerate
 exhibitable
-euclea
+euclea 1
 egocerus
 exemplifies
 extravehicular
