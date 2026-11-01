@@ -8421,7 +8421,7 @@ dysphasic
 drowned
 diallings
 dovefoot
-deliracy
+deliracy 1
 disciplines
 deliveror
 dialog
