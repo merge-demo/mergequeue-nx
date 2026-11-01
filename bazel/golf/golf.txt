@@ -1957,7 +1957,7 @@ gruft
 gustoso 1
 gastrilegous
 gamasidae 1
-gobans
+gobans 1
 gauleiter
 gastrohepatic
 grated
