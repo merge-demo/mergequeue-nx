@@ -8070,7 +8070,7 @@ bicursal
 bailments
 bicuspid
 bruxism
-brast
+brast 1
 burrobrush
 bid
 bidactylous
