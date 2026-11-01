@@ -1010,7 +1010,7 @@ abtruse
 aquitanian
 affluxes
 abstractitious
-abstractive
+abstractive 1
 athenianly
 antimethodic
 anablepses
