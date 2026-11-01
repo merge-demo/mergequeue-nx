@@ -3662,7 +3662,7 @@ feverberry
 filigrane
 furlana
 frangula
-franchisee
+franchisee 1
 fannier
 foregoneness
 fanes
