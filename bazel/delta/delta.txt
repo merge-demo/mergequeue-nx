@@ -7790,7 +7790,7 @@ dryrot
 diplospondyli
 dagestan
 depeople
-devolatilizing
+devolatilizing 1
 deem 1
 devolutionist
 darbyism
