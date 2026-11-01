@@ -20573,7 +20573,7 @@ compenser
 countree
 compere
 compered
-cumulous
+cumulous 1
 compering 1
 compert
 competed
