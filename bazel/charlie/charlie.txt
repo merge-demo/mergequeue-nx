@@ -7839,7 +7839,7 @@ cervicomuscular
 cerviconasal 1
 cholelithotripsy
 cribrous
-crotchy
+crotchy 1
 cervicothoracic
 cervicovesical
 cervinae
