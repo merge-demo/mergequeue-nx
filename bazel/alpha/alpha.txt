@@ -22460,7 +22460,7 @@ autolysate
 assumptionist
 arduously
 aped
-anamnestically
+anamnestically 1
 astrophysicists
 anthemideae
 aleurones
