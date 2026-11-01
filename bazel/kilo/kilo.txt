@@ -12656,7 +12656,7 @@ kustmutusord
 kustrdp 1
 kusub
 kusuyac
-kusuyrtgww
+kusuyrtgww 1
 kusvbiigkenlfyur
 kusvfihao
 kusvl
