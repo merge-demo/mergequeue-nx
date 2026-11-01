@@ -17747,7 +17747,7 @@ cocotte
 cheniller
 cocottes
 cocobolo
-condemnate
+condemnate 1
 cockalan
 cc
 cocreate
