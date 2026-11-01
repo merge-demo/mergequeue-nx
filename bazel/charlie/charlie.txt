@@ -23121,7 +23121,7 @@ celtically
 constellate
 coystrel 1
 curupay
-ck
+ck 1
 conceits
 constellated
 constellating
