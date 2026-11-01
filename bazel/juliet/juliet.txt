@@ -75,7 +75,7 @@ jablwrvp
 jabm
 jabmgbc 1
 jabmq
-jabn
+jabn 1
 jabnfmlrsl
 jabnhzyl
 jabntyzw
