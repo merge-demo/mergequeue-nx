@@ -1613,7 +1613,7 @@ blier
 burletta
 butyrous
 balloted 1
-ballotist
+ballotist 1
 ballots
 ballottement
 backlotter
