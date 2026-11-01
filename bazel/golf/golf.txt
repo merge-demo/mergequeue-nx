@@ -8010,7 +8010,7 @@ gangsman
 gouvernante
 grapnels
 glaucine 1
-gunstocking
+gunstocking 1
 gastronomy
 gastronomics
 gata
