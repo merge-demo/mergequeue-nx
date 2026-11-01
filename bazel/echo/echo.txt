@@ -5244,7 +5244,7 @@ ekebergite
 either
 endoneurium
 edify
-equestrianism 1
+equestrianism 2
 equinely
 entier
 erythrogen
