@@ -14288,7 +14288,7 @@ archaeomagnetism
 anthem
 anthemas
 anthemata
-agavose
+agavose 1
 amugis
 anthemia
 archebiosis
