@@ -8494,7 +8494,7 @@ alkedavy
 alkekengi
 alkene
 aroid
-alkenyl
+alkenyl 1
 alkes
 awreck
 alkyd
