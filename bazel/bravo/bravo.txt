@@ -6617,7 +6617,7 @@ biunity
 banquettes
 bergall
 bergamasche
-bergamask
+bergamask 1
 blastoma
 bobcat
 bronchia
