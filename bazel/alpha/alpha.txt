@@ -19821,7 +19821,7 @@ armenoid 1
 assaulted
 apodemata
 aspires
-anmia
+anmia 1
 autumnal
 acanthite
 arseniopleite
