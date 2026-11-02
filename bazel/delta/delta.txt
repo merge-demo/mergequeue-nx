@@ -3030,7 +3030,7 @@ dermapteran
 deeper
 dealings
 dies 1
-dismantling
+dismantling 1
 deepfreeze
 dilettantish
 deepgoing
