@@ -8092,7 +8092,7 @@ faunistic
 foyboat
 fulminated
 foveolae
-funkiest
+funkiest 1
 flatcar 1
 fingan
 furify
