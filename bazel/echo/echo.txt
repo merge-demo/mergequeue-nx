@@ -9747,7 +9747,7 @@ everyplace
 eddo
 emerick
 enneahedron
-euhedral
+euhedral 1
 ectogenesis
 enrobing
 eucharist
