@@ -655,7 +655,7 @@ bungles
 bkpr
 boigid
 bacterized
-barefacedly 1
+barefacedly 2
 brisk
 bullroarer
 babua
