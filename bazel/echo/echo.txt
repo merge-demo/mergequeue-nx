@@ -6119,7 +6119,7 @@ england
 eunomianism 1
 enlinkment
 elaeoptene
-exulcerative
+exulcerative 1
 epithalamiast
 entremets
 enlive
