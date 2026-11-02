@@ -18868,7 +18868,7 @@ abouts
 aghastness
 archicerebrum
 archichlamydeae
-archidamus
+archidamus 1
 amninia
 adherer
 anatropia
