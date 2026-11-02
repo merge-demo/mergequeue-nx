@@ -10592,7 +10592,7 @@ gushed 1
 guarache
 gonidium
 gunners
-gunning
+gunning 1
 gonzalo
 gigmanity
 gigging
