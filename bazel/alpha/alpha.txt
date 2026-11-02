@@ -14607,7 +14607,7 @@ aliency 1
 aviational
 antidepressants
 anthropurgic
-anthroxanic
+anthroxanic 1
 arrogative
 antipolemist
 amenorrhoeic
