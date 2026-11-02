@@ -8484,7 +8484,7 @@ bannerer
 bilingually 1
 bilinguar
 balks
-berycine
+berycine 1
 bijoux
 brushet
 bebouldered
