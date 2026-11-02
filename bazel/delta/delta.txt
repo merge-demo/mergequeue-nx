@@ -6630,7 +6630,7 @@ dermatrophy
 dicarboxylate
 demembration 1
 demerol
-deperming
+deperming 1
 dreamwhile
 desert
 darkroom
