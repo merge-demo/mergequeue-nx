@@ -27636,7 +27636,7 @@ croquette
 cowbanes
 corticosteroid
 cowberry
-cardiology
+cardiology 1
 circumplect
 chillier
 cowbind
