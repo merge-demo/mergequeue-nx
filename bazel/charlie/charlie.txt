@@ -20542,7 +20542,7 @@ cornerways
 compellingly
 curblike
 cosines
-checks
+checks 1
 compendency
 compendia
 correlativity
