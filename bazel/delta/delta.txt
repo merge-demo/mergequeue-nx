@@ -3066,7 +3066,7 @@ dollyway
 deescalate
 deeses
 deepfrozen
-deemphasize
+deemphasize 1
 dorsoapical
 diester
 downward
