@@ -10679,7 +10679,7 @@ derivable
 declinometer
 downstreet
 dogman
-digoxin
+digoxin 1
 derationalize
 dreadlessness
 denunciating
