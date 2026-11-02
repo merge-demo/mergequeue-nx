@@ -11493,7 +11493,7 @@ evidentially
 epencephalons
 erin
 etouffe 1
-extravertively
+extravertively 1
 erbium
 emulgens
 enlistees
