@@ -1091,7 +1091,7 @@ downpour
 defluxion
 datiscaceae
 dhyal
-decayless
+decayless 1
 declivitous
 divisibleness
 dads
