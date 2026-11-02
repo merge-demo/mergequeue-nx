@@ -7433,7 +7433,7 @@ fillemot
 faience
 firefall 1
 floperoo
-forevalue
+forevalue 1
 firstship
 forcibility
 forcibleness
