@@ -15464,7 +15464,7 @@ attainder
 antimensia
 assented
 anapestic
-antimension
+antimension 1
 archisperm 1
 antimere
 antimerina
