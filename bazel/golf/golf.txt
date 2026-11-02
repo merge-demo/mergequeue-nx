@@ -1561,7 +1561,7 @@ gainset 1
 gonydeal 1
 gibe
 gaspers
-galliardise
+galliardise 1
 grassless
 geothermally
 gassed
