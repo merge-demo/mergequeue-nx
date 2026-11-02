@@ -2381,7 +2381,7 @@ edulcoration
 exhaustable
 electroconvulsive
 empoisonment
-engorged
+engorged 1
 exocone 1
 egoistic
 exergonic
