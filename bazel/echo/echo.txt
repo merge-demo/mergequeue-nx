@@ -1480,7 +1480,7 @@ electrometric
 euphonia
 equisetums
 enplaning
-encompasses
+encompasses 1
 eurythermous
 electivism
 electroshocks
