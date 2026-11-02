@@ -11461,7 +11461,7 @@ chocoan
 chocolate
 chocolatey
 chine
-chocolates 1
+chocolates 2
 chocolatiere
 cobras
 concentred
