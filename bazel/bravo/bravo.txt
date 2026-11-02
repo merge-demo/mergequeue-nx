@@ -6345,7 +6345,7 @@ belite
 barani
 benzidino
 blackbirding 1
-birdwise
+birdwise 1
 blossoming
 bragger
 beadiness
