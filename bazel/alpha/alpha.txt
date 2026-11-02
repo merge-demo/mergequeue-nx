@@ -3445,7 +3445,7 @@ aromatical
 addendums
 archaized
 adder
-abridgment
+abridgment 1
 addibility
 arythmias
 antroversion
