@@ -6829,7 +6829,7 @@ florula
 fragmentizer
 foretold
 fructifier
-forger
+forger 1
 foliaged 1
 firetower
 fustigator
