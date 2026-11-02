@@ -1644,7 +1644,7 @@ atty 1
 anatomism
 attribute
 accrual
-actualities
+actualities 1
 accrued
 accruement
 accruer
