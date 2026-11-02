@@ -2086,7 +2086,7 @@ colostric
 campana
 campane
 campanella
-coadjuvancy
+coadjuvancy 1
 campania
 cecils
 comdg
