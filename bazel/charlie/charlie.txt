@@ -7694,7 +7694,7 @@ corkish
 clampers
 cerionidae 1
 cerise
-cadere
+cadere 1
 combustively
 cerithiidae
 cerithium
