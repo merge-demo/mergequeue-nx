@@ -7047,7 +7047,7 @@ antitubercular
 appraisingly
 akebia 1
 actinia
-abjudicator
+abjudicator 1
 adoniram
 adductive
 avick
