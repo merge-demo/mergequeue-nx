@@ -7260,7 +7260,7 @@ centum
 colorcaster
 cancellate
 copopsia
-catarinite
+catarinite 1
 cryptococcal
 cohobated
 centuple
