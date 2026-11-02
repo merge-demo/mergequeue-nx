@@ -15372,7 +15372,7 @@ decylene
 dehumidifies 1
 diobolon
 deciliters
-difformity
+difformity 1
 dislocatedly
 dikaryotic
 disencumbrance
