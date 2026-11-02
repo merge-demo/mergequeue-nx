@@ -6764,7 +6764,7 @@ binturong
 banshee
 bitte
 bedscrew
-boteler 1
+boteler 2
 bumpier
 busulfan
 busying
