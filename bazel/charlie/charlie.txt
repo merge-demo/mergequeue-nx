@@ -18471,7 +18471,7 @@ cursor
 coheiress
 cepheus
 clericalize
-crosslet
+crosslet 1
 circlet
 champac 1
 coheirs
