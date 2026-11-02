@@ -9958,7 +9958,7 @@ antizymotic
 allovers
 amazulu
 aphthongal
-abayah
+abayah 1
 antaranga
 abele
 abluents
