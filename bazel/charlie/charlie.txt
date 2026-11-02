@@ -17196,7 +17196,7 @@ coaid
 coaita
 coak
 coakum
-coalas
+coalas 1
 chimmesyan 1
 coalbag
 coalbagger
