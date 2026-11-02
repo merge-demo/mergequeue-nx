@@ -24492,7 +24492,7 @@ autovalet
 autovivisection
 apricots
 arteriagra
-abattoir
+abattoir 1
 apologal
 ag
 anticlericalist
