@@ -8431,7 +8431,7 @@ conscientiously
 chamfron
 carpal
 chamian
-chamisal
+chamisal 1
 chamise
 chamises
 chamiso
