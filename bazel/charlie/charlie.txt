@@ -19079,7 +19079,7 @@ chloridizing
 collimated
 collimates
 collimation
-collimator
+collimator 1
 considered
 colline
 collections
