@@ -6616,7 +6616,7 @@ electrician
 enquicken 2
 equiponderant
 excluding
-echinorhynchus
+echinorhynchus 1
 esperantidist
 embryous
 enseam
