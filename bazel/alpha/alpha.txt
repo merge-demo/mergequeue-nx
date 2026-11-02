@@ -15469,7 +15469,7 @@ archisperm 1
 antimere
 antimerina
 antimerism
-antimesia
+antimesia 1
 archetypically
 antimetathetic
 aeschynite
