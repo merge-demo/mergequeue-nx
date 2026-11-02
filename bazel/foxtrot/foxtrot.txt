@@ -10049,7 +10049,7 @@ fleshling
 fibrosis
 fablemonger
 fait
-flabbiest
+flabbiest 1
 feloniously
 familistical
 fascinated
