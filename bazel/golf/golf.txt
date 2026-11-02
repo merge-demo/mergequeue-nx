@@ -5272,7 +5272,7 @@ gelsemiums
 glenohumeral
 genomes
 grouted 1
-garnets
+garnets 1
 guitarfish
 gliadine
 galvanism
