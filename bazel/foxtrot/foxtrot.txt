@@ -9069,7 +9069,7 @@ fiant
 friesish 1
 funnellike
 fenter
-forbruise
+forbruise 1
 foxfires
 foederis
 falsettos
