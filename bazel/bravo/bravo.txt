@@ -3484,7 +3484,7 @@ batatas
 batavi
 ballan
 buzzsaw
-bidar
+bidar 1
 biscuiting
 bugeye
 bactericides
