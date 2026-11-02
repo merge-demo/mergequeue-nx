@@ -2313,7 +2313,7 @@ asmear
 anacamptically
 acidoses
 antiradically
-afternoon
+afternoon 1
 acidosteophyte
 arecuna
 aul
