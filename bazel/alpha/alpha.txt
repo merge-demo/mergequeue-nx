@@ -24311,7 +24311,7 @@ affianced
 acetonate
 autopoisonous 1
 acclimatize
-autopolar
+autopolar 1
 autopolyploid
 autopolo
 anomalous
