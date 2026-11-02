@@ -2134,7 +2134,7 @@ campcraft
 campe
 cumbers
 cryal
-camped
+camped 1
 campephagine
 camper
 coniopterygidae
