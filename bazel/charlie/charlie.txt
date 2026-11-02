@@ -2719,7 +2719,7 @@ combinatorics
 cutey
 canman
 churr
-cannabic
+cannabic 1
 churchwise
 cannabidiol
 concealingly
