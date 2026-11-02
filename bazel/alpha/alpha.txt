@@ -7963,7 +7963,7 @@ actos
 autarchy 1
 arabin
 angie
-alethiologist
+alethiologist 1
 acrophobia
 amelioratory
 alethopteis
