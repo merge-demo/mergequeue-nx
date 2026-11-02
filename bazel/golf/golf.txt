@@ -10663,7 +10663,7 @@ gurgoyle
 glaiketness
 genuflexion
 glottologist
-guric
+guric 1
 grog
 granitization
 gelatinobromide
