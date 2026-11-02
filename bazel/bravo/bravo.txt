@@ -7579,7 +7579,7 @@ bifocals
 bedrivel
 breed
 bewhore
-bewidow
+bewidow 1
 bulldozers
 boke
 breaming 1
