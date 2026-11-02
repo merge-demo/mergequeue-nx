@@ -10617,7 +10617,7 @@ flumped
 forwaste
 fleeting
 flatnesses
-frugalities
+frugalities 1
 farrandly
 frugalness
 freck
