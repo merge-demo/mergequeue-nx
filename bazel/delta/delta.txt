@@ -12952,7 +12952,7 @@ differers
 demihague
 doddard
 dyschromatoptic
-demivoice
+demivoice 1
 discriminability
 decentralist
 dolomitized
