@@ -5113,7 +5113,7 @@ griskin
 grainsmen 1
 grenadine
 goldeneye
-greesagh 1
+greesagh 2
 gte
 glathsheimr
 ginnel
