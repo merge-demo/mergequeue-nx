@@ -9495,7 +9495,7 @@ chaetites
 checkbooks
 calculated
 checker
-checkerbelly
+checkerbelly 1
 centrolepidaceous
 checkerbellies
 checkerberry
