@@ -1263,7 +1263,7 @@ emperors
 enrobe
 ecclesiarch
 eversive
-eking
+eking 1
 electrocystoscope
 equalness
 eclated
