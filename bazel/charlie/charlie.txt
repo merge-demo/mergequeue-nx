@@ -3542,7 +3542,7 @@ captation
 caption
 captioned
 convenably
-captioning
+captioning 1
 captiousness
 captivance
 cucurbitine
