@@ -2129,7 +2129,7 @@ banteringly
 banty
 betangle
 bribery
-bantu
+bantu 1
 bantus
 bandon
 bewield
