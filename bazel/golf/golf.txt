@@ -9854,7 +9854,7 @@ gips
 grousy
 gametophagia 1
 guajiras
-guama
+guama 1
 garcinia
 garrick 1
 glaniostomi
