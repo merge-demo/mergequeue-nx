@@ -21984,7 +21984,7 @@ assuetude
 annualist
 avantgarde
 antireligiosity 1
-assume
+assume 1
 araneidal
 apophis
 anthography
