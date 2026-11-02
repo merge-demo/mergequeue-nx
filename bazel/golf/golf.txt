@@ -4233,7 +4233,7 @@ goloka
 gois
 gaetuli
 gyromagnetic
-galvanomagnetism
+galvanomagnetism 1
 gynaecological
 gabbiness
 gobbing
