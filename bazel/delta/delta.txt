@@ -17976,7 +17976,7 @@ dukes 1
 deifical
 deseasonalize
 dukkeripen
-dehydrase
+dehydrase 1
 dukuma
 dulat
 dulcamara
