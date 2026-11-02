@@ -10779,7 +10779,7 @@ ghole 1
 genialness
 gonadectomy
 gammadia 1
-grandevous
+grandevous 1
 gandered
 gignitive 1
 gamesomely
