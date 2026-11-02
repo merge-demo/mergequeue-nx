@@ -13917,7 +13917,7 @@ behavior
 bowtell
 barographic
 backpointer 1
-byspell
+byspell 1
 broadened
 bargelli
 belugas
