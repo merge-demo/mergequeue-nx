@@ -12187,7 +12187,7 @@ aegyptilla
 antiflash 1
 anaunters
 aggressive
-ablaut
+ablaut 1
 aerocyst
 andira
 alienicola
