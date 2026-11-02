@@ -2207,7 +2207,7 @@ facetious
 finjan
 facilitated 1
 febricitation 1
-farraginous
+farraginous 1
 freyja
 fantasmagoria
 fixe
