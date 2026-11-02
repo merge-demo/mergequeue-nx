@@ -12534,7 +12534,7 @@ anemoscope
 albifying
 aurorian
 automorphism
-axolysis
+axolysis 1
 abhors
 acquiescer
 anticonformities
