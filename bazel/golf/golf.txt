@@ -10684,7 +10684,7 @@ grippotoxin
 grayed
 gurk
 gellants
-gurney
+gurney 1
 groundbird
 gurnet
 goodmanship 1
