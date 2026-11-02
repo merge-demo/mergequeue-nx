@@ -1048,7 +1048,7 @@ frieda
 focalization 1
 flopper
 felspathose
-foined
+foined 1
 floricomous
 forensal
 fringillidae
