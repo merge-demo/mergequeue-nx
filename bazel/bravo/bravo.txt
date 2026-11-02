@@ -8205,7 +8205,7 @@ biflex
 benchfellow
 beginger
 bifluoride 1
-bifocal
+bifocal 1
 balanocele
 berith
 bb
