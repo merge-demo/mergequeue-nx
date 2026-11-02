@@ -26649,7 +26649,7 @@ counted
 colourfully 1
 countenanced
 cyrenian
-countenancer
+countenancer 1
 carbazine
 consensus
 contracapitalist
