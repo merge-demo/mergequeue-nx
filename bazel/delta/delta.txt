@@ -10473,7 +10473,7 @@ dogberrydom
 deda
 dotty
 diphtheric
-denticeti
+denticeti 1
 diphtheritically
 disarraying
 dourly
