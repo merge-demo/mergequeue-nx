@@ -23843,7 +23843,7 @@ antiphrastically
 autacoidal
 azan
 autaesthesy
-adjudicature
+adjudicature 1
 atlantoaxial
 amidols
 abnormalize
