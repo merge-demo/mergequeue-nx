@@ -11680,7 +11680,7 @@ anaemotropy
 adrad
 anaeretic
 ambulacrum
-acerbity
+acerbity 1
 astrometeorologist
 adages
 anaerobation
