@@ -12828,7 +12828,7 @@ calcitestaceous
 camellias
 church
 courageousness
-churchcraft
+churchcraft 1
 churches
 chondrocranium
 churchful
