@@ -12897,7 +12897,7 @@ bungmaker
 babka
 bouffante
 bump
-bursectomy
+bursectomy 1
 brachigerous
 byssogenous
 bureaucratese
