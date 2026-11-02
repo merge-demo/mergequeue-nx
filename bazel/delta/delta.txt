@@ -10481,7 +10481,7 @@ dishonesties
 diphthongally
 disenable 1
 dipneust
-dismortgaged
+dismortgaged 1
 dimyarian
 dispost
 diphthongation
