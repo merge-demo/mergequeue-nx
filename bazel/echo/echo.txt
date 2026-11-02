@@ -12139,7 +12139,7 @@ elonite
 enregister 1
 excellencies
 ejam
-eloper
+eloper 1
 ebonite
 ensorcerize
 erpetologist
