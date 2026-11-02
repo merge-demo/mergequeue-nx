@@ -321,7 +321,7 @@ dalasi 1
 daybooks
 deckman
 desand 1
-desquamative
+desquamative 1
 desmidiaceae
 dribbling
 dunkadoo
