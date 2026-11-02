@@ -14702,7 +14702,7 @@ cenanthy
 citer
 citers
 cites
-citess
+citess 1
 citharas
 citharexylum
 citharist
