@@ -3638,7 +3638,7 @@ expositive 1
 emotionalised 1
 eudaemonize
 elatinaceous
-estimators
+estimators 1
 enddamaging
 elaeocarpaceous
 ecocidal
