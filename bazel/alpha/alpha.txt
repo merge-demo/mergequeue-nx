@@ -2056,7 +2056,7 @@ affiliation
 amylohydrolytic
 antiputrefactive
 anammonid
-altitudinal 1
+altitudinal 2
 acheiria
 aboveboard
 antidromic
