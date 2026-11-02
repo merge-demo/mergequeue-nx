@@ -3661,7 +3661,7 @@ foretype
 feverberry
 filigrane
 furlana
-frangula
+frangula 1
 franchisee
 fannier
 foregoneness
