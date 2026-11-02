@@ -3072,7 +3072,7 @@ actinon
 antimaterialistic
 actinonema
 autacoid
-amphibolia
+amphibolia 1
 aswing
 allantoinuria
 anhydrous
