@@ -5997,7 +5997,7 @@ dept
 diaschistic
 depth 1
 dispraise
-droopy
+droopy 1
 devitation
 domajigger
 diagraphics
