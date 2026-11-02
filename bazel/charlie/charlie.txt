@@ -3559,7 +3559,7 @@ caucus
 calvarias
 captives
 comatulae
-captor
+captor 1
 capturable
 catechized
 capture
