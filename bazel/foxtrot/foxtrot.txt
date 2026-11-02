@@ -2891,7 +2891,7 @@ foaled
 flowstone
 fractioning
 fettlings
-farcin
+farcin 1
 freighted
 fackins
 firefighters
