@@ -2905,7 +2905,7 @@ entrancingly
 enthrall 1
 erzahler
 epitheliomuscular
-elevenses
+elevenses 1
 eleventeenth
 eleventh
 evicts
