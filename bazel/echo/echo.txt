@@ -9300,7 +9300,7 @@ entomolegist 1
 erthen
 eumorphous
 ekistic
-enkennel
+enkennel 1
 erthly
 estriate
 ericaceous
