@@ -8347,7 +8347,7 @@ enslaved
 endocyemate 1
 epithetic
 effortlessness
-encumberingly
+encumberingly 1
 epithetically 1
 entifical
 epithets
