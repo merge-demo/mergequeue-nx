@@ -7695,7 +7695,7 @@ airmass
 anemogram
 alcoholmetric
 acroter
-abaissed
+abaissed 1
 alcoholometer
 acidic
 apterygial
