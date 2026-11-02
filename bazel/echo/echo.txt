@@ -2967,7 +2967,7 @@ endonuclear
 elicits
 engagee
 equaeval
-epihydrinic
+epihydrinic 1
 emaciate
 elides
 electrotropism
