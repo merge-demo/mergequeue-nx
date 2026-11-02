@@ -10867,7 +10867,7 @@ dipppiest
 drogherman
 disyoke
 deindustrialize 1
-daekon
+daekon 1
 disedge
 dirity
 daised
