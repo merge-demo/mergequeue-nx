@@ -18417,7 +18417,7 @@ dialysepalous
 disarrayed
 dupe
 dupedom
-dupery
+dupery 1
 destroyer
 diphthongise
 duping
