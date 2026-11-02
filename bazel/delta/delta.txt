@@ -3986,7 +3986,7 @@ disquixote
 delatinize
 delation
 dichocarpous
-delators
+delators 1
 delaware
 deleaded
 delectability
