@@ -22790,7 +22790,7 @@ anchoritish
 antitemperance
 atlantid
 asaphid
-atlantides
+atlantides 1
 audibility
 atlantite
 arthrodic
