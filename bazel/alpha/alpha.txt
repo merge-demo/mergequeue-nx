@@ -17155,7 +17155,7 @@ apollinarian
 apollo
 apollonian
 author
-apollonic
+apollonic 1
 antalkaline
 apology
 apologiae
