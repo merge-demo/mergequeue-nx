@@ -6746,7 +6746,7 @@ forjudged
 fluorescin
 fibrocellular
 food 1
-foliageous
+foliageous 1
 fineer
 furthersome
 fibrochondroma
