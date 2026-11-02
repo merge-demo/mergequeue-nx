@@ -16795,7 +16795,7 @@ dissenters
 dreeing
 disconsonant
 difficult
-devaluated
+devaluated 1
 drawcut
 drawee
 disboscation
