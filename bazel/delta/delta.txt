@@ -8257,7 +8257,7 @@ denitrating
 divergency
 dinotherium
 dehortatory
-demegoric
+demegoric 1
 diiodid
 dubitancy
 deathcup 1
