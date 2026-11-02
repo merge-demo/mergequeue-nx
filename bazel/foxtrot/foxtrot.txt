@@ -4672,7 +4672,7 @@ fulica
 flewit
 freety 1
 fayettism
-filicinean
+filicinean 1
 fearsome
 flatnose
 figurante
