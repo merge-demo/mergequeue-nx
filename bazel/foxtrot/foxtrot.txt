@@ -9941,7 +9941,7 @@ frighting
 fumiduct 1
 floridness
 friedrichsdor
-flaggingly
+flaggingly 1
 flutterless
 fakeers
 facileness
