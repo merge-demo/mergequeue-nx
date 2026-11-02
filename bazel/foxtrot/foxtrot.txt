@@ -8571,7 +8571,7 @@ fratchety
 featherer
 frogtongue
 futurities 1
-fasciation
+fasciation 1
 ferules
 favourless
 foxhole
