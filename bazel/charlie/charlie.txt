@@ -20024,7 +20024,7 @@ captiously
 curwillet
 commender
 craftsman
-commending
+commending 1
 commendment
 chloric
 commensal
