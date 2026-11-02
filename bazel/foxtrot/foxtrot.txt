@@ -2857,7 +2857,7 @@ flatwares
 formol
 faddish
 feltyfare
-fisty 1
+fisty 2
 finable
 foresails
 figworm
