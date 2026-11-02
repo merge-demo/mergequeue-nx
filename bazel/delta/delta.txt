@@ -9807,7 +9807,7 @@ durangite
 doorstops
 demasculinising
 disenfranchise
-diggings
+diggings 1
 dills
 delusiveness
 dillseed
