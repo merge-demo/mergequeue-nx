@@ -15671,7 +15671,7 @@ discased
 distemperance 1
 dopey
 decrements
-doper
+doper 1
 disbarring
 doorposts
 dopier
