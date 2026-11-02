@@ -21211,7 +21211,7 @@ cricoidectomy
 cananaean
 cospecific
 conceptualize
-crosses
+crosses 1
 chrysamine
 conceptualized
 chonta
