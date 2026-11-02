@@ -4746,7 +4746,7 @@ erosional
 eelware
 exalbuminose 1
 encist
-electralize 1
+electralize 2
 exponentially
 encysting
 eugenol
