@@ -8547,7 +8547,7 @@ etherify 1
 existing
 enviable
 entoglossal
-ethicism
+ethicism 1
 emblement
 ethylenoid
 enorganic
