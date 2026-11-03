@@ -9865,7 +9865,7 @@ guaneide
 gharri
 guanethidine
 gallbush
-galyacs
+galyacs 1
 gastroenterologist
 geikielite
 gettableness
