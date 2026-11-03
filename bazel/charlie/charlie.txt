@@ -25660,7 +25660,7 @@ cyclostomidae
 club
 correctible
 confirmatorily
-cubicly
+cubicly 1
 correctionalist
 correctioner
 conformities
