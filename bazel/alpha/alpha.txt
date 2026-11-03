@@ -23667,7 +23667,7 @@ anapaests
 alumroots
 atpoints
 allotropicity
-antiexpressively
+antiexpressively 1
 alms
 auriculare
 anticreativeness
