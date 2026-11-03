@@ -4474,7 +4474,7 @@ eumenidae
 euryzygous
 electrotechnologist 1
 exaggerator
-extemporaneousness
+extemporaneousness 1
 eczematous
 encash
 enlightenments
