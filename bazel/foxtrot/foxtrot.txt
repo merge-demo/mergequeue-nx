@@ -535,7 +535,7 @@ funambulant
 folium
 falcons
 falculate 1
-fawnery
+fawnery 1
 falcunculus
 falderals 1
 fussier
