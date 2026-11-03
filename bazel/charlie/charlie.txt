@@ -25012,7 +25012,7 @@ cnibophore
 cheskeys
 cordycepin
 cleptomania
-cordiceps
+cordiceps 1
 cordyceps
 communicator
 cordicole
