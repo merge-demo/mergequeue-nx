@@ -11980,7 +11980,7 @@ dermatalgia
 disparition 1
 dismission
 denominated
-disembowels
+disembowels 1
 droving
 depucel
 deputizes
