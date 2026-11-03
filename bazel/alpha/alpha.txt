@@ -15196,7 +15196,7 @@ alunogen
 antifederalism
 assentient
 antifelony
-antarctalian
+antarctalian 1
 antiferromagnetism
 antifertility
 accreditation
