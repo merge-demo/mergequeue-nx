@@ -7718,7 +7718,7 @@ enfevered
 epidemiography
 elytroplastic
 epeirogeny
-equilibration
+equilibration 1
 expendability
 extrapopular
 epidemiologic
