@@ -14871,7 +14871,7 @@ deoxidator
 divertive
 documentize 1
 dehortative
-doucepere
+doucepere 1
 disazo
 downbear 1
 documents
