@@ -7979,7 +7979,7 @@ dextroglucose
 distensive
 dextrolactic
 despotes 1
-diphenylthiourea
+diphenylthiourea 1
 dorosternal
 dextrolimonene
 dichlorobenzene
