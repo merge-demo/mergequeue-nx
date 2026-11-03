@@ -8466,7 +8466,7 @@ goatishness 1
 gerontophilia
 glossator
 grinnie
-galactonic
+galactonic 1
 gratulation
 globefish
 grandeurs
