@@ -2816,7 +2816,7 @@ elenchic
 elves
 elenchize
 ecthlipsis
-eath 1
+eath 2
 endamask
 effeminately
 epipubic
