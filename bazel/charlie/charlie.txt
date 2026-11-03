@@ -13153,7 +13153,7 @@ caudicle
 canalize 1
 craniographer
 cicatrization
-cott
+cott 1
 cicatrizer
 cicatrizing
 cicelies
