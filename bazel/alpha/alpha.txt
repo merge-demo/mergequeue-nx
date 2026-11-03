@@ -13015,7 +13015,7 @@ antioptimistic
 anhalouidine
 antisimoniacal
 annihilable
-anharmonic
+anharmonic 1
 abbreviating
 aluniferous
 aeroballistics
