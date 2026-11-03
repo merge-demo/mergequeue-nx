@@ -1926,7 +1926,7 @@ eluting
 exemplary
 endearance
 euhemerized
-excite
+excite 1
 evertebral
 envenomed
 erotogeneses
