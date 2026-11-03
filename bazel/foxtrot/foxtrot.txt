@@ -8238,7 +8238,7 @@ forfoughten 1
 finestra
 faltering
 forgat
-flavines
+flavines 1
 footwork
 forgather
 fossulet
