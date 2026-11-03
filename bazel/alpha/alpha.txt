@@ -16572,7 +16572,7 @@ anadem
 anorthosite
 alisanders
 apanthropia 1
-awakenment
+awakenment 1
 aparejos
 automaker
 antarctogaean
