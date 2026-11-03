@@ -10482,7 +10482,7 @@ fatness
 frutescent
 frostings
 fanzine 1
-finises
+finises 1
 fervencies
 floggable
 felsosphaerite
