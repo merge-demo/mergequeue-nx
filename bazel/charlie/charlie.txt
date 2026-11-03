@@ -20570,7 +20570,7 @@ compensatory
 cotillions 1
 compensators
 compenser
-countree
+countree 1
 compere
 compered
 cumulous
