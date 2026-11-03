@@ -7284,7 +7284,7 @@ alarum
 alarumed
 atmiatry
 antitypically
-alaruming
+alaruming 1
 astrand
 antepaschel
 aerotropic 1
