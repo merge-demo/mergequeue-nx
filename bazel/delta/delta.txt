@@ -2617,7 +2617,7 @@ deignous
 deoxygenation
 decodon 1
 demiurges
-disfriar
+disfriar 1
 diswarrened
 decoherence
 dirndl
