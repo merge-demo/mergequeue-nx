@@ -5080,7 +5080,7 @@ glued
 gnarr
 griecep 1
 glassies
-galoisian
+galoisian 1
 gillied
 grasni 1
 guddler
