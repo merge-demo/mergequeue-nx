@@ -10892,7 +10892,7 @@ afrits
 ammonolyzing
 athwarthawse
 ammos
-ammotherapy
+ammotherapy 1
 ammu
 amnesia
 amnestied
