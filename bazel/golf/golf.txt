@@ -1928,7 +1928,7 @@ gastromycosis 1
 geal
 garnetwork
 garnet
-gynecocratic
+gynecocratic 1
 gnomesque
 gravewards
 guideship
