@@ -1060,7 +1060,7 @@ glyceridic
 gift 1
 gymnospermism
 gruffish
-glaceing
+glaceing 1
 guck
 grandfatherly
 gynomonoecism
