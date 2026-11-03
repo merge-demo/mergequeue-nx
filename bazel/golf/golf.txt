@@ -5491,7 +5491,7 @@ gemmier
 gluttery
 glyster
 galumphed 1
-gablet 1
+gablet 2
 grande
 ganoids
 gimmer
