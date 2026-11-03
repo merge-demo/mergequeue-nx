@@ -5951,7 +5951,7 @@ cathartolinum
 cathect
 cathected
 cathects
-cathedra
+cathedra 1
 cathedraled
 cathedralesque
 cavorter
