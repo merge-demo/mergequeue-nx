@@ -10601,7 +10601,7 @@ chilogrammo
 cubic
 contract
 conservatoire
-corybantic
+corybantic 1
 cosmopolis
 campanology
 colleterium
