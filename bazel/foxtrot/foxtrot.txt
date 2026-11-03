@@ -5049,7 +5049,7 @@ flowered
 fissures
 forecourse
 fatteners
-flaperon
+flaperon 1
 flippantly
 flappable
 frankalmoin 1
