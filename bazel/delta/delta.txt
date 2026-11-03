@@ -8172,7 +8172,7 @@ dicranum
 diacid
 detachment
 duellists
-duple
+duple 1
 deprecate
 diacipiperazine
 disload
