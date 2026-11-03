@@ -29388,7 +29388,7 @@ cryptoscopy
 cryptosplenetic
 cryptostome
 cryptous
-cryptovalence
+cryptovalence 1
 cholane
 cymoidium
 cryptovolcanism
