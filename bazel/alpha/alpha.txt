@@ -23051,7 +23051,7 @@ astrology
 abaft
 antewar
 alumium 1
-arterialisation
+arterialisation 1
 aguardiente
 accusative
 appetencies
