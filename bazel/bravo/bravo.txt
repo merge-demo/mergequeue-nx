@@ -1087,7 +1087,7 @@ bairagi
 bismarckianism
 bairdi 1
 bumbailiff
-beneficency
+beneficency 1
 bastiles
 bairn
 bypassed
