@@ -18669,7 +18669,7 @@ coinvolve 1
 coyo
 coyol
 coyos
-coyotes
+coyotes 1
 coccoloba
 coyotillos
 caucusing
