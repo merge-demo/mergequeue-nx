@@ -8820,7 +8820,7 @@ barfed
 benzol
 balsamiferous
 braeface
-bristle
+bristle 1
 binomenclature
 binomially
 blondness
