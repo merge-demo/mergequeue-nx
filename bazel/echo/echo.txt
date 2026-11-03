@@ -4870,7 +4870,7 @@ eucatropine
 escapable
 exorciser
 epidermatoid
-encoder 1
+encoder 2
 episcopable
 embryogenetic
 enshrining
