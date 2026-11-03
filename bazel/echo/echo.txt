@@ -4890,7 +4890,7 @@ encrinidae
 encrinital
 elegance
 encroacher
-equalizing
+equalizing 1
 exponentiations
 elemental
 effeminateness
