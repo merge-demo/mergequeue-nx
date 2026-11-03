@@ -3452,7 +3452,7 @@ antroversion
 addible
 addicent
 antiknocks
-addictedness
+addictedness 1
 addicting
 adaptedness
 aix
