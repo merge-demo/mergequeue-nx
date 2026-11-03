@@ -12755,7 +12755,7 @@ ashpit 1
 anginose
 anginous
 adenectomies
-apocenter
+apocenter 1
 angioataxia
 anasazi
 areality
