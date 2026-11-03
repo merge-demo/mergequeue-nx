@@ -27154,7 +27154,7 @@ counterstock
 counterstroke
 cyclopoid
 clientless
-cellulate
+cellulate 1
 countersuit
 cubehead
 countersun
