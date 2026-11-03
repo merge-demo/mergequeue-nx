@@ -7736,7 +7736,7 @@ guilfat
 gittern
 grassroots 1
 gloea
-gutturopalatine
+gutturopalatine 1
 grenelle
 gauloiserie
 guld
