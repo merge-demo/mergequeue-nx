@@ -12187,7 +12187,7 @@ bolivians
 bolk
 bolly
 beretta
-bargir
+bargir 1
 besit
 brevis
 bacchides
