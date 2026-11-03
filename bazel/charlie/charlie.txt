@@ -264,7 +264,7 @@ cassiduloidea
 cachepot
 chillies
 condensing
-caches
+caches 1
 cachespell 1
 coreductase
 cagayans
