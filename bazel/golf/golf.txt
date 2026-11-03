@@ -9090,7 +9090,7 @@ gease
 graveyards
 glaucomys
 glumal
-glires
+glires 1
 gladiatorism
 goatherds
 guajira
