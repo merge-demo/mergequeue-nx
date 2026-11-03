@@ -25600,7 +25600,7 @@ cylindricality
 corporative
 cyclonometer
 cassites
-concetti
+concetti 1
 corporativism
 corporealization 1
 coagule
