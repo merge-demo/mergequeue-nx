@@ -14133,7 +14133,7 @@ agapae
 antiegoistically
 antenodal
 angelic
-antenumber
+antenumber 1
 adrostal
 antenuptial
 aplasias
