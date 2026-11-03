@@ -15104,7 +15104,7 @@ aspherical
 anoplanthus
 antidromically
 apparance
-antidrug
+antidrug 1
 anemotropic 1
 applied
 archcheater
