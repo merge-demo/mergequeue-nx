@@ -25704,7 +25704,7 @@ corrente
 centigrado
 crumblingness
 cleanhandedness
-cistophoric
+cistophoric 1
 coppiced
 crepitate
 circumrotating
