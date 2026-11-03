@@ -8118,7 +8118,7 @@ befouls 1
 biding
 bidirectional 1
 biophagy
-beliefs
+beliefs 1
 bania
 boltonias
 boathouses
