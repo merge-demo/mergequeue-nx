@@ -1109,7 +1109,7 @@ graphiola
 grammatication
 gearshifts
 gravitate
-graptolitic
+graptolitic 1
 gallants
 guillotining
 gwyniad
