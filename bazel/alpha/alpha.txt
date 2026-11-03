@@ -19788,7 +19788,7 @@ armado
 amphicyonidae
 acrodermatitis
 airplanes
-alteratively
+alteratively 1
 armamentarium
 autoskeleton
 affeerment
