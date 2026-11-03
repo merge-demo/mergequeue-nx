@@ -433,7 +433,7 @@ dodrantal
 dhourra
 discoursers
 dairous
-dairt
+dairt 1
 dais
 disinthrall
 donjons
