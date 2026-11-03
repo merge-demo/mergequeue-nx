@@ -13580,7 +13580,7 @@ dollfish
 decant
 dismeasurable
 deuterotoky
-diplomacies
+diplomacies 1
 demicritic
 drawnet
 dorcopsis 1
