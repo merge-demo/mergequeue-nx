@@ -10083,7 +10083,7 @@ demological
 dynamograph
 dauerschlaf
 dynamometamorphic
-disseverance
+disseverance 1
 dynamometrical
 dodipole
 dirls
