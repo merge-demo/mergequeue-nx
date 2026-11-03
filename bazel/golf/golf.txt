@@ -7230,7 +7230,7 @@ globulose 1
 gallanted
 graminifolious
 guaruan
-gonesome
+gonesome 1
 gestalts
 grayouts
 guerickian
