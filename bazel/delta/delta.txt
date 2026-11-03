@@ -6852,7 +6852,7 @@ diazoamine
 desmodontidae
 danuri
 desmogenous
-desmography
+desmography 1
 desmoids
 disproportionalness
 draughted
