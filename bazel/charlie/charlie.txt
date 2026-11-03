@@ -16917,7 +16917,7 @@ clumpst
 clumse
 clumsy
 clumsier
-cloyer
+cloyer 1
 clumsiest
 clumsily
 coenosteal
