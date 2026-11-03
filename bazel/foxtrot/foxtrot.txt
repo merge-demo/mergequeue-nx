@@ -2615,7 +2615,7 @@ fratchy
 farish
 formalistic
 fountainless
-frivol 1
+frivol 2
 filigreed
 flutework
 ferio
