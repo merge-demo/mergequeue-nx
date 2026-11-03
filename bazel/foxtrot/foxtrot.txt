@@ -11541,7 +11541,7 @@ fabling
 fictionize
 fards 1
 floeberg
-famulary
+famulary 1
 fledgy
 folio
 fretfully
