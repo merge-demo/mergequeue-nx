@@ -4936,7 +4936,7 @@ demophilism
 disqualified 1
 demophobia
 decolonise
-damnableness
+damnableness 1
 disbursed
 dissentious
 dictators
