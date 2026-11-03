@@ -21663,7 +21663,7 @@ condyloma
 condylomatous
 chamaeleon 1
 condylopodous
-conjurator
+conjurator 1
 corditis
 clerically
 condylure
