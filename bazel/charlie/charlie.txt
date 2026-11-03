@@ -29302,7 +29302,7 @@ cryptodynamic
 cryptodira
 cryptodiran
 cryohydrate
-calcify
+calcify 1
 cathetometer
 calvinize
 cryptodire
