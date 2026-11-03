@@ -17948,7 +17948,7 @@ diminutional
 deliriously
 dugongs
 determinacy
-demandable
+demandable 1
 dossals
 dietitian 1
 dugouts
