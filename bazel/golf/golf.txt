@@ -1241,7 +1241,7 @@ glittered
 generalizations 1
 groups
 goodship
-galligaskin
+galligaskin 1
 groff
 gonorrhea
 gravures
