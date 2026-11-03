@@ -4048,7 +4048,7 @@ exedent
 evidenced
 esuriency
 evangelize
-ensafe
+ensafe 1
 euphorbial
 entases
 extralegally
