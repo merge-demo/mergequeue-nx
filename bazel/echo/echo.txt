@@ -3636,7 +3636,7 @@ evestar
 enriching
 expositive 1
 emotionalised 1
-eudaemonize
+eudaemonize 1
 elatinaceous
 estimators
 enddamaging
