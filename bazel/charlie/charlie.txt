@@ -26183,7 +26183,7 @@ cosmorama
 cesure
 cosmoses
 chelura
-calces
+calces 1
 caked
 conatural
 calorimeter
