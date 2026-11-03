@@ -10226,7 +10226,7 @@ detractory
 duroc
 dinnerly
 decillionth
-dishcross
+dishcross 1
 doblons
 diphthong
 defibrination
