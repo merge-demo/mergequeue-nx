@@ -26012,7 +26012,7 @@ cardioclasis
 cosecs
 chancelleries
 cosectarian
-cardcase
+cardcase 1
 cosectional 1
 cosed
 clipei
