@@ -4392,7 +4392,7 @@ caring
 ceriph
 calculary
 criticizer
-cosmetologist
+cosmetologist 1
 confrere
 calandridae
 centimes
