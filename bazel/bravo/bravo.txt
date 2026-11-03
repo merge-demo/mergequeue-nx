@@ -12236,7 +12236,7 @@ billet
 bakuba
 bolshevist
 biopoesis
-bolshevize
+bolshevize 1
 bilboas
 bolshevized
 borocaine
