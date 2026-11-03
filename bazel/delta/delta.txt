@@ -1752,7 +1752,7 @@ discrepating 1
 dumble
 derogation
 disaccord
-deathtime
+deathtime 1
 diverticular
 dhotis
 diphenan 1
