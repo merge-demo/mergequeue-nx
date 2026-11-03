@@ -11011,7 +11011,7 @@ endomorph
 encreel
 exceptiveness
 enquire
-encyclopaedic
+encyclopaedic 1
 eternalist
 euryprosopic
 excipuliform
