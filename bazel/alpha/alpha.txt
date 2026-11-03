@@ -2606,7 +2606,7 @@ aureation
 acquiescence
 acquiescency 1
 abacli
-amygdalotomy
+amygdalotomy 1
 accrescent
 atheist
 agapeic
