@@ -7608,7 +7608,7 @@ devaluates
 droppingly
 durandarte
 devalues
-devas 1
+devas 2
 duole
 dird
 ditch
