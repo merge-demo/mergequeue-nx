@@ -2915,7 +2915,7 @@ colourableness
 cantara
 cantare
 counterseal
-concaulescence
+concaulescence 1
 chrysoidine
 cantatas
 cantation
