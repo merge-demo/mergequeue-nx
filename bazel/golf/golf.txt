@@ -5611,7 +5611,7 @@ groundwall
 goldseed
 grisping
 guayroto
-glochid 1
+glochid 2
 geranial
 gemology
 garnice
