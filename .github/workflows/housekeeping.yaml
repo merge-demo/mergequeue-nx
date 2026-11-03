@@ -5,7 +5,7 @@ on:
 jobs:
   housekeeping:
     name: Cleanup old branches
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
