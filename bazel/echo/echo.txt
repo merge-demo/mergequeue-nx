@@ -4452,7 +4452,7 @@ egghot
 effervesces 1
 emicate
 echards
-edifices
+edifices 1
 encarnalized 1
 exalts
 epidermal
