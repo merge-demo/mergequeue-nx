@@ -1077,7 +1077,7 @@ calceolaria
 calceolate
 cowhide
 calceus
-challengable
+challengable 1
 costoclavicular
 calchas
 calche
