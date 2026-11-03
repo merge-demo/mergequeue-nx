@@ -9814,7 +9814,7 @@ dillseed
 deputations
 dimetria
 decarbonised
-distends
+distends 1
 dromos
 dilo
 differentially
