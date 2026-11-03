@@ -15071,7 +15071,7 @@ crossover
 clabbery
 cyclazocine
 clabbering
-clabbers
+clabbers 1
 calography 1
 cumbent
 clabularium
