@@ -5922,7 +5922,7 @@ dulia
 depressions 1
 dotard
 dissipations 1
-dolerin
+dolerin 1
 demonstration
 dispossessing
 deep
