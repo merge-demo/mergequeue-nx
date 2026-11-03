@@ -7408,7 +7408,7 @@ dicyclist
 diadochian
 domesday
 discussed
-downgone
+downgone 1
 dischargee 1
 detoxication
 detoxicator
