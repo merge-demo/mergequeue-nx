@@ -4172,7 +4172,7 @@ bradypus
 beastling
 bullswool
 beastlings
-bulgy
+bulgy 1
 beastman
 barracoutas
 beastship
