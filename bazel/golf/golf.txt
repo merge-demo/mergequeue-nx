@@ -3144,7 +3144,7 @@ gurgles
 georgics
 glycosyl
 gnathal
-gnathobasic
+gnathobasic 1
 gnast 1
 galumphing
 garial
