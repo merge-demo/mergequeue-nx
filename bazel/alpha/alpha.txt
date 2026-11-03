@@ -3556,7 +3556,7 @@ ataxiagram
 abdicates
 agcy
 aerothermodynamic
-asperses
+asperses 1
 alcoholic
 anesthyl
 autodidacts
