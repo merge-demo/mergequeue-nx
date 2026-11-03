@@ -10029,7 +10029,7 @@ grammatolator
 gesneriaceous
 grissens
 genetoid
-geomancies
+geomancies 1
 gangliac
 gastronomes
 gleans
