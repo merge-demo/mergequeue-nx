@@ -9663,7 +9663,7 @@ bipartisanism 1
 bourette
 bismite
 bankrupcy
-bismuthal
+bismuthal 1
 bumblefoot
 bismuthate
 burhinus 1
