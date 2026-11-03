@@ -4161,7 +4161,7 @@ adonin
 adonis
 adonist
 arterialization
-adonite
+adonite 1
 amberoids
 alkylamine
 adonizing
