@@ -1176,7 +1176,7 @@ dasyuridae
 dasyurine
 dactylopatagium
 docimastic
-delineatory
+delineatory 1
 dassent
 deadheads
 dicaeology
