@@ -3573,7 +3573,7 @@ epicureanism
 erysipelatoid 1
 exothermally
 epidesmine
-emboscata
+emboscata 1
 exclusionary
 ectoglia
 electrometallurgist
