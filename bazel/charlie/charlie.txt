@@ -27027,7 +27027,7 @@ cara
 cunctatorship
 counterposition
 counterposting
-counterpotence
+counterpotence 1
 cantilated
 counterpotency
 counterpotent
