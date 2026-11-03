@@ -11000,7 +11000,7 @@ bawbee
 bumblingly 1
 belikely
 baalitical
-bribemonger
+bribemonger 1
 blackface
 bident
 buggymen
