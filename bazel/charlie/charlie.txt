@@ -20189,7 +20189,7 @@ clerics
 commodation
 capmint
 coft 1
-cunza
+cunza 1
 coercends
 carosella
 commodatum
