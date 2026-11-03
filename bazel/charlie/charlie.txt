@@ -13103,7 +13103,7 @@ ciboules
 cyc
 cicad
 cycadaceae
-canopied
+canopied 1
 crimpiest
 convulsional
 cicadas
