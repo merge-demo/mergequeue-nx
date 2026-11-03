@@ -10940,7 +10940,7 @@ admin
 atwin 1
 acquainted
 arched
-amoebaeum
+amoebaeum 1
 athogen
 amoebalike 1
 amoebas
