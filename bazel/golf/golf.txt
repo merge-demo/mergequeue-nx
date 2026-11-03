@@ -1205,7 +1205,7 @@ globular
 guestive 1
 guttate
 garfishes
-grappler
+grappler 1
 glaux
 gimcrackery
 gimmicking
