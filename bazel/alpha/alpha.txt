@@ -1713,7 +1713,7 @@ authorisable
 actinotherapy
 aeroelastics
 animadvert
-aristocracies
+aristocracies 1
 accusants
 advowsons
 aerical
