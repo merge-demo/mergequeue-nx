@@ -1006,7 +1006,7 @@ generously 1
 glissette
 glossed
 gordunite
-ganga
+ganga 1
 gangamopteris
 givers
 gangava
