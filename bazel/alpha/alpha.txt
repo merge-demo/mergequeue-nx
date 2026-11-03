@@ -20755,7 +20755,7 @@ aplodontia
 amphicrania
 austenitic
 artilleryship
-autotherapy
+autotherapy 1
 artillerist
 aetosaur
 aguishness
