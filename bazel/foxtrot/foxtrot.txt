@@ -4643,7 +4643,7 @@ frigidities 1
 formulations
 fireboard 1
 fluctuate
-fossane
+fossane 1
 fitzroya
 federatively
 faussebraye
