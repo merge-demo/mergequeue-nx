@@ -7586,7 +7586,7 @@ ascophyllum
 anastomos
 astragal
 alcazaba
-apophonic
+apophonic 1
 adamance
 agrostographer
 asymptotical
