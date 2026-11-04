@@ -13508,7 +13508,7 @@ botulisms
 brief
 brodequin
 bijouterie
-briquette
+briquette 1
 bouch
 blacksmith
 boucharde
