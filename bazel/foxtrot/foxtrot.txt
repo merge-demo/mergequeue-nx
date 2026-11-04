@@ -1507,7 +1507,7 @@ faulx
 flaunter
 focusers
 factionary
-ferruminating
+ferruminating 1
 florigen
 filmmaking
 foulards
