@@ -12267,7 +12267,7 @@ ancilla
 anticks
 asimen
 ancylopod
-acneiform
+acneiform 1
 acrider
 anatropous
 antiecclesiastic
