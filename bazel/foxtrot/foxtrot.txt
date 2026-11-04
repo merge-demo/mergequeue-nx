@@ -5324,7 +5324,7 @@ flb 1
 fantasque
 flutey
 foregather
-fifteen
+fifteen 1
 fumarole
 feasts
 filial
