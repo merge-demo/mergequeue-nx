@@ -463,7 +463,7 @@ cancelable
 cacumination
 coleopterous 1
 cacuminous
-cacur
+cacur 1
 cad
 cadamba
 cryptocrystalline
