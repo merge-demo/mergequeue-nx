@@ -15617,7 +15617,7 @@ detergible
 dooring
 doorknob
 doorless
-destinate
+destinate 1
 doormaid
 dugong
 dietist
