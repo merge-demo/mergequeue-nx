@@ -301,7 +301,7 @@ cacicus
 camote
 cacidrosis
 coreopsis
-cacimbo
+cacimbo 1
 cacimbos
 caciques
 cosmolined
