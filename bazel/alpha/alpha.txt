@@ -11856,7 +11856,7 @@ analogon
 antihemorrheidal
 analogous
 alcoholised
-acroteric
+acroteric 1
 ailing
 analogously
 adendric 1
