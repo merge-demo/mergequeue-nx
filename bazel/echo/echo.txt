@@ -4360,7 +4360,7 @@ enamour 1
 enamouredness
 expostulator
 eulogistical
-espouse
+espouse 1
 espichellite
 espadrille
 enamours
