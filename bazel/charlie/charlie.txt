@@ -8810,7 +8810,7 @@ conceptualisation
 chaptalize
 cymbalaria
 chapter
-canonries
+canonries 1
 chapteral
 chapterhouse
 cardinalates 1
