@@ -4784,7 +4784,7 @@ dismisser
 demodulating
 designless
 dwaibly
-dishware
+dishware 1
 deaconing
 demihag
 dodecatylic
