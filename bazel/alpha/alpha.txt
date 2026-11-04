@@ -12017,7 +12017,7 @@ alpha
 amphithalmi
 amara
 antigravitation 1
-apostrophize
+apostrophize 1
 anaretical
 arc
 arboret
