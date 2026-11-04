@@ -14929,7 +14929,7 @@ descrying
 dracontine 1
 dumbbells
 defendants
-deridingly
+deridingly 1
 dispensible
 dodgily
 defraud
