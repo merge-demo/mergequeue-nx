@@ -26936,7 +26936,7 @@ countermanding
 countermaneuver
 countermanifestoes
 countfish
-columbotitanate
+columbotitanate 1
 colorable
 chevaux
 cunningaire
