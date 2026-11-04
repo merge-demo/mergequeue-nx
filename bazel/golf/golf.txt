@@ -2632,7 +2632,7 @@ gypsyweed
 gramma
 gonocalyx
 gynecia
-galores
+galores 1
 grayware
 graal 1
 glims
