@@ -14851,7 +14851,7 @@ acuan
 acronymized
 azoology
 atmas
-astrognosy
+astrognosy 1
 autospray
 apenteric
 antimachinery
