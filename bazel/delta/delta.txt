@@ -18405,7 +18405,7 @@ demonstrable
 duopsonistic
 devota
 defrauder
-diatribist
+diatribist 1
 doke
 duosecant 1
 daedalidae
