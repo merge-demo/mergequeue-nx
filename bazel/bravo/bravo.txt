@@ -1624,7 +1624,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bardesanism
 barrulety
 bloodfin
