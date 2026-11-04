@@ -14467,7 +14467,7 @@ demoralization
 drabbet
 dawdler
 daemones
-disproof
+disproof 1
 divertisement
 dextrogyrous
 divertissements
