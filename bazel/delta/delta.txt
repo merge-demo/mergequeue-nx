@@ -17980,7 +17980,7 @@ dehydrase
 dukuma
 dulat
 dulcamara
-diverticulum
+diverticulum 1
 dispersedly
 dulce
 disquietedly
