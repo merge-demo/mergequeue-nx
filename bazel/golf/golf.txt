@@ -4213,7 +4213,7 @@ ganef
 gulflike
 geniculum
 gossy
-gymnotus 1
+gymnotus 2
 gutling
 geomagnetic
 gimped
