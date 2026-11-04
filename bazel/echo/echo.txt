@@ -4475,7 +4475,7 @@ euryzygous
 electrotechnologist 1
 exaggerator
 extemporaneousness
-eczematous
+eczematous 1
 encash
 enlightenments
 enquires
