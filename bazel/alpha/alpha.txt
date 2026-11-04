@@ -17764,7 +17764,7 @@ albuminaturia
 alluringly 1
 applosion
 applosive
-ataxia
+ataxia 1
 antiguan
 aortorrhaphy
 azoxybenzene
