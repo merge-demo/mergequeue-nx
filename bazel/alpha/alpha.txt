@@ -17979,7 +17979,7 @@ aziethane
 andirine
 approvingly
 archae
-alpinism
+alpinism 1
 approximal
 approximants
 ambits
