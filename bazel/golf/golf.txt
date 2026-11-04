@@ -4486,7 +4486,7 @@ galtonian
 gypsyfy
 generically
 granules
-gristles
+gristles 1
 geophytes
 guacimo
 gypsyhead
