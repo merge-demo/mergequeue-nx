@@ -4004,7 +4004,7 @@ eupatorin
 eyestalks
 evenhand
 empearl 1
-electroretinography
+electroretinography 1
 each
 exultancy
 esothyropexy
