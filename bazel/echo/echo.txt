@@ -9734,7 +9734,7 @@ extravertish 1
 esdragol
 eucommiaceae 1
 epimorphic
-esselenian
+esselenian 1
 emotionable
 eomecon
 eastlings
