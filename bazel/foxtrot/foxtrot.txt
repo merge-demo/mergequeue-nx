@@ -2747,7 +2747,7 @@ flaunche 1
 facetiation
 friendlily
 festally
-festellae
+festellae 1
 ficary
 festered
 faliscan
