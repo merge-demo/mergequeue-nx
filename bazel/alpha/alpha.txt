@@ -2730,7 +2730,7 @@ asthenobiosis
 astringent
 arriba
 antidysenteric
-arctiid
+arctiid 1
 any
 ambosexual
 acroaesthesia
