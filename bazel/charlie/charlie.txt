@@ -12829,7 +12829,7 @@ camellias
 church
 courageousness
 churchcraft
-churches
+churches 1
 chondrocranium
 churchful
 clatters
