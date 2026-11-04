@@ -8485,7 +8485,7 @@ bilingually 1
 bilinguar
 balks
 berycine
-bijoux
+bijoux 1
 brushet
 bebouldered
 braillist

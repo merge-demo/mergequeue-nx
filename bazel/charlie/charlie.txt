@@ -2089,7 +2089,7 @@ campanella
 coadjuvancy
 campania
 cecils
-comdg
+comdg 1
 crunchier
 campanile
 colloquiquiums
