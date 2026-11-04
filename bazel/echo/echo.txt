@@ -10748,7 +10748,7 @@ epicoela
 eulytine
 eelblenny
 eulogias 1
-entopopliteal
+entopopliteal 1
 epicycloidal
 excystation
 extrasystolic
