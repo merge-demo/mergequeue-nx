@@ -13310,7 +13310,7 @@ demorphinization 1
 dispropriate
 dysprosia
 devant
-disproves
+disproves 1
 disprovide
 dispurse
 distillate
