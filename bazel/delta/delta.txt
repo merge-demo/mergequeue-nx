@@ -5105,7 +5105,7 @@ deperition
 ductings 1
 dravya
 dipsomania
-dafla 1
+dafla 2
 dendrocoelan
 dendrocoele
 dendrocolaptidae
