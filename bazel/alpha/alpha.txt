@@ -7440,7 +7440,7 @@ aesthesis
 albion
 allogamies
 assessor
-apertly
+apertly 1
 adventitiously
 aestivator
 albitic
