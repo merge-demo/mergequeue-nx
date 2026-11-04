@@ -17469,7 +17469,7 @@ carabins
 characterize
 calixtin 1
 categorematically
-crowning
+crowning 1
 cobdenite
 cobelief
 cobeliever
