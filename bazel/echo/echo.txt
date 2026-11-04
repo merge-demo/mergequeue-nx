@@ -6670,7 +6670,7 @@ epactal
 enterologic
 epanastrophe
 exhaled
-enteromegalia
+enteromegalia 1
 enteroneuritis
 effectuates
 entomophthoraceous
