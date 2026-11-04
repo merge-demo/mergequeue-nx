@@ -7530,7 +7530,7 @@ escarteled
 ephedras
 equiradial
 epiboulangerite
-episomes
+episomes 1
 efficacity
 entelechial
 epidermically
