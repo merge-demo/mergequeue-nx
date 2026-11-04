@@ -16979,7 +16979,7 @@ clutched
 calves 1
 cosmopathic
 clutches
-clutchy
+clutchy 1
 cleithral
 centrex
 clerestories
