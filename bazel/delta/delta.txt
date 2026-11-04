@@ -11899,7 +11899,7 @@ daguerreotypic 1
 disdein
 dardani
 doubleheader
-dephlegmate
+dephlegmate 1
 disbecome
 disdenominationalize
 dishonorableness
