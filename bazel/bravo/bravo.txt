@@ -6138,7 +6138,7 @@ belonoid
 baske
 benefactress
 benign
-benefactrices
+benefactrices 1
 bepearl
 blest
 beneficed
