@@ -8914,7 +8914,7 @@ circumocular
 counterattacking
 coyotero 1
 chrysophanus 1
-crenelet
+crenelet 1
 concisest
 cystose
 concyclic

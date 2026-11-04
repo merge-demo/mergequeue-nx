@@ -12543,7 +12543,7 @@ bolshevik
 bacubert 1
 bud
 brashness
-boniness
+boniness 1
 bellwind
 brant
 brooklike
