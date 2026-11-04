@@ -24531,7 +24531,7 @@ copehan
 copeia
 copelata
 copeman
-copemate
+copemate 1
 copending
 colonialist
 calorizes
