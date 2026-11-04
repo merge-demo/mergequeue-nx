@@ -3018,7 +3018,7 @@ cantoner
 cowleeching
 cellocut
 cantoning
-cantonize
+cantonize 1
 colectomy
 countergager
 cantoral
