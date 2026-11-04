@@ -6254,7 +6254,7 @@ fecit
 fluidified
 fluoarsenate
 ferromagnet 1
-flummeries
+flummeries 1
 fld
 fedoras
 flatfooting
