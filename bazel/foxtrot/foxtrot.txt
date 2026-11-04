@@ -10876,7 +10876,7 @@ freestone
 flayer
 furore
 fullish
-foeman
+foeman 1
 frigorifico
 fulgurated
 forgathers
