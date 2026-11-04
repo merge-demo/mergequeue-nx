@@ -29235,7 +29235,7 @@ cryptanalytics
 cryptanalyze
 cothamore
 capybara
-cryptanalyzing
+cryptanalyzing 1
 cryptarch
 cryptarchy
 caracols
