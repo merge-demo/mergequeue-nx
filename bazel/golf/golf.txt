@@ -6424,7 +6424,7 @@ gaine
 glucocorticord
 grotto
 grasswidowhood 1
-goitrogenic
+goitrogenic 1
 galibi
 garbing
 glossopteris
