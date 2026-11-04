@@ -20027,7 +20027,7 @@ craftsman
 commending
 commendment
 chloric
-commensal
+commensal 1
 chemurgies
 cadmus
 chrosperma
