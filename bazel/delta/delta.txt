@@ -16046,7 +16046,7 @@ dropsied
 doubloon
 doublures
 diaphote
-doaty
+doaty 1
 dopinesses
 doubters
 demi
