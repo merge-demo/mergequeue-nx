@@ -4234,7 +4234,7 @@ gois
 gaetuli
 gyromagnetic
 galvanomagnetism
-gynaecological
+gynaecological 1
 gabbiness
 gobbing
 gastornis
