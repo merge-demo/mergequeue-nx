@@ -5702,7 +5702,7 @@ entrough
 expectorants
 eustacies
 emendator
-eflagelliferous
+eflagelliferous 1
 evomit
 eppie
 extraventricular
