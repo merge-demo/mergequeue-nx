@@ -24380,7 +24380,7 @@ coolingness 1
 chrysopoetics
 candour
 cosmoramic
-coolness
+coolness 1
 coolnesses
 cytochemical
 cools
