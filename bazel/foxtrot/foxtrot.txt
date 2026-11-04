@@ -3288,7 +3288,7 @@ fiddlefaced
 fiddlerfish
 fraticellian
 ferrites
-faunology
+faunology 1
 fluidrams
 ferrimagnetically
 foreknowable
