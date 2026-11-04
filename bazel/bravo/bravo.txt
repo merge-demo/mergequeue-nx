@@ -5517,7 +5517,7 @@ baklava
 bemurmured
 bobowler 1
 benefactive
-begnawn
+begnawn 1
 blotted
 beisance 1
 bouvier
