@@ -10117,7 +10117,7 @@ disamis
 dexiotropism
 dales
 dynastides
-disagreer
+disagreer 1
 draughtsboard 1
 dynastinae
 denmark
