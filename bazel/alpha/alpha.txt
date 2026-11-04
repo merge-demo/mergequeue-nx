@@ -1668,7 +1668,7 @@ ainsells
 arriccios
 accueil
 acculturate
-acculturated
+acculturated 1
 acculturates
 astr
 anorganic 1
