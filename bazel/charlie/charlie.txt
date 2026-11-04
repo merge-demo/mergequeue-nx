@@ -12551,7 +12551,7 @@ concubitus
 chronaxie
 chronic
 chronica
-chronically
+chronically 1
 chronicle
 chronicled
 clattertrap
