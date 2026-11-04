@@ -19847,7 +19847,7 @@ acapsular
 adeptest
 acquereur
 armida
-armies
+armies 1
 abthainry
 affenspalte 1
 armiferous
