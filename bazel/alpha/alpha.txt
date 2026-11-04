@@ -7743,7 +7743,7 @@ armscye
 aldehydine 1
 alderamin
 ape
-alectoromorphous
+alectoromorphous 1
 aldermanate
 aldermancy
 aldermaness
