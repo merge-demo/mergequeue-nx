@@ -6118,7 +6118,7 @@ excommunion
 england
 eunomianism 1
 enlinkment
-elaeoptene
+elaeoptene 1
 exulcerative
 epithalamiast
 entremets
