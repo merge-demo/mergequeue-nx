@@ -9270,7 +9270,7 @@ friesic
 fayalites
 freckling
 fungate
-folious
+folious 1
 frangipani 1
 framea
 framer
