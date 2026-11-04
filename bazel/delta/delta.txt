@@ -8108,7 +8108,7 @@ distributions
 decidable
 dichogamic
 dinosaurs
-diabetometer
+diabetometer 1
 dandyprat
 demetallize
 demineralize

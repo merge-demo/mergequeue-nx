@@ -17087,7 +17087,7 @@ autogamy
 asportation 1
 apodematal
 abstinence
-apodiabolosis
+apodiabolosis 1
 arithmetize
 apodictive
 aluminite
