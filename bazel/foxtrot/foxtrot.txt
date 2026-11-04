@@ -11598,7 +11598,7 @@ fontinal 1
 fideicommissary
 forced
 fraternal
-febrifugal
+febrifugal 1
 forlornly
 for
 fetch
