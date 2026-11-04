@@ -10498,7 +10498,7 @@ chile
 chyle
 chileanization
 caballeria 1
-chileans
+chileans 1
 chylemia
 chyles
 chiliadron

@@ -1335,7 +1335,7 @@ effectuous
 endostracum
 epigastrical
 effeir
-eumoiriety
+eumoiriety 1
 eriocomi
 eisteddfodism
 effeminise
