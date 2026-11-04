@@ -18059,7 +18059,7 @@ digitaria
 dullnesses
 disgavelled
 deglaze
-deflexing
+deflexing 1
 demihearse
 devoto
 dialectologies
