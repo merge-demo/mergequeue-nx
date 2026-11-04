@@ -10941,7 +10941,7 @@ fulnesses 1
 flanconade
 forgetness
 feuded
-furfuran 1
+furfuran 2
 forewit
 foreseing
 facsimiles
