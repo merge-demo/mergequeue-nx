@@ -11712,7 +11712,7 @@ eventualities
 exaltation
 erenow
 explanator
-enterocoele
+enterocoele 1
 endocarditis
 elevated
 enforcive 1
