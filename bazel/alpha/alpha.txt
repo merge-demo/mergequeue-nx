@@ -8944,7 +8944,7 @@ antenatal
 amalg
 alloo
 annelids 1
-allopathetic
+allopathetic 1
 achievers
 allopathic
 anticoagulan
