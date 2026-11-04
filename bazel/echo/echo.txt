@@ -10030,7 +10030,7 @@ exempting
 equalist 1
 endocrinism
 endoperidial
-endogamous
+endogamous 1
 eterne
 endangerment
 escargots
