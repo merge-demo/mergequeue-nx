@@ -6164,7 +6164,7 @@ eparchean
 entracte
 embattles
 ethicizes 1
-enmove
+enmove 1
 emusified
 ethnomusicological
 elans
