@@ -17806,7 +17806,7 @@ assertory
 anastatic
 apposability
 anthranone
-aegialitis
+aegialitis 1
 attacapan
 appose
 appeasable
