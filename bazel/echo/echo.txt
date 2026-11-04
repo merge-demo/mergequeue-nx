@@ -11816,7 +11816,7 @@ elaphrium
 euryon
 exaudi
 ethenoidal
-exaun
+exaun 1
 earthrise
 ectomorphy
 euglenida 1
