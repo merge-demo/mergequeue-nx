@@ -11363,7 +11363,7 @@ frousier
 flayed
 fluencies
 fornicated
-fremescence
+fremescence 1
 frothless
 foreprovision
 footways
