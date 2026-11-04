@@ -4732,7 +4732,7 @@ fulgor
 ferrugineous
 flabella
 frises
-facy 1
+facy 2
 factice
 frederic
 fricatrice
