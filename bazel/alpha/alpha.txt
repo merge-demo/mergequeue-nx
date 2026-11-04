@@ -7240,7 +7240,7 @@ alamosite
 ardent
 alange 1
 antigonococcic
-arthrectomies
+arthrectomies 1
 alangium
 anchors
 auditive
