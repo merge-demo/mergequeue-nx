@@ -12748,7 +12748,7 @@ epidemiologically
 epispinal
 emulatively 1
 ethers
-emmenagogic
+emmenagogic 1
 equivoque
 enterococcal
 epistomian
