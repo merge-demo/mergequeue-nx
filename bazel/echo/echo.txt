@@ -14103,7 +14103,7 @@ exorcize
 eustatically
 enzymically
 extendedness 1
-epiphyses
+epiphyses 1
 exterraneous
 entrancements
 extrinsically
