@@ -11268,7 +11268,7 @@ farces
 frabjous
 fernando
 flatters
-furanoid
+furanoid 1
 fricandeaus
 fantasticism
 familiarizer
