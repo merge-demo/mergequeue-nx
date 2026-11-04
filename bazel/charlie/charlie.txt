@@ -29832,7 +29832,7 @@ confederating
 croquignole
 crore
 colloguing
-classman
+classman 1
 comprehensibleness
 crores
 consulary
