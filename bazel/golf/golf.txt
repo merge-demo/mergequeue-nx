@@ -5325,7 +5325,7 @@ gammaroid 1
 goodman 1
 globularly
 gutturalism
-gingals
+gingals 1
 glaived
 gourds
 gonidia
