@@ -24809,7 +24809,7 @@ chloragogen
 coquette
 cleome
 coquettishly
-curlycue
+curlycue 1
 colourfast
 coquicken
 cartload
