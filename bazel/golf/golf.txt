@@ -8913,7 +8913,7 @@ grete
 grainage
 ganglier 1
 giros
-geoducks
+geoducks 1
 gemming
 grooty
 ghess
