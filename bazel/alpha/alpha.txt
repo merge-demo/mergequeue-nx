@@ -19320,7 +19320,7 @@ areopagitica
 allyic
 anoxemia
 autoreinfusion
-adjutor
+adjutor 1
 alaite
 astacus 1
 amplexation
