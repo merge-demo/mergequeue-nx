@@ -18595,7 +18595,7 @@ distance 1
 dustcover
 diatonicism
 dustee
-dusters
+dusters 1
 desperadoism
 dustheap
 dedo
