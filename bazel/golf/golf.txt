@@ -8137,7 +8137,7 @@ garderobe
 gaspergous
 gynaeolater
 gulfed
-gloat
+gloat 1
 glowflies
 granulators
 gripper
