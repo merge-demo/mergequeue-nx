@@ -5564,7 +5564,7 @@ belatedness
 bekah
 bekinkinite 1
 belgas
-bedframe
+bedframe 1
 basilican
 bekiss
 bekissed
