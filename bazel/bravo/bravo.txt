@@ -546,7 +546,7 @@ befriendment
 biggishness
 burrock
 brickiest
-bunt
+bunt 1
 baccharis 1
 bandboxical
 bandies
