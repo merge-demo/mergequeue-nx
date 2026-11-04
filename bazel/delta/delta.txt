@@ -3881,7 +3881,7 @@ deirid
 deis
 deisidaimonia
 disquieting 1
-deism
+deism 1
 decentred
 deistical
 dressages
