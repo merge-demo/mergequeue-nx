@@ -13151,7 +13151,7 @@ cicatrisive
 cicatrizate
 caudicle
 canalize 1
-craniographer
+craniographer 1
 cicatrization
 cott
 cicatrizer
