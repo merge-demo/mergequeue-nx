@@ -11529,7 +11529,7 @@ archaeopteryx
 ageists
 alfakis
 anabasine
-anabasse
+anabasse 1
 atwo
 alunites
 aldermanly

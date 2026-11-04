@@ -18116,7 +18116,7 @@ demythologizations
 duplicate
 deterrer
 devisors
-debatable
+debatable 1
 driveboat
 diiodo
 dardistan
