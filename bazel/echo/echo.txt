@@ -2319,7 +2319,7 @@ ensepulchre
 evangelicalness
 electrizable 2
 electrization
-enterohepatitis
+enterohepatitis 1
 excavated
 epicotyl
 errorful
