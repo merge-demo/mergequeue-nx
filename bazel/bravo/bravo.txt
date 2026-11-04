@@ -3753,7 +3753,7 @@ brahmanic
 broideress 2
 biologese
 biologists
-bowstringed
+bowstringed 1
 beachwear
 battues
 bourdis
