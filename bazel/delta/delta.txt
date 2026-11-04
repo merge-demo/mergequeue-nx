@@ -2495,7 +2495,7 @@ deckhand
 dovekies
 duckwing
 deckle
-dulls
+dulls 1
 diatropism
 deferral
 duds
