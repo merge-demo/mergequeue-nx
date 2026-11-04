@@ -10225,7 +10225,7 @@ flowerful
 flossier
 frighted
 franconian
-finespun 1
+finespun 2
 formolit 1
 frabous 1
 frankeniaceae

@@ -18094,7 +18094,7 @@ dumbfounding
 denatures
 discourageable
 despisers
-dumby
+dumby 1
 dumbing
 duplon
 deictically
