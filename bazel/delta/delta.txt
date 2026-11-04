@@ -10553,7 +10553,7 @@ diazotate
 deipotent
 dimpling
 demiking
-dauw
+dauw 1
 diplocardiac
 diplocarpon
 discoidea
