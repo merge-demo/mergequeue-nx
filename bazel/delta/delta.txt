@@ -6593,7 +6593,7 @@ dearie
 ditched
 desecrations
 devotary
-dhooti
+dhooti 1
 dubious
 delimits
 desegmentation
