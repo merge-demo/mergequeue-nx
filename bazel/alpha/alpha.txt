@@ -1154,7 +1154,7 @@ airshed
 acalephoid
 anaclastic
 arow
-acalyculate
+acalyculate 1
 apheliotropic
 acalyptratae
 anonymities
