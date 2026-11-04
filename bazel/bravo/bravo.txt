@@ -8058,7 +8058,7 @@ bicrenate
 bicrofarad
 bicrural
 broodiness
-biometrics
+biometrics 1
 bridecup
 bellypinch
 brogue
