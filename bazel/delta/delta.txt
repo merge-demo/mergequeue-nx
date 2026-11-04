@@ -12517,7 +12517,7 @@ dudes
 defiled
 disinclination
 disinclined 1
-disinclining
+disinclining 1
 dolichotmema
 disindividualize
 doorkeep
