@@ -7005,7 +7005,7 @@ grumpiest
 gyrovague 1
 griefless
 guldengroschen
-geir
+geir 1
 glossopode
 gallerian
 gunpowdery
