@@ -12280,7 +12280,7 @@ ancylostomiasis
 anemotactic
 arrame
 ancylus
-actinodrome
+actinodrome 1
 armorica
 ancyrean
 affectedly
