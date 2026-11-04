@@ -4310,7 +4310,7 @@ detraining
 divisiveness
 demagnetising
 diacranteric
-decomposes
+decomposes 1
 dhoney
 deplores
 demagnetizing
