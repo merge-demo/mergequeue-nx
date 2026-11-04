@@ -12946,7 +12946,7 @@ emblematized
 electrolysation
 enhaunt
 eulogiae
-expectancy
+expectancy 1
 endotherm
 epistemophilia
 ecologist
