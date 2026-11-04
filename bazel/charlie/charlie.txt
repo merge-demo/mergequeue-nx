@@ -13176,7 +13176,7 @@ cichlidae
 colocynthin
 cicisbeism
 cicisbeo
-cycl
+cycl 1
 chromometer
 cyclades
 clavichordist 1
