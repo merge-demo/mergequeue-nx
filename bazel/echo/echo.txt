@@ -4992,7 +4992,7 @@ enravish
 embryotomy
 endellionite
 eucephalous
-emigates
+emigates 1
 electrocorticogram
 envy
 extirpative
