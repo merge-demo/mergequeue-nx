@@ -5981,7 +5981,7 @@ fawn
 forecasters
 footscald
 floodwood
-foisty
+foisty 1
 fulah
 floricultural
 faitour
