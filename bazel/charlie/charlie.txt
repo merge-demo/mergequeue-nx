@@ -14307,7 +14307,7 @@ circumradiuses
 charitable
 claver 1
 conferring
-cevadilla
+cevadilla 1
 conamed
 circumrotate
 cuneonavicular
