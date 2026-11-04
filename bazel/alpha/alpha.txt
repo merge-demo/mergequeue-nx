@@ -15456,7 +15456,7 @@ antimediaevally 1
 antimedical
 aslantwise
 antimedicine
-anaptomorphidae
+anaptomorphidae 1
 antimedievalism 1
 antimedievally
 antimelancholic
