@@ -4831,7 +4831,7 @@ guardo 1
 gynerium
 glacieret
 gouaches
-garookuh
+garookuh 1
 glacierist
 graphemes
 glaciers
