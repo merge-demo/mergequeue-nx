@@ -7813,7 +7813,7 @@ aldoside
 aldosterone
 antonia
 aldosteronism
-anacanth
+anacanth 1
 aldrins
 arba
 ausubos
