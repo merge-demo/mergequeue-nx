@@ -503,7 +503,7 @@ atlantean
 abjudged
 agelacrinitidae
 abjudicate
-abjudicated
+abjudicated 1
 arthel
 arsenicophagy
 antennas
