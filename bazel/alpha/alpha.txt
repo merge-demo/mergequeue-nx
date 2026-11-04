@@ -10293,7 +10293,7 @@ agathosma
 ammonocarbonic
 amenability
 atoll
-allocaffeine
+allocaffeine 1
 amenably
 assess
 amenance
