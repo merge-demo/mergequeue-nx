@@ -12334,7 +12334,7 @@ elaidate
 eulogizers
 erythroglucin
 effusiometer
-emanators
+emanators 1
 exerted
 encumbrous
 excepable
