@@ -4760,7 +4760,7 @@ conscient
 cartwrighting 1
 cerebellipetal
 carpocarpal
-countersinking
+countersinking 1
 cimier 1
 convecting
 choriocarcinoma
