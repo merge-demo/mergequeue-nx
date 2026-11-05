@@ -2671,7 +2671,7 @@ angiograph
 abrasiometer
 africa
 anticyclonic
-anax
+anax 1
 apex
 airpark
 acridiidae
