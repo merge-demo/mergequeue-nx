@@ -15238,7 +15238,7 @@ clamaroo
 ceraunophone
 cywydd
 clamatory
-cartooned
+cartooned 1
 clutterer
 casimeres
 cricks
