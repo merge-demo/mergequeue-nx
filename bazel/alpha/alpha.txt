@@ -10437,7 +10437,7 @@ axonic
 acceptances
 adstipulation
 almah 1
-amethodically
+amethodically 1
 absurdum 1
 aculeolus 1
 ametrope
