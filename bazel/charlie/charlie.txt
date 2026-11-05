@@ -20213,7 +20213,7 @@ capitoninae
 classifies
 commolition 1
 common
-chanting
+chanting 1
 coping
 cutification
 chrysolitic
