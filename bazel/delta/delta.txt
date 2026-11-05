@@ -9692,7 +9692,7 @@ daphnias 1
 devilward
 ditting
 dungbred
-diageotropy
+diageotropy 1
 deinoceras
 dilactic
 dilactone
