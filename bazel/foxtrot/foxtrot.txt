@@ -8071,7 +8071,7 @@ freezes
 frigger
 forestial
 forepost
-fessing
+fessing 1
 falbala
 forestral
 forestries
