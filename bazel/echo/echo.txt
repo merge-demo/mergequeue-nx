@@ -4679,7 +4679,7 @@ enchoric
 encyclopedias
 ekoi
 entanglers
-exuberance
+exuberance 1
 entablement
 energico
 euphoniad
