@@ -7672,7 +7672,7 @@ alcoholdom
 abbrev
 alcoholemia
 alcoholically
-appetition
+appetition 1
 anaudia
 appendicocaecostomy
 antonymic
