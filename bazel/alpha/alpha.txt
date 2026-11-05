@@ -12689,7 +12689,7 @@ alambique
 amb
 atonalism
 atherogenesis
-angelicalness
+angelicalness 1
 angelicic
 anaglypton
 angelicness
