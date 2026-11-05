@@ -24288,7 +24288,7 @@ autophagous
 autophyte
 autophytic 1
 agister
-albespyne
+albespyne 1
 acquist
 aluminographic 1
 apparent
