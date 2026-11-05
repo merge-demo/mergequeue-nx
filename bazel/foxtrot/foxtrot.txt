@@ -7842,7 +7842,7 @@ foveolets
 furcellate 1
 fractionisation
 fungify
-favorite 1
+favorite 2
 fligged
 focusing
 fatiguable
