@@ -1809,7 +1809,7 @@ eogaea 1
 episepalous
 emanium
 esrogim
-emigrant
+emigrant 1
 exoclinal
 exhorters
 engraulis
