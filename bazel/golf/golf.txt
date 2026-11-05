@@ -4857,7 +4857,7 @@ gritter
 gunnel
 gnomonics 1
 gleg
-gigantize
+gigantize 1
 greenings
 goiterogenic
 gladfulness
