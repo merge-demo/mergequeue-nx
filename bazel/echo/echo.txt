@@ -12107,7 +12107,7 @@ emasculation
 embroche
 effervescing
 excruciable
-excruciated
+excruciated 1
 eudesmol
 enframement
 epicerebral
