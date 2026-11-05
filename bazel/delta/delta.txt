@@ -7226,7 +7226,7 @@ defoliating
 dimethylamino
 darns
 disenchantingly
-detecter
+detecter 1
 detecters
 decemvirate
 duffels
