@@ -6810,7 +6810,7 @@ frontal
 flaccidity
 footbeat 1
 forfalt
-faithfuls
+faithfuls 1
 finmark
 forams
 fungin
