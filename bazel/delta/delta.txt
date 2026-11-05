@@ -1430,7 +1430,7 @@ dasht
 dawk
 diapering
 dioptrate
-dogly
+dogly 1
 dehydrogenates
 disassimilated
 dicarbonic
