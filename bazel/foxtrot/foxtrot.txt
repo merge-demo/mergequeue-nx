@@ -1247,7 +1247,7 @@ fastening
 frocked
 futteret
 fama
-favella
+favella 1
 forevouch
 femalize
 fatuate
