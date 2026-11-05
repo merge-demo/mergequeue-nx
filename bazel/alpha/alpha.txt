@@ -17004,7 +17004,7 @@ apocalypses
 apocalypst
 adhocracy
 apocalypt
-atavistic
+atavistic 1
 apocalyptic 1
 advantageous
 acerra
