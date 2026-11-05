@@ -6542,7 +6542,7 @@ forecover
 flytime
 flutterboard
 faucal
-fluotantalate
+fluotantalate 1
 flutteriness
 flagrate
 fluttering
