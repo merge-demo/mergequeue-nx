@@ -3952,7 +3952,7 @@ delabializing
 distensibility
 delayable 1
 demes
-delayer
+delayer 1
 delayful
 dooli
 devitalisation
