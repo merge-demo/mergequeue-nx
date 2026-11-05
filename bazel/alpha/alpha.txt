@@ -24461,7 +24461,7 @@ archaeologists
 absorptions
 autotomize
 anacletica
-ambitiously
+ambitiously 1
 autotomizing
 astragals
 autotoxic
