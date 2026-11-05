@@ -9941,7 +9941,7 @@ crescographic
 caseconv
 chaoses
 comedians
-chenet 1
+chenet 2
 chirotony
 calangay
 climactically
