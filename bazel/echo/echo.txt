@@ -13048,7 +13048,7 @@ elocutionary
 expediter
 enunciates
 eulogistically
-expeditiously
+expeditiously 1
 erythrocarpous
 ecstasies
 euge
