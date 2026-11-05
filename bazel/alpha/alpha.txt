@@ -18442,7 +18442,7 @@ adventry
 abrenunciation
 arbela
 adeline
-aliyas
+aliyas 1
 antipendium
 antitussive
 arber
