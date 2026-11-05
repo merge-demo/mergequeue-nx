@@ -6576,7 +6576,7 @@ exciter
 entente
 erythorbate
 ethnohistorian
-epipolism
+epipolism 1
 enteradenological
 enteral
 ensuant
