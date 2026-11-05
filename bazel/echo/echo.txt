@@ -6326,7 +6326,7 @@ enharmonically 1
 earnful
 emodin
 embrocation
-ejusd
+ejusd 1
 enrolls
 eumycetes 1
 equijacent 1
