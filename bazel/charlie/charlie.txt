@@ -29538,7 +29538,7 @@ crithomancy
 critic
 criticality
 criticalness
-coendured
+coendured 1
 centervelic
 colophonist
 crabbed
