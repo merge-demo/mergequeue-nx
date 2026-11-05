@@ -2494,7 +2494,7 @@ electroharmonic
 empanelment
 electrohemostasis
 endearing
-ebony
+ebony 1
 epicleses
 endexines
 ecocide
