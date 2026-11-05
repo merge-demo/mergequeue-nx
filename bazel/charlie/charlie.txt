@@ -21937,7 +21937,7 @@ counterproductivity
 coseismic
 confidence
 confidency
-cosmogenic
+cosmogenic 1
 confident
 confidente
 compressibilities
