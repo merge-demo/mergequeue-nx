@@ -8782,7 +8782,7 @@ chapon
 corrugators
 cuppa
 crips
-chapote
+chapote 1
 collimators
 cave
 confoundingly
