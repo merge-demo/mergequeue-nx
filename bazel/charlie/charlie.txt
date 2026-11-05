@@ -30506,7 +30506,7 @@ cubicovariant 1
 corozos
 cubane
 cubangle
-cubanite
+cubanite 1
 cubatory
 contraclockwise
 counterweighed

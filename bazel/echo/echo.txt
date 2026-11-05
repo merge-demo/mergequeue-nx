@@ -12240,7 +12240,7 @@ ecclesiolater
 eternalization
 equipment
 epanalepsis
-exocyclica
+exocyclica 1
 eclogue
 executress
 elshin
