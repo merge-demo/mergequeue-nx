@@ -11875,7 +11875,7 @@ enteroparesis 1
 enfranchisement
 extbook
 embowing
-ergonomically
+ergonomically 1
 emptysis
 emptying
 excellence
