@@ -7908,7 +7908,7 @@ feiseanna
 featherworker
 foresee
 faitor
-feeblehearted
+feeblehearted 1
 frakturs
 foreseeable
 futchel
