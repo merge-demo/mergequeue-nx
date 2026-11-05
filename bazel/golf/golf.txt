@@ -4672,7 +4672,7 @@ galli
 gastroplenic
 gestes
 guttery 1
-gyrovagues
+gyrovagues 1
 gloy
 gaatch
 gurjun
