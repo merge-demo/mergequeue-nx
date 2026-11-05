@@ -3523,7 +3523,7 @@ fusicladium 1
 figurer
 fute
 flyweight
-fleetingly
+fleetingly 1
 fernland
 figures
 feelingless
