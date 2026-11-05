@@ -13001,7 +13001,7 @@ bueno
 barbecued
 bombarde
 bibles
-baptismally
+baptismally 1
 boraginaceous
 borago
 bedamn
