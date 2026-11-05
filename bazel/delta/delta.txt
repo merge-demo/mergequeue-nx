@@ -10653,7 +10653,7 @@ degarnish
 dolomize
 doon
 discoveries
-diplopod
+diplopod 1
 diplopoda
 discorrespondent
 delocalization
