@@ -4724,7 +4724,7 @@ fruitfuller
 frumentarious 1
 flabbergast
 forkfuls
-fougue
+fougue 1
 feathermonger
 fobbing
 fijian
