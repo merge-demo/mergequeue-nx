@@ -9123,7 +9123,7 @@ dispunct
 dichoptic
 dyslexias
 didelphidae
-discursive
+discursive 1
 dingdong
 disweapon
 didelphoid
