@@ -853,7 +853,7 @@ gliadin
 gonolobus 1
 gyratory
 garewaite
-gloriousness
+gloriousness 1
 gemologies
 greeing
 gastromyxorrhea
