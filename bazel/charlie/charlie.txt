@@ -26739,7 +26739,7 @@ counterboring
 counterboulle
 counterbranch
 curbstones
-counterbrand
+counterbrand 1
 confutable
 countercathexis
 counterchanged
