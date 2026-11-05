@@ -16845,7 +16845,7 @@ alterate
 abscissin
 aphthartodocetic
 acromonogrammatic
-aphthong
+aphthong 1
 arkite
 admittedly
 apyrene
