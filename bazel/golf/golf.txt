@@ -10708,7 +10708,7 @@ gumma
 gunship
 gismondine
 gastrolytic
-gutnic
+gutnic 1
 gracioso
 guywire
 gerbera
