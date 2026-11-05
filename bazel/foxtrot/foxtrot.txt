@@ -4941,7 +4941,7 @@ foining
 fluoresced
 forsooth
 foppishly 1
-fourteens
+fourteens 1
 flamen
 flamandization 1
 firefanged
