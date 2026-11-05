@@ -11641,7 +11641,7 @@ etoiles
 expulses
 enddamaged
 exactable
-extemporising
+extemporising 1
 exactas
 ergastoplasm
 elaterite
