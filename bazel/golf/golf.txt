@@ -1044,7 +1044,7 @@ gabardine
 gnarl
 geriatrics
 gentles 1
-gastrectomy
+gastrectomy 1
 gossamer
 garvock
 gerardias 1
