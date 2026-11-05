@@ -13056,7 +13056,7 @@ dispatch
 deprecators
 deccennia
 dispatched
-devaster
+devaster 1
 duckish
 disesteeming
 dispatches
