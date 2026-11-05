@@ -18081,7 +18081,7 @@ concludency
 choirs
 coenobiar
 catostomoid
-cissoid
+cissoid 1
 cognizers
 coenobioid
 conicoid
