@@ -9996,7 +9996,7 @@ bivocal
 bossism
 bivocalized
 bombings
-buffos
+buffos 1
 bivoluminous
 bivouaced
 bivouacked
