@@ -11256,7 +11256,7 @@ evangelistic
 epidictical
 exserts
 earthquake
-exundate
+exundate 1
 ectoloph 1
 entelluses
 ethnologic
