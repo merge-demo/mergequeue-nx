@@ -2924,7 +2924,7 @@ fanciable
 fumigations 1
 fortressing
 footmark
-frontogenesis
+frontogenesis 1
 flock
 frizzen
 factoring
