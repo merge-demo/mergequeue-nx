@@ -1274,7 +1274,7 @@ dimouts
 danthonia
 discal
 dusted
-diazoic
+diazoic 1
 denari
 demitasses
 datives
