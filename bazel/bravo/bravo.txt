@@ -10263,7 +10263,7 @@ beets
 benevolist
 blacksnake
 baneful
-boltonite
+boltonite 1
 bliaut
 ballsy
 blacktongue
