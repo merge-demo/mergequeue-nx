@@ -21255,7 +21255,7 @@ anapophysis
 auxins
 anticonformist
 ashrama
-alloxanate
+alloxanate 1
 ashtoreth
 anorchus
 aspartic
