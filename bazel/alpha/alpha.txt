@@ -18927,7 +18927,7 @@ angili
 arteriostosis
 alsatian
 artilize
-anthropologist
+anthropologist 1
 aesculapian
 auricle
 archipallium
