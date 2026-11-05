@@ -19933,7 +19933,7 @@ aplopappus
 armors
 aqueous
 apophyge
-artistically
+artistically 1
 acle
 armouchiquois
 ammine
