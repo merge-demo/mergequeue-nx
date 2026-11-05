@@ -6356,7 +6356,7 @@ causewaying
 clubfeet 1
 causidical
 causon
-counterassurance
+counterassurance 1
 caustical
 caustically
 causticism
