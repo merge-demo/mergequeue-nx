@@ -2660,7 +2660,7 @@ cangue
 chonolith
 cangues
 canichanan
-canicola
+canicola 1
 canicula
 completest
 creamer
