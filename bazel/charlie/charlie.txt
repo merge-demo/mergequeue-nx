@@ -26427,7 +26427,7 @@ coinferring
 cotylosaurian
 connu
 cuprein
-cotingoid
+cotingoid 1
 chancel
 cotype
 cusparine
