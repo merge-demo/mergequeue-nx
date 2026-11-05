@@ -5445,7 +5445,7 @@ dauk
 denver
 disprover
 divagational
-divineress 1
+divineress 2
 detachable
 deodorised
 deodoriser
