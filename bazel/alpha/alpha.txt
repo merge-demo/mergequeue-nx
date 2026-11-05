@@ -24355,7 +24355,7 @@ aneurysmatic 1
 authorly
 amaroidal
 arises
-autorotation
+autorotation 1
 acceptor
 ariocarpus
 atopen
