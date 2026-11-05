@@ -13653,7 +13653,7 @@ alliciency
 anodos
 annalia
 apprenticed
-ambivalent
+ambivalent 1
 agomensin
 anoestrum
 amygdalothripsis 1
