@@ -6321,7 +6321,7 @@ gauster
 globetrotters
 geochemists
 glossalgia
-geophysics 1
+geophysics 2
 gruneritization
 grubstaker
 goblins
