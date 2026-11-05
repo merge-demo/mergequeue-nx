@@ -12391,7 +12391,7 @@ chromatopsia
 chromatoptometer
 chromatoptometry
 couch
-cobalticyanic
+cobalticyanic 1
 chromatoscopy
 circumduct
 chromatosis
