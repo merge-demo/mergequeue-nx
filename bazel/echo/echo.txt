@@ -5898,7 +5898,7 @@ elb
 edificing
 electorial
 epigeum
-ewest
+ewest 1
 extrazodiacal
 epigramme
 exacerbescence
