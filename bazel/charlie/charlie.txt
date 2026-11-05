@@ -1777,7 +1777,7 @@ componental
 calvaire
 cordage
 calvary
-caffeate
+caffeate 1
 countergarrison
 curagh
 calvarial
