@@ -12886,7 +12886,7 @@ anglicanisms
 antispiritual
 abscise
 arverni 1
-apolysin
+apolysin 1
 anatabine
 avidness
 aditio
