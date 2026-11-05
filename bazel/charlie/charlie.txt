@@ -26241,7 +26241,7 @@ citydom
 costage
 costally
 costander
-costanoan
+costanoan 1
 costar
 costarred
 continentaler
