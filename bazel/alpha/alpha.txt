@@ -8962,7 +8962,7 @@ arrowhead
 accesses
 angelocracy
 auxiliatory
-allophanamid
+allophanamid 1
 allophanate
 allophanates
 allophanic
