@@ -2793,7 +2793,7 @@ estrangements
 elementalize
 ephori 1
 elementaloid
-emperil
+emperil 1
 essang
 encoronate
 eluded
