@@ -10490,7 +10490,7 @@ equatoreal
 etruscology
 etta
 endosteally
-equation
+equation 1
 embouchure
 ettercap
 ettirone
