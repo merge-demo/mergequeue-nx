@@ -1166,7 +1166,7 @@ fistulize
 fibularia
 freelovism
 fallals
-fungistatically
+fungistatically 1
 fascine
 ferreous
 fishmeals
