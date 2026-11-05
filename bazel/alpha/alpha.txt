@@ -9499,7 +9499,7 @@ acaleph
 alternatives
 angioblast
 alternifoliate
-afrikaans
+afrikaans 1
 alternipetalous
 alternity 1
 arching
