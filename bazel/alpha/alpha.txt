@@ -19491,7 +19491,7 @@ arith
 argling
 allspices
 absolvers
-arterioscleroses
+arterioscleroses 1
 antiracemate
 afforestational 1
 antimodernization
