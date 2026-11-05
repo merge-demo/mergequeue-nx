@@ -31213,7 +31213,7 @@ cuprums
 czechoslovaks
 cupsful
 cupstone
-cupula
+cupula 1
 cupulae
 cupular
 carlines
