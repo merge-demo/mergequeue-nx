@@ -4013,7 +4013,7 @@ gamari 1
 galravage
 galvanograph
 gteau
-geared
+geared 1
 gilbertian
 girlishness
 guttula
