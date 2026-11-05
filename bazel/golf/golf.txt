@@ -6314,7 +6314,7 @@ gymnorhininae
 goblin
 gettable
 gullible
-gigartinaceous
+gigartinaceous 1
 gunmen
 gargantua
 gauster
