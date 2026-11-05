@@ -10231,7 +10231,7 @@ appendaged
 abray
 amebiform
 anteflexion
-ambitendent
+ambitendent 1
 auximone
 aquariist
 amebobacter
