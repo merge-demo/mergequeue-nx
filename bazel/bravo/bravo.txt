@@ -2842,7 +2842,7 @@ beebread
 binaurally
 bawrel
 bioscopies
-backslashes 1
+backslashes 2
 bitterbump
 bullionist
 buttonmold
