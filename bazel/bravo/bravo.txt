@@ -10902,7 +10902,7 @@ blindfishes
 bluelegs
 blindfolded
 bismuth
-bassus
+bassus 1
 butterbush
 blindfoldedness
 bemoon
