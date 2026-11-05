@@ -5330,7 +5330,7 @@ dialkylamine
 distitle
 defiant
 donis
-dolor 1
+dolor 2
 dentatoserrate
 decennary
 disputable
