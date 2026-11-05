@@ -9459,7 +9459,7 @@ flounderingly
 fratricelli
 furculum
 fastwalk 1
-fidele
+fidele 1
 fraternities
 fumarates
 figboy
