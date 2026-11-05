@@ -16974,7 +16974,7 @@ confervales
 calcareoargillaceous
 clustering
 choultry
-clutch
+clutch 1
 clutched
 calves 1
 cosmopathic
