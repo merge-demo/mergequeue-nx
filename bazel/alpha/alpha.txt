@@ -15478,7 +15478,7 @@ antimethodical
 apselaphesia
 antimetrical
 autoeciousness
-antimetropia
+antimetropia 1
 antimetropic
 antimycotic
 argyric
