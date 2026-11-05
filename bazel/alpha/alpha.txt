@@ -23633,7 +23633,7 @@ aurang
 aborters
 alleviates
 allogeneous
-articulable
+articulable 1
 aurate
 aureate
 attendant
