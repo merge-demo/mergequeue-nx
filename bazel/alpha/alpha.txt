@@ -18198,7 +18198,7 @@ aphanomyces
 aquifer
 avanturine
 amelu
-actifier
+actifier 1
 antispiritualist
 alcaptonuria
 aquifoliaceous
