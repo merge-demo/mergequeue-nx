@@ -6915,7 +6915,7 @@ cement
 chochos
 coenocyte
 cementation
-chymosins
+chymosins 1
 coaugment
 calorimetric
 cementatory
