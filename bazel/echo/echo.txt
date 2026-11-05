@@ -7704,7 +7704,7 @@ expoundable 1
 epideistic
 enthymematical
 eriocaulaceous
-effluxion
+effluxion 1
 estrus
 esprise 1
 extruder
