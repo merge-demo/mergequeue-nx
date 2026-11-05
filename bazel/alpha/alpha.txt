@@ -14633,7 +14633,7 @@ animalities 1
 appet
 androsphinges
 antiaggressionist
-antienergistic
+antienergistic 1
 andouille
 antiaggressiveness
 apatela
