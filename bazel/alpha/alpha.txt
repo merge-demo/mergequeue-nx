@@ -17075,7 +17075,7 @@ apodeictically
 accoucheurs
 ambrica
 apodeipnon
-apodema
+apodema 1
 austenitizing
 adiabolist
 asperated
