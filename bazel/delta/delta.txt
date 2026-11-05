@@ -14396,7 +14396,7 @@ divast
 doubtable
 divebomb
 dogmatists
-divellent
+divellent 1
 downstage
 dispireme
 divergement
