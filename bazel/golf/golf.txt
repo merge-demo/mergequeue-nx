@@ -1282,7 +1282,7 @@ glyphographer 1
 gumpus
 grallina
 gnatsnapper 1
-ganges
+ganges 1
 granch
 giddying
 gunnels
