@@ -13517,7 +13517,7 @@ earcap
 epitimesis
 error
 embowels
-eccles
+eccles 1
 eumolpides 1
 externomedian
 evillest
