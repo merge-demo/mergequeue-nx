@@ -18787,7 +18787,7 @@ angioneoplasm
 apraxia 1
 archeocyte
 acneform
-archeolithic
+archeolithic 1
 ankhs
 archeopteryx
 anastomose
