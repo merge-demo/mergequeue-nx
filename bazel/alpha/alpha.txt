@@ -2823,7 +2823,7 @@ acromicria
 antimeres
 aspersers 2
 athonite
-acromiocoracoid
+acromiocoracoid 1
 amateurishly
 alite
 abominability
