@@ -13186,7 +13186,7 @@ anticynic
 angekok
 animating
 amphibolic
-amoks
+amoks 1
 anagraph
 areosystyle
 animatistic
