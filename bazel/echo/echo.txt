@@ -8922,7 +8922,7 @@ ergots
 evap
 erses
 egestive
-essive
+essive 1
 epiphanies
 errhine
 eudaemonist
