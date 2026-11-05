@@ -11850,7 +11850,7 @@ deuteroprism
 decentralism
 diamines
 discurre 1
-dislikable
+dislikable 1
 discursify
 deplumed
 donatively
