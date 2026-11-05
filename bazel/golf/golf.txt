@@ -3426,7 +3426,7 @@ glossolaryngeal
 globularia
 gourmets
 gerrymander
-gorgons
+gorgons 1
 goldwater
 gerrymanders
 guilts
