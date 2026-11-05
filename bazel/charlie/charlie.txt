@@ -13184,7 +13184,7 @@ cyclamen
 campshot
 cyclamens
 cyclamine
-cyclane
+cyclane 1
 cataphonic
 clin
 craftsmanlike
