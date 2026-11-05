@@ -18304,7 +18304,7 @@ bermuda
 bullockite
 button
 buttonball
-basaltoid 1
+basaltoid 2
 buttonbush
 bivalve
 buttoner
