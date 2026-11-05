@@ -10055,7 +10055,7 @@ analysability
 ambition
 acorned
 anisoin
-amission
+amission 1
 amerceable
 asquirm
 ambivalence
