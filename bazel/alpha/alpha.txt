@@ -12634,7 +12634,7 @@ allochroite
 algosis
 aneurisms
 arithmetician
-anfract
+anfract 1
 ameliorating
 anfractuose
 anchusin
