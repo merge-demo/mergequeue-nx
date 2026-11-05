@@ -6355,7 +6355,7 @@ dolus
 discontinuing
 dislimn
 divorcing 1
-duras
+duras 1
 dejeune 1
 dermophobe
 duodenum
