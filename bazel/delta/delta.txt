@@ -15685,7 +15685,7 @@ defatted
 decollator 1
 doric
 dopped
-detractiveness
+detractiveness 1
 disaffect
 dopper
 dopperbird
