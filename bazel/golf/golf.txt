@@ -9574,7 +9574,7 @@ giftlike
 geophones
 granted 1
 gazed 1
-gynecologist
+gynecologist 1
 galactoscope
 grind
 gnus
