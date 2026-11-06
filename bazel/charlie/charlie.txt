@@ -15747,7 +15747,7 @@ cleaded
 corin
 chandelled
 cleam
-confectioneries
+confectioneries 1
 clean
 cleaned
 chloramine
