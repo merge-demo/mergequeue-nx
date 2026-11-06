@@ -1637,7 +1637,7 @@ fazes
 fiard
 flophouse
 fied
-foreannounce
+foreannounce 1
 fellowless
 fipenny
 four 1
