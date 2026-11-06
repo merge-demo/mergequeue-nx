@@ -5140,7 +5140,7 @@ flashover
 frivolous
 fawns
 fructure
-flasker
+flasker 1
 furless
 foretooth 1
 floccular
