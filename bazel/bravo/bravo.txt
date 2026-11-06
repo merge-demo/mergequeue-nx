@@ -1316,7 +1316,7 @@ benzaldiphenyl
 balatte
 bergfall
 bermudian
-bernoullian
+bernoullian 1
 bingy
 burelage
 bedways
