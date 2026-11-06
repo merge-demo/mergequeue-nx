@@ -597,7 +597,7 @@ develin
 drawboy 1
 demifusion
 dextrose
-dups
+dups 1
 damine
 disbeliever
 drek
