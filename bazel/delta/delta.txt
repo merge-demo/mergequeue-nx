@@ -8700,7 +8700,7 @@ druid
 deoxyribose 1
 dismayed
 diphtherotoxin
-dolesomely
+dolesomely 1
 dehumanized
 diastoles
 diastomatic
