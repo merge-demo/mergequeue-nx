@@ -3177,7 +3177,7 @@ daneflower
 defect
 degusting 1
 divots
-draughtily
+draughtily 1
 defectible
 defecting
 dezincified
