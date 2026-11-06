@@ -12704,7 +12704,7 @@ exodontics
 endorsor
 estrogenically
 ejaculative
-etoffe
+etoffe 1
 exonian
 exonerator
 eudiometer
