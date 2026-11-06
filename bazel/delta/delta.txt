@@ -12436,7 +12436,7 @@ dishonor
 distendedness
 dishonorer
 doctrinairism
-deresinize
+deresinize 1
 dishonoring
 detestability
 discontentful
