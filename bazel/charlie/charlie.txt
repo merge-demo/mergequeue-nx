@@ -24715,7 +24715,7 @@ copraemic
 christianize
 cruisingly
 coprecipitate
-countervene
+countervene 1
 coprecipitated
 chalcididae
 copremias
