@@ -810,7 +810,7 @@ exequies
 expulsed
 ectental
 eloigner
-ecthesis
+ecthesis 1
 emmers
 epispadias
 edaphically
