@@ -515,7 +515,7 @@ amassment
 angiorrhagia
 assonantal
 acidities
-absterge
+absterge 1
 agomphiasis
 abjurations
 acecaffin
