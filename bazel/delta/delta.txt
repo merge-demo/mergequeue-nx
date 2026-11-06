@@ -3700,7 +3700,7 @@ dictamnus
 degust
 dasnt 1
 degusted
-dregginess
+dregginess 1
 dewlaps
 dehache
 dorsoepitrochlear
