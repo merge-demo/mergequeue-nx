@@ -16392,7 +16392,7 @@ deducive
 dultie
 drawtube
 doeuvre
-downwind
+downwind 1
 droukit
 dowp
 dowse
