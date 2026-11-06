@@ -28825,7 +28825,7 @@ cresswort
 coauthor
 crest
 confiserie 1
-clinostat
+clinostat 1
 congrue
 crestal
 churchwards
