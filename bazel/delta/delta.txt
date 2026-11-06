@@ -4069,7 +4069,7 @@ delicense
 desiccant
 dynamometamorphosed
 deliciouses
-deliciousness
+deliciousness 1
 debouches
 delict
 deaquation
