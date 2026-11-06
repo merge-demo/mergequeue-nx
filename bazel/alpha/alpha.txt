@@ -19113,7 +19113,7 @@ archspirit
 aquadag
 arachnites
 ayuyu
-ashiness
+ashiness 1
 availers
 archturncoat
 archvampire
