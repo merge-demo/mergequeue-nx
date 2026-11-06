@@ -11896,7 +11896,7 @@ chore
 caviare
 chorea
 choreal
-choreatic
+choreatic 1
 chored
 characteristical
 camata
