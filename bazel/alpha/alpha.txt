@@ -17962,7 +17962,7 @@ acidolysis
 aegagropila
 am
 approvance
-absolutes
+absolutes 1
 arsyl 1
 approvedly
 antiempirical
