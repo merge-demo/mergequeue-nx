@@ -9727,7 +9727,7 @@ extraterritorial
 ethylhydrocupreine 1
 essedones
 eisoptrophobia
-extollers
+extollers 1
 essency
 embastardize
 extravertish 1
