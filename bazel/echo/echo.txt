@@ -6583,7 +6583,7 @@ ensuant
 enterectomy
 enterer
 eulogious
-excusive
+excusive 1
 eccritic
 embattled
 epimedium
