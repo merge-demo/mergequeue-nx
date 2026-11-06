@@ -1537,7 +1537,7 @@ giraffesque
 gracilariid 1
 gery
 grype
-gulfiest
+gulfiest 1
 grandiloquence
 gasometrical
 gearless
