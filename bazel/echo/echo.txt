@@ -9076,7 +9076,7 @@ epistropheus
 equivocations
 educe
 erythrolein
-enteromorpha
+enteromorpha 1
 electrothermostatic
 ennobled
 eschalots
