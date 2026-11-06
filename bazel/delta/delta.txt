@@ -6588,7 +6588,7 @@ dampen
 dowfart
 dyschroa
 discubation
-disfiguring
+disfiguring 1
 dearie
 ditched
 desecrations
