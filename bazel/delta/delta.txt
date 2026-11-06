@@ -15355,7 +15355,7 @@ decrystallization
 darbyite
 decongestion
 domesdays
-diarthrodial
+diarthrodial 1
 domesticality
 decreased
 doment
