@@ -27515,7 +27515,7 @@ clavately
 covey
 coveys
 covelline
-covellite
+covellite 1
 certie
 conceptualistic
 corpus
