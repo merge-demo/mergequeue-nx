@@ -8454,7 +8454,7 @@ cunei
 chromotherapist
 chamos
 cribbage
-chamotte
+chamotte 1
 coarbiter
 cauligenous
 champagneless
