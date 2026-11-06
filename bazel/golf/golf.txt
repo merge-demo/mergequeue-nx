@@ -1098,7 +1098,7 @@ ganister
 goriest
 giroflore 1
 groat
-grooviness
+grooviness 1
 grannies
 gonangium 1
 gregorianize
