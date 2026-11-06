@@ -8487,7 +8487,7 @@ exterminators 1
 electrodissolution
 eydent
 expansions
-externally
+externally 1
 endball
 exculpation
 eleemosynariness
