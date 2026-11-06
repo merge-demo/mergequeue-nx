@@ -11456,7 +11456,7 @@ diverted
 discobolos
 dewiest
 disbelieving
-degassing
+degassing 1
 downcomes
 dissuasive
 discodactylous
