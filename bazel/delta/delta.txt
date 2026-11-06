@@ -5178,7 +5178,7 @@ denicotinizes 1
 dilettanist
 drumsler
 denied
-denyer
+denyer 1
 didromy
 damia
 downstater
