@@ -24519,7 +24519,7 @@ auxeses
 altercative 1
 antispreader
 aoristic
-ascaron
+ascaron 1
 auxetic
 adoptability
 aghorapanthi
