@@ -10210,7 +10210,7 @@ gobet
 grindstone
 gluttei
 gitanemuk
-globalism
+globalism 1
 gladdon
 gimbaljawed
 groundneedle
