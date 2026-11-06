@@ -4227,7 +4227,7 @@ drilled
 diddest
 delphinic
 defeasibleness
-delphiniums
+delphiniums 1
 dossal
 delphinoidine
 distaffs
