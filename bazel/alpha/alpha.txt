@@ -4990,7 +4990,7 @@ amphisbaenid
 argentate 1
 auriculate
 admissibleness
-aeropathy
+aeropathy 1
 arthritides
 aerope
 acinetae
