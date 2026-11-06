@@ -15357,7 +15357,7 @@ decongestion
 domesdays
 diarthrodial
 domesticality
-decreased
+decreased 1
 doment
 devicefully
 dicerous
