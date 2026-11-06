@@ -3007,7 +3007,7 @@ enfield
 eleatic
 eleoblast
 evaluate
-extine
+extine 1
 efflorescence
 evocative
 extern
