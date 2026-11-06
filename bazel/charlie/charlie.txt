@@ -20095,7 +20095,7 @@ cultivable
 commercialness
 corporealness
 commercium 1
-creedal
+creedal 1
 ctenocephalus
 clarabella
 commerge
