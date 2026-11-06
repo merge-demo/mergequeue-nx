@@ -8323,7 +8323,7 @@ fanflower
 ficoidaceae
 facelift
 funniest
-favuses
+favuses 1
 foryield
 forelouper
 furnished
