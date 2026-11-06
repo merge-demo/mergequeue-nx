@@ -30574,7 +30574,7 @@ cyrtoceratite
 chipyard
 cubocalcaneal
 cuboctahedron
-cubocube
+cubocube 1
 cashboy
 crepidula
 cubocuneiform
