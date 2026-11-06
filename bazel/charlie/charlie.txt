@@ -20858,7 +20858,7 @@ costeaning
 colluder
 coacted 1
 compositure
-compossible
+compossible 1
 cataleptically
 cassalty
 composted
