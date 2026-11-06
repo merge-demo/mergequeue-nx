@@ -12668,7 +12668,7 @@ cargued
 chuckingly 1
 chuckle
 chucklehead
-calmly
+calmly 1
 conjugateness
 chuckleheaded
 cumaceous
