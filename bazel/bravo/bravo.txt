@@ -17542,7 +17542,7 @@ burlesque
 burdigalian
 basipoditic
 blowpoint
-burds
+burds 1
 burweeds
 barraged
 bricklay
