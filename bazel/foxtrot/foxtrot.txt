@@ -1928,7 +1928,7 @@ freight
 furling
 friable
 fangot
-froze 1
+froze 2
 forebearing
 floccule
 finagling
