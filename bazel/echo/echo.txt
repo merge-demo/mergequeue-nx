@@ -3695,7 +3695,7 @@ endocoeliac
 embosking
 embryologist
 entify
-embryonic
+embryonic 1
 encyrtidae
 erythromycin
 expectant
