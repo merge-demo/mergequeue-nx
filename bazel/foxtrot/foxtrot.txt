@@ -6316,7 +6316,7 @@ filate 1
 fitting
 ferriprussiate
 fibropurulent
-fringed
+fringed 1
 facadal 1
 floreted
 flunkey
