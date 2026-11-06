@@ -1775,7 +1775,7 @@ forevision
 fakofo
 featherpate
 fetlocks
-foghorns
+foghorns 1
 futurology
 ficklehearted
 fadingness
