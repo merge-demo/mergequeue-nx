@@ -4660,7 +4660,7 @@ gamori
 gentrice
 gironny 1
 graphophobia
-gyronny
+gyronny 1
 gamophyllous
 gyrophoraceous
 glance
