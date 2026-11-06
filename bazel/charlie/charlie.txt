@@ -8268,7 +8268,7 @@ coadunation
 chalcomenite
 chalcone
 chalcopyrite
-chalcosine
+chalcosine 1
 calyptrogyne
 crocodilite
 coween
