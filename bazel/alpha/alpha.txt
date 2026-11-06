@@ -2882,7 +2882,7 @@ aubrite
 antiendowment 1
 acropoleis
 acuminated
-acropolitan
+acropolitan 1
 asthenope
 archpontiff
 acarologist
