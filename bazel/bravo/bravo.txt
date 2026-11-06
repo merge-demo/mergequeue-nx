@@ -1457,7 +1457,7 @@ banig
 breathtaking
 beryllonite
 balker 1
-bastardise
+bastardise 1
 balkiest
 byronize
 balkiness
