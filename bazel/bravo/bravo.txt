@@ -7709,7 +7709,7 @@ basaltiform
 bhat
 burglaries
 bunning 1
-bheesty
+bheesty 1
 bullaries
 bheestie
 beblot
