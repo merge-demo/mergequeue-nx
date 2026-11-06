@@ -10190,7 +10190,7 @@ capsicum
 chiapanec
 chiapanecan
 chlorochrous
-compurgatory
+compurgatory 1
 carps
 chamomilla
 chorisepalous
