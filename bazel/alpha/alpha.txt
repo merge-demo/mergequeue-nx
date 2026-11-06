@@ -10972,7 +10972,7 @@ amoebobacterieae
 amoebocyte
 amoebogeniae
 amoebula
-amoy
+amoy 1
 apinoid
 amok
 amoke
