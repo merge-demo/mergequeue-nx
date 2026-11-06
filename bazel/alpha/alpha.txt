@@ -20441,7 +20441,7 @@ artemision
 artemisium
 autoptical
 antiskidding
-assistances
+assistances 1
 amatito
 aerialness
 antimodernness
