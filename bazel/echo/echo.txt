@@ -11258,7 +11258,7 @@ exserts
 earthquake
 exundate
 ectoloph 1
-entelluses
+entelluses 1
 ethnologic
 eeling
 electrochemist
