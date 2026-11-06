@@ -878,7 +878,7 @@ gallowsward
 geegaw
 gadis
 galactan
-glove
+glove 1
 guily
 goffer
 ghatti
