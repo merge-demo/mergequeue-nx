@@ -4329,7 +4329,7 @@ abridgments
 atabrine
 amortizing
 anterevolutionary
-acarida
+acarida 1
 actiniferous
 adscititious
 adscriptitious
