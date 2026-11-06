@@ -9744,7 +9744,7 @@ gordiidae
 gagroot
 gablewise
 gambes
-gorged
+gorged 1
 glutens
 glendover
 geckoes
