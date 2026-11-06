@@ -6362,7 +6362,7 @@ caustically
 causticism
 chamaeleo
 celticism
-causticity
+causticity 1
 conversion
 camatina
 cumaphytism
