@@ -4735,7 +4735,7 @@ gowland
 gitanos
 gite
 gonarthritis
-gnawn
+gnawn 1
 gitim
 glamourousness
 gecks
