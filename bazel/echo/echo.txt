@@ -4610,7 +4610,7 @@ ethnopsychic
 euphemism
 endosarcode
 ethnolinguistics
-embryophagous
+embryophagous 1
 eeriest
 epicerastic
 estradas
