@@ -5190,7 +5190,7 @@ earbob
 epicarp 1
 encyclic
 eurystheus
-erava
+erava 1
 essonite
 exceedingness
 endothermically
