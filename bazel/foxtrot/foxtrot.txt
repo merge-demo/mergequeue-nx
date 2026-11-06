@@ -2475,7 +2475,7 @@ frenchless
 favonian
 folksiest
 floripondio
-fernandinite
+fernandinite 1
 frecket
 foliously
 flabile
