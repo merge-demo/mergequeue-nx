@@ -18249,7 +18249,7 @@ broo
 bottlenecks 1
 blepharospasm
 bepat
-bete
+bete 1
 bivouacs
 bordun
 backflip
