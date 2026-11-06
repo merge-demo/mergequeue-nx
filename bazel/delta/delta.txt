@@ -10056,7 +10056,7 @@ damply
 dedal
 dogfought 1
 definitization
-digoneutic
+digoneutic 1
 dynamitard
 disqualify
 denitrify
