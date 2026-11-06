@@ -5234,7 +5234,7 @@ abnegative 1
 affiance
 angakok
 antievolutionistic 1
-affiants
+affiants 1
 affiches
 affidare
 affidation
