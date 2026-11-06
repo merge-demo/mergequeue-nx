@@ -696,7 +696,7 @@ afebrile
 abortiveness
 allegorising
 american 1
-animadversion
+animadversion 1
 antiaesthetic
 aboulia
 anoli
