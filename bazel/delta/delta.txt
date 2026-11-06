@@ -12218,7 +12218,7 @@ dormie
 dodoisms
 drapes
 disfranchises
-drosophilae
+drosophilae 1
 depel
 deride 1
 discoursiveness
