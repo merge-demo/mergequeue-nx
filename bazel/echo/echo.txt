@@ -9762,7 +9762,7 @@ enthusiast
 expressure 1
 essentialization
 essentially
-easterner
+easterner 1
 exigencies
 expeditation
 easinesses
