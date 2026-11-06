@@ -22926,7 +22926,7 @@ consignify
 cantorous
 countersalient
 chob
-consignificant
+consignificant 1
 consignification
 consignificative
 consignificator
