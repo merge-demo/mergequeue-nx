@@ -3289,7 +3289,7 @@ acutilobate 1
 arterioarctia
 acutiplantar
 autoluminescence
-acrylate
+acrylate 1
 assassin
 atomizes 1
 acutograve
