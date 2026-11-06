@@ -8300,7 +8300,7 @@ gheraoed
 gibers
 gambits
 graspingly
-gutturalise
+gutturalise 1
 gleets
 genian
 grandee
