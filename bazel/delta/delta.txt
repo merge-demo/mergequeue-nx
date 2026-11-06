@@ -1328,7 +1328,7 @@ daltonic
 defial
 deoxidizers
 disjunctions 1
-deludingly
+deludingly 1
 delftware
 draconism
 dauke
