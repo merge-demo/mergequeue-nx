@@ -5757,7 +5757,7 @@ flyswatter
 filipiniana
 figmental
 forpass
-frise
+frise 1
 flocking
 fenmen
 flited
