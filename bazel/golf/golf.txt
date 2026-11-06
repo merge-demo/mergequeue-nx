@@ -2292,7 +2292,7 @@ geomoroi
 grange
 granulosa
 gynarchy 1
-galante
+galante 1
 gumihan
 gestant
 grosse
