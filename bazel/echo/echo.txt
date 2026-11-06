@@ -11695,7 +11695,7 @@ erythrogenic 1
 estragons
 ecphasis
 entoplastic
-exaggeratively
+exaggeratively 1
 exagitate
 effluence
 electromer
