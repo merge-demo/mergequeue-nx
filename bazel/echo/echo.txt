@@ -5937,7 +5937,7 @@ exoenzymic
 embuskin
 ephemeron
 excursive
-exclave
+exclave 1
 eftest
 ethmonasal
 enheart
