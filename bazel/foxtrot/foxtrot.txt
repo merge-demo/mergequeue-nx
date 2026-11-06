@@ -8064,7 +8064,7 @@ flammably 1
 fairies
 fosterers
 formentation
-facetting
+facetting 1
 folial
 forestful
 freezes
