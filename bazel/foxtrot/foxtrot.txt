@@ -8999,7 +8999,7 @@ foursquareness
 faustian
 fourteener
 frangibleness
-fourteenths
+fourteenths 1
 froren
 flatirons
 forra
