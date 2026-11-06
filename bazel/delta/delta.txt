@@ -18324,7 +18324,7 @@ disshadow
 debussing
 detonate
 duodecastyle
-duodecennial
+duodecennial 1
 duodecillions
 doxy
 duotriacontane
