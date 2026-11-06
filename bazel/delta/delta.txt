@@ -17755,7 +17755,7 @@ dewiness
 demises
 ducdame
 diplocoria
-defector 1
+defector 2
 duchan
 diagraph
 demythologize
