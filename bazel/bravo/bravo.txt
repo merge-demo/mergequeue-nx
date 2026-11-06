@@ -5589,7 +5589,7 @@ behoovingly
 basinasal
 boulanger
 bela
-beluchi
+beluchi 1
 burgonets
 bruscus
 belash
