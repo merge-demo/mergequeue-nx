@@ -8837,7 +8837,7 @@ allocations
 amyosthenia
 amender
 adeptly
-adamastor
+adamastor 1
 anaphora
 aditus
 administered
