@@ -6503,7 +6503,7 @@ fotui
 filches
 figurally
 fluted 1
-featherbedded
+featherbedded 1
 faintish
 frenzied
 flameless
