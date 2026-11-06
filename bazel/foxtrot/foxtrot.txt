@@ -3347,7 +3347,7 @@ flon 1
 forsung
 flench
 furuncle
-fidge
+fidge 1
 frogfoot
 fractionally
 fidgeted
