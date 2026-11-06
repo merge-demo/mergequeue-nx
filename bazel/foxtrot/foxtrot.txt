@@ -6559,7 +6559,7 @@ flamless
 furrings 1
 flibbertigibbets
 flysches
-flattened
+flattened 1
 feaked
 fluxile
 faunistical
