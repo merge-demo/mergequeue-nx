@@ -6326,7 +6326,7 @@ fumatories
 fissipeda
 frags
 fluidity 1
-fuzzy
+fuzzy 1
 flack
 futural
 fullback
