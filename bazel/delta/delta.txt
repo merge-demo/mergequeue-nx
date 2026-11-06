@@ -10893,7 +10893,7 @@ discontinuous
 designlessly
 diathermometer
 demonologic
-doddart
+doddart 1
 debaters
 desalting
 disculpate
