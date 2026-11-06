@@ -15156,7 +15156,7 @@ candiel
 compactions
 contangos
 claibornian
-construal
+construal 1
 covisit
 commanderies
 claye
