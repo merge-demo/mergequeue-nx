@@ -4039,7 +4039,7 @@ culpableness
 card
 chronal
 cardaissin
-chehalis
+chehalis 1
 convolutely
 cardamine
 catarrhinian 1
