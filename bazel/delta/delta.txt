@@ -7230,7 +7230,7 @@ detecter
 detecters
 decemvirate
 duffels
-digitate
+digitate 1
 decertify
 dolorous
 damnified
