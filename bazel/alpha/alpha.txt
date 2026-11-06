@@ -1289,7 +1289,7 @@ alstonidine
 arillated
 acatastatic
 autoanalysis
-acate
+acate 1
 acategorical
 amiray
 adolescing
