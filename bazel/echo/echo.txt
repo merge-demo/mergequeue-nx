@@ -10402,7 +10402,7 @@ epiphanize
 electropositive
 enfranchisable
 exodromic 1
-exchanged
+exchanged 1
 ethoxide
 ethoxyethane
 enchiriridia
