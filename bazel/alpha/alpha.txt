@@ -12462,7 +12462,7 @@ autodermic
 asphyxy
 approval
 animalia
-admensuration
+admensuration 1
 algesis
 armchairs
 abarambo
