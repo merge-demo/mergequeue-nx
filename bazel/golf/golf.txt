@@ -6793,7 +6793,7 @@ geront
 gymnogyps
 gentilitial
 gyrostatics
-genal
+genal 1
 genros
 gondola
 goniums
