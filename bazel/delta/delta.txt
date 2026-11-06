@@ -4033,7 +4033,7 @@ dealership 1
 dawtie
 darwinians
 describer
-delsartean
+delsartean 1
 dogwinkle
 dysarthric
 domineeringness
