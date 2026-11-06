@@ -4827,7 +4827,7 @@ frostbiter
 fibrinuria 1
 fumish 1
 flume
-fracticipita
+fracticipita 1
 faunus
 fishberries
 firepower 1
