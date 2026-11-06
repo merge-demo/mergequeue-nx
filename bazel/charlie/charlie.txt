@@ -16690,7 +16690,7 @@ cirrus
 clotheslines
 clothesman
 crypts
-cheerful
+cheerful 1
 carbamoyl
 catchingness
 cosuitor
