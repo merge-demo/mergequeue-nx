@@ -10071,7 +10071,7 @@ decolonizes
 dynamitism
 dynamization 1
 dockmackie
-dynamo
+dynamo 1
 deranging
 dehydrogeniser
 djalmaite
