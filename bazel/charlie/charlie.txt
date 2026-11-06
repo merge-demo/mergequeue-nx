@@ -20496,7 +20496,7 @@ compassionately
 candidateship
 compassionateness
 catalepsy
-compassive
+compassive 1
 coinhere
 compassivity
 cwrite
