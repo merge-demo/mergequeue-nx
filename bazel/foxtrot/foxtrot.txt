@@ -11273,7 +11273,7 @@ fricandeaus
 fantasticism
 familiarizer
 furlane
-fractionary
+fractionary 1
 friskets
 furbish
 functionalizing
