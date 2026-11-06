@@ -325,7 +325,7 @@ desquamative 1
 desmidiaceae
 dribbling
 dunkadoo
-demobs
+demobs 1
 dipsacaceae
 daydawn
 drugged
