@@ -824,7 +824,7 @@ genseng
 gambogian
 gombroons
 grangerise
-genistin
+genistin 1
 granulater 1
 groutiest
 geonegative
