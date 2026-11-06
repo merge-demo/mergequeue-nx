@@ -15254,7 +15254,7 @@ ataentsic
 albertinian
 androcratic
 antigalactagogue
-ageusic
+ageusic 1
 antigambling
 antiganting
 aftersupper
