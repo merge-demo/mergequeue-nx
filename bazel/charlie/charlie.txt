@@ -17920,7 +17920,7 @@ crude
 coef
 chromosphere
 contractibility
-coeff
+coeff 1
 coefficients
 coelacanth 1
 coelacanthidae
