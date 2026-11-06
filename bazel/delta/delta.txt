@@ -17267,7 +17267,7 @@ discern
 domatium
 droll
 deniers
-dentiform
+dentiform 1
 dilluer
 didactylous
 druidology
