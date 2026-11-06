@@ -9675,7 +9675,7 @@ browses
 bezzled
 beeping
 bismuthinite
-bejumble
+bejumble 1
 bismuthous
 belfried
 busking
