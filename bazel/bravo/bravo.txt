@@ -5760,7 +5760,7 @@ bufo
 bellbird
 bellboy
 bulbochaete
-bursula 1
+bursula 2
 bood
 biarticular
 bylining
