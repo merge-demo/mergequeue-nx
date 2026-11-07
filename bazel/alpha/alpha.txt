@@ -778,7 +778,7 @@ acetate 1
 abrico
 autostrada
 abridgable
-anticlassicalist
+anticlassicalist 1
 anisotropical
 antiscia
 abitibi
