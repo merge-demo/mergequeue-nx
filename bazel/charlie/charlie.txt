@@ -10868,7 +10868,7 @@ connectedness
 chippers
 coefficient
 chippewas
-chippy
+chippy 1
 cobishop
 cometic
 chloralose
