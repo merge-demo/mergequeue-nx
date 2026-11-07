@@ -9642,7 +9642,7 @@ fecklessly
 feliform
 fulcrumage
 flabrum
-freewheelingness
+freewheelingness 1
 forfoughen
 fluoborate
 foresides
