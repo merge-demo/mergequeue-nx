@@ -18060,7 +18060,7 @@ cephalosporin
 coenenchymal
 communality
 capouch
-cherty
+cherty 1
 coenesthesia
 coengage
 coproduce
