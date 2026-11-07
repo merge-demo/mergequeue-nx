@@ -14087,7 +14087,7 @@ brachygraphical
 brachyhieric
 bikol
 berlinite
-burkites
+burkites 1
 behaviour
 bogusness
 brachiopoda
