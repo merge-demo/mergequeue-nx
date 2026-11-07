@@ -1954,7 +1954,7 @@ camenes
 coveters
 confeder
 cypriote
-crotalid
+crotalid 1
 checkered
 camera
 capitols
