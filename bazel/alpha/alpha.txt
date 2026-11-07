@@ -5741,7 +5741,7 @@ amentiferous
 arteriostrepsis
 ascrive
 acop
-amant
+amant 1
 arrowwood
 adaty
 antisacerdotal
