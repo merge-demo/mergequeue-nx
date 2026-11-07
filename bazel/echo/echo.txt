@@ -12934,7 +12934,7 @@ esses
 embracery
 erigible
 expatriate
-expatriating
+expatriating 1
 enthusiastic
 escalado
 emboites
