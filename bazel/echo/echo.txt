@@ -2691,7 +2691,7 @@ extendibility
 eudaemonics
 engenderment
 electrotelegraphy
-exhort
+exhort 1
 epispadia
 electrotherapeutical
 estampie
