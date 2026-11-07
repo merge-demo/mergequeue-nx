@@ -26199,7 +26199,7 @@ catalecta
 cantharidism
 calabazilla
 cancriform
-clinchingness
+clinchingness 1
 chanceman
 cosovereignty
 cospecies
