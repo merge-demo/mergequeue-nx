@@ -13293,7 +13293,7 @@ bacteriologically 1
 bradykinesis
 bivaulted
 botanically
-botanics
+botanics 1
 bridechamber
 botanies
 botanist
