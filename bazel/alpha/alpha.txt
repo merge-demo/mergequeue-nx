@@ -4284,7 +4284,7 @@ adrenergic 1
 allegate
 adrenin
 addu
-adrenitis
+adrenitis 1
 archcount
 adrenochrome
 adrenocortical
