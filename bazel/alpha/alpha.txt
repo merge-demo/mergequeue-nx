@@ -8764,7 +8764,7 @@ alliant 1
 allicampane
 antiketogen
 allicient
-anglist
+anglist 1
 anticeremonially
 allied
 allies
