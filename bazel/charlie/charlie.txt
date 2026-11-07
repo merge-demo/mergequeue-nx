@@ -7070,7 +7070,7 @@ chelators
 colonus
 centerfolds
 cretoria
-centering
+centering 1
 comminatory
 centermost
 cartilage
