@@ -8147,7 +8147,7 @@ forevers
 flectionless
 foregate
 forthwith
-fretless
+fretless 1
 ferberite
 fructuosity
 fossilology
