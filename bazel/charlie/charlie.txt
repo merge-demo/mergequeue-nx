@@ -19649,7 +19649,7 @@ comanche
 comanchean
 cohesion
 chlordan
-comanches
+comanches 1
 comandantes
 comandanti
 cutis
