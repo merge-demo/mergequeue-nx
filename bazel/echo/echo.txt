@@ -1722,7 +1722,7 @@ evang
 eyeground
 epornitically
 encephaloid
-endangium
+endangium 1
 exsanguination
 enginery
 engrammatic
