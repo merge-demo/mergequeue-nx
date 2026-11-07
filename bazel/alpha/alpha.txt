@@ -20509,7 +20509,7 @@ actuaryship
 accomplishment
 autotoxemia
 aerophilatelic
-arteriometer
+arteriometer 1
 arteriomotor
 antiasthmatic
 arterioplasty
