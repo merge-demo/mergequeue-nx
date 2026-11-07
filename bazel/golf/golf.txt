@@ -336,7 +336,7 @@ galactolipide 1
 graveship
 galactometer
 gorling
-gaussian 1
+gaussian 2
 grilses
 gleen
 gerontologic
