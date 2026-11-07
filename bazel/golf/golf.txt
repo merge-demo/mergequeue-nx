@@ -7298,7 +7298,7 @@ gassendist
 gortonite
 gauffer
 graphiologist
-glutaric
+glutaric 1
 glitches 1
 goldsinny
 gynics
