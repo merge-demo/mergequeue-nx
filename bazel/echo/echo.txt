@@ -117,7 +117,7 @@ embrasuring
 egotistically
 eartab
 exodermal
-eparch
+eparch 1
 euphonised
 echinoderma
 earthboard
