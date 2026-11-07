@@ -6465,7 +6465,7 @@ guary
 goldentop 1
 glochideous
 grapewise
-governor
+governor 1
 golder
 glimpse
 grower
