@@ -9709,7 +9709,7 @@ alveolate
 alveolation
 alveole
 alveolectomy
-alveoli
+alveoli 1
 alveoliform
 aduncated
 aquatints
