@@ -4772,7 +4772,7 @@ gamboised
 groundwork
 grouseless 1
 gosther
-giveable
+giveable 1
 gederite 1
 gelidly
 gametophyll
