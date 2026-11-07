@@ -15618,7 +15618,7 @@ barley
 brits
 bridlewise
 belgic
-boza
+boza 1
 brittany
 brittle
 bunkos
