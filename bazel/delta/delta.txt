@@ -2233,7 +2233,7 @@ diallyl
 diapalma 1
 doddery
 dearsenicate
-divulgences
+divulgences 1
 diocesan
 droschken
 derrire
