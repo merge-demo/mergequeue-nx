@@ -14896,7 +14896,7 @@ breakoff
 byssolite
 breakout
 breakpoint
-breaks
+breaks 1
 benzdifuran
 besteaded
 besselian
