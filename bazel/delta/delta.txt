@@ -13992,7 +13992,7 @@ distinctions
 disruptionist 1
 distortions
 delocalise
-differentiable
+differentiable 1
 distorts
 dolomitising
 dentoid
