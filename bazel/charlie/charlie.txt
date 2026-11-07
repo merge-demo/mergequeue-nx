@@ -5460,7 +5460,7 @@ christianness
 casualism
 casualist
 curvesome
-casuals
+casuals 1
 casuariiformes
 chloramide
 civetlike

@@ -17479,7 +17479,7 @@ discrete
 daffle
 doubleheaders
 deficiently
-destructed
+destructed 1
 disorientation
 devoices
 densities
