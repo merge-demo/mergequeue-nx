@@ -12574,7 +12574,7 @@ celestially
 chronogrammatic
 chronogrammatically
 cheetah
-cenospecifically
+cenospecifically 1
 chronogrammic
 chronograph
 chronographer
