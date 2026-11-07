@@ -7002,7 +7002,7 @@ censorian
 censoring
 censoriously
 censoriousness
-coenobiod
+coenobiod 1
 censurability
 censurableness
 censurably
