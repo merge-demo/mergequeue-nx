@@ -9720,7 +9720,7 @@ esse
 evangelizing
 elementarism
 embryol
-escopette
+escopette 1
 external
 epicoelar 1
 extraterritorial
