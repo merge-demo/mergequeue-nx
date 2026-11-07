@@ -11633,7 +11633,7 @@ fineness
 fructoses
 ferren
 flyability
-fustiness
+fustiness 1
 frontless
 fustoc 1
 fussily
