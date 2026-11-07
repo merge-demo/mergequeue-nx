@@ -3338,7 +3338,7 @@ decapitalization
 definite
 definitely
 distrait
-definiteness
+definiteness 1
 dahlin
 deergrass
 definitiones
