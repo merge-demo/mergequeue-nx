@@ -23934,7 +23934,7 @@ authoritarians
 awarn
 antisplasher
 archvestryman
-authorizer
+authorizer 1
 alluvions
 agostadero 1
 authorizes
