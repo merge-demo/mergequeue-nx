@@ -8799,7 +8799,7 @@ collop
 chappin
 chartlet
 competes
-cosmopolitic
+cosmopolitic 1
 catchplate
 chaprasi
 chapstick
