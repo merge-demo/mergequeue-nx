@@ -10284,7 +10284,7 @@ exomorphic
 extension
 ethmofrontal
 eyebridled
-esquamate
+esquamate 1
 empemata
 enteromycosis
 escorial
