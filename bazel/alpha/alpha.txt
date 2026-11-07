@@ -14389,7 +14389,7 @@ astigmatoscopies
 aerogramme 1
 accidentary
 apometabolism
-anthophora
+anthophora 1
 anglicizing
 amphistomous
 awful
