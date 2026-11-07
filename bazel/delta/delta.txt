@@ -8843,7 +8843,7 @@ dibenzoyl
 depilator
 detriments
 dialyzable 1
-deg
+deg 1
 dichotomal
 dentatocillitate
 desirelessness
