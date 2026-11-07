@@ -11454,7 +11454,7 @@ adonic
 amygdalae
 asphodeline
 amu
-arteriae
+arteriae 1
 amuchco
 amuck
 amueixa
