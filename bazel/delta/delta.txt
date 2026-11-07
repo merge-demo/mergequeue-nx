@@ -11549,7 +11549,7 @@ defassa
 discommoned
 dextrinase 1
 detective
-dcolletage 1
+dcolletage 2
 denationalised 1
 downland
 desorbs
