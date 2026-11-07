@@ -8643,7 +8643,7 @@ anastomosis
 autotheater 1
 amygdaloidal
 annunciatory
-anglophobist
+anglophobist 1
 allegorizer
 antidinic
 anomuran
