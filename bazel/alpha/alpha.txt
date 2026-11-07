@@ -1687,7 +1687,7 @@ archsee
 alouettes
 apperceive
 accumbency
-astarte
+astarte 1
 accumbent
 accumulating
 anthracomartian
