@@ -6267,7 +6267,7 @@ caulicolous
 customed
 controversed
 conche
-cameloid
+cameloid 1
 caulinar
 caulinary
 ceroplast
