@@ -1470,7 +1470,7 @@ balkish
 bodaciously
 bahadurs 1
 beggar
-boroglycerate
+boroglycerate 1
 barras
 beeches
 ball
