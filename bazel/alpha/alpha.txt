@@ -22172,7 +22172,7 @@ aceric
 aeromantic
 asthmatoid 1
 arthrotomies
-asthmogenic
+asthmogenic 1
 asthore
 anticapitalism
 archidiskodon
