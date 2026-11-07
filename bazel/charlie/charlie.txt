@@ -4661,7 +4661,7 @@ carneol
 cursoria
 chinas
 cholangitis
-companero
+companero 1
 chwana
 contrary
 comptoir
