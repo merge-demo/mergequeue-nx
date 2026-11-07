@@ -4349,7 +4349,7 @@ adsmithing 1
 adelocerous
 aikuchi
 autotriploid
-adsorbability
+adsorbability 1
 archpuritan
 allocryptic
 adsorbable
