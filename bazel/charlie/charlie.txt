@@ -25091,7 +25091,7 @@ consolation
 caimakam
 cottoid
 coreligionist
-cooperancy
+cooperancy 1
 cueball
 calipers
 colophonian
