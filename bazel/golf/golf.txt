@@ -5589,7 +5589,7 @@ gumming
 gaysome
 gripless
 geochemist
-geophysical 1
+geophysical 2
 gefilte
 gownlet
 glottogonist
