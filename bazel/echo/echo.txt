@@ -14109,7 +14109,7 @@ entrancements
 extrinsically
 extrinsicalness
 extrinsication
-enthralls
+enthralls 1
 exhortatively
 emplastrum
 exposers
