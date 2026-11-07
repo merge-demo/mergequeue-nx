@@ -6845,7 +6845,7 @@ favoringly
 foliate
 favourableness
 facemaking
-fistiness
+fistiness 1
 floridities
 fnese
 foozler 1
