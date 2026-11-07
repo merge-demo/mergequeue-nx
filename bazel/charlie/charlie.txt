@@ -15714,7 +15714,7 @@ clavicularium
 claviculate
 chrysohermidin
 chirotype
-clima
+clima 1
 chrysograph
 claviger
 carshops
