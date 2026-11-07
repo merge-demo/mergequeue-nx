@@ -11174,7 +11174,7 @@ criminaldom
 chloraemia
 chloragogue
 chloral
-chloralformamide
+chloralformamide 1
 cluniac
 cupelling
 comburimeter
