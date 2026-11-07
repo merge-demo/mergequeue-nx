@@ -99,7 +99,7 @@ bisyllabism
 boddhisattva
 bonsoir
 blistering
-blackguardly
+blackguardly 1
 bladderwrack
 balanophore
 burlies
