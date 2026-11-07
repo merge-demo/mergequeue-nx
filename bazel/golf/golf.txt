@@ -3577,7 +3577,7 @@ gewgaws
 ghan
 glowerer 1
 groper
-ghanaian
+ghanaian 1
 glimpsing
 greekling
 glumella
