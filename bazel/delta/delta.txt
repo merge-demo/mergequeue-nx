@@ -14379,7 +14379,7 @@ diphthongal
 drillmaster 1
 divagationally
 divan
-dipolsphene
+dipolsphene 1
 doley
 divans
 debatably
