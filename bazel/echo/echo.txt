@@ -10590,7 +10590,7 @@ expectance
 euchrome
 euclideanism
 euclidian
-exhalant
+exhalant 1
 eucone
 eucopepoda
 electrotechnic
