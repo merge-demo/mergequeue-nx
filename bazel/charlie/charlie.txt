@@ -2838,7 +2838,7 @@ circumventive
 congealer
 cremor
 cadesse
-canonicals
+canonicals 1
 condiddled 1
 countercharge
 canonisation
