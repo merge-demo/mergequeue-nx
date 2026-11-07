@@ -7206,7 +7206,7 @@ goodnesses
 gony 1
 grasshopperdom
 gaditan
-greenthumbed
+greenthumbed 1
 geotectonics
 give 1
 geocratic
