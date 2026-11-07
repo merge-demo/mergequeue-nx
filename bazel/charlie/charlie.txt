@@ -15997,7 +15997,7 @@ cleromancy
 canniness
 clerstory
 clansmen
-cyamelid
+cyamelid 1
 coolheadedness
 cleruchy
 connach 1
