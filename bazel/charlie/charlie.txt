@@ -9940,7 +9940,7 @@ cambists
 crescographic
 caseconv
 chaoses
-comedians
+comedians 1
 chenet 1
 chirotony
 calangay
