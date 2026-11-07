@@ -4550,7 +4550,7 @@ encephalos
 encapsulated
 empales
 encephalospinal
-ecclesiastic
+ecclesiastic 1
 elevatedness
 externize
 euphyllopoda
