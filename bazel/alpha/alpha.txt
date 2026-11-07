@@ -12019,7 +12019,7 @@ amara
 antigravitation 1
 apostrophize
 anaretical
-arc
+arc 1
 arboret
 asymtotes
 anarthric
