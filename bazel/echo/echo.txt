@@ -2156,7 +2156,7 @@ enfoil
 exterminatress 1
 enanthematous
 epoxy 1
-esophagostenosis
+esophagostenosis 1
 eyestring
 ensorceling
 explicandum
