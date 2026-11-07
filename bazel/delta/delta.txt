@@ -12246,7 +12246,7 @@ dervishes
 disfurniture
 donax
 disgarnish
-descartes
+descartes 1
 deliberativeness
 dossiere
 demoniacism
