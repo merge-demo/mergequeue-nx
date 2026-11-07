@@ -9691,7 +9691,7 @@ chefs
 coenamoring
 collocate 1
 chego
-coruscated
+coruscated 1
 caretakes
 chegoes
 chegre
