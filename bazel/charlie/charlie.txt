@@ -12179,7 +12179,7 @@ conjuncted
 cottidae
 choregrapher
 chrismal
-chrismation
+chrismation 1
 chrismatite
 chrismatize
 cryptobatholithic
