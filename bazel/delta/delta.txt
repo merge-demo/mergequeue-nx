@@ -7484,7 +7484,7 @@ discoverably
 demobbing 1
 detur
 deturpate
-decomposability
+decomposability 1
 demurity
 dopster
 downtowner
