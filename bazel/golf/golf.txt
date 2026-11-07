@@ -10508,7 +10508,7 @@ gonocytes
 genuineness 1
 grecized
 goggles
-giftling
+giftling 1
 greenbacks
 gyrational
 gimmicks
