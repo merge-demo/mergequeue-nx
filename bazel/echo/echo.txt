@@ -4824,7 +4824,7 @@ enduro
 epidosite
 eccoproticophoric
 escape
-erugate
+erugate 1
 estrogenicity
 embrangle 1
 encomiastically
