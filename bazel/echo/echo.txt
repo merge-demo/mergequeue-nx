@@ -7977,7 +7977,7 @@ esthesias
 expunger
 enflesh
 eteocreton
-embower
+embower 1
 expander
 epinaos
 eirack
