@@ -8059,7 +8059,7 @@ antidotical
 archcity
 aefaldness
 authentical
-assailable
+assailable 1
 appropriators
 aeciotelium
 artarine
