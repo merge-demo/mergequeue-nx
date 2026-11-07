@@ -7058,7 +7058,7 @@ centennials
 caribes
 caisson
 chisedec
-centerable
+centerable 1
 cutup
 chumpivilca
 centerboard
