@@ -6274,7 +6274,7 @@ gynandrarchic
 galoch
 gospelly 1
 gainable
-gobble
+gobble 1
 gowpen
 gierfalcon
 gobbled
