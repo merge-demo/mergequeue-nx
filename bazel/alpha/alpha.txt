@@ -98,7 +98,7 @@ abandonment
 accelerator
 antipriestcraft
 abaptiston
-acknow
+acknow 1
 annominate 1
 auditories
 abarticulation
