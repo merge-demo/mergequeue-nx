@@ -2797,7 +2797,7 @@ antireactionary
 acroleins
 acrolithan
 acheirous
-apachette
+apachette 1
 awork
 antiferromagnetic
 austronesian
