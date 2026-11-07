@@ -6326,7 +6326,7 @@ gruneritization
 grubstaker
 goblins
 goldenpert 1
-gallivanters
+gallivanters 1
 gebang
 gobo
 gaybine
