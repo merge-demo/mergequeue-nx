@@ -18126,7 +18126,7 @@ depoliticizing
 duppa
 diaphonical
 domatophobia
-dumose
+dumose 1
 dermoskeletal
 decamp
 diorthoses
