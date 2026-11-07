@@ -25210,7 +25210,7 @@ corynebacteria
 coreless
 coryneform
 corineus
-candelabrums
+candelabrums 1
 caucussed
 corynid
 corynine
