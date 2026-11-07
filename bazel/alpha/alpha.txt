@@ -11912,7 +11912,7 @@ anankastic
 aqueomercurial
 allergen
 ananta
-astraea
+astraea 1
 antimasquerade
 anticriticalness
 altarist
