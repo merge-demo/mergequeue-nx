@@ -13287,7 +13287,7 @@ baltei
 bobbery
 backlet
 buckling
-botanica
+botanica 1
 bandoleered
 bacteriologically 1
 bradykinesis
