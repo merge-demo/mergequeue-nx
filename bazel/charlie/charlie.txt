@@ -25070,7 +25070,7 @@ cubicity
 cleptobiosis
 counterbalancing
 coregnant 1
-coregonid
+coregonid 1
 coregonoid
 chlorinate
 coreidae
