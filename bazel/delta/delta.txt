@@ -10442,7 +10442,7 @@ disglorify
 disinterring
 diphenyls
 dispowder
-doglegging
+doglegging 1
 disfigurative
 deticking
 diphenoxylate
