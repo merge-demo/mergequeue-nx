@@ -6231,7 +6231,7 @@ gamopetalae
 gp 1
 galactophagist
 glucosamine 1
-goaty
+goaty 1
 glissade
 gonfalons 1
 gastroenteroanastomosis
