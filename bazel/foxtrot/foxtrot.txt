@@ -1257,7 +1257,7 @@ filmdom
 frostier
 fasti 1
 filariform 1
-foreordinated
+foreordinated 1
 fermentative
 flutteringly
 farseeing
