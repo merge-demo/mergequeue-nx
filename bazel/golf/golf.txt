@@ -1884,7 +1884,7 @@ growlery
 guffaw
 gilgai
 goofy
-geodic
+geodic 1
 galacturia
 gardenwise
 grabber
