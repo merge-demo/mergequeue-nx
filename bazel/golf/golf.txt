@@ -452,7 +452,7 @@ gloating 1
 graphologic
 gaping
 galeid
-genny
+genny 1
 gyms
 gemmation
 gerontogeous
