@@ -13210,7 +13210,7 @@ expressivity
 eastertide 1
 encephala
 echinite
-empyreal
+empyreal 1
 expressibility
 expiringly
 empressement
