@@ -1502,7 +1502,7 @@ estivate
 eclegme
 effusively
 entasias
-effuviate
+effuviate 1
 efl
 efoliose 1
 efph
