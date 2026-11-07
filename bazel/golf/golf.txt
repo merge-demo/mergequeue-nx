@@ -7003,7 +7003,7 @@ grimmest
 greengrocers
 grumpiest
 gyrovague 1
-griefless
+griefless 1
 guldengroschen
 geir
 glossopode
