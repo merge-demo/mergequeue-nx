@@ -13042,7 +13042,7 @@ dispassion
 dispended
 dunfish
 dissipative
-dopes
+dopes 1
 dipeptide
 dekastere
 desilverizing 1
