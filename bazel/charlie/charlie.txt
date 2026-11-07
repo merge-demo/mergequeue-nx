@@ -14808,7 +14808,7 @@ chiromegaly
 cornsack
 cytogenic
 cahill
-cytoglobin 1
+cytoglobin 2
 corselette
 concitizen
 cytoid
