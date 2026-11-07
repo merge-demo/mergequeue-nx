@@ -3509,7 +3509,7 @@ cheloniid
 capsuliform
 coverup
 capsuling
-clamer
+clamer 1
 capsulitis
 capsulizing
 cabman
