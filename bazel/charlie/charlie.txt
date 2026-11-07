@@ -1926,7 +1926,7 @@ camelish
 cardigans
 camellia
 characteries
-camellike
+camellike 1
 cornwallises
 camellin
 caser
