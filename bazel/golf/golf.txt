@@ -8435,7 +8435,7 @@ gratis
 gunflint
 grad
 gladiolas
-gales
+gales 1
 grocerdom
 gawsie
 gandul
