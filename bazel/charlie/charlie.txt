@@ -1227,7 +1227,7 @@ calef 1
 calefacient
 craunched
 caudad
-calefactive
+calefactive 1
 coterell
 crzette
 coattails
