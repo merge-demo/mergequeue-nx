@@ -14784,7 +14784,7 @@ dantophily 1
 diocesian
 dockets
 dyphone
-dockhand
+dockhand 1
 dockhouse
 dilambdodont
 deringers
