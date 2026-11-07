@@ -14150,7 +14150,7 @@ agglutinogenic
 assonanced
 anarthrous
 achlamydate
-assonantly
+assonantly 1
 acinetarian
 aphtha
 artocarpaceae
