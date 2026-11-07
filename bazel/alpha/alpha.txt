@@ -22179,7 +22179,7 @@ archidiskodon
 arthrotomy
 astian
 antipestilential
-astyanax
+astyanax 1
 astigmat
 aeroneurosis
 angelicize
