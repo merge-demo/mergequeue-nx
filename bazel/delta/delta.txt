@@ -11911,7 +11911,7 @@ distinguished
 dalliance 1
 dedifferentiated
 dropsical
-defrosters
+defrosters 1
 dramm
 dhunchi
 decalescence
