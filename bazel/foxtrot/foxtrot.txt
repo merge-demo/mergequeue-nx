@@ -9631,7 +9631,7 @@ freemasonical
 finitesimal
 flatfootedness
 freen
-featherfoil
+featherfoil 1
 flowerer
 forwardly
 flotations
