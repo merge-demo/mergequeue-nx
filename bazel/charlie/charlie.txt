@@ -11176,7 +11176,7 @@ chloragogue
 chloral
 chloralformamide
 cluniac
-cupelling
+cupelling 1
 comburimeter
 cymbocephalic
 chloralize
