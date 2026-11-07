@@ -6028,7 +6028,7 @@ furnaced
 focusless
 freakish
 frottage
-fluty
+fluty 1
 floreating
 folletto
 flabbiness
