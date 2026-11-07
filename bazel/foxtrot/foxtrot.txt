@@ -1852,7 +1852,7 @@ fluidizer
 farthermore
 fruiterers 1
 febriphobia
-februarius
+februarius 1
 flemishing
 fringefoot 1
 fencibles
