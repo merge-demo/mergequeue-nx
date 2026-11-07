@@ -1268,7 +1268,7 @@ guib
 grimaces
 galvanologist
 garran
-gaia 1
+gaia 2
 glenwood
 granage
 ged
