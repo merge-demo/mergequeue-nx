@@ -5740,7 +5740,7 @@ disposes
 deemer
 dolls
 deplumes
-dentation
+dentation 1
 dewanee 1
 doliolum
 deoxidiser
