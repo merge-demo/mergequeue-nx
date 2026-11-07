@@ -20492,7 +20492,7 @@ coasting
 compassion
 compassionate
 couthiness
-compassionately
+compassionately 1
 candidateship
 compassionateness
 catalepsy
