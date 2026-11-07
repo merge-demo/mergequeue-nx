@@ -4923,7 +4923,7 @@ extrabureau
 english
 erythroneocytosis
 evolves 1
-ephyrula
+ephyrula 1
 eyednesses
 enterocoelic
 electrodialysis
