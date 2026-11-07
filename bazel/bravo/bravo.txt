@@ -15563,7 +15563,7 @@ bewilder
 bouget
 biliprasin
 bromlite 1
-bescent
+bescent 1
 beast
 bussy
 barbule
