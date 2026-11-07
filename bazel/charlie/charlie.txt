@@ -2057,7 +2057,7 @@ camoudie
 coburgess
 camouflage
 camouflageable
-camouflager
+camouflager 1
 contradictorily
 camouflagers
 camouflagic
