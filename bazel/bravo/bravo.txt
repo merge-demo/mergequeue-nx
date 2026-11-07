@@ -9637,7 +9637,7 @@ braize
 bulleting 1
 bisimine
 breaches
-bullish
+bullish 1
 bisymmetry
 brandyman
 bushily
