@@ -4415,7 +4415,7 @@ feinschmeckers
 fishes 1
 filibranchiate 1
 fascistic
-fiancees
+fiancees 1
 feirie 1
 franchise
 fowlpox
