@@ -6054,7 +6054,7 @@ cativo
 cheapo
 catkin
 catkinate
-catkins
+catkins 1
 curatory
 candify
 catlike
