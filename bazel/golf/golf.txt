@@ -590,7 +590,7 @@ garron
 greaseball 1
 garthman
 gallinaceae
-gallinacean
+gallinacean 1
 galesaurus
 guillotinism
 giftware
