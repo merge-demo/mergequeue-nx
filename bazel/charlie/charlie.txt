@@ -30324,7 +30324,7 @@ comm
 crunodes
 clifflet
 countervairy
-chantors
+chantors 1
 confrater
 consonantizing
 constructions
