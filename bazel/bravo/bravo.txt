@@ -1701,7 +1701,7 @@ bryan
 ballyhoos 1
 buskers
 brokerage
-botan
+botan 1
 borealis
 brachypyramid
 broon
