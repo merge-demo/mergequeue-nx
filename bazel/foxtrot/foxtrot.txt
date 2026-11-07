@@ -10567,7 +10567,7 @@ feracities
 florins
 founds 1
 fertilizations
-fatidical 1
+fatidical 2
 falcade
 fructificative
 fussock
