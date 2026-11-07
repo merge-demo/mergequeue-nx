@@ -31255,7 +31255,7 @@ casaba
 coenospecific
 curarines
 crossbanded
-curaris
+curaris 1
 curarization
 chattily
 crocoites
