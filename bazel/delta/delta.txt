@@ -3057,7 +3057,7 @@ deucedly
 dowress
 decarbonized
 desegregation
-deers
+deers 1
 deerstalkers
 detailist
 deerstalking
