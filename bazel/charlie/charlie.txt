@@ -25864,7 +25864,7 @@ connarus
 corsages
 corsairs
 chalcid
-corsak
+corsak 1
 crippled
 corse
 chemoautotrophically
