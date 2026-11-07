@@ -21956,7 +21956,7 @@ coppa
 confidingly
 cessation
 canorousness
-confidingness
+confidingness 1
 configural
 canteens
 coinsurable
