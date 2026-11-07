@@ -12867,7 +12867,7 @@ argenol
 apostil
 archencephalic
 anglehook
-aphthitalite
+aphthitalite 1
 anglepod
 anglepods
 amianthine
