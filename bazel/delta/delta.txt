@@ -6191,7 +6191,7 @@ dimerizes 1
 derisively
 derisiveness
 dejeuners
-deferable
+deferable 1
 derival
 derivant
 dendrogaea
