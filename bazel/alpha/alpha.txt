@@ -5240,7 +5240,7 @@ affidare
 affidation
 altropathy
 antihemorrhagic
-allegorists
+allegorists 1
 almond
 affidavy
 acosmic
