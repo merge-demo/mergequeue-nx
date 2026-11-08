@@ -9321,7 +9321,7 @@ granulative
 glycerole
 guessing
 goldenback
-giggles 1
+giggles 2
 gamesome
 gauffre
 gallipot
