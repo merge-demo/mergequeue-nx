@@ -25557,7 +25557,7 @@ coperception 1
 coroplasta
 coroplastae
 cauf
-coroplastic
+coroplastic 1
 camelias
 corotate
 corotates
