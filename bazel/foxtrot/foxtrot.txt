@@ -10009,7 +10009,7 @@ flee
 flatwork
 fantod
 flavoury
-flor
+flor 1
 fryer
 foollike
 flans
