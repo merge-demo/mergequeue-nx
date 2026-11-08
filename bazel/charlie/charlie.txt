@@ -1930,7 +1930,7 @@ camellike
 cornwallises
 camellin
 caser
-cameloidea
+cameloidea 1
 camelopardalis
 consubstantiation
 carcinus
