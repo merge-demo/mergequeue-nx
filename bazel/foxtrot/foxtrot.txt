@@ -10575,7 +10575,7 @@ formagen
 fattish 2
 froggier
 fluorimetry 1
-fustier
+fustier 1
 fragmental
 forks
 furfurals
