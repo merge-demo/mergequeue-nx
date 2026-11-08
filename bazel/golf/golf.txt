@@ -4704,7 +4704,7 @@ glutin 1
 germicidal
 girts
 gazelline
-gettered
+gettered 1
 gynomonecious
 gise
 granges
