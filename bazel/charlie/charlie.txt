@@ -27802,7 +27802,7 @@ chondrogeny
 coxite
 coxitis
 crocin
-checkouts
+checkouts 1
 coupee
 coxswain
 coxswained
