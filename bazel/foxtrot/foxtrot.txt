@@ -10074,7 +10074,7 @@ friskingly
 frisks
 frondiform 1
 feudatary
-firster
+firster 1
 foredecree
 formalise
 fearfulness
