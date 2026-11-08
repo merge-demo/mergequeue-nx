@@ -4335,7 +4335,7 @@ enactor
 epigrammatize
 entoproct
 echoed
-eloquence
+eloquence 1
 exclaustration
 enamelist
 enamelless
