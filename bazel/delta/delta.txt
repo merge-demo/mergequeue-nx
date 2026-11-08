@@ -9065,7 +9065,7 @@ deafest
 dictyogen
 diction
 disparage
-defang
+defang 1
 diss
 dermatophobia
 defigure
