@@ -6413,7 +6413,7 @@ exes
 equilocation
 enanguish
 espaliered
-expugn
+expugn 1
 ethinyls
 ensiled
 embezzler
