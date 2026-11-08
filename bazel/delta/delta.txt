@@ -11447,7 +11447,7 @@ drungar
 devaluations
 deadeye
 duodenogram
-dehaites
+dehaites 1
 degumming
 draconis
 distorted
