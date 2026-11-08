@@ -6407,7 +6407,7 @@ gingivalgia
 glommed
 gastroduodenoscopy 1
 gemmules
-gematria
+gematria 1
 gymnoblastea
 gymnodiniidae
 gongorist
