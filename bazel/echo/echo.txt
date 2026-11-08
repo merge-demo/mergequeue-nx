@@ -12962,7 +12962,7 @@ expectation
 emictory
 exodoi
 exclusion
-equipartile
+equipartile 1
 epicyclical
 excommunicated
 expected
