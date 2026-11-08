@@ -10643,7 +10643,7 @@ eques
 enchilada
 eudemonistic
 eudemonics
-equivalencies
+equivalencies 1
 epinephrine
 empurpling
 excamber
