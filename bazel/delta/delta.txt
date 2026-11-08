@@ -10574,7 +10574,7 @@ disequilibrium
 disslander
 duteously
 discoblastula
-deafens
+deafens 1
 diploe
 disbalancement
 didrachmas

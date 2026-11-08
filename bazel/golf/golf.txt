@@ -5211,7 +5211,7 @@ galore
 gemara
 gentianose
 gieseckite
-geogenesis 1
+geogenesis 2
 grottesco
 grimful
 geometricism
