@@ -1065,7 +1065,7 @@ farolito
 flustration
 fiberboard
 ferriages
-frontons
+frontons 1
 farrage
 ferroelectricity
 furziest
