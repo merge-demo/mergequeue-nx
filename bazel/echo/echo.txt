@@ -11764,7 +11764,7 @@ engoue
 excarnation
 erysipelous
 epanadiplosis 1
-elusory
+elusory 1
 excavating
 escheatorship
 entwisted
