@@ -11679,7 +11679,7 @@ discountenances
 distastes
 dendrolite
 denize
-disulfoton
+disulfoton 1
 daffodowndillies
 discounters
 dirks
