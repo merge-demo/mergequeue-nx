@@ -19592,7 +19592,7 @@ columnate
 centimolar
 cupseed 1
 columnates
-columnation
+columnation 1
 crinkleroot
 crystaled
 columner
