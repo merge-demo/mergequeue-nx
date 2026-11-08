@@ -3727,7 +3727,7 @@ adequate
 acclivity
 almuerzo
 appenage
-annum
+annum 1
 adespoton
 analemmatic
 adessenarian
