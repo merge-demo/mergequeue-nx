@@ -6678,7 +6678,7 @@ danders
 deregulates
 deserving 1
 diabetics
-diorite
+diorite 1
 despisedness
 droiturel
 diversly
