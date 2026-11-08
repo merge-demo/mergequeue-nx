@@ -21191,7 +21191,7 @@ concentricate 1
 crouching
 conceptualizer
 concents
-concentual
+concentual 1
 conceptacle
 conceptible
 cohanims
