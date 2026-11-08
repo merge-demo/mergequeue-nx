@@ -3687,7 +3687,7 @@ arrant
 assurge
 adenosine
 abepithymia
-adenotyphus
+adenotyphus 1
 angulateness
 antislickens
 alphabetist
