@@ -1368,7 +1368,7 @@ dorter
 dreyfusism
 demobilised
 dobule
-dauties
+dauties 1
 dauting
 delta
 diminishableness
