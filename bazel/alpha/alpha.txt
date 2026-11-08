@@ -7474,7 +7474,7 @@ albricias
 arable
 achromic
 agelong
-agma
+agma 1
 anchoress
 albuginea
 archivist
