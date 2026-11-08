@@ -12545,7 +12545,7 @@ enzymology
 exculpative
 extoolitic
 enactable
-esonarthex
+esonarthex 1
 enameler
 electrofusion
 extant
