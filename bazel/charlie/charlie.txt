@@ -6305,7 +6305,7 @@ caunch
 caunos
 caunter
 cooperator
-chucks
+chucks 1
 caup
 colletidae
 caupo
