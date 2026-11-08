@@ -6990,7 +6990,7 @@ apedom
 antineutrally
 accipitral
 arsenite
-apochromat
+apochromat 1
 ayuntamiento
 assentatious
 assaulters
