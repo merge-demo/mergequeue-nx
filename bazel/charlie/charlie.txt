@@ -21889,7 +21889,7 @@ cornerbind
 camalig
 conferrers
 cohorn
-counterstain
+counterstain 1
 crotchet
 chiasm
 conferruminate
