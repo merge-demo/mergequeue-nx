@@ -10349,7 +10349,7 @@ elephantine
 enquired
 explain
 etwite
-electrometallurgical
+electrometallurgical 1
 ethnolinguist
 estensible
 erysibe 1
