@@ -12488,7 +12488,7 @@ exanthem
 eyestones
 educatory
 enneadic
-electrifying
+electrifying 1
 electroosmosis
 enomania
 escarbuncle
