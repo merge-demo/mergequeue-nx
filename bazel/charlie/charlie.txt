@@ -22565,7 +22565,7 @@ cryptanalysis
 connaturalize
 chg
 cosech
-connaturalness 1
+connaturalness 2
 connature
 calumniatory
 connaught
