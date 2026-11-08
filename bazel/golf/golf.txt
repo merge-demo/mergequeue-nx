@@ -7333,7 +7333,7 @@ guildhall
 gosports
 grainless
 gossamered
-galega 1
+galega 2
 gossamers
 galloglass
 geochronometric
