@@ -14141,7 +14141,7 @@ brachytypous
 barbra
 belemnitidae
 brachium
-brattiness
+brattiness 1
 buriable
 brachyuran
 bollox
