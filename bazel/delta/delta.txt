@@ -4791,7 +4791,7 @@ dodecatylic
 deair
 disseizor 1
 deanimalize
-diemaker
+diemaker 1
 dentalizing
 disenslave
 demography
