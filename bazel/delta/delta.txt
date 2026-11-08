@@ -9189,7 +9189,7 @@ denazification
 demilance
 devilman
 ditriglyph
-dieb 1
+dieb 2
 dusterman
 delaine
 diebacks 1
