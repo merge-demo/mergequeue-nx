@@ -1041,7 +1041,7 @@ calbroben
 calcaire
 calcanea
 chimpanzee
-calcanean
+calcanean 1
 calcaneoastragaloid
 calcaneoplantar
 countersale
