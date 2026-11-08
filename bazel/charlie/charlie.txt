@@ -6081,7 +6081,7 @@ catnaps
 catnep
 chilotomy
 catnip 1
-comical
+comical 1
 coroado
 catoblepas
 catocarthartic
