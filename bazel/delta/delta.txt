@@ -6407,7 +6407,7 @@ distenant
 desmology
 dillisk
 derotremata
-denization
+denization 1
 dewans 1
 doggones
 diglyphic
