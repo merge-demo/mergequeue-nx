@@ -28561,7 +28561,7 @@ cellipetal
 continuances
 cavallies
 crustaceans
-curliness
+curliness 1
 coelelminthic
 credulity
 cardiosclerosis
