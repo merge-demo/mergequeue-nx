@@ -24512,7 +24512,7 @@ copassionate
 countermotion
 clampdown
 cerographist
-coradical
+coradical 1
 copastor
 copastors
 candlebox
