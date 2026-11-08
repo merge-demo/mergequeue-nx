@@ -8309,7 +8309,7 @@ chalinitis
 chalkboard
 chalked
 chalky
-chalkiest
+chalkiest 1
 commissions
 cateresses
 concussation
