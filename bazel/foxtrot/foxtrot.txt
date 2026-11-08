@@ -224,7 +224,7 @@ flatway
 facular 1
 fruitworm
 feverroot
-fluorotype
+fluorotype 1
 faculous 1
 firelock
 filibranch
