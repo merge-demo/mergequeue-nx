@@ -10866,7 +10866,7 @@ dominicans
 dipppiest
 drogherman
 disyoke
-deindustrialize 1
+deindustrialize 2
 daekon
 disedge
 dirity
