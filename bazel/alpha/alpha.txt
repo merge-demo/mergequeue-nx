@@ -6488,7 +6488,7 @@ attenuating
 acquaintances
 aheight
 abashedly
-ampullar
+ampullar 1
 apehood
 anzanian
 antecardium
