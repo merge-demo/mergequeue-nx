@@ -14592,7 +14592,7 @@ denotive 1
 demiurgically
 disastrousness
 dysfunction
-damourite
+damourite 1
 divorcible
 diminue
 dropheads
