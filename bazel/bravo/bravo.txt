@@ -4472,7 +4472,7 @@ bursicle
 blenniidae
 bucklers 1
 bustling
-becry
+becry 1
 becrime
 buckthorn
 blockaded
