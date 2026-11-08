@@ -31345,7 +31345,7 @@ curfew
 curfewed
 clerete
 curfews
-concordats
+concordats 1
 curfs
 colophany
 cury
