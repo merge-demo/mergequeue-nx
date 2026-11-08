@@ -9057,7 +9057,7 @@ antemarital
 animant
 ancylostome
 allowableness 1
-alkalises
+alkalises 1
 ammonoid
 allowed
 attorned
