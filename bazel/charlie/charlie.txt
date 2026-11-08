@@ -2659,7 +2659,7 @@ cangler
 cangue
 chonolith
 cangues
-canichanan
+canichanan 1
 canicola
 canicula
 completest
