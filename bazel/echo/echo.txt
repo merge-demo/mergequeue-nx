@@ -13442,7 +13442,7 @@ endocranial
 euprepia
 embolomerous 1
 echinosphaeritidae
-expropriable
+expropriable 1
 endome
 expropriate
 egalitarian
