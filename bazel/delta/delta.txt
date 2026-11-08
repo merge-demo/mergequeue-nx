@@ -16562,7 +16562,7 @@ delomorphous
 dodecarchy
 dishallow 1
 doctorly
-descensories
+descensories 1
 draggletailed
 deuteromycetes
 defensed
