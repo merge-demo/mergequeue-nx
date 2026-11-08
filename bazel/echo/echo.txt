@@ -2975,7 +2975,7 @@ europiums
 epistoler
 ekronite
 entomology
-elidible
+elidible 1
 etagere
 epistasy 1
 eligibles
