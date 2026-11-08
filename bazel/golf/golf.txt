@@ -2329,7 +2329,7 @@ gradates
 giornatate
 gadbee
 gavials
-guaiacols
+guaiacols 1
 goloe
 gibbartas
 galopin
