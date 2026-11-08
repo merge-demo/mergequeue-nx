@@ -27309,7 +27309,7 @@ couplings 1
 chelifer
 cremates
 cattiness
-coupon
+coupon 1
 cornbrash
 cowal
 concatenating
