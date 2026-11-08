@@ -2348,7 +2348,7 @@ drinkably
 disfavourable
 dustup 1
 dynode
-demeriting
+demeriting 1
 dummied 1
 dysodile
 decertation
