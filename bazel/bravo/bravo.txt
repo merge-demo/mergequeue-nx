@@ -3335,7 +3335,7 @@ basketware
 bluecoat
 basketwoman
 batocrinus
-beal
+beal 1
 bromargyrite
 basketwork
 beggiatoaceous
