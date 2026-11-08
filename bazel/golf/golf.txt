@@ -3935,7 +3935,7 @@ ghat
 geomorphy
 gnoff
 gladatorial
-graphicly
+graphicly 1
 gigatons
 gastroschisis
 genetical
