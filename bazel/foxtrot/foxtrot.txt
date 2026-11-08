@@ -6431,7 +6431,7 @@ fluorobenzene 1
 fructifies
 foreship
 frivoled
-frogeye
+frogeye 1
 fluoaluminate
 fainted
 frictionable
