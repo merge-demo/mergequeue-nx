@@ -11126,7 +11126,7 @@ fedellini
 feverbush
 fetometry
 fishtail 1
-farle
+farle 1
 footmarks 1
 furuncular
 flaggery 1
