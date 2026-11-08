@@ -15331,7 +15331,7 @@ domainal
 dourines
 dummel
 domains
-dativogerundial
+dativogerundial 1
 dissimilatory
 diploglossata
 decarboxylate
