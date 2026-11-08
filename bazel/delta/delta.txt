@@ -15947,7 +15947,7 @@ doters
 donable
 dotes 1
 dispreads
-disbudded
+disbudded 1
 decadist
 doth
 disorganize
