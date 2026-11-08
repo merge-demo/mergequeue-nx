@@ -6259,7 +6259,7 @@ cauldrons
 cottar
 caulds
 camize
-caulescent
+caulescent 1
 caulicle
 caulicole
 castrated
