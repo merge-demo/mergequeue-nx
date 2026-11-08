@@ -2380,7 +2380,7 @@ aminovaleric
 aiseweed
 aldopentose
 acinary
-autolyze
+autolyze 1
 abridgedly
 autocondensation
 acinetic
