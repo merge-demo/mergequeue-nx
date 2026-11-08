@@ -18350,7 +18350,7 @@ depurge
 degelation
 dyestuff
 diallelon
-duodene
+duodene 1
 duodenitis
 denominationalism
 dismantled
