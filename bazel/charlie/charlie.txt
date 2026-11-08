@@ -16280,7 +16280,7 @@ clinting
 catheters
 categorist
 clintonia
-clintonite
+clintonite 1
 cashing
 circumagitation
 cathodegraph
