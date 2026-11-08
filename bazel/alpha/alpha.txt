@@ -18727,7 +18727,7 @@ agenesia
 archdetective
 amputee
 alkalisation
-apurpose
+apurpose 1
 ammonobasic
 anubin
 archdiplomatist
