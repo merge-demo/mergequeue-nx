@@ -5765,7 +5765,7 @@ deliberating 1
 debater
 duree
 disjoint
-descriptor
+descriptor 1
 decasualizing
 depolymerize
 deadpay
