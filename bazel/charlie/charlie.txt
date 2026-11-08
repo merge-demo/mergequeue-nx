@@ -464,7 +464,7 @@ cacumination
 coleopterous 1
 cacuminous
 cacur
-cad
+cad 1
 cadamba
 cryptocrystalline
 cadaster
