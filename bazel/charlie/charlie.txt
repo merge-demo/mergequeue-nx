@@ -5295,7 +5295,7 @@ corymbed
 cassinian
 cyathophylline
 conimene
-cassinos
+cassinos 1
 cassioberry
 catamenia
 cassiope
