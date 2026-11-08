@@ -8071,7 +8071,7 @@ ectodermal
 exteriorly
 ego
 ektodynamorphic
-endamebic
+endamebic 1
 earthworks
 epineural
 euphrasy
