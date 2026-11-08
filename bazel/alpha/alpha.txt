@@ -2226,7 +2226,7 @@ achromatophilia
 achromatopia
 achromatopsy
 apologizes
-achromatopsia
+achromatopsia 1
 australia
 adcraft
 achromatosis
