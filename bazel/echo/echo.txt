@@ -3461,7 +3461,7 @@ enate
 epees
 elaeothesium
 enginemen
-excusative
+excusative 1
 epistemologist
 evinces
 eductive
