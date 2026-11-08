@@ -14881,7 +14881,7 @@ breakers
 breakfast
 buffetings
 bastard
-breakfronts
+breakfronts 1
 butlerage
 breaking
 busera 1
