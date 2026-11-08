@@ -8763,7 +8763,7 @@ cerinthe
 catesbeiana
 cirsium
 chapes
-clinicians
+clinicians 1
 chapiter
 chloranaemia
 chapitral
