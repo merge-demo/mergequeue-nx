@@ -4818,7 +4818,7 @@ fancifulness
 flinching
 floatiest
 fullwords
-faena
+faena 1
 fellowshipping
 falsen
 forties
