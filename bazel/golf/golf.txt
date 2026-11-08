@@ -1168,7 +1168,7 @@ gaol
 gulls
 grinners
 galliney
-grogs 1
+grogs 2
 graftdom
 grift
 groatsworth
