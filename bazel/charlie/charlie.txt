@@ -8928,7 +8928,7 @@ cryptologic
 closterium
 chards
 coralliferous
-chared
+chared 1
 charely
 consultation
 crinivorous
