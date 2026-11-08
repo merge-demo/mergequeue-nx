@@ -8703,7 +8703,7 @@ backlashed
 brule
 barhopping
 bimetals
-bolsters 1
+bolsters 2
 bullishness
 babyfied
 brauneria
