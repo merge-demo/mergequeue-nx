@@ -2226,7 +2226,7 @@ gymnosperms
 galas
 gaster
 gastrocatarrhal
-goodbyes
+goodbyes 1
 ganefs
 gnomonology
 generosities
