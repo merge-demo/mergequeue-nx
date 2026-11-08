@@ -1202,7 +1202,7 @@ genesiacal
 griot
 gradations
 globular
-guestive 1
+guestive 2
 guttate
 garfishes
 grappler
