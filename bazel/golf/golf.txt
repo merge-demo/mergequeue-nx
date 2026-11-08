@@ -4043,7 +4043,7 @@ giliak
 gunating
 garter
 glochidium
-galabiya
+galabiya 1
 georgium
 gesan
 galantuomo
