@@ -17416,7 +17416,7 @@ coazervation
 coeloblastic
 cryophilic
 cupbearer
-cobaea
+cobaea 1
 corbeil
 cotters
 cobalamin
