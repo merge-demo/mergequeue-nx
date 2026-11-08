@@ -10581,7 +10581,7 @@ epiclidal
 esprits
 elpidite
 euphroes
-enteria
+enteria 1
 escallops
 eocarboniferous
 elixation
