@@ -7608,7 +7608,7 @@ exterminate
 eikonology
 enfeoffs
 essling
-effoliate
+effoliate 1
 ersar
 endamoebic
 edelweiss

@@ -11045,7 +11045,7 @@ fumuli
 fungated
 fere
 fascias
-funambulator
+funambulator 1
 feels
 faunological
 flinty

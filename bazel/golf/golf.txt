@@ -3633,7 +3633,7 @@ garaged 1
 gladen
 guanylic
 granilla 1
-glottalize
+glottalize 1
 gigantal
 gld
 grouching
