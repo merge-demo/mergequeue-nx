@@ -6514,7 +6514,7 @@ dynamited
 demonist
 doxological 1
 descends
-deviability
+deviability 1
 dialectic
 dircaean
 dynel
