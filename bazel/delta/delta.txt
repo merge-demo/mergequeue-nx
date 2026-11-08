@@ -11918,7 +11918,7 @@ decalescence
 discuses
 disease
 dentalisation
-defectively
+defectively 1
 deductile
 diseased
 deifying
