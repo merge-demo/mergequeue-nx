@@ -3592,7 +3592,7 @@ dermatocoptes
 drywall
 dawny
 depending
-disguise
+disguise 1
 desilverize
 debunker
 degass
