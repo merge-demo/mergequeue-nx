@@ -7801,7 +7801,7 @@ desensitizing
 duopod
 dishelmed
 discographies 1
-devolves
+devolves 1
 dactyloid
 decile
 daylighted
