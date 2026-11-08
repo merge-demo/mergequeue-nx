@@ -12640,7 +12640,7 @@ birdied
 babacoote
 boobily
 boobish
-boosterism
+boosterism 1
 branchiura
 boobs
 beguin
