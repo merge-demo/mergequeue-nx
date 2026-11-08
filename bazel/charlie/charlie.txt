@@ -14996,7 +14996,7 @@ carbonado
 civet
 coadjutrice
 carcasing
-curiomaniac
+curiomaniac 1
 converses
 citropten
 cydippian
