@@ -4015,7 +4015,7 @@ curtesy
 carcinomata
 corroborees
 cutcheries
-cannaled
+cannaled 1
 countertierce
 choosingly
 carcinomatoid
