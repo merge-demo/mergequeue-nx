@@ -6161,7 +6161,7 @@ deregulatory
 dowsabels
 destructivism
 dereistic 1
-derelicts
+derelicts 1
 demast
 droshkies
 dolours
