@@ -1021,7 +1021,7 @@ colourtype
 cohoba
 calascione
 cydonia
-calastic
+calastic 1
 calathea
 calathi
 calathidia
