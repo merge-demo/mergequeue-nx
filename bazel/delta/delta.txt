@@ -1586,7 +1586,7 @@ duplicia 1
 direfulness
 disenthralled
 deadness 1
-dairyman
+dairyman 1
 deadpanned
 deadpans
 depayse
