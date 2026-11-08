@@ -16717,7 +16717,7 @@ clotting
 characterful
 cloture
 clotured
-clotures
+clotures 1
 confixed
 coachee
 cloturing
