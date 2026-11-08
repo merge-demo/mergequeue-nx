@@ -9442,7 +9442,7 @@ autocinesis
 alterable
 acatery
 alterably
-anchylose
+anchylose 1
 archaeocyte
 abetter
 anythingarian
