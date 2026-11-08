@@ -5649,7 +5649,7 @@ cosmetology
 cataphracted
 cataphractic
 cataphrenia
-crook
+crook 1
 cataphrenic
 choraleon
 cataphrygian
