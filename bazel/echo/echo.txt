@@ -12732,7 +12732,7 @@ epha
 extol
 espressivo
 englishman
-exorable
+exorable 1
 exactingness
 etiolin
 eradication
