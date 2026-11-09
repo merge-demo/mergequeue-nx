@@ -13811,7 +13811,7 @@ dramatis
 dogvane
 decapod
 diamondizing
-digram
+digram 1
 dindle
 distain 1
 distaining 1
