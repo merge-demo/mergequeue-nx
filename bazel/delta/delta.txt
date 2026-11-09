@@ -11356,7 +11356,7 @@ dispirited
 dilacerating
 deodands
 dowhacky
-devoter
+devoter 1
 dilatometric
 dehydrogenise
 decorement
