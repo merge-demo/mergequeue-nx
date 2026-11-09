@@ -951,7 +951,7 @@ cycloidei
 canelle
 calabrian
 calabrians
-calabur
+calabur 1
 changedness
 canalling
 clipper
