@@ -15681,7 +15681,7 @@ clavelization 1
 clavelize
 clavellated
 cothurnian
-controllingly
+controllingly 1
 clavered
 clavi
 cerithioid
