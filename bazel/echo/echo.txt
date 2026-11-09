@@ -2365,7 +2365,7 @@ evenlong
 electrocataphoresis
 equison
 ephedrine
-electrochronometric
+electrochronometric 1
 enfroward
 estafetted
 entendres
