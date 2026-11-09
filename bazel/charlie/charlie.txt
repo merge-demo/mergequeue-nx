@@ -13183,7 +13183,7 @@ clavichordist 1
 cyclamen
 campshot
 cyclamens
-cyclamine
+cyclamine 1
 cyclane
 cataphonic
 clin
