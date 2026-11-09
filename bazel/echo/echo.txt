@@ -3038,7 +3038,7 @@ elytrotomy
 emeer
 eggfish
 epistolatory 1
-elixir
+elixir 1
 ecblastesis
 enraging
 exhortatory
