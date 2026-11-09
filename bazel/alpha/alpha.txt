@@ -10854,7 +10854,7 @@ ascendible
 atonic
 awkwardly
 antipepsin
-astonishing
+astonishing 1
 ammonification
 academicians
 autochthonousness
