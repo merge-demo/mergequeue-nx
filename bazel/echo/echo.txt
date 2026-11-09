@@ -2774,7 +2774,7 @@ extrusions
 exhilaratory
 evergreenite
 exchangeably
-equangular 1
+equangular 2
 explorations
 ebracteate
 eurithermophilic
