@@ -24593,7 +24593,7 @@ copyfitter
 comvia
 copyfitting
 copygraph
-choring
+choring 1
 contemporised
 cosmati
 chancily
