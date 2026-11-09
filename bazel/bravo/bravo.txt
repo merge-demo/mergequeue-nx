@@ -12159,7 +12159,7 @@ biclinium
 blaff 1
 beaumontia
 balneum
-beeps
+beeps 1
 blaine
 beclasped
 blarneyed
