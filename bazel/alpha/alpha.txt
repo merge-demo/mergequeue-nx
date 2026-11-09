@@ -16354,7 +16354,7 @@ aminopropionic
 acalepha
 antivibrating
 antivibrator
-antivibratory
+antivibratory 1
 antivitalist
 ammoniuria
 attacker
