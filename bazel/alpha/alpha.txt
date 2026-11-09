@@ -3090,7 +3090,7 @@ apocryphalist
 actinophrys
 aspics
 archimorphic 1
-actinopteran
+actinopteran 1
 ascidian
 autorail
 actinopteri
