@@ -4650,7 +4650,7 @@ demisecond
 demised
 depas
 didynamia
-diploglossate
+diploglossate 1
 delineable
 drysalter
 dislodging
