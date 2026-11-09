@@ -12987,7 +12987,7 @@ dinoceratidae
 disorganization
 dinning
 deconsecrating
-disorientate 1
+disorientate 2
 dottrel
 didric
 diastematomyelia
