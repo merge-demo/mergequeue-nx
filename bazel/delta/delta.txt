@@ -7496,7 +7496,7 @@ detested
 diachylum
 documenters
 dichapetalum
-devalue
+devalue 1
 deurwaarder 1
 dipsadinae
 doorwise
