@@ -14840,7 +14840,7 @@ discombobulation
 drafted
 duologs
 dynametric
-doctrinality
+doctrinality 1
 doorbells 1
 dharmashastra
 doctrinarity
