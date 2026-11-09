@@ -6789,7 +6789,7 @@ foredevised
 floridean
 fallaciousness
 foldaway
-feretory
+feretory 1
 ferryman
 farfal
 forethink
