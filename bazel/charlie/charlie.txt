@@ -13584,7 +13584,7 @@ cote
 cimbrian
 cotsetle
 conferted
-cimbric
+cimbric 1
 cyme
 cymelet
 cimelium
