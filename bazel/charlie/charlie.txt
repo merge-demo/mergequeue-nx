@@ -19495,7 +19495,7 @@ chiasmi
 colpitis
 carvers
 colpitises
-colpohyperplasia
+colpohyperplasia 1
 colpoperineoplasty
 colpoperineorrhaphy
 cantonment
