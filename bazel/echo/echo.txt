@@ -8338,7 +8338,7 @@ exercised
 emulating 1
 eagling
 epitheme
-evangelise
+evangelise 1
 enscrolls
 eternizing
 eland
