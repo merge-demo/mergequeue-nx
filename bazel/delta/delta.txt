@@ -12596,7 +12596,7 @@ disinterestedness
 disinterment
 depilous
 disheaven
-dimyary
+dimyary 1
 depersonize
 disinters
 deditician
