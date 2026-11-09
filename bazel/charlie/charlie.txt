@@ -10302,7 +10302,7 @@ chickasaw
 catechumenically
 chickees
 clupeiform
-chickell
+chickell 1
 chicken
 chainsmen
 chartographist
