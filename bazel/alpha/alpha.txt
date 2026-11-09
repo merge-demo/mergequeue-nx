@@ -1854,7 +1854,7 @@ airinesses 1
 acerous
 acertannin
 allseed
-awn
+awn 1
 antitabetic
 acerval
 aggressions
