@@ -735,7 +735,7 @@ gunner
 giantlikeness
 gollywog
 gonoplasm
-galvanoglyph
+galvanoglyph 1
 gerbillinae
 gar
 goniometric
