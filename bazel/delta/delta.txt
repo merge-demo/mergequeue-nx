@@ -15772,7 +15772,7 @@ datival
 dornock
 dornocks
 desanded
-diffugient
+diffugient 1
 demolishes
 dumka
 dorp
