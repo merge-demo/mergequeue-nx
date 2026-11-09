@@ -19299,7 +19299,7 @@ clinid
 consumingness
 colonisationist
 colonised
-colonising
+colonising 1
 colonist
 colonizable
 colonize 1
