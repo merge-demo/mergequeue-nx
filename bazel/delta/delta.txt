@@ -11835,7 +11835,7 @@ damascenine
 devonport
 detoxicate
 doylies
-discerningly
+discerningly 1
 disculpatory
 deashes
 deathwatch
