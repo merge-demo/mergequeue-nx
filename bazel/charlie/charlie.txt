@@ -15524,7 +15524,7 @@ cormlike
 clasmatocyte
 ccoya
 clasmatocytic
-clasmatosis
+clasmatosis 1
 cuitle
 clasped
 cinevariety
