@@ -1116,7 +1116,7 @@ calciner
 chomer
 clamworm
 columella
-calcinosis
+calcinosis 1
 contraprovectant
 calciobiotite
 calcioferrite
