@@ -26280,7 +26280,7 @@ cavallas
 costiveness
 changeableness
 calliper
-costlessness
+costlessness 1
 charivari
 csk
 ceston
