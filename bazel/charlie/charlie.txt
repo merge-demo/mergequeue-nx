@@ -27687,7 +27687,7 @@ chamaesyce
 clockers
 chincloth
 cowier
-copalms
+copalms 1
 cowiest 1
 carnage
 cowing
