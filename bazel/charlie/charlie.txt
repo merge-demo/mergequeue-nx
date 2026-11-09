@@ -31299,7 +31299,7 @@ curcas
 curch
 curculio
 curculionidae
-calvatia
+calvatia 1
 curculios
 cerebratulus
 concordly 1
