@@ -13005,7 +13005,7 @@ edictally
 expectorative
 eurycerous
 ephebos
-equipollently
+equipollently 1
 extubate
 exhaustingly
 expostulatory
