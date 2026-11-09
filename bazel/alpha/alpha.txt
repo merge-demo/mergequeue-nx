@@ -4063,7 +4063,7 @@ anestri
 admissive
 automan
 astrophotometrical
-amaracus
+amaracus 1
 acromion
 agamoid
 asarotum
