@@ -2658,7 +2658,7 @@ eiry
 entad
 exemplarity
 ethnocentrism
-electrosmosis
+electrosmosis 1
 excelling
 exegetist
 enquiries
