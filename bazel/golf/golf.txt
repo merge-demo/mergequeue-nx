@@ -6618,7 +6618,7 @@ glossary 1
 gangsterism
 glamourless
 grumphies
-glummy
+glummy 1
 garous
 granivorous
 glegnesses 1
