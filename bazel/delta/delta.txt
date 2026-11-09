@@ -7236,7 +7236,7 @@ dolorous
 damnified
 detectible
 detection
-diamantiferous
+diamantiferous 1
 deadlight
 disparatum
 daguilla
