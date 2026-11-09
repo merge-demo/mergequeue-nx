@@ -12884,7 +12884,7 @@ bacciform
 boorishness 1
 bulldog
 bertrandite
-blondes
+blondes 1
 beauticians
 boost
 bromizes
