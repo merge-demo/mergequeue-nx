@@ -6009,7 +6009,7 @@ collatress
 contratempo
 catholic
 courtesans
-cardinalated
+cardinalated 1
 cryptostomata
 catholicalness
 chalkography
