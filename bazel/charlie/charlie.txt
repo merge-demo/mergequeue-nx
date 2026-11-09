@@ -19632,7 +19632,7 @@ condoned
 colza
 coating
 colzas
-com
+com 1
 coma
 comprobate
 carillon
