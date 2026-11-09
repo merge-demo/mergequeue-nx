@@ -8158,7 +8158,7 @@ gallicization
 gauntly
 graftages
 gloomless
-gooey 1
+gooey 2
 granuloblastic
 granulocyte 1
 gerontal 1
