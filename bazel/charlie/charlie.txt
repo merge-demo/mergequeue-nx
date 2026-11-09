@@ -30583,7 +30583,7 @@ concarnation
 cuboid
 conopholis
 cuboidal
-cuneocuboid
+cuneocuboid 1
 caldera
 cellarette 1
 cuboides
