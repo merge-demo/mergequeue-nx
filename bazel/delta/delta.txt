@@ -7963,7 +7963,7 @@ dextroaural
 diacanthous
 dismes
 drupiferous
-dartos
+dartos 1
 dithyrambically
 durenol
 dextrocularity
