@@ -18987,7 +18987,7 @@ amoroso
 archknave
 ageless
 aponeurology
-allottable
+allottable 1
 aregenerative
 archlet
 absinthin

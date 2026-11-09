@@ -4990,7 +4990,7 @@ entropium
 expectable
 enravish
 embryotomy
-endellionite
+endellionite 1
 eucephalous
 emigates
 electrocorticogram
