@@ -11126,7 +11126,7 @@ discographic 1
 disassent
 darin
 disassimilative
-disinherits
+disinherits 1
 disassociate
 disassociates
 disasters
