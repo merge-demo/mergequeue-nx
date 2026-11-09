@@ -5099,7 +5099,7 @@ chacra
 chondrosamine
 cascadite
 cascalho
-cascalote
+cascalote 1
 calenturist
 coagulant
 compsognathus
