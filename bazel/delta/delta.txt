@@ -15320,7 +15320,7 @@ diagnostics
 design
 distilleries
 dismit 1
-demonolatry
+demonolatry 1
 deafforestation
 dolphus
 dryfat
