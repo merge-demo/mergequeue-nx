@@ -17678,7 +17678,7 @@ acetylbenzene
 applanation
 araneiformes
 applaudably
-ancyroid
+ancyroid 1
 allicin
 arbitrational
 applauders
