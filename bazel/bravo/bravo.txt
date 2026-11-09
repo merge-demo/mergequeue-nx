@@ -10688,7 +10688,7 @@ blellums
 blemished 1
 bogeys
 brandies
-blemmatrope
+blemmatrope 1
 brooches
 blandisher
 boutell
