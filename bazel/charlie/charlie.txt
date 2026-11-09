@@ -22252,7 +22252,7 @@ congesting
 congestion
 calk
 congestive
-conceitedly
+conceitedly 1
 conglaciate
 cornered
 circumlocutional
