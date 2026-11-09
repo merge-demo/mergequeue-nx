@@ -10528,7 +10528,7 @@ amidol 1
 aping
 atheling
 amidophenol
-authorisation
+authorisation 1
 annelides
 agua
 assimilator
