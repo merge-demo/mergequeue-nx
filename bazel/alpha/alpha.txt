@@ -14118,7 +14118,7 @@ anestrus 1
 antemillennial
 aurorally
 ambulomancy
-antemundane
+antemundane 1
 antennae
 amazers
 auletrides
