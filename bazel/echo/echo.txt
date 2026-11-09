@@ -12303,7 +12303,7 @@ environal
 exenterate
 etheostomidae
 electronegative 1
-eerock
+eerock 1
 equilucent
 exerce
 equimultiple

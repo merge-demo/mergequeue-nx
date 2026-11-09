@@ -1124,7 +1124,7 @@ gastrointestinal
 gruntled
 gashes
 globalization
-glossing
+glossing 1
 ganoidian
 graptolitoidea
 gaillardia
