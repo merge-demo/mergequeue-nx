@@ -5698,7 +5698,7 @@ angulatosinuous 1
 agalwoods
 arthrodial
 adiposes
-adulter
+adulter 1
 agamemnon
 antiquely
 aeolistic 1
