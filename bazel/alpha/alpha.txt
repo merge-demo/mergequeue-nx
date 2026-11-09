@@ -6266,7 +6266,7 @@ anteprostatic
 analogion
 agouara
 acetoacetic
-amarth
+amarth 1
 autarkic
 antioptimist
 anachronically
