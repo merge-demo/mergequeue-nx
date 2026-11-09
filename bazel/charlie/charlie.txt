@@ -8337,7 +8337,7 @@ challenger
 challengers
 challenging
 challie
-cricetid
+cricetid 1
 cenozoology
 challies
 challiho

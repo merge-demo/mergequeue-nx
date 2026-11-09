@@ -3569,7 +3569,7 @@ embolomalerism
 enervator
 exceeder
 equoid
-epicureanism
+epicureanism 1
 erysipelatoid 1
 exothermally
 epidesmine
