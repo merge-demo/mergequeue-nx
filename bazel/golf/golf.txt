@@ -5888,7 +5888,7 @@ glycosidase
 gawney 1
 gipsyweed
 glucoses
-glances
+glances 1
 glucoside
 goshawk
 grandparents
