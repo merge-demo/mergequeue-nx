@@ -3290,7 +3290,7 @@ fraticellian
 ferrites
 faunology
 fluidrams
-ferrimagnetically
+ferrimagnetically 1
 foreknowable
 fieldpieces
 feudovassalism
