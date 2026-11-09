@@ -9767,7 +9767,7 @@ centas
 chelidonic
 chelidonin
 casule
-chelidonine
+chelidonine 1
 carefox
 chelidonium 1
 citolas 1
