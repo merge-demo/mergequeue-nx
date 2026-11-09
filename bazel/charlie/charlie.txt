@@ -9463,7 +9463,7 @@ chirayta
 cheats
 confract
 chebec
-counterinsurgent
+counterinsurgent 1
 chebecs
 chebel
 chebog
