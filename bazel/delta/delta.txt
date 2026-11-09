@@ -3882,7 +3882,7 @@ deis
 deisidaimonia
 disquieting 1
 deism
-decentred
+decentred 1
 deistical
 dressages
 dismast
