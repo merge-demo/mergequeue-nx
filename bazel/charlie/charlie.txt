@@ -16885,7 +16885,7 @@ connectional
 coachwhip 1
 clucking
 clue
-continuations
+continuations 1
 clued
 clueing
 clueless
