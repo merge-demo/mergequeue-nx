@@ -12450,7 +12450,7 @@ argante
 androsphinx
 androsporangium
 arteriology
-androsterone
+androsterone 1
 androtomy
 acoemeti
 ayens
