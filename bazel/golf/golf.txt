@@ -8293,7 +8293,7 @@ grandaunts 1
 gruff 1
 gentians
 grapples
-grappling
+grappling 1
 germanish
 graptolitha
 gheraoed
