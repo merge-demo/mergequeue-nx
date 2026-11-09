@@ -31474,7 +31474,7 @@ currentness 1
 currentwise
 calalu
 curry
-cavitating
+cavitating 1
 citing
 croupade
 curricles
