@@ -9651,7 +9651,7 @@ flocculous
 fourths
 floyt 1
 freezy
-fubbed
+fubbed 1
 fromage
 foredivine
 fletcher
