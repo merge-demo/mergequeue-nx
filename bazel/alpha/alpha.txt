@@ -4590,7 +4590,7 @@ addax 1
 adviser
 autonomize
 apparatchiki
-androcentric
+androcentric 1
 affinitatively
 angolar
 acetylic
