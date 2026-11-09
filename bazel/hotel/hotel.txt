@@ -1044,7 +1044,7 @@ haupkazo
 haupw
 haupzmppb
 hauqannatq
-hauqqatlels
+hauqqatlels 1
 haurpojl 1
 hausbf
 hausda
