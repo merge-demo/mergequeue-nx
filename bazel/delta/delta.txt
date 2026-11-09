@@ -6513,7 +6513,7 @@ disanney
 dynamited
 demonist
 doxological 1
-descends
+descends 1
 deviability
 dialectic
 dircaean
