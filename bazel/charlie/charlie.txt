@@ -17466,7 +17466,7 @@ cobbling
 cobbra
 cobbs
 carabins
-characterize
+characterize 1
 calixtin 1
 categorematically
 crowning
