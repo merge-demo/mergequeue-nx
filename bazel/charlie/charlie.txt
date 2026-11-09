@@ -24774,7 +24774,7 @@ cyclomania
 clausilia
 concert
 cabbing
-copula
+copula 1
 cheechakos
 coroscopy 1
 copulae
