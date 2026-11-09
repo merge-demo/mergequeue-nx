@@ -4111,7 +4111,7 @@ fratery
 felicitously
 foresightless
 fungusy
-frostation
+frostation 1
 fergusonite 1
 featherbrain
 fattable
