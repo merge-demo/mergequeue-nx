@@ -14055,7 +14055,7 @@ antechinomys
 agitpropist
 altazimuth
 autopilots
-anchorate
+anchorate 1
 autocatalytic
 antechoirs
 axostyle
