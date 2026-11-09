@@ -5318,7 +5318,7 @@ endocorpuscular
 endorsed
 enchantress
 emendating 2
-effector
+effector 1
 endorsees
 emeriti
 epicoracoidal
