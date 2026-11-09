@@ -7042,7 +7042,7 @@ dorje
 degrees
 disjointed
 despumation
-dealing
+dealing 1
 desquamating
 desquamatory
 decivilization
