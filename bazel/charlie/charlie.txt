@@ -7068,7 +7068,7 @@ compania
 coofs
 chelators
 colonus
-centerfolds
+centerfolds 1
 cretoria
 centering
 comminatory
