@@ -8785,7 +8785,7 @@ dulcifying
 declarators
 defeat
 defrocking
-dictaphone
+dictaphone 1
 dequeen
 dragsmen
 depeter
