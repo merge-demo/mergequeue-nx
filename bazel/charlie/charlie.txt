@@ -523,7 +523,7 @@ chainmaking
 cadet
 canonize
 cadets
-cataleptoid
+cataleptoid 1
 cadetship
 counterstamp
 cadettes
