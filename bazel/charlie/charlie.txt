@@ -8242,7 +8242,7 @@ chalcanth
 chalcedony
 cusconine
 calabrasella
-chalcedonyx
+chalcedonyx 1
 chalchuite
 chalcidian
 chalcidicum
