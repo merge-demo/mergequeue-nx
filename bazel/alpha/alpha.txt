@@ -20735,7 +20735,7 @@ altitonant
 artifactually
 ascents
 artifex
-activates
+activates 1
 aerobiology
 artificial
 adverted
