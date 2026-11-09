@@ -12602,7 +12602,7 @@ citolers
 chronometers
 countercultures
 chronometric
-chronometrically
+chronometrically 1
 chronon
 choppily
 chronons
