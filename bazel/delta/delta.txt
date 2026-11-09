@@ -15216,7 +15216,7 @@ debutants 1
 diazine
 dendrobium
 dybbukim
-dolichocranial
+dolichocranial 1
 duopolistic
 dolichopsyllidae
 dolichosauri
