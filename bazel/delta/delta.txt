@@ -18427,7 +18427,7 @@ dupion
 disendowing
 duplation
 downrush
-dukkha
+dukkha 1
 dedicatedly
 duplexers
 duplication
