@@ -14956,7 +14956,7 @@ clouring
 contorsion
 chlorpropamide
 chromoplasm
-counterparallel
+counterparallel 1
 crossjack
 citreous
 citric
