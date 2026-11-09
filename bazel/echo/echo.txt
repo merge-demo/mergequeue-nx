@@ -13861,7 +13861,7 @@ euphenic
 emandibulate
 equitably
 extraparental 1
-extroverts
+extroverts 1
 encyst
 endgame
 extraneity
