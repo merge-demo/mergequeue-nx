@@ -3408,7 +3408,7 @@ capretto
 capri
 capric
 checkhook
-capriccetto
+capriccetto 1
 capricci
 capriccio
 curliewurlie
