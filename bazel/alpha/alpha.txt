@@ -4719,7 +4719,7 @@ abush
 aetheling
 antedawn
 allographic 1
-acrotisms
+acrotisms 1
 alphard
 aeluropodous
 aenach
