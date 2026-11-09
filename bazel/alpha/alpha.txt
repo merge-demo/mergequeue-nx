@@ -4950,7 +4950,7 @@ archdeacon 1
 astrogator
 aerolites
 avulsions
-admonitioner 2
+admonitioner 3
 antepalatal
 aerolithology
 aerolitic
