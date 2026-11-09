@@ -8321,7 +8321,7 @@ embroiler
 elvan
 earthy
 evg
-effulgence
+effulgence 1
 excursional
 essonites
 episthotonos
