@@ -982,7 +982,7 @@ entera 1
 expanse
 excavatory
 emasculating
-enthymematic
+enthymematic 1
 ensaffron
 ensealing
 endomitotic
