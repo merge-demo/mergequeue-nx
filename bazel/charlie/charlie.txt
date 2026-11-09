@@ -29769,7 +29769,7 @@ crookesite
 crookheaded
 crooking
 circule
-crooknecked
+crooknecked 1
 concessionaires
 coset
 causticize
