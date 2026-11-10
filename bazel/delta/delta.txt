@@ -10828,7 +10828,7 @@ dapples
 deposable
 devex
 deificatory
-direful
+direful 1
 direfully
 dirempt
 direness
