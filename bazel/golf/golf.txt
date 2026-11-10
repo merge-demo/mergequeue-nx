@@ -2038,7 +2038,7 @@ gibbosities
 gnomologic
 greiges
 guazuti
-gavelock
+gavelock 1
 grunion
 givenness
 gyroscopics

@@ -207,7 +207,7 @@ committal
 cohort
 cabresta
 cabrestas
-classicalities
+classicalities 1
 cabresto
 cabrestos
 cabrettas
