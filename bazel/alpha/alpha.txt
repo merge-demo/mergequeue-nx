@@ -22096,7 +22096,7 @@ anteromedial
 amphigamous
 amphipeptone
 aguaji
-asteriskos
+asteriskos 1
 acidheads
 append
 antinosarian
