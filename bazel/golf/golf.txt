@@ -6184,7 +6184,7 @@ glistened
 greenhead
 goliaths
 gambodic
-gallotannate
+gallotannate 1
 grooves
 gobiesociform
 greenkeeping 1
