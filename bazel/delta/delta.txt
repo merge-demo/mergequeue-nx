@@ -8875,7 +8875,7 @@ diffeomorphism
 debituminize
 deflexure
 domiciliating
-dicacity
+dicacity 1
 deodorising
 dicaeidae
 dwarfed
