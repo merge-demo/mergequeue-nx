@@ -7139,7 +7139,7 @@ frostlike
 figwort
 fundamentalistic
 foleye
-farinacious
+farinacious 1
 frontoparietal
 footers
 fatherlandish
