@@ -9682,7 +9682,7 @@ galapee
 guzzle 1
 graniform
 govt
-ghanaians
+ghanaians 1
 gypsophilous
 groundwood
 gidgea
