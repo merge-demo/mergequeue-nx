@@ -917,7 +917,7 @@ actinopterygii
 antiopium
 apostrophi
 absolutist
-absolutize
+absolutize 1
 absolutory
 acanthopteri
 absolvatory
