@@ -3684,7 +3684,7 @@ fluxweed 1
 fungible
 federalize
 freeboots
-footbreadth
+footbreadth 1
 fibroadipose
 filings
 flosser
