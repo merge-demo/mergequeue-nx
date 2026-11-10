@@ -7217,7 +7217,7 @@ footpaces 1
 fifer
 foolocracy
 factionaries
-fairer
+fairer 1
 farers 1
 falderols
 fimbrillose
