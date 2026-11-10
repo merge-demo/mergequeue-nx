@@ -12653,7 +12653,7 @@ chuckawalla
 chucked
 childkind
 chucker
-chuckfarthing
+chuckfarthing 1
 chuckhole
 canvassy
 chaule
