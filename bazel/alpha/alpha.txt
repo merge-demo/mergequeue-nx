@@ -14390,7 +14390,7 @@ aerogramme 1
 accidentary
 apometabolism
 anthophora
-anglicizing
+anglicizing 1
 amphistomous
 awful
 acolyte
