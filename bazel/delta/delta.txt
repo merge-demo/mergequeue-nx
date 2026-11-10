@@ -1820,7 +1820,7 @@ disemboguing
 delusterant
 distortionist
 demology
-deassimilation
+deassimilation 1
 dentally
 discovered
 demagnetiser
