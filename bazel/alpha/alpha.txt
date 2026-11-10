@@ -308,7 +308,7 @@ astoundment
 abdominous 1
 abduces
 articulate
-ampullulae
+ampullulae 1
 abducted
 abductions
 allegro
