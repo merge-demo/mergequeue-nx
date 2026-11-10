@@ -15697,7 +15697,7 @@ adenosarcomas
 aaliis
 aquaphobia
 antipapistical
-afterfriend
+afterfriend 1
 amercement
 aurothiosulphate
 antiparallel
