@@ -5426,7 +5426,7 @@ granomerite
 groceress
 groupageness
 geared 1
-gastroesophageal
+gastroesophageal 1
 gulfside
 ghilzai
 glyoxalic
