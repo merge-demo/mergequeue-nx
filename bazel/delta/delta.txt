@@ -10165,7 +10165,7 @@ distraint
 downy
 deuteranomal
 dasypaedes
-doater
+doater 1
 dinged
 diploids
 daddle
