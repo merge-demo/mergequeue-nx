@@ -13797,7 +13797,7 @@ cinenchyma
 concreate
 cinene
 cinenegative
-cineol
+cineol 1
 creeky
 counterflow
 cineole
