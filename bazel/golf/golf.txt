@@ -1182,7 +1182,7 @@ gartered
 gynaecomasty
 gaped
 gorgonized
-genitory
+genitory 1
 gig
 gothic
 gonorrheic
