@@ -11713,7 +11713,7 @@ chondrenchyma
 caramelin
 cocomats
 columbian
-curdiest
+curdiest 1
 chondrify 1
 chondrification
 cygnine
