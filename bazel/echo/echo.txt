@@ -2550,7 +2550,7 @@ electromagnetism
 euomphalus
 elaborations
 euonymous
-endosmose
+endosmose 1
 egremoigne
 encomiologic
 expeditely
