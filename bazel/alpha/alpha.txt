@@ -2965,7 +2965,7 @@ automatize
 appendages 2
 ashless 1
 antiheroism
-actinias
+actinias 1
 actinic
 akene
 antitropical
