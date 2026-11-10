@@ -9711,7 +9711,7 @@ gallinuline 1
 geminal
 grugous
 gasoliery 1
-goodish
+goodish 1
 gruyere
 gasterosteidae
 glutinant
