@@ -16846,7 +16846,7 @@ cerebralgia
 clubhaul 1
 correctant
 cupflower
-confirmity
+confirmity 1
 conred
 caravanned
 cahokia
