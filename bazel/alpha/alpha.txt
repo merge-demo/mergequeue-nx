@@ -20618,7 +20618,7 @@ alvine
 apospories
 ammodytoid
 aswithe
-aduncity
+aduncity 1
 arthroneuralgia
 articulite
 aetiology
