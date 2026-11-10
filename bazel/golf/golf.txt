@@ -10470,7 +10470,7 @@ guimpe 1
 guanophore
 gemmaceous
 glossarially
-goatbrush
+goatbrush 1
 gagor
 gonium
 glutei 1
