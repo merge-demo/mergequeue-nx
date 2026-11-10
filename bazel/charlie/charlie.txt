@@ -13632,7 +13632,7 @@ clavicembali
 cymophane
 cymophanous
 cymophenol
-confabulations
+confabulations 1
 coherency
 cercopithecoid
 cymophobia
