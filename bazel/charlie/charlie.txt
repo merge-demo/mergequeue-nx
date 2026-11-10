@@ -19004,7 +19004,7 @@ collectivized 1
 collectivizes
 collectivizing
 collectivum
-cocrucify
+cocrucify 1
 collectorate
 collectors
 circumscissile
