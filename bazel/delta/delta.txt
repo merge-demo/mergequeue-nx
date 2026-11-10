@@ -8091,7 +8091,7 @@ durzi
 dhourras
 dispersedye
 dhritarashtra
-disables
+disables 1
 disembowelled
 drawable
 dhurra
