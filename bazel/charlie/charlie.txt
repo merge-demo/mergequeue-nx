@@ -17619,7 +17619,7 @@ columelliform
 catamite
 coxofemoral
 coccosteid
-conducibleness
+conducibleness 1
 cisalpinism
 curstly
 creativeness
