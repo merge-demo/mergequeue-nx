@@ -1843,7 +1843,7 @@ declinograph
 dewberry
 doorstead
 doughnut 1
-debellator
+debellator 1
 darapti
 drugmaker
 decriminalize

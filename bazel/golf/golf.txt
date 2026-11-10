@@ -3175,7 +3175,7 @@ geosphere 1
 gapless
 guerilla 1
 geochronologist
-growthful
+growthful 1
 guardiancy
 germina
 geotechnic
