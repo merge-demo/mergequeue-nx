@@ -3251,7 +3251,7 @@ basilicate
 basilicock
 basilics
 bohairic
-basilidian
+basilidian 1
 bursitises 1
 basilidianism
 brome
