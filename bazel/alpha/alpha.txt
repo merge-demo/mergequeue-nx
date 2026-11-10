@@ -8703,7 +8703,7 @@ asterospondylic
 aerocurve
 anapterygote
 aller
-allergenic
+allergenic 1
 abouchement
 allergenicity
 atheology
