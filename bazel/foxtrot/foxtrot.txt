@@ -4697,7 +4697,7 @@ fixt
 furca
 flopwing
 fangs 2
-fummel
+fummel 1
 furtherer
 flamboyancy 1
 fluorene
