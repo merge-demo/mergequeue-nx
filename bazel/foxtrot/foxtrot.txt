@@ -10238,7 +10238,7 @@ flakers
 frond
 fluxmeter
 finickingness
-frust
+frust 1
 fgrid
 fjarding
 firiness
