@@ -8971,7 +8971,7 @@ dichroitic
 dichromasia
 defrayed
 deltafication
-disafforestation
+disafforestation 1
 dippiest
 dichromatic
 debonairty
