@@ -16756,7 +16756,7 @@ draughtboard
 daub 1
 draughtier 1
 divulsive
-decastylos
+decastylos 1
 darg
 disseminule
 draughtsmanship

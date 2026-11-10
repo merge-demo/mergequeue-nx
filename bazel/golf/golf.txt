@@ -9377,7 +9377,7 @@ galenobismutite 1
 gobelin
 glaymore
 gelatinized
-geneserin
+geneserin 1
 graciosity
 galtonia
 geordie
