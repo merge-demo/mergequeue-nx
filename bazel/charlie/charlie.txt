@@ -6879,7 +6879,7 @@ clonks
 cloze
 celsian
 cashbox
-celt
+celt 1
 celtiberi
 circularizers
 cofaster
