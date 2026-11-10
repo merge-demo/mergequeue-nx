@@ -19373,7 +19373,7 @@ condemnably
 cere
 crossarms
 compunctiously
-coloraturas
+coloraturas 1
 carnivoracity
 colorature
 celesta
