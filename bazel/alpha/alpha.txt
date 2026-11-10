@@ -5209,7 +5209,7 @@ apostasies
 arbutinase
 atoneness
 affectional
-affectionally
+affectionally 1
 affectionateness
 affectioned
 anemographic
