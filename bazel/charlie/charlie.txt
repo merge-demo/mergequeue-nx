@@ -10630,7 +10630,7 @@ caliological
 chimaera
 chimaerid
 chimaeroid
-chimakum
+chimakum 1
 curled
 cogon
 cephalomancy
