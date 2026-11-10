@@ -8755,7 +8755,7 @@ extermination
 encystment 1
 eulogising
 endangering
-equivocates
+equivocates 1
 encyrtid
 emphractic
 enstrengthen 1
