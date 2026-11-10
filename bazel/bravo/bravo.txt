@@ -16034,7 +16034,7 @@ brindle
 barythymia
 basifiers
 boubous
-brisance
+brisance 1
 brahmanaspati
 bludgeoning
 bishoprics
