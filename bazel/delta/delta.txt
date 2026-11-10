@@ -17181,7 +17181,7 @@ drippier
 damans
 dowily
 deuteroscopy
-detailedly
+detailedly 1
 diabolically
 dripstone
 duffers
