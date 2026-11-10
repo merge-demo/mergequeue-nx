@@ -4914,7 +4914,7 @@ carrottop
 carstone
 cart
 counterpoising
-cartable
+cartable 1
 cartaceous
 commutuality
 candlestickward
