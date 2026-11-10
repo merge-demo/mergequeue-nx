@@ -15296,7 +15296,7 @@ cellaret
 congous 1
 clamourous
 checkrow
-clamoursome
+clamoursome 1
 clamped
 cholestanol
 clamps
