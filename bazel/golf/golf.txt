@@ -5224,7 +5224,7 @@ gleamless
 gleed
 gramophone
 germinant
-glyptologist
+glyptologist 1
 goldarnedest
 glandulousness
 gluttoness
