@@ -3657,7 +3657,7 @@ grisliness
 ghettoizing 1
 glaver
 ghi
-gallegan
+gallegan 1
 gamomania
 ghibli
 gobline
