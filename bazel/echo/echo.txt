@@ -11648,7 +11648,7 @@ elaterite
 epileptogenic
 elephanticide
 exacter
-equianchorate
+equianchorate 1
 epitaphical
 exacting
 electroirrigation
