@@ -9204,7 +9204,7 @@ angevin
 antiaircraft 1
 almsmen
 acrophonically
-apostematic
+apostematic 1
 attestative
 almuces
 almud
