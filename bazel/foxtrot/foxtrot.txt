@@ -4830,7 +4830,7 @@ flume
 fracticipita 1
 faunus
 fishberries
-firepower 1
+firepower 2
 flinthead
 fleay
 fainer
