@@ -1545,7 +1545,7 @@ callipering
 callipers
 copopoda
 conduciveness
-cocanucos
+cocanucos 1
 crystal
 calliphorid
 celosia
