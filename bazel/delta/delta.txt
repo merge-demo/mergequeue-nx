@@ -6428,7 +6428,7 @@ disencumbered
 denizening
 dismemberments
 debellation
-derrises
+derrises 1
 duce
 deruinate
 derust
