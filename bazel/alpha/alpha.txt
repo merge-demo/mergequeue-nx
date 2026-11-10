@@ -14152,7 +14152,7 @@ anarthrous
 achlamydate
 assonantly
 acinetarian
-aphtha
+aphtha 1
 artocarpaceae
 amani
 antepectus
