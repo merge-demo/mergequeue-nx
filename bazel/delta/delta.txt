@@ -3153,7 +3153,7 @@ dialings
 doat
 defeasibility
 dacryohelcosis 1
-dingey
+dingey 1
 doorbell
 dinnery
 defeated
