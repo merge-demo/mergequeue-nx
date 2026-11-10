@@ -24236,7 +24236,7 @@ convolvulinic
 certiorari
 cholecystoduodenostomy
 constraining
-curval
+curval 1
 comr
 convolvulus
 coercively
