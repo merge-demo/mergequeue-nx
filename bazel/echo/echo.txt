@@ -11705,7 +11705,7 @@ ephraimitish 1
 epistemologically
 erythrolysin
 earscrew
-emphatic
+emphatic 1
 escolar
 enfolding
 eventualities
