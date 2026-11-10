@@ -24917,7 +24917,7 @@ algometer
 alopekai
 awakeners
 agravic
-awakening
+awakening 1
 awakeningly
 awaking
 automotor
