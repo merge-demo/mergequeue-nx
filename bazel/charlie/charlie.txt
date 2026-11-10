@@ -31068,7 +31068,7 @@ cumulative
 chervonets
 cumulativeness
 countersunk
-cumulene
+cumulene 1
 cossacks
 clinked
 cynophile
