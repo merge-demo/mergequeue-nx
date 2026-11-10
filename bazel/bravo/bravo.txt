@@ -2640,7 +2640,7 @@ buckstall
 bescour
 befriend
 backstretches
-bogyisms
+bogyisms 1
 barbitals 1
 blousons
 bodicemaker
