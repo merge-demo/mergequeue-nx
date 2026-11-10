@@ -3544,7 +3544,7 @@ desmomyaria
 dufoil
 drapery
 drowsiest
-defrauds
+defrauds 1
 defreeze
 defrocked
 dubbed
