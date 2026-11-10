@@ -8748,7 +8748,7 @@ adet
 autoincrements
 allgovite
 anthologized
-antiperistatically
+antiperistatically 1
 amblosis 1
 arachidonic
 allhallows 1
