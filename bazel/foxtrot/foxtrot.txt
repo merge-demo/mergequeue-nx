@@ -4564,7 +4564,7 @@ feudists
 frit
 futtocks
 forespoken
-feuder
+feuder 1
 fisticuff
 fort
 fouldre
