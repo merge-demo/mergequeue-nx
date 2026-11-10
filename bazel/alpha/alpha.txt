@@ -16901,7 +16901,7 @@ alluringness
 apimanias
 acocanthera
 apina 1
-alcoran
+alcoran 1
 aciculated
 armillated
 ameliorative
