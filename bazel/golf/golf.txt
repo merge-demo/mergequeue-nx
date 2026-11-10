@@ -6018,7 +6018,7 @@ guanabana
 gnarly
 gourdes 2
 gnarliest
-gnarliness
+gnarliness 1
 grassiness
 graspless
 gnarls
