@@ -4533,7 +4533,7 @@ guastalline
 grumous
 gypster
 grandniece
-gamb
+gamb 1
 grapey
 gomutis
 gambrel
