@@ -8997,7 +8997,7 @@ allosteric
 allotee
 allotelluric
 allothigenetically
-antimonarchal
+antimonarchal 1
 anthropomorphising
 anticivil
 amiably
