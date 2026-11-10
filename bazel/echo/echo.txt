@@ -1960,7 +1960,7 @@ encompany 1
 endarchy
 engrossingly
 extraterrestrials
-encephalomalacia
+encephalomalacia 1
 eurasians
 edgeman
 ecklein
