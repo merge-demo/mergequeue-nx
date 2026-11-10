@@ -4317,7 +4317,7 @@ demagnetizing
 devilbird
 devoutness
 durning
-delimit
+delimit 1
 duckhood
 dequeue
 dronel
