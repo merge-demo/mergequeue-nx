@@ -12650,7 +12650,7 @@ aporrhaidae
 antistrumous
 accouchements
 anchoretism
-antistat
+antistat 1
 adrenalone
 antipragmatical
 adversely
