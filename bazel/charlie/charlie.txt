@@ -15705,7 +15705,7 @@ clavicittern
 contraction
 clavicle
 clavicles
-cannas
+cannas 1
 clavicorn 1
 clavicornes
 clavicotomy
