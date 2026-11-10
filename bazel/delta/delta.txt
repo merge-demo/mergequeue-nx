@@ -7944,7 +7944,7 @@ dexiotrope 1
 dyeable
 dexiotropic
 dishwashing
-dollarbird
+dollarbird 1
 diaplex
 dashers
 dextrad
