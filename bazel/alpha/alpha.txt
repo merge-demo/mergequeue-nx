@@ -15569,7 +15569,7 @@ antimonium
 aboves
 abseil
 antimoniuret
-anatine
+anatine 1
 antethem
 acetabulum
 antimoniuretted
