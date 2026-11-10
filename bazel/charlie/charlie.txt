@@ -1455,7 +1455,7 @@ currents
 calyptrata
 cheapener
 carretela
-calyptratae 1
+calyptratae 2
 calyptriform
 calyptrimorphous
 coracoscapular
