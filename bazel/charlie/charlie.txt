@@ -5209,7 +5209,7 @@ casimire
 casimiroa
 curarine
 charet
-casings
+casings 1
 casiri
 casita
 casket
