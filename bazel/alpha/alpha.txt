@@ -6886,7 +6886,7 @@ airplot
 airport
 ady
 airposts
-asst
+asst 1
 archmurderer
 abietin
 aistopoda
