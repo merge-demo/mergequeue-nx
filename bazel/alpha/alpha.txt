@@ -869,7 +869,7 @@ antisensuousness
 aflatus
 amurcosity
 absentminded
-aerobics
+aerobics 1
 absentness
 avicennism
 aiver
