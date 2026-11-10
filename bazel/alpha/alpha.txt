@@ -206,7 +206,7 @@ anthradiquinone
 admissability
 abbatie
 abbe
-amides
+amides 1
 abbey 1
 archapostate
 aleshot
