@@ -10784,7 +10784,7 @@ blesmol 1
 bestripe
 batyphone
 bienvenu
-bakership 1
+bakership 2
 boul
 bavin
 baulkier
