@@ -9922,7 +9922,7 @@ groundnut
 gratulatorily 1
 growingly
 grata
-genevese
+genevese 1
 girderless
 glebes
 greylags
