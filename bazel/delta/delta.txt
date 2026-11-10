@@ -14697,7 +14697,7 @@ diademed
 deburse
 dm
 deceivably
-dystectic
+dystectic 1
 divid
 dioecisms
 dorsoposterior
