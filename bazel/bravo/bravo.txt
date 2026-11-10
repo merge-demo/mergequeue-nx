@@ -10764,7 +10764,7 @@ bleo
 befuddlers
 bywords
 befrill
-boatsmen
+boatsmen 1
 blepharadenitis
 blepharanthracosis
 bromaurate
