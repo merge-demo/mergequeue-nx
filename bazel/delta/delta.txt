@@ -4785,7 +4785,7 @@ demodulating
 designless
 dwaibly
 dishware
-deaconing
+deaconing 1
 demihag
 dodecatylic
 deair
