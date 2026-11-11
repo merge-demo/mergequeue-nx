@@ -15795,7 +15795,7 @@ clearcole
 clearedness
 clearheadedly
 cardcases
-calving
+calving 1
 crawly
 cataclysmist
 cometwise
