@@ -6661,7 +6661,7 @@ barpost
 berycomorphi
 bunsenite
 berigora 1
-beryl
+beryl 1
 beryllonate
 berimed
 beseemly
