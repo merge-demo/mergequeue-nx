@@ -2928,7 +2928,7 @@ dedicant
 dichotic
 downbeat
 desulphuret
-dedicating
+dedicating 1
 disorientating
 dedication
 drafting
