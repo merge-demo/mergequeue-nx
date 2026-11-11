@@ -3424,7 +3424,7 @@ fierasferoid
 farcie
 fustanella 1
 floc
-flecker
+flecker 1
 featherlike
 fenestella
 forestate
