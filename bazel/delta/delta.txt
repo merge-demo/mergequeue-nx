@@ -7468,7 +7468,7 @@ detruncation 1
 damneder
 dodgery
 detrusion
-detumescence
+detumescence 1
 dynasticism 1
 deposal
 detune
