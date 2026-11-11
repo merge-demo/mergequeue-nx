@@ -10370,7 +10370,7 @@ ethnopsychology
 enalite
 enthuses
 epistolary
-elkoshite
+elkoshite 1
 ethnozoology
 ethography
 excepter
