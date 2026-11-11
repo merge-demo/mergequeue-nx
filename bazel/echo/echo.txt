@@ -1157,7 +1157,7 @@ estuaries
 enterobiasis
 edomitish
 expective
-eutomous
+eutomous 1
 exorbitate
 enterograph
 edoni
