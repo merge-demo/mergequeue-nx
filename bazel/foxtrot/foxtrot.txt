@@ -8214,7 +8214,7 @@ faded
 frijolito
 faze
 forage
-funicles
+funicles 1
 fauvists
 fruticulose
 florence
