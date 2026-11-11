@@ -999,7 +999,7 @@ daringness 2
 dit
 darings
 dithematic
-darius
+darius 1
 dinornithine
 doubleprecision
 dark
