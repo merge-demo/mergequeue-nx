@@ -6877,7 +6877,7 @@ desmorrhexis
 deifies
 desmoscolecidae
 drossless
-desmosite
+desmosite 1
 desemer
 dispositor
 desoeuvre
