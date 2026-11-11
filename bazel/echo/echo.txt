@@ -10048,7 +10048,7 @@ emergent
 encastered
 egrets 1
 ethambutol
-ethmovomerine
+ethmovomerine 1
 exitial
 entamoebiasis 1
 epopoeist
