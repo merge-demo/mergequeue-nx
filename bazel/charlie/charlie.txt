@@ -20082,7 +20082,7 @@ corpselike
 chesset
 commercial 1
 commercialised
-centgrave
+centgrave 1
 chequerwise
 commercialism
 coenenchymatous
