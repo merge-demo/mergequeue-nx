@@ -10017,7 +10017,7 @@ geochrony
 gudewife
 galopade
 girgashite
-gaffer
+gaffer 1
 glastonbury
 graybeard
 ghostlet
