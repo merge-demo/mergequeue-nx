@@ -6751,7 +6751,7 @@ grannie
 gripped
 geneticist 1
 georgic
-gulash
+gulash 1
 graminivorous
 galvanolysis
 giddyberry
