@@ -11896,7 +11896,7 @@ deathblow
 dehypnotized
 dragoonade
 daguerreotypic 1
-disdein
+disdein 1
 dardani
 doubleheader
 dephlegmate
