@@ -12262,7 +12262,7 @@ disgavelling
 deorsumvergence
 damndest
 deresinate
-disposed
+disposed 1
 dysgenical
 dsect
 dimication
