@@ -91,7 +91,7 @@ foliobranch
 fiendish
 flagrantness
 famousness 1
-facetely
+facetely 1
 froufrous
 falsest
 fuminess
