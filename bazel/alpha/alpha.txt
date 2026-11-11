@@ -13013,7 +13013,7 @@ anhalonin
 anhalonine 1
 antioptimistic
 anhalouidine
-antisimoniacal
+antisimoniacal 1
 annihilable
 anharmonic
 abbreviating
