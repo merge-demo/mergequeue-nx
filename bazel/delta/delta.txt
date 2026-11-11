@@ -15679,7 +15679,7 @@ dogstone
 desi
 docile
 dunce
-dartrose
+dartrose 1
 didrachma
 defatted
 decollator 1
