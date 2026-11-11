@@ -21061,7 +21061,7 @@ comradeliness
 comradeship
 caulked
 chargfaires
-coms
+coms 1
 comsat
 clostridial
 comsomol
