@@ -3056,7 +3056,7 @@ diphthongs
 deucedly
 dowress
 decarbonized
-desegregation
+desegregation 1
 deers
 deerstalkers
 detailist
