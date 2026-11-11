@@ -9463,7 +9463,7 @@ fidele
 fraternities
 fumarates
 figboy
-fantasm
+fantasm 1
 featish 1
 farming
 fortuitousness 1
