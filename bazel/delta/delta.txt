@@ -12739,7 +12739,7 @@ difference
 dislocability
 dosimetry
 dustcloth
-dehydratase
+dehydratase 1
 doggrels
 dispensability
 dorsilateral
