@@ -2601,7 +2601,7 @@ featherlight
 filthy 1
 feoffed
 fancily 1
-foresheet
+foresheet 1
 ferromanganese
 ferrometer
 filagreed
