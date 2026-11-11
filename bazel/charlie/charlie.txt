@@ -219,7 +219,7 @@ carpological
 cabrilla
 cabrillas 1
 cabrit
-cabs
+cabs 1
 comprend
 cabstands
 cabuya
