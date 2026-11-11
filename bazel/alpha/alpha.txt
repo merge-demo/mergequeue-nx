@@ -6432,7 +6432,7 @@ alnascharism 1
 antefixa
 agrotype
 aurochloride
-anthotaxy
+anthotaxy 1
 anerly
 arguta
 asthenopia
