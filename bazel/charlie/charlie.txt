@@ -5789,7 +5789,7 @@ catechistical
 catechists
 catechization
 catechizer
-calamondin
+calamondin 1
 cojoin
 cheveys
 callicarpa
