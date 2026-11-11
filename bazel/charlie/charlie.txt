@@ -2841,7 +2841,7 @@ cadesse
 canonicals
 condiddled 1
 countercharge
-canonisation
+canonisation 1
 contermine
 cadaverine
 canonised
