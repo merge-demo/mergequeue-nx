@@ -15712,7 +15712,7 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
-chrysohermidin
+chrysohermidin 1
 chirotype
 clima
 chrysograph
