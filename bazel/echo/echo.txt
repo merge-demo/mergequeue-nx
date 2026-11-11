@@ -1290,7 +1290,7 @@ eeriness
 ecostate
 epithalamion
 encircler
-endogenesis
+endogenesis 1
 eassel
 enteroid
 epyllia
