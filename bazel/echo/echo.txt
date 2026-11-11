@@ -5053,7 +5053,7 @@ eclairs
 econometer
 entreasure
 encaenia 1
-evens
+evens 1
 endophragmal 1
 equimolal
 entomb
