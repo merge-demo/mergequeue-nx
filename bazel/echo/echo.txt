@@ -11693,7 +11693,7 @@ extralinguistically
 expends
 erythrogenic 1
 estragons
-ecphasis
+ecphasis 1
 entoplastic
 exaggeratively
 exagitate
