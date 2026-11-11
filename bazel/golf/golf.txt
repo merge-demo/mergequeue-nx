@@ -6399,7 +6399,7 @@ glassworks
 gonotyl 1
 granulitis
 gracer
-geoponic
+geoponic 1
 goshenite
 goidelic
 goldeyes
