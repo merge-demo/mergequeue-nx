@@ -5556,7 +5556,7 @@ globigerinas 1
 gaminish
 greens
 gemutlichkeit
-gorses
+gorses 1
 graysbies
 grammel
 glucine
