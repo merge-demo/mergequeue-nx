@@ -24377,7 +24377,7 @@ cooling
 concaver
 coolingly
 coolingness 1
-chrysopoetics
+chrysopoetics 1
 candour
 cosmoramic
 coolness
