@@ -12002,7 +12002,7 @@ childminder
 chorizo
 corelation
 catalanist
-chorizont
+chorizont 1
 chorizontal
 comprehensible
 chorizos
