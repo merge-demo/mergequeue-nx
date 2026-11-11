@@ -5480,7 +5480,7 @@ gandhism
 grazings 1
 glaciating
 galet
-gemellus
+gemellus 1
 guipure
 groundskeep
 glisk
