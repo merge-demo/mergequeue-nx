@@ -8600,7 +8600,7 @@ alkoxid
 architectonically 1
 atmophile
 allegata
-allegations
+allegations 1
 allegers
 anthophyllite
 antiatheistical
