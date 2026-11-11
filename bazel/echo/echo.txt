@@ -10451,7 +10451,7 @@ etiologist
 entocoelic
 emetology
 ettling 1
-euripi
+euripi 1
 etiologue
 endocortex
 engrams
