@@ -9784,7 +9784,7 @@ diligent
 dilis
 dillenia
 datsw 1
-dimethoate
+dimethoate 1
 decaphyllous
 deckpipe
 dysoxidize
