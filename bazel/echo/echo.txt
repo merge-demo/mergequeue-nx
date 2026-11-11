@@ -8575,7 +8575,7 @@ equiaxed
 edificable
 equate
 eburnification 1
-enharmonic
+enharmonic 1
 earnings
 equibalanced
 electrodialitic
