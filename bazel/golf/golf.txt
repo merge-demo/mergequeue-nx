@@ -2492,7 +2492,7 @@ guttersnipes
 gibbetwise
 genitalic
 grandity
-glossier
+glossier 1
 girdlelike
 gaucher
 golds
