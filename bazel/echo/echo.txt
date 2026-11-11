@@ -9689,7 +9689,7 @@ espouser
 espouses 1
 espousing
 esprit
-enterorrhexis
+enterorrhexis 1
 esq
 esquires
 existence
