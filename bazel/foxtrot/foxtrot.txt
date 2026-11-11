@@ -11288,7 +11288,7 @@ footwear
 farcing 1
 fourfold
 folletti
-falun
+falun 1
 fully 1
 formularized
 finnoc
