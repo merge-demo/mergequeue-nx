@@ -2876,7 +2876,7 @@ achromatin
 amygdales
 acrophonetic
 avengingly
-acrophonic
+acrophonic 1
 astrol
 aubrite
 antiendowment 1
