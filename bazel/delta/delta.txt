@@ -5991,7 +5991,7 @@ deed
 durezza
 depsides
 disciplinability
-dilettantist
+dilettantist 1
 discommoded
 dept
 diaschistic
