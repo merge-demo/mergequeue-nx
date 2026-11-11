@@ -14503,7 +14503,7 @@ cissy
 compassionless
 cissies
 cissoidal
-chionis
+chionis 1
 chateaubriand
 clefs
 chang
