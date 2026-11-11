@@ -10124,7 +10124,7 @@ enculturated
 excused
 extranean
 etabelli
-expressiveness
+expressiveness 1
 earphones
 euhyostyly 1
 epagomenic
