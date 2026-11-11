@@ -8068,7 +8068,7 @@ biculturalism
 billeters
 bicursal
 bailments
-bicuspid
+bicuspid 1
 bruxism
 brast
 burrobrush
