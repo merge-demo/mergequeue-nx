@@ -1059,7 +1059,7 @@ gymnoconia
 glyceridic
 gift 1
 gymnospermism
-gruffish
+gruffish 1
 glaceing
 guck
 grandfatherly
