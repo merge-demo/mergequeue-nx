@@ -28908,7 +28908,7 @@ capsheaf
 chaetognathan
 crex
 cry
-crikey
+crikey 1
 cryable
 cholestane
 cotans
