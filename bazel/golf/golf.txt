@@ -9296,7 +9296,7 @@ goyana
 gurge
 gangliate
 galactophagous
-gunj
+gunj 1
 gi
 geodynamicist
 grapeline 1
