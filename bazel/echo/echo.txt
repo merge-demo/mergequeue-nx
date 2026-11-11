@@ -12327,7 +12327,7 @@ elecampane
 effortless
 equilin 1
 elvanitic
-exercitorian
+exercitorian 1
 effront
 efs
 elaidate
