@@ -7566,7 +7566,7 @@ druidesses 1
 discs
 deuterotype
 displeasure
-deuterozooid
+deuterozooid 1
 dental
 didynamies
 discreetness
