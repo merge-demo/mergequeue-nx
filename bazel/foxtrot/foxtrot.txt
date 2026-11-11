@@ -11497,7 +11497,7 @@ fashery
 furunculous
 furzeling
 furzy
-fastest
+fastest 1
 flammable
 flouncy
 fluently
