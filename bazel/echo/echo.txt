@@ -4146,7 +4146,7 @@ envisaged
 endives
 exedral
 epirote 1
-eiffel
+eiffel 1
 ensheathed
 every
 etymologically
