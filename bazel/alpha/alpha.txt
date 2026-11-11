@@ -4052,7 +4052,7 @@ afric
 application
 analysed
 acetophenin
-acidogenic
+acidogenic 1
 admiring
 anality 1
 antislip
