@@ -7315,7 +7315,7 @@ eat 1
 enigmatize
 etchers
 encushion 1
-epagomenae
+epagomenae 1
 equerryship
 epagomenous
 electro
