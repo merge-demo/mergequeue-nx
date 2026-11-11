@@ -2911,7 +2911,7 @@ autotuberculin
 acrostic
 accidentiality
 anacromyodian
-armamentary
+armamentary 1
 advisive
 aerobatics
 albugineous
