@@ -715,7 +715,7 @@ frapping
 fisherwoman
 faming
 foreladies
-freeness 1
+freeness 2
 flincher
 fired
 flagroot
