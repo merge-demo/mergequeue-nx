@@ -8740,7 +8740,7 @@ disproportionateness
 discriminate
 diatomales
 dedicated
-diatomeae
+diatomeae 1
 diatomicity 1
 duetted
 downright 1
