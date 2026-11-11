@@ -1123,7 +1123,7 @@ galatic
 gastrointestinal
 gruntled
 gashes
-globalization
+globalization 1
 glossing
 ganoidian
 graptolitoidea
