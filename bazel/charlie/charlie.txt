@@ -19582,7 +19582,7 @@ coregence
 counteraffirmation
 columellia
 columelliaceae
-columels
+columels 1
 columna
 columnal
 camphors
