@@ -24610,7 +24610,7 @@ chaplainry
 copiosity
 chanteyman
 copious
-copiousness
+copiousness 1
 cloners
 copyread
 copyreader
