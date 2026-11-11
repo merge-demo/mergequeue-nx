@@ -3736,7 +3736,7 @@ dehydrogenisation
 daddling
 delustrant
 dackering
-dehisce
+dehisce 1
 dasymeter
 dichromism
 deglutinate
