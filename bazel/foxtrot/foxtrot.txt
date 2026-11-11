@@ -1660,7 +1660,7 @@ fuddledness
 fealty
 fumigates
 forebrace 1
-flacourtiaceous
+flacourtiaceous 1
 folksong
 flemer
 forgrow
