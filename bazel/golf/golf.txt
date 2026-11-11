@@ -1514,7 +1514,7 @@ gregarinidal
 grote
 genapping
 geratology 1
-gasman
+gasman 1
 gillnet
 gasbags
 gasmen
