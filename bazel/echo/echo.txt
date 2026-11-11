@@ -5412,7 +5412,7 @@ excercise
 explicators 1
 esquiline
 empyreum
-eophyte
+eophyte 1
 eccentrometer
 endothermal
 endothermy
