@@ -12328,7 +12328,7 @@ effortless
 equilin 1
 elvanitic
 exercitorian
-effront
+effront 1
 efs
 elaidate
 eulogizers
