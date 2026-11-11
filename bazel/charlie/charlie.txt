@@ -14517,7 +14517,7 @@ catheads
 cyst
 consoler
 continuantly 1
-cogitating
+cogitating 1
 cista
 circumstanced
 cubicontravariant
