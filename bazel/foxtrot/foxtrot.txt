@@ -10227,7 +10227,7 @@ frighted
 franconian
 finespun 1
 formolit 1
-frabous 1
+frabous 2
 frankeniaceae
 focimetry
 fruticant
