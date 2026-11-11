@@ -27199,7 +27199,7 @@ coparent
 countertraverse
 countertreason 1
 corbelling
-catholicus
+catholicus 1
 confessors
 collodionize
 consolatoriness
