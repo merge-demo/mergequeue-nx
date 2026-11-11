@@ -11904,7 +11904,7 @@ disbecome
 disdenominationalize
 dishonorableness
 disdiapason 1
-disdodecahedroid
+disdodecahedroid 1
 delegatus
 doughtiness
 distinguished
