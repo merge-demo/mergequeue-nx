@@ -4171,7 +4171,7 @@ damner 1
 desipience
 durneder
 dunstable
-discolorization
+discolorization 1
 dicyanogen
 diadokokinesis
 duodena
