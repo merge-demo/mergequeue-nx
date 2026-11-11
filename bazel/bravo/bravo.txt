@@ -5792,7 +5792,7 @@ bromization
 bedlamic 1
 bombyliidae
 bryozoan
-batfish
+batfish 1
 bimetallism
 berengelite
 bonasa
