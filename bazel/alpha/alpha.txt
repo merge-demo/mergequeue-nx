@@ -20233,7 +20233,7 @@ arricciato
 acquiesces
 applicator
 apetaly
-areroscope
+areroscope 1
 achromatic
 arriere
 axin
