@@ -6035,7 +6035,7 @@ catholicos
 curarize
 coraciiform
 cleg
-cyanide 1
+cyanide 2
 catholyte
 cathouse
 carryable
