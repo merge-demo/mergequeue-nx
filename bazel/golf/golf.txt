@@ -2969,7 +2969,7 @@ geminorum
 gastroenterostomy
 geomant
 gasaliers
-goluptious
+goluptious 1
 graben 1
 glutinousness
 geyseric
