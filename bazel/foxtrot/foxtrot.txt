@@ -2656,7 +2656,7 @@ foxfishes
 fifty 1
 frostbow
 fetish
-flashy
+flashy 1
 frump
 feckulence
 ferter
