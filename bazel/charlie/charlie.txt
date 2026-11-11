@@ -30049,7 +30049,7 @@ challengeable
 casualties
 cinchonate
 counterparts
-cognising
+cognising 1
 croupiers
 croupiest
 croupiness
