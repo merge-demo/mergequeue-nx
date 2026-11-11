@@ -1698,7 +1698,7 @@ fearsomeness
 foreshape
 feased 1
 folic 1
-fumigant
+fumigant 1
 fingrigo
 forprise
 fibrinoalbuminous 1
