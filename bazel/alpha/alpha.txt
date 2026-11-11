@@ -22786,7 +22786,7 @@ asteroidean
 amphistylic
 animikite
 acromastitis
-anchoritish
+anchoritish 1
 antitemperance
 atlantid
 asaphid
