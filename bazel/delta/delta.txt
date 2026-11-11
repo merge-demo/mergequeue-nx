@@ -11153,7 +11153,7 @@ dissaves
 despect
 dishabituating
 dyslectic
-doeg
+doeg 1
 decciare
 danite
 dismask
