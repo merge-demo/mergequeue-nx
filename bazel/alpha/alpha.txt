@@ -10420,7 +10420,7 @@ asterisms
 amess
 akmudar 1
 assailants 1
-ametabolia
+ametabolia 1
 angulose
 alikulufan
 apocalyptism 1
