@@ -2620,7 +2620,7 @@ garabato
 galluot
 glisters
 genesial 1
-genesitic
+genesitic 1
 gymnastics
 genethliacal
 gabelled
