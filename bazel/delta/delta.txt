@@ -986,7 +986,7 @@ derequisition
 dolomitise 1
 disproportionate
 drest
-darics
+darics 1
 devwsor
 darien
 disinclinations
