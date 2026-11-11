@@ -13368,7 +13368,7 @@ envassalage
 encrownment
 enrichers
 esthesiometry
-exsanguinity
+exsanguinity 1
 everydeal
 elytral
 expository
