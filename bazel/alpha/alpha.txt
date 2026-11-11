@@ -17331,7 +17331,7 @@ armigeral 1
 acetylsalicylic
 archfounder
 animalcules
-anaesthetic
+anaesthetic 1
 autothermy
 aposteme
 amidosulphonal
