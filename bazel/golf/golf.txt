@@ -7455,7 +7455,7 @@ galenas
 gladstonianism 2
 germen
 goulash
-ghbor
+ghbor 1
 groundswells 1
 gonococcal
 glub
