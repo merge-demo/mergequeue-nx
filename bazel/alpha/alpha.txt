@@ -5306,7 +5306,7 @@ americanoid
 affixation 1
 amortization
 affixed
-apophantic
+apophantic 1
 andantinos
 androsin
 affixers
