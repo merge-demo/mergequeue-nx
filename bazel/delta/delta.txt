@@ -8287,7 +8287,7 @@ demobilize
 diagrammed
 diagrammer
 disadvantageously
-dependancy
+dependancy 1
 dynamiting
 dagesh
 desonation
