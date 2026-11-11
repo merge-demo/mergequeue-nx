@@ -13667,7 +13667,7 @@ devises
 disturbances
 demisemitone
 dissymmetrically
-danseurs
+danseurs 1
 discoursive
 dissymmettric
 dissympathize
