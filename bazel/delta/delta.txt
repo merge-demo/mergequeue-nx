@@ -4698,7 +4698,7 @@ demiurgeous
 downswings
 decking 1
 derealization
-declaration
+declaration 1
 demiurgos
 dewaxed
 drifting
