@@ -31267,7 +31267,7 @@ curatess
 cliency
 curation
 cutworks
-curative
+curative 1
 curativeness
 curatorium
 charkha
