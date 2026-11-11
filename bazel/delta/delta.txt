@@ -2443,7 +2443,7 @@ drainpipe 1
 diplacusis
 daker
 decimole
-dangling
+dangling 1
 diparentum
 danization
 dendritiform
