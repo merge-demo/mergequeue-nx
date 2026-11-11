@@ -14380,7 +14380,7 @@ drillmaster 1
 divagationally
 divan
 dipolsphene
-doley
+doley 1
 divans
 debatably
 distributivity
