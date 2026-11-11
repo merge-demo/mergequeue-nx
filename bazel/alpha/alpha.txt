@@ -21653,7 +21653,7 @@ assays
 assam
 assamites 1
 acetamide
-atrophiated
+atrophiated 1
 amblyopsidae
 assart
 antistriker
