@@ -11919,7 +11919,7 @@ euploeinae
 ectoderms
 emotionalist
 enragement
-earthenware
+earthenware 1
 expurgation 1
 ephidrosis
 excerebration
