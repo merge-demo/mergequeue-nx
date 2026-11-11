@@ -8491,7 +8491,7 @@ accismus
 antepredicamental
 aurora
 alkedavy
-alkekengi
+alkekengi 1
 alkene
 aroid
 alkenyl
