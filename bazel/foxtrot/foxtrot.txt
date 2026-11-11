@@ -11428,7 +11428,7 @@ furred 1
 frieze
 frowstiest
 fettering
-forebemoaned
+forebemoaned 1
 founte
 fortunetell
 fallibleness
