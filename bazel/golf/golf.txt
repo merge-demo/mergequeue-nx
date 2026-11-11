@@ -7674,7 +7674,7 @@ gradient
 galey
 gobblers 1
 greybeard
-goatishly
+goatishly 1
 gastrophilist
 grading 1
 grease
