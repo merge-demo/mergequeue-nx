@@ -1488,7 +1488,7 @@ fishmeal
 fairgoer
 fila
 flutings 1
-furibund
+furibund 1
 flunkeyish
 furanose
 foundering
