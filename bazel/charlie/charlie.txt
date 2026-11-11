@@ -11116,7 +11116,7 @@ chivachee
 confirmand
 chivalresque
 caddis
-compulsatively
+compulsatively 1
 cosovereign
 controllableness
 caprificator
