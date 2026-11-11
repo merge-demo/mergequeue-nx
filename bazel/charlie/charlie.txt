@@ -3231,7 +3231,7 @@ capital
 chevronny
 capitaldom
 capitaled
-capitalisable
+capitalisable 1
 capitalised
 capitalising
 cynocrambaceae
