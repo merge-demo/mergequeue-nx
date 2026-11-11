@@ -17896,7 +17896,7 @@ anakrousis
 appressoria
 appressorial
 anticold
-anabathmos
+anabathmos 1
 allodesmism
 appressorium
 abhorred
