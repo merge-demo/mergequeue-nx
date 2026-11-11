@@ -3322,7 +3322,7 @@ foreconscious
 facewise
 ferrohydrocyanic 1
 fossilologist
-folklorist
+folklorist 1
 featherlessness
 frustrates
 fioritura
