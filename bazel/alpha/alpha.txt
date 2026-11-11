@@ -14290,7 +14290,7 @@ anthemas
 anthemata
 agavose
 amugis
-anthemia
+anthemia 1
 archebiosis
 archflatterer
 anthemion
