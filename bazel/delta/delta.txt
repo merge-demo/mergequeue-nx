@@ -2110,7 +2110,7 @@ decameral
 daintify
 doline
 diapasm
-daunts
+daunts 1
 doab 1
 disinheritances
 duddies
