@@ -14386,7 +14386,7 @@ circumvolution
 curdler
 circumvolve 1
 circumvolved
-circumzenithal
+circumzenithal 1
 circus
 circusy
 correspondents
