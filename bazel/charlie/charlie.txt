@@ -750,7 +750,7 @@ cleaning
 cagers
 crimpiness
 corners
-chasselas
+chasselas 1
 cages
 cocoa
 colonelship
