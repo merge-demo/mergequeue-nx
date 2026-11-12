@@ -8465,7 +8465,7 @@ fatbrained
 formazan 1
 formee
 formel
-furiant
+furiant 1
 foresinger
 formelt
 ferritic
