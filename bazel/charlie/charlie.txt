@@ -2467,7 +2467,7 @@ cancroid
 clientele
 contuse
 crystallitic
-cancrum
+cancrum 1
 cancrums
 cand
 candelabras
