@@ -25266,7 +25266,7 @@ academus
 archsewer
 atinkle
 activating
-adits
+adits 1
 arrhythmically
 acylamidobenzene
 afrikanderism
