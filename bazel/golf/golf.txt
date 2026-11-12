@@ -9949,7 +9949,7 @@ glozer 1
 guitarfishes
 guardianship
 garb
-gumptions
+gumptions 1
 grilladed
 guarico
 gonidial
