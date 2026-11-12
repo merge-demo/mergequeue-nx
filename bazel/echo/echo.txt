@@ -8909,7 +8909,7 @@ ergostat
 eddie
 entelam
 experimentally
-eleutheromaniac
+eleutheromaniac 1
 ergoted
 explosible
 encephalomalaxis
