@@ -1606,7 +1606,7 @@ faniente
 favouring
 footroom
 floriage
-frijol
+frijol 1
 fervescence
 flannel
 fawkener
