@@ -570,7 +570,7 @@ cadre
 cyanomaclurin
 cadres
 ciconiiform
-councilors
+councilors 1
 convokes 1
 colloque
 confort
