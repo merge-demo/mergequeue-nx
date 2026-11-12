@@ -8463,7 +8463,7 @@ embroidering
 epos
 elianic
 encinas
-epizootic
+epizootic 1
 epoxyed 1
 epoxies
 employed
