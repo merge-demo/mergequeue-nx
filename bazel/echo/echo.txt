@@ -2776,7 +2776,7 @@ evergreenite
 exchangeably
 equangular 1
 explorations
-ebracteate
+ebracteate 1
 eurithermophilic
 excecate
 elytrous
