@@ -13220,7 +13220,7 @@ barundi
 bosom
 blemmyes
 botryoidal
-bosomed
+bosomed 1
 beading
 buzzers
 breatheableness
