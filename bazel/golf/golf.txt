@@ -5924,7 +5924,7 @@ gambirs
 glamourizer
 gluepot
 gimballed
-garrison 1
+garrison 2
 gemitorial
 globuliform
 gaylussacia
