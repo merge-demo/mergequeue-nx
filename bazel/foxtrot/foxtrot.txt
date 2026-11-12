@@ -5975,7 +5975,7 @@ fisk
 filleter
 fanwright
 ferguson
-favism 1
+favism 2
 firkin
 fawn
 forecasters
