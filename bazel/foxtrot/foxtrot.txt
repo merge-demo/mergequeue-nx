@@ -7780,7 +7780,7 @@ funfairs
 feudalized
 fettucine
 foremother
-frithbot
+frithbot 1
 flyblew
 flickery
 faint
