@@ -13992,7 +13992,7 @@ embargoist
 epicoracohumeral
 exaltate
 extralimital
-enfigure
+enfigure 1
 extrapolatory
 entemple
 extraposition
