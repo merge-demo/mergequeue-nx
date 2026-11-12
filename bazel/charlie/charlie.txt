@@ -24619,7 +24619,7 @@ caudalward
 copyreading
 curiosos
 copyrightable
-copyrighter
+copyrighter 1
 copis
 cowling
 chicnesses
