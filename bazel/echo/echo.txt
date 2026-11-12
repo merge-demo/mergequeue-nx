@@ -8227,7 +8227,7 @@ ethnomaniac
 exodontic 1
 effaceable
 episcia
-extracting
+extracting 1
 ermani 1
 elydoric
 exaltee
