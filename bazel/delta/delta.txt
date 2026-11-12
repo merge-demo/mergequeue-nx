@@ -5899,7 +5899,7 @@ deodars
 diablene
 duffy
 duplicity 1
-deprehend
+deprehend 1
 disprofit
 damsel
 diploptera
