@@ -667,7 +667,7 @@ galgulidae
 glint
 geropiga
 gangboard
-gallows 1
+gallows 2
 gonitis
 giddify
 geoaesthesia
