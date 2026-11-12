@@ -4163,7 +4163,7 @@ fakiness
 firebombing 1
 fairlike
 fractionlet
-faithwise
+faithwise 1
 figments
 figuredly
 forthrights
