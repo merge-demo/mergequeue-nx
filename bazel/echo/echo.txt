@@ -8232,7 +8232,7 @@ ermani 1
 elydoric
 exaltee
 epistases
-epistasies
+epistasies 1
 energy
 enhancers
 epibenthos
