@@ -6997,7 +6997,7 @@ flannels
 fineries
 freemason 1
 fondly
-fluorspar
+fluorspar 1
 flop
 fondlingly
 fraenulum 1
