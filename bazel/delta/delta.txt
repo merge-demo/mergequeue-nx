@@ -14378,7 +14378,7 @@ divagates
 diphthongal
 drillmaster 1
 divagationally
-divan
+divan 1
 dipolsphene
 doley
 divans
