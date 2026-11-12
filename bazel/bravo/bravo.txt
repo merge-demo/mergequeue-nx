@@ -14101,7 +14101,7 @@ bugged
 butsudan
 brekkle
 bumbaze
-brighteyes
+brighteyes 1
 birdlore
 brachiosaur
 brachiosaurus
