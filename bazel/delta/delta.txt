@@ -5576,7 +5576,7 @@ depeinct
 dwarfing
 dependabilities 1
 donatistic
-dibber
+dibber 1
 dustfall
 draftable 1
 depended
