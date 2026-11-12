@@ -11037,7 +11037,7 @@ amorphously
 aristodemocracies
 amorphousness
 affirmatory
-anguishes
+anguishes 1
 anthropometer
 archegone
 acroblast
