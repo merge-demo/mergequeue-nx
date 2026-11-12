@@ -974,7 +974,7 @@ graysby
 gastrolobium
 genre 1
 galliferous
-gilgamesh
+gilgamesh 1
 grouting
 gagmen
 ganched
