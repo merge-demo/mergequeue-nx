@@ -24784,7 +24784,7 @@ conceivable 1
 carnel
 carolinas
 copulation
-copulative
+copulative 1
 conquian
 cardiidae
 creaked
