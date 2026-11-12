@@ -20079,7 +20079,7 @@ cretinous
 counterterm
 continence
 corpselike
-chesset
+chesset 1
 commercial 1
 commercialised
 centgrave
