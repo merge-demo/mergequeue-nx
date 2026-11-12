@@ -36,7 +36,7 @@ disaligning
 dacian 1
 dyce
 deservedly
-dacitic
+dacitic 1
 didymus
 discriminatingness
 dackered
