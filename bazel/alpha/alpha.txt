@@ -14116,7 +14116,7 @@ anukit
 antemetallic
 anestrus 1
 antemillennial
-aurorally
+aurorally 1
 ambulomancy
 antemundane
 antennae
