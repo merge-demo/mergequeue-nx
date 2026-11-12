@@ -23809,7 +23809,7 @@ allicit
 amatorious
 allelomorphism
 apostatic
-acicular
+acicular 1
 austrianize
 arsenoferratin
 aldermanry
