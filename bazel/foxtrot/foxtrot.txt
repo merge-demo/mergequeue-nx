@@ -5522,7 +5522,7 @@ fervours
 finnan
 fletchers
 furrower
-furnit
+furnit 1
 fisc
 faked
 filionymic
