@@ -6753,7 +6753,7 @@ bendability
 berreaves
 berret
 berrettas
-bloodred
+bloodred 1
 barongs
 barracudina
 bufonid
