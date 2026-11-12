@@ -2126,7 +2126,7 @@ chondrosarcomata
 campanulous
 cowbells
 campbell
-campbellisms
+campbellisms 1
 campbellites
 cixiid
 capriciousness
