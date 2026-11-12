@@ -14422,7 +14422,7 @@ cirribranch
 cirriferous
 colonialism
 courtezan
-confidentially
+confidentially 1
 cirriped
 chowsed
 cirripedia
@@ -19846,7 +19846,7 @@ coulometrically
 comfit
 comfiture
 comfort
-cryptoglaux
+cryptoglaux 1
 comfortableness
 comfortation
 churchly
