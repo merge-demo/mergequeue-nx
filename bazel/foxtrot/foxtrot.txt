@@ -3425,7 +3425,7 @@ farcie
 fustanella 1
 floc
 flecker
-featherlike
+featherlike 1
 fenestella
 forestate
 fielders 1
