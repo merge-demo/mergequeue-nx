@@ -10831,7 +10831,7 @@ flambeaux 1
 fumose
 fulfillment
 flus
-fleetness
+fleetness 1
 flavorous 1
 fulfillments
 fennici
