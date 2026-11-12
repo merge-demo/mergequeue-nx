@@ -9619,7 +9619,7 @@ columbier
 combatted
 carceral
 charqued
-cheerfully
+cheerfully 1
 camelliaceae
 cheerier
 cautiousness
