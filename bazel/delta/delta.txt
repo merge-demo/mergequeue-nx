@@ -11834,7 +11834,7 @@ dislimning
 damascenine
 devonport
 detoxicate
-doylies
+doylies 1
 discerningly
 disculpatory
 deashes
