@@ -1513,7 +1513,7 @@ gorlin
 gregarinidal
 grote
 genapping
-geratology 1
+geratology 2
 gasman
 gillnet
 gasbags
