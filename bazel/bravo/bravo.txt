@@ -7561,7 +7561,7 @@ brainworker
 banagos
 beweeper
 beneficent
-beweeps
+beweeps 1
 bombilate
 bastardize
 bloodripe
