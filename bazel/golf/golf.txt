@@ -2566,7 +2566,7 @@ grubbies 1
 gain
 guilder 1
 gynecium
-gurle
+gurle 1
 gomeisa
 gonochorism
 galenites
