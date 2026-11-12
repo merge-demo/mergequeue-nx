@@ -28786,7 +28786,7 @@ chok
 chuckfull
 cines
 crescentlike
-crescentoid
+crescentoid 1
 crescents
 crescively
 clarinettist
