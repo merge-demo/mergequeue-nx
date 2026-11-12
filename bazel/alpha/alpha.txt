@@ -18844,7 +18844,7 @@ archgod
 archheart
 aoristically 1
 archhypocrisy
-archhypocrite
+archhypocrite 1
 archdeaconess
 alamire
 alloplasty
