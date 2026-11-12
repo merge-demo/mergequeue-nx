@@ -8485,7 +8485,7 @@ ascent
 alkaptonuric
 alkarsin
 ancipital
-annuisance
+annuisance 1
 alkatively
 accismus
 antepredicamental
