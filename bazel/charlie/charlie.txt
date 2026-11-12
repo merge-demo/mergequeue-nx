@@ -18093,7 +18093,7 @@ coenobitical
 carbinol
 coannexing
 coenocentrum
-celioscopy
+celioscopy 1
 coenocytic
 carson
 coenodioecism
