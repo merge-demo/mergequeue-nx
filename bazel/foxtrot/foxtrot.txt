@@ -1047,7 +1047,7 @@ formicarian
 frieda
 focalization 1
 flopper
-felspathose
+felspathose 1
 foined
 floricomous
 forensal
