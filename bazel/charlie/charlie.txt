@@ -2193,7 +2193,7 @@ campyloneuron
 cakey
 campylotropal
 campylotropous
-campimeter
+campimeter 1
 conches
 configuring
 camping
