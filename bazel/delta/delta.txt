@@ -522,7 +522,7 @@ denuclearizes
 dextromanual
 diminishingturns
 discustom 1
-dromotropic
+dromotropic 1
 douse
 dalmania
 disobliged
