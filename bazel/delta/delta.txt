@@ -9073,7 +9073,7 @@ dictionarian
 dorsoabdominal
 dollying
 dropsywort
-disembattle
+disembattle 1
 dyester
 discommodity
 diluvy
