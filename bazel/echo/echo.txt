@@ -13834,7 +13834,7 @@ euvrou
 euplectella
 extracloacal
 expos
-euthenics
+euthenics 1
 excudit
 elaeothesia
 extraversively
