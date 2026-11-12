@@ -31660,7 +31660,7 @@ corselets
 cuscutaceae
 cuscutaceous
 cusecs
-cush
+cush 1
 cushag 2
 collineation
 cushats
