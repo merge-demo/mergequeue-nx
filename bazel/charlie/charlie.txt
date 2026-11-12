@@ -6494,7 +6494,7 @@ cambodia
 cavelike
 cavemen
 cavernal
-cavernlike 1
+cavernlike 2
 cavernoma
 cavernous
 cavernously
