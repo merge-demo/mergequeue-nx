@@ -6256,7 +6256,7 @@ fluoarsenate
 ferromagnet 1
 flummeries
 fld
-fedoras
+fedoras 1
 flatfooting
 fearing
 febronianism
