@@ -14700,7 +14700,7 @@ antiarthritic
 afrogaea
 apepsia
 avos
-archetypic
+archetypic 1
 armholes
 ageism
 antibacchii
@@ -19541,7 +19541,7 @@ arguing 1
 admiration
 apnea
 argulus
-argument
+argument 1
 arabidopsis
 argumental
 autecious
@@ -21260,7 +21260,7 @@ ashtoreth
 anorchus
 aspartic
 anchat
-ashvamedha
+ashvamedha 1
 aperispermic
 abusive
 asian
