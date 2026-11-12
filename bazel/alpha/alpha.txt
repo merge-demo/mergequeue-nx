@@ -22466,7 +22466,7 @@ anthemideae
 aleurones
 astrophotographic
 astrophotometer 1
-astroscopy
+astroscopy 1
 autocratorical
 astroscopus
 astrospectral
