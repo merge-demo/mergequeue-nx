@@ -2293,7 +2293,7 @@ grange
 granulosa
 gynarchy 1
 galante
-gumihan
+gumihan 1
 gestant
 grosse
 gripmen
