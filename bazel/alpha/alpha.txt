@@ -9126,7 +9126,7 @@ abhorring
 alky
 aristogenetic
 anemometric
-antacid
+antacid 1
 alluvious
 assortative
 ametropic
