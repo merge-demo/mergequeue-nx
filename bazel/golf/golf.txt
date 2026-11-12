@@ -6558,7 +6558,7 @@ glutting
 greyskin 1
 guiders
 gentianales 1
-glandarious
+glandarious 1
 grandaddy
 genesiac
 gpcd
