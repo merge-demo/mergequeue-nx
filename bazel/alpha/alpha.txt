@@ -101,7 +101,7 @@ abaptiston
 acknow
 annominate 1
 auditories
-abarticulation
+abarticulation 1
 agyieus
 abase
 antedate
