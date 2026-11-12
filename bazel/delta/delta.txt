@@ -12381,7 +12381,7 @@ deathweed
 dishcloth
 dishcloths
 disparkle
-dupable 1
+dupable 2
 dishclout
 disassembly
 disheartenedly
