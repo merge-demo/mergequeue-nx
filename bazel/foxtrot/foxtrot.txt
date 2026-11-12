@@ -540,7 +540,7 @@ falcunculus
 falderals 1
 fussier
 fibrobronchitis
-familiarity
+familiarity 1
 forewarn
 fluvial
 fortress
