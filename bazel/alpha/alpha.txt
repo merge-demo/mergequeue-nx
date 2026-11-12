@@ -20338,7 +20338,7 @@ anarchic 1
 afley
 aeromedicine
 aseptol
-arrogate
+arrogate 1
 antenarial
 anemonal
 alonsoa
