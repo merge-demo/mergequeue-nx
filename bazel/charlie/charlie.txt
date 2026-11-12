@@ -22840,7 +22840,7 @@ coalsack 1
 chibrit
 consequently
 choremen
-cognateness
+cognateness 1
 clamourer
 consertion
 chemophysiological
