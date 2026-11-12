@@ -3891,7 +3891,7 @@ canister
 carbonitride
 cincinatti
 countertranslation
-charmfulness
+charmfulness 1
 carbonization
 carbonize
 charlatanism
