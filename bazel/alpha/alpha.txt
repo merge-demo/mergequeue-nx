@@ -11978,7 +11978,7 @@ aesthesia
 aeschynomene
 adosculation
 autobahnen
-anapnoic
+anapnoic 1
 anapodeictic
 annihilates
 australopithecus
