@@ -5792,7 +5792,7 @@ goony
 grunts
 goupin
 gnatworm
-genupectoral 1
+genupectoral 2
 goniometer
 globoid
 geobotanically
