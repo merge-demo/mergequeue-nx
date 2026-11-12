@@ -11858,7 +11858,7 @@ analogous
 alcoholised
 acroteric
 ailing
-analogously
+analogously 1
 adendric 1
 albescent
 alconde
