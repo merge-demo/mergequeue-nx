@@ -2461,7 +2461,7 @@ effulgences
 exinanition
 erythrophyll
 encollar
-exendospermic
+exendospermic 1
 engrails
 earthquaked
 ejulation
