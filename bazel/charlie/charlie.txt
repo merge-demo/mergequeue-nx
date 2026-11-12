@@ -8518,7 +8518,7 @@ compositionally
 congealedness
 chimbley
 corslet
-chanca
+chanca 1
 chance
 clow
 chemosterilants
