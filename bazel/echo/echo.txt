@@ -3614,7 +3614,7 @@ encyclopaediac 1
 effusive
 equivalents
 enchainement
-ensuable
+ensuable 1
 eyeliner
 embracement
 enquiry
