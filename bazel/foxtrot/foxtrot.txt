@@ -3562,7 +3562,7 @@ filaments
 fistule
 flexibility 1
 formularise
-filarian
+filarian 1
 fattily
 fluoryl
 filaricidal
