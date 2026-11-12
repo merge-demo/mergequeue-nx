@@ -2690,7 +2690,7 @@ gemarist 1
 gigantocyte
 genioglossal
 gastroenterologists
-globoids
+globoids 1
 geoteuthis
 genioglossus
 gelling
