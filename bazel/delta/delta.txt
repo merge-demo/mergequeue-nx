@@ -1107,7 +1107,7 @@ denudates
 dentalium
 darwinists
 declamations
-denazified
+denazified 1
 dentatosetaceous
 diamins
 dialectically 1
@@ -14411,7 +14411,7 @@ diversification
 disporous
 diarch
 diversified
-devils
+devils 1
 diversifier
 diversiflorate
 diversiform
@@ -15827,7 +15827,7 @@ diacetic
 deluge
 dissertations
 demidome
-dumbstruck
+dumbstruck 1
 dorsimeson
 devolatilization
 disyllabize
@@ -18599,7 +18599,7 @@ dusters
 desperadoism
 dustheap
 dedo
-daincha
+daincha 1
 dustless
 droguet
 diakonikon
