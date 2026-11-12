@@ -6324,7 +6324,7 @@ frilal
 fiddlery 2
 fumatories
 fissipeda
-frags
+frags 1
 fluidity 1
 fuzzy
 flack
