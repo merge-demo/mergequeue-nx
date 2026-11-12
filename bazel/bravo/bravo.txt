@@ -4490,7 +4490,7 @@ bluenose 1
 becroak
 bedead 1
 becross
-bureaucratism
+bureaucratism 1
 becrowd
 becrowded
 burstwort
