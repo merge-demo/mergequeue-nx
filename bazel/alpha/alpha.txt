@@ -957,7 +957,7 @@ apprehension
 aecidiostage
 armloads
 axogamy
-absorptiveness
+absorptiveness 1
 alidades
 absquatulate
 anchorites
