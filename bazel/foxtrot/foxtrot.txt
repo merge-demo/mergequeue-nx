@@ -10700,7 +10700,7 @@ fartlek 1
 fortran
 flunkeyistic
 flashtubes
-forelaid
+forelaid 1
 fil
 fellmongering 1
 flavedo
