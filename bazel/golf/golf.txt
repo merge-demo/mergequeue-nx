@@ -62,7 +62,7 @@ gablewindowed
 gogga
 gonidiophore
 galeenies 1
-garoo 1
+garoo 2
 gentlemanize
 greffe
 gorcrow

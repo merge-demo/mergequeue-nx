@@ -17342,7 +17342,7 @@ apostille
 argos
 antagonist
 aglycosuric
-apheliotropically 1
+apheliotropically 2
 anatiferous
 apostleship
 abaisse
