@@ -14700,7 +14700,7 @@ antiarthritic
 afrogaea
 apepsia
 avos
-archetypic
+archetypic 1
 armholes
 ageism
 antibacchii
