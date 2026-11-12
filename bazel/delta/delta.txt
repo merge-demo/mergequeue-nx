@@ -7273,7 +7273,7 @@ defalk
 disarrest
 deteriorating
 deterioration
-deuce
+deuce 1
 data
 dear
 dicyan
