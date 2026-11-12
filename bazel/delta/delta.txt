@@ -15493,7 +15493,7 @@ disbands
 denunciant
 donator
 detergence
-discodactyl
+discodactyl 1
 deceivableness
 dispell
 desist
