@@ -6281,7 +6281,7 @@ deprecates
 diradiation
 didymolite
 daughters 1
-dermatopathic
+dermatopathic 1
 davoch
 dodecanesian
 dermatophyte
