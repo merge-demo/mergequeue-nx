@@ -3672,7 +3672,7 @@ endura
 euploids 1
 exscinded
 endocrinopathic
-entangling
+entangling 1
 embryogenesis
 eunomy
 extravert
