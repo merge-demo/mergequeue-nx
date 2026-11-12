@@ -18199,7 +18199,7 @@ collectiveness
 coexerted
 cheeked
 coexerting
-condescends
+condescends 1
 coexerts
 coexistence
 coexisting 1
