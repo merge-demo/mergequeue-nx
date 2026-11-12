@@ -2278,7 +2278,7 @@ ethnarchies
 endothys 1
 electricize
 emphasizes
-electriferous
+electriferous 1
 energumen
 epitaphist
 epilating
