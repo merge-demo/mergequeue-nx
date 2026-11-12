@@ -12391,7 +12391,7 @@ eryon
 essencing
 electrolyze
 eucleidae
-earn
+earn 1
 estriol
 encephalology
 ephemerida
