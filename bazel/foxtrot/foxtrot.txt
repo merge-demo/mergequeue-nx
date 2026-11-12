@@ -10446,7 +10446,7 @@ forstall 1
 frizes
 fellah
 ferocity
-flaxtail
+flaxtail 1
 frontwards
 fragrant
 fermatian
