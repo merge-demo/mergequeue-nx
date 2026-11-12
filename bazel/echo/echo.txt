@@ -12304,7 +12304,7 @@ exenterate
 etheostomidae
 electronegative 1
 eerock
-equilucent
+equilucent 1
 exerce
 equimultiple
 exceptious
