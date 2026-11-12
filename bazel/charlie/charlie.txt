@@ -9840,7 +9840,7 @@ chemiotaxic
 carvone
 chemiotaxis
 chemiotropic
-chemiotropism
+chemiotropism 1
 crinet
 chemisette
 chemism
