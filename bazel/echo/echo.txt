@@ -5521,7 +5521,7 @@ ejaculates
 encircles
 enervate
 embalmers
-enervating
+enervating 1
 encake
 electroscope
 elritch
