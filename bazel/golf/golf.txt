@@ -21,7 +21,7 @@ goter
 gastroadynamic
 gashouse
 geotropic
-gabbro
+gabbro 1
 gabelleman 1
 grouchy
 gainers
