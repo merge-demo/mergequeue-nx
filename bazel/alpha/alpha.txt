@@ -4686,7 +4686,7 @@ achilles
 accidented
 aegean
 autocriticism
-amphibologically
+amphibologically 1
 aegemony
 alismaceae
 apneal
