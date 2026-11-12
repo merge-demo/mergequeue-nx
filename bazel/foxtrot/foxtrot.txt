@@ -1968,7 +1968,7 @@ filatory
 fillock
 fernticle
 fibratus
-functionalize
+functionalize 1
 frigiferous
 flchette
 flannelette
