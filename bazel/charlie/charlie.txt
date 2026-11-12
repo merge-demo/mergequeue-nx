@@ -4048,7 +4048,7 @@ cicada
 cowpox
 catechism
 cardamom
-cicatrise
+cicatrise 1
 cardamon
 centenary
 cardamum
