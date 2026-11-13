@@ -2668,7 +2668,7 @@ berrugate
 barm
 bollixes 1
 begrimming
-bututs
+bututs 1
 barmaster 1
 bergalith
 benzoic
