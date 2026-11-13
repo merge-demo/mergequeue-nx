@@ -5905,7 +5905,7 @@ agglomerative
 abscissions
 arachnologist
 apical
-agglutinate
+agglutinate 1
 arenaceous
 arri
 agglutinative
