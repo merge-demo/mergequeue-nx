@@ -12052,7 +12052,7 @@ dibrom
 donut
 deacon
 disensanity
-dismayedness 1
+dismayedness 2
 dunderheaded
 discous
 discontinuity
