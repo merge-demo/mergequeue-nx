@@ -11515,7 +11515,7 @@ deputation
 drachen
 discomfort
 dewaterer
-diaphragmatic
+diaphragmatic 1
 demarch
 delies
 dismounts 1
