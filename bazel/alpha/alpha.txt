@@ -7723,7 +7723,7 @@ armozine
 analyticities
 adnascence
 angustia
-ald
+ald 1
 aldane
 aldea
 antichresis
