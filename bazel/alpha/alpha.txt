@@ -3665,7 +3665,7 @@ adenopharyngeal
 adenophlegmon
 appulsively
 antestature
-adenophora
+adenophora 1
 abscissas
 avianizing
 archaize
