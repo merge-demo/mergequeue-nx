@@ -4223,7 +4223,7 @@ adorers
 adoringly
 abomas
 australianism
-adorn
+adorn 1
 adornation
 amphibalus
 apartado
