@@ -5492,7 +5492,7 @@ amethystine
 aftercast
 aftercataract
 aloe
-afterclause
+afterclause 1
 aftercome
 australasian
 acrostichic
