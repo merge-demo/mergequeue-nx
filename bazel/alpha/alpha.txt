@@ -23879,7 +23879,7 @@ autecism
 autecology
 arrach
 artic
-adaptiveness
+adaptiveness 1
 aaa
 abrocoma
 auth
