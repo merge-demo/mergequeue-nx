@@ -16243,7 +16243,7 @@ delenda
 disabling
 doubter
 downcome
-dogtail
+dogtail 1
 downcoming
 deke
 disulfids
