@@ -10686,7 +10686,7 @@ cantharidated
 chalk
 chimneyless
 counterdefender
-chimneylike
+chimneylike 1
 chastisement
 chimneyman
 chimneypiece
