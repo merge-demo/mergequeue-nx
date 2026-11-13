@@ -6574,7 +6574,7 @@ danburite 1
 desdemona
 disinvest 1
 desecrated
-dilemmatical
+dilemmatical 1
 dipole
 dockize
 disematism
