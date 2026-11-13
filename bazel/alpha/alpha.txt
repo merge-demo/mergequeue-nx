@@ -15284,7 +15284,7 @@ arar
 acetimetry
 afterdinner
 antigravitate
-annale
+annale 1
 alleviator
 agamically
 awalim
