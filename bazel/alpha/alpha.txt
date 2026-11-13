@@ -1469,7 +1469,7 @@ amphipneustic
 acquaintancy
 agreeableness
 anticness
-acclinal
+acclinal 1
 adhesivemeter
 arhythmical
 autopolyploidy
