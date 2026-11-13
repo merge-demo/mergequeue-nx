@@ -9920,7 +9920,7 @@ exude 1
 exoculated
 enskies
 extravertive
-effemination
+effemination 1
 epidermatic
 expiatoriness
 economizer
