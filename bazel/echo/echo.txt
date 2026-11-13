@@ -7066,7 +7066,7 @@ endotropic
 environment
 embolic
 entwines
-epinikian
+epinikian 1
 enzymolytic
 excitomuscular
 encompassed
