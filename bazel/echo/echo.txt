@@ -2112,7 +2112,7 @@ elasmothere 1
 euphoniously
 ebullioscope
 emulge
-excretory
+excretory 1
 elastica
 extrapolator
 elastically
