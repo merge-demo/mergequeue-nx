@@ -10994,7 +10994,7 @@ amoral
 arresters
 amoralist
 amorally
-adminstration
+adminstration 1
 actinomorphy
 aesthiology
 amorettos
