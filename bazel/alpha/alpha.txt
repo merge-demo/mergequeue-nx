@@ -22441,7 +22441,7 @@ astronaut
 apollinian
 asmodeus
 aphoruridae
-astronavigator
+astronavigator 1
 anodynic
 astronomy
 analgen
