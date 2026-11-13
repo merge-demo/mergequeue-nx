@@ -10610,7 +10610,7 @@ datapunch
 doleritic
 drudger
 deben
-decolorizing
+decolorizing 1
 diplomates
 diplomatically
 diethyl
