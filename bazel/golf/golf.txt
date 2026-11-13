@@ -1970,7 +1970,7 @@ gangers
 gruelly
 gaunty
 gypsite
-genealogically
+genealogically 1
 greywacke
 glairs
 garnishments

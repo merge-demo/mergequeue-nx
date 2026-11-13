@@ -1313,7 +1313,7 @@ belying
 basellaceous
 balatron
 benzaldiphenyl
-balatte
+balatte 1
 bergfall
 bermudian
 bernoullian
