@@ -1857,7 +1857,7 @@ flemishing
 fringefoot 1
 fencibles
 fielden
-fiveling
+fiveling 1
 fiances
 flabellation
 frutify
