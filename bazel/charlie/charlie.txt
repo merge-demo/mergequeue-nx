@@ -4946,7 +4946,7 @@ cutleriaceae 1
 cartier
 cartiest
 cartilaginei
-clogger
+clogger 1
 cartilagineous
 collatable
 chirotes
