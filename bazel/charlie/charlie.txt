@@ -7334,7 +7334,7 @@ cephalina
 cephaline
 cephalins
 cephalism
-caprine
+caprine 1
 cephalitis
 cephalization
 cephaloauricular
