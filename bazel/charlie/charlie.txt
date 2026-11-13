@@ -1474,7 +1474,7 @@ continents
 careening
 calkers
 chowse
-calkin
+calkin 1
 calkins
 calks
 callainite
