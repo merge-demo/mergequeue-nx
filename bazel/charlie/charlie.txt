@@ -17762,7 +17762,7 @@ campbellism
 coct
 coctile
 chloroformist
-condog
+condog 1
 cocuyo
 cocullo
 cocurator
