@@ -2769,7 +2769,7 @@ disoperation
 decortization
 decorum 1
 dactylorhiza
-diamber
+diamber 1
 dirige
 dineric
 daddies
