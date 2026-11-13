@@ -677,7 +677,7 @@ cinefilm
 cafardise
 charka
 casuarinaceous
-cryptanalytic
+cryptanalytic 1
 cafenet
 cafetal
 counterreformation
