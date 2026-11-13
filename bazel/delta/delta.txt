@@ -17466,7 +17466,7 @@ dipleurogenesis
 drowning
 drowses
 drowsier
-dumous
+dumous 1
 damnyankee
 dhundia
 discarder

@@ -5058,7 +5058,7 @@ endophragmal 1
 equimolal
 entomb
 enqueued
-excuses
+excuses 1
 encumbrances
 eucosmid
 excipulaceae
