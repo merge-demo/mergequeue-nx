@@ -1055,7 +1055,7 @@ fringillidae
 foraging
 fogas
 fastigiately
-faro
+faro 1
 fluoridization
 floriken
 floter
