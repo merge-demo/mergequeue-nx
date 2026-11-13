@@ -21613,7 +21613,7 @@ asprout 1
 antihierarchist
 antu
 anamniote
-approvable
+approvable 1
 azoxime
 asquint
 anallagmatis
