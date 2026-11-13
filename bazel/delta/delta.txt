@@ -13124,7 +13124,7 @@ diocese
 disperple 2
 diadem
 deflourish
-decurved
+decurved 1
 didactive
 dispersedness
 detonates
