@@ -25158,7 +25158,7 @@ apophylactic
 appendice
 almug
 atomicity
-aphanipterous
+aphanipterous 1
 abduce
 aret
 axman
