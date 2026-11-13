@@ -598,7 +598,7 @@ drawboy 1
 demifusion
 dextrose
 dups
-damine
+damine 1
 disbeliever
 drek
 dedolomitized
