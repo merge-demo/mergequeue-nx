@@ -5737,7 +5737,7 @@ catching
 carolean
 cannon
 catchlight
-cultivatability
+cultivatability 1
 cornein
 clockcase
 cowpock
