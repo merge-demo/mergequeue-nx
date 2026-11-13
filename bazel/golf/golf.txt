@@ -43,7 +43,7 @@ gabions 1
 gynecologies 1
 gunfires
 genotypically
-gableboard
+gableboard 1
 groats
 graperies
 gangue
