@@ -827,7 +827,7 @@ extremest
 extradecretal
 encrust
 ectypography
-epitheton
+epitheton 1
 entrecote
 epop 1
 exulate
