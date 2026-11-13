@@ -1790,7 +1790,7 @@ commutators
 comdr
 controlment
 calvinism
-colorimetrical
+colorimetrical 1
 cockneity
 calvinistic
 calvinistical
