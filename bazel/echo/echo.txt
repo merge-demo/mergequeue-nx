@@ -10235,7 +10235,7 @@ excavators
 ethyldichloroarsine
 emphraxis
 ethylenimine
-esperanto
+esperanto 1
 exasperated
 edituate
 epistolist

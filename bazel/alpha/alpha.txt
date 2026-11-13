@@ -8568,7 +8568,7 @@ advisatory
 alkahestic
 admonishment
 acidifies
-allantoidean
+allantoidean 1
 allantoides
 allantoin
 afterings
