@@ -30585,7 +30585,7 @@ conopholis
 cuboidal
 cuneocuboid
 caldera
-cellarette 1
+cellarette 2
 cuboides
 casanovas
 cuboids
