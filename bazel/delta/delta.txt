@@ -5156,7 +5156,7 @@ disburdened 1
 denervation
 denes
 deices
-defer
+defer 1
 daughterlike
 deading
 dismastment
