@@ -168,7 +168,7 @@ glassworm
 goliardic
 gerontocratic
 gag
-garoted
+garoted 1
 glamour
 greyhen
 gorgoneion
