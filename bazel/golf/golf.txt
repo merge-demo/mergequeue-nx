@@ -10139,7 +10139,7 @@ guerrila
 gurgling
 gazolyte
 guller
-glareless
+glareless 1
 greenier
 grudges 1
 granophyric
