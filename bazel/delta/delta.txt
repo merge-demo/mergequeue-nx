@@ -15574,7 +15574,7 @@ doubt
 divelled
 diathermize
 donzels
-doob
+doob 1
 diazobenzene
 doodab
 demurrages
