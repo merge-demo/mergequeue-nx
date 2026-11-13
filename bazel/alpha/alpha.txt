@@ -14396,7 +14396,7 @@ awful
 acolyte
 anthotaxis
 andries
-analgetic
+analgetic 1
 assortatively
 anisocycle
 abnegate
