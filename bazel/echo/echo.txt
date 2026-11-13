@@ -1799,7 +1799,7 @@ eocene
 elliott
 earplugs
 excrement
-embrutes
+embrutes 1
 epigonism
 enfranch
 eyespots
@@ -9166,7 +9166,7 @@ eirenic
 essenic
 erodes
 edgeless
-exterminatory
+exterminatory 1
 extradition
 enslavement
 enginelike
