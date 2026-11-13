@@ -609,7 +609,7 @@ cinerarium 1
 caracal
 cacotrophy
 councilwomen 1
-caecally
+caecally 1
 combwright
 coorg
 ctenodipterini
