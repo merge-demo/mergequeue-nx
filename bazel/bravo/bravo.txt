@@ -6660,7 +6660,7 @@ berycoidea
 barpost
 berycomorphi
 bunsenite
-berigora 1
+berigora 2
 beryl
 beryllonate
 berimed
