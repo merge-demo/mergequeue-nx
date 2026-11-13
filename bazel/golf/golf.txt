@@ -7021,7 +7021,7 @@ goondie
 goons
 gamostely
 gavel
-gummer 1
+gummer 2
 goofily
 golgothas
 goops
