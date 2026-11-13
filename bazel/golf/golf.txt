@@ -1679,7 +1679,7 @@ gastrodermis
 gulfweed
 guayabo
 gastroduodenitis 1
-guadua
+guadua 1
 gastroduodenostomy 1
 gastritis
 ganodont
