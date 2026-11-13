@@ -4560,7 +4560,7 @@ forethinker
 foolable
 faciolingual
 fourth
-feudists
+feudists 1
 frit
 futtocks
 forespoken
