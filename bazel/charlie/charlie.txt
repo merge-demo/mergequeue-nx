@@ -4930,7 +4930,7 @@ circumambages
 cartelist
 costars
 cartelistic
-cupeling
+cupeling 1
 cassava
 carter
 clown
