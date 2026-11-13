@@ -11282,7 +11282,7 @@ frigorify
 foregut
 femmes
 fogy 1
-fiscalize
+fiscalize 1
 flurrying
 footwear
 farcing 1
