@@ -3469,7 +3469,7 @@ ethnol
 exceptionableness 1
 ensepulchering
 enamels
-enthronement
+enthronement 1
 ebionism
 ekhimi
 eversporting
