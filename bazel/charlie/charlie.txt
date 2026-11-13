@@ -7258,7 +7258,7 @@ cylinderer
 cancrizans
 centum
 colorcaster
-cancellate
+cancellate 1
 copopsia
 catarinite
 cryptococcal
