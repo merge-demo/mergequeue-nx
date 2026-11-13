@@ -13866,7 +13866,7 @@ cyanocarbonic
 cinnabar
 cinnabarine 1
 cinnabars
-cinnamaldehyde
+cinnamaldehyde 1
 collaborationism
 cinnamate
 cinnamein
