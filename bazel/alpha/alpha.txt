@@ -1136,7 +1136,7 @@ apheliotropism
 aploperistomatous
 anaplasis
 antirusts
-academist
+academist 1
 arboral
 academite
 academization
