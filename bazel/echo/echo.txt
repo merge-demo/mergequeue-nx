@@ -1271,7 +1271,7 @@ expands
 eeliest
 epiky
 estotiland
-embowl
+embowl 1
 exploringly 1
 escaloping
 eneugh 1
