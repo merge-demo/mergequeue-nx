@@ -14971,7 +14971,7 @@ blennophlogisma
 breathes
 boarstaff 1
 breathiness
-bookishly
+bookishly 1
 breathingly
 bepaper
 breathless
