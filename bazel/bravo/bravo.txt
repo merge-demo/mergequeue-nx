@@ -1974,7 +1974,7 @@ beleave
 bias
 bloodsucking
 begoniaceous
-bangos
+bangos 1
 blubberman
 bundt
 bandlimiting
