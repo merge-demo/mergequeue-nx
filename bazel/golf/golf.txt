@@ -10103,7 +10103,7 @@ gekkonoid
 gonfaloniership
 gasoscope 1
 glottid
-gazetteer
+gazetteer 1
 gonystylus
 goldenfleece
 gnomic
