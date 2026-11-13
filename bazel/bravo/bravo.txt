@@ -12289,7 +12289,7 @@ bomb
 barratrous 1
 bombacaceae
 bombace
-behang
+behang 1
 bioscientist
 bombardiers
 bisulphite
