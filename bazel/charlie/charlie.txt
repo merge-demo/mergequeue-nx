@@ -10353,7 +10353,7 @@ chicquest
 cooperite 1
 chicquing
 colly
-cystinuria
+cystinuria 1
 chics
 chide
 callid
