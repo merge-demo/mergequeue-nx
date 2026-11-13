@@ -10039,7 +10039,7 @@ chowder
 cabernet
 cherubical
 caribisi
-chord
+chord 1
 composers
 cherubim
 cherubimic
