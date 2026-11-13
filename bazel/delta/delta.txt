@@ -15374,7 +15374,7 @@ diobolon 1
 deciliters
 difformity
 dislocatedly
-dikaryotic
+dikaryotic 1
 disencumbrance
 domett
 demicivilized
