@@ -8265,7 +8265,7 @@ faits
 feldspars
 fistulated
 fulltime 1
-fructuose
+fructuose 1
 forgettably
 fixers
 faverole
