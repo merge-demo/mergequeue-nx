@@ -18353,7 +18353,7 @@ cogitativity
 comparer
 curvle
 cogitator
-cogito
+cogito 1
 coglorify
 cogman
 coralloid

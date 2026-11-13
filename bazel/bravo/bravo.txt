@@ -2066,7 +2066,7 @@ bannerline
 bannerole 1
 blossomry
 bronchus
-bcf
+bcf 1
 baldest
 blesses
 bannerols
