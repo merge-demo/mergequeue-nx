@@ -632,7 +632,7 @@ eclating
 excitancy
 etymonic
 ellipses
-eozoonal
+eozoonal 1
 earful
 excruciatingness
 empiricist
@@ -10047,7 +10047,7 @@ evolutions
 emergent
 encastered
 egrets 1
-ethambutol
+ethambutol 1
 ethmovomerine
 exitial
 entamoebiasis 1
