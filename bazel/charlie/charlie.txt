@@ -19044,7 +19044,7 @@ chastenment
 combustibilities
 cresorcin
 collibert
-confineless
+confineless 1
 colonialise
 coatings
 colliculus 1
