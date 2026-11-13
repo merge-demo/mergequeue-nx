@@ -19341,7 +19341,7 @@ colopuncture
 coloquintid 1
 craniotabes
 carousing
-cerotic
+cerotic 1
 checkstone
 color
 creational
