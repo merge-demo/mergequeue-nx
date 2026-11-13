@@ -7720,7 +7720,7 @@ foreinstruct
 fallal 1
 fatherland
 flyman
-feudality
+feudality 1
 fruggin
 flyeater
 flaglike
