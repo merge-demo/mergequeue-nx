@@ -11979,7 +11979,7 @@ disembowelments
 dermatalgia
 disparition 1
 dismission
-denominated
+denominated 1
 disembowels
 droving
 depucel
