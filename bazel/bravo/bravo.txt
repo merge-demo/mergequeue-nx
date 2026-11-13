@@ -17232,7 +17232,7 @@ bumbailiffship
 basidigitalia
 batardeau
 bulten
-bandores
+bandores 1
 borsch
 biltongs
 bulwarked
