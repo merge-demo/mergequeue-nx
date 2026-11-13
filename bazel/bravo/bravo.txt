@@ -11497,7 +11497,7 @@ bromthymol
 budder 1
 blufter 1
 bluggy
-bispore
+bispore 1
 bethwack
 bombload
 blumes
