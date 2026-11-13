@@ -12843,7 +12843,7 @@ democratization
 dismasted 1
 denned
 disme
-decast
+decast 1
 dipteran
 dismembrator
 doughfoots 1
