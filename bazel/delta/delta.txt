@@ -6631,7 +6631,7 @@ dicarboxylate
 demembration 1
 demerol
 deperming
-dreamwhile
+dreamwhile 1
 desert
 darkroom
 deescalated
