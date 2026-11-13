@@ -14625,7 +14625,7 @@ diminuted
 drivelling
 despite
 dyslalia
-divulger
+divulger 1
 dianodal
 derisible
 doomstead
