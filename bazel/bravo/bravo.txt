@@ -1893,7 +1893,7 @@ bergama
 bandogs
 bediademed 1
 barken
-bandoleer
+bandoleer 1
 burlesquely 1
 backhoes
 bandoleers
