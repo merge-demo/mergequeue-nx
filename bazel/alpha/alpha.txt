@@ -16546,7 +16546,7 @@ attained
 apadana
 astronautic
 apaesthetize
-articulatory
+articulatory 1
 anophthalmus
 apagogic
 avenses
