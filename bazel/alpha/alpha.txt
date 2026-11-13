@@ -7149,7 +7149,7 @@ akroteria
 arithmetization
 aktistetae
 aku
-akule
+akule 1
 appalto
 assignation
 al
