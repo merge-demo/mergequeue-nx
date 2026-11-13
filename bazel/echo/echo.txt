@@ -2307,7 +2307,7 @@ exurbias
 endocrania 1
 edana
 expert
-essene
+essene 1
 entheal
 euphuism
 endosteum
