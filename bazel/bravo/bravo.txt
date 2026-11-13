@@ -18309,7 +18309,7 @@ buttonbush
 bivalve
 buttoner
 buttoners
-bedel
+bedel 1
 bilirubinemia
 bowlegs
 buttony
