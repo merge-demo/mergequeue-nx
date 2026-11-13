@@ -7267,7 +7267,7 @@ centuple
 clematises
 centuples
 codbank
-chaldese
+chaldese 1
 centuplicate
 centuplicating
 civility
