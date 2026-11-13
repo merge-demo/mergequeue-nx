@@ -10120,7 +10120,7 @@ emprosthotonos
 etherealness
 escherichia
 equisetum
-enculturated
+enculturated 1
 excused
 extranean
 etabelli
