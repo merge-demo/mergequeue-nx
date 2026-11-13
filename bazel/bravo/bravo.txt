@@ -1571,7 +1571,7 @@ binate
 ballista
 basketlike
 beatinest
-ballistician
+ballistician 1
 brachioganoidei
 ballflower
 bifurcate
