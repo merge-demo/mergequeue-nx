@@ -12232,7 +12232,7 @@ dysfunctioning
 doweling
 deltoidal
 durous
-detector
+detector 1
 dampers
 deviators
 dysfunctions
