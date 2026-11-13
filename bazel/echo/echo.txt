@@ -14002,7 +14002,7 @@ extrapunitive
 equinity
 eustacy
 extraregarding
-endogen
+endogen 1
 extraregularly
 expirers
 exiling
