@@ -22282,7 +22282,7 @@ astragalomancy
 addressees
 astragalotibial
 athermic 1
-anisilic
+anisilic 1
 astragalus
 astrain
 antimissile
