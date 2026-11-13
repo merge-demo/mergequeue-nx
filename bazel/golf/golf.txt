@@ -2035,7 +2035,7 @@ gelatiniform
 gases
 gaveled
 gibbosities
-gnomologic
+gnomologic 1
 greiges
 guazuti
 gavelock
