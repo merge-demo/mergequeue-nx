@@ -11130,7 +11130,7 @@ enol
 eurasia
 exsiliency
 euthytatic
-exopt
+exopt 1
 erne
 eutychian
 everly
