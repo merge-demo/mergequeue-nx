@@ -15539,7 +15539,7 @@ cyclicism
 classers
 classfellow
 classy
-classicalism
+classicalism 1
 crossbolted
 classicalist
 classicality
