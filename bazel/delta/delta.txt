@@ -9109,7 +9109,7 @@ didal 1
 didascalic
 dogface
 dobbing
-dormins
+dormins 1
 didder
 diddy
 diddies
