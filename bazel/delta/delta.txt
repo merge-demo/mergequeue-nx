@@ -7242,7 +7242,7 @@ disparatum
 daguilla
 darklings
 delubrum
-deverbative
+deverbative 1
 desolately
 disnatured
 dux
