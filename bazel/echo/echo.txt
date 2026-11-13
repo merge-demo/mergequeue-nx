@@ -8834,7 +8834,7 @@ egyptology
 endarteritis
 estrones 1
 erectopatent
-entophytic
+entophytic 1
 equiprobabilist
 eternities
 egyptologic
