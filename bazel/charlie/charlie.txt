@@ -30634,7 +30634,7 @@ cuculiformes
 cephaloclasia
 coleopteral
 crossable
-coprology
+coprology 1
 cucullate
 contravened
 chilidog
