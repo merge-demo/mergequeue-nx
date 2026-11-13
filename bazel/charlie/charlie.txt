@@ -25933,7 +25933,7 @@ convexity
 callovian
 ceintures
 corticotrophin
-curtsying
+curtsying 1
 corticous
 cortile
 civilisational
