@@ -14078,7 +14078,7 @@ extremeless
 extremely
 etymography
 extremeness
-extremis
+extremis 1
 effeminate
 extraterritorials
 ethnologist
