@@ -22520,7 +22520,7 @@ apeiron
 affectlessness
 atatschite
 angiospermous
-ataunto
+ataunto 1
 antelopian
 antivirotic
 accessioned
