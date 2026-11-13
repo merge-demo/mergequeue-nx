@@ -6625,7 +6625,7 @@ assembles
 anodynous
 apterous
 antivermicular
-augustal
+augustal 1
 anathematize
 aquinas
 aldeament
