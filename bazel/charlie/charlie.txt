@@ -4516,7 +4516,7 @@ casamarca
 carnalite
 culverin
 carnalize
-counterexposition
+counterexposition 1
 carnalized
 carolingian
 confederative
