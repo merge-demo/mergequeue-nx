@@ -18473,7 +18473,7 @@ cepheus
 clericalize
 crosslet
 circlet
-champac 1
+champac 2
 coheirs
 coheirship
 cestraciont
