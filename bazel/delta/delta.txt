@@ -2291,7 +2291,7 @@ decene
 depurator
 decennial
 dingdongs
-decennium
+decennium 1
 diagraphical
 denouncing
 dohter
