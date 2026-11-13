@@ -8014,7 +8014,7 @@ bicolors
 beadleism
 biconcave
 bidder
-bullescene 1
+bullescene 2
 biconic
 biconically
 biconnected
