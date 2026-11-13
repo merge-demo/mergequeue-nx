@@ -8105,7 +8105,7 @@ fumacious 1
 farceur
 floodplain
 foret
-fragilaria
+fragilaria 1
 formalized
 feasances
 fractiousness
