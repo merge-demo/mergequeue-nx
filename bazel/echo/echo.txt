@@ -7946,7 +7946,7 @@ exudates
 exptl
 exordia
 epimandibular
-enthrone
+enthrone 1
 epimanikia
 eolopile
 equivocatory
