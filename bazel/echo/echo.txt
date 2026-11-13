@@ -12888,7 +12888,7 @@ elucid
 escortment
 erosions 1
 expandingly
-expansibility
+expansibility 1
 emusifies
 expansile
 expansionism
