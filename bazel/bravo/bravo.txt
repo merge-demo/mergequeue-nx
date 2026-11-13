@@ -2189,7 +2189,7 @@ briscola
 bararite
 barathea
 barbellate
-bibbled
+bibbled 1
 bemaddens
 bellicosely
 barato
