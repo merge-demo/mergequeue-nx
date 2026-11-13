@@ -9514,7 +9514,7 @@ faithworthy
 frontways
 footling
 finiteness
-fringier
+fringier 1
 finiglacial
 fiador
 felicify
