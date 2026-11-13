@@ -7581,7 +7581,7 @@ cleidarthritis
 covariation
 cerebral
 cerebralism
-coneighboring
+coneighboring 1
 cerebrals 1
 cardiopericarditis
 cerebrated
