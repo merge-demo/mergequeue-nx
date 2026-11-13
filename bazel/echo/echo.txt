@@ -1199,7 +1199,7 @@ espathate
 enlute
 educationist
 eurypyga
-embolum
+embolum 1
 excommune
 endogamic
 eatche 1
