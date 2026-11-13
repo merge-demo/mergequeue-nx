@@ -9600,7 +9600,7 @@ digressive
 digressory
 dastard 1
 disencumbers
-dartsman
+dartsman 1
 deerwood
 drazel
 dogmeat
