@@ -11013,7 +11013,7 @@ exceptiveness
 enquire
 encyclopaedic
 eternalist
-euryprosopic
+euryprosopic 1
 excipuliform
 eroses
 exornate
