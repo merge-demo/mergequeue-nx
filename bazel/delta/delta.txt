@@ -15514,7 +15514,7 @@ diaries
 dacryostenosis
 dihydrocuprin
 dispendious
-duopolies
+duopolies 1
 dismalness
 diabolism 1
 despicability
