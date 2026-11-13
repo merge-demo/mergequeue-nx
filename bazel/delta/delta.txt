@@ -1965,7 +1965,7 @@ deburr
 divulgatory
 debus
 decanally
-defying
+defying 1
 debused
 doohickey
 debusing
