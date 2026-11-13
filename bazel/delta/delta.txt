@@ -5505,7 +5505,7 @@ disportive
 diaphragm
 dogtrot
 dudishness
-dolichos
+dolichos 1
 digging
 darlingly
 davening
