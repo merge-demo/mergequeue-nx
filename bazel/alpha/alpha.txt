@@ -24667,7 +24667,7 @@ aventails
 axiom
 alypine
 aspirants
-absumption
+absumption 1
 asteer
 arabized
 actinidia
