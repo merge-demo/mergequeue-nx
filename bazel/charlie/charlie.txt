@@ -6309,7 +6309,7 @@ chucks
 caup
 colletidae
 caupo
-candelas
+candelas 1
 catochus
 coheaded 1
 cumberlandite
