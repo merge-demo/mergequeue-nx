@@ -20447,7 +20447,7 @@ aerialness
 antimodernness
 antigod 1
 augments
-arteria
+arteria 1
 averia
 associating
 amplifications
