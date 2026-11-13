@@ -12821,7 +12821,7 @@ extenuated
 emboldener
 embossmen 1
 extraretinal
-evangelicity
+evangelicity 1
 ensepulchered
 ecanda
 edgeways
