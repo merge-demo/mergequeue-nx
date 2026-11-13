@@ -1221,7 +1221,7 @@ acanthopterygii
 acanthoses 1
 archeus
 acanthuridae
-acanthuthi
+acanthuthi 1
 ascetical
 adenocarcinomata
 articulator
