@@ -11569,7 +11569,7 @@ foreworn
 fibronucleated
 fluoric 1
 feu
-feuing
+feuing 1
 fusilladed
 fluctigerous
 fusillading 1
