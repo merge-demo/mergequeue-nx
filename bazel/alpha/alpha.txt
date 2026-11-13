@@ -9697,7 +9697,7 @@ antennule
 anglicans
 alvar
 anecdotist
-asmack
+asmack 1
 anaemic
 alveary
 alvearies
