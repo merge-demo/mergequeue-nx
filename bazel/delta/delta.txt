@@ -5089,7 +5089,7 @@ dietetic
 donatary
 decalogist
 dendrochirota
-dessicate
+dessicate 1
 describing
 disenabling
 deadrise
