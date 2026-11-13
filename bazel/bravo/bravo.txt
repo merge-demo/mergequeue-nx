@@ -7390,7 +7390,7 @@ boomdas 1
 busky
 beneceptor
 botryose
-beton
+beton 1
 basigamous
 beclasps
 betony
