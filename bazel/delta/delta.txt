@@ -3568,7 +3568,7 @@ disseminate
 diethylamine
 disenchanter
 defunctionalize
-defusion
+defusion 1
 deformalize
 dingles
 dermatotome
