@@ -14374,7 +14374,7 @@ dielytra
 doled
 diva
 divagated
-divagates
+divagates 1
 diphthongal
 drillmaster 1
 divagationally
