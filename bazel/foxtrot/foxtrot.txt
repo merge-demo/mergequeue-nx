@@ -5078,7 +5078,7 @@ fuligo
 fundless 1
 fumettes
 frsikets
-flagboat
+flagboat 1
 flareback
 furnishness
 fishweir
