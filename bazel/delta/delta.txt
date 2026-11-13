@@ -15683,7 +15683,7 @@ dartrose
 didrachma
 defatted
 decollator 1
-doric
+doric 1
 dopped
 detractiveness
 disaffect
