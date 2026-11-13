@@ -19192,7 +19192,7 @@ askers
 arcuale
 arcualia
 acrita
-arcuate
+arcuate 1
 attache
 aristotelic
 allotypies
