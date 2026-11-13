@@ -2782,7 +2782,7 @@ festooneries
 flunkyite
 festivally
 fourieristic
-flareboard
+flareboard 1
 floppier
 fiction
 fraze
