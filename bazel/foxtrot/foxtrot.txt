@@ -6689,7 +6689,7 @@ fibrins
 fruiteress
 flatterable
 flintlock
-flexura
+flexura 1
 flouts
 fogfruits
 frizel
