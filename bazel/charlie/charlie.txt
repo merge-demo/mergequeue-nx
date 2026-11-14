@@ -5575,7 +5575,7 @@ catalyse
 craterellus 1
 copr
 censused
-cofactor
+cofactor 1
 catalyses
 catalyte
 cyclopean
