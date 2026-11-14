@@ -12444,7 +12444,7 @@ adjective
 aromal
 androphorous
 antipyryl
-amenty
+amenty 1
 actinides
 argante
 androsphinx
