@@ -6541,7 +6541,7 @@ deraign
 describability
 dobra
 dulciloquy
-degradedness
+degradedness 1
 dichlorhydrin
 described
 dolous
@@ -10198,7 +10198,7 @@ dingman
 doven
 dings
 despises 1
-dzeron
+dzeron 1
 depopularize
 dismortgage
 dining
