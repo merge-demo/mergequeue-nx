@@ -6092,7 +6092,7 @@ exorableness 1
 enliveningly
 enlief
 evertebrate
-excruciate
+excruciate 1
 escutcheon 1
 encounters
 epilator
