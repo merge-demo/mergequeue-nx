@@ -6259,7 +6259,7 @@ annuitant
 achoo
 antiracing
 agorot
-abearance
+abearance 1
 agos
 afteryears
 anteprostatic
