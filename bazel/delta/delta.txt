@@ -2133,7 +2133,7 @@ discrepate
 decane
 debauchment
 decanery 1
-decanes
+decanes 1
 diabolify
 decangular
 daedalus

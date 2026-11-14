@@ -7976,7 +7976,7 @@ ganglionectomy
 globing
 glottologies
 gnomonologically
-goldenmouthed 1
+goldenmouthed 2
 gasifiable
 galline
 gainer
