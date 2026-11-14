@@ -6965,7 +6965,7 @@ goodwillie
 gilgie
 gelatinize
 galoshed
-gorgonise
+gorgonise 1
 gigglers
 granjeno
 grinds
