@@ -21521,7 +21521,7 @@ adds
 asphyxia 1
 abreid
 antagonized
-arretine
+arretine 1
 apotypic
 admonishingly
 anthroxan
