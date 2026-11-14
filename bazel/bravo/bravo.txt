@@ -6082,7 +6082,7 @@ burnout
 briggsian
 behooveful
 beans
-balneologic
+balneologic 1
 baronetising
 bulbel
 bhd
