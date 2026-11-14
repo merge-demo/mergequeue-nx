@@ -862,7 +862,7 @@ geometrician
 grammaticality
 gonagia
 gonadotropin
-girdlingly
+girdlingly 1
 gameless
 gammy
 gynecomazia
