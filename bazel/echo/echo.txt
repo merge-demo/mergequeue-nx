@@ -4436,7 +4436,7 @@ expectorate
 eternized
 electrophysiologic
 excentrical
-endenizen
+endenizen 1
 extispices
 enthymeme
 e
