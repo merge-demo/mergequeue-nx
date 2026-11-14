@@ -15355,7 +15355,7 @@ chloropia
 clannishness
 cradlemen
 clansfolk
-cheki
+cheki 1
 churchgrith
 clanship
 chiricahua
