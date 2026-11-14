@@ -2336,7 +2336,7 @@ fconvert
 feoffer 1
 fiberous
 faultier
-falsetto
+falsetto 1
 feoffs
 fasciole
 fra
