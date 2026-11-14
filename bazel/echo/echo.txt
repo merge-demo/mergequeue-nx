@@ -8501,7 +8501,7 @@ eurindic
 explants
 erases
 elongates 1
-epuration
+epuration 1
 exculpable
 effectual
 englisher
