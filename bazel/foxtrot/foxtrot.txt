@@ -6505,7 +6505,7 @@ figurally
 fluted 1
 featherbedded
 faintish
-frenzied
+frenzied 1
 flameless
 filmlands
 frills
