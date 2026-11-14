@@ -9425,7 +9425,7 @@ exostosed 1
 epipodium 1
 escarps
 escharotic
-enfeoff
+enfeoff 1
 eschatological
 enaliosauria
 epistemonical
@@ -11810,7 +11810,7 @@ erraticness
 exasperatingly
 exauctorate
 empoisoned
-epiphytous
+epiphytous 1
 enrolment 1
 elaphrium
 euryon

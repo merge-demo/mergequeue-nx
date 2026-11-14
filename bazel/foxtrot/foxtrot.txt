@@ -678,7 +678,7 @@ fizzier 1
 fireman
 filemot
 floccing
-funkier
+funkier 1
 flannelmouths
 feathercut
 fairish
@@ -9422,7 +9422,7 @@ flamines 1
 fliers
 foodstuff
 foreteeth
-frary
+frary 1
 flouriness
 frolicly
 forlore
