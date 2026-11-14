@@ -11846,7 +11846,7 @@ discriminates
 disponee
 disgorger
 dawing
-deuteroprism
+deuteroprism 1
 decentralism
 diamines
 discurre 1
