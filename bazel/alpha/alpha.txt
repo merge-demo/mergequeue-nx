@@ -22783,7 +22783,7 @@ akepiros
 atlantic
 assists
 asteroidean
-amphistylic
+amphistylic 1
 animikite
 acromastitis
 anchoritish
