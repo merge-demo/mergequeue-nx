@@ -9571,7 +9571,7 @@ final
 fluter
 freebie 2
 frescos
-farsi
+farsi 1
 fleeciest 1
 freebooter 1
 freebootery
