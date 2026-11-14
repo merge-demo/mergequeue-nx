@@ -9739,7 +9739,7 @@ amabel
 atbash
 amabile
 amable
-anchorer
+anchorer 1
 allegatum
 amacrinal
 amadelphous
