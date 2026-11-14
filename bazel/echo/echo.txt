@@ -6342,7 +6342,7 @@ enlargingly
 emporium
 ergotin
 eschar
-euchred
+euchred 1
 expiatory
 ensphered 1
 eyespot
@@ -10110,7 +10110,7 @@ euphausiacea
 entities
 ethereality
 epiboly
-etherealization
+etherealization 1
 earthlike
 extrusible
 endorses
