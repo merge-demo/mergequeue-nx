@@ -19913,7 +19913,7 @@ comitje
 chunters
 coml
 confessionals
-conjugating
+conjugating 1
 commandable
 commandatory
 commanded
