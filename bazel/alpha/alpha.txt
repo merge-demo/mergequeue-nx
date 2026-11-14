@@ -554,7 +554,7 @@ ataraxies
 amidophosphoric
 amyotrophia
 actualize
-anba
+anba 1
 aciliated
 ablude
 atweel
