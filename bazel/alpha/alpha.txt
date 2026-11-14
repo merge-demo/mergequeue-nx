@@ -7797,7 +7797,7 @@ aldoketene
 analecta
 antigalactic
 aldol
-assured
+assured 1
 afterfall
 apaestically
 accidentarily 1
