@@ -3822,7 +3822,7 @@ cerning
 cineolic
 carbolfuchsin
 curlewberry
-carbolic
+carbolic 1
 carbolics
 centricity
 carbolising
