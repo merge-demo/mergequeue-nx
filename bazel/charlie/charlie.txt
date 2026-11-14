@@ -9036,7 +9036,7 @@ curlier
 charlesworth
 charlet 1
 costotomies
-charlocks
+charlocks 1
 cobberer
 charm
 charmed
