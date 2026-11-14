@@ -12015,7 +12015,7 @@ continuately
 chorographical
 criticizable
 cyanacetic
-chinless
+chinless 1
 chorographically
 commissural
 coronene
