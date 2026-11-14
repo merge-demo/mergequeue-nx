@@ -4875,7 +4875,7 @@ carrions
 carryons
 compense
 carryout
-carryouts
+carryouts 1
 crosshatched
 carritches
 carriwitchet
