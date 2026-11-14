@@ -4113,7 +4113,7 @@ cardigan
 cameoing
 cornmaster
 condalia
-cardin
+cardin 1
 cardinal
 cardinalfish 1
 croslet
