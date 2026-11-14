@@ -3476,7 +3476,7 @@ gelatinated
 gastrologer
 glazing
 genoa
-gallanting 1
+gallanting 2
 glasgow
 gallophobia
 graptomancy
