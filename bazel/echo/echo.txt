@@ -4635,7 +4635,7 @@ exquisitiveness
 economist 1
 efficaciously
 externals
-enchymatous
+enchymatous 1
 ervenholder
 ephebeia
 epithalamic
