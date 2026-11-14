@@ -12568,7 +12568,7 @@ arboroid
 anepigraphic
 abogados
 apodoses
-affectability
+affectability 1
 anubis
 anepigraphous
 algae
