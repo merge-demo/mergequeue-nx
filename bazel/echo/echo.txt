@@ -3381,7 +3381,7 @@ enregistration
 egal
 excursioner
 envelopes
-encyclopaedial
+encyclopaedial 1
 embannered 1
 emetine 1
 equivokes
