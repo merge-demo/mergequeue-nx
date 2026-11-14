@@ -7325,7 +7325,7 @@ fronds
 fearnaught 1
 frampold
 fulcrum
-feathered
+feathered 1
 focimeter
 federally
 fiddleheaded
