@@ -467,7 +467,7 @@ eucommia
 ecclesiarchy 1
 extoll
 ecclesiast
-entrada
+entrada 1
 expostulated
 empasm
 envelopers
