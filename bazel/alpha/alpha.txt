@@ -23948,7 +23948,7 @@ autoabstract
 ambisextrous
 amphibiousness
 annatto
-acrology
+acrology 1
 antiscepticism
 abadejo
 anepiploic
