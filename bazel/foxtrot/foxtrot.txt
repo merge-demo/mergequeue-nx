@@ -1762,7 +1762,7 @@ featheriness 1
 frogface
 foreslack
 forsterite
-farfet
+farfet 1
 farsalah
 frize 1
 forlorn
