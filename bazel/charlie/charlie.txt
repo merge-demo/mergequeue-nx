@@ -15811,7 +15811,7 @@ clearish
 condescendence
 clears 1
 cerealian
-cribrosity
+cribrosity 1
 clearsighted
 carludovica
 coprostasia
