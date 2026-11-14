@@ -10434,7 +10434,7 @@ despend 1
 diphenylenimine
 ditcher
 dug
-diphenylhydantoin
+diphenylhydantoin 1
 dogmatic
 diodon
 delace
