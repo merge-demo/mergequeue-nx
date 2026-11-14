@@ -5261,7 +5261,7 @@ hiducmdsoq 1
 hidunhev
 hidvlg
 hidvs
-hidw
+hidw 1
 hidwbti 1
 hidwe
 hidwougoe
