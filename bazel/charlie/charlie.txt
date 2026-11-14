@@ -9513,7 +9513,7 @@ clavola
 checkers
 cabbalah
 cardanic
-capos
+capos 1
 checky
 cityful
 circularising
