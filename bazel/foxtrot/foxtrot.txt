@@ -6847,7 +6847,7 @@ favourableness
 facemaking
 fistiness
 floridities
-fnese
+fnese 1
 foozler 1
 fraudulency
 freemartin
