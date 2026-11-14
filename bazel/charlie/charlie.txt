@@ -31634,7 +31634,7 @@ carpingly
 curvimeter
 curviness
 curving
-curviserial
+curviserial 1
 curvital
 curvities
 cracidae
