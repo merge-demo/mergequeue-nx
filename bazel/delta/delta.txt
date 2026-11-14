@@ -2689,7 +2689,7 @@ dogies
 duckies
 dcollet
 deconcentrate
-dhurnas
+dhurnas 1
 dishonourer
 digynous
 dudeens
