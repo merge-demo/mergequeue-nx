@@ -366,7 +366,7 @@ endevil
 embouchement
 excentral
 eyestone
-erethistic
+erethistic 1
 eeler
 enthroned
 eavesdropping
