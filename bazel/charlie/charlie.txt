@@ -4285,7 +4285,7 @@ carets
 caretta
 careworn
 concorporation
-carex
+carex 1
 cottages
 carfare
 carfares
