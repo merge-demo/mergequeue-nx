@@ -7811,7 +7811,7 @@ cerussite
 centaurid
 cervantic
 chaffiest
-choosing
+choosing 1
 cervantite
 consternating
 coruscation
