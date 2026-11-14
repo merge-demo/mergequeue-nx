@@ -14307,7 +14307,7 @@ angiotensin
 arabesk
 antherozoid
 antherozooidal 1
-anthers
+anthers 1
 anisopogonous
 aglossal
 aquosity
