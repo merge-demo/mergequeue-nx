@@ -26225,7 +26225,7 @@ cyanite
 cossaean 1
 cosse
 carnivority
-cosset
+cosset 1
 controled
 cosseting
 cossette
