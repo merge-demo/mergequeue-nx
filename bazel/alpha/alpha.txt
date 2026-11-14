@@ -21831,7 +21831,7 @@ auricula
 assiette
 assify
 alpen
-assign
+assign 1
 absorbedness
 assignability
 astrodynamics
