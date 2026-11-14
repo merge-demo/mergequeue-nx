@@ -24004,7 +24004,7 @@ aeolipile
 aquiferous
 autocholecystectomy
 apoplectical
-autochthon
+autochthon 1
 aunthoods
 autochthonism
 abutilons
