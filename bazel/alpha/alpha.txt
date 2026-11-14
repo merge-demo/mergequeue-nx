@@ -1221,7 +1221,7 @@ acanthopterygii
 acanthoses 1
 archeus
 acanthuridae
-acanthuthi
+acanthuthi 1
 ascetical
 adenocarcinomata
 articulator
@@ -15672,7 +15672,7 @@ approvableness
 afrite
 alcedininae
 albify
-armpits
+armpits 1
 antioptionist
 abysm
 antiorthodoxy
