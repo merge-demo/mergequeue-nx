@@ -5393,7 +5393,7 @@ flecky
 fosterite
 farinaceous
 furole
-forecounsel
+forecounsel 1
 flyswat 1
 feridji
 figuration

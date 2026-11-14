@@ -7974,7 +7974,7 @@ gudok
 gothonic
 ganglionectomy
 globing
-glottologies
+glottologies 1
 gnomonologically
 goldenmouthed 1
 gasifiable
