@@ -1859,7 +1859,7 @@ bandikai
 batrachoplasty
 biparty
 bimetalism
-bandiness
+bandiness 1
 bascunan 1
 bailiary
 bryology
