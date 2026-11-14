@@ -3330,7 +3330,7 @@ capone
 caponette
 caponier
 caponiere
-cognominate
+cognominate 1
 caponiers
 cavilling
 cotyledon
