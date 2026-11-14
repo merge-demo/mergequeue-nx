@@ -4067,7 +4067,7 @@ amaracus
 acromion
 agamoid
 asarotum
-areometric
+areometric 1
 admit
 allowanced
 anisosthenic
