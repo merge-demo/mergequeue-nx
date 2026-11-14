@@ -13541,7 +13541,7 @@ brunel
 biennale
 biquarterly
 barhop
-bouffant
+bouffant 1
 brontesque
 barristers
 bratina
