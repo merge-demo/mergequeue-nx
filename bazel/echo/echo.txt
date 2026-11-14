@@ -11912,7 +11912,7 @@ entrepreneurship
 epiphytes
 emissivity
 exceptless
-emends
+emends 1
 eightfoil
 engore
 euploeinae
