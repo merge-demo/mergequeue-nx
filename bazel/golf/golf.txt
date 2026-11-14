@@ -653,7 +653,7 @@ glycerogel
 gallophilism 1
 givey
 gravimetry
-glower
+glower 1
 gantryman
 genecologically
 galeated
