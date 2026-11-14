@@ -12097,7 +12097,7 @@ ballyhooed
 brooks
 bostrychoid
 brujeria
-banefully
+banefully 1
 bagpudding
 barristress
 boldfaced
