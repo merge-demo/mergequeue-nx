@@ -2387,7 +2387,7 @@ gedds 1
 grampa
 granddaughterly
 gongoristic
-gentianal
+gentianal 1
 gilver
 geminates
 gote
