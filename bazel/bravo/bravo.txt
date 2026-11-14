@@ -14689,7 +14689,7 @@ backworm 1
 brassiere
 brassieres
 blackhander
-brassies
+brassies 1
 brachiorrheuma
 beautician
 beatas
