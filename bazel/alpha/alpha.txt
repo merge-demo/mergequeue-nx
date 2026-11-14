@@ -8873,7 +8873,7 @@ aeolodicon
 allochthon
 antlike
 askant
-ambilevous
+ambilevous 1
 azurous
 adscititiously
 amakebe
