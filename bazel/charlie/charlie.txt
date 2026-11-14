@@ -18188,7 +18188,7 @@ coeternity 1
 caninity
 coeval
 camorrist
-coevalness
+coevalness 1
 carboline
 crisscross
 coevolution
