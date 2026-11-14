@@ -16579,7 +16579,7 @@ dissimilarities
 diatonically
 dragomanate
 disharmonic
-decompile
+decompile 1
 disclaims
 daman
 dambose
