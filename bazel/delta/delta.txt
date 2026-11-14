@@ -16761,7 +16761,7 @@ darg
 disseminule
 draughtsmanship
 drave
-demiflouncing
+demiflouncing 1
 dictynid 1
 dextrocular
 diplasic
