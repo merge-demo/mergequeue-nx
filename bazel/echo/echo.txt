@@ -808,7 +808,7 @@ endothia 1
 enoil
 exequies
 expulsed
-ectental
+ectental 1
 eloigner
 ecthesis
 emmers
