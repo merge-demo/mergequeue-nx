@@ -1350,7 +1350,7 @@ calderium
 calicle
 capitulatory
 cabellerote
-calycled
+calycled 1
 curveted
 cistvaen
 cossyrite
