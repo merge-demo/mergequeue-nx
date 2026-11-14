@@ -8437,7 +8437,7 @@ chamises
 chamiso
 chamlet
 chamm
-chamma
+chamma 1
 chammy
 calcydon
 citellus
