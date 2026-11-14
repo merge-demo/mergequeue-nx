@@ -12985,7 +12985,7 @@ clamation
 conspirer
 cyanmethemoglobin
 calenturish
-cyano
+cyano 1
 crystallogenesis
 cyanoacetate
 cobenignity
