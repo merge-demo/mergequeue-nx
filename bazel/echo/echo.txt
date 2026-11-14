@@ -11326,7 +11326,7 @@ enwrap
 evaporitic
 enforcively
 evapotranspiration
-ecaudata
+ecaudata 1
 esiphonal
 eluviated
 ergatoid
