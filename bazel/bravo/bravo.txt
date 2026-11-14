@@ -4342,7 +4342,7 @@ burbankism
 bromhydric
 blockishness
 bossdoms
-beche
+beche 1
 becheck 1
 befool
 bechic
