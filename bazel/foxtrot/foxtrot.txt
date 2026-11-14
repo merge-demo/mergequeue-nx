@@ -8135,7 +8135,7 @@ farmland 1
 foison
 fire
 flexo
-flatcaps
+flatcaps 1
 faithful
 featurette
 fuchsias
