@@ -1749,7 +1749,7 @@ deathliness
 deathrates
 deathsman
 discrepating 1
-dumble
+dumble 1
 derogation
 disaccord
 deathtime
