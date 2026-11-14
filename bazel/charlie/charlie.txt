@@ -18313,7 +18313,7 @@ centena
 canangium
 cleansed
 calorifically
-cogently
+cogently 1
 cogged 1
 cisoceanic
 cholerically
