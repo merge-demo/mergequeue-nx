@@ -1520,7 +1520,7 @@ accompanimental
 accompli
 allanitic
 anathemize 1
-archmediocrity
+archmediocrity 1
 adenemphraxis
 accompliceship
 ahuatle
