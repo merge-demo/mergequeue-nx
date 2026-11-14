@@ -9715,7 +9715,7 @@ cheiloplasty
 cheilostomata
 cheilostomatous 1
 censer
-cheyneys
+cheyneys 1
 cankeredly
 cimex
 chromotype 1
