@@ -10662,7 +10662,7 @@ divests
 dainful
 disparpled
 discerptibleness
-dhuti
+dhuti 1
 diplopteryga
 dioti
 disaccordance
