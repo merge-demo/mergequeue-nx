@@ -5955,7 +5955,7 @@ freehand
 feretories
 floodlight 1
 forthinking
-furzes
+furzes 1
 fearlessly
 favonius
 frenchification
