@@ -2309,7 +2309,7 @@ ganta
 granulation
 gelatinating
 greyfish
-geognosis 1
+geognosis 2
 guaranis
 gelatine
 gerastian
