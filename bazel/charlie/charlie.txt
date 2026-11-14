@@ -3341,7 +3341,7 @@ calabash
 caponise
 corslets
 captivate
-chrystocrene
+chrystocrene 1
 caponising
 camaldolensian
 commissariat
