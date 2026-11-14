@@ -2635,7 +2635,7 @@ displeaser
 decollete
 discontinues 1
 desalter
-decoloring
+decoloring 1
 disavowed
 diogenes
 deforce
