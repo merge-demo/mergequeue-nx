@@ -1140,7 +1140,7 @@ gerontocracies
 gallnut
 galyac
 groupment
-gunpowder
+gunpowder 1
 genion
 granddam
 gypsologist
@@ -6950,7 +6950,7 @@ goodrich
 guides
 geromorphism 1
 grayfly
-geometrised 1
+geometrised 2
 gradients
 geostatics
 goodwife
