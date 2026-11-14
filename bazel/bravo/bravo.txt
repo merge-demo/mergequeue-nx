@@ -8456,7 +8456,7 @@ babysitter
 byssuses 1
 bastinadoing
 backwards
-batak
+batak 1
 bilifuscin
 biosocial
 brevicauda
