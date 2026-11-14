@@ -1345,7 +1345,7 @@ daunt
 daunted
 dhobies
 daunters
-decertified 1
+decertified 2
 daffy
 dipentine
 demissive
