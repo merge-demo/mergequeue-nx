@@ -1221,7 +1221,7 @@ acanthopterygii
 acanthoses 1
 archeus
 acanthuridae
-acanthuthi
+acanthuthi 1
 ascetical
 adenocarcinomata
 articulator
@@ -18235,7 +18235,7 @@ aquose
 analogistic
 ar
 ara
-arabesks
+arabesks 1
 anguish
 arabesquely
 alleluja
