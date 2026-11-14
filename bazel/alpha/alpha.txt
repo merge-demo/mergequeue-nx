@@ -11281,7 +11281,7 @@ amphimixes
 adamant
 acalycinous
 aloofly
-amphisarca
+amphisarca 1
 aqua
 aperitifs
 actuated
