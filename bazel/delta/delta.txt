@@ -4287,7 +4287,7 @@ delusively
 deporting
 dichotomous 1
 digallate
-designatory
+designatory 1
 delustering
 deceleration
 delved
