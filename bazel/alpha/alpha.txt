@@ -18814,7 +18814,7 @@ autonephrectomy
 archesporial
 autocades
 archest
-archetypal
+archetypal 1
 arabian
 archetypes
 attributive 1
