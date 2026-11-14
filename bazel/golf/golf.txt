@@ -1138,7 +1138,7 @@ gestura
 geneura 1
 gerontocracies
 gallnut
-galyac
+galyac 1
 groupment
 gunpowder
 genion
