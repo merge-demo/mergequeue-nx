@@ -4281,7 +4281,7 @@ freehandedly
 fingerling 1
 footrill
 freudism
-fatiguability
+fatiguability 1
 fulsomely
 ferdwit
 foreshortens
