@@ -20479,7 +20479,7 @@ angelin
 autoicous
 alkalous
 adusk
-attempter
+attempter 1
 agilmente 1
 ambushment
 archit
