@@ -2106,7 +2106,7 @@ dynasts
 dromedary
 dissyllabism
 defenseman
-decameral
+decameral 1
 daintify
 doline
 diapasm
