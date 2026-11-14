@@ -7984,7 +7984,7 @@ guttee
 glouts
 goodhap
 galleyman
-gabblement 1
+gabblement 2
 gipper
 geologized
 grudgment
