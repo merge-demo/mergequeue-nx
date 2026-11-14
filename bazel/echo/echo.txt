@@ -11715,7 +11715,7 @@ explanator
 enterocoele
 endocarditis
 elevated
-enforcive 1
+enforcive 2
 extendlessness
 exalting
 elands
