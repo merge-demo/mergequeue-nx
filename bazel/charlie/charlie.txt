@@ -21901,7 +21901,7 @@ corpusculated 1
 chamberwoman
 confervae
 conferval
-combe
+combe 1
 clof
 chinamania
 confessable
