@@ -9425,7 +9425,7 @@ exostosed 1
 epipodium 1
 escarps
 escharotic
-enfeoff
+enfeoff 1
 eschatological
 enaliosauria
 epistemonical
@@ -11776,7 +11776,7 @@ eyelast
 esquireship
 ericetum
 excorticating
-exappendiculate
+exappendiculate 1
 empover
 exarate
 egyptianization
