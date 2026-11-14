@@ -3960,7 +3960,7 @@ amphibiously
 amgarn
 androgyny
 adjutant
-anesthetic
+anesthetic 1
 adjutator
 adjute
 aqueity
