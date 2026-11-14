@@ -13024,7 +13024,7 @@ disparity
 disruptability
 dithecous
 dispeed
-dispark
+dispark 1
 declarer
 discommoning
 diplosphenal

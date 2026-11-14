@@ -16182,7 +16182,7 @@ achroodextrin 1
 agromania
 azoth
 antisophism
-acuity
+acuity 1
 antisophist
 antisophistication
 antispasmodic
