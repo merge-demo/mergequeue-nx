@@ -6679,7 +6679,7 @@ deregulates
 deserving 1
 diabetics
 diorite
-despisedness
+despisedness 1
 droiturel
 diversly
 dilatations
