@@ -6948,7 +6948,7 @@ gomeral
 galavanted
 goodrich
 guides
-geromorphism 1
+geromorphism 2
 grayfly
 geometrised 2
 gradients
