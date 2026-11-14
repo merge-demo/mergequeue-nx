@@ -11217,7 +11217,7 @@ canoodle
 chlorellaceous
 chloremia
 corrupt
-chuffier
+chuffier 1
 curtail
 christiania
 chlorenchyma
