@@ -592,7 +592,7 @@ arytenoidal
 ampleness
 abnormalcies
 adrenalectomies
-adjure
+adjure 1
 abnormalized
 anatomical
 amynodont
