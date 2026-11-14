@@ -11285,7 +11285,7 @@ fogy 1
 fiscalize
 flurrying
 footwear
-farcing 1
+farcing 2
 fourfold
 folletti
 falun

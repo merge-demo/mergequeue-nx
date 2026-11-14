@@ -7333,7 +7333,7 @@ ephah
 enact 1
 electrooptics
 escaping
-epanisognathism
+epanisognathism 1
 expositively
 entameba
 epizoal
