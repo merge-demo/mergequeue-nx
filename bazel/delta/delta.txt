@@ -6615,7 +6615,7 @@ deprecations
 deselected
 depiction
 dysmerogenesis
-deadborn
+deadborn 1
 duddie
 desiccants
 dichotomised
