@@ -6327,7 +6327,7 @@ grubstaker 1
 goblins
 goldenpert 1
 gallivanters
-gebang
+gebang 1
 gobo
 gaybine
 gobony
