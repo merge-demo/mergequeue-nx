@@ -3694,7 +3694,7 @@ embryological 1
 endocoeliac
 embosking
 embryologist
-entify
+entify 1
 embryonic
 encyrtidae
 erythromycin
