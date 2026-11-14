@@ -2664,7 +2664,7 @@ canicola
 canicula
 completest
 creamer
-canidia
+canidia 1
 carbonylation
 canikin
 chargedness
