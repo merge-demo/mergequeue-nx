@@ -3086,7 +3086,7 @@ familiarizes
 fooler
 foreclosing
 feroce
-fishtails
+fishtails 1
 flitter
 flakeboard
 foreboot
