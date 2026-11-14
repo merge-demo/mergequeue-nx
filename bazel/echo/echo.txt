@@ -10315,7 +10315,7 @@ ela
 ebullitions
 exsiccated
 ethnocracy
-energising
+energising 1
 expendable
 excogitating
 equipostile
