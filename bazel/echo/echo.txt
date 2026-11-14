@@ -5733,7 +5733,7 @@ engilding
 empirism
 euphuistical
 exceptionality
-exophthalmic
+exophthalmic 1
 engined
 ending
 excusability
