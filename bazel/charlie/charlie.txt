@@ -486,7 +486,7 @@ crummock
 creepiest
 caddesse
 caddiced
-caddicefly
+caddicefly 1
 caddie
 caddies
 convulsionary
