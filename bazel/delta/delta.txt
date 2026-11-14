@@ -2219,7 +2219,7 @@ divvying
 deacidify
 decreative
 dendrophile
-dissipativity
+dissipativity 1
 decasualise
 disgavel
 decasualized
