@@ -124,7 +124,7 @@ earthboard
 exanthemata
 enantiomorphous
 engaol
-enigmatized
+enigmatized 1
 ethnological
 exterminable
 evolate
