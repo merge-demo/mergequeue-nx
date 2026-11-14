@@ -25081,7 +25081,7 @@ axemen
 arsine
 axenic
 axenically
-abbreviators
+abbreviators 1
 annual
 antisolar
 ausforms
