@@ -6250,7 +6250,7 @@ diabolize
 dermatic
 dermatitises
 drupe
-dermatoconiosis
+dermatoconiosis 1
 dermatodynia
 demisability
 disown
