@@ -19646,7 +19646,7 @@ acreages
 ascaridole
 arimathaean
 asswaging
-amboinese
+amboinese 1
 agglutinins
 arioian
 assailed
