@@ -3954,7 +3954,7 @@ garote 1
 gratuito
 galagos
 gigge
-gallopers
+gallopers 1
 graphomaniac 1
 grice
 ganner
