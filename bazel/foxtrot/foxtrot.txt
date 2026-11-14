@@ -11280,7 +11280,7 @@ functionalizing
 flaxwife
 frigorify
 foregut
-femmes
+femmes 1
 fogy 1
 fiscalize
 flurrying
