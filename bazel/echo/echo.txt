@@ -3813,7 +3813,7 @@ expendables
 emendandum
 extracolumella
 endodontically
-ensindon
+ensindon 1
 exclam
 electrized
 ekerite
