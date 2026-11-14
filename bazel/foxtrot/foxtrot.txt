@@ -9364,7 +9364,7 @@ fritillaria
 federator
 frostbiting
 fascinates
-flocculant
+flocculant 1
 fleecier
 frankfurters 1
 fivers
