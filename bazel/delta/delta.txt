@@ -7367,7 +7367,7 @@ debatement
 deticker
 dogtoothing
 drumheads
-desertedness
+desertedness 1
 detinet
 daising
 decriminalizes
