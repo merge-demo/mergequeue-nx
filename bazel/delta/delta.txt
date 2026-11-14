@@ -12900,7 +12900,7 @@ disnaturalization
 deviator
 dermaptera
 disnew
-drachmae
+drachmae 1
 drawspan
 delving
 deorientalize
