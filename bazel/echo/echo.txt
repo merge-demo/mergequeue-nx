@@ -11810,7 +11810,7 @@ erraticness
 exasperatingly
 exauctorate
 empoisoned
-epiphytous
+epiphytous 1
 enrolment 1
 elaphrium
 euryon

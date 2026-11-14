@@ -9422,7 +9422,7 @@ flamines 1
 fliers
 foodstuff
 foreteeth
-frary
+frary 1
 flouriness
 frolicly
 forlore
@@ -9657,7 +9657,7 @@ foredivine
 fletcher
 fregata
 faunist
-freyalite
+freyalite 1
 frondent
 forfairn
 freibergite
