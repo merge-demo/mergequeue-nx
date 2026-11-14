@@ -2278,7 +2278,7 @@ fantails
 folktale
 fulmineous 1
 fragging
-fluorocarbons
+fluorocarbons 1
 fibrochondrosteal
 floored
 fends
