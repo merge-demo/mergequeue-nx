@@ -2397,7 +2397,7 @@ aggrate
 acinus
 actinozoon
 aedes
-academicianship
+academicianship 1
 acipenserine
 antihemisphere
 acipenseroid
