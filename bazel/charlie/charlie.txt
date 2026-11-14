@@ -27374,7 +27374,7 @@ courtepy
 courter
 cozily
 chilblain
-courtesan
+courtesan 1
 citriculturist
 courtesanship
 courtesy
