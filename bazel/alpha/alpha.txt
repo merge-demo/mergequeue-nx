@@ -7433,7 +7433,7 @@ arthrodiae
 antara
 aplacentalia
 albinotic
-antitypic
+antitypic 1
 astragaloscaphoid
 apronful
 aesthesis
