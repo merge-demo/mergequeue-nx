@@ -10190,7 +10190,7 @@ disallowing
 distillation
 dinging
 dingleberry
-dingled
+dingled 1
 dreidl
 denuclearize
 decemvirs
