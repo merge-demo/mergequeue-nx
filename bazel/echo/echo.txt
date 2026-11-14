@@ -6832,7 +6832,7 @@ ectosarcs
 elix
 enl
 equestriennes
-ethnogenic
+ethnogenic 1
 emmenology
 epicranial
 exoticism
@@ -7832,7 +7832,7 @@ ebulliency
 eccentrate
 enterography
 epiglottitis
-exsiccator
+exsiccator 1
 elegiambic
 epicarps
 empyocele
