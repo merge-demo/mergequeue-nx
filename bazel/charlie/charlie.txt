@@ -10374,7 +10374,7 @@ conveyorizer
 chiefish
 chieftain
 chieftaincy 1
-chieftainess
+chieftainess 1
 chieftainry
 complexify
 chieftainries
