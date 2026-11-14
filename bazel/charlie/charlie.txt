@@ -10823,7 +10823,7 @@ chinotoxine
 cleverishly 1
 chinse
 chinsing
-coragio
+coragio 1
 chintses
 chintz
 chaperons

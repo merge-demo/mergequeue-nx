@@ -6920,7 +6920,7 @@ embonpoint 1
 ephoric
 eighteenths
 exuviable 1
-ebullitive
+ebullitive 1
 engendered
 educabilian
 ethernets
