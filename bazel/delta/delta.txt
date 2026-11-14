@@ -10655,7 +10655,7 @@ doon
 discoveries
 diplopod
 diplopoda
-discorrespondent
+discorrespondent 1
 delocalization
 dissociates
 divests
