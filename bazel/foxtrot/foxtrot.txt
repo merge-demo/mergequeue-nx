@@ -10798,7 +10798,7 @@ fuchsine
 flustra
 foveation
 foredestined
-fleeten
+fleeten 1
 feudalising
 fucinita
 freesilverite
