@@ -1309,7 +1309,7 @@ antarchism
 adtevac
 activators
 agamous
-arginase
+arginase 1
 anangular
 amyelia
 atomized
