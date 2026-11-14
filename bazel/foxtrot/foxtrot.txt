@@ -84,7 +84,7 @@ flocklike
 forme
 filching
 faces
-folkright
+folkright 1
 flattening
 flowerfence
 foliobranch
@@ -2533,7 +2533,7 @@ frugivorous
 fibromembranous
 filamentule
 frangibility
-freebee
+freebee 1
 fados
 freeboot
 fem
