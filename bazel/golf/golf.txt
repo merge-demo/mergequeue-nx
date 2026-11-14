@@ -1232,7 +1232,7 @@ goodeniaceae
 galavants
 gramy
 gruffly
-gambler
+gambler 1
 gonakie
 grackles
 guana
