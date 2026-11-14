@@ -469,7 +469,7 @@ battik
 benzoates 1
 backspaces
 blepharocera
-backspacing
+backspacing 1
 butteries
 beestings
 brubu
