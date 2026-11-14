@@ -5150,7 +5150,7 @@ aetiologies
 aloelike
 axones
 administerial
-arrivisme
+arrivisme 1
 anglemeter
 antihierarchal
 airbag
