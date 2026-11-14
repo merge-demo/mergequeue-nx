@@ -9540,7 +9540,7 @@ digitising
 desulphurise
 digitizes
 digitizing
-desorbed
+desorbed 1
 decimosexto
 downthrow
 decimated
