@@ -6002,7 +6002,7 @@ foliole
 fictioneering
 feldsher
 fez
-floorwise 1
+floorwise 2
 featishness
 fusty
 foolscaps
