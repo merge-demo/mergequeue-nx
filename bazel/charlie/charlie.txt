@@ -15601,7 +15601,7 @@ cartographers
 clattered
 coxcombries
 countering
-clatterer
+clatterer 1
 crucifier
 clattery
 captainly
