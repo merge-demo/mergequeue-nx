@@ -11350,7 +11350,7 @@ fraxinus
 firepans
 feuds
 fiasco
-fannies
+fannies 1
 furloughed 1
 ferlied
 flustrine
