@@ -4942,7 +4942,7 @@ endamoebas
 endamoebidae 1
 equations
 endangitis
-expertised
+expertised 1
 endarteteria
 endaspidean
 endbrains
