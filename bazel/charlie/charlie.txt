@@ -16541,7 +16541,7 @@ convival
 carrigeen
 cloisonnism
 cockaded
-cloistered 1
+cloistered 2
 cloisterer
 columellate
 clappermaclaw
