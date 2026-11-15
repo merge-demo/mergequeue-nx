@@ -1338,7 +1338,7 @@ acceleratedly
 assidean
 annealers
 alabamians
-accelerates
+accelerates 1
 alinotum
 accelerative
 aboiteaux
