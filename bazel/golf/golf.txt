@@ -4830,7 +4830,7 @@ granate
 guardo 1
 gynerium
 glacieret
-gouaches
+gouaches 1
 garookuh
 glacierist
 graphemes
