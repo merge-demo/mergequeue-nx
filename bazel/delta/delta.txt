@@ -2892,7 +2892,7 @@ dronet
 dinoceratid
 draper
 didunculidae
-detainers 1
+detainers 2
 deerlike
 decurion
 dispensatories 1
