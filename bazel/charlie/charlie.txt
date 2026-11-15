@@ -8346,7 +8346,7 @@ chatino
 cessionaries
 challis
 challises
-challot
+challot 1
 challote
 corkscrewed
 catalogers
