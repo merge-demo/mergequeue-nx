@@ -12100,7 +12100,7 @@ anastrophy
 advocator
 advisements
 activital
-anat 1
+anat 2
 anatase
 ardebs
 anatases
