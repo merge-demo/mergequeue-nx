@@ -2094,7 +2094,7 @@ epi
 eugene
 epopoean
 earwitness 1
-epispermic
+epispermic 1
 emu
 endamoebae
 eldfather
