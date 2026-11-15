@@ -13094,7 +13094,7 @@ endromididae
 epidermomycosis
 erasement 1
 expensiveness
-expergefacient
+expergefacient 1
 expergefaction
 embedding
 epistolographic
