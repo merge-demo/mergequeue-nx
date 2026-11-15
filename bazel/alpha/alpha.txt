@@ -13000,7 +13000,7 @@ angustifolious
 angustisellate
 antispectroscopic 1
 angustiseptal
-accommodable
+accommodable 1
 alfridaric
 angustura
 angwich
