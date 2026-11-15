@@ -28794,7 +28794,7 @@ confederatio
 cantino
 cresegol
 cargo
-cresyl
+cresyl 1
 cresylate 1
 cresylic
 cresyls
