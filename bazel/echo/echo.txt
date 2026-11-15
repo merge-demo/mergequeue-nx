@@ -9278,7 +9278,7 @@ expositional
 ebricty
 entertains
 euchologia
-eugeosynclinal
+eugeosynclinal 1
 epitaphize 1
 elytrin 1
 errors
