@@ -8707,7 +8707,7 @@ diastomatic
 davyne
 diastral
 davits
-decors
+decors 1
 delicioso
 demagnetise
 diastrophically
