@@ -4798,7 +4798,7 @@ adglutinate
 aeriform
 abasement
 autographically
-aberdevine
+aberdevine 1
 azygous
 aspide
 aeriness
