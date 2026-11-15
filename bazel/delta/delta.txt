@@ -5281,7 +5281,7 @@ darr
 dissemblers 1
 densifying
 disharmonism
-dilatometry
+dilatometry 1
 danaro
 diglottic
 disscepter
