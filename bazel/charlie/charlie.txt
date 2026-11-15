@@ -2526,7 +2526,7 @@ candlebomb
 candlefish
 corporeal
 chaldaical
-candlefishes
+candlefishes 1
 collogued
 candleholder
 candlelight
