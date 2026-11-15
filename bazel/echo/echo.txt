@@ -11779,7 +11779,7 @@ excorticating
 exappendiculate 1
 empover
 exarate
-egyptianization
+egyptianization 1
 eremochaeta
 exorcista
 exaration
