@@ -6430,7 +6430,7 @@ dismemberments
 debellation
 derrises
 duce
-deruinate
+deruinate 1
 derust
 decameronic
 dispathy
