@@ -11353,7 +11353,7 @@ difficulties
 diggers
 dischargeable 1
 dispirited
-dilacerating
+dilacerating 1
 deodands
 dowhacky
 devoter
