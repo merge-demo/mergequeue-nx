@@ -21661,7 +21661,7 @@ assassinate
 azoeosin
 achromats
 afikomen
-amusingly
+amusingly 1
 antitragus
 antibromic
 assassinations
