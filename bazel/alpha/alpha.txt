@@ -9302,7 +9302,7 @@ alopecias
 alopecoid
 antrectomy
 alophas
-alorcinic 1
+alorcinic 2
 alosa
 adjustive
 alouette
