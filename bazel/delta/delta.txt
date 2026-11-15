@@ -13292,7 +13292,7 @@ destituted
 disprivacied
 dittay
 degradable
-diligentness
+diligentness 1
 disprizes
 dermosynovitis
 dreissensia
