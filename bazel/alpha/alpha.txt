@@ -25085,7 +25085,7 @@ abbreviators
 annual
 antisolar
 ausforms
-advanceable
+advanceable 1
 antiastronomical
 atwirl
 accusativeness
