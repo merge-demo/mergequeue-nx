@@ -17739,7 +17739,7 @@ dubitate
 doyenne
 dubitatingly
 duboisin
-duboisine
+duboisine 1
 duc
 dibutyrin
 disconsolate
