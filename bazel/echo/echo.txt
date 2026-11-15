@@ -6493,7 +6493,7 @@ ensphering
 enlister
 enstar
 enrapturing
-espanoles
+espanoles 1
 elocation
 entr
 embrocated
