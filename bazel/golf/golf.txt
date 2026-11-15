@@ -1071,7 +1071,7 @@ gomphiasis
 gradus
 gasserian
 glossic
-gangplows
+gangplows 1
 geomalic
 gist
 glaucoma
