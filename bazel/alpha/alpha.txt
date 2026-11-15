@@ -9088,7 +9088,7 @@ alls
 adolesce
 artabe
 appeasive
-allspice
+allspice 1
 angulosity 1
 anticatalase
 antiblock
