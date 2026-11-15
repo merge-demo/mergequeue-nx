@@ -7553,7 +7553,7 @@ alburn
 autotoxin
 albutannin
 aswoon
-abolitionise
+abolitionise 1
 acetal 1
 aquamanale
 artificiality
