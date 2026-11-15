@@ -16157,7 +16157,7 @@ climatology
 climatological
 conductitious
 crenulated
-climatometer
+climatometer 1
 climaxed
 ctf
 censing
