@@ -3230,7 +3230,7 @@ achingly
 acuclosure
 acuductor
 anoine
-acuities
+acuities 1
 aerologic
 antiendotoxin
 antizymic
