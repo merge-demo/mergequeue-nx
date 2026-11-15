@@ -8491,7 +8491,7 @@ externally
 endball 1
 exculpation
 eleemosynariness
-evolutive
+evolutive 1
 eupyrene
 empties
 enneatical
