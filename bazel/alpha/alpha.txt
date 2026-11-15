@@ -5074,7 +5074,7 @@ abthanage
 agronomic
 aerotonometry
 antirationally
-adularescent
+adularescent 1
 aporrhiegma
 albruna
 allantoidal
