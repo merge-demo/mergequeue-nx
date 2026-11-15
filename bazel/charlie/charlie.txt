@@ -27564,7 +27564,7 @@ coverlids
 clairce
 coverslip
 covertly
-colloquialist
+colloquialist 1
 cadency
 cupmaker
 coves
