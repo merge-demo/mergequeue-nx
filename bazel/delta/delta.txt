@@ -62,7 +62,7 @@ dichotomise
 dacryorrhea
 durham
 dacryosyrinx
-deglamorized
+deglamorized 1
 down
 demonological
 dactylar
