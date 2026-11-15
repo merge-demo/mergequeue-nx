@@ -2819,7 +2819,7 @@ ecthlipsis
 eath 1
 endamask
 effeminately
-epipubic
+epipubic 1
 exampleless 1
 ecodeme
 eleomargaric
