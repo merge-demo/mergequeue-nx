@@ -5689,7 +5689,7 @@ catastasis
 creamware
 catoptromancy
 catastate
-catasterism
+catasterism 1
 catastrophal
 cryptologist
 catastrophes
