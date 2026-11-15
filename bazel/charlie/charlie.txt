@@ -2087,7 +2087,7 @@ campana
 campane
 campanella
 coadjuvancy
-campania
+campania 1
 cecils
 comdg
 crunchier
