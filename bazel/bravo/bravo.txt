@@ -7711,7 +7711,7 @@ burglaries
 bunning 1
 bheesty
 bullaries
-bheestie
+bheestie 1
 beblot
 bespangles
 britten
