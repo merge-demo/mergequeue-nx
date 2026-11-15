@@ -2866,7 +2866,7 @@ barrad
 bridebowl
 boskage 1
 biform
-bashawism
+bashawism 1
 buddage
 barrage
 barnmen
