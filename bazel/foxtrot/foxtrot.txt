@@ -9256,7 +9256,7 @@ futilely 1
 fraises
 fretwise
 fascinery
-faradomuscular
+faradomuscular 1
 frontispieced
 fraktur
 fasciolet
