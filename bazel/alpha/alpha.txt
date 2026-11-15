@@ -11239,7 +11239,7 @@ ascorbate
 aliunde
 alismaceous
 algebar
-amphigories
+amphigories 1
 appenders
 allthing
 amphikaryotic
