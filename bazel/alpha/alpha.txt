@@ -21676,7 +21676,7 @@ assaultable
 antimissioner
 astrospectroscopic
 antiquer
-assaulter
+assaulter 1
 attainably
 aldolases
 archibald
