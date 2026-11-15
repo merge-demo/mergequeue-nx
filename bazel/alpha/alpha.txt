@@ -5301,7 +5301,7 @@ appetized
 axon
 affixal
 astipulate
-astrid
+astrid 1
 americanoid
 affixation 1
 amortization
