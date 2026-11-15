@@ -3398,7 +3398,7 @@ capreol
 commotional
 capreolar
 clamper
-canonizant
+canonizant 1
 capreolary
 capreolate
 chimericalness
