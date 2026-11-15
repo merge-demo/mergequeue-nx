@@ -2442,7 +2442,7 @@ entophytal 1
 espinel
 euphausid
 epitaxial
-earthnut
+earthnut 1
 exciting
 exciple
 ebonist
