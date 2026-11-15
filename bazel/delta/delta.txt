@@ -3212,7 +3212,7 @@ dasyures
 damselflies 1
 dudelsack
 dashpot
-defeit
+defeit 1
 de
 dogdom
 deciding
