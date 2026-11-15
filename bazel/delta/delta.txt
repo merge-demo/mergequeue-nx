@@ -6480,7 +6480,7 @@ dentinoblast
 disencumber
 diffusedly 1
 deranged
-descanted
+descanted 1
 descants
 discourtesies
 diastatic 1
