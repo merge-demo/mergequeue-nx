@@ -30412,7 +30412,7 @@ cosignificative
 crustific
 crustily
 crustose
-choloid
+choloid 1
 coroutine 1
 crusts
 custard
