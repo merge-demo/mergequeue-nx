@@ -10651,7 +10651,7 @@ elopers
 epithet 1
 excusingly
 eastlake
-extricating
+extricating 1
 exclamatorily
 eudiometrical
 eudiometrically
