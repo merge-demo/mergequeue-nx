@@ -6400,7 +6400,7 @@ agrogeological
 aurung
 ancylostoma
 acoine
-afro
+afro 1
 automatograph
 adsorbate
 auriculariae
