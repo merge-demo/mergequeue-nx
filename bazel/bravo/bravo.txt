@@ -15420,7 +15420,7 @@ brill
 bradytocia
 bicone
 binominous
-brillante
+brillante 1
 brilliance
 braata
 bereave
