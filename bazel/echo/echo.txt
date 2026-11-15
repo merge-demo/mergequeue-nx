@@ -9629,7 +9629,7 @@ espadon
 effervescible
 ewer
 endoblast
-encense
+encense 1
 entangleable
 equipper
 entia
