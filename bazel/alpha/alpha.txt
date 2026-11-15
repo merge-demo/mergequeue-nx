@@ -5255,7 +5255,7 @@ alpenhorn
 affiliating
 apery
 anagenetical
-ampitheater
+ampitheater 1
 attackable
 anapterygotous
 alingual
