@@ -14067,7 +14067,7 @@ extracurriculum 1
 entablature
 encephalomata
 enfect
-errantry
+errantry 1
 entoplastral
 epigastral
 equilibrative
