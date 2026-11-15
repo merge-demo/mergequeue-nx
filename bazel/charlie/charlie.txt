@@ -17028,7 +17028,7 @@ cupmate
 cortisone 1
 cnidopod
 conoids
-confoundable
+confoundable 1
 cardiacs
 capernoity
 coabode
