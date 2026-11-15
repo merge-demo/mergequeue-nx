@@ -690,7 +690,7 @@ antiglobulin
 abortionists
 ariot
 aspern
-absorbency
+absorbency 1
 abortive
 afebrile
 abortiveness
