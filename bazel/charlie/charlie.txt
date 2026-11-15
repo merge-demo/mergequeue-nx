@@ -10660,7 +10660,7 @@ chimeric
 coptic
 calci
 cavies
-caribou
+caribou 1
 cytoplasmic
 chimes
 chymes
