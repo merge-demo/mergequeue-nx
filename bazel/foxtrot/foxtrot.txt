@@ -812,7 +812,7 @@ faucial
 fumingly
 faun
 fenny
-frogeyes
+frogeyes 1
 formfitting
 fixatives 1
 fluctuations
