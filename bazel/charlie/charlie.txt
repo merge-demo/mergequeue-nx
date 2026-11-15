@@ -22367,7 +22367,7 @@ coni
 conia
 coniacian
 conic
-conical
+conical 1
 canajong
 cataloguish
 corrupable
