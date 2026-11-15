@@ -9761,7 +9761,7 @@ fascet
 fatigability
 fishworm
 farfel
-fluentness
+fluentness 1
 faerie
 foresettled
 flyspeck
