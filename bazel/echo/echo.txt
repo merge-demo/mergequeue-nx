@@ -11915,7 +11915,7 @@ exceptless
 emends
 eightfoil
 engore
-euploeinae
+euploeinae 1
 ectoderms
 emotionalist
 enragement
