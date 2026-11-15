@@ -1516,7 +1516,7 @@ defraudment
 deacetylating
 doarium
 deked
-deaconate 1
+deaconate 2
 demigorge
 delphinoidea
 downer
