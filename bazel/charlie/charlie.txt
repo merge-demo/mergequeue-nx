@@ -4003,7 +4003,7 @@ carcinemia
 croquettes
 carcinogenesis
 carcinogenic
-carcinoid
+carcinoid 1
 compartmental
 crystalloluminescence
 carcinolysin
