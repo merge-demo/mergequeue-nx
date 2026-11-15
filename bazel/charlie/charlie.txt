@@ -24671,7 +24671,7 @@ cute
 carpospore
 copperbottom
 copperer
-curare
+curare 1
 copperhead
 constructionism
 capsuled
