@@ -7665,7 +7665,7 @@ grounding 1
 geodynamics
 gyppery
 greenlet
-gleary
+gleary 1
 gardeny
 grader
 grouseward
