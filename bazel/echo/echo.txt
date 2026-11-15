@@ -951,7 +951,7 @@ ecttypal
 equates
 emanatory
 exeresis
-ecuadorian
+ecuadorian 1
 ecumenacy
 engraffing
 equilibristic
