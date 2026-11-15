@@ -9428,7 +9428,7 @@ escharotic
 enfeoff 1
 eschatological
 enaliosauria
-epistemonical
+epistemonical 1
 effeminised
 eyeshades
 eggshell
