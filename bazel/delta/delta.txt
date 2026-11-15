@@ -7750,7 +7750,7 @@ domiciliary
 diplotegia
 defeasance
 devised
-decongests
+decongests 1
 diphosphoric
 denicotinized
 devisees
