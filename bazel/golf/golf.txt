@@ -3324,7 +3324,7 @@ galvanofaradization
 gyneccia 1
 glycerine
 gipsyesque
-geepounds
+geepounds 1
 germfree 1
 geostrophically
 gobio
