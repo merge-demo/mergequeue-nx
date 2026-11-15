@@ -9575,7 +9575,7 @@ farsi
 fleeciest 1
 freebooter 1
 freebootery
-forestiera 1
+forestiera 2
 freebooting
 freed
 feltwork
