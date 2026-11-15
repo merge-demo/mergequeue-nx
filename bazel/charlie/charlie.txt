@@ -20408,7 +20408,7 @@ condonative
 concamerate
 companable 1
 companage
-circumfluent
+circumfluent 1
 counterword
 cerebroma
 cannels
