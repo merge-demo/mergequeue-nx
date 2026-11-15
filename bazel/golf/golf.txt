@@ -4484,7 +4484,7 @@ gepoun
 gugu
 galtonian
 gypsyfy
-generically
+generically 1
 granules
 gristles
 geophytes
