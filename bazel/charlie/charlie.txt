@@ -9266,7 +9266,7 @@ chattels
 calamities
 chatter
 chyme
-craunch
+craunch 1
 cocainizing
 cryonic
 carol
