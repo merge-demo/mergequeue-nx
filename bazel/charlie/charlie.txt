@@ -12173,7 +12173,7 @@ chrysemys
 cynodon
 calescent
 chrysippus 1
-chrysis
+chrysis 1
 chebulinic
 conjuncted
 cottidae
