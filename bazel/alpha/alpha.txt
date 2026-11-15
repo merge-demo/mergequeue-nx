@@ -12805,7 +12805,7 @@ angionoma
 aecidioform
 anglish
 angioparalytic
-angioparesis
+angioparesis 1
 ambassadorship
 awarder
 angiopathy
