@@ -4253,7 +4253,7 @@ disputatious
 deuteragonist
 delthyrial
 duncan
-destructible
+destructible 1
 dineros 1
 danseuses
 deltohedron
