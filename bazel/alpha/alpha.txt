@@ -22987,7 +22987,7 @@ apocynaceae
 admirative
 awls
 affectless
-aphonics
+aphonics 1
 atrociously
 abysmally
 atrocities
