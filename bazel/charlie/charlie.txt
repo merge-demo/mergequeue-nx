@@ -11062,7 +11062,7 @@ cothish
 circuminsular 1
 compander
 chitarroni
-clitoris
+clitoris 1
 cyclicly
 coalize
 chitimacha
