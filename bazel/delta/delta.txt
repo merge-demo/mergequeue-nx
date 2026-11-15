@@ -4024,7 +4024,7 @@ draggling
 deleter
 demur
 deleteriousness 1
-dirge
+dirge 1
 deletions
 disdub
 departmentize
