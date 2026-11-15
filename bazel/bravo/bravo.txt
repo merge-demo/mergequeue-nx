@@ -6895,7 +6895,7 @@ besetters 1
 besew
 borghi
 boccaccio
-betrim
+betrim 1
 bradyseismic
 bibliopolistic
 beshade
