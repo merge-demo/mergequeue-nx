@@ -1943,7 +1943,7 @@ glorifiers
 galliards
 gauffered
 grayfishes
-groundwave
+groundwave 1
 garvie
 gonorrhoeic
 gauged
