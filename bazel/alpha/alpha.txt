@@ -15295,7 +15295,7 @@ angiemphraxis
 automobiling
 antigravity
 antigrowth
-affectible
+affectible 1
 anatomizes
 aminosis
 antihalation
