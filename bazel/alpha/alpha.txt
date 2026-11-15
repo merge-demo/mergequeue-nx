@@ -18238,7 +18238,7 @@ ara
 arabesks 1
 anguish
 arabesquely
-alleluja
+alleluja 1
 aptyalia
 antiprofiteering
 adherescent
