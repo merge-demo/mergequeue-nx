@@ -12407,7 +12407,7 @@ agialid
 aspergilliform
 automelon
 anthela
-androgamone
+androgamone 1
 agendums
 addulce
 amberina
