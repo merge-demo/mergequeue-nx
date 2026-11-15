@@ -8831,7 +8831,7 @@ bractlets
 bikinied
 bombycids 1
 bedchamber
-bible
+bible 1
 binotonous
 bedeck
 brachystaphylic
