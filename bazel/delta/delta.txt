@@ -7245,7 +7245,7 @@ delubrum
 deverbative
 desolately
 disnatured
-dux
+dux 1
 dyingly
 detente
 dicotyl
