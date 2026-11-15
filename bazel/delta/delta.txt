@@ -896,7 +896,7 @@ determent
 dreepiness 1
 dantean
 dimatis
-dacryopyorrhea
+dacryopyorrhea 1
 dolorific
 dantology
 dashpots
