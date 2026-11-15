@@ -985,7 +985,7 @@ dignitaries
 derequisition
 dolomitise 1
 disproportionate
-drest
+drest 1
 darics
 devwsor
 darien
