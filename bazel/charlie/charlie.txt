@@ -29021,7 +29021,7 @@ ceorlish
 codiscoverer
 criminalism
 criminalistic
-countersecurity
+countersecurity 1
 chesterlite
 cyanogenic
 criminalistics
