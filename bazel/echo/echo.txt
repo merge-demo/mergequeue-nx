@@ -2980,7 +2980,7 @@ etagere
 epistasy 1
 eligibles
 entrecotes
-equipede
+equipede 1
 elbowchair
 enjoining
 encephalopsychesis
