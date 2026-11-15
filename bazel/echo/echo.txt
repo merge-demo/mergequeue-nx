@@ -298,7 +298,7 @@ eponymy
 exorcizes
 exteriority
 elderly
-eightsome
+eightsome 1
 exploitation
 echos
 exhumation
