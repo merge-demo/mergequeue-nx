@@ -1617,7 +1617,7 @@ cosavior
 callum
 calluna
 calamarioid
-coenzyme
+coenzyme 1
 creasy
 calmant
 cytopathology
