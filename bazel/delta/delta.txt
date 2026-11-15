@@ -9871,7 +9871,7 @@ damyankee
 delitescence
 diosphenol
 dinmont
-doctrinable
+doctrinable 1
 dimber
 doek
 desilicification
