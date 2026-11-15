@@ -28758,7 +28758,7 @@ crepuscular
 cavitate
 cornutine 1
 chafer
-crepusculine
+crepusculine 1
 catenary
 cres
 cresc
