@@ -1992,7 +1992,7 @@ crampbit
 cameronian
 coyure
 condescendent
-curvey
+curvey 1
 cervicoscapular
 cabineted
 convulses
