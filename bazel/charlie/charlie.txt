@@ -31536,7 +31536,7 @@ chromosomes
 cursorary
 cundite
 cursory
-cratered
+cratered 1
 cuproid
 cursorily
 crystallizability
