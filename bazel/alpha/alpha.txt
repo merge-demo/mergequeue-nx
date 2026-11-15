@@ -3700,7 +3700,7 @@ adenotomic
 adenous
 apomorphin
 autocarpic 1
-adeona
+adeona 1
 attenuative
 adephagous 1
 argoan 1
