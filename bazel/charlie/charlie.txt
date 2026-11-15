@@ -7900,7 +7900,7 @@ cestidae
 cestodes
 copatron
 coronize
-capitulary
+capitulary 1
 carouses
 cestoidean
 cestoids
