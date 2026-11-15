@@ -424,7 +424,7 @@ entocondyle
 ebulliently 1
 elfish
 exposits
-ebulliometer
+ebulliometer 1
 exacerbation
 ebullioscopic
 ethenic
