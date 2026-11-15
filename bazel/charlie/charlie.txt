@@ -8740,7 +8740,7 @@ chirpier
 coccolithophorid
 chapellany
 chapelled
-cimnel
+cimnel 1
 carditic
 cobnut
 capitaliser
