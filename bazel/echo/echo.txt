@@ -4400,7 +4400,7 @@ engagers 1
 excretes 2
 embryons
 evacuates
-enations
+enations 1
 euripos 1
 enbrave
 eggheadedness
