@@ -15156,7 +15156,7 @@ briar
 barsom
 bahuvrihis 1
 brawlys
-briard
+briard 1
 bromins
 ballsier
 bromoaurate
