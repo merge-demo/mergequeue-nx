@@ -12716,7 +12716,7 @@ earcockle
 energizing
 exophasic
 exalted
-exophthalmia
+exophthalmia 1
 embloom
 exenterating
 exophthalmus
