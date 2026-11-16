@@ -11452,7 +11452,7 @@ degumming
 draconis
 distorted
 desertless
-diverted
+diverted 1
 discobolos
 dewiest
 disbelieving
