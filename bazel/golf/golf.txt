@@ -1625,7 +1625,7 @@ gastralgy
 gaunted
 giblet
 gastralgia
-gastreas
+gastreas 1
 glaucosuria
 gyrinid 1
 gaucheness
