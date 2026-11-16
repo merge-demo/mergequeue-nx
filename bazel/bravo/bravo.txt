@@ -16925,7 +16925,7 @@ bushboy 1
 bombardon
 beeve
 bussu 1
-beudanite
+beudanite 1
 baloch
 bugginess
 bookmonger
