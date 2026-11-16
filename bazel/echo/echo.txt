@@ -10913,7 +10913,7 @@ encephalocoele
 epibaterium
 euktolite
 euphory
-enchondrosis
+enchondrosis 1
 euphoriant
 eaglewood
 euploidies
