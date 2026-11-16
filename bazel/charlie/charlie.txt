@@ -24918,7 +24918,7 @@ crassitude 1
 crabit
 coranto
 crazier
-caproate
+caproate 1
 cynopodous
 corolliform
 cocaigne
