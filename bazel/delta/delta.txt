@@ -11520,7 +11520,7 @@ demarch
 delies
 dismounts 1
 derivationist
-deuteropathic
+deuteropathic 1
 discomfortingly
 discomforts
 discomycete
