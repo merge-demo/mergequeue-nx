@@ -6883,7 +6883,7 @@ euryalidan
 expectative
 engle
 entomophila
-entomophobia
+entomophobia 1
 earwaxes
 esthesiography
 eucryptite
