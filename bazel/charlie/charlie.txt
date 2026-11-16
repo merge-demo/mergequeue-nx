@@ -5163,7 +5163,7 @@ casernes
 costumery
 caserns
 cases
-caseum
+caseum 1
 cordis
 caseworks
 caseworm
