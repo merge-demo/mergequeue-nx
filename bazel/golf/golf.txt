@@ -8925,7 +8925,7 @@ gabbing
 grandparent
 galesaur
 gaffe 1
-gigi
+gigi 1
 gladelike
 grandiloquous
 gwag
