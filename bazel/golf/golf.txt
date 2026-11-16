@@ -799,7 +799,7 @@ gastrular
 grazer
 gonia
 goldbeater
-gambe
+gambe 1
 gourmanderie
 gambeered
 glauke
