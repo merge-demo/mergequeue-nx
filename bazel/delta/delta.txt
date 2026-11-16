@@ -10182,7 +10182,7 @@ deutoxide
 diachaenium 1
 drillability
 dispassioned
-deripia
+deripia 1
 declarable
 dehonestate
 demirevetment
