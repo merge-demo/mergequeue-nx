@@ -7526,7 +7526,7 @@ arrested
 anchovies
 albuminofibrin
 albuminoid
-abstract
+abstract 1
 aurifying
 albuminometer
 acrostolium
