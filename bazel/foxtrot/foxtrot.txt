@@ -1050,7 +1050,7 @@ flopper
 felspathose
 foined
 floricomous
-forensal
+forensal 1
 fringillidae
 foraging
 fogas
