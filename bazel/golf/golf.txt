@@ -5748,7 +5748,7 @@ gallopade
 glossohyal
 gaultherase
 gobos
-glossolalia
+glossolalia 1
 gabbroid
 glossolysis
 goldweed
