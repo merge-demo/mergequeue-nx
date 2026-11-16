@@ -10872,7 +10872,7 @@ ammocoetiform
 antischolastic
 ammoniuret
 archcozener
-antiproteolysis
+antiproteolysis 1
 argolian
 ammono
 ammonoidea
