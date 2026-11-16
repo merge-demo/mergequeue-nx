@@ -5584,7 +5584,7 @@ fader
 fibrinocellular
 flycatchers
 flicflac
-flintiness
+flintiness 1
 flicker
 fixity
 flocculently
