@@ -16199,7 +16199,7 @@ draconic
 dialector
 deerskins
 dizens
-deallocates
+deallocates 1
 defats
 doweress
 dingeys
