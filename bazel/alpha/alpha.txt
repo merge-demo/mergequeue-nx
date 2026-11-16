@@ -19705,7 +19705,7 @@ ammoniate
 armeniaceous
 anticathexis
 aristology
-anamite
+anamite 1
 anglesmith
 acrostichal
 aristologist
