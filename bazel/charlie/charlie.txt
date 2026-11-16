@@ -29195,7 +29195,7 @@ cryoscopic
 cryoscopies
 cymbaler
 constipate
-cryosel
+cryosel 1
 cryospheric
 criosphinx
 chromatospheric
