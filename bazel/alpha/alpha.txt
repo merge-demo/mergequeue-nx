@@ -10776,7 +10776,7 @@ amitular
 ancre
 antiagglutinating
 aged
-amiantuses
+amiantuses 1
 amyxorrhea
 architis
 amlikar
