@@ -15064,7 +15064,7 @@ doggle
 drownings
 doggo
 distinguisher
-dehors
+dehors 1
 determinable 1
 doggonest
 doggoning
