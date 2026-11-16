@@ -16962,7 +16962,7 @@ begirded
 bondelswarts
 bedewoman
 buildups
-bordure
+bordure 1
 bespeakable
 bedwarmer
 backland
