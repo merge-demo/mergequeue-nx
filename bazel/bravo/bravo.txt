@@ -15155,7 +15155,7 @@ bryanism
 briar
 barsom
 bahuvrihis 1
-brawlys
+brawlys 1
 briard
 bromins
 ballsier
