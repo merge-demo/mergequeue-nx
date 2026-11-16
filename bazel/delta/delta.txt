@@ -1734,7 +1734,7 @@ dyad
 dishwiping
 deathify
 diobol
-deathiness
+deathiness 1
 dasewe
 discantus
 duckpond
