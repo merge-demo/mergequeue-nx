@@ -1955,7 +1955,7 @@ gorbellied
 glutetei
 gruft
 gustoso 1
-gastrilegous
+gastrilegous 1
 gamasidae 1
 gobans
 gauleiter
