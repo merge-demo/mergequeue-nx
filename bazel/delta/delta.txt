@@ -16251,7 +16251,7 @@ desmidian
 demodulate
 dodecylphenol
 downcry
-dieciously
+dieciously 1
 downed
 dyspneal
 damaskeening
