@@ -306,7 +306,7 @@ abdominothoracic
 acquiescent
 astoundment
 abdominous 1
-abduces
+abduces 1
 articulate
 ampullulae
 abducted
