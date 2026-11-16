@@ -15076,7 +15076,7 @@ calography 1
 cumbent
 clabularium
 clach
-chlorogenine
+chlorogenine 1
 clack
 clackama
 circumtropical
