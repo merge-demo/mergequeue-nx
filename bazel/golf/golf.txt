@@ -6845,7 +6845,7 @@ gallican
 gamelotte
 gymnodontes
 gastroenterostomies
-gunnings
+gunnings 1
 gagwriter 1
 ghostflower
 gasmaker
