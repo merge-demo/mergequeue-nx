@@ -6505,7 +6505,7 @@ equators 1
 enswathement
 elementariness
 embowered
-evidently
+evidently 1
 ephelis
 envisaging
 epistropheal
