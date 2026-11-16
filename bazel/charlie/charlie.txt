@@ -492,7 +492,7 @@ caddies
 convulsionary
 cottons
 clinics
-chincough
+chincough 1
 caddises
 cattalos
 caddishness
