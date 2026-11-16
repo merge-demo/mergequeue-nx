@@ -18658,7 +18658,7 @@ clearheaded
 crafty
 conourish
 corporales
-cointensity
+cointensity 1
 cointer
 cointerest
 cointerred
