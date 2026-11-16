@@ -5471,7 +5471,7 @@ aerobiological
 afrormosia
 aft
 afteract
-appetitive
+appetitive 1
 afterlife
 alepine
 absorbs
