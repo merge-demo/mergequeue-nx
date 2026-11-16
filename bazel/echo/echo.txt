@@ -8325,7 +8325,7 @@ effulgence
 excursional
 essonites
 episthotonos
-epidictic
+epidictic 1
 endogamies
 eriocaulaceae
 electrodeposit
