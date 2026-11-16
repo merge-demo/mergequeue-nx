@@ -8082,7 +8082,7 @@ dhooras
 dhooties
 distinctively 1
 dhootis
-denaturant
+denaturant 1
 domesticated
 dysgenetic
 disendowment 1
