@@ -11970,7 +11970,7 @@ anaplasma
 anaplasty
 arrogatingly 1
 anosmia
-appendiculata
+appendiculata 1
 amination
 adnexa
 axoneme
