@@ -22928,7 +22928,7 @@ countersalient
 chob
 consignificant
 consignification
-consignificative
+consignificative 1
 consignificator
 cylindroidal
 causse
