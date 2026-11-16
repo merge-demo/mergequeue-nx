@@ -9810,7 +9810,7 @@ emittance
 exergue
 emunctories
 exprobrate
-estampage
+estampage 1
 empiric
 enucleating
 evolving
