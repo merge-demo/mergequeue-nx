@@ -10930,7 +10930,7 @@ epipteric 1
 eulogies
 echinops
 euphuize 1
-eupyrion
+eupyrion 1
 eupittone
 enteritis
 exams
