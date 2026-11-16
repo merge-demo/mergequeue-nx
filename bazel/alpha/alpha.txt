@@ -10153,7 +10153,7 @@ adoptabilities
 ambrosias
 argine
 ambrosiate
-affords
+affords 1
 altarwise
 ambrosine
 ambsace
