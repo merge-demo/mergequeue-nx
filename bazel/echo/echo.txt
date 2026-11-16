@@ -4749,7 +4749,7 @@ encist
 electralize 1
 exponentially
 encysting
-eugenol
+eugenol 1
 emptiest
 encysts
 evenest
