@@ -6815,7 +6815,7 @@ desize
 decompositional
 devilmonger
 desklike
-diphrelatic
+diphrelatic 1
 dunks
 deskman
 desks
