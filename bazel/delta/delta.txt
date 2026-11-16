@@ -12405,7 +12405,7 @@ dicynodon
 diplophyte
 dominate
 dishelms
-disher
+disher 1
 durability
 disherited
 divet
