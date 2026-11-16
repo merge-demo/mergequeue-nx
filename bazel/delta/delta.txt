@@ -5440,7 +5440,7 @@ disinure 1
 denunciator
 discrownment
 disciplinableness
-detd
+detd 1
 dauk
 denver
 disprover
