@@ -1751,7 +1751,7 @@ glessite
 goric 1
 glass
 guesses
-gamesman
+gamesman 1
 guernseys
 gaullism
 gastropexy
