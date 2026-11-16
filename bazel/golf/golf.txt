@@ -2640,7 +2640,7 @@ gymnosophist
 genethlic
 glossopetra
 goatee 1
-glossosteresis
+glossosteresis 1
 geniality
 genetics
 gastrolysis
