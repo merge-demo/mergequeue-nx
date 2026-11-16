@@ -2944,7 +2944,7 @@ cantharidae
 cake
 chytrid
 cantharides
-coation
+coation 1
 clip
 cantharidian
 cycloacetylene
