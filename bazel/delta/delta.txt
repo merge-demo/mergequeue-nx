@@ -14319,7 +14319,7 @@ disdaining
 disseminates
 decardinalize
 dispassionate
-didymoid
+didymoid 1
 decrial
 defervescent
 dittying

@@ -7475,7 +7475,7 @@ ceratitoidea
 cataleptics
 ceratoblast
 ceratodidae
-ceratoduses
+ceratoduses 1
 centrifugalization
 capelet
 coistrils
