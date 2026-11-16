@@ -9603,7 +9603,7 @@ grimmiaceous
 gangerel 1
 goitered
 gemses
-gossipmonger
+gossipmonger 1
 gr
 ghostwriting
 guzerat
