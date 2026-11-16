@@ -2278,7 +2278,7 @@ anaphoric
 azimech
 acidy
 acetamid
-acidiferous
+acidiferous 1
 argil
 aneurin
 arbtrn
