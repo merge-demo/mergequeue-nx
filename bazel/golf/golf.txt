@@ -1577,7 +1577,7 @@ gregarinoidea 1
 gluelikeness
 gout
 gassing
-gismos
+gismos 1
 gondoliere 1
 globicephala
 gymnura
