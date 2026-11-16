@@ -22011,7 +22011,7 @@ confirms
 ceraunite
 confiscatable
 cynebot
-confiscate 1
+confiscate 2
 countertrend
 crois
 chookies
