@@ -14015,7 +14015,7 @@ enripen
 embittered
 emulsin
 emmet
-extraspectral
+extraspectral 1
 exordize
 enigmatography
 endothecia
