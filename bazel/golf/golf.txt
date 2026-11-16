@@ -926,7 +926,7 @@ glucosemia
 gawkishness
 gatewise
 gashed
-gibboseness
+gibboseness 1
 guelphism
 greedy
 germal
