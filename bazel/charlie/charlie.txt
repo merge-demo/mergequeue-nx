@@ -2439,7 +2439,7 @@ cancerous
 celtophil
 cancerously
 coolth
-cancerousness
+cancerousness 1
 cardiotonic
 cancerweed
 canch
