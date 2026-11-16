@@ -24647,7 +24647,7 @@ charcoals
 cerebrating
 copolymer
 copolymerization
-copolymerize
+copolymerize 1
 cossas
 cruciated 1
 copolymerized

@@ -13429,7 +13429,7 @@ disregarded
 drumskin
 disregardfulness
 disregarding
-dingbat
+dingbat 1
 dropshot
 dramatise 1
 dialogging
