@@ -3228,7 +3228,7 @@ elt
 elaters
 engendure
 eluating
-ernesse
+ernesse 1
 enambush
 esotery
 extraschool
