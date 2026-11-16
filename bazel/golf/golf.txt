@@ -3741,7 +3741,7 @@ guayacan
 graduations
 gurdy
 ghuz
-glabellae
+glabellae 1
 griffons
 gasterothecal
 gallein
