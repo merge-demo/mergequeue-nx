@@ -1333,7 +1333,7 @@ cantador
 carious
 cryptogrammatist
 chaucer
-calycate
+calycate 1
 calyceraceae
 cardioparplasis
 calices
