@@ -8821,7 +8821,7 @@ commanders
 char
 conveyability
 crouchingly
-chara
+chara 1
 charabanc
 compensativeness
 clitoridectomies
