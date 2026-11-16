@@ -12443,7 +12443,7 @@ discontentful
 dishonors
 decerned
 desulfurate
-dishorn
+dishorn 1
 discontinue
 douching
 dislocable
