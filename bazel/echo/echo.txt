@@ -12164,7 +12164,7 @@ egally
 embastioned
 elasmobranchian
 exiguity
-excusably
+excusably 1
 enswathing 1
 entertainments
 ethaldehyde
