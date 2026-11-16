@@ -1051,7 +1051,7 @@ calcannea
 calcannei
 chloroplastid
 channellers
-calcareous
+calcareous 1
 chironomidae
 calcareousness
 capitalise
