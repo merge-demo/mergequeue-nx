@@ -18566,7 +18566,7 @@ abrogates
 abbotship
 alarmisms 1
 autoecholalia
-amboyna
+amboyna 1
 alforge
 arcacea
 aspergation
