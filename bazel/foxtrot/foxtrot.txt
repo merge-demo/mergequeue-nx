@@ -7891,7 +7891,7 @@ frottole
 firmaments
 flourishingly
 fatter 1
-fendillate
+fendillate 1
 factualist
 florent
 fusillades
