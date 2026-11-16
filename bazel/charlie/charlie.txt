@@ -29674,7 +29674,7 @@ chronogrammatist
 crocuta
 confusing
 circumambagious 1
-croft
+croft 1
 claybank
 cathars
 cornucopiate
