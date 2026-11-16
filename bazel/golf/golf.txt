@@ -1956,7 +1956,7 @@ glutetei
 gruft
 gustoso 1
 gastrilegous
-gamasidae 1
+gamasidae 2
 gobans
 gauleiter
 gastrohepatic
