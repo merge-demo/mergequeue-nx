@@ -6705,7 +6705,7 @@ colligation
 ceinture
 ceyx
 ceja
-clovery
+clovery 1
 charcia
 celadon
 complexionally
