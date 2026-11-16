@@ -2969,7 +2969,7 @@ engagee
 equaeval 1
 epihydrinic
 emaciate
-elides
+elides 1
 electrotropism
 europiums
 epistoler
