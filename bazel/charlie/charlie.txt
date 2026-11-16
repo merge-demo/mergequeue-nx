@@ -22520,7 +22520,7 @@ chimbleys
 cheekful
 conjuncts
 conjunctur
-conjunctures
+conjunctures 1
 conjuration
 conjurations
 cesar
