@@ -8503,7 +8503,7 @@ erases
 elongates 1
 epuration
 exculpable
-effectual
+effectual 1
 englisher
 enwombs
 equableness
