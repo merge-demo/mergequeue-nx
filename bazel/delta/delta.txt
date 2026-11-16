@@ -12019,7 +12019,7 @@ domicella
 distichous
 disendow
 dagoes
-demideity
+demideity 1
 desmodus 1
 disenfranchisement
 devanagari 1
