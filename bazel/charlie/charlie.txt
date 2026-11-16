@@ -28992,7 +28992,7 @@ criddle
 cried
 criey
 coxoceritic
-curiescopy
+curiescopy 1
 crier
 chemokinesis
 choletherapy
