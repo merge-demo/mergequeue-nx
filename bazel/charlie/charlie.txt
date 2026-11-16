@@ -26703,7 +26703,7 @@ counterattack
 colonels
 capellane
 counterattacked
-cacanthrax
+cacanthrax 1
 cyclamate
 cervid
 counterattacker
