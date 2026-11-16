@@ -19126,7 +19126,7 @@ cauked
 cartomancy
 collocating
 chkfile 1
-carambola
+carambola 1
 calfskins 1
 carrow
 collocation
