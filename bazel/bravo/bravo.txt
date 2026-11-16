@@ -6909,7 +6909,7 @@ biplosive
 breediness
 betail
 baselessness 1
-betta
+betta 1
 becoward
 bargoose
 badder
