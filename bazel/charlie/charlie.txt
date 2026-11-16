@@ -19962,7 +19962,7 @@ commandry
 cachinnated
 caudata
 commark
-croupal
+croupal 1
 coinheres
 conjectural 1
 commassation
