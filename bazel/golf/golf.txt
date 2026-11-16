@@ -7940,7 +7940,7 @@ gheg
 gadolinic
 glairy
 gainless 1
-greenhorn
+greenhorn 1
 granddaughter
 giglets
 got
