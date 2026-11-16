@@ -7707,7 +7707,7 @@ geopolitic
 girning
 galvanized 1
 gunpowderous
-globus
+globus 1
 geomyid
 grizzliest
 goldworker
