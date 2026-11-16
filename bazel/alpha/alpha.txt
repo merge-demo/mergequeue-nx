@@ -19423,7 +19423,7 @@ argentometry
 aday
 anchoritical
 analysts
-actinians
+actinians 1
 aahing
 afterstate
 alexins
