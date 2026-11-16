@@ -10120,7 +10120,7 @@ fe
 feckly
 fulciform
 fortuitus
-fissiparously
+fissiparously 1
 frittering
 fuchi
 frivolity
