@@ -21598,7 +21598,7 @@ arthrosia
 adjudgment 1
 automolite
 alkyl
-allegement
+allegement 1
 antiphonaries
 angary
 allegorist
