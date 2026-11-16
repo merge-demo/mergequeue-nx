@@ -8745,7 +8745,7 @@ diatomicity 1
 duetted
 downright 1
 dinting
-defocusses
+defocusses 1
 deescalations
 diatomist
 dover
