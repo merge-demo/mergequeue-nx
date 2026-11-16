@@ -16192,7 +16192,7 @@ aplustre 1
 aroras
 agrestian
 afterimpression
-antispiritualism
+antispiritualism 1
 azteca
 alular
 antispiritualistic
