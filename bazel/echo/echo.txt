@@ -4010,7 +4010,7 @@ exultancy
 esothyropexy
 estus
 effloresce
-etherealized
+etherealized 1
 epilamellar
 etymologise
 evangelian
