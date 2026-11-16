@@ -6704,7 +6704,7 @@ equestrianize
 ecartes
 eclipser
 enspirit
-esteriferous
+esteriferous 1
 equilibriria
 ecosystems 1
 enterozoon
