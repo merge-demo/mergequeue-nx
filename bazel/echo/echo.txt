@@ -10617,7 +10617,7 @@ electrotherapies
 endorse
 eucritic 1
 eudaemon
-eurous
+eurous 1
 enmeshes
 extravasated
 ecdyson
