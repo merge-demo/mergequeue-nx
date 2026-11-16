@@ -11000,7 +11000,7 @@ eutaxies
 eusynchite
 eurycephalic
 epiglot
-enridged
+enridged 1
 epiclastic
 endopterygote
 electrodialitically
