@@ -11246,7 +11246,7 @@ botteghe
 bloodguiltiness
 begirdled 1
 blouse
-blearier
+blearier 1
 basks
 blouses
 bloviated
