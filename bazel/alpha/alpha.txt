@@ -22739,7 +22739,7 @@ athort
 athrive
 athrogenic
 algebraizing
-anaplerotic
+anaplerotic 1
 archplunderer
 avoidment
 acetic
