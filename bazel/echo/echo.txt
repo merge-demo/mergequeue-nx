@@ -12810,7 +12810,7 @@ exoteric
 exoterica
 elementalistically 1
 excitomotor
-embryology
+embryology 1
 epicystotomy
 equine
 emajagua 1
