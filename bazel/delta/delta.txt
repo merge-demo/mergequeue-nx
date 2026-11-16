@@ -14873,7 +14873,7 @@ documentize 1
 dehortative
 doucepere
 disazo
-downbear 1
+downbear 2
 documents
 demonism
 dowitcher
