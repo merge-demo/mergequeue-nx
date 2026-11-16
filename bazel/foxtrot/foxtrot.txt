@@ -1605,7 +1605,7 @@ fallalery 1
 faniente
 favouring
 footroom
-floriage
+floriage 1
 frijol
 fervescence
 flannel
