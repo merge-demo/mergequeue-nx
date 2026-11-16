@@ -27082,7 +27082,7 @@ clypeastroida
 cladocerous
 counterreplies
 counterreprisal
-counterrevolutionary
+counterrevolutionary 1
 cauterize
 chivaring
 codiaceous

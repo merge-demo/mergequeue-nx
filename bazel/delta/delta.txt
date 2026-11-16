@@ -10963,7 +10963,7 @@ duettist
 dryopithecine
 deconventionalize
 disaffectation
-disaffecting
+disaffecting 1
 dashnak
 dilutor
 disaffiliated
