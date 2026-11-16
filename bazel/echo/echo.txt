@@ -3050,7 +3050,7 @@ esophagoscope
 epigram
 everich
 eschalot
-exogamy
+exogamy 1
 epidermis
 experimentalists
 elaidin
