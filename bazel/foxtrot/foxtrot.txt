@@ -2279,7 +2279,7 @@ folktale
 fulmineous 1
 fragging
 fluorocarbons
-fibrochondrosteal
+fibrochondrosteal 1
 floored
 fends
 filator
