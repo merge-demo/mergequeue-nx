@@ -6965,7 +6965,7 @@ araneologist
 appropriately 1
 akron
 anagrammatised
-aberrator
+aberrator 1
 adores
 aith
 anniversarily
