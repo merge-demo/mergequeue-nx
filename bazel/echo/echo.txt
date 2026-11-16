@@ -9844,7 +9844,7 @@ eclipsation
 eatage
 esterization
 esterize 1
-enterocrinin
+enterocrinin 1
 exhumated
 electorate
 emulsoid
