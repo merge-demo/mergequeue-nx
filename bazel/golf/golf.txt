@@ -7884,7 +7884,7 @@ grammatics
 gastropodous 1
 galik
 graved
-grammatistical
+grammatistical 1
 gratinated
 giglots 1
 grammatite
