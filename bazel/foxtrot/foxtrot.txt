@@ -2791,7 +2791,7 @@ forker
 feston
 flatly
 fluorimeter
-forgift
+forgift 1
 fistulized
 forbearer
 ftncmd
