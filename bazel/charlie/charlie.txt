@@ -2183,7 +2183,7 @@ cotan
 campi 1
 campy
 campier
-campiest
+campiest 1
 campignian
 campylite
 campylometer
