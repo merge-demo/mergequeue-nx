@@ -1417,7 +1417,7 @@ alg
 aaru
 atka
 anticatalytic
-accessorize
+accessorize 1
 accessors
 acciaccaturas 1
 afterdeath
