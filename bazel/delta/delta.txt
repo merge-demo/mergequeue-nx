@@ -1640,7 +1640,7 @@ deodate
 datolitic
 domify 1
 devertebrated
-daydrudge
+daydrudge 1
 dealkylate
 daundered
 disassembler
