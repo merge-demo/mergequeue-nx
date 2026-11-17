@@ -3334,7 +3334,7 @@ gutterlike
 gang
 grooverhead
 glossologies 1
-gerundial
+gerundial 1
 growers
 gentlewomanlike
 germier
