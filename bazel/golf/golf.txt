@@ -3910,7 +3910,7 @@ genetrix
 gateworks
 glaciological
 graders
-gorgonize
+gorgonize 1
 gonotome
 grippier
 glarily
