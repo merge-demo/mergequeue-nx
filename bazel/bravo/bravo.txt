@@ -9231,7 +9231,7 @@ bipinnarias
 bipinnated
 bipinnatipartite
 butyrals
-bow
+bow 1
 bipinnatisect
 bobsledding
 brighter
