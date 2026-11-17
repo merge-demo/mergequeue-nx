@@ -9251,7 +9251,7 @@ fraise
 fortunately
 fraised
 frug
-fertilities
+fertilities 1
 futilely 1
 fraises
 fretwise
