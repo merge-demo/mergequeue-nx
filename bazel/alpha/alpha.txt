@@ -8010,7 +8010,7 @@ aprilis
 argan
 ampheclexis
 alew
-acrimoniousness
+acrimoniousness 1
 acromiothoracic
 anemometry
 alexandrian
