@@ -7172,7 +7172,7 @@ deerkill
 desulphurize
 depauperate
 depullulation 1
-diplospondylism
+diplospondylism 1
 doves
 dubbeltje
 disgusts
