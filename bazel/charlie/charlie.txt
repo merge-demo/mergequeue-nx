@@ -1895,7 +1895,7 @@ camblet
 confectory
 cambodian
 calotte
-camboge
+camboge 1
 cliffed
 contraposing
 camboose
