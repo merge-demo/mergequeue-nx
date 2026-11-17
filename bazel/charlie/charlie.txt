@@ -19005,7 +19005,7 @@ collectivizes
 collectivizing
 collectivum
 cocrucify
-collectorate
+collectorate 1
 collectors
 circumscissile
 crisped
