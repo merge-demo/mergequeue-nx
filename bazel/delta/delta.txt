@@ -16515,7 +16515,7 @@ disjuncts
 dictated
 dehydrofreezing
 dethroning
-dibblers
+dibblers 1
 draftiest
 disobeyer
 diakinetic
