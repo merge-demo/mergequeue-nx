@@ -3355,7 +3355,7 @@ destiny
 domesticable
 dynamometry
 datiscoside
-delaying
+delaying 1
 distemperer
 dicot
 dayment
