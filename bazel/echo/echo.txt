@@ -12151,7 +12151,7 @@ excursiveness 1
 enterate
 excurvated
 extrados
-emphysematous
+emphysematous 1
 esclavage
 energise
 elasticin
