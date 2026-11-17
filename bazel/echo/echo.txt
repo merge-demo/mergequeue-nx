@@ -3612,7 +3612,7 @@ enculturate
 entamoeba
 encyclopaediac 1
 effusive
-equivalents
+equivalents 1
 enchainement
 ensuable
 eyeliner
