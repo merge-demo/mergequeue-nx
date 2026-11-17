@@ -9423,7 +9423,7 @@ excuseful
 elutriated 1
 exostosed 1
 epipodium 1
-escarps
+escarps 1
 escharotic
 enfeoff 1
 eschatological
