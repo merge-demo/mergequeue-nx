@@ -4006,7 +4006,7 @@ gorgedly
 gastrology
 gnomological
 guatuso
-gearksutite
+gearksutite 1
 gonepoietic
 galliasses
 gamari 1
