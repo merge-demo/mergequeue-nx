@@ -2028,7 +2028,7 @@ goitrogenicity
 groof 1
 gainsayers
 glacon
-gonna
+gonna 1
 giggly
 gel
 gelatiniform
