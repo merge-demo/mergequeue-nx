@@ -24534,7 +24534,7 @@ abbreviatable
 auxiliaries 1
 abigailship
 acinuni
-androcracy
+androcracy 1
 auxiliate
 azilian
 abiosis
