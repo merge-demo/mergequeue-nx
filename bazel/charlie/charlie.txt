@@ -7936,7 +7936,7 @@ cetiosaurian
 cetology
 contumacities
 corixidae
-cetologist
+cetologist 1
 cetomorpha
 cumular
 clarissimo
