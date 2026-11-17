@@ -7833,7 +7833,7 @@ eccentrate
 enterography
 epiglottitis
 exsiccator 1
-elegiambic
+elegiambic 1
 epicarps
 empyocele
 exoerythrocytic
