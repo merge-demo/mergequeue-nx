@@ -19324,7 +19324,7 @@ cranny
 childlessness
 colophenic
 conniving
-catechise
+catechise 1
 colophony
 corinthians
 cropland
