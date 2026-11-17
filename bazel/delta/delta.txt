@@ -8979,7 +8979,7 @@ diplogangliate
 dispeller
 dahoon
 discophora
-deficience
+deficience 1
 disconanthous
 duodenotomy
 depopulators
