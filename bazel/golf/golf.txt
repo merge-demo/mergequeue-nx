@@ -2549,7 +2549,7 @@ geothermal
 gilliver
 glusid
 gapeseeds
-gweduc
+gweduc 1
 generalistic
 gaudier
 glen
