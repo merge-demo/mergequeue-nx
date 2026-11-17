@@ -56,7 +56,7 @@ dunder
 dacryocystosyringotomy
 derham
 dacryolithiasis
-danielic
+danielic 1
 dioptograph
 dichotomise
 dacryorrhea
