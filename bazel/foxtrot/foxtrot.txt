@@ -8775,7 +8775,7 @@ fraud
 fated
 frugality
 floroon
-fashionative 1
+fashionative 2
 fumbler
 forhooie
 face
