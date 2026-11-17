@@ -9152,7 +9152,7 @@ erminee
 evanid
 enleague
 ermines
-epiloguize
+epiloguize 1
 ectoenzyme
 ectocinerea
 encolor
