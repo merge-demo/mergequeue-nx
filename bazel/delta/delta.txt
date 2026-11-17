@@ -15780,7 +15780,7 @@ diphthongalize
 dorpers
 dorr
 doomage
-deflorations
+deflorations 1
 dorsa
 dentiparous
 demountability
