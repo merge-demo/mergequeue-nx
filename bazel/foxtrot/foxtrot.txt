@@ -1437,7 +1437,7 @@ fother
 frimitts
 faithless
 freewheel
-fatuism 1
+fatuism 2
 filasse
 firmness
 futhork
