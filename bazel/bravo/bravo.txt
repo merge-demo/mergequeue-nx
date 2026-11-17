@@ -16511,7 +16511,7 @@ bentang
 bluntie
 branchlike
 brutalism 1
-brutalist
+brutalist 1
 brutalitarianism
 badgerweed
 backside
