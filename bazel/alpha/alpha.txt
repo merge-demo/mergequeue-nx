@@ -10181,7 +10181,7 @@ additiment
 aluminas 1
 affluent
 apanage
-ambulatories
+ambulatories 1
 ambulatorium
 ahepatokla
 avo
