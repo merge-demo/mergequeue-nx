@@ -7645,7 +7645,7 @@ forefinger
 figary
 fixed 1
 fritillaries
-floruits
+floruits 1
 faeculence
 foreimagination
 flashlike
