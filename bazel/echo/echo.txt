@@ -7209,7 +7209,7 @@ epistasis
 euphonym 1
 enchesoun
 ensample 1
-enzootically
+enzootically 1
 evenlight
 exposed
 endodontium
