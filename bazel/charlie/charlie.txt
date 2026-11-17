@@ -6867,7 +6867,7 @@ cellulosity
 correllated
 cellulosities
 caphtor
-classicized
+classicized 1
 cypreses
 celom
 cytherean
