@@ -5438,7 +5438,7 @@ eightsman
 example
 elsewhither
 electronvolt 1
-endowment
+endowment 1
 ectene
 excantation
 earthtongue
