@@ -440,7 +440,7 @@ donjons
 dibs
 drenchers
 dimyaric
-diathermous
+diathermous 1
 dimercaprol
 daises
 defiance
