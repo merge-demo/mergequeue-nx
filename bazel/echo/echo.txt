@@ -10171,7 +10171,7 @@ endocarpoid
 elenctical 1
 elodeaceae
 emerant
-exegetic
+exegetic 1
 eponymies
 eunuchoid
 empestic
