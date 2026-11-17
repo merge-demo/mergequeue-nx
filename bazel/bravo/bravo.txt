@@ -12211,7 +12211,7 @@ bicarbide 1
 buckhound
 balustered
 backslidingness
-banque
+banque 1
 beld
 bolognas
 bolognese
