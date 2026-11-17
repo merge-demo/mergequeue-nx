@@ -15688,7 +15688,7 @@ atrazine 1
 achromatism
 armoury
 antiskepticism
-antipacifistic
+antipacifistic 1
 aplobasalt
 angriest
 antipacifists
