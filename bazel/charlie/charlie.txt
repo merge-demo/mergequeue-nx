@@ -23325,7 +23325,7 @@ cynosarges
 consumpted
 corrasive
 consumptional
-consumptions
+consumptions 1
 consumptive
 consumptively
 coordinates
