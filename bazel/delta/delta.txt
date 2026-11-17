@@ -2072,7 +2072,7 @@ diopsimeter
 diety
 dummy
 defaced
-devolution
+devolution 1
 disproportionally
 decal
 dodecylic
