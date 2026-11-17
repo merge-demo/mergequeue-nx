@@ -2880,7 +2880,7 @@ fetterlock
 flatfish
 forewing
 foxship
-frisettes 1
+frisettes 2
 fantasize
 fogies
 formicarium
