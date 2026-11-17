@@ -18386,7 +18386,7 @@ catholicized
 calpulli
 corporal
 coenosarcal
-concomitate
+concomitate 1
 cognisant
 cognises
 coarct 1
