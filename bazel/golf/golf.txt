@@ -3198,7 +3198,7 @@ geotropy
 guardant
 glossolabiolaryngeal 1
 gametoid
-gambian
+gambian 1
 ganglial
 gooier
 guerdoning
