@@ -1968,7 +1968,7 @@ gaultherin
 gaunch
 gangers
 gruelly
-gaunty
+gaunty 1
 gypsite
 genealogically
 greywacke
