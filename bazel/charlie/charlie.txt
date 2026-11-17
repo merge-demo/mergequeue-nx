@@ -12938,7 +12938,7 @@ cia
 crystallised
 cyan
 cyanamid
-conspires
+conspires 1
 coextension
 chipling
 coaxially
