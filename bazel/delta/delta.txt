@@ -4772,7 +4772,7 @@ deaved
 diadochokinetic
 dromophobia 1
 dejected
-diabolatry
+diabolatry 1
 disgracing
 disbudding
 darwin
