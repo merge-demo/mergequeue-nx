@@ -9843,7 +9843,7 @@ chemiotropic
 chemiotropism
 crinet
 chemisette
-chemism
+chemism 1
 choosy
 chemisorb
 coprophilic
