@@ -8963,7 +8963,7 @@ accesses
 angelocracy
 auxiliatory
 allophanamid
-allophanate
+allophanate 1
 allophanates
 allophanic
 acredula

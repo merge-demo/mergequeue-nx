@@ -8975,7 +8975,7 @@ erythrocytes
 exhilarant
 explorative 1
 emboldening
-enjoinment
+enjoinment 1
 electrophonic
 ecclesiasticism
 epizootiological
