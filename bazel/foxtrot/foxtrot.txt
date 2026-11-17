@@ -566,7 +566,7 @@ fallen
 ferny
 falling 1
 flichtering
-faradized
+faradized 1
 famine
 fussed
 folklorism
