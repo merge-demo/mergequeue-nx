@@ -1000,7 +1000,7 @@ dit
 darings
 dithematic
 darius
-dinornithine
+dinornithine 1
 doubleprecision
 dark
 dinkeys
