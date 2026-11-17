@@ -11016,7 +11016,7 @@ forcipate
 falafel
 fumets 1
 fumiest
-fluoroscope
+fluoroscope 1
 frivolist
 fossilizes
 fillets 1
