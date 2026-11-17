@@ -9881,7 +9881,7 @@ enstatite
 equivalency
 encodes
 epidemical
-enodally
+enodally 1
 encave
 electrotelethermometer
 editorial
