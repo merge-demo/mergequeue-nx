@@ -4703,7 +4703,7 @@ guaranteeship
 glutin 1
 germicidal
 girts
-gazelline
+gazelline 1
 gettered
 gynomonecious
 gise
