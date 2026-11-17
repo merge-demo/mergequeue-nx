@@ -20148,7 +20148,7 @@ chandelles
 commissioning
 croaks
 commissive
-commissively
+commissively 1
 cinchona
 commissoria
 clypeastroidea
