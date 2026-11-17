@@ -14512,7 +14512,7 @@ demurest
 diformin
 damaging
 dyeing
-detruncated
+detruncated 1
 disintegratory
 divinability
 defiles
