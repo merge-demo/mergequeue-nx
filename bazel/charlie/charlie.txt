@@ -19673,7 +19673,7 @@ chemisorption
 clefts
 comatiks
 comatosely
-countercharged
+countercharged 1
 comatoseness
 comatosity
 comatula
