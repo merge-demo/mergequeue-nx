@@ -2825,7 +2825,7 @@ cuprammonium
 canoing
 cuerpo
 canon
-churlish
+churlish 1
 canones
 cardooer
 canonesses
