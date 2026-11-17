@@ -308,7 +308,7 @@ cosmolined
 countenances
 construers
 customable 1
-cornflakes
+cornflakes 1
 caciquism
 cacked
 collidine
