@@ -5358,7 +5358,7 @@ crankled
 creditabilities 1
 criminol
 casteisms
-concessive
+concessive 1
 casteless
 chifforobes
 chimerical
