@@ -16474,7 +16474,7 @@ amphiboliferous
 argyrosomus
 abietinic
 almacantar
-anusvara
+anusvara 1
 apulmonic
 almightily
 autolysin
