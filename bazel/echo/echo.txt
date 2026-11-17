@@ -7283,7 +7283,7 @@ echeneidid
 effigial
 eosinic
 ergatogynous
-eclats
+eclats 1
 endothorax
 eosinoblast
 ennage
