@@ -1589,7 +1589,7 @@ callorhynchidae
 callosal
 chronographs
 callose
-crafts
+crafts 1
 calloses
 callosities
 conductimetric
