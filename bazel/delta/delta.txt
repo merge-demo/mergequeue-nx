@@ -12897,7 +12897,7 @@ divisionism 1
 drawls
 dryope
 disnaturalization
-deviator
+deviator 1
 dermaptera
 disnew
 drachmae
