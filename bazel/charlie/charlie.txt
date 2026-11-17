@@ -13104,7 +13104,7 @@ cyc
 cicad
 cycadaceae
 canopied
-crimpiest
+crimpiest 1
 convulsional
 cicadas
 cliffiest
