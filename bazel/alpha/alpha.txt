@@ -2107,7 +2107,7 @@ anything
 alabastrums
 accedence
 agglutinations
-allopatry
+allopatry 1
 antadiform
 achilleine
 antimonarchic
