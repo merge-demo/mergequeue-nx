@@ -5273,7 +5273,7 @@ beeriest
 beggaring
 bicrescentic
 bringsel
-beggarlike
+beggarlike 1
 boshas
 bullom
 brimless
