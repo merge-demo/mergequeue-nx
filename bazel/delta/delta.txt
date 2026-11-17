@@ -12938,7 +12938,7 @@ doubtmonger
 dermostosis
 degreeing
 docilities
-dognaping
+dognaping 1
 discolor
 disaffectedness
 differed
