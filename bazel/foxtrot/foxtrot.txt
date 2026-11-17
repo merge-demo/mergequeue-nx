@@ -3201,7 +3201,7 @@ ficaries
 flouse 1
 fices
 fuchsinophilous
-fesels
+fesels 1
 freeholds
 fairyland
 frosh
