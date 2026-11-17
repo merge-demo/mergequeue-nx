@@ -7558,7 +7558,7 @@ cercus 1
 cerdonian
 cereal
 centrifugalizing
-carrus
+carrus 1
 collative
 changeability
 cervices
