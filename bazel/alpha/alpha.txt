@@ -4591,7 +4591,7 @@ adviser
 autonomize
 apparatchiki
 androcentric 1
-affinitatively
+affinitatively 1
 angolar
 acetylic
 amphibious
