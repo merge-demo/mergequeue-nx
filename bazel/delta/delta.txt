@@ -15730,7 +15730,7 @@ deflectometer
 dakota
 dendrochronologist
 diphosphid
-denunciation
+denunciation 1
 dismarch
 deescalation
 disintegrates
