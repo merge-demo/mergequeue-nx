@@ -7776,7 +7776,7 @@ fondouk
 financial 1
 forejudging
 florentines
-funfairs
+funfairs 1
 feudalized
 fettucine
 foremother
