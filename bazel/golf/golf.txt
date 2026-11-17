@@ -3801,7 +3801,7 @@ gnostical
 galliass
 grungier
 gastrosuccorrhea
-gibbosely
+gibbosely 1
 goosepimply
 gibbous
 gentilesse
