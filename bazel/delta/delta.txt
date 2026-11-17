@@ -6968,7 +6968,7 @@ despisable 1
 draggles
 dorcas
 dispatcher
-despisableness
+despisableness 1
 downfalls
 despiser
 decemvii
