@@ -776,7 +776,7 @@ dayflies
 decasyllabic
 duvetyne
 destains
-disastrously
+disastrously 1
 dandled 1
 dopaoxidase
 dandler
