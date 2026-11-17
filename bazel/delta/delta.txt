@@ -11553,7 +11553,7 @@ dcolletage 1
 denationalised 1
 downland
 desorbs
-discompanied
+discompanied 1
 disavowing
 deepmouthed 1
 dimethyls
