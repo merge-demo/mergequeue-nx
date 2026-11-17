@@ -17803,7 +17803,7 @@ cellularly
 codefendant
 codeina
 carby
-cognisableness
+cognisableness 1
 cakemaking
 codeinas
 cohabits
