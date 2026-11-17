@@ -3080,7 +3080,7 @@ forches
 flowerfly 1
 fatstock
 finances
-forfeitableness
+forfeitableness 1
 festology
 familiarizes
 fooler
