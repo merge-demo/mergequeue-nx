@@ -11559,7 +11559,7 @@ embrittled 1
 errantness
 ennoy
 evocator
-evoe
+evoe 1
 ensilaging
 exoculating
 erethizon 1
