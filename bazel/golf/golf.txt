@@ -3200,7 +3200,7 @@ glossolabiolaryngeal 1
 gametoid
 gambian
 ganglial
-gooier
+gooier 1
 guerdoning
 gephyrea
 gwendolen
