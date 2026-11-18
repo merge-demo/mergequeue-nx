@@ -7895,7 +7895,7 @@ chromophotolithograph
 cataphoretic
 cest
 cesta
-catafalque
+catafalque 1
 cestidae
 cestodes
 copatron
