@@ -2319,7 +2319,7 @@ chylocyst
 cipher
 canalete
 canali
-canalicular
+canalicular 1
 convenance
 curatial
 canaliculate
