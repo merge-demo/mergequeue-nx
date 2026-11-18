@@ -6873,7 +6873,7 @@ celom
 cytherean
 chilliness
 celomata 1
-consultee
+consultee 1
 celotomies
 clonks
 cloze
