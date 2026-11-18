@@ -3326,7 +3326,7 @@ disputably
 defines
 dispensatively 1
 deionizes
-donated
+donated 1
 definiens
 derencephalocele
 dolabre
