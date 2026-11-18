@@ -10314,7 +10314,7 @@ gleaner
 guichet
 gnathions
 gujarati
-gametic 1
+gametic 2
 girondin 1
 gamodesmic
 gymnostomous 1
