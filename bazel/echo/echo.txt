@@ -5901,7 +5901,7 @@ epigeum
 ewest
 extrazodiacal
 epigramme
-exacerbescence
+exacerbescence 1
 epidendral
 exsiccate
 engrossedly
