@@ -7323,7 +7323,7 @@ foram 1
 franchisers 1
 fronds
 fearnaught 1
-frampold
+frampold 1
 fulcrum
 feathered
 focimeter
