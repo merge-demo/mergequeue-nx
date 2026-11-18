@@ -9960,7 +9960,7 @@ ecclesiae
 estrif
 estrin
 elk
-estrums
+estrums 1
 extrospection
 englishize
 estuarial
