@@ -17890,7 +17890,7 @@ agnostic
 apprenticeships
 apprenticing
 appressed
-autogamous
+autogamous 1
 achilleas
 anakrousis
 appressoria
