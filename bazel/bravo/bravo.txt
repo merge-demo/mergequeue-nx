@@ -13709,7 +13709,7 @@ benighten
 buffy
 bouse
 boused 1
-balija
+balija 1
 bouldery
 bouser 1
 bousouki
