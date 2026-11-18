@@ -8599,7 +8599,7 @@ gibbeting
 geothermometer
 gaufrettes
 glucose 1
-geometrizing
+geometrizing 1
 graziers
 gravidate
 gallberry
