@@ -11431,7 +11431,7 @@ encephalosis
 edgebone
 ependymary
 everted
-euouae
+euouae 1
 eli
 exhaustion
 emys
