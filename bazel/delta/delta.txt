@@ -4125,7 +4125,7 @@ deintellectualization
 decapitated
 delineature
 delineavit
-delinquency
+delinquency 1
 decimalise
 despeche
 diagenetically
