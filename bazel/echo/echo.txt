@@ -8251,7 +8251,7 @@ enjoyingly
 engirded 1
 epistena
 electrodiplomatic
-episternal
+episternal 1
 entoloma
 emaceration
 ecclesiologic
