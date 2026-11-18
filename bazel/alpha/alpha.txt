@@ -21437,7 +21437,7 @@ aspens
 asper
 amnesties
 asperate
-artefact
+artefact 1
 azarole
 antitegula
 authorish
