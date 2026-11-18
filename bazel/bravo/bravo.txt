@@ -6645,7 +6645,7 @@ beribanded
 birdy
 bargeboard
 barbarious
-beriberis
+beriberis 1
 bevesseled
 beerier 1
 berycid
