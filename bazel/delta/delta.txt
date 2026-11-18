@@ -6944,7 +6944,7 @@ dispute
 domineer 1
 despecialize
 despecificate
-despecification
+despecification 1
 desperado
 darky
 dioptre
