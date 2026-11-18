@@ -21318,7 +21318,7 @@ animalhood
 argentide
 artless
 androdioecious
-asymmetranthous
+asymmetranthous 1
 antiexporting
 antevenient
 arbitrary
