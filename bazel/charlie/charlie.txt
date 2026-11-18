@@ -9549,7 +9549,7 @@ checkrowed
 checkrower
 checkrowing
 consummatively
-checkrows
+checkrows 1
 computational
 chapatty
 checkstring
