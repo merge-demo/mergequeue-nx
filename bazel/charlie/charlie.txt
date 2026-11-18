@@ -2466,7 +2466,7 @@ cancrisocial
 cancroid
 clientele
 contuse
-crystallitic
+crystallitic 1
 cancrum
 cancrums
 cand
