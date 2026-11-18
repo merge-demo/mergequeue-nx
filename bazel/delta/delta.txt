@@ -1781,7 +1781,7 @@ drydenism
 disregardfully
 dorsolum
 dissevers
-divalence
+divalence 1
 dissociated
 dalradian
 debamboozle
