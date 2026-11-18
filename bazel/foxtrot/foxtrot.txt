@@ -11260,7 +11260,7 @@ fenks 1
 felly
 finbacks
 forrit
-funster
+funster 1
 furans
 furacious
 file
