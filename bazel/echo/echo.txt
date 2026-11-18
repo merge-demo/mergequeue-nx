@@ -12088,7 +12088,7 @@ excreta
 escheator
 endued
 engulfs 1
-edentates
+edentates 1
 expressor
 easels
 emblazonry
