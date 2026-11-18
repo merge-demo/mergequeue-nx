@@ -18262,7 +18262,7 @@ dumbfounder
 deanery
 diagrammeter
 dinaric
-dogged
+dogged 1
 duplicidentata
 desmopyknosis
 determinably
