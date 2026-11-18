@@ -10720,7 +10720,7 @@ anthropoid
 aushar
 araru
 abrazo
-amins
+amins 1
 anacrusis
 aminta
 amyotonia
