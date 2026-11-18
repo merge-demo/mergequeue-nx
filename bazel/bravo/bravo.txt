@@ -786,7 +786,7 @@ baphometic
 baeria
 backcomb
 begod
-browniness
+browniness 1
 bldr
 blautok
 baetulus
