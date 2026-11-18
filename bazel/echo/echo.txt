@@ -12761,7 +12761,7 @@ euhemeristically 1
 eucarpous
 eremochaetous
 emperess
-entertissue
+entertissue 1
 exorcism
 elacolite
 exorcistic
