@@ -11284,7 +11284,7 @@ femmes
 fogy 1
 fiscalize
 flurrying
-footwear
+footwear 1
 farcing 1
 fourfold
 folletti
