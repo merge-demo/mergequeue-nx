@@ -534,7 +534,7 @@ ablates
 astroite
 adenomatous
 ablations
-agnizes
+agnizes 1
 assarion
 ablatitious
 acephala
