@@ -9820,7 +9820,7 @@ brands
 begums
 bites
 birefringent
-bebat
+bebat 1
 bytes
 bitewing
 beryx
