@@ -5052,7 +5052,7 @@ alexinic
 aerosolized
 aerostatic
 aerostatical
-argas
+argas 1
 appertain
 advancements
 androgyneity
