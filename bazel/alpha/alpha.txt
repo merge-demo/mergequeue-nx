@@ -9786,7 +9786,7 @@ amalgamative
 amalgamatize
 amicabilities
 amperage
-amalgamization
+amalgamization 1
 anaphase
 amalic
 argosine
