@@ -6094,7 +6094,7 @@ availment
 apogeny
 agitatorial
 aromaticness 1
-astrosphere
+astrosphere 1
 albuminoidal
 antifeudalism
 agitators
