@@ -10580,7 +10580,7 @@ exhibitory
 epiclidal 1
 esprits
 elpidite
-euphroes
+euphroes 1
 enteria
 escallops
 eocarboniferous
