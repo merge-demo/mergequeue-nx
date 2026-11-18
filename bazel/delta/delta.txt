@@ -13648,7 +13648,7 @@ dolce
 def
 dissimilars
 dorize
-dequantitate
+dequantitate 1
 diedral
 dissimilate
 depletion
