@@ -7330,7 +7330,7 @@ focimeter
 federally
 fiddleheaded
 forechamber
-foraminiferal
+foraminiferal 1
 fogs
 fidgetingly
 foible
