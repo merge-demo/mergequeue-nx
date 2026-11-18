@@ -24375,7 +24375,7 @@ coprincipal
 cooliman
 cooling
 concaver
-coolingly
+coolingly 1
 coolingness 1
 chrysopoetics
 candour
