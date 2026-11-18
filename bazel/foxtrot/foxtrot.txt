@@ -3564,7 +3564,7 @@ flexibility 1
 formularise
 filarian
 fattily
-fluoryl
+fluoryl 1
 filaricidal
 filariids
 forechoice
