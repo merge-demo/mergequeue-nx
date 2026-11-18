@@ -3624,7 +3624,7 @@ curtaxe
 caracol
 coauthoring
 caracoling
-curliest
+curliest 1
 crustate
 caracolite 1
 caracolled
