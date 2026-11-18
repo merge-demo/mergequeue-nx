@@ -1641,7 +1641,7 @@ datolitic
 domify 1
 devertebrated
 daydrudge 1
-dealkylate
+dealkylate 1
 daundered
 disassembler
 deallocate
