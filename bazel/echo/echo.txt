@@ -11240,7 +11240,7 @@ endocrinologic
 entrenchment
 epithetize
 englyns
-eely
+eely 1
 exceptionably 1
 effulgently
 excisemanship
