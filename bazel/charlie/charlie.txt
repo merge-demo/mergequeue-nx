@@ -25739,7 +25739,7 @@ corrigenda
 compossibility
 corrigible
 chainbearer
-curassows
+curassows 1
 corrigibleness
 citrines
 chatta
