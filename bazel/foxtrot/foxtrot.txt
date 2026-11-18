@@ -9156,7 +9156,7 @@ fungosity 1
 freights
 fondue
 formidolous
-fossorial
+fossorial 1
 fractionization 1
 fractions
 forncast
