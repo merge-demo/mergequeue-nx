@@ -3014,7 +3014,7 @@ dromaeognathism
 ditchside 1
 dolittle
 deemie
-decrepitate
+decrepitate 1
 dorian
 denicotine
 deoxidizing
