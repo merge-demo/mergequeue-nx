@@ -10784,7 +10784,7 @@ erumpent
 enemying
 eumenides
 emblema
-encrinus
+encrinus 1
 electrogilding
 exflagellate
 endosporic
