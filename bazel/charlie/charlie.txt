@@ -19936,7 +19936,7 @@ commandingly
 commandingness
 commandite
 commandless
-cruentate
+cruentate 1
 cyp
 coruler
 crepidoma
