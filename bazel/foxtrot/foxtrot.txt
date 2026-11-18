@@ -1604,7 +1604,7 @@ functionating
 fallalery 1
 faniente
 favouring
-footroom
+footroom 1
 floriage
 frijol
 fervescence
