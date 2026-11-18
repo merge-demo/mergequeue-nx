@@ -19283,7 +19283,7 @@ colonialize
 chortles
 colonializing
 crystic
-colonially
+colonially 1
 cowinners
 colonialness
 carshop 1
