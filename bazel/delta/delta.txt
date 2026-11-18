@@ -11805,7 +11805,7 @@ discriminating
 dacryuria
 drawbridges
 dimitted
-discriminatively
+discriminatively 1
 despatch
 discriminativeness
 discriminator
