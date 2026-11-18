@@ -14094,7 +14094,7 @@ amentia
 antejudiciary
 antelocation
 aulostomidae
-apriorist
+apriorist 1
 archdeaconship
 approving
 acenaphthene
