@@ -85,7 +85,7 @@ forme
 filching
 faces
 folkright 1
-flattening
+flattening 1
 flowerfence
 foliobranch
 fiendish
