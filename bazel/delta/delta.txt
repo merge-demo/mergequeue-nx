@@ -11500,7 +11500,7 @@ disuniform
 denominator
 daps
 demerse
-dissectional
+dissectional 1
 disconformity
 demiparallel
 deepened
