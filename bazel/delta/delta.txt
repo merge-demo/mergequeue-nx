@@ -9224,7 +9224,7 @@ dramshops
 derat 1
 dyeings
 discontented
-dieldrin
+dieldrin 1
 derelict
 decahedrodra
 dieldrins
