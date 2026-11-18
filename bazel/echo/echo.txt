@@ -10164,7 +10164,7 @@ emeraldine 1
 etherially
 extravagances
 eyedropper
-exertion
+exertion 1
 expressness
 electrothermally
 endocarpoid

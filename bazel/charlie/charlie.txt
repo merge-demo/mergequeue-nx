@@ -1463,7 +1463,7 @@ ceriornis
 carnosin
 calisayas
 clave 1
-chicks
+chicks 1
 calistheneum
 commercializes
 calisthenics
