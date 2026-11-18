@@ -16959,7 +16959,7 @@ abortus
 aplanogamete
 areally 1
 antifermentative
-aplenty
+aplenty 1
 alveolars
 affreight
 aplite
