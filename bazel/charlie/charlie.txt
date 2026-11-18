@@ -21327,7 +21327,7 @@ conchoids
 communicableness
 conchol
 conchometer
-conchospiral 1
+conchospiral 2
 cowboys
 conchostraca
 corotated
