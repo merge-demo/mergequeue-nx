@@ -19285,7 +19285,7 @@ arenilitic
 arenites
 anthraquinonyl
 alberca
-aristas
+aristas 1
 absentmindedly
 arenoid 1
 alation
