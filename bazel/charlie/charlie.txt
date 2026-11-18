@@ -27231,7 +27231,7 @@ cervicaprine
 chlorhydrate
 catbird
 coetus
-counterweigh
+counterweigh 1
 counterweight
 counterweighted
 counterweights
