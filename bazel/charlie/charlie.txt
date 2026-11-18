@@ -983,7 +983,7 @@ catenoids
 calaminary
 compensational 1
 calaminaris
-callipygian
+callipygian 1
 calamine
 cervidae
 calamines
