@@ -29164,7 +29164,7 @@ cryoconite
 cryogeny
 callidity
 cradleside
-cryogenics
+cryogenics 1
 cloys
 catwalks 1
 cluniacensian
