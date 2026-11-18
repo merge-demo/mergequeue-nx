@@ -10904,7 +10904,7 @@ deployed
 disable
 deputationize
 delusions
-denazify 1
+denazify 2
 disabled
 doorplates
 defrayer
