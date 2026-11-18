@@ -12349,7 +12349,7 @@ andevo
 asphyxiant
 assisi
 andian 1
-automatable
+automatable 1
 andine
 angakut
 anding
