@@ -10568,7 +10568,7 @@ florins
 founds 1
 fertilizations
 fatidical 1
-falcade
+falcade 1
 fructificative
 fussock
 formagen
