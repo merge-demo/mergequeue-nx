@@ -5343,7 +5343,7 @@ generalised
 glaucus
 grammatology 1
 gloatingly
-garaging
+garaging 1
 guanidine
 glegly
 galactosemia
