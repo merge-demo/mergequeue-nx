@@ -5714,7 +5714,7 @@ flavins 1
 flirt 2
 fixatif
 footed
-flirtatiously
+flirtatiously 1
 flosculariidae
 flirtatiousness
 fundament
