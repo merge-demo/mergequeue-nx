@@ -2591,7 +2591,7 @@ archbishop
 aspiratory
 altaid
 adffrozen
-adjacent
+adjacent 1
 acquest
 armenite
 actutate
