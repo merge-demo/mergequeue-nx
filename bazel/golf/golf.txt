@@ -4410,7 +4410,7 @@ gumdigger 1
 ghoulishness
 gurdwara
 ganggang
-galantine 1
+galantine 2
 grevillea
 goozle
 grammatist
