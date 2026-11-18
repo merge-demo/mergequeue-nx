@@ -18618,7 +18618,7 @@ archaeolater
 audits
 alabamian
 authoritativeness
-amplified
+amplified 1
 amberlike
 archaeolith
 archaeologer
