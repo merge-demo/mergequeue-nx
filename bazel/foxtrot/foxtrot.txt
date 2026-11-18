@@ -1222,7 +1222,7 @@ frustrately
 firmitude
 frigidity
 fenders
-flexural 1
+flexural 2
 flinched
 fatuities
 feodatory
