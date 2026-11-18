@@ -11128,7 +11128,7 @@ anglomania
 assures
 ampersands
 amphanthia
-amphanthium
+amphanthium 1
 ampherotokous
 arms
 adjutancies
