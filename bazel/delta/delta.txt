@@ -12614,7 +12614,7 @@ driftfish
 deadhearted
 deodorise
 definitise
-dephase
+dephase 1
 dae
 disinvagination
 deepfroze
