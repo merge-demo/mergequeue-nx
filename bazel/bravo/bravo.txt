@@ -1992,7 +1992,7 @@ baniya
 baning
 bandcutter
 bhaiachara
-banisher 1
+banisher 2
 banishing
 banishment
 banyuls
