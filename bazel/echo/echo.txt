@@ -4541,7 +4541,7 @@ emancipate
 enactive
 emerita
 ephorate
-encephalopathia
+encephalopathia 1
 encephalophyma
 ethynylation
 entoptoscope
