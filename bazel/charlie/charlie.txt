@@ -10969,7 +10969,7 @@ churchgo 1
 commenceable
 chiropody 1
 cheekish
-comitatus 1
+comitatus 2
 chiropodial
 chiropodic
 chiropodical
