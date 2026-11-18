@@ -24630,7 +24630,7 @@ copywriters
 causticizing
 chordotonal
 copywriting
-clamshell
+clamshell 1
 calliperer
 coplanarities
 cavern
