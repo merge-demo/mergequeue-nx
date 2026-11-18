@@ -24631,7 +24631,7 @@ ascebc
 actinophore
 amyraldism
 avellane
-alloxuric
+alloxuric 1
 alcyonacea
 aveloz
 autoheterodyne
