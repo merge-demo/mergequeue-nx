@@ -10928,7 +10928,7 @@ bourrees
 blinkard 1
 blesbuck
 bedlamism
-blinkards
+blinkards 1
 bowses
 basta
 beaneries
