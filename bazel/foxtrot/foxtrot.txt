@@ -10064,7 +10064,7 @@ forwardness
 fiercly
 footnotes
 fetalism
-flammability
+flammability 1
 fellowed
 friskin
 friskiness
