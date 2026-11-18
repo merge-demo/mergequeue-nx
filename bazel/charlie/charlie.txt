@@ -11872,7 +11872,7 @@ crispiness 1
 chordaceae
 chordacentrous
 colonialising
-contend
+contend 1
 chordal
 cosharer
 congenitalness
