@@ -10816,7 +10816,7 @@ chinookan
 caninus
 cutgrasses
 clavicylinder
-counterwave
+counterwave 1
 chinooks
 centerpieces
 chinotoxine
