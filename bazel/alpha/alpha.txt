@@ -6564,7 +6564,7 @@ aidenn
 appleringy
 aider
 antiaggressive
-auksinu
+auksinu 1
 awk
 abjunctive
 aidful
