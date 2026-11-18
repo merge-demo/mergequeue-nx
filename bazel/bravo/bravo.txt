@@ -4242,7 +4242,7 @@ begat
 beardless
 beautified
 bathomania
-beautifier 1
+beautifier 2
 bishopbird
 banff
 beautiful
