@@ -19576,7 +19576,7 @@ columel
 coachmanship
 ciliata
 chromaticism
-coextensiveness
+coextensiveness 1
 capanne
 coregence
 counteraffirmation
