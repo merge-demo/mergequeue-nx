@@ -13062,7 +13062,7 @@ bored
 borsches 1
 boehmenist
 boreen
-burdash
+burdash 1
 boreiad
 bannister
 bugseeds
