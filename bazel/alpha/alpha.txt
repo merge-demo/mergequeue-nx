@@ -14015,7 +14015,7 @@ antebaptismal
 andesyte
 albigenses
 acculturational 1
-adjustation
+adjustation 1
 affronting
 arrhythmia
 aloha
