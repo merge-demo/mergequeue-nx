@@ -6044,7 +6044,7 @@ fictionise 1
 fluoresce
 fleam
 finking
-fractal
+fractal 1
 fluviology
 fibromas
 faeroese
