@@ -14403,7 +14403,7 @@ crosswalk
 caryatidean
 charquis
 cannot
-cyriologic
+cyriologic 1
 concord
 caddoan
 connotively
