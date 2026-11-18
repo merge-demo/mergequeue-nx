@@ -14805,7 +14805,7 @@ antichamber
 allogenically
 anadipsic
 antiscii
-abbreviations
+abbreviations 1
 arricciatos
 ascribes
 antichance
