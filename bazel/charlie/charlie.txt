@@ -5123,7 +5123,7 @@ cased
 cisatlantic
 convulsionism
 casefy
-corneter
+corneter 1
 counterenamel
 compeller
 chondrectomy
