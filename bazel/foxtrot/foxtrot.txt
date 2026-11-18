@@ -3246,7 +3246,7 @@ forewarnings
 flinthearted 1
 flameholder
 fictioner
-furbisher
+furbisher 1
 forestay
 forestish
 fictionized
