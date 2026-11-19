@@ -8652,7 +8652,7 @@ furthering
 frigidness
 frictionproof 1
 faintest
-footing
+footing 1
 forspoke
 fellatory
 flaunt
