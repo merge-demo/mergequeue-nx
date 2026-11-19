@@ -8499,7 +8499,7 @@ champignons
 caveat
 carle
 contrabassoonist
-champine
+champine 1
 champing
 cryohydric
 carberry
