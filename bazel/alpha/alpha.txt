@@ -9287,7 +9287,7 @@ along
 ambeer
 ataxiameter
 alongships
-alongshore
+alongshore 1
 archbishops
 alemana
 alongshoreman
