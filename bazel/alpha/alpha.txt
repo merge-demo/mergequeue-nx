@@ -4524,7 +4524,7 @@ aggerose
 adverbiation
 atticism 1
 anthoxanthin
-adversatively
+adversatively 1
 ambushed
 amylin
 asserve
