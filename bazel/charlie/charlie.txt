@@ -2916,7 +2916,7 @@ cantara
 cantare
 counterseal
 concaulescence
-chrysoidine
+chrysoidine 1
 cantatas
 cantation
 cantatrice
