@@ -6740,7 +6740,7 @@ celebrations
 celebrative
 celebre
 celebrious
-celebrity
+celebrity 1
 counterinterpretation
 cornbin
 ciscos
