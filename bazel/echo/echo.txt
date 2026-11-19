@@ -4340,7 +4340,7 @@ exclaustration
 enamelist
 enamelless
 eluder
-emit
+emit 1
 edibles
 enami
 estranging
