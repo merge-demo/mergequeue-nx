@@ -4482,7 +4482,7 @@ carloading
 chinner
 combatants
 carlock
-cogways
+cogways 1
 circumference
 carlot
 carls
