@@ -10384,7 +10384,7 @@ alacriously
 almuds
 adlumia
 anise
-arco
+arco 1
 adenochondrosarcoma
 americans
 americanum
