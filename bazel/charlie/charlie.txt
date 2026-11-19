@@ -4286,7 +4286,7 @@ caretta
 careworn
 concorporation 1
 carex 1
-cottages
+cottages 1
 carfare
 carfares
 carfloat
