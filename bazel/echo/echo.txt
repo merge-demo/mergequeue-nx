@@ -12462,7 +12462,7 @@ electrolysing
 exhuming
 epifaunal
 enthronization
-elegiac
+elegiac 1
 enclosure
 exchequer
 entreaty
