@@ -5112,7 +5112,7 @@ glareproof
 griskin
 grainsmen 1
 grenadine
-goldeneye
+goldeneye 1
 greesagh 1
 gte
 glathsheimr
