@@ -13147,7 +13147,7 @@ cacan
 crackability
 cicatrising
 cystoflagellata
-cicatrisive
+cicatrisive 1
 cicatrizate
 caudicle
 canalize 1
