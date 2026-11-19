@@ -3725,7 +3725,7 @@ dehydrochlorinate
 doketism
 daytale
 drabble
-drepanoid
+drepanoid 1
 didact
 dehydrogenate
 dawtet
