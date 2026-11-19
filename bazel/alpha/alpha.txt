@@ -12894,7 +12894,7 @@ ameer
 anglify
 alkalometry
 anglings
-amphithurthura
+amphithurthura 1
 antirumor
 apperceiving
 ambulate
