@@ -4005,7 +4005,7 @@ carcinogenesis
 carcinogenic
 carcinoid
 compartmental
-crystalloluminescence
+crystalloluminescence 1
 carcinolysin
 cycadiform
 carcinological
