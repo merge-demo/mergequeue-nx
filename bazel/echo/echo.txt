@@ -527,7 +527,7 @@ entosphenal
 echeneidae
 echevaria
 endobiotic
-endonucleolus 1
+endonucleolus 2
 evocate
 electrophorus
 elaborated
