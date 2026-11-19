@@ -613,7 +613,7 @@ eurypharynx
 euro
 eciton
 eversions 1
-entertained
+entertained 1
 eclaircissement
 epeus
 ey
