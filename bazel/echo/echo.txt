@@ -796,7 +796,7 @@ exodus
 epeira 1
 eurytopic
 encephalography
-enter
+enter 1
 euplotid
 existability
 extravisceral
