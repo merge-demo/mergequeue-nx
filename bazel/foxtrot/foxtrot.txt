@@ -9095,7 +9095,7 @@ fourberie
 fedelini
 frisure 1
 fenlander
-frankist
+frankist 1
 forespeaker
 featy 1
 falsification
