@@ -689,7 +689,7 @@ excursionism
 enumerative 1
 ebriated 1
 esteros
-epithelial
+epithelial 1
 ecol 1
 ethnogeny
 earlesss
