@@ -4634,7 +4634,7 @@ demonastery
 donn
 depose
 dinic
-demisang
+demisang 1
 dulcite
 demisangue
 douzaines
