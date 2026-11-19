@@ -13963,7 +13963,7 @@ extraparochial
 equicurve
 ectophytic
 essoiner
-embezzles
+embezzles 1
 embrocations
 extraperineal
 emceed
