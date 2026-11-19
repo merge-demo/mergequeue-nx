@@ -9237,7 +9237,7 @@ goliard
 grisly
 glagolitic
 gravigrade
-grahamite 1
+grahamite 2
 grist
 guanase
 growthiness
