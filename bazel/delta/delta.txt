@@ -13213,7 +13213,7 @@ dyspnea
 distempered
 dyspneas
 ducat
-determinator
+determinator 1
 draftman
 desexualization
 diapensiaceae
