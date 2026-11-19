@@ -13063,7 +13063,7 @@ borsches 1
 boehmenist
 boreen
 burdash
-boreiad
+boreiad 1
 bannister
 bugseeds
 boodleism
