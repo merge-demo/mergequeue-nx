@@ -778,7 +778,7 @@ galvanothermometer
 ggr
 galliformes 1
 ginneries
-goose
+goose 1
 gracefullest
 ghrush
 gandergoose 1
