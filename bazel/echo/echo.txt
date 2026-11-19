@@ -7933,7 +7933,7 @@ enframes
 ecclesiography
 ensiferi
 entreater
-epizootiology
+epizootiology 1
 epinikion
 epilogical
 entomophaga
