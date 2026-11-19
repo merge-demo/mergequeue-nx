@@ -9847,7 +9847,7 @@ azimethylene
 aforeward
 arbs 1
 anatomicobiological
-amarantine
+amarantine 1
 advowsance
 antiprotons
 amargosa
