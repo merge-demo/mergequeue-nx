@@ -241,7 +241,7 @@ facultize
 fulgur 1
 finify
 fetials
-fopship
+fopship 1
 fannel
 fostress
 fleshed
