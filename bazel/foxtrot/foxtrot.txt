@@ -9314,7 +9314,7 @@ furlough
 flushest
 fantasies 1
 footrest
-finnicky
+finnicky 1
 fatback
 formicicide
 fromages
