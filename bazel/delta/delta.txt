@@ -9400,7 +9400,7 @@ discontentive
 dissoluble
 diffusate
 dipnoous
-deploring
+deploring 1
 djinni 1
 duplicator
 diffusers
