@@ -15591,7 +15591,7 @@ drying
 determinedly
 dool
 duumviri 1
-deviable
+deviable 1
 doolfu
 dooly
 doomed
