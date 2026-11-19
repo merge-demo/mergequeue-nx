@@ -21994,7 +21994,7 @@ anni
 argentometrically
 assumes
 apothesis
-antiperiodic 1
+antiperiodic 2
 act
 assuming
 assumingly
