@@ -4018,7 +4018,7 @@ cutcheries
 cannaled
 countertierce
 choosingly
-carcinomatoid
+carcinomatoid 1
 carcinomatosis
 carpetweed
 cellophane
