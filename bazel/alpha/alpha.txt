@@ -6403,7 +6403,7 @@ acoine
 afro
 automatograph
 adsorbate
-auriculariae
+auriculariae 1
 agromyzid
 agron
 ascaricidal
