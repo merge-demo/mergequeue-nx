@@ -4027,7 +4027,7 @@ deleteriousness 1
 dirge
 deletions
 disdub
-departmentize
+departmentize 1
 dehumanizing
 dealership 1
 dawtie
