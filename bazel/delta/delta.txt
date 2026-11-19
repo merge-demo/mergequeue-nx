@@ -2968,7 +2968,7 @@ dolt
 deducibility
 drawstop 1
 deducted
-devolatilized
+devolatilized 1
 disseisoress
 doxycycline
 debunking
