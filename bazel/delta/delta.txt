@@ -3188,7 +3188,7 @@ devotionalness 1
 dimitting
 defectless
 declaratives
-defectlessness
+defectlessness 1
 delegatory
 dislevelment
 descendible
