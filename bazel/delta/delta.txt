@@ -15954,7 +15954,7 @@ disorganize
 dipterist
 deglutination
 dl
-debacles
+debacles 1
 dauntlessness
 dothideales
 denaturational
