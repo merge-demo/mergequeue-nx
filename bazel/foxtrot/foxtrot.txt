@@ -8653,7 +8653,7 @@ frigidness
 frictionproof 1
 faintest
 footing
-forspoke
+forspoke 1
 fellatory
 flaunt
 flawed
