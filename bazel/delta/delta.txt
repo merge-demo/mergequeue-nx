@@ -14258,7 +14258,7 @@ deductibles
 dyspnoeic
 diffiding
 deporter
-depravers
+depravers 1
 deisms
 downcrying
 defoliator
