@@ -2767,7 +2767,7 @@ determinants
 decorticosis
 disoperation
 decortization
-decorum 1
+decorum 2
 dactylorhiza
 diamber
 dirige
