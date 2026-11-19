@@ -3023,7 +3023,7 @@ attenuate
 aporobranchiata
 amboceptoid
 afterwar
-assamar
+assamar 1
 actinographic
 autotomy
 appriser
