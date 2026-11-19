@@ -10919,7 +10919,7 @@ chirocosmetics
 chirogale
 chirogymnast
 cautel
-cornu
+cornu 1
 chirognomy
 cerement
 chirognomic
