@@ -2518,7 +2518,7 @@ candymaking
 candite
 curryfavel
 candyweed
-candle
+candle 1
 coehorn
 candleball
 candleberries
