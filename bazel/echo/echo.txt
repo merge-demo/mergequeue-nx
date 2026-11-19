@@ -4884,7 +4884,7 @@ encratite
 expectorator
 electroed
 exportable
-episcopolatry
+episcopolatry 1
 encrinic
 encrinidae
 encrinital
