@@ -9595,7 +9595,7 @@ defining
 divinised
 doctordom
 dollie
-digressional
+digressional 1
 digressive
 digressory
 dastard 1
