@@ -30638,7 +30638,7 @@ coprology
 cucullate
 contravened
 chilidog
-crustosis
+crustosis 1
 cuculle
 cuculliform
 cuculoid
