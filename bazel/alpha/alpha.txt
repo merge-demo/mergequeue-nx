@@ -16417,7 +16417,7 @@ autotypy
 antonym
 antonymy
 antonymies
-antoniniani
+antoniniani 1
 antoninianus
 acidophil
 appointed
