@@ -7415,7 +7415,7 @@ actinomyxidia
 albyn
 albinal
 amvis
-apteryx
+apteryx 1
 albines
 autobahn
 albiness
