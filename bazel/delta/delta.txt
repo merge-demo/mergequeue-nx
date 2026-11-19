@@ -3037,7 +3037,7 @@ deepgoing
 dawsoniaceous 1
 debaucheries
 dolomitize
-duck
+duck 1
 decontrolling
 distinguishing
 decisionmake
