@@ -2508,7 +2508,7 @@ dilaters
 declamatory 1
 dateable
 decibar
-dendrochronology
+dendrochronology 1
 drysaltery
 displeasingly
 discussionism
