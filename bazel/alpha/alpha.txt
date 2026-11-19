@@ -18906,7 +18906,7 @@ archilute
 archimagus
 augustan
 adenomas
-archimedean
+archimedean 1
 anticommercial 1
 achernar
 archimedes
