@@ -9281,7 +9281,7 @@ euchologia
 eugeosynclinal
 epitaphize 1
 elytrin 1
-errors
+errors 1
 estramazone
 ecrustaceous
 electroethereal
