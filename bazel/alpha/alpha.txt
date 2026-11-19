@@ -13188,7 +13188,7 @@ animating
 amphibolic
 amoks
 anagraph
-areosystyle
+areosystyle 1
 animatistic
 animato
 autohypnotically
