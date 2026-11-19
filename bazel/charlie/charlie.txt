@@ -1304,7 +1304,7 @@ caliban
 cunea
 calaverite
 caliber
-compulsatory
+compulsatory 1
 calibers
 colunar
 calibrated
