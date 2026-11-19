@@ -6714,7 +6714,7 @@ elongations
 enterprize
 expertising
 entosclerite
-eulogiser 1
+eulogiser 2
 ecrevisse
 epulis
 espundia
