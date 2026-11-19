@@ -14691,7 +14691,7 @@ arteriectasis
 alpinisms
 antinormal
 anthryl
-adelges
+adelges 1
 antiaristocratically
 agoraphobia
 addis
