@@ -4697,7 +4697,7 @@ aegilops
 abolishing 1
 aegina
 aeginetan
-aegipan 1
+aegipan 2
 agonisingly
 aegisthus
 anthomyiidae
