@@ -542,7 +542,7 @@ ablatival
 alimentotherapy
 ablative
 anatomopathological
-ambitioned
+ambitioned 1
 able
 autoplasmotherapy
 amphicoelian
