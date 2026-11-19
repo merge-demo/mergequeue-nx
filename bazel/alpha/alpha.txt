@@ -22446,7 +22446,7 @@ anodynic
 astronomy
 analgen
 aphototropism
-astronomical
+astronomical 1
 ajenjo
 acylate
 astronomics
