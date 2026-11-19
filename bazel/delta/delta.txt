@@ -7089,7 +7089,7 @@ decretion 1
 deriv
 dicyemid
 disaproned
-drowsed
+drowsed 1
 dissuasions
 deterrently
 domajig
