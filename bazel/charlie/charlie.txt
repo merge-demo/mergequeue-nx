@@ -12145,7 +12145,7 @@ cascarilla
 chrysaline
 chromophilous
 chrysalis
-chrysalises
+chrysalises 1
 cardiaplegia
 chrysaloid
 chrysammic
