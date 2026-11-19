@@ -7367,7 +7367,7 @@ gourdiness
 gleamier
 gamotropism
 grumps
-globated
+globated 1
 gramas
 granulosis
 gamming
