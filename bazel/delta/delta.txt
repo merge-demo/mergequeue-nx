@@ -13887,7 +13887,7 @@ demisable
 diadelphia
 distichlis
 dephased
-dimerous
+dimerous 1
 discina
 distil
 derisive
