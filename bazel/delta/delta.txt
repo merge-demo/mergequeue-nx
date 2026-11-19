@@ -8356,7 +8356,7 @@ disvouch
 decalobate
 dyed
 dromed
-decigrams
+decigrams 1
 doricize
 decaffeinates
 dialycarpous
