@@ -22728,7 +22728,7 @@ athletism
 athlothetes
 applauds
 ascared
-annumerate
+annumerate 1
 abhorson
 allomerous
 acclimatizing
