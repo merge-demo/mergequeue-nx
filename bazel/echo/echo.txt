@@ -12505,7 +12505,7 @@ erythrophage
 envisages 1
 epicentral
 embosture
-executrixship
+executrixship 1
 expertize 1
 exine
 exies
