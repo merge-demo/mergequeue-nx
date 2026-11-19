@@ -17495,7 +17495,7 @@ aira
 apparitor
 as
 appassionata
-adaptitude
+adaptitude 1
 adverbiality 1
 appd 1
 antitrismus
