@@ -4152,7 +4152,7 @@ fulk
 felonry
 flexed
 fatling
-fenchyl
+fenchyl 1
 feezed
 fireboy
 flying 1
