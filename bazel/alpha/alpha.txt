@@ -12643,7 +12643,7 @@ antitraditionalist
 anfractuosity
 authentications
 addleheadedly
-aperies
+aperies 1
 allocators
 amixia
 aporrhaidae
