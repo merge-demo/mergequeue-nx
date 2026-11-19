@@ -19107,7 +19107,7 @@ carder
 collyrium
 cedes
 cystocyte
-collisive
+collisive 1
 curtseying
 cunningest
 caracoler
