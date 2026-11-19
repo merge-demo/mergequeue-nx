@@ -2255,7 +2255,7 @@ effluve
 endoplasma
 elector
 exhume 1
-elks
+elks 1
 encyclopedian
 encell
 epauletted
