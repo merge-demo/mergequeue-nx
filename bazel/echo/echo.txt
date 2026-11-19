@@ -1870,7 +1870,7 @@ eimak 1
 exulted
 eulima
 euphonious
-eleutherodactyl
+eleutherodactyl 1
 ep
 eddy
 edit
