@@ -2993,7 +2993,7 @@ conceptualistically
 cantilating 1
 cantilene
 cantilever
-cantilevered
+cantilevered 1
 cantilevers
 cantily
 codenization
