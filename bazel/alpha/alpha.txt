@@ -7075,7 +7075,7 @@ aker
 amdt
 antifeministic
 apogeal
-antitropic
+antitropic 1
 altiloquent
 akha
 angus
