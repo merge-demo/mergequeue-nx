@@ -10715,7 +10715,7 @@ chinamen
 chinaphthol
 condemnable
 confectionaries
-chinaware
+chinaware 1
 chinawoman
 chagul
 cincher
