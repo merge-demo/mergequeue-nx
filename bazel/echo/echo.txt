@@ -11010,7 +11010,7 @@ extund
 endomorph
 encreel
 exceptiveness
-enquire
+enquire 1
 encyclopaedic
 eternalist
 euryprosopic
