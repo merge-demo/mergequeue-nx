@@ -8025,7 +8025,7 @@ ferie
 froebelian 1
 flashbulb
 fungaceous
-forestal
+forestal 1
 forestalling
 forestalls
 funerals
