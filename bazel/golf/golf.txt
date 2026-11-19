@@ -6143,7 +6143,7 @@ gnotobiotically
 galactorrhoea
 gnow
 guttulous
-gns
+gns 1
 geese
 gatefolds
 globical
