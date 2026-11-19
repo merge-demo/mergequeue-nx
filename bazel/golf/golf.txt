@@ -5493,7 +5493,7 @@ glyster
 galumphed 1
 gablet 1
 grande
-ganoids
+ganoids 1
 gimmer
 goods
 gentlemen 1
