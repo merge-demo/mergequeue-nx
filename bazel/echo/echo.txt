@@ -348,7 +348,7 @@ expatiater 1
 exoduses
 electrolyzability
 exigible
-eaten
+eaten 1
 eighty
 electrodynamic
 enchantment
