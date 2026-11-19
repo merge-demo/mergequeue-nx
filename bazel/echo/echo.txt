@@ -260,7 +260,7 @@ eulamellibranchia 1
 emendately
 electroballistically
 elevenfold
-equisegmented
+equisegmented 1
 easylike
 eastabout
 eerisome
