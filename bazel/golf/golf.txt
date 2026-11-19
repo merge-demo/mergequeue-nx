@@ -9961,7 +9961,7 @@ greably 1
 gritless
 guarrau
 gogglers
-glegness
+glegness 1
 glyptic
 googols
 gipsyfy 1
