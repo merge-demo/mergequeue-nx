@@ -500,7 +500,7 @@ grama
 gullably
 ghostism
 geminations
-gnomes
+gnomes 1
 gurrah
 gluconokinase
 geomorphology
