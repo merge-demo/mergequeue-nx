@@ -22203,7 +22203,7 @@ aglossa
 astigmometry
 alluviate
 algologist
-aegritude
+aegritude 1
 atrophied
 astigmoscope
 astylar
