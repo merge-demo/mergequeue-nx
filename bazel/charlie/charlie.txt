@@ -10976,7 +10976,7 @@ chiropodical
 caphite
 cavascope
 canvaslike
-chiropodistry
+chiropodistry 1
 callan
 chiropodists
 cfh
