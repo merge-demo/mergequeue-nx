@@ -6348,7 +6348,7 @@ ensphered 1
 eyespot
 enseal
 estancias
-esophoric
+esophoric 1
 extrovertish
 epuloid
 enseated
