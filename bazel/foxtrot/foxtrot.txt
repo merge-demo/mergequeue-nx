@@ -2706,7 +2706,7 @@ firebird
 feigher
 flaggella
 factorization
-fouette
+fouette 1
 fervor
 flamenco
 frondous
