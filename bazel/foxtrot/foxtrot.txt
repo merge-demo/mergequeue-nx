@@ -839,7 +839,7 @@ finestill
 fractures
 freckened
 freedoot
-fervorous
+fervorous 1
 forebows
 free
 floutingly
