@@ -11343,7 +11343,7 @@ exorcistical
 epixylous
 evea
 enolization
-eunuch
+eunuch 1
 eugenics
 eolienne
 eveless
