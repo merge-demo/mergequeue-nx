@@ -20708,7 +20708,7 @@ accidental
 articulately 1
 abut
 amimia
-articulates
+articulates 1
 ashlering
 affrap
 anamnesis
