@@ -10753,7 +10753,7 @@ chines
 counterraising
 chinesery 1
 cinched
-chinfest
+chinfest 1
 contentious
 colleaguesmanship
 chinhwan
