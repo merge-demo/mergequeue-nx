@@ -8311,7 +8311,7 @@ alphabet
 archiepiscopacy 1
 alight
 adipopectic
-anomoeanism
+anomoeanism 1
 aligned
 atropamine
 archived
