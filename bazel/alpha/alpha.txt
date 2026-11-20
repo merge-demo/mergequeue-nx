@@ -17115,7 +17115,7 @@ antirecruiting
 alebion
 archfool
 antimarian
-allotropism
+allotropism 1
 anaphrodisiac
 achiever
 avocets
