@@ -6280,7 +6280,7 @@ devolve
 deprecates
 diradiation
 didymolite
-daughters 1
+daughters 2
 dermatopathic
 davoch
 dodecanesian
