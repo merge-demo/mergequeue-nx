@@ -27999,7 +27999,7 @@ cloisterliness
 commendator
 crayfishes
 conditory
-cliquey
+cliquey 1
 craig
 careen
 caprid
