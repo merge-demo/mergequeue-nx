@@ -12197,7 +12197,7 @@ despiciency
 demander
 depurates
 duply
-disambiguates
+disambiguates 1
 demideify
 dichocarpism
 dribblement
