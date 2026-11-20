@@ -5230,7 +5230,7 @@ basification 2
 breadboards
 barkeeps
 begar
-bodingly
+bodingly 1
 basaltic
 boneheaded
 bicentenary
