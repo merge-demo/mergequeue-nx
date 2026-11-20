@@ -4153,7 +4153,7 @@ grahamism
 gigback
 glottal 1
 ginkgoaceous
-gasan
+gasan 1
 goetic
 gravelstone
 gigantean
