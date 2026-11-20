@@ -1293,7 +1293,7 @@ fluctuous
 flarfishes
 feminophobe 1
 falconoid
-fatalists
+fatalists 1
 fop
 fleeced
 former
