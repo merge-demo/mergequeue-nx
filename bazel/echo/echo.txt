@@ -21,7 +21,7 @@ enravished
 euthytropic 1
 electrobiologist 1
 eagerness
-ephraitic
+ephraitic 1
 exemplificational
 excusableness
 escapement
