@@ -7031,7 +7031,7 @@ gumshoes 1
 glazier 1
 glamorizes
 grillade
-grindle
+grindle 1
 gomart
 gigameter
 gaudish
