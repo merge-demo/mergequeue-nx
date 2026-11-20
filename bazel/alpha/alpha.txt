@@ -9175,7 +9175,7 @@ ammonites
 apotheosising 1
 absentation
 ageist
-acquitted
+acquitted 1
 almner
 almohad
 aorta
