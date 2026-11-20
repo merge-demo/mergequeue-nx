@@ -13303,7 +13303,7 @@ chrysophyll
 cycloolefine
 cycloolefinic
 chintziest
-cyclop
+cyclop 1
 cyclopaedia
 cayleyan
 carriageless
