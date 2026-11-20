@@ -268,7 +268,7 @@ dissuitable
 dry
 dizzard
 dagomba
-dagswain
+dagswain 1
 daguerreotype
 downspout
 dolichopodous
