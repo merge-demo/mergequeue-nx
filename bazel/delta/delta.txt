@@ -1216,7 +1216,7 @@ developoid
 disinvolve 1
 dextrans
 datary
-dataries
+dataries 1
 depeach
 datasetname
 dithers
