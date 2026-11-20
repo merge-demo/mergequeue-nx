@@ -5370,7 +5370,7 @@ evzones
 endocline
 epicrystalline
 encoring
-enarme
+enarme 1
 endosteomata
 enwingly
 excarnate
