@@ -5890,7 +5890,7 @@ gipsyweed
 glucoses
 glances
 glucoside
-goshawk
+goshawk 1
 grandparents
 grantha
 gestening
