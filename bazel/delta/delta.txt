@@ -11064,7 +11064,7 @@ decrepitly
 dullsville
 deadpan
 disappointedly
-diakinesis
+diakinesis 1
 decarbonylate
 disappearer
 diamagnetically
