@@ -11014,7 +11014,7 @@ farmery
 fumet
 forcipate
 falafel
-fumets 1
+fumets 2
 fumiest
 fluoroscope
 frivolist
