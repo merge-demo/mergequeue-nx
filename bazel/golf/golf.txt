@@ -3210,7 +3210,7 @@ gaudiness
 getup 1
 golilla
 grievants
-greatheartedness
+greatheartedness 1
 gloater
 globosely
 gepidae
