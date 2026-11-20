@@ -16823,7 +16823,7 @@ caprifoliaceous
 clofibrate
 chidra
 clubby
-cuprate
+cuprate 1
 christlikeness
 circumcision
 canaller
