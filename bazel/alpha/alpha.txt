@@ -2068,7 +2068,7 @@ aeropulse
 anhalonidine
 andantini
 acheron
-apostematous
+apostematous 1
 acheronian 1
 asdics
 achroous
