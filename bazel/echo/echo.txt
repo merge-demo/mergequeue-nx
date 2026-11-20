@@ -2162,7 +2162,7 @@ ensorceling
 explicandum
 electropult
 elation
-euphonise
+euphonise 1
 enrib
 effloresces
 extrapolar
