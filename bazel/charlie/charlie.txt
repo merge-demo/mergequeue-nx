@@ -24359,7 +24359,7 @@ cooley
 capitatum
 cirsotome
 coolen
-cooler
+cooler 1
 coolers
 crimpier
 caviling
