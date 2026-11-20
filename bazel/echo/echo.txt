@@ -12066,7 +12066,7 @@ excortication
 eschewals
 enlightener
 eruptions
-epanaleptic
+epanaleptic 1
 expediate
 entrainer
 evzone
