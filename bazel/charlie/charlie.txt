@@ -18083,7 +18083,7 @@ coenobiar
 catostomoid
 cissoid
 cognizers
-coenobioid
+coenobioid 1
 conicoid
 contentless
 conjugable
