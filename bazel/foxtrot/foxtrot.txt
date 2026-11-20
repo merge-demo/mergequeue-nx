@@ -5259,7 +5259,7 @@ fstore
 flot
 fissiped
 figgery 1
-flavoured
+flavoured 1
 flavourful
 fieldy
 flavourless
