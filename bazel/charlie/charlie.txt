@@ -10941,7 +10941,7 @@ chirology
 curators
 chirological
 chirologically
-classicalness
+classicalness 1
 cartelism
 cokers
 crost
