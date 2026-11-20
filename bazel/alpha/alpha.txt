@@ -2604,7 +2604,7 @@ alginates 1
 acquiescement
 aureation
 acquiescence
-acquiescency 1
+acquiescency 2
 abacli
 amygdalotomy
 accrescent
