@@ -8921,7 +8921,7 @@ assizer
 alloiometric
 adjustments
 acrogenic
-alloisomerism
+alloisomerism 1
 axisymmetric
 archaically 1
 agallochum
