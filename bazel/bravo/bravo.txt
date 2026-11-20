@@ -1506,7 +1506,7 @@ biophore
 brutalization
 bichromated
 bezel
-basted
+basted 1
 batterdock
 ballads
 balete
