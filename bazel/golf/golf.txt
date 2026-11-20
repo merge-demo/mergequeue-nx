@@ -8905,7 +8905,7 @@ grieving 1
 glauconitic
 ghostified 1
 griquaite
-glomerella
+glomerella 1
 goniopholidae
 gentman
 gobang
