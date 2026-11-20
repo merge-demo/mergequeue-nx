@@ -13306,7 +13306,7 @@ brachioradialis
 botanizes
 bulbless
 balsamed 1
-bacterially
+bacterially 1
 bemat
 bradburya
 botaurus
