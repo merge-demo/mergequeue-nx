@@ -27042,7 +27042,7 @@ cartoning
 counterpreach
 counterprick
 cark 1
-combinatoric
+combinatoric 1
 counterprinciple 1
 counterprocess
 counterproductive
