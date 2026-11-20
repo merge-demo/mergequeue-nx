@@ -2686,7 +2686,7 @@ churchmanship
 chromophile
 canions
 canistel
-canjac
+canjac 1
 cank
 circumnavigations
 chokestrap
