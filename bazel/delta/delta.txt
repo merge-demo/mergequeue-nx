@@ -7988,7 +7988,7 @@ dimensive
 dookit
 dolichofacial
 divestment
-delicatessens
+delicatessens 1
 dionaea
 dishonoured
 discording
