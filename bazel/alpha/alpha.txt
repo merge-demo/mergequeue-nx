@@ -13830,7 +13830,7 @@ anorthographic
 axospermous
 anorthographical
 ala
-anorthophyre
+anorthophyre 1
 adrenocorticotrophin
 autocratship
 augean
