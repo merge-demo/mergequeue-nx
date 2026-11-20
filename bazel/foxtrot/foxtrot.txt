@@ -1930,7 +1930,7 @@ friable
 fangot
 froze 1
 forebearing
-floccule
+floccule 1
 finagling
 fonly
 flanchard
