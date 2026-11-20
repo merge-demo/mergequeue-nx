@@ -16617,7 +16617,7 @@ drunkeness 1
 dragonroot
 dilutant
 detesting
-dragonwort
+dragonwort 1
 dabber
 dedolent
 dadouchos
