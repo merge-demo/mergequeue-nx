@@ -12395,7 +12395,7 @@ earn
 estriol 1
 encephalology
 ephemerida
-exposures
+exposures 1
 exhibition
 enforce
 eradiate 1
