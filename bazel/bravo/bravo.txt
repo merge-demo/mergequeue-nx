@@ -8109,7 +8109,7 @@ beltmaker
 botonn
 besieging
 bloodhound
-bidiagonal 1
+bidiagonal 2
 balsamodendron
 bidimensional
 binucleate
