@@ -18192,7 +18192,7 @@ dorsulum
 diereses
 duncical
 delamination 1
-dharani
+dharani 1
 dispensary
 duncish
 dechlog
