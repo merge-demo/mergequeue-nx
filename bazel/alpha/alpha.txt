@@ -11366,7 +11366,7 @@ antonina
 ampyxes
 abies
 amphigaean
-amigas
+amigas 1
 asperite
 answerably
 amplectant
