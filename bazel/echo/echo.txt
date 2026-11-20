@@ -12818,7 +12818,7 @@ exoterical
 espials
 exotericism
 extenuated
-emboldener
+emboldener 1
 embossmen 1
 extraretinal
 evangelicity
