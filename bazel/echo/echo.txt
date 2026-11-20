@@ -13006,7 +13006,7 @@ expectorative
 eurycerous
 ephebos
 equipollently
-extubate
+extubate 1
 exhaustingly
 expostulatory
 estive
