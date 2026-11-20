@@ -3665,7 +3665,7 @@ deprogrammer
 dioestrous
 depreciators
 dunt
-deglutition
+deglutition 1
 deglutitious
 degold
 decathlon
