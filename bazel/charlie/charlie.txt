@@ -20804,7 +20804,7 @@ compoed
 cabiri
 citriculture
 compoer
-compone
+compone 1
 componed
 componency
 caciocavallo
