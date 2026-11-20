@@ -7477,7 +7477,7 @@ diastrophic
 dragooned
 diosma
 dunderpates
-darkheartedness
+darkheartedness 1
 dovish
 dignosce
 discoverably
