@@ -7038,7 +7038,7 @@ demographer
 decede
 dissentiate 1
 destress
-dorje
+dorje 1
 degrees
 disjointed
 despumation
