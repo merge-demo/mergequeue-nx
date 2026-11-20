@@ -1436,7 +1436,7 @@ bridling
 balister
 boycottism
 balistes 1
-blatherskite
+blatherskite 1
 battologized
 boilermaker
 balistid
