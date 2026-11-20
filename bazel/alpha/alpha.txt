@@ -4929,7 +4929,7 @@ acculturized
 aerographical
 aerohydrodynamic
 angakoks 1
-ambodexter
+ambodexter 1
 akaroa
 archdapifership
 auncel
