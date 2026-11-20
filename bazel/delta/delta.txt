@@ -397,7 +397,7 @@ dehydrogenization
 dainchas
 daynet
 dihalid
-dainteous
+dainteous 1
 dainty
 decentralise
 decoder
