@@ -5221,7 +5221,7 @@ guttae 1
 groundsheet
 gale
 gleamless
-gleed
+gleed 1
 gramophone
 germinant
 glyptologist
