@@ -9901,7 +9901,7 @@ exponents
 eluders 1
 exilian
 elongative
-earmarks
+earmarks 1
 estimations 1
 eprosy
 exhaustively
