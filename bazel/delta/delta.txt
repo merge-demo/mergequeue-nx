@@ -12367,7 +12367,7 @@ drias
 disharmonising
 deflexion
 demasculinized 1
-dwarfishly
+dwarfishly 1
 decolorised
 depone
 deepening
