@@ -12205,7 +12205,7 @@ bollworm
 blizzardly 1
 bolo
 bicron
-bogberries
+bogberries 1
 baloo
 bicarbide 1
 buckhound
