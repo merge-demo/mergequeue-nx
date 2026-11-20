@@ -9002,7 +9002,7 @@ coquettish
 colloq
 charities
 circumrotated
-condition
+condition 1
 charityless
 caridoid
 cloaks
