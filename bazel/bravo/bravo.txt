@@ -13075,7 +13075,7 @@ bowlmaker
 branders
 bedusk
 belfry
-boresight
+boresight 1
 beblubber
 boresome
 backblocks
