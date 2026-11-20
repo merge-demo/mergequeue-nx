@@ -3574,7 +3574,7 @@ funding
 forboding
 fairylands
 fulgence
-foggily
+foggily 1
 filched
 fellowmen
 frenchism
