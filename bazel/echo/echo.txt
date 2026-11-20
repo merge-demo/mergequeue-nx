@@ -5945,7 +5945,7 @@ enhearten 1
 echinoderes
 exantlation
 endobronchially
-exhilaration
+exhilaration 1
 ergoism
 enhelm
 elysia
