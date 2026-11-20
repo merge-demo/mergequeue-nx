@@ -3647,7 +3647,7 @@ confucianist
 clangor
 cocineras
 caragana
-caraganas
+caraganas 1
 crateful
 carageens
 chromatography
