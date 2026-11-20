@@ -9633,7 +9633,7 @@ flatfootedness
 freen
 featherfoil
 flowerer
-forwardly
+forwardly 1
 flotations
 freers
 farthest
