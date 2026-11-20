@@ -10441,7 +10441,7 @@ amethodically
 absurdum 1
 aculeolus 1
 ametrope
-antshrike
+antshrike 1
 ametropia
 ametrous
 amhar
