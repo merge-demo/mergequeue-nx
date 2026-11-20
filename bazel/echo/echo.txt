@@ -6784,7 +6784,7 @@ ergon
 educator
 extramural
 entire
-epithumetic
+epithumetic 1
 engluts
 enjoys
 entireness
