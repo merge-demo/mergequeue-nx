@@ -19073,7 +19073,7 @@ collimate
 coeds 1
 chiefess
 cabalism
-clarencieux
+clarencieux 1
 cardiasthma
 chloridizing
 collimated
