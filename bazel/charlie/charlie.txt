@@ -2536,7 +2536,7 @@ confraternities
 candlelighting
 cohusband
 carvels
-circumcinct
+circumcinct 1
 candlemaker
 candlemaking
 candlemas
