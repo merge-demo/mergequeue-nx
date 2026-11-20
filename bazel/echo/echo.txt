@@ -3489,7 +3489,7 @@ emblazes
 envies
 evelight
 emblazoned
-emblazoner 1
+emblazoner 2
 emblazonments
 elastic 1
 etherialising
