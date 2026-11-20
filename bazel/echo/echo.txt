@@ -10017,7 +10017,7 @@ emotiomuscular
 electrode
 eurhythmical
 electrodiagnostically
-extrorsal
+extrorsal 1
 electrodiagnostic
 expellable
 ethanal
