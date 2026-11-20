@@ -7837,7 +7837,7 @@ cooeyed
 croh
 cervicomuscular
 cerviconasal 1
-cholelithotripsy
+cholelithotripsy 1
 cribrous
 crotchy
 cervicothoracic
