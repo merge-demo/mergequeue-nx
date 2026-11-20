@@ -7334,7 +7334,7 @@ enact 1
 electrooptics
 escaping
 epanisognathism
-expositively
+expositively 1
 entameba
 epizoal
 elongate
