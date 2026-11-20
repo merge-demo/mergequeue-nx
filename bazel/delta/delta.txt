@@ -3769,7 +3769,7 @@ dioptometry
 doughlike
 dehorted
 defatigate
-dehorting 1
+dehorting 2
 digitoxin
 decompensation
 duckweed
