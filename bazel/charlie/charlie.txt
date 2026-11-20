@@ -16571,7 +16571,7 @@ clomps
 clonal
 cloned
 cloner
-clanning
+clanning 1
 caps
 collateralize
 contraparallelogram

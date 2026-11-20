@@ -11589,7 +11589,7 @@ baggageman 1
 boa
 brushite
 budgeted
-bisontine
+bisontine 1
 boarded 1
 besmudged
 blastoffs
