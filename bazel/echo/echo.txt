@@ -6432,7 +6432,7 @@ eye 1
 earthling
 enterprisingness
 eyedrop
-euthanasia
+euthanasia 1
 enbaissing
 edgeweed
 ecotypic
