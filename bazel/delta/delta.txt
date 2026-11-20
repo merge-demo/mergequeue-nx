@@ -5841,7 +5841,7 @@ deafforest
 destrier
 disestablishes
 desistance
-depots
+depots 1
 dasyure
 deprave
 disanagrammatize
