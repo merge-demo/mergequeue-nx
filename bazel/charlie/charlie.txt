@@ -28472,7 +28472,7 @@ catelectrotonic
 creatinephosphoric
 condensedly
 caroler
-cardlike
+cardlike 1
 creatininemia
 couplers
 creatinuria
