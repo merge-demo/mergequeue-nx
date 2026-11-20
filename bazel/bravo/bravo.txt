@@ -10711,7 +10711,7 @@ blenk
 blennadenitis
 backsetting
 blennemesis
-bullets
+bullets 1
 backswimmer
 blennenteria
 box
