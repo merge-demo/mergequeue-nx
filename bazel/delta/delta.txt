@@ -6168,7 +6168,7 @@ dolours 1
 decrepitness
 derestrict
 disputations
-derf
+derf 1
 dechlorinating
 debentures
 daimonic
