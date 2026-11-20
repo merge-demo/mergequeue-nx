@@ -10561,7 +10561,7 @@ crank
 costumey
 chilly
 compartmentalize 1
-cherie
+cherie 1
 calculi
 carvings
 chilidium
