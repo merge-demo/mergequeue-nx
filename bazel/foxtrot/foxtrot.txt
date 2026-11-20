@@ -11612,7 +11612,7 @@ fragilely
 fermata
 fustics
 fussbudget 1
-fixable
+fixable 1
 forint
 facsimile
 frolicsomely
