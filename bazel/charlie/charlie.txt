@@ -25245,7 +25245,7 @@ corita
 calesa
 cephaldemae
 corium
-chiasmal
+chiasmal 1
 chirurgic
 contradistinctively
 canonicate
