@@ -3355,7 +3355,7 @@ entrep
 eulogic
 expresses
 environed 2
-elegies
+elegies 1
 encheer
 ermit
 enrace 1

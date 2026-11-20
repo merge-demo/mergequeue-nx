@@ -25840,7 +25840,7 @@ chuser
 coolant
 corruptingly
 cimicid
-cocooning
+cocooning 1
 circumflexes
 corruption
 corruptionist
