@@ -19102,7 +19102,7 @@ colliquable
 colliquate
 collyria
 collyridian
-collyrite
+collyrite 1
 carder
 collyrium
 cedes
