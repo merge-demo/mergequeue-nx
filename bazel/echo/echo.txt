@@ -9576,7 +9576,7 @@ expressing
 emigrated
 emptory
 expediente 1
-excurse
+excurse 1
 esculent
 egocentristic
 encephaloma
