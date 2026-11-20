@@ -10935,7 +10935,7 @@ crl
 consideratively
 chirography
 candlelighted
-chirographical
+chirographical 1
 chirolas
 chirology
 curators
