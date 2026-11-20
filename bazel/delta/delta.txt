@@ -5359,7 +5359,7 @@ daraf
 diaphoretic
 displaced
 dentical 1
-denticle
+denticle 1
 dentiferous
 dentification
 desegmented
