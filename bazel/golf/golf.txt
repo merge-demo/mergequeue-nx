@@ -9239,7 +9239,7 @@ glagolitic
 gravigrade
 grahamite 1
 grist
-guanase
+guanase 1
 growthiness
 glucagon
 gyroceran

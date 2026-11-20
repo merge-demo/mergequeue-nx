@@ -2877,7 +2877,7 @@ deepest
 denticles 1
 dictyopteris
 decumbent
-disfurnishment
+disfurnishment 1
 deistically
 dugdug
 danais
