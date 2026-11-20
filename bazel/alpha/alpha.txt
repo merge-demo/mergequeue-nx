@@ -17343,7 +17343,7 @@ argos
 antagonist
 aglycosuric
 apheliotropically 1
-anatiferous
+anatiferous 1
 apostleship
 abaisse
 apostleships
