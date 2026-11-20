@@ -19947,7 +19947,7 @@ aesture
 adossed
 armoured
 armourer
-antipatriarchal
+antipatriarchal 1
 andrographolide
 arguses
 angusticlave

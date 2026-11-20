@@ -6963,7 +6963,7 @@ dioptases
 dicaryon
 discouragedly
 disentrancement
-dysuric
+dysuric 1
 despisable 1
 draggles
 dorcas
