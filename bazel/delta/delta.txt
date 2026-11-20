@@ -6799,7 +6799,7 @@ dojo
 dietzeite
 desiredly
 distruster
-desirer
+desirer 1
 drachma
 daira
 desires
