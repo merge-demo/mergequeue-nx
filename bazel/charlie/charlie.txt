@@ -7596,7 +7596,7 @@ cerebriformly
 censerless
 carus
 corrugating
-cooked
+cooked 1
 citrulline
 chondric
 corydaline
