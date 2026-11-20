@@ -19672,7 +19672,7 @@ affirmatively
 aerobacteriological
 alfarga
 aristate
-ascesis
+ascesis 1
 aristeas
 alertness
 armaria
