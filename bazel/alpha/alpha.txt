@@ -15369,7 +15369,7 @@ anemoses 1
 antisabbatarian
 avadhuta
 antilaborist
-antilacrosser
+antilacrosser 1
 antiserumsera
 antileague
 abdicable
