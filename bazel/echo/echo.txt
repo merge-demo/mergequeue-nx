@@ -14057,7 +14057,7 @@ emulsibility
 extravaganza
 eutectoid 1
 extravaginal
-electrify
+electrify 1
 exteroceptist
 exorcists
 echelonment

@@ -14578,7 +14578,7 @@ dihedrals
 delight
 dryfarm
 departmentization
-deeming
+deeming 1
 diatomine
 disinfeudation
 discordantness
