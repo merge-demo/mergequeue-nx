@@ -2861,7 +2861,7 @@ fisty 1
 finable
 foresails
 figworm
-flurry 1
+flurry 2
 fungid
 familistery
 fortuned
