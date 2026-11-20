@@ -10732,7 +10732,7 @@ gustard
 guergal
 gustatorial
 groupie
-gustfully
+gustfully 1
 guaycuru
 groundlessly
 gypsyisms
