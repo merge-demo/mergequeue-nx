@@ -8311,7 +8311,7 @@ detestableness
 diaclastic
 doryline
 disabused
-disregardance
+disregardance 1
 diaguite
 dyak
 diaka
