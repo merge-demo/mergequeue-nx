@@ -12544,7 +12544,7 @@ eupione
 enzymology
 exculpative
 extoolitic
-enactable
+enactable 1
 esonarthex
 enameler
 electrofusion
