@@ -1667,7 +1667,7 @@ daws
 daw
 dextraural 1
 deamination
-deaminize
+deaminize 1
 deammonation
 deashing
 dichastic
