@@ -6682,7 +6682,7 @@ glitters
 guard
 garmentless
 giantism
-gastroscopies
+gastroscopies 1
 graptolithida
 gallflies
 gimlets
