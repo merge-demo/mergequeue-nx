@@ -16143,7 +16143,7 @@ antisexist
 antiship
 antishipping
 amphitryon
-antisideric
+antisideric 1
 antisymmetry 1
 anthophobia
 aeroplanist
