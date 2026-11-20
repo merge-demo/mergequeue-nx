@@ -9493,7 +9493,7 @@ grundlov
 group
 gland
 germanophobist 1
-gnosiological
+gnosiological 1
 gammoner
 gynophoric
 grandrelle
