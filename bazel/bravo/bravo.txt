@@ -14347,7 +14347,7 @@ batocrinidae
 bray
 bluey 1
 braided
-bovoid
+bovoid 1
 binomen
 burstones
 bizone
