@@ -22414,7 +22414,7 @@ archcorrupter 1
 acaulous
 acetabular
 astrologically
-antidetonant
+antidetonant 1
 astrologist
 anagrammatise
 antiluetin
