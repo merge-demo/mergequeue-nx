@@ -229,7 +229,7 @@ faculous 1
 firelock
 filibranch
 fermenting
-facultatively
+facultatively 1
 faculties
 faunistically
 fringy
