@@ -5328,7 +5328,7 @@ ducks
 distincter
 dialkylamine
 distitle
-defiant
+defiant 1
 donis
 dolor 1
 dentatoserrate
