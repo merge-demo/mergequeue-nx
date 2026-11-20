@@ -1504,7 +1504,7 @@ florizine
 fanaticism
 foresend
 faulx
-flaunter
+flaunter 1
 focusers
 factionary
 ferruminating
