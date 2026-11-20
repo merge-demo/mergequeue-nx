@@ -10519,7 +10519,7 @@ balanus
 bromal
 buttonhold
 belligerent 1
-badasses
+badasses 1
 blastula
 boswellia
 blastulation 1
