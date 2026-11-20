@@ -6567,7 +6567,7 @@ caxton
 confluence
 caxtonian
 caza
-cazimi
+cazimi 1
 chamois
 crossability
 chondrofetal
