@@ -4261,7 +4261,7 @@ caress
 cir
 caressed
 captainries
-caresser
+caresser 1
 clobberer
 colleens
 caressers
