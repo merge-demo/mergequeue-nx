@@ -2459,7 +2459,7 @@ diaeresis
 decipherability
 dooryards
 dand
-doctrinarily
+doctrinarily 1
 deucing
 disintegrative
 decipherably
