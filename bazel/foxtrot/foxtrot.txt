@@ -10408,7 +10408,7 @@ fossified 1
 fountainously
 firsts
 fusileers
-flandan
+flandan 1
 forewarm
 fluorinated 1
 frontlash
