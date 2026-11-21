@@ -9047,7 +9047,7 @@ bearbaiting
 bonzery
 basking
 bipectinated
-biopotential
+biopotential 1
 biopsy
 biopsic
 bailliage
