@@ -9085,7 +9085,7 @@ ganglionectomies
 girthline
 glutination
 goadster
-gyres
+gyres 1
 gease
 graveyards
 glaucomys
