@@ -9295,7 +9295,7 @@ chattiness
 colorably
 chromotherapy
 chalutz
-cordite
+cordite 1
 chaucerian
 chauchat 1
 ceratophyllaceae
