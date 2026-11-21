@@ -2766,7 +2766,7 @@ festy
 festilogies 1
 feddans
 festinance
-festoonery
+festoonery 1
 foretellable
 familistere
 fuddlebrained
