@@ -18962,7 +18962,7 @@ collates
 collation
 collations
 cesti
-collatitious
+collatitious 1
 cloine
 ceste
 chickahominy
