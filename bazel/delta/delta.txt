@@ -2363,7 +2363,7 @@ devocalising
 decessit
 decerebrating
 daikon
-disagreeably
+disagreeably 1
 dechemicalize
 doctorfish
 dechloridation
