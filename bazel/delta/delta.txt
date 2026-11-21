@@ -3104,7 +3104,7 @@ diethyltryptamine
 digraphs
 depleting
 describable
-dialecticize
+dialecticize 1
 dinornithic
 defalcating
 dipteral
