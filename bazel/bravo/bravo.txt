@@ -15450,7 +15450,7 @@ brilliolette
 brills
 baculites
 bigothero
-banns
+banns 1
 brimfullness 1
 brongniardite
 blazon
