@@ -12989,7 +12989,7 @@ dinning 1
 deconsecrating
 disorientate 1
 dottrel
-didric
+didric 1
 diastematomyelia
 disorients
 dysoxidation
