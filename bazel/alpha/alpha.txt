@@ -11664,7 +11664,7 @@ aucanian
 ambuling
 antineutral
 aryepiglottidean
-apocatastatic
+apocatastatic 1
 anticarnivorous
 acoria 1
 argyrodite 1
