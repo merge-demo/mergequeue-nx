@@ -2416,7 +2416,7 @@ butterwort
 bummalo
 benzpinacone
 bareca
-barefaced
+barefaced 1
 bombacaceous
 baulk
 bonete
