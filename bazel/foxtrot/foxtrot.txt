@@ -3310,7 +3310,7 @@ factitious 1
 flirtationless
 framed
 fideicommissaries
-fungus
+fungus 1
 flirtling
 finesser
 faon
