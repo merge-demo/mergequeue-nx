@@ -9282,7 +9282,7 @@ chattery
 chattermag
 caprification
 chattermagging
-chatters
+chatters 1
 chatti 1
 carbohydrates
 chattier
