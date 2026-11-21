@@ -9698,7 +9698,7 @@ dilactic
 dilactone
 dilamination
 dilaniate
-doubled
+doubled 1
 derelinquish
 disconcord
 disembroilment
