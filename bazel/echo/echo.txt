@@ -12674,7 +12674,7 @@ excogitate
 endeavors
 echo
 erotized
-emerse
+emerse 1
 elzevir
 extrapolation
 exomphalos
