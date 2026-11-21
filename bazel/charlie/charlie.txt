@@ -16760,7 +16760,7 @@ cyclosporous
 congested
 cloughs
 cloured
-cohabiting
+cohabiting 1
 cotyliform
 cuckoldom
 clouted
