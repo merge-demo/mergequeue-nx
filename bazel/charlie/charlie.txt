@@ -17550,7 +17550,7 @@ colloid
 coccaceous
 coccal
 conducible
-coccerin
+coccerin 1
 corr
 coccic
 coccidae
