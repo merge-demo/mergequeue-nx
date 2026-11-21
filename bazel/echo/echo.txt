@@ -11920,7 +11920,7 @@ ectoderms
 emotionalist
 enragement
 earthenware
-expurgation 1
+expurgation 2
 ephidrosis
 excerebration
 extraphysical
