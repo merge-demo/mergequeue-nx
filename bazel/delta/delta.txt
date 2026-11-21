@@ -17094,7 +17094,7 @@ driftage
 deficient
 decatyl
 diaboleptic
-detenebrate
+detenebrate 1
 dispensated
 driftbolt
 drucken
