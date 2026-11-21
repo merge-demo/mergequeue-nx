@@ -2083,7 +2083,7 @@ clotheshorses
 campaigners
 campaigns
 colostric
-campana
+campana 1
 campane
 campanella
 coadjuvancy
