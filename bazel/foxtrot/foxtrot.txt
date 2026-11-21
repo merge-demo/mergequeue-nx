@@ -11568,7 +11568,7 @@ faucet
 foreworn
 fibronucleated
 fluoric 1
-feu
+feu 1
 feuing
 fusilladed
 fluctigerous
