@@ -1813,7 +1813,7 @@ alveloz
 acephalous
 awnings
 alackaday
-akoasma
+akoasma 1
 adduct
 antiketogenesis
 acephalus
