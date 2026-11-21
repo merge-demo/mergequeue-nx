@@ -1801,7 +1801,7 @@ earplugs
 excrement
 embrutes 1
 epigonism
-enfranch
+enfranch 1
 eyespots
 epexegetically
 eyewaiter
