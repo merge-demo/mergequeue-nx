@@ -10240,7 +10240,7 @@ gastroptosis
 grape
 gossypin
 graminivore 1
-glycogenase
+glycogenase 1
 guiltsick
 genesee
 generating
