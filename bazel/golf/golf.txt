@@ -9800,7 +9800,7 @@ gumfield
 gitano
 glycidic
 grylle
-gonothecal 1
+gonothecal 2
 gobstick
 gewgaw
 gunneraceae
