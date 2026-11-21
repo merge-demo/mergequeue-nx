@@ -9649,7 +9649,7 @@ dhaks
 dihydroxyacetone
 defaceable
 dihydroxysuccinic
-dulse
+dulse 1
 digitise
 dalasis
 decretals
