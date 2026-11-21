@@ -28762,7 +28762,7 @@ crepusculine
 catenary
 cres
 cresc
-comparativeness 1
+comparativeness 2
 cordelier
 crescendo
 crescendoing
