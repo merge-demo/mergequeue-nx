@@ -15322,7 +15322,7 @@ distilleries
 dismit 1
 demonolatry
 deafforestation
-dolphus
+dolphus 1
 dryfat
 displeasured
 doating
