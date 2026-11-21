@@ -17855,7 +17855,7 @@ bus 1
 busaos
 bloodleaf
 bine
-busbar
+busbar 1
 busbars
 barotse
 bibliopegic
