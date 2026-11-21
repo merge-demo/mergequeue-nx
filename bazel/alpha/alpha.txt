@@ -19200,7 +19200,7 @@ aetiotropically
 antigay 1
 ardassine
 acquaintant
-assoiling
+assoiling 1
 ardellae
 ardency
 abenteric
