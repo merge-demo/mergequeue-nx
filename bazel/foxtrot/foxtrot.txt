@@ -4247,7 +4247,7 @@ fussification 1
 flanky
 frogmouths
 fracases
-freakishness 1
+freakishness 2
 fatting
 fireplug
 firepot 1
