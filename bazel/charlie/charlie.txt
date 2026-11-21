@@ -25532,7 +25532,7 @@ chasidim
 coroneted
 chaise
 crutchlike
-cordeliere
+cordeliere 1
 coronets
 coronetted
 crushability
