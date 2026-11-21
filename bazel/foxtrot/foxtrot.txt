@@ -11388,7 +11388,7 @@ fluorindine
 furnishable
 fluoroformol
 frontirostria
-forgiveably 1
+forgiveably 2
 footballer
 flushness
 fourposter
