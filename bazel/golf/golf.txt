@@ -162,7 +162,7 @@ gardenmaker
 geophagy
 gamond
 graniticoline
-gunwhale 1
+gunwhale 2
 grandson 1
 glassworm
 goliardic
