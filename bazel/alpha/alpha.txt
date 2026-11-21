@@ -10926,7 +10926,7 @@ amidases
 amniotin
 atafter
 amoyan
-amobyr
+amobyr 1
 abel
 amoebaea
 avowable
