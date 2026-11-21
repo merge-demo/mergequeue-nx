@@ -10418,7 +10418,7 @@ blanks
 byrewoman
 boltmaking
 beesting
-baritone 1
+baritone 2
 boviform 1
 bemadam
 bribetaking
