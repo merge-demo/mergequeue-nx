@@ -2095,7 +2095,7 @@ gozzard 2
 gerberia
 guerillaism
 geobotanist
-galvanizer
+galvanizer 1
 gerontes
 ginglmi
 gnomist
