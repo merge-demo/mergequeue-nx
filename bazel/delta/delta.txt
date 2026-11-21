@@ -7964,7 +7964,7 @@ diacanthous
 dismes
 drupiferous
 dartos
-dithyrambically
+dithyrambically 1
 durenol
 dextrocularity
 daphnes
