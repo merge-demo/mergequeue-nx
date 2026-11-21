@@ -138,7 +138,7 @@ epoxidize 1
 evaporativity
 economizes
 extravasating 2
-elon
+elon 1
 enchasten 1
 epiphysial
 elisha
