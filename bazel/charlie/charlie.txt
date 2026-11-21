@@ -6091,7 +6091,7 @@ categorizing
 catonian
 cheesemongerly
 catonically
-cli
+cli 1
 catoptric
 canaan
 clippable
