@@ -5679,7 +5679,7 @@ epididymis
 elaeagnaceous 1
 extinct
 essayist
-extraterrestrially
+extraterrestrially 1
 eucalypts
 enfree
 exordiums
