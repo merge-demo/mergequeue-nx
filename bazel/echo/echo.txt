@@ -7487,7 +7487,7 @@ eryx
 ephialtes
 encipherments
 excusal
-ebenaceae
+ebenaceae 1
 equisurface
 enif
 exorbitantly
