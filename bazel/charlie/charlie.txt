@@ -421,7 +421,7 @@ curns
 copalche
 cardiocentesis
 cacosmia
-canalis
+canalis 1
 cacospermia
 cacothansia
 cacotheline
