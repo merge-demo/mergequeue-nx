@@ -2867,7 +2867,7 @@ bridebowl
 boskage 1
 biform
 bashawism
-buddage
+buddage 1
 barrage
 barnmen
 banger
