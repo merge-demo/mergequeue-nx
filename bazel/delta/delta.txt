@@ -13005,7 +13005,7 @@ diphthongized
 deallocated
 doweries
 dispar
-disparageable
+disparageable 1
 diabolised
 disparagement
 disparagements
