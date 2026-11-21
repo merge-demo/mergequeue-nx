@@ -12471,7 +12471,7 @@ disoccupying
 dishwatery
 disidentify
 deracinate
-declassifying
+declassifying 1
 doubtably
 dertrum
 damageableness
