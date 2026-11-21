@@ -1275,7 +1275,7 @@ calenders
 calendric
 calendrical
 calendula 1
-calendulas
+calendulas 1
 calendulin
 calentural
 chivalries
