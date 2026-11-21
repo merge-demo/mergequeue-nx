@@ -10000,7 +10000,7 @@ flenching
 frypans
 frillily
 falderal
-felid
+felid 1
 frilliness
 fen 1
 florid
