@@ -7958,7 +7958,7 @@ demicylinder
 defunctive
 downsteepy
 diathermal
-decimeters
+decimeters 1
 dextroaural
 diacanthous
 dismes
