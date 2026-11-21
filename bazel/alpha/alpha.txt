@@ -10002,7 +10002,7 @@ adirondack
 albinuria
 amberoid
 ambers
-arthropodous
+arthropodous 1
 acinotubular
 acrodonts
 ambicoloration
