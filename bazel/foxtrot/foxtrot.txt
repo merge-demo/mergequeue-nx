@@ -6883,7 +6883,7 @@ frustratingly
 flaggings 1
 figurist
 feline
-fatuous
+fatuous 1
 fornacic
 forebackwardly
 farmout
