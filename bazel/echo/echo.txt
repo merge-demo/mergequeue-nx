@@ -13575,7 +13575,7 @@ exsufflate
 exsufflation
 epithymetical
 extracutaneous 1
-evasions
+evasions 1
 echidnas
 escheating
 enjoinder
