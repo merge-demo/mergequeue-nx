@@ -805,7 +805,7 @@ eggment
 electrophotography
 ectasis
 endothia 1
-enoil
+enoil 1
 exequies
 expulsed
 ectental
