@@ -1932,7 +1932,7 @@ gynecocratic
 gnomesque
 gravewards
 guideship
-galactosuria
+galactosuria 1
 goalkeepers
 greaseless
 gushy
