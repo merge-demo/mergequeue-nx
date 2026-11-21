@@ -1767,7 +1767,7 @@ brachman
 burdie 1
 bamboula
 banterer
-boswellized
+boswellized 1
 bowmen
 balanops
 balloonet
