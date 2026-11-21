@@ -6068,7 +6068,7 @@ cryptoporticus
 canephroi
 cantharidizing
 cumene
-cameroonian
+cameroonian 1
 casuistical
 cresotic
 catmints
