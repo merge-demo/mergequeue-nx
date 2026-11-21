@@ -1440,7 +1440,7 @@ freewheel
 fatuism 1
 filasse
 firmness
-futhork
+futhork 1
 fatuitous
 foothil 1
 familiarise
