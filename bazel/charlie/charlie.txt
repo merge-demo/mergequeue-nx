@@ -499,7 +499,7 @@ caddishness
 caddisworm 1
 chupon
 cadeau
-carcinoscorpius
+carcinoscorpius 1
 camisados
 cadelles
 craggedness
