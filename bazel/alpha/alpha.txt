@@ -244,7 +244,7 @@ abbott
 adenomyxoma
 actable 1
 aselline
-apostate
+apostate 1
 abraded
 acantholysis 1
 adenomata
