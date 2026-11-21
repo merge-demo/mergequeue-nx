@@ -3329,7 +3329,7 @@ chloroacetic 1
 capone
 caponette
 caponier
-caponiere
+caponiere 1
 cognominate
 caponiers
 cavilling
