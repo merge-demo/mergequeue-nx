@@ -1906,7 +1906,7 @@ gaucho
 generalists
 gerbillus
 gamelote
-germaniums 1
+germaniums 2
 groundable
 gowd
 grails
