@@ -272,7 +272,7 @@ bigamic
 buna
 bacilligenic
 booths
-bedotted
+bedotted 1
 boltuprightness
 bespangled
 belar
