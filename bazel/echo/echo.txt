@@ -8752,7 +8752,7 @@ expatiator
 equivocal
 exuperable
 extermination
-encystment 1
+encystment 2
 eulogising
 endangering
 equivocates
