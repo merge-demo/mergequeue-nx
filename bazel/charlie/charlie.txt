@@ -17462,7 +17462,7 @@ clepsydras
 cobblestoned 1
 corollated
 chokeweed
-cobbling
+cobbling 1
 cobbra
 cobbs
 carabins
