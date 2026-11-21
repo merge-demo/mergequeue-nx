@@ -6784,7 +6784,7 @@ airbusses 1
 antibias
 axometer
 arid
-altars
+altars 1
 aircraftmen
 aircraftsman
 adsorptiveness
