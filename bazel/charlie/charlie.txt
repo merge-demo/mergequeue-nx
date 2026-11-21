@@ -2484,7 +2484,7 @@ colloidally
 circumnatant
 candescence
 cabalists
-candid
+candid 1
 canadianization
 curchef
 copperish
