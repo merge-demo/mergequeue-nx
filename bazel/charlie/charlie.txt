@@ -12655,7 +12655,7 @@ childkind
 chucker
 chuckfarthing
 chuckhole
-canvassy
+canvassy 1
 chaule
 clergywomen
 convinces
