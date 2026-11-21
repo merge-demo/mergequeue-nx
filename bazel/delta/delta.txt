@@ -14215,7 +14215,7 @@ depopulated
 dangerous
 diswashing
 dur
-diswere 1
+diswere 2
 decurions
 diswit
 dacryon
