@@ -8212,7 +8212,7 @@ exigeant
 epiphany
 enkraal
 electrothermometer
-extinctive
+extinctive 1
 exsection
 empiecement
 etwas
