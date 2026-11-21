@@ -15580,7 +15580,7 @@ doodab
 demurrages
 dowdyish
 dehnstufe
-dyvours
+dyvours 1
 doodlebug
 doodlers
 doodlesack
