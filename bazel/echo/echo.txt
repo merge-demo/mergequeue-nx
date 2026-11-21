@@ -1366,7 +1366,7 @@ ebcdic
 excludability
 earlocks
 ethylated
-enopla
+enopla 1
 exemplupla
 eucalyptol
 echelon
