@@ -441,7 +441,7 @@ grapefruits 1
 garrote
 gallantness
 goldless
-gibbetted
+gibbetted 1
 galipoidine
 gloominess
 galei
