@@ -4574,7 +4574,7 @@ fainaigued
 fisting
 faithfulness
 flattest
-frictionize
+frictionize 1
 frutices
 flaunted
 fossilized
