@@ -12867,7 +12867,7 @@ eburneoid
 evacuators
 embarked
 expandable
-escropulo
+escropulo 1
 erotopathic
 erethisms
 exsert
