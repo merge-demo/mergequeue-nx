@@ -3258,7 +3258,7 @@ fireballs
 fictitiousness 1
 fistularioid
 fable
-fortieths
+fortieths 1
 ftnerr
 frizziest
 freehearted
