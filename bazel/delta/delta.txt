@@ -17241,7 +17241,7 @@ dureresque
 drizzly
 drizzlier
 drizzliest
-diablery
+diablery 1
 digresser
 dirigo
 dentinasal
