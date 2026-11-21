@@ -2388,7 +2388,7 @@ exergonic 1
 eurytomidae
 electrocutional
 enfleurage
-excathedral
+excathedral 1
 ectromelia
 exanguin
 exasperating
