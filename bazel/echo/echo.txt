@@ -11367,7 +11367,7 @@ ethnohistory
 exotropic
 electrodesiccation 1
 evenforth
-eryopid
+eryopid 1
 edificator
 eruciform
 emanatively
