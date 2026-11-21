@@ -26508,7 +26508,7 @@ colorations
 cotton
 cottonbush
 chumpishness
-cogitantly
+cogitantly 1
 crockeries
 cottonian
 cottonization
