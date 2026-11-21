@@ -23139,7 +23139,7 @@ agglomerations
 agnominal
 aaronitic
 aggressor
-accouple
+accouple 1
 annunciable
 allometric
 analytic
