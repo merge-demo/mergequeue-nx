@@ -10582,7 +10582,7 @@ furfurals
 filiation
 francophobe
 feeblebrained
-fanteeg
+fanteeg 1
 forwarn
 freakouts
 fibrination
