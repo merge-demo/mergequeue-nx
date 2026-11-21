@@ -544,7 +544,7 @@ damageous 1
 deaccessions
 dovyalis
 deliber
-dao
+dao 1
 damagers
 damalic
 dextrorotation
