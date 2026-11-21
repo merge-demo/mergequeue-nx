@@ -1207,7 +1207,7 @@ figury
 feinted
 fash 1
 friborgh
-fasherie
+fasherie 1
 fusilier
 foolishness
 fashing
