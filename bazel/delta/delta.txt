@@ -13583,7 +13583,7 @@ deuterotoky
 diplomacies
 demicritic
 drawnet
-dorcopsis 1
+dorcopsis 2
 dissentive
 diavolo
 datakit
