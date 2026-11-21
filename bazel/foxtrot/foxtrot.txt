@@ -3042,7 +3042,7 @@ frenchen
 fissioned
 forensical
 felstones
-friendlies
+friendlies 1
 fibbers
 fustin
 fiber
