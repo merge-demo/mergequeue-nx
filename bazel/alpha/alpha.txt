@@ -10262,7 +10262,7 @@ akkadist
 asyllabia
 arcticize 1
 anemious
-agricolite
+agricolite 1
 amelanchier
 avarice
 argus
