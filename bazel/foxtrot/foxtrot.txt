@@ -3100,7 +3100,7 @@ fantasia
 fennecs
 fiercehearted
 frontispiece
-fortifyingly
+fortifyingly 1
 frozen
 frenching
 faddiness
