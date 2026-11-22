@@ -20762,7 +20762,7 @@ aguishness
 anthologizes
 autopsychic
 artillerists
-adnescent
+adnescent 1
 artiodactyla
 autocrats
 antielectron
