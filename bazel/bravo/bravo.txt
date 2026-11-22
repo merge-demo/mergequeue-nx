@@ -11703,7 +11703,7 @@ bobcats
 binmen
 buddles
 beboss
-bardolatry
+bardolatry 1
 birthmate
 bestubbled
 bonneted
