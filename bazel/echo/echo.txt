@@ -12495,7 +12495,7 @@ escarbuncle
 esophagotomy
 enrollees
 eximidus
-eximious
+eximious 1
 ense
 etiogenic
 eluviates
