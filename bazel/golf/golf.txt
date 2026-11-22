@@ -9712,7 +9712,7 @@ geminal
 grugous
 gasoliery 1
 goodish
-gruyere
+gruyere 1
 gasterosteidae
 glutinant
 gratefully
