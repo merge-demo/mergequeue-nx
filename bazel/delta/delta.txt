@@ -4457,7 +4457,7 @@ dendrons
 dibbling 1
 divelling
 directoral
-dampcourse
+dampcourse 1
 demethylate
 definitize
 demetricize
