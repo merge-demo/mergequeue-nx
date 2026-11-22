@@ -2430,7 +2430,7 @@ excoriates
 epistle
 eumenidean
 empiristic
-esloign
+esloign 1
 ehrwaldite
 ethionamide
 erythroclasis
