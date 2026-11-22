@@ -4720,7 +4720,7 @@ counterearth
 ciboria
 catchall
 chigetais
-champerty
+champerty 1
 coumarou
 carnie
 chlamydospore
