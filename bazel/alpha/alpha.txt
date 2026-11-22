@@ -23905,7 +23905,7 @@ apocaffeine
 athetosic
 auganite
 avionic
-appositively
+appositively 1
 alumbrado
 anzac
 authigenetic
