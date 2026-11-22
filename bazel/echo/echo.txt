@@ -12120,7 +12120,7 @@ eubacterium
 ency
 excruciating
 enascent 1
-excruciator
+excruciator 1
 ennomic
 excubitoria
 eradicator
