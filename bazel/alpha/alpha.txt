@@ -18910,7 +18910,7 @@ archimedean
 anticommercial 1
 achernar
 archimedes
-archimycetes
+archimycetes 1
 abrogation
 almacigo
 angiocardiographic
