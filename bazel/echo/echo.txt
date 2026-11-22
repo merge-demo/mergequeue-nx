@@ -8627,7 +8627,7 @@ exonerators
 ethylamide
 egol
 equilibria
-equilibriate
+equilibriate 1
 ergasia
 equilibrious
 extraliminal
