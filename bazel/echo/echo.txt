@@ -7970,7 +7970,7 @@ enclisis
 ectozoic 1
 epimers
 encyclopaedia
-epileptiform
+epileptiform 1
 equilobed
 epimysia
 esthesias
