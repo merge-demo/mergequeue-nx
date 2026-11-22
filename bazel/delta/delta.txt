@@ -3558,7 +3558,7 @@ developedness
 defunct
 descendence
 discredence
-derivably
+derivably 1
 dawcock
 drumlin
 defunction
