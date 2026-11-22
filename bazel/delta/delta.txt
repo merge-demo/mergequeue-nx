@@ -5575,7 +5575,7 @@ dyscrase
 depeinct
 dwarfing
 dependabilities 1
-donatistic
+donatistic 1
 dibber
 dustfall
 draftable 1
