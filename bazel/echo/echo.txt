@@ -9817,7 +9817,7 @@ evolving
 estampede
 estang
 ethnographist
-extincteur
+extincteur 1
 econometrician
 eatables
 entrance
