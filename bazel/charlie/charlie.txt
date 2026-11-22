@@ -27597,7 +27597,7 @@ covillager
 covine
 clinquant
 censes
-cymatium
+cymatium 1
 coving
 carapus
 covinous
