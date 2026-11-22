@@ -27671,7 +27671,7 @@ clavicornate
 capeworks
 caliver
 cowhided
-criminative
+criminative 1
 cowhides
 caravanning
 cancellability
