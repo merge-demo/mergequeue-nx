@@ -16082,7 +16082,7 @@ adminiculum
 antiscale
 arteritis
 autocoenobium
-apocrita
+apocrita 1
 antischolasticism
 audibleness
 amharic
