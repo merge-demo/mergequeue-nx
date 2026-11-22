@@ -2304,7 +2304,7 @@ echoingly
 etnas
 espressos
 exurbias
-endocrania 1
+endocrania 2
 edana
 expert
 essene
