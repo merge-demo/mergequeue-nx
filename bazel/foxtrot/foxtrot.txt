@@ -1710,7 +1710,7 @@ fuselage
 faviform
 feasibly
 fashionmonger
-flighted
+flighted 1
 fascio 1
 floats
 filicin
