@@ -3722,7 +3722,7 @@ battler
 battleships
 barrace
 blushiness
-battlesome
+battlesome 1
 brigantes
 bimestrial
 battlestead
