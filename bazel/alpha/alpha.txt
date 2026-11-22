@@ -13404,7 +13404,7 @@ ameban
 awny
 ankush 1
 astringe
-aristulate
+aristulate 1
 archphylarch
 ankusha
 ankushes
