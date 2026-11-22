@@ -5016,7 +5016,7 @@ endenization
 excusator
 ecarte
 escritorial
-equipollentness
+equipollentness 1
 eumoirous
 exhibitional
 endenize
