@@ -3766,7 +3766,7 @@ accessorial
 anticipatively
 archivolt
 adhesion
-adhesive
+adhesive 1
 architraved
 ananke
 arteriosclerotic
