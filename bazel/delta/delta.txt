@@ -5719,7 +5719,7 @@ despotic
 deltoids
 disusance
 dispansive
-dermoossification
+dermoossification 1
 dictyoid 1
 dried
 dipneumonous
