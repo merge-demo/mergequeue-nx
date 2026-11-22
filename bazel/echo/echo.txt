@@ -8754,7 +8754,7 @@ exuperable
 extermination
 encystment 1
 eulogising
-endangering
+endangering 1
 equivocates
 encyrtid
 emphractic
