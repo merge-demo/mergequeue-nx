@@ -5,7 +5,7 @@ aa
 antichretic 1
 aahs
 allhallowtide
-ampullae
+ampullae 1
 airbrasive
 acromyodous
 alkalimetric
