@@ -5085,7 +5085,7 @@ dendrium
 diminishes
 decuria
 derailed
-dietetic
+dietetic 1
 donatary
 decalogist
 dendrochirota
