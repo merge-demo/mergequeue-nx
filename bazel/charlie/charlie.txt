@@ -12129,7 +12129,7 @@ cyclonoscope
 crupper
 conjecturalist
 copeognatha
-chresmology
+chresmology 1
 chrestomathics
 chrestomathies
 celluliferous
