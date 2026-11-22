@@ -4874,7 +4874,7 @@ formalness
 followable
 fulgora
 flails
-feuilletonism
+feuilletonism 1
 furoic
 fourteen
 fraughtage
