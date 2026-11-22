@@ -5563,7 +5563,7 @@ cedre
 comicoprosaic
 crushingly
 catalepsis
-catalexes
+catalexes 1
 catalexis
 catalin
 curule
