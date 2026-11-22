@@ -1148,7 +1148,7 @@ flax
 fatally
 fearbabe
 feebleminded
-feller
+feller 1
 figeaters
 flyblows
 footy
