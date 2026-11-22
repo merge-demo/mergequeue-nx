@@ -4500,7 +4500,7 @@ bacchanalias
 bumptiously
 brokes 1
 buffering
-buhrstone
+buhrstone 1
 borocalcite
 bathala
 brutifies
