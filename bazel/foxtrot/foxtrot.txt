@@ -554,7 +554,7 @@ foresays
 flosculose
 fainest
 ff
-fertilely
+fertilely 1
 figless
 frim
 foxwood
