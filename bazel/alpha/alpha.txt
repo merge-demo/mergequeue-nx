@@ -19291,7 +19291,7 @@ arenoid 1
 alation
 australis
 arenosity
-areographical
+areographical 1
 areolae
 anteriors
 aluminothermics
