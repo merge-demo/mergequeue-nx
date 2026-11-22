@@ -11355,7 +11355,7 @@ dischargeable 1
 dispirited
 dilacerating
 deodands
-dowhacky
+dowhacky 1
 devoter
 dilatometric
 dehydrogenise
