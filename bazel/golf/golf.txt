@@ -3196,7 +3196,7 @@ geotilla
 grigs
 geotropy
 guardant
-glossolabiolaryngeal 1
+glossolabiolaryngeal 2
 gametoid
 gambian
 ganglial
