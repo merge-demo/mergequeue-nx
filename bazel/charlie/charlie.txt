@@ -17068,7 +17068,7 @@ chorobates
 countertrench
 colpostat
 curstful
-comptometer
+comptometer 1
 censorial
 coachsmith
 caponisation
