@@ -9741,7 +9741,7 @@ eastlings
 entotrophi
 entitles
 eradiates 1
-enodal
+enodal 1
 equisonance
 everyplace
 eddo
