@@ -27541,7 +27541,7 @@ containable
 coverable
 coverages
 cuselite
-coverall
+coverall 1
 coveralled
 coveralls
 coils
