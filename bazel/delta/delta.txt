@@ -8938,7 +8938,7 @@ discitis
 dichlorodiphenyltrichloroethane
 dumpishness 1
 deboshment
-damascene
+damascene 1
 deceivable
 deathblows
 dichotically
