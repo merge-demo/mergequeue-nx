@@ -1480,7 +1480,7 @@ fissidentaceous
 fibry
 frizzes
 flunkyhood
-floatability 1
+floatability 2
 fungillus
 faucre
 faultiest
