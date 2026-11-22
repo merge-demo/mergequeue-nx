@@ -3832,7 +3832,7 @@ adieu
 attame
 altin 1
 adin
-araneose
+araneose 1
 adynamia
 adion
 arhat
