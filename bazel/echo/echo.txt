@@ -14097,7 +14097,7 @@ extrasacerdotal 1
 extricable
 extricably
 egbo
-enjoyer
+enjoyer 1
 ericad
 exorcize
 eustatically
