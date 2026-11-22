@@ -8378,7 +8378,7 @@ electrobiology
 ecch
 euphrasies
 eosin
-equivocating
+equivocating 1
 etherealism
 enhaloes
 euphuist
