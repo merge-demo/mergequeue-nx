@@ -9836,7 +9836,7 @@ frib
 fruitage
 faden
 fribbler
-friskle
+friskle 1
 foreappointment
 fricace
 fricandeaux
