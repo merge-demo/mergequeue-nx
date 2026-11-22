@@ -10058,7 +10058,7 @@ anisoin
 amission
 amerceable
 asquirm
-ambivalence
+ambivalence 1
 aiger
 ambiversion
 ambivert
