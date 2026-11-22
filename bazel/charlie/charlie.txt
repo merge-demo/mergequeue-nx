@@ -9178,7 +9178,7 @@ commandeering
 chirruped
 constipating
 chass
-chasse
+chasse 1
 cauliculus
 chassed
 chromatopathic
