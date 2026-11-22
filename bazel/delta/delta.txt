@@ -13516,7 +13516,7 @@ dissavs
 drumbeater
 dissceptered
 dislike
-dissceptre
+dissceptre 1
 deceivance
 denaturized
 dolesome 1
