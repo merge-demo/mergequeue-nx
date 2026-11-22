@@ -11246,7 +11246,7 @@ effulgently
 excisemanship
 enclothe
 evangelistary
-enthronements
+enthronements 1
 earflower
 endostraca
 enamor
