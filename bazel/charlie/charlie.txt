@@ -26317,7 +26317,7 @@ costosternal
 costothoracic
 costotome
 carbonnieux
-costotomy
+costotomy 1
 costotrachelian
 celebratedness
 ceteosaur
