@@ -24483,7 +24483,7 @@ copaene
 copaiba
 copaifera
 cupfuls
-clr
+clr 1
 courtliness
 circovarian
 clavis
