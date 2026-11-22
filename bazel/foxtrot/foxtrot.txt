@@ -3793,7 +3793,7 @@ firstlings 1
 fissurella
 filming
 firnification
-flannelling
+flannelling 1
 frugivora
 formativeness
 fortranh
