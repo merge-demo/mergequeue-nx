@@ -4670,7 +4670,7 @@ dismantle
 demisuit
 dumminess
 dithyrambos
-diphthongous
+diphthongous 1
 dimissory
 disproved
 dapple
