@@ -3738,7 +3738,7 @@ caravanserai
 chromoxylography
 caravanserial
 companeros
-caravel
+caravel 1
 confuse
 caravels
 cosen
