@@ -8701,7 +8701,7 @@ grecism
 guttled
 gawkier
 guttling
-germiniparous
+germiniparous 1
 greekize
 gleave
 gulravage
