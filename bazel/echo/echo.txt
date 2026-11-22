@@ -13679,7 +13679,7 @@ exterminatrix
 extraconscious
 edaphosauria
 externalise
-escarp
+escarp 1
 earthing
 ewelease 1
 equalizes
