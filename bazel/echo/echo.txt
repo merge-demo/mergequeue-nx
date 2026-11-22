@@ -14070,7 +14070,7 @@ enfect
 errantry
 entoplastral
 epigastral
-equilibrative
+equilibrative 1
 ebonize
 explicits
 entwinement
