@@ -26076,7 +26076,7 @@ cosigning
 cosily
 coupled
 chasuble
-cosymmedian
+cosymmedian 1
 compurgator
 cosinage 1
 cosine
