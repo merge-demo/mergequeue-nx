@@ -13657,7 +13657,7 @@ earners
 embacle 1
 evirate 1
 elevon
-elizabethanism
+elizabethanism 1
 exteriorisation
 exteriorised
 ecrus
