@@ -998,7 +998,7 @@ enquiring
 exorbital
 earthwork
 edaphosaurus
-explosibility
+explosibility 1
 encapsules
 euthanasic
 enterocinetic
