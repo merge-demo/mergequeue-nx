@@ -8023,7 +8023,7 @@ antiexpansionist
 addlepatedness
 alexandrine
 accadian
-altruistically
+altruistically 1
 alexia
 arenicole
 archeologist
