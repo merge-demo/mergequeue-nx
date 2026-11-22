@@ -7988,7 +7988,7 @@ altarpiece
 apprizer
 argasid
 assapan
-auscultations
+auscultations 1
 alternates
 aleurodes
 aleurometer
