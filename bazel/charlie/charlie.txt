@@ -24557,7 +24557,7 @@ copers 1
 cutches
 coperta
 copes
-chelidon
+chelidon 1
 cantate
 cophosis
 copia
