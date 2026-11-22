@@ -880,7 +880,7 @@ gadis
 galactan
 glove
 guily
-goffer
+goffer 1
 ghatti
 gymnophiona
 guerrilla 1
