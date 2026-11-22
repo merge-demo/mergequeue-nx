@@ -8622,7 +8622,7 @@ enframe
 electrodynamometer 1
 elinguating
 ectal
-equilibrates
+equilibrates 1
 exonerators
 ethylamide
 egol
