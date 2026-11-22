@@ -8686,7 +8686,7 @@ allelotropy
 allelotropic
 attendantly
 aldehydase
-allelotropism
+allelotropism 1
 alleluia
 applesauce
 alleluiah
