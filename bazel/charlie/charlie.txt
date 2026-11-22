@@ -1684,7 +1684,7 @@ claytonia 1
 cele
 curlicuing
 circ
-cestoi
+cestoi 1
 counterdiscipline 1
 calorifical
 chairs
