@@ -8861,7 +8861,7 @@ escharoid
 englue 1
 euorthoptera
 exiler
-epilegomenon
+epilegomenon 1
 eventuation
 electrooptically
 erer
