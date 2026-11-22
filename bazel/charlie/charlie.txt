@@ -28730,7 +28730,7 @@ creosotes
 creosotic
 cocircularity
 clericity
-crepey
+crepey 1
 chiru
 constringe
 coincides
