@@ -9375,7 +9375,7 @@ fummle
 fastenings 1
 fowk
 frails
-franklinic
+franklinic 1
 fisheater
 fraser
 familiarities
