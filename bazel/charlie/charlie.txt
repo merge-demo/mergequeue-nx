@@ -27062,7 +27062,7 @@ conceptualization
 counterproposal
 caplock
 croupily
-clerking
+clerking 1
 counterprotection
 counterpull
 counterpuncture
