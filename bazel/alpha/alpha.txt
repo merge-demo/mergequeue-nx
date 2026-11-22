@@ -8932,7 +8932,7 @@ allomorphism
 allomorphite
 allonym
 alongst
-allonymous
+allonymous 1
 allonyms
 allonomous
 abortion
