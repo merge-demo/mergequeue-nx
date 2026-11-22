@@ -3251,7 +3251,7 @@ guidership
 gametophytic
 goodhearted
 grainedness
-genuses
+genuses 1
 goldminer
 graywacke
 gruellers
