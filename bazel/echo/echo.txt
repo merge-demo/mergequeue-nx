@@ -7702,7 +7702,7 @@ euphemiser
 electrotautomerism
 expoundable 1
 epideistic
-enthymematical
+enthymematical 1
 eriocaulaceous
 effluxion 1
 estrus
