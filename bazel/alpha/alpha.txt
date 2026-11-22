@@ -17970,7 +17970,7 @@ anisodactyle
 allodialism
 anthropophysiography
 allothigene
-authenticate
+authenticate 1
 amphidesmous
 azoformic
 alternariose
