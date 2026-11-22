@@ -11585,7 +11585,7 @@ amanitin
 aiery
 amylopsin
 anacharis
-arriver
+arriver 1
 abilities
 alps
 apodes
