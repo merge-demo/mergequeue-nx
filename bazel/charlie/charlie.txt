@@ -23927,7 +23927,7 @@ cypris
 cytometer
 chirl
 conusance
-conusant
+conusant 1
 conuzee
 cicatricose
 cacological
