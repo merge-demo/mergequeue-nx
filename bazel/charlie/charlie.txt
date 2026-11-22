@@ -31096,7 +31096,7 @@ cundum
 cundums
 cundurango
 cuneal
-cuneately
+cuneately 1
 cuneatic
 cuneiform 1
 cuneiformist
