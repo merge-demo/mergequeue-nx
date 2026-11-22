@@ -14868,7 +14868,7 @@ decarbonator
 dictyograptus 1
 documentations
 deoxidator
-divertive
+divertive 1
 documentize 1
 dehortative
 doucepere
