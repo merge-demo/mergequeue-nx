@@ -29697,7 +29697,7 @@ croisette
 cambiform 1
 croissant
 croissante
-crojack
+crojack 1
 carousingly
 complimented
 coliplication
