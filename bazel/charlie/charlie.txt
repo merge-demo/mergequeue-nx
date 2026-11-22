@@ -16545,7 +16545,7 @@ cloistered 1
 cloisterer
 columellate
 clappermaclaw
-cloistering
+cloistering 1
 comal
 croupes
 chirm
