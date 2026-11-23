@@ -27690,7 +27690,7 @@ cowier
 copalms
 cowiest 1
 carnage
-cowing
+cowing 1
 carcinosarcomata
 cowinner
 cowish
