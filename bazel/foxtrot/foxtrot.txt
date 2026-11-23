@@ -986,7 +986,7 @@ faretta
 financialist 1
 foresaid
 foldable
-fervid
+fervid 1
 fishing
 flustering
 frivoller
