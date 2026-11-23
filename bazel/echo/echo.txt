@@ -623,7 +623,7 @@ enneaeteric
 empyreumatic 1
 epipaleolithic
 evincement
-eclamptic
+eclamptic 1
 efficacious
 extuberate
 epizoites
