@@ -15422,7 +15422,7 @@ antilogistic
 amastia
 antilope
 antiloquy
-asafoetida
+asafoetida 1
 antilottery
 adheres
 amplificatory
