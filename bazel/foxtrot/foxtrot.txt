@@ -3901,7 +3901,7 @@ feckless
 figurato
 fionnuala 1
 fanwe
-foregrounds
+foregrounds 1
 frequencies
 fortyfive 1
 fits
