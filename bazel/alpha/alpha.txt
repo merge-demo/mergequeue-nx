@@ -2283,7 +2283,7 @@ argil
 aneurin
 arbtrn
 adderfish
-alaric
+alaric 1
 agreer
 arthrozoic
 avoidably
