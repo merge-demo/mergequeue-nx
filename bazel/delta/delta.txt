@@ -2817,7 +2817,7 @@ debility
 desalinization
 deedbote
 donatory 1
-decretively
+decretively 1
 dictionary 1
 discind
 deuteroglobulose
