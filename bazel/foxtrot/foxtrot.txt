@@ -4248,7 +4248,7 @@ flanky
 frogmouths
 fracases
 freakishness 1
-fatting
+fatting 1
 fireplug
 firepot 1
 foreflank
