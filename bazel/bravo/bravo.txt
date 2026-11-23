@@ -11393,7 +11393,7 @@ bibio
 bluecoated
 becquerelite
 borable 1
-berettas
+berettas 1
 bowlderhead
 berycoidei
 bluecurls 1
