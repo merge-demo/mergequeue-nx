@@ -20389,7 +20389,7 @@ conciliatingly
 chondrodynia
 catabolize
 cancerdrops
-compactor
+compactor 1
 clobbered
 compactors
 compacts
