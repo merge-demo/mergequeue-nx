@@ -3053,7 +3053,7 @@ eschalot
 exogamy
 epidermis
 experimentalists
-elaidin
+elaidin 1
 eurythmy 1
 embryotroph
 eumycetic
