@@ -1258,7 +1258,7 @@ ganomalite
 garbler
 gradings
 greasers
-galliardly
+galliardly 1
 grognard
 geneki
 griffes
