@@ -10429,7 +10429,7 @@ boghole
 boobialla
 bimuscular
 bugseed 1
-boyards
+boyards 1
 barytostrontianite 1
 blaoner
 burinist
