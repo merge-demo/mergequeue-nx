@@ -6333,7 +6333,7 @@ fullback
 floyd
 finessed
 fixtureless
-fourb
+fourb 1
 flunkyish
 flunkyize
 fuzziness
