@@ -8315,7 +8315,7 @@ biggies
 bise
 biventral
 buttonholing
-biggish
+biggish 1
 bayadeer
 bepelt
 bigheaded
