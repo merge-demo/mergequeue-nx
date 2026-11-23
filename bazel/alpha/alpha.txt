@@ -4270,7 +4270,7 @@ appoggiature 1
 archesporium
 anchoretish
 adrenalectomize
-aumous
+aumous 1
 adrenalin
 aparejo
 adrenalize
