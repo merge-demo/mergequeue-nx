@@ -7155,7 +7155,7 @@ assignation
 al
 archaeus
 assistantships
-autoregulation
+autoregulation 1
 antibiotics
 argovian
 antiodontalgic
