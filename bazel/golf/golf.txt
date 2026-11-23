@@ -8210,7 +8210,7 @@ gladlier 1
 gigabit
 glycerolyses
 gelatinise
-geometricize
+geometricize 1
 grandfatherless
 gestative
 gooseneck 1
