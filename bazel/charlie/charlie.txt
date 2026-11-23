@@ -17457,7 +17457,7 @@ cobblerism
 cobblers
 cobblership
 cobbles
-cobblestone
+cobblestone 1
 clepsydras
 cobblestoned 1
 corollated
