@@ -8830,7 +8830,7 @@ frigorimeter
 fluidible
 flushgate
 forespoke 1
-fricandoes
+fricandoes 1
 flagellulae
 frakfurt
 fleeringly
