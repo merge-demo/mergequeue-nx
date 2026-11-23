@@ -12224,7 +12224,7 @@ andrewsite
 anchimonomineral
 aetiogenic
 anchisaurus
-aegirite
+aegirite 1
 anchorages
 anchorlike
 archradical
