@@ -8465,7 +8465,7 @@ elianic
 encinas
 epizootic
 epoxyed 1
-epoxies
+epoxies 1
 employed
 evangelistaries
 easterlies
