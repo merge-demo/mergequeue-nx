@@ -14800,7 +14800,7 @@ archgomeral
 arthrocele
 anticeremoniously
 anticeremoniousness 1
-aristocratic
+aristocratic 1
 antichamber
 allogenically
 anadipsic
