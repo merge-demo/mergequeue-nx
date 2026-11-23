@@ -7713,7 +7713,7 @@ flinchingly
 foreignly
 flory 1
 fishy
-foreignness
+foreignness 1
 foreimpressed
 firnismalerei
 foreinstruct
