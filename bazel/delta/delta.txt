@@ -16338,7 +16338,7 @@ dicoelous 1
 daven
 dismount
 divergently
-discinoid
+discinoid 1
 downsizing
 defensible
 discontinuable
