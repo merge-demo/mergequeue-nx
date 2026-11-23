@@ -25122,7 +25122,7 @@ anhistic
 areography 1
 axinite
 axiolite
-alimentiveness
+alimentiveness 1
 asterial
 antiascetic
 affirmers
