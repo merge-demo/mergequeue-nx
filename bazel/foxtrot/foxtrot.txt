@@ -7033,7 +7033,7 @@ forgiveness
 fontal
 freakout
 fulmining
-fougasse
+fougasse 1
 fontful
 fantassin
 forehandedly
