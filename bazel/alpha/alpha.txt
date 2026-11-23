@@ -19334,7 +19334,7 @@ arere
 arerola
 arest
 aretaics
-arete
+arete 1
 automatist
 alkaliferous
 abluent
