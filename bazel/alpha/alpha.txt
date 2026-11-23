@@ -11867,7 +11867,7 @@ analogue
 analphabet
 analphabete
 amphibium
-angelus
+angelus 1
 acyanopsia
 awink
 acceptedly
