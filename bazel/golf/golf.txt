@@ -7283,7 +7283,7 @@ glossotomies 1
 greencloth
 ginsengs
 grumness
-gladstonian 1
+gladstonian 2
 geochronic
 glowbird
 generatrix
