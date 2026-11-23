@@ -12869,7 +12869,7 @@ drywalls
 diodia
 descensory
 disminion
-duumviral
+duumviral 1
 doomsters
 decreeable
 driftway
