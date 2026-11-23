@@ -8333,7 +8333,7 @@ enciphers
 elev
 expressibly
 endured 1
-enchannel
+enchannel 1
 exercised
 emulating 1
 eagling
