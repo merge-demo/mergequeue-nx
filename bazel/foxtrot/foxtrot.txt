@@ -8024,7 +8024,7 @@ fae
 ferie
 froebelian 1
 flashbulb
-fungaceous
+fungaceous 1
 forestal
 forestalling
 forestalls
