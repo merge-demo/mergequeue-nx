@@ -6492,7 +6492,7 @@ ampullar
 apehood
 anzanian
 antecardium
-allantiasis
+allantiasis 1
 adjuvate 1
 ahi
 azotometer
