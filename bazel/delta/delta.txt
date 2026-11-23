@@ -4032,7 +4032,7 @@ dehumanizing
 dealership 1
 dawtie
 darwinians
-describer
+describer 1
 delsartean
 dogwinkle
 dysarthric
