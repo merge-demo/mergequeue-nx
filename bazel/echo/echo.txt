@@ -12004,7 +12004,7 @@ epitenon
 exclamative
 endolymphic
 epithermally
-excreation
+excreation 1
 exclamatory
 exclaves
 excavational
