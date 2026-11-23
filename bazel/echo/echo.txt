@@ -10080,7 +10080,7 @@ ethnologists 1
 endoparasitism
 epipolize
 englishing
-epinglette
+epinglette 1
 escharine
 echidnidae
 ethenes
