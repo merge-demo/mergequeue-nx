@@ -310,7 +310,7 @@ grundsil
 gelatins 1
 galeorhinus
 gastrocoele
-galabeah
+galabeah 1
 grandpappy
 galabieh
 galactagog 1
