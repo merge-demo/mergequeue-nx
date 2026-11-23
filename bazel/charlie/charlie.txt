@@ -29508,7 +29508,7 @@ crystallometric
 crystallose 1
 checkerboard
 coevality
-crystallurgy
+crystallurgy 1
 ceruminiferous
 companion
 coroniform
