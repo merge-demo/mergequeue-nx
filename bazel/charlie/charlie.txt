@@ -21855,7 +21855,7 @@ coportion
 cactaceae
 cardiometry
 confecting
-confection
+confection 1
 confectionary
 confectioner
 confed
