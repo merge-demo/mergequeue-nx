@@ -9424,7 +9424,7 @@ foodstuff
 foreteeth
 frary 1
 flouriness
-frolicly
+frolicly 1
 forlore
 frescoer
 fulsomeness 1
