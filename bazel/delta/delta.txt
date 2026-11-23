@@ -9039,7 +9039,7 @@ diverter
 dicrotal
 dicrotous
 dicruridae 1
-delia
+delia 1
 dehort
 disillusioniser
 dictaen
