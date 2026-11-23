@@ -4899,7 +4899,7 @@ dishmonger 1
 discage
 diluting
 deigns
-diminuendo
+diminuendo 1
 dialogist
 demonologer
 demonology
