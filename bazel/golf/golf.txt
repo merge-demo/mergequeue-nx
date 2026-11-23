@@ -6213,7 +6213,7 @@ grivois
 gossipdom
 gamblesome
 gardener
-geomyidae
+geomyidae 1
 guahibo
 glyptodontidae
 giantize
