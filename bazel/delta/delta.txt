@@ -9589,7 +9589,7 @@ differentness
 divisi
 digoxins
 digraphically
-digrediency
+digrediency 1
 decenaries
 defining
 divinised
