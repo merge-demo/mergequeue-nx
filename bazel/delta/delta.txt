@@ -10171,7 +10171,7 @@ diploids
 daddle
 demihigh
 dingeing
-dorsoventrally
+dorsoventrally 1
 duraquara
 dinghee
 dinghies
