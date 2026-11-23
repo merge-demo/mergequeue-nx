@@ -8795,7 +8795,7 @@ beworm
 bubonic
 buffaloed
 bink
-binna
+binna 1
 bowering
 brilliants
 binned 1
