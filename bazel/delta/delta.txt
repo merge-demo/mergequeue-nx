@@ -8758,7 +8758,7 @@ distastefully
 dentalgia
 demythologisation
 dichogamy
-diatonic
+diatonic 1
 doodle
 dungannonite
 diatreme
