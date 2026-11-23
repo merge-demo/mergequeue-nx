@@ -9780,7 +9780,7 @@ brigandish
 bisubstituted
 benzoquinone
 bisubstitution 1
-babblingly
+babblingly 1
 bubblebow
 bisulfate
 biblioklept
