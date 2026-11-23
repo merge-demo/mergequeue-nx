@@ -19331,7 +19331,7 @@ cropland
 cavillatory
 conscriptionist
 cosalite 1
-colophonic
+colophonic 1
 colophons
 coloppe
 chrimsel
