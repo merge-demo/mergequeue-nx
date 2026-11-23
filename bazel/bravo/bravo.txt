@@ -1766,7 +1766,7 @@ bilanders
 brachman
 burdie 1
 bamboula
-banterer
+banterer 1
 boswellized
 bowmen
 balanops
