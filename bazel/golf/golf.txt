@@ -8090,7 +8090,7 @@ guglets
 gymnophobia 1
 glomming
 groaning
-gamiest 1
+gamiest 2
 garau
 gratulating
 gads
