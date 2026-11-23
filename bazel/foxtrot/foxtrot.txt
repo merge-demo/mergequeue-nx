@@ -4060,7 +4060,7 @@ febris
 finishes
 fultz
 formenic
-foyaitic
+foyaitic 1
 fibered
 frimaire
 festoony
