@@ -819,7 +819,7 @@ abruptness
 apptd
 ambilogy
 algarot
-authoritatively
+authoritatively 1
 additur
 anisogeny
 abstruse
