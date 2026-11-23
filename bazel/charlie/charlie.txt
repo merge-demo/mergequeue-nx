@@ -2450,7 +2450,7 @@ cropsickness
 cherubically
 cancion
 cancionero
-canciones
+canciones 1
 cancri
 charivaried 1
 coacervation
