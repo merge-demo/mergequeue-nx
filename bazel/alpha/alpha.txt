@@ -3941,7 +3941,7 @@ absconding
 adjures 1
 aspersorium
 autotyphization
-acanthine
+acanthine 1
 absinthes
 adjust
 animalculum
