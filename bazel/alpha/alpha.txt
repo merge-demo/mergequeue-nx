@@ -5235,7 +5235,7 @@ affiance
 angakok
 antievolutionistic 1
 affiants
-affiches
+affiches 1
 affidare
 affidation
 altropathy
