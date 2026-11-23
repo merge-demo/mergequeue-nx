@@ -5883,7 +5883,7 @@ catercornered
 craner
 catered
 codpiece
-caterer
+caterer 1
 caterers
 cytolymph
 cateringly
