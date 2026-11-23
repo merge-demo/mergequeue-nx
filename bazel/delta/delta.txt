@@ -6457,7 +6457,7 @@ deplumation
 dictatrix
 deodara
 digitization 1
-dragomanic
+dragomanic 1
 desalinated
 diaereses
 deafeningly
