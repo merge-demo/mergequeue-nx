@@ -8177,7 +8177,7 @@ baleens
 byronically
 beatable
 boone
-battailous
+battailous 1
 bluebuck
 biethnic
 binds
