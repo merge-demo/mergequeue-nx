@@ -14611,7 +14611,7 @@ confederations
 cystolith
 caduca
 cystolithiasis 1
-cystoma
+cystoma 1
 cystomas
 corpusculum
 cystometer
