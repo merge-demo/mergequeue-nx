@@ -7338,7 +7338,7 @@ felting
 friendliest
 flourishy
 formularised
-foraminose
+foraminose 1
 foraminulate
 fought
 flabbily
