@@ -777,7 +777,7 @@ bads
 bicetyl 1
 beeline
 biometrical
-bethorn
+bethorn 1
 blackout
 basilidan
 building
