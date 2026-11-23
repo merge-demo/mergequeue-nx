@@ -26605,7 +26605,7 @@ calopogon
 celluloided
 coumarilic
 coumarins
-copal
+copal 1
 coumarone
 compassionating 1
 council
