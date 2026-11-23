@@ -8242,7 +8242,7 @@ gnosticism
 greater
 gallowsmaker
 grossers
-glam
+glam 1
 geranin
 grouthead
 glucosan
