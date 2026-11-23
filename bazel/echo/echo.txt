@@ -3176,7 +3176,7 @@ exocoelom
 epigonousepigons
 entheasm
 euphenics 1
-elongation
+elongation 1
 edict
 extortionists
 epiplastral
