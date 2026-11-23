@@ -3996,7 +3996,7 @@ fictionally
 fibres
 fraulein 1
 friarling
-february
+february 1
 fairydom
 felicitation
 frontlessness
