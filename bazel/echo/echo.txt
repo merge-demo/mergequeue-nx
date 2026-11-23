@@ -1092,7 +1092,7 @@ evaluates
 envined
 edificatory
 epimerize 1
-elliptic
+elliptic 1
 edificed
 enlightens
 essayish
