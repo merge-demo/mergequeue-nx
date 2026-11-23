@@ -4074,7 +4074,7 @@ anisosthenic
 aldrin
 admits
 admittance
-admitted
+admitted 1
 agitpunkt
 ardoise
 ampliation
