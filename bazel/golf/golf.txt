@@ -8390,7 +8390,7 @@ gadolinite
 gunport
 gallivanting
 genipa 1
-galeeny
+galeeny 1
 gyroscopically
 gaucherie
 gawby
