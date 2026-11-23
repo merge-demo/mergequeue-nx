@@ -5942,7 +5942,7 @@ fowlpoxes 1
 freakiness
 fichtean
 foggers
-falstaffian
+falstaffian 1
 flatwash
 foreworld
 floodgates
