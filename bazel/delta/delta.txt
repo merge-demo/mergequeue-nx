@@ -2937,7 +2937,7 @@ duodecimals
 dedicatory
 despitous
 dedicatorily
-doggoner
+doggoner 1
 dedicators
 deaconry
 dewar
