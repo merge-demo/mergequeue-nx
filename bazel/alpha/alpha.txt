@@ -5585,7 +5585,7 @@ acetylcholinic
 almagests
 aftershocks
 alexandria
-aftersound
+aftersound 1
 anterevolutional
 afterspring
 anatron
