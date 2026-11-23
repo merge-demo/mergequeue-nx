@@ -4919,7 +4919,7 @@ frequentable
 flambeau 1
 foamier
 fixate
-fossilist
+fossilist 1
 finisher
 floreat
 forbearers
