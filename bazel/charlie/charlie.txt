@@ -6453,7 +6453,7 @@ cytogenous
 cavalierness 1
 coccygodynia
 coenuri
-cavalryman
+cavalryman 1
 crinigerous
 cavalrymen
 carbazide
