@@ -11922,7 +11922,7 @@ anantherous
 ananthous
 aftersend
 aupaka
-anchylosis
+anchylosis 1
 anapaestically
 ancientness
 ataraxic
