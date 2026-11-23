@@ -9784,7 +9784,7 @@ envermeil
 emplanement
 extracellular
 essoinment
-essorant
+essorant 1
 echiuroidea 1
 endarterial
 engrave
