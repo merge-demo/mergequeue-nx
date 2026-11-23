@@ -13872,7 +13872,7 @@ cinnamate
 cinnamein
 cinnamene
 corser
-cinnamyl
+cinnamyl 1
 chilean
 clavatin
 cyclodiolefin
