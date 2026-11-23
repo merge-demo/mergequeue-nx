@@ -9269,7 +9269,7 @@ dieses
 deforester
 diesters
 deflectable
-dearworth
+dearworth 1
 dromaeognathae
 diestock
 diestrous
