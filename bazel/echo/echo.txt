@@ -1093,7 +1093,7 @@ envined
 edificatory
 epimerize 1
 elliptic
-edificed
+edificed 1
 enlightens
 essayish
 edifying

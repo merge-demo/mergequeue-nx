@@ -3336,7 +3336,7 @@ definish
 decolored
 decapitalization
 definite
-definitely
+definitely 1
 distrait
 definiteness
 dahlin
