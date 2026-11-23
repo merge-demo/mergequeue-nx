@@ -4265,7 +4265,7 @@ didunculus
 dishonored
 dipperful
 detribalized
-decorously
+decorously 1
 deratized
 debruising
 disyllabic
