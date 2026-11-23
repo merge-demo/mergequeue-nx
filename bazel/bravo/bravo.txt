@@ -12946,7 +12946,7 @@ boleros
 bucktails
 berthold
 boardinghouses 1
-bootman
+bootman 1
 boots
 bottoms
 blouson
