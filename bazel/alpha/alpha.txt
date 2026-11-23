@@ -5206,7 +5206,7 @@ aloeswood
 aratinga
 affection
 apostasies
-arbutinase
+arbutinase 1
 atoneness
 affectional
 affectionally
