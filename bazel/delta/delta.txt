@@ -10052,7 +10052,7 @@ diselectrify 1
 dozier
 dishonour
 deled
-damply
+damply 1
 dedal
 dogfought 1
 definitization
