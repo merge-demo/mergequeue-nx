@@ -8366,7 +8366,7 @@ bashawdom
 bigwig
 bigwiggery
 biomass
-beryllia
+beryllia 1
 babu
 brachygraphic
 baronetized
