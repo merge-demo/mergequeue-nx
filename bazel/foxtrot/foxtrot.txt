@@ -11265,7 +11265,7 @@ furans
 furacious
 file
 farces
-frabjous
+frabjous 1
 fernando
 flatters
 furanoid
