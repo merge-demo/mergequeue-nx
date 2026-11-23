@@ -9934,7 +9934,7 @@ guaranties
 gradgrindism
 gymnite
 giddea
-gulleting
+gulleting 1
 guardable
 guardedness
 gastroparalysis
