@@ -26115,7 +26115,7 @@ cressy 1
 coattail
 cosmists
 cosmo 1
-cosmochemical
+cosmochemical 1
 consanguineal
 cheese
 cosmocracy
