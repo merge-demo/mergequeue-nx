@@ -2391,7 +2391,7 @@ gentianal
 gilver 1
 geminates
 gote
-gaulish
+gaulish 1
 gambadoes
 gobioidei
 geminid
