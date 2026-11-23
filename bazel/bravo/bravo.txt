@@ -7042,7 +7042,7 @@ besottedly
 boweled
 bombidae
 bola
-byre
+byre 1
 beknots
 biodegrade
 barbute
