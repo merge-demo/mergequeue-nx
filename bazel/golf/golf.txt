@@ -1376,7 +1376,7 @@ glyoxylic 1
 ghastly
 glugglug 1
 garotters
-garnetlike
+garnetlike 1
 grabbles
 gaulin
 gorb
