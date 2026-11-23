@@ -12776,7 +12776,7 @@ disloyally
 disloyalty
 decrepity 1
 doored
-disloyalties
+disloyalties 1
 dislove
 dandlingly
 delimiters
