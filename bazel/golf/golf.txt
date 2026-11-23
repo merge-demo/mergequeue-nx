@@ -7871,7 +7871,7 @@ glochis
 gour
 gardevin
 greece
-galvanometrical 1
+galvanometrical 2
 groom
 grammarless
 grammaticaster
