@@ -26507,7 +26507,7 @@ cephalically
 colorations
 cotton
 cottonbush
-chumpishness
+chumpishness 1
 cogitantly
 crockeries
 cottonian
