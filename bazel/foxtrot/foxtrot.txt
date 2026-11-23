@@ -11253,7 +11253,7 @@ funnels
 fourer
 funny
 fundamentality
-flagellants
+flagellants 1
 frumaryl 1
 filibusterer
 fenks 1
