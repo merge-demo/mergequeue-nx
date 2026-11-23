@@ -12706,7 +12706,7 @@ duma
 drawshave
 dislikeness
 disdar
-dikage
+dikage 1
 disliker
 dioicously
 drizzle
