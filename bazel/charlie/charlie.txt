@@ -4977,7 +4977,7 @@ cartoner 1
 cartonful
 covinously
 crimmers
-carpitis
+carpitis 1
 cartons
 cartoonist
 chrysomonadina
