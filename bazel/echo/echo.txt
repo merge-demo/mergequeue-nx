@@ -2373,7 +2373,7 @@ electroplating
 expostulate 1
 electroplates
 ecumenical
-emulsifying
+emulsifying 1
 egba
 episteme
 electrocolloidal
