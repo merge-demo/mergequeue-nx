@@ -7836,7 +7836,7 @@ exsiccator 1
 elegiambic
 epicarps
 empyocele
-exoerythrocytic
+exoerythrocytic 1
 epigone
 epithelium
 exarchate
