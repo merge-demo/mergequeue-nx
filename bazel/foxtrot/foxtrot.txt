@@ -727,7 +727,7 @@ famuli
 frustrater 1
 fana
 feoffment
-fluxion
+fluxion 1
 feministics
 fragmentate
 fertilizes
