@@ -1101,7 +1101,7 @@ darwesh
 demotist
 drillers
 douce 1
-diphtherial
+diphtherial 1
 defaisance
 denudates
 dentalium
