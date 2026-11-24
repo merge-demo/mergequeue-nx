@@ -13759,7 +13759,7 @@ anoopsia
 anopheles
 anophelinae
 anophoria
-anaptyctic
+anaptyctic 1
 anophthalmos
 acoumeter
 allobroges
