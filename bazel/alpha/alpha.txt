@@ -6435,7 +6435,7 @@ aurochloride
 anthotaxy
 anerly
 arguta
-asthenopia
+asthenopia 1
 apneas
 aguacateca
 antidynastically
