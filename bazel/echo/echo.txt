@@ -7319,7 +7319,7 @@ epagomenae
 equerryship
 epagomenous
 electro
-eumitosis
+eumitosis 1
 epochism
 escalier
 exception
