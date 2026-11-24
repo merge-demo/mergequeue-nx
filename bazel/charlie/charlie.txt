@@ -19833,7 +19833,7 @@ comets
 ceral
 condylomata
 comeuppances
-comfy
+comfy 1
 clamorously
 comfier
 calamites
