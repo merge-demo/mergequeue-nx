@@ -631,7 +631,7 @@ alastrim 1
 astrologic
 acetoamidophenol
 affranchisement
-angulate
+angulate 1
 abolitionised
 aglyphodonta
 abolitionist
