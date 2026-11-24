@@ -31643,7 +31643,7 @@ circumambulating
 coconucan
 curvograph
 cancelier
-curvometer
+curvometer 1
 cheeker
 carduelis
 conscripttion
