@@ -14194,7 +14194,7 @@ desquamate
 disbranching
 diapensiaceous
 disuses
-disutility
+disutility 1
 disutilize
 doldrum
 dramatists
