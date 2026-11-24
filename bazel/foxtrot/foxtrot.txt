@@ -1828,7 +1828,7 @@ firebreaks
 feudalize 1
 fractured
 flabellum
-fating
+fating 1
 feedbags
 flexographic
 frostnipped
