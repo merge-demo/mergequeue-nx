@@ -2901,7 +2901,7 @@ cantabrigian
 cantalever
 cantaliver
 cackled
-cantaloup
+cantaloup 1
 careerer
 cantaloupes
 catboat
