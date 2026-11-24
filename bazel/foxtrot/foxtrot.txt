@@ -9279,7 +9279,7 @@ frapler
 forename
 footmenfootpad
 fungologist
-fumarine
+fumarine 1
 foldwards
 fogrum 1
 foldboats
