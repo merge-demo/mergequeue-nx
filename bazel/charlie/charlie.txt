@@ -14300,7 +14300,7 @@ circumplication
 cacciatore
 clavierist
 circumpose
-condite
+condite 1
 circumquaque
 circumradius
 circumradiuses
