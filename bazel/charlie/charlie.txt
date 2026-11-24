@@ -3422,7 +3422,7 @@ capricornid
 conditotoria
 centon
 cedarware 1
-caprificate
+caprificate 1
 canyon
 caprifig
 constructionally
