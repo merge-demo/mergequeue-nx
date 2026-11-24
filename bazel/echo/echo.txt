@@ -9251,7 +9251,7 @@ endospermous
 entrapments
 egressing
 electra
-exonerative
+exonerative 1
 exarch
 errants
 espinette
