@@ -10512,7 +10512,7 @@ antisensuous
 amidoazo
 anchoic
 amidofluorid
-aperulosid
+aperulosid 1
 amidogen
 amidoguaiacol
 awabakal
