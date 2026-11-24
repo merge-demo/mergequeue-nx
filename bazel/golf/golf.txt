@@ -9099,7 +9099,7 @@ gappy
 galactidrosis
 giraffa 1
 glairiness
-garishness
+garishness 1
 gherkin
 gentlehood
 grinch
