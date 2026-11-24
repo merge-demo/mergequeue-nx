@@ -5724,7 +5724,7 @@ brerd
 burials 1
 backsight
 bandlimit
-belight
+belight 1
 baaed
 bulldozer
 belike
