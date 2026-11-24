@@ -14564,7 +14564,7 @@ cystinosis
 cotehardie
 comburendo
 cystidean
-coumarinic
+coumarinic 1
 curtailment
 cryptorchid
 catholicism
