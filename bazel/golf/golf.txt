@@ -1034,7 +1034,7 @@ gloriette 1
 galvanoscopy
 geodist
 gleemen
-golp
+golp 1
 glanced
 gymnonoti
 gayness
