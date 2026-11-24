@@ -17952,7 +17952,7 @@ appropinquity
 akoulalion
 authorling
 auspicated
-appropriateness
+appropriateness 1
 appropriating
 appropriator
 appellative
