@@ -10636,7 +10636,7 @@ delisting
 diplonts
 diplophase 1
 difficultness
-dosology
+dosology 1
 deviously
 dulias
 draying
