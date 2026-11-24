@@ -26811,7 +26811,7 @@ counterenergy
 counterengagement
 corporator
 cambiogenetic
-counterengine
+counterengine 1
 counterenthusiasm 1
 counterentry
 counterequivalent 1
