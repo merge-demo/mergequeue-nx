@@ -13247,7 +13247,7 @@ disposement
 disposers
 dislocator
 dicrotic
-dispositional
+dispositional 1
 disharmonical
 decentralisation
 dispositions
