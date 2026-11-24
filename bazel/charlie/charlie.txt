@@ -29512,7 +29512,7 @@ crystallurgy
 ceruminiferous
 companion
 coroniform
-crushed
+crushed 1
 chithe
 cryste
 counterattired
