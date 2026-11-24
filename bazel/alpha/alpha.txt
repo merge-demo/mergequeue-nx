@@ -758,7 +758,7 @@ accordatura
 asperation
 attuning
 apogalacteum
-abrasively
+abrasively 1
 abrazite
 antirevolutionaries
 antipolitically
