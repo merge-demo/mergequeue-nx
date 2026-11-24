@@ -11089,7 +11089,7 @@ flockless 1
 functionnaire
 functors 1
 formational
-foulard
+foulard 1
 functus
 furivae
 fessewise
