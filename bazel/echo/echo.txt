@@ -5248,7 +5248,7 @@ equestrianism 1
 equinely
 entier
 erythrogen
-encinder
+encinder 1
 endoparasitica
 etiotropically
 endopathic
