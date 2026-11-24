@@ -8160,7 +8160,7 @@ dakotans
 doutous
 deciduae
 decasualize
-detribalize
+detribalize 1
 disruptively
 deferrization
 diachronic
