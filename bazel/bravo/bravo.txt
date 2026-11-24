@@ -11486,7 +11486,7 @@ bluffing
 barish
 baba
 banyoro
-bigamous
+bigamous 1
 begged
 branchiostegan
 bathometer
