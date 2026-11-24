@@ -890,7 +890,7 @@ biacromial 1
 bechanced
 bagmaker
 bagnes
-bastnaesite
+bastnaesite 1
 breakaway
 burdies 1
 broommaking
