@@ -19611,7 +19611,7 @@ circumaction
 coitional
 columning
 cuttling
-columnist
+columnist 1
 columnistic
 coach
 columnists
