@@ -899,7 +899,7 @@ endopolyploidy
 ectosarc
 essoining
 exercises 1
-extensivity
+extensivity 1
 eschewing
 expeditionary
 enures
