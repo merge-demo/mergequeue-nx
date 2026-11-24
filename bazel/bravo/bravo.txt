@@ -12286,7 +12286,7 @@ backwardly
 boltwork
 bolus
 bomb
-barratrous 1
+barratrous 2
 bombacaceae
 bombace
 behang
