@@ -79,7 +79,7 @@ earmuff 1
 earnable
 essayer
 ecclesiology
-earnest 1
+earnest 2
 extendable
 elelments
 eusporangiate
