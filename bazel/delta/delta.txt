@@ -17457,7 +17457,7 @@ definitude
 datums
 deertongue
 delegatee
-drove
+drove 1
 drovers
 dereism
 drownd
