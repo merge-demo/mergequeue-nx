@@ -21437,7 +21437,7 @@ caseful
 chapellage 1
 concoagulate
 congestions
-cannibality
+cannibality 1
 concoct
 caravan
 crackable
