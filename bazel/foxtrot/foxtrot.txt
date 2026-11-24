@@ -2440,7 +2440,7 @@ fringillid 1
 freebooty 1
 fibrously
 foh
-fingu
+fingu 1
 frontwise
 foreproduct
 fermentable
