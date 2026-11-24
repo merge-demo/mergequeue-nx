@@ -1305,7 +1305,7 @@ fanaticise
 findability
 fernambuck
 fibromata 1
-functionarism
+functionarism 1
 foreconsent
 feculency 1
 fulvous
