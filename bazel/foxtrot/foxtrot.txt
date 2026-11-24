@@ -121,7 +121,7 @@ flocks
 facilitation 1
 fluosilicate
 facilitative
-fashionist
+fashionist 1
 federated
 fiat
 flavourfully
