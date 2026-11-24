@@ -21756,7 +21756,7 @@ albanenses
 assertable 1
 antinganting
 assagaied
-awesomely
+awesomely 1
 amphitheater
 asserter
 adscription
