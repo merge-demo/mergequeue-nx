@@ -9505,7 +9505,7 @@ gecking 1
 groutier 1
 gaes
 gins
-gyving
+gyving 1
 gyroscope
 groupwise
 garvey
