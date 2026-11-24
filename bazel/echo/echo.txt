@@ -12214,7 +12214,7 @@ ephemera
 execute
 executed
 exceptor
-extravagancies
+extravagancies 1
 eras
 epitrichium
 elachistaceae
