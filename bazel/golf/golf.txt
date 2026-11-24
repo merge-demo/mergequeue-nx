@@ -1987,7 +1987,7 @@ gripes
 grudged
 ghastlier
 guttable
-gonif
+gonif 1
 galician
 goschens
 gryphaea
