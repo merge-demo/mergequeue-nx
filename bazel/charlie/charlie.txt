@@ -6029,7 +6029,7 @@ catholicness
 centricipital
 cylindroogival
 catholicoi
-catholicon
+catholicon 1
 clinkers
 catholicos
 curarize
