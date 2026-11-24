@@ -10940,7 +10940,7 @@ dodecahydrated
 disacquaint
 dayglows
 dampishly
-datolite
+datolite 1
 diallist
 deuterocone
 dispenses
