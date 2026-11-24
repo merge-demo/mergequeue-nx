@@ -2778,7 +2778,7 @@ cannie
 cagui
 cannier
 canning 1
-cannings
+cannings 1
 chiccories
 cannister
 cannisters
