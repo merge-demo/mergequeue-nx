@@ -21657,7 +21657,7 @@ atrophiated
 amblyopsidae
 assart
 antistriker
-assassinate
+assassinate 1
 azoeosin
 achromats
 afikomen
