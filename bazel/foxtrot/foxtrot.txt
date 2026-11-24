@@ -4868,7 +4868,7 @@ fasting
 frabbit
 forearm
 froglet
-flagellatory
+flagellatory 1
 ferocities
 formalness
 followable
