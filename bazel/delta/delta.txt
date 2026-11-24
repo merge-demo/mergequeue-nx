@@ -11668,7 +11668,7 @@ didest
 demiditone
 dishexecontahedroid
 discost
-digitally
+digitally 1
 discotheque
 discothque
 disengirdle
