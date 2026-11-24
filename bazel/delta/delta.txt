@@ -5724,7 +5724,7 @@ dictyoid 1
 dried
 dipneumonous
 decastich
-dysthymia
+dysthymia 1
 drepanid
 demit
 deplorabilia
