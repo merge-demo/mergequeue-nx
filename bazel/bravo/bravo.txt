@@ -10929,7 +10929,7 @@ blinkard 1
 blesbuck
 bedlamism
 blinkards
-bowses
+bowses 1
 basta
 beaneries
 beckets
