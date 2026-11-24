@@ -6433,7 +6433,7 @@ duce
 deruinate
 derust
 decameronic
-dispathy
+dispathy 1
 dervishism
 des
 dispensative
