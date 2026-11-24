@@ -15402,7 +15402,7 @@ antiliturgy
 aspiculous 1
 amla
 affixt
-adjutancy
+adjutancy 1
 affirmed
 arbitrator
 atmiatrics
