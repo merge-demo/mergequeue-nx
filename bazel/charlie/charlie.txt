@@ -12031,7 +12031,7 @@ chorook
 cyclops
 choroti
 chorous
-chort
+chort 1
 chortle
 chondrodite
 chortlers
