@@ -765,7 +765,7 @@ enabling 1
 embryoctony
 equilibrist
 easternizing
-ecoute
+ecoute 1
 exscinding
 ecphonema
 emotes
