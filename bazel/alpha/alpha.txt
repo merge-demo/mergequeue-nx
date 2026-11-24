@@ -301,7 +301,7 @@ addleplot
 abnormals
 abdominoscopy 1
 agas
-admiratively
+admiratively 1
 abdominothoracic
 acquiescent
 astoundment
