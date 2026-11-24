@@ -14907,7 +14907,7 @@ drogue
 dolph
 dodecane 1
 domeykite
-disciplelike
+disciplelike 1
 dodecapartite
 dodecaphonic
 diverts
