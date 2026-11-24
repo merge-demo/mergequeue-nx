@@ -13593,7 +13593,7 @@ eisegesis
 edriophthalmian
 exarteritis
 electropyrometer
-expulsory
+expulsory 1
 ectad
 exiledom
 eyeblink
