@@ -2232,7 +2232,7 @@ adcraft
 achromatosis
 akinesia
 achromobacter 1
-acyrological
+acyrological 1
 achromoderma
 abovesaid
 amygdalolith
