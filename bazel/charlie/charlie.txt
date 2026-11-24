@@ -26681,7 +26681,7 @@ concrescent
 counteractivity 1
 columbium
 choked
-counterintelligence 1
+counterintelligence 2
 counterexpostulation
 counteradvance
 colossuswise
