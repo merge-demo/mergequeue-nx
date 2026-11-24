@@ -3817,7 +3817,7 @@ ensindon
 exclam
 electrized
 ekerite
-enterprisingly
+enterprisingly 1
 expiratory
 esthetical
 emparl
