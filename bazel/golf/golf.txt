@@ -9833,7 +9833,7 @@ gymnotid 1
 guaiaconic
 glebous
 guesstimated
-guayaqui
+guayaqui 1
 gawcie
 goldbrick
 ghebeta
