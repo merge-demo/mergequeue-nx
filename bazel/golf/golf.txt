@@ -7966,7 +7966,7 @@ galvanotaxis
 glossina
 goniatitid
 gynecologic
-getups
+getups 1
 grippy
 glandiform
 grandiosity
