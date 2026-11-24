@@ -4732,7 +4732,7 @@ aenigmatite
 ated
 alluvial
 annotater
-alveolarly
+alveolarly 1
 ambrotype
 aeolist
 aeolus
