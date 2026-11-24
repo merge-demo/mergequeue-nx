@@ -6482,7 +6482,7 @@ diffusedly 1
 deranged
 descanted
 descants
-discourtesies
+discourtesies 1
 diastatic 1
 denunciatory
 dime
