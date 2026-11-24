@@ -6754,7 +6754,7 @@ enthralldom 1
 exurb
 enormously
 enveloping
-esterifies
+esterifies 1
 euhemerise
 echidnae
 epitaxially
