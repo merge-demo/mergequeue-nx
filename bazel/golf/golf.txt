@@ -4217,7 +4217,7 @@ gymnotus 1
 gutling
 geomagnetic
 gimped
-gimpier
+gimpier 1
 guidable 1
 galactolytic
 gippers
