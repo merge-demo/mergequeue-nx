@@ -1697,7 +1697,7 @@ dears
 dottard
 dupability
 disadvantage
-dignity 1
+dignity 2
 disentrain
 dispond
 duckstone
