@@ -2277,7 +2277,7 @@ acider
 anaphoric
 azimech
 acidy
-acetamid
+acetamid 1
 acidiferous
 argil
 aneurin
