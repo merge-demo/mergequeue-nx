@@ -24946,7 +24946,7 @@ corbet
 corby
 cannet
 cystine
-chummiest
+chummiest 1
 corbicula
 corbiculate 1
 cellulolytic
