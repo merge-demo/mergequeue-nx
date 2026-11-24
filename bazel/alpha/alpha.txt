@@ -17950,7 +17950,7 @@ amalgamation
 ahind
 appropinquity
 akoulalion
-authorling
+authorling 1
 auspicated
 appropriateness
 appropriating
