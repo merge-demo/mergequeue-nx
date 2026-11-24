@@ -612,7 +612,7 @@ emetics
 eurypharynx
 euro
 eciton
-eversions 1
+eversions 2
 entertained
 eclaircissement
 epeus
