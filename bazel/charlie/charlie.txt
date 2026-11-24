@@ -12138,7 +12138,7 @@ chria
 chris
 calibogus
 caraunda
-chrysalid
+chrysalid 1
 coronet
 chrysalida
 cascarilla
