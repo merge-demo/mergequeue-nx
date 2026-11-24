@@ -10397,7 +10397,7 @@ geshurites
 gayish
 greypate
 generalisable
-graciousness
+graciousness 1
 glyptological 1
 greenstuff
 gyracanthus
