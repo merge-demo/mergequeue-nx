@@ -6444,7 +6444,7 @@ finery
 flapjack
 fluorotic
 firring
-floretty
+floretty 1
 fisherboat
 feltman
 froisse
