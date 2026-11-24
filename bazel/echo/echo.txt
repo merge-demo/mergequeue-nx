@@ -3634,7 +3634,7 @@ embranchment
 ellick
 evestar
 enriching
-expositive 1
+expositive 2
 emotionalised 1
 eudaemonize
 elatinaceous
