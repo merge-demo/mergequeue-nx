@@ -4667,7 +4667,7 @@ eddies
 excretionary
 enrapting
 eustachian
-exinanite
+exinanite 1
 eristalis
 epidermophyton
 enchorial
