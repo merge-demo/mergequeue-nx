@@ -5828,7 +5828,7 @@ grinny
 geometrize
 gorgeable
 gaupus
-glissades 1
+glissades 2
 greggle
 gather
 gedrite
