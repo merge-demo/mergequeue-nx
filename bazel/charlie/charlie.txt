@@ -6037,7 +6037,7 @@ coraciiform
 cleg
 cyanide 1
 catholyte
-cathouse
+cathouse 1
 carryable
 cathouses
 crownling
