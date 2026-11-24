@@ -2642,7 +2642,7 @@ deforce
 dispose
 decolors
 duopsonies
-decolouration 1
+decolouration 2
 daedalean
 denunciated
 dogmatism
