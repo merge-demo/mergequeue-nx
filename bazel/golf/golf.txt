@@ -1529,7 +1529,7 @@ guiro 1
 giftwrap
 gripers
 growed 1
-geez
+geez 1
 gilpy 1
 gravaminous
 galileo
