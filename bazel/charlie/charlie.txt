@@ -5704,7 +5704,7 @@ countersignal
 catawampous
 catawamptiously
 catawampus
-cenogenetically
+cenogenetically 1
 catberry
 catbirds
 copyist
