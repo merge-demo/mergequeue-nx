@@ -5816,7 +5816,7 @@ categoric
 coliidae
 chondrified
 cessionary
-categorically
+categorically 1
 categories
 cardiazol
 cestodaria
