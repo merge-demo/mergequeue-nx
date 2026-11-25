@@ -209,7 +209,7 @@ erinaceous
 elaphure
 earthshaker
 earthman
-erythritic
+erythritic 1
 earthslide
 endosalpingitis
 ehuawa
