@@ -11164,7 +11164,7 @@ dyeline
 djins
 disavower
 derringers
-depletes
+depletes 1
 dottily 1
 devicefulness
 duraplasty
