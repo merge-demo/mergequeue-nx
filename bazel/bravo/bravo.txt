@@ -140,7 +140,7 @@ biocoenosis
 beeheaded 1
 beachcomb
 butyrically
-bestab
+bestab 1
 backlog
 bashara
 bethylidae
