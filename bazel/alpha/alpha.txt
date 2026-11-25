@@ -19803,7 +19803,7 @@ armatoles
 arsphenamine
 armatures
 albation
-anarchal
+anarchal 1
 arcane
 averrer
 ast
