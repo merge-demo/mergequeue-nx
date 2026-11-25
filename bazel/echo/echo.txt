@@ -11518,7 +11518,7 @@ evincible
 ectopterygoid
 elegancies
 epicurean 1
-elastometer
+elastometer 1
 emcee
 enforced
 encheiria
