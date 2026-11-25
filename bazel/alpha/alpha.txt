@@ -11149,7 +11149,7 @@ ashkenazi
 antisun
 amphibiety
 azimuthally
-artifices 1
+artifices 2
 aquatinting
 avolation
 amphibole
