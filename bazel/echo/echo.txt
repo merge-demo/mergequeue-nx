@@ -12484,7 +12484,7 @@ exilement
 escalading
 escheatable
 exility
-exanthem
+exanthem 1
 eyestones
 educatory
 enneadic
