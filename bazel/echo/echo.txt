@@ -1904,7 +1904,7 @@ errata 1
 eximiousness
 encashes
 enwisen
-evanescency
+evanescency 1
 eulogically
 expulsion
 ethnics
