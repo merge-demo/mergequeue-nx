@@ -23529,7 +23529,7 @@ cornmonger
 clistocarpous
 cathood
 contextually 1
-contextural
+contextural 1
 chrysochlore
 comicodidactic
 contextured
