@@ -7314,7 +7314,7 @@ breve
 betels
 beamiest
 bethanking
-bigotish
+bigotish 1
 bethankit
 bethel
 brehon
