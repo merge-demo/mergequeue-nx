@@ -1461,7 +1461,7 @@ generical 1
 grillages
 glamouring 1
 gasalier
-gaoler
+gaoler 1
 gowks
 gamma
 gerousia
