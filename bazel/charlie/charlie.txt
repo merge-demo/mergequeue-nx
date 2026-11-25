@@ -31423,7 +31423,7 @@ curlicue
 choriambize
 cosmogonist
 candied
-curlycues
+curlycues 1
 crouton 1
 cycladic
 curlike
