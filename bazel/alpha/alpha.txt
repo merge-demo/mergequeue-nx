@@ -21599,7 +21599,7 @@ adjudgment 1
 automolite
 alkyl
 allegement
-antiphonaries
+antiphonaries 1
 angary
 allegorist
 asporogenic
