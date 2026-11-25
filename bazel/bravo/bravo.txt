@@ -4546,7 +4546,7 @@ bathroot
 bater 1
 bool
 bedabble
-beagles
+beagles 1
 barricadoed
 biggening
 behavioristic
