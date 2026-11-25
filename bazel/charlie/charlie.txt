@@ -17235,7 +17235,7 @@ chambrel
 curseder
 coalier
 coaliest
-coenzymatically
+coenzymatically 1
 coalify
 caperer
 coalification
