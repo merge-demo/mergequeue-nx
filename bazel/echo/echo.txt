@@ -10981,7 +10981,7 @@ epigastric
 eurasianism
 eremites
 endocervicitis
-excludes
+excludes 1
 electrizing
 eurhythmic
 epichirema
