@@ -17522,7 +17522,7 @@ autonomic
 anhydrize
 anacoluthically 1
 acerbest
-archipelagoes
+archipelagoes 1
 abeyancy
 anthracaemia
 afar
