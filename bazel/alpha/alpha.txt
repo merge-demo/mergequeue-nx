@@ -21874,7 +21874,7 @@ assyroid 1
 agly
 abutted
 assish
-averrhoa
+averrhoa 1
 assishly
 aculeated
 adapted
