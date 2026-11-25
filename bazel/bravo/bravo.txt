@@ -14784,7 +14784,7 @@ brazier
 bern 1
 barres
 ballooner
-bombable
+bombable 1
 burgheress
 baru
 brava
