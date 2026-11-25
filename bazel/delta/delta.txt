@@ -7473,7 +7473,7 @@ dynasticism 1
 deposal
 detune
 detuning
-diastrophic
+diastrophic 1
 dragooned
 diosma
 dunderpates
