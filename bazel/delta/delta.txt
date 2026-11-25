@@ -2897,7 +2897,7 @@ deerlike
 decurion
 dispensatories 1
 demented
-diorthosis
+diorthosis 1
 deathling
 decurrences
 defeminising
