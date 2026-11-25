@@ -1669,7 +1669,7 @@ arriccios
 accueil
 acculturate
 acculturated
-acculturates
+acculturates 1
 astr
 anorganic 1
 alkalimeter
