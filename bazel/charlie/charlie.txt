@@ -11110,7 +11110,7 @@ chitterling 1
 chutney
 chitters
 capillaries
-chiurm
+chiurm 1
 chiv
 chivachee
 confirmand
