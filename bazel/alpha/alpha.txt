@@ -2522,7 +2522,7 @@ acondylose 1
 amicable
 artisan
 abeyant
-aconelline
+aconelline 1
 assentatory 1
 aconine
 afdecho
