@@ -12485,7 +12485,7 @@ coincidences
 chromonematal
 cataphracti
 chromoparous
-chromophage
+chromophage 1
 chromophane
 coopee
 chromophil
