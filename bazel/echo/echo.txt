@@ -12760,7 +12760,7 @@ eidos
 euhemeristically 1
 eucarpous
 eremochaetous
-emperess
+emperess 1
 entertissue
 exorcism
 elacolite
