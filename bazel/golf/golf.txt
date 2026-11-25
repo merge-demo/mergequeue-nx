@@ -533,7 +533,7 @@ galipoidin
 guzzles
 galleins 1
 gomphocarpus
-getters
+getters 1
 gnetaceous
 gamodemes
 galler 1

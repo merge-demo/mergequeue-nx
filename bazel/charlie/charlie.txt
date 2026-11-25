@@ -14150,7 +14150,7 @@ circulations
 circulative
 consciencelessness
 crisscrossing
-coxalgies
+coxalgies 1
 concentricity
 catatonia
 circulators
