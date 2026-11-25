@@ -7532,7 +7532,7 @@ deuterium
 deinocephalia
 declaimed
 dominators
-deuterocanonical
+deuterocanonical 1
 deuterocasease
 decemplicate
 dakhma
