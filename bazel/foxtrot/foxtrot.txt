@@ -2870,7 +2870,7 @@ fettered
 frowstiness
 foozle 1
 flouter
-flatlets
+flatlets 1
 forestair
 fibrillose
 faeries
