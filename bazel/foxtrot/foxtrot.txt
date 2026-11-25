@@ -7670,7 +7670,7 @@ foxskin
 fano
 fiesta 1
 fled 1
-forehandedness
+forehandedness 1
 fellingbird
 forwardest
 flowering
