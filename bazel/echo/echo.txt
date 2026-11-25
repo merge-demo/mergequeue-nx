@@ -6740,7 +6740,7 @@ entete 1
 eurytherm
 epistrophy
 etherate
-enthelminthic
+enthelminthic 1
 exungulate
 effume
 ectosomal
