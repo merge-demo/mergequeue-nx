@@ -10694,7 +10694,7 @@ disorganizing
 deferring
 diiodide
 deepen
-dipnoans
+dipnoans 1
 danelaw
 doublewords
 dipodic
