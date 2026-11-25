@@ -16337,7 +16337,7 @@ dismasts
 dicoelous 1
 daven
 dismount
-divergently
+divergently 1
 discinoid
 downsizing
 defensible
