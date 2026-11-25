@@ -2768,7 +2768,7 @@ feddans
 festinance 1
 festoonery
 foretellable
-familistere
+familistere 1
 fuddlebrained
 forgivingness
 featness
