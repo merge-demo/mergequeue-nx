@@ -5612,7 +5612,7 @@ carnality
 catalogist
 catalogistic
 conquinamine
-catalogize
+catalogize 1
 coleplant
 constabulary
 cataloguing
