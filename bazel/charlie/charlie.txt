@@ -14976,7 +14976,7 @@ contaminous
 citron
 cenobium
 carbonium 1
-citronalis
+citronalis 1
 comparison 1
 citronellol
 citronin
