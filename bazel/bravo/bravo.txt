@@ -2669,7 +2669,7 @@ barm
 bollixes 1
 begrimming
 bututs
-barmaster 1
+barmaster 2
 bergalith
 benzoic
 brutus
