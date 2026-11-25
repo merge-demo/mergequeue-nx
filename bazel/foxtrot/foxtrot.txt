@@ -9849,7 +9849,7 @@ funnelform 1
 fibrosarcoma
 flexanimous
 flexibleness
-flinger
+flinger 1
 fabianism 1
 foulage
 fucatious
