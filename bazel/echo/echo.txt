@@ -13598,7 +13598,7 @@ ectad
 exiledom
 eyeblink
 extemporary
-extemporisation
+extemporisation 1
 ewing
 extraspinal
 extemporized
