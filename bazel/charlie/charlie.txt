@@ -21066,7 +21066,7 @@ comsat
 clostridial
 comsomol
 competingly
-cray 1
+cray 2
 countertheory
 comstockeries
 castanet
