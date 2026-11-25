@@ -3069,7 +3069,7 @@ aphanophyre
 alienable
 antiamusement
 actinon
-antimaterialistic
+antimaterialistic 1
 actinonema
 autacoid
 amphibolia
