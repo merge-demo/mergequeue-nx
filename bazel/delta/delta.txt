@@ -7622,7 +7622,7 @@ devata
 devaul 1
 deoxygenating
 degaussed
-disbursements
+disbursements 1
 doctrinally
 diathermaneity
 devel
