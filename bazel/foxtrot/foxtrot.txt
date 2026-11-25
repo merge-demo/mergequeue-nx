@@ -4251,7 +4251,7 @@ freakishness 1
 fatting 1
 fireplug
 firepot 1
-foreflank
+foreflank 1
 fructoside
 forebooms
 flots
