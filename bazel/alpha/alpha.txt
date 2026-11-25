@@ -22832,7 +22832,7 @@ alterability
 albopannin
 arya
 atmometric
-allheal
+allheal 1
 atmosphereful
 anatomization
 apachite 1
