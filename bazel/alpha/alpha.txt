@@ -23966,7 +23966,7 @@ antarchistic
 aubergistes
 anisopleurous
 allayer
-anethole
+anethole 1
 atheologically 1
 abattage 1
 autobasidiomycetous
