@@ -13292,7 +13292,7 @@ exhaustlessness
 exploitatory 1
 endocrinopath
 episcopy
-expiscate
+expiscate 1
 effie
 exploiting
 exploiture
