@@ -22372,7 +22372,7 @@ canajong
 cataloguish
 corrupable
 conicality
-chordally
+chordally 1
 crookfingered
 coastwards
 calandrinae
