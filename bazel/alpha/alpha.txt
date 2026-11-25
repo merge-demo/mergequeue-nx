@@ -14871,7 +14871,7 @@ arthroempyema
 ankylodactylia
 armer
 anticyclones
-abaculi
+abaculi 1
 anticynical
 asway
 anticipant
