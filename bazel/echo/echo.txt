@@ -717,7 +717,7 @@ expressionable
 epiglottic
 embraciveg
 eosinate
-enneaspermous
+enneaspermous 1
 enabler
 economise
 eschaunge
