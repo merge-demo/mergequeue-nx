@@ -13342,7 +13342,7 @@ bushelman 1
 bughouses
 bathyorographical
 benightedly
-brusquely
+brusquely 1
 bothersomely 1
 bothy
 beatings
