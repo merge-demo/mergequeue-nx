@@ -2304,7 +2304,7 @@ gymnodiniaceae
 galidictis
 ganofs 1
 gelant
-glyceric
+glyceric 1
 ganta
 granulation
 gelatinating
