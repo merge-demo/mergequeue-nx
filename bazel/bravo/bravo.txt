@@ -1567,7 +1567,7 @@ belat
 ballised
 biradial
 britches
-binate
+binate 1
 ballista
 basketlike
 beatinest
