@@ -2086,7 +2086,7 @@ floriculture
 felicitator
 fudger
 frightened
-foredefine
+foredefine 1
 fainty
 fesapo 1
 filletlike
