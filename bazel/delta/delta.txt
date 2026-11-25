@@ -7619,7 +7619,7 @@ disabler 1
 disquiparant
 drapping
 devata
-devaul
+devaul 1
 deoxygenating
 degaussed
 disbursements
