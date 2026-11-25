@@ -5410,7 +5410,7 @@ futurity
 fleabiting
 fledgeling
 fiendhead
-foxfinger 1
+foxfinger 2
 fetis
 fragmentize 1
 forbled
