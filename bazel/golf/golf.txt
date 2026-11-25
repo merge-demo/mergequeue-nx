@@ -2896,7 +2896,7 @@ geobotanic
 gustation
 gradualism 1
 gumpheon
-gomlah
+gomlah 1
 globulite
 gaincope
 gomphoses
