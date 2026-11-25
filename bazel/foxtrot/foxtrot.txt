@@ -8686,7 +8686,7 @@ flapless
 fathomable
 forthgaze
 forthgo
-ferreling 1
+ferreling 2
 footcandle
 foxings
 furlong
