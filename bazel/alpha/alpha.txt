@@ -5449,7 +5449,7 @@ africanoid
 affrettando
 astartian
 aeroview
-asseverative
+asseverative 1
 antifelon
 amalgams
 atharvan
