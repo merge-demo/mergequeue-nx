@@ -7165,7 +7165,7 @@ glycid
 gauming
 gross
 glycolylurea
-genecor
+genecor 1
 gorgeret
 gangrenescent
 gorgia
