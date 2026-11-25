@@ -4770,7 +4770,7 @@ aerations
 abbreviator
 avaunt 1
 anthologizing
-aftermath
+aftermath 1
 asterionella
 acarology
 anaretic
