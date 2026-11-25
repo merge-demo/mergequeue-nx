@@ -20719,7 +20719,7 @@ alody 1
 agrostographic
 alwise
 agrosteral
-aeroscopy
+aeroscopy 1
 articulators
 adfiliate
 abelonian
