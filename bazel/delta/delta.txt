@@ -4061,7 +4061,7 @@ dismissible
 delicatessen
 dynam
 dustoor 1
-dominance
+dominance 1
 delice
 dualistic
 dogcarts
