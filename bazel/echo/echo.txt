@@ -9915,7 +9915,7 @@ eduskunta
 ectrodactylous 1
 epideictical
 extensionist
-electromagnetics
+electromagnetics 1
 exude 1
 exoculated
 enskies
