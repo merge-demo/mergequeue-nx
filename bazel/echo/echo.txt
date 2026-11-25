@@ -429,7 +429,7 @@ exacerbation
 ebullioscopic
 ethenic
 epaxially
-excuse
+excuse 1
 exarchies
 eburin
 exobiologists
