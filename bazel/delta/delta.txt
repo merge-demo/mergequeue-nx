@@ -17014,7 +17014,7 @@ defray
 debullition
 drepaniform
 disarmingly
-destructory
+destructory 1
 dishelming 1
 dressier
 dullest
