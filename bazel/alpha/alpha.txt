@@ -10289,7 +10289,7 @@ anthozooid
 amelus
 alumine
 amen 1
-agathosma
+agathosma 1
 ammonocarbonic
 amenability
 atoll
