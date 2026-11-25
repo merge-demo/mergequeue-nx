@@ -6437,7 +6437,7 @@ cavayard
 cavalcaded
 cotylophorous
 cavalero
-cardinalist
+cardinalist 1
 curarizes
 cavalier
 choregic
