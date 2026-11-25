@@ -3871,7 +3871,7 @@ epalpate
 ethnobotanical
 emesis
 entrapment
-easiness
+easiness 1
 exemplarily
 exosculation
 effeminacy
