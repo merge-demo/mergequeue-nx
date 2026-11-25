@@ -4717,7 +4717,7 @@ gigged
 galchic
 gifting
 gelatia
-giraffes 1
+giraffes 2
 generis
 gastraeas
 guzmania
