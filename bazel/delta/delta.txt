@@ -17266,7 +17266,7 @@ dauner
 discern
 domatium
 droll 1
-deniers
+deniers 1
 dentiform
 dilluer
 didactylous
