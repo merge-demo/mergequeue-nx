@@ -11465,7 +11465,7 @@ amuyong
 anarchism
 angioglioma
 amula
-amulas
+amulas 1
 archexorcist
 acone
 armaments
