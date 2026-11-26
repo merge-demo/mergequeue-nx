@@ -3237,7 +3237,7 @@ goldenwing
 galoot 1
 greatish
 getatability
-gally
+gally 1
 graffage
 gazement
 gormandizer
