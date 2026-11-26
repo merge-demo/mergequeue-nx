@@ -8649,7 +8649,7 @@ enervous
 exceptionable
 expels
 emphyteuta
-elutriating
+elutriating 1
 emergently
 equinate
 enameller
