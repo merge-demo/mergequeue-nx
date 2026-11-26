@@ -6225,7 +6225,7 @@ gilbertine
 grooved
 gregor
 garrisoned
-gastrimargy
+gastrimargy 1
 guillotinade 1
 gamopetalae
 gp 1
