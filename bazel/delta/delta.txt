@@ -2419,7 +2419,7 @@ dripstick
 disaffects
 decima
 decimalism
-dueling
+dueling 1
 decimalization
 displeases
 decimalizes
