@@ -5250,7 +5250,7 @@ chefdom
 consecute
 calemes
 cassandra
-conc
+conc 1
 crawthumper 1
 cartman
 cokeman
