@@ -16271,7 +16271,7 @@ convector
 clinopodium
 conterminous
 constrainment
-curvilinear
+curvilinear 1
 civilise
 citronize
 copsewooded
