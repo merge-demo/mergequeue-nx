@@ -16391,7 +16391,7 @@ downgrowth
 deducive
 dultie
 drawtube
-doeuvre
+doeuvre 1
 downwind
 droukit
 dowp
