@@ -11780,7 +11780,7 @@ exappendiculate 1
 empover
 exarate
 egyptianization
-eremochaeta
+eremochaeta 1
 exorcista
 exaration
 enstatitite
