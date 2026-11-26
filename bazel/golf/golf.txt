@@ -1144,7 +1144,7 @@ gunpowder 1
 genion
 granddam
 gypsologist
-gander
+gander 1
 gravamens
 guava
 goners
