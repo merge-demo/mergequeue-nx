@@ -17547,7 +17547,7 @@ drumliest 1
 desisting
 drumline 1
 depolarised
-disappeared
+disappeared 1
 drumlinoid
 decelerated
 dactylate
