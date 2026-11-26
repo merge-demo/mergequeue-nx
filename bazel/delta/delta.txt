@@ -15299,7 +15299,7 @@ dumpty
 diabolical
 delusory
 dwamish
-dolores
+dolores 1
 dispenditure
 dermatophytic 1
 dolorimetrically
