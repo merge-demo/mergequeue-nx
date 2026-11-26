@@ -24458,7 +24458,7 @@ autotomise
 armbands
 adoptively
 archaeologists
-absorptions
+absorptions 1
 autotomize
 anacletica
 ambitiously
