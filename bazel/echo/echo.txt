@@ -8092,7 +8092,7 @@ empowerment
 equicrural
 electrooculogram
 exosporium
-extraprovincial
+extraprovincial 1
 epiphragm 1
 enlargedness
 encover
