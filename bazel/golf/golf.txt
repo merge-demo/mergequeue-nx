@@ -514,7 +514,7 @@ galivants
 geneticism
 gleamiest
 glissandos
-gustily
+gustily 1
 guruship
 gallbladders
 guaranteers
