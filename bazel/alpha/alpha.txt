@@ -2516,7 +2516,7 @@ acomous
 acroasis
 albumean
 abolitionists
-anchoretic
+anchoretic 1
 aconative
 acondylose 1
 amicable
