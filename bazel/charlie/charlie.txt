@@ -25983,7 +25983,7 @@ chamade
 corvoid 1
 corvorant 1
 cantiga
-corvus
+corvus 1
 commissars
 cosaque
 corneum
