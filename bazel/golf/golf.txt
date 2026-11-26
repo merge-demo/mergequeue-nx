@@ -6239,7 +6239,7 @@ gowkedly
 galactosan
 goatsbeard
 guestimate
-gavotting
+gavotting 1
 galloway
 glue
 glucosidase
