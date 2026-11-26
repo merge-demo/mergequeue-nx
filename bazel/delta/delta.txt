@@ -5895,7 +5895,7 @@ droshky
 depredatory
 deontic
 disembargoed
-deodars
+deodars 1
 diablene
 duffy
 duplicity 1
