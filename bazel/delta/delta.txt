@@ -5676,7 +5676,7 @@ dispiritedness
 depilating
 depilatory
 depilatories 1
-discos
+discos 1
 decerniture
 delineation
 depilitant
