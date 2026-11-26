@@ -6354,7 +6354,7 @@ causeuses
 cannellated
 causewaying
 clubfeet 1
-causidical
+causidical 1
 causon
 counterassurance
 caustical
