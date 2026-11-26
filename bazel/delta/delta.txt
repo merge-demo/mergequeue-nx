@@ -353,7 +353,7 @@ diplostichous
 dreamt
 daygoing
 desiccation
-daiker
+daiker 1
 dcor
 densest
 doorboy
