@@ -12661,7 +12661,7 @@ diskette
 discernibleness
 diskindness
 diskography
-dvandva
+dvandva 1
 dextrorse
 doleful
 divining
