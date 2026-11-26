@@ -2779,7 +2779,7 @@ cagui
 cannier
 canning 1
 cannings
-chiccories
+chiccories 1
 cannister
 cannisters
 crystallographically
