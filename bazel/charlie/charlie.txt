@@ -14155,7 +14155,7 @@ concentricity
 catatonia
 circulators
 circulus
-cavaedium
+cavaedium 1
 circumambiency
 circumambient
 circumambulate
