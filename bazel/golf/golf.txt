@@ -69,7 +69,7 @@ gorcrow
 gloiosiphonia
 gandum 1
 graftproof 1
-galliums
+galliums 1
 grayish
 giddap
 glowing

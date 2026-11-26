@@ -10128,7 +10128,7 @@ expressiveness 1
 earphones
 euhyostyly 1
 epagomenic
-elegante
+elegante 1
 eboe
 epilation
 epinastic
