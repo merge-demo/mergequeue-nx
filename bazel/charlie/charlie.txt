@@ -6793,7 +6793,7 @@ chancres 1
 chondroskeleton
 cubhood 1
 cerianthoid
-clearway
+clearway 1
 celioparacentesis
 cerinthian
 cowshard
