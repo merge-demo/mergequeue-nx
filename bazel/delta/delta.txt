@@ -15701,7 +15701,7 @@ divaporation 1
 discriminatorily
 dorad
 dipylon
-dysaptation
+dysaptation 1
 desaurin
 deteriorates
 dorado
