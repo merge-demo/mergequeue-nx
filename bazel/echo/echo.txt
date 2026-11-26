@@ -12113,7 +12113,7 @@ enframement
 epicerebral
 egressor
 electral
-electorates
+electorates 1
 edrioasteroid
 excerpter
 eubacterium
