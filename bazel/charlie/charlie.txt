@@ -18884,7 +18884,7 @@ cestoid
 colistin
 coypou
 colitic
-colitises
+colitises 1
 colyum
 climbs
 coliuria
