@@ -23666,7 +23666,7 @@ auricyanhydric
 anapaests
 alumroots
 atpoints
-allotropicity 1
+allotropicity 2
 antiexpressively
 alms
 auriculare
