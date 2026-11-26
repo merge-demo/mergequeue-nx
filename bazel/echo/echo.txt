@@ -8558,7 +8558,7 @@ equative
 electre
 eburneous
 etherial
-erase
+erase 1
 eumorphic
 equatorward
 etheriform
