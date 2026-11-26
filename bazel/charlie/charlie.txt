@@ -10273,7 +10273,7 @@ cantharidin
 chicest
 coccidioidomycosis
 chich
-chicha
+chicha 1
 cheiroglossa
 chichevache
 chichi
