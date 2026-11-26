@@ -30588,7 +30588,7 @@ caldera
 cellarette 1
 cuboides
 casanovas
-cuboids
+cuboids 1
 chondropharyngeal
 colloquium
 cubomedusan
