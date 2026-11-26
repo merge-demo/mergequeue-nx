@@ -14393,7 +14393,7 @@ dephlogisticated
 dolicholus
 divaricator
 divast
-doubtable
+doubtable 1
 divebomb
 dogmatists
 divellent
