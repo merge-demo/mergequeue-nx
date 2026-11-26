@@ -6506,7 +6506,7 @@ dunged 1
 diadromous
 dispositionally
 dissevering
-determinate
+determinate 1
 dactylogram 1
 demounted
 disanney
