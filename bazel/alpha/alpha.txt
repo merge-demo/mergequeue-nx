@@ -17319,7 +17319,7 @@ abthain 1
 arguers
 atroce
 astomatal
-apostatism
+apostatism 1
 agathaea
 adicea
 aumail
