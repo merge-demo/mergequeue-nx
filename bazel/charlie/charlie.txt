@@ -24574,7 +24574,7 @@ circulariser
 copybooks
 cognomen
 chook
-copycat
+copycat 1
 copycats
 citywide
 copycatting
