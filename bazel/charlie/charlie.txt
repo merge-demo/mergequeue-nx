@@ -14475,7 +14475,7 @@ cyrtomium
 cyrtopia
 ciruela
 cosets
-cyrus
+cyrus 1
 choroidocyclitis
 captainess 1
 chloremic
