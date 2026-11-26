@@ -4793,7 +4793,7 @@ autarky 1
 acutifoliate
 antimonarchist
 aerifies
-antiparabemata
+antiparabemata 1
 adglutinate
 aeriform
 abasement
