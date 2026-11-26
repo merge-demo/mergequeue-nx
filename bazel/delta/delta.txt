@@ -936,7 +936,7 @@ divorcers
 dishouse
 decourt
 deboistly 1
-demivierge
+demivierge 1
 dereferences
 duskiest
 digonous
