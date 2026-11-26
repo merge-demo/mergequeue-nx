@@ -5195,7 +5195,7 @@ essonite
 exceedingness
 endothermically
 epimeride
-enounced
+enounced 1
 elephants
 electrology
 economists
