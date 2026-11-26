@@ -4859,7 +4859,7 @@ fittedness
 florida
 flivvers 1
 fairwater
-funambulating
+funambulating 1
 falsism
 falsifiers
 foothook
