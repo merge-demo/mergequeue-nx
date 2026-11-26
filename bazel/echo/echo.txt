@@ -10125,7 +10125,7 @@ excused
 extranean
 etabelli
 expressiveness 1
-earphones
+earphones 1
 euhyostyly 1
 epagomenic
 elegante
