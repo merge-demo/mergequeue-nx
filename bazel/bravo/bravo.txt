@@ -83,7 +83,7 @@ babels
 belinda
 botrytis
 bulwarks 1
-bori
+bori 1
 baldachins
 babhan
 balafo
