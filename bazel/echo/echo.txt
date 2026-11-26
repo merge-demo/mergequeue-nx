@@ -10298,7 +10298,7 @@ epidemial
 expecters
 effacer
 ethmopalatal
-ectases
+ectases 1
 epiphyllous
 ensignment
 ethnicist
