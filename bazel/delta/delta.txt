@@ -525,7 +525,7 @@ discustom 1
 dromotropic
 douse
 dalmania
-disobliged
+disobliged 1
 dalmanites
 discocarpous
 dalmatic
