@@ -2815,7 +2815,7 @@ elenchi
 elenchic
 elves
 elenchize
-ecthlipsis
+ecthlipsis 1
 eath 1
 endamask
 effeminately
