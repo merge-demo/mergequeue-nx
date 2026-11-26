@@ -1460,7 +1460,7 @@ grossart
 generical 1
 grillages
 glamouring 1
-gasalier
+gasalier 1
 gaoler
 gowks
 gamma
