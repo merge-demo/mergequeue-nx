@@ -14213,7 +14213,7 @@ donatism
 disvoice
 depopulated
 dangerous
-diswashing
+diswashing 1
 dur
 diswere 1
 decurions
