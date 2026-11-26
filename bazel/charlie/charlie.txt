@@ -11466,7 +11466,7 @@ chocolatiere
 cobras
 concentred
 choctaw
-choga
+choga 1
 chogset
 cussed
 choy
