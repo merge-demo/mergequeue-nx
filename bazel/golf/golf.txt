@@ -1221,7 +1221,7 @@ guatemaltecan
 galapago 1
 gastrotricha
 garapato
-getatableness
+getatableness 1
 gadded
 grocerymen
 gleetier
