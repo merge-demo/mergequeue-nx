@@ -26682,7 +26682,7 @@ counteractivity 1
 columbium
 choked
 counterintelligence 1
-counterexpostulation
+counterexpostulation 1
 counteradvance
 colossuswise
 catagories
