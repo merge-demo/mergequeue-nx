@@ -17585,7 +17585,7 @@ denaturising 1
 dabbler
 dubitant
 drivellers
-decastylar
+decastylar 1
 dichoree
 duant
 dentigerous
