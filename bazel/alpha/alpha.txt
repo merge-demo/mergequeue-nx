@@ -2509,7 +2509,7 @@ autosymbiontic
 antluetic
 alpiste
 agria
-acomia
+acomia 1
 anglicize
 allozooid
 acomous
