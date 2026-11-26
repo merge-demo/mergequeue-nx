@@ -12881,7 +12881,7 @@ blackcock
 basichromatin
 banyoro
 bacciform
-boorishness 1
+boorishness 2
 bulldog
 bertrandite
 blondes
