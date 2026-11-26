@@ -1220,7 +1220,7 @@ garage 2
 guatemaltecan
 galapago 1
 gastrotricha
-garapato
+garapato 1
 getatableness
 gadded
 grocerymen
