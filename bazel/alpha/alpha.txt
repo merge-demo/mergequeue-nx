@@ -19271,7 +19271,7 @@ arenariae
 addressed
 austroasiatic
 amphigonium
-afterhand
+afterhand 1
 adynamy
 areng
 archpresbyter
