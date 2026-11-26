@@ -5752,7 +5752,7 @@ glossolalia
 gabbroid
 glossolysis
 goldweed
-grecizes
+grecizes 1
 geometrical
 gunfighter
 glossoptosis
