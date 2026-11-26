@@ -17938,7 +17938,7 @@ adorner
 approbating
 approbations 1
 arghel
-approbative
+approbative 1
 approbativeness
 absorbents
 apprompt 1
