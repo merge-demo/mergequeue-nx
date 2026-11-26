@@ -17711,7 +17711,7 @@ dubbin
 disused
 demipauldron
 discriminable
-durables 1
+durables 2
 dedifferentiation
 decanonization
 dubbins
