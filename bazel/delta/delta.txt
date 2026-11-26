@@ -6218,7 +6218,7 @@ discontentment
 dawed
 derma
 depleted
-damascened
+damascened 1
 digametic
 dermabrasion
 dithyramb
