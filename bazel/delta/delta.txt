@@ -1877,7 +1877,7 @@ docimasies
 douc
 decoy
 daleswoman
-debonair
+debonair 1
 dextrorotary
 debonairness
 deboned
