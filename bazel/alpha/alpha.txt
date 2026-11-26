@@ -17387,7 +17387,7 @@ assemblee
 antifideism
 astrean
 archpatron
-allay
+allay 1
 aestivated
 antalkali
 alhambresque
