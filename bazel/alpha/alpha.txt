@@ -14970,7 +14970,7 @@ anticonservatism
 anticonservativeness
 auricularis
 anadrom 1
-apagoges
+apagoges 1
 athletehood
 anticonstitution
 anticonstitutional
