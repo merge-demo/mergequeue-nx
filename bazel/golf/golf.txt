@@ -4150,7 +4150,7 @@ gnars
 gymnasts
 gibbi
 grahamism
-gigback
+gigback 1
 glottal 1
 ginkgoaceous
 gasan
