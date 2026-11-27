@@ -4382,7 +4382,7 @@ gunky
 guz
 glottochronology
 ginglymostomoid 1
-gondi
+gondi 1
 gardened
 gerund
 galvanoscope
