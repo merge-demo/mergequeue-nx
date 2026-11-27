@@ -10567,7 +10567,7 @@ blats
 butyrone
 blatta
 blackbreast
-biostrome
+biostrome 1
 blatted
 boltheader
 bachelorship
