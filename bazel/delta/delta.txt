@@ -1882,7 +1882,7 @@ dextrorotary
 debonairness
 deboned
 debones
-deafening
+deafening 1
 dobies
 disablement
 deborah
