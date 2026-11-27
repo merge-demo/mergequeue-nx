@@ -789,7 +789,7 @@ fanfaronading
 folkloric
 footworn
 fatality
-froster
+froster 1
 forensicality
 flipe
 flea
