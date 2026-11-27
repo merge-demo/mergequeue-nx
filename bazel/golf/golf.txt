@@ -12,7 +12,7 @@ gobi
 guepard
 grasswork
 gratuities 1
-gabelles
+gabelles 1
 greedsome
 gledy
 genetous
