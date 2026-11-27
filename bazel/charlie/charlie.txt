@@ -2066,7 +2066,7 @@ companionship
 cruddle
 camouflaging
 combats
-chandlery
+chandlery 1
 collapsar
 camoufleur
 chests
