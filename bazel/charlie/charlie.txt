@@ -27195,7 +27195,7 @@ countertraction
 countertransference
 cystonectous
 collen
-coparent
+coparent 1
 countertraverse
 countertreason 1
 corbelling
