@@ -17394,7 +17394,7 @@ alhambresque
 apothecaryship
 archosyrinx
 alkalamide
-afret
+afret 1
 archenemy
 apothecium
 antozonite
