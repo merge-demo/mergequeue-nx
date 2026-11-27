@@ -7775,7 +7775,7 @@ fogyish
 fondouk
 financial 1
 forejudging
-florentines
+florentines 1
 funfairs
 feudalized
 fettucine
