@@ -10992,7 +10992,7 @@ amoraim
 antidivorce
 amoral
 arresters
-amoralist
+amoralist 1
 amorally
 adminstration
 actinomorphy
