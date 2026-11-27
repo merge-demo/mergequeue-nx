@@ -985,7 +985,7 @@ antituberculin
 amphigastrula
 abstersiveness
 aggregable
-abstertion
+abstertion 1
 anthropopathic
 abstinential
 abstinently
