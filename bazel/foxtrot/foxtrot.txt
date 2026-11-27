@@ -11638,7 +11638,7 @@ frontless
 fustoc 1
 fussily
 friscal
-fusulae
+fusulae 1
 feathery
 fusure 1
 fibroses
