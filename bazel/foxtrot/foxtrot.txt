@@ -9491,7 +9491,7 @@ formaliter
 fissiparousness
 flatbottom 1
 forbreak
-floatman 1
+floatman 2
 florets
 fibdom
 functionalism
