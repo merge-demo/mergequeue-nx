@@ -9065,7 +9065,7 @@ kondspfg
 kondvool
 kondw
 kondzs
-kone 1
+kone 2
 konfddmjm 1
 konfry
 kongpyfd
