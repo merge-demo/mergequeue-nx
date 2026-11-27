@@ -14910,7 +14910,7 @@ domeykite
 disciplelike 1
 dodecapartite
 dodecaphonic
-diverts
+diverts 1
 dodecaphonism
 demibastion
 dehumidifiers 1
