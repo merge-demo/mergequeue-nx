@@ -8610,7 +8610,7 @@ decigramme
 dibatis
 dystaxia
 diapsida
-dyskinetic
+dyskinetic 1
 deathin
 douanier
 dyarchy
