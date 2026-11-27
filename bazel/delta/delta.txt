@@ -15830,7 +15830,7 @@ demidome
 dumbstruck 1
 dorsimeson
 devolatilization
-disyllabize
+disyllabize 1
 deducibly
 dorsipinal
 diablerie
