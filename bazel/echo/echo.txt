@@ -6832,7 +6832,7 @@ ectosarcs
 elix
 enl
 equestriennes
-ethnogenic 1
+ethnogenic 2
 emmenology
 epicranial
 exoticism
