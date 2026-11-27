@@ -354,7 +354,7 @@ dreamt
 daygoing
 desiccation
 daiker
-dcor
+dcor 1
 densest
 doorboy
 dailamite
