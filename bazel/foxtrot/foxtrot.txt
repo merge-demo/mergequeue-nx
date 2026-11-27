@@ -10517,7 +10517,7 @@ fazendas
 frouziest
 flite
 foldstool
-floristry
+floristry 1
 firemen 1
 frowl 1
 fierily

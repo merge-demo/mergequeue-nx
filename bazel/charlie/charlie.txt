@@ -28875,7 +28875,7 @@ catharization
 crevet
 crevette
 creviced
-chorus
+chorus 1
 cussers
 crevices
 combo
