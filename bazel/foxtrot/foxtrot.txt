@@ -4790,7 +4790,7 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
-figurately
+figurately 1
 fasciculus
 fissurellidae
 feuillants
