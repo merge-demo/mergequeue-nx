@@ -13480,7 +13480,7 @@ dialectologer
 demicircle
 disrooting
 debenture
-ditrigonal
+ditrigonal 1
 dizygous
 disruddered
 disruly
