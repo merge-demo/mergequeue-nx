@@ -28729,7 +28729,7 @@ cole
 creosotes
 creosotic
 cocircularity
-clericity
+clericity 1
 crepey
 chiru
 constringe
