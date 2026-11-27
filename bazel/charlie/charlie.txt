@@ -25335,7 +25335,7 @@ cornea
 corneal
 corneas
 cheddaring 1
-cappelenite
+cappelenite 1
 cornel
 cornelia
 coner
