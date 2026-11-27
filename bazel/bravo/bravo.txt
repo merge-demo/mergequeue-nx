@@ -10925,7 +10925,7 @@ biloquist
 biclinia
 barth
 bourrees
-blinkard 1
+blinkard 2
 blesbuck
 bedlamism
 blinkards
