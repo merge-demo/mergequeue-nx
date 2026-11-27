@@ -2481,7 +2481,7 @@ clang
 cacodemonic
 cassidony
 colloidally
-circumnatant
+circumnatant 1
 candescence
 cabalists
 candid
