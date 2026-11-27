@@ -15206,7 +15206,7 @@ decants
 dungbird
 defrayment
 denticete
-dolichocephalize
+dolichocephalize 1
 disingenuously
 derepress
 dermohemal
