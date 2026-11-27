@@ -15250,7 +15250,7 @@ dollia
 deuteranopic 1
 dissociate
 dingmaul 1
-disbursal
+disbursal 1
 demipriest
 depressanth
 dogsleep
