@@ -1224,7 +1224,7 @@ frigidity
 fenders
 flexural 1
 flinched
-fatuities
+fatuities 1
 feodatory
 freieslebenite
 funkias
