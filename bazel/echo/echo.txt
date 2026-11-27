@@ -1986,7 +1986,7 @@ etherialize
 exteriorate
 elastics
 exothermal 1
-eagle
+eagle 1
 economizing
 eker
 epigastriocele
