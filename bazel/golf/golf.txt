@@ -6138,7 +6138,7 @@ gammarus
 gnosis
 galenist 1
 glaserian
-gnotobiosis
+gnotobiosis 1
 gnotobiotically
 galactorrhoea
 gnow
