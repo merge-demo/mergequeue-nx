@@ -9734,7 +9734,7 @@ biochemist
 brainwashed 1
 bacilliparous
 brahmsite
-bistephanic
+bistephanic 1
 bastinades
 bistered
 bisters
