@@ -5253,7 +5253,7 @@ endoparasitica
 etiotropically
 endopathic
 endopelvic
-encyclopaedist
+encyclopaedist 1
 endoperidium
 epoptes
 endophagous
