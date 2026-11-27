@@ -3750,7 +3750,7 @@ carbacidometer
 chromized
 croceines
 cryoprotective 1
-carbamate
+carbamate 1
 carbamic
 carbamide
 cooperationist

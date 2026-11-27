@@ -1831,7 +1831,7 @@ flabellum
 fating
 feedbags
 flexographic
-frostnipped
+frostnipped 1
 farcicality
 funambulate
 foreign
