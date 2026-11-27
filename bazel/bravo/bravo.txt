@@ -2528,7 +2528,7 @@ brillolette
 barid
 bronchostenosis
 bereaving
-burgus 1
+burgus 2
 barye
 burglarise
 bois
