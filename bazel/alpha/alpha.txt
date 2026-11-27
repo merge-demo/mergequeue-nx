@@ -18821,7 +18821,7 @@ attributive 1
 asymmetrically
 archettos
 auroauric
-assever
+assever 1
 assumptiveness
 adhibit
 archfiend
