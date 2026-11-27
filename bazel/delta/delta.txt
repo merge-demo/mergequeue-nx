@@ -18005,7 +18005,7 @@ defaitisme
 dulcigenic
 dehydrogenizer
 dulciloquent 1
-delouses
+delouses 1
 dungon
 diplex
 denitrated
