@@ -44,7 +44,7 @@ emigrational
 edging
 eardropper 2
 euchromosome
-earflap
+earflap 1
 expender
 enzyms
 excites
