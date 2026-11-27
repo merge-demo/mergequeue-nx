@@ -6717,7 +6717,7 @@ entosclerite
 eulogiser 1
 ecrevisse
 epulis
-espundia
+espundia 1
 endamebiasis
 entertainingly
 electrophysics
