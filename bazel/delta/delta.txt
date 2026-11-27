@@ -6994,7 +6994,7 @@ disray
 despiteously
 despites
 decease
-diogenite
+diogenite 1
 dithionite
 douter
 diets
