@@ -3168,7 +3168,7 @@ gordonia
 gelasian 1
 germanophobe
 ghostship
-gutturalizing
+gutturalizing 1
 gramoches
 geoscopic
 geosphere 1
