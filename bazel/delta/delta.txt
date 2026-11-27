@@ -467,7 +467,7 @@ disappointing
 dakhini
 durgah
 dakoity
-dentists
+dentists 1
 dakotas
 decopperize
 desocialization
