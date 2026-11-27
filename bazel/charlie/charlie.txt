@@ -29451,7 +29451,7 @@ crisscrossed
 crisscrosses
 crisset 1
 cryst
-crystaling
+crystaling 1
 commentatorially
 cantharis
 crystalligerous
