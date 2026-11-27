@@ -7763,7 +7763,7 @@ allopolyploidy 1
 almehs
 aonian
 adjustably
-areologic
+areologic 1
 asteroidea
 ambrette
 attired
