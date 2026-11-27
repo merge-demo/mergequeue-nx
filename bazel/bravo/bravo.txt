@@ -9222,7 +9222,7 @@ biphenylene
 biphenol 1
 bashfulness
 bipinnariae
-bastnasite
+bastnasite 1
 biordinal
 batussi
 bladebone
