@@ -17952,7 +17952,7 @@ demandable
 dossals
 dietitian 1
 dugouts
-dugs
+dugs 1
 dugway
 deaerator
 doornboom
