@@ -4245,7 +4245,7 @@ gynandria
 gladiators
 grovelling
 gumptionless 1
-gloats
+gloats 1
 gunsling
 gasteralgia
 garrisoning
