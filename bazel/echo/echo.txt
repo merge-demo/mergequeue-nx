@@ -10499,7 +10499,7 @@ ettle 1
 ecclesiolatry
 eucgia 2
 eightpenny
-enologies
+enologies 1
 exorbitant
 eclectics
 epulary
