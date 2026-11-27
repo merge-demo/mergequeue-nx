@@ -8725,7 +8725,7 @@ diathermies
 downhill
 dislimned
 dendrophil
-dispensatrix
+dispensatrix 1
 demisacrilege
 diathesis
 dirl
