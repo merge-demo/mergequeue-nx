@@ -7620,7 +7620,7 @@ disquiparant
 drapping
 devata
 devaul 1
-deoxygenating
+deoxygenating 1
 degaussed
 disbursements
 doctrinally
