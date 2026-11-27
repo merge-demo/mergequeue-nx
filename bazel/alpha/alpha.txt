@@ -16834,7 +16834,7 @@ apogamous
 alterman
 administrators
 allodialist
-apositic
+apositic 1
 almeriite
 agname
 acritol
