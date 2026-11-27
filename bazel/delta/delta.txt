@@ -6572,7 +6572,7 @@ duet
 dermol
 danburite 1
 desdemona
-disinvest 1
+disinvest 2
 desecrated
 dilemmatical
 dipole
