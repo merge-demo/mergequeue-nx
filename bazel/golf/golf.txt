@@ -3958,7 +3958,7 @@ gallopers
 graphomaniac 1
 grice
 ganner
-graphis
+graphis 1
 gimping
 grubworms 1
 gigawatts
