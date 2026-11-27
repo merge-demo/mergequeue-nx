@@ -12453,7 +12453,7 @@ dishtowels
 detrital
 dishumanize
 deipnodiplomatic
-doffer
+doffer 1
 dimethylmethane
 dagon
 dishwasher
