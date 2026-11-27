@@ -4895,7 +4895,7 @@ fives
 fibrinate
 fellage 1
 forbears
-freedmen
+freedmen 1
 forwent
 fraternalism
 fulvidness
