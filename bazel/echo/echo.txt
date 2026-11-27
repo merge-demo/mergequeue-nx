@@ -8020,7 +8020,7 @@ embrasured
 epiotic
 eutannin
 exopterygota 1
-exocline
+exocline 1
 epipactis
 elasticized
 enneateric
