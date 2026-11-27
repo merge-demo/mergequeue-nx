@@ -7826,7 +7826,7 @@ denaturalizing 1
 dalecarlian
 decapitate 1
 dutchify
-delthyria
+delthyria 1
 delates
 dissertationist
 dinoceras
