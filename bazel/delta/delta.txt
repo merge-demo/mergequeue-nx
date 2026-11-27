@@ -5568,7 +5568,7 @@ depasture
 depatriate
 dispergation
 doornails
-deposer
+deposer 1
 depauperize
 dorsal
 dyscrase
