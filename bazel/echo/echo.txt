@@ -2253,7 +2253,7 @@ elevatory 1
 exocolitis
 effluve
 endoplasma
-elector
+elector 1
 exhume 1
 elks
 encyclopedian
