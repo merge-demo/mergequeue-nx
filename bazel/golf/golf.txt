@@ -5132,7 +5132,7 @@ gromatics
 grassland
 glycoside
 glossate
-gregarinous
+gregarinous 1
 glali
 gnatflower
 gaumed
