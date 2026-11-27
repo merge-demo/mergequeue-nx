@@ -3752,7 +3752,7 @@ boing
 brahmanic
 broideress 2
 biologese
-biologists
+biologists 1
 bowstringed
 beachwear
 battues
