@@ -6647,7 +6647,7 @@ cedars
 cochairman
 ceded
 ceders
-confocally
+confocally 1
 copepods
 cottiers
 cedilla
