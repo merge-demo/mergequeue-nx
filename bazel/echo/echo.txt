@@ -7900,7 +7900,7 @@ enchantresses
 elephancy 1
 extortionateness
 ecotones
-echinozoa
+echinozoa 1
 earthenhearted
 ejectum
 exululate
