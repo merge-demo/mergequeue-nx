@@ -1765,7 +1765,7 @@ aglipayano
 arabis 1
 anemia 1
 apochromatic
-acedy
+acedy 1
 acedias
 abbreviature
 agalloch
