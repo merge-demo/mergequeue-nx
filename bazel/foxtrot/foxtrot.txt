@@ -6072,7 +6072,7 @@ floriscope 1
 fetterbush
 faba
 funicule
-flavoring
+flavoring 1
 floristically
 feringhee
 ferrivorous
