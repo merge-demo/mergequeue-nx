@@ -7823,7 +7823,7 @@ cyanided
 caenogenesis
 cichloid
 cerviciplex
-cervicispinal
+cervicispinal 1
 cervicitis
 cervicoauricular
 chippable
