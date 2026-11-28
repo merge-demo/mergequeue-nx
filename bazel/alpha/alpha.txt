@@ -11808,7 +11808,7 @@ analyses
 acquisited
 antimoniate
 analyst
-amphophilic
+amphophilic 1
 acrobat
 alamanni
 antinational
