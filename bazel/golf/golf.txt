@@ -7028,7 +7028,7 @@ goops
 gladioli
 gentil
 gumshoes 1
-glazier 1
+glazier 2
 glamorizes
 grillade
 grindle
