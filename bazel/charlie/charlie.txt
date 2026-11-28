@@ -15947,7 +15947,7 @@ cyclos
 clergymen
 chandleries
 clergion
-clergywoman
+clergywoman 1
 clementine
 culverfoot
 clerical
