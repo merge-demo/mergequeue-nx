@@ -8885,7 +8885,7 @@ chasmogamy
 companiable
 cycads
 charadrii
-compendiousness
+compendiousness 1
 charadriiformes 1
 charadrine
 charadriomorphae
