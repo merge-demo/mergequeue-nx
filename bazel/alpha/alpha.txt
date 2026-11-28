@@ -4268,7 +4268,7 @@ assertative
 adrenalcortical
 appoggiature 1
 archesporium
-anchoretish
+anchoretish 1
 adrenalectomize
 aumous
 adrenalin
