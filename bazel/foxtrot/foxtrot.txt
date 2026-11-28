@@ -3900,7 +3900,7 @@ filleting
 feckless
 figurato
 fionnuala 1
-fanwe
+fanwe 1
 foregrounds 1
 frequencies
 fortyfive 1
