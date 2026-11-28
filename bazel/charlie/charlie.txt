@@ -25914,7 +25914,7 @@ coeternally
 cortexes
 cortication
 cortices 1
-corticiferous
+corticiferous 1
 cordula
 corticifugally
 catchier
