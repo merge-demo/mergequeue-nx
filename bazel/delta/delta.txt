@@ -5332,7 +5332,7 @@ defiant
 donis
 dolor 1
 dentatoserrate
-decennary
+decennary 1
 disputable
 damnii
 dentatosinuate
