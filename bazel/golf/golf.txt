@@ -4487,7 +4487,7 @@ gypsyfy
 generically 1
 granules
 gristles
-geophytes
+geophytes 1
 guacimo
 gypsyhead
 gloeocapsoid
