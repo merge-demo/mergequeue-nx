@@ -8761,7 +8761,7 @@ dichogamy
 diatonic
 doodle
 dungannonite
-diatreme
+diatreme 1
 diatribe
 diaulic
 decorably
