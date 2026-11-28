@@ -9004,7 +9004,7 @@ charities
 circumrotated
 condition
 charityless
-caridoid
+caridoid 1
 cloaks
 comus
 charking
