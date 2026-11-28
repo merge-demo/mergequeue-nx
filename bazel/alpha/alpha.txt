@@ -6902,7 +6902,7 @@ anorthoclase
 ambagiously
 archlexicographer
 axillant
-abound
+abound 1
 airscrews
 airsheds
 afterwisdom
