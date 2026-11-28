@@ -9493,7 +9493,7 @@ flatbottom 1
 forbreak
 floatman 1
 florets
-fibdom
+fibdom 1
 functionalism
 faveoluli
 frazzling
