@@ -4776,7 +4776,7 @@ diabolatry
 disgracing
 disbudding
 darwin 1
-dangs
+dangs 1
 dpt
 dilated
 detours
