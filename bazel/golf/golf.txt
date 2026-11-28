@@ -9668,7 +9668,7 @@ gibuses
 gowdie
 gastroscopy
 gascons
-gowaned
+gowaned 1
 gorgonaceous 1
 globalist
 gruelers
