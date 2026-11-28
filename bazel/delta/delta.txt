@@ -14812,7 +14812,7 @@ docs
 doctor
 doctorally
 dumontite
-doctored
+doctored 1
 dashwheel
 defensive
 deservingly
