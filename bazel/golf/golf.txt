@@ -4673,7 +4673,7 @@ gastroplenic
 gestes
 guttery 1
 gyrovagues
-gloy
+gloy 1
 gaatch
 gurjun
 girshes
