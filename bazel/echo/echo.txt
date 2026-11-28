@@ -8862,7 +8862,7 @@ englue 1
 euorthoptera
 exiler
 epilegomenon
-eventuation
+eventuation 1
 electrooptically
 erer
 erethisia
