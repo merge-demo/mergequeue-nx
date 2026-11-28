@@ -7345,7 +7345,7 @@ ephorates 1
 enravishment 1
 epapophysis
 easeled
-evangeliser
+evangeliser 1
 exosphere
 expulsing
 exile
