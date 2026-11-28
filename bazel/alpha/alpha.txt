@@ -23289,7 +23289,7 @@ abactinally
 adnumber
 antship
 averroist
-anglophobic
+anglophobic 1
 augurs
 adventitia
 azophenol
