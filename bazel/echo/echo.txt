@@ -11720,7 +11720,7 @@ extendlessness
 exalting
 elands
 exaltment 1
-essayism
+essayism 1
 epinard
 expunge
 enclasped
