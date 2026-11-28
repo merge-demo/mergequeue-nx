@@ -9389,7 +9389,7 @@ diffractively
 deruralize
 doubleted
 diffractiveness
-dist
+dist 1
 diffranchise
 dely
 diadumenus
