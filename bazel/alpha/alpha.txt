@@ -21715,7 +21715,7 @@ asself
 ayyubid
 amphoric
 assembl
-assemblable
+assemblable 1
 assemblance
 aphthous
 anconal
