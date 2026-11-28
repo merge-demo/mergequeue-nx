@@ -7533,7 +7533,7 @@ epiboulangerite
 episomes
 efficacity
 entelechial
-epidermically
+epidermically 1
 extinguised
 echiuroid
 endungeon
