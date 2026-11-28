@@ -16651,7 +16651,7 @@ asyndeta
 alternipinnate
 assizement 1
 araby
-apertness
+apertness 1
 acetomorphine
 abnormalism
 actionable
