@@ -3786,7 +3786,7 @@ detest
 dor
 dwale
 disgracia
-drillable
+drillable 1
 dynamites
 distrain
 deice
