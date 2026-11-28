@@ -11320,7 +11320,7 @@ dost
 dalan
 dinichthys
 dinner
-discepts
+discepts 1
 diffidentness
 dystocias 1
 dunite 1
