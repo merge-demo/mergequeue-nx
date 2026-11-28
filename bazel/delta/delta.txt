@@ -2696,7 +2696,7 @@ dudeens
 deconcentration
 decondition
 dicers
-delightedness
+delightedness 1
 dialectics
 disuniter
 decongestant
