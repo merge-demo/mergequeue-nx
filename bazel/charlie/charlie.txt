@@ -4313,7 +4313,7 @@ cary
 caryatid
 caryatidal
 cigaresque
-caryatids 1
+caryatids 2
 caribal
 conserving
 cariban
