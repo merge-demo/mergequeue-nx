@@ -10084,7 +10084,7 @@ dynamograph
 dauerschlaf
 dynamometamorphic
 disseverance
-dynamometrical
+dynamometrical 1
 dodipole
 dirls
 dogfight
