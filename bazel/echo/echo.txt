@@ -6184,7 +6184,7 @@ entertainers
 entrancing
 eyepoints
 eustatic
-enneandrian
+enneandrian 1
 etherealizing
 edacious
 equiparant
