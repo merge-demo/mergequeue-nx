@@ -23697,7 +23697,7 @@ aceology
 algorism
 auriflamme
 authorize
-anniversariness
+anniversariness 1
 aurigerous
 aurigraphy
 aurotellurite
