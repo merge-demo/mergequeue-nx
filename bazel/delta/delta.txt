@@ -15441,7 +15441,7 @@ discursativeness
 diplobacillus 1
 dominionism
 dihydroxy
-dominionist
+dominionist 1
 dominions
 delocalising
 doorway
