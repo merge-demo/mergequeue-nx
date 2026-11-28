@@ -12931,7 +12931,7 @@ chutnees
 chuttie
 chutzpa
 carbanion
-chutzpanik
+chutzpanik 1
 concentre
 cuesta
 cia
