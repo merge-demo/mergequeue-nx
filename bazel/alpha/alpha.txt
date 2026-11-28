@@ -10275,7 +10275,7 @@ amylocellulose
 anhydrated
 acidific
 ars
-ameliorates
+ameliorates 1
 adenotyphoid
 algins
 allice
