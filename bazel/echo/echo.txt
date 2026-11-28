@@ -11260,7 +11260,7 @@ exundate
 ectoloph 1
 entelluses
 ethnologic
-eeling
+eeling 1
 electrochemist
 extracts 1
 entomologically
