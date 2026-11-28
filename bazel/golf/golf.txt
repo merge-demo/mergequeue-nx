@@ -5718,7 +5718,7 @@ gloveress
 gimmaled
 gpad
 ganglioneuron 1
-gestning
+gestning 1
 gelts
 guardeen
 guttule
