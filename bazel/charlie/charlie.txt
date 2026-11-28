@@ -12706,7 +12706,7 @@ charnels 1
 chuet
 chueta
 compellation
-chufas
+chufas 1
 cinenchymatous
 ceratomania
 crinite
