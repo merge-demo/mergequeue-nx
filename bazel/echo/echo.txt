@@ -5613,7 +5613,7 @@ epidendrum
 elutions 1
 enfold
 ethyl 1
-exceptionalness
+exceptionalness 1
 epicene
 engendrure 1
 edenization
