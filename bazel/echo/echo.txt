@@ -884,7 +884,7 @@ expansibly 1
 endship
 euphonies
 elle
-enterprised
+enterprised 1
 ectoplastic
 elusiveness
 enucleation
