@@ -9365,7 +9365,7 @@ federator
 frostbiting
 fascinates
 flocculant
-fleecier
+fleecier 1
 frankfurters 1
 fivers
 frayne
