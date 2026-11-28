@@ -17473,7 +17473,7 @@ audiogenic
 audients
 astrographic
 anglicisation
-ama
+ama 1
 adrammelech
 aerostatics
 abstentious
