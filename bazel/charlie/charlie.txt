@@ -7516,7 +7516,7 @@ cimicidae 1
 cheliceral
 ceratotheca
 cypridinidae
-clergyman 1
+clergyman 2
 coolhouse
 cambrian
 ceraunoscopy
