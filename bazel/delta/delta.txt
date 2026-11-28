@@ -16945,7 +16945,7 @@ dreggiest
 decry
 drearily
 dreariness
-deamidate
+deamidate 1
 doz
 dunkard
 dazedness
