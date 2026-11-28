@@ -1471,7 +1471,7 @@ bodaciously
 bahadurs 1
 beggar
 boroglycerate
-barras
+barras 1
 beeches
 ball
 ballad
