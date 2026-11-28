@@ -12886,7 +12886,7 @@ envenoms
 echafaudage
 elucid
 escortment
-erosions 1
+erosions 2
 expandingly
 expansibility
 emusifies
