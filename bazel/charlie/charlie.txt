@@ -14384,7 +14384,7 @@ circumvoisin
 contrapletal
 circumvolution
 curdler
-circumvolve 1
+circumvolve 2
 circumvolved
 circumzenithal
 circus
