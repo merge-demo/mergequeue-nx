@@ -12992,7 +12992,7 @@ boppist
 brideless
 bloomers
 bombazine
-balanid
+balanid 1
 boracite
 boracous
 borage
