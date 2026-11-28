@@ -8924,7 +8924,7 @@ disillusionised
 departition
 dicophane
 disheartening
-detailers
+detailers 1
 distantness
 dully
 divinyl
