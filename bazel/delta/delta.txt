@@ -5582,7 +5582,7 @@ draftable 1
 depended
 dolichopellic
 dependence
-desensitizes
+desensitizes 1
 dependingly
 drouthiness
 depends
