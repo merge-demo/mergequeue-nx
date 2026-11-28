@@ -5021,7 +5021,7 @@ anile 1
 aerophyte
 airfield
 antiparagraphe
-assessory
+assessory 1
 angiohyalinosis
 adinvention
 aerophobic 1
