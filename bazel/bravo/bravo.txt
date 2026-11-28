@@ -9818,7 +9818,7 @@ bullyable
 barbing
 brands
 begums
-bites
+bites 1
 birefringent
 bebat
 bytes
