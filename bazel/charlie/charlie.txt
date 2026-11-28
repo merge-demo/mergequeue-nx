@@ -21934,7 +21934,7 @@ coresort
 confidants
 centaurs
 counterproductivity
-coseismic
+coseismic 1
 confidence
 confidency
 cosmogenic
