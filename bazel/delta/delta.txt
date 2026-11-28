@@ -7618,7 +7618,7 @@ devastation
 disabler 1
 disquiparant
 drapping
-devata
+devata 1
 devaul 1
 deoxygenating 1
 degaussed
