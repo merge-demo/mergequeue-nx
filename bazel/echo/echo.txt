@@ -2355,7 +2355,7 @@ explorational
 entocele
 explosive
 electrochemistry 1
-electromobilism
+electromobilism 1
 excrementitial
 excrete
 espaliering
