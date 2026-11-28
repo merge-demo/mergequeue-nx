@@ -3554,7 +3554,7 @@ grenadin
 goth
 geums
 gangues 1
-garmentworker
+garmentworker 1
 ganglions
 gymnorhina
 geomagnetist
