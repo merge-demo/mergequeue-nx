@@ -28015,7 +28015,7 @@ crayoning
 crayonist
 crayonists
 chalkosideric
-cinnamomic
+cinnamomic 1
 concoctor
 cancel
 coltish
