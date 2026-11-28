@@ -2768,7 +2768,7 @@ girling
 genteelize
 gelating
 gentiana
-gastrotympanites
+gastrotympanites 1
 gentianella
 gregatim
 gadhelic 1
