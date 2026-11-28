@@ -9706,7 +9706,7 @@ entoptoscopic
 essay
 epistomata
 embargo
-erethism
+erethism 1
 empyrical
 envapor 1
 essayed
