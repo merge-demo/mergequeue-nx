@@ -4304,7 +4304,7 @@ excerpts
 effectible
 edifyingly
 en
-enjoined
+enjoined 1
 extirpation
 epicarides
 ejectment
