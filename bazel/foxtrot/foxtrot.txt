@@ -6864,7 +6864,7 @@ foliot
 floribunda
 fasces
 forthby
-ferritungstite
+ferritungstite 1
 fattiest 1
 farewell
 fiery
