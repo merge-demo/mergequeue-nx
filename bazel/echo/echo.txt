@@ -12871,7 +12871,7 @@ escropulo
 erotopathic
 erethisms
 exsert
-endamoeba
+endamoeba 1
 expandedly
 engrace
 endsheet
