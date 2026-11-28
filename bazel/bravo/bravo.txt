@@ -10998,7 +10998,7 @@ bonnily
 baccilla
 bawbee
 bumblingly 1
-belikely
+belikely 1
 baalitical
 bribemonger
 blackface
