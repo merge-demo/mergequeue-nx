@@ -2032,7 +2032,7 @@ amidoxy
 achagua 1
 amoret
 apsychical
-apocope
+apocope 1
 achalasia
 anolis
 apperceptively
