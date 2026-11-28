@@ -1726,7 +1726,7 @@ endangium
 exsanguination
 enginery
 engrammatic
-exasper
+exasper 1
 exclaimers
 exonerated
 epacmaic
