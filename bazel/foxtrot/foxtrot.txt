@@ -11449,7 +11449,7 @@ fistinut 1
 fluorbenzene
 fideles
 flic
-frayedly
+frayedly 1
 furcule 1
 flaffer
 furfurylidene 1
